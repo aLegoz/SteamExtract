@@ -690,3 +690,406 @@ Genres: Action, Free To Play
 Link: https://store.steampowered.com/app/4163450
 ==================================================
 
+
+--- Run: 2026-04-14 20:59:53 --- (50 new game(s) found)
+
+==================================================
+Name: Counter-Strike 2
+Release Date: Aug 21, 2012
+Price: Free to Play
+Genres: Action, Free To Play
+Link: https://store.steampowered.com/app/730
+==================================================
+
+==================================================
+Name: Crimson Desert
+Release Date: Mar 19, 2026
+Price: $69.99
+Genres: Action, Adventure
+Link: https://store.steampowered.com/app/3321460
+==================================================
+
+==================================================
+Name: Warframe
+Release Date: Mar 25, 2013
+Price: Free to Play
+Genres: Action, RPG, Free To Play
+Link: https://store.steampowered.com/app/230410
+==================================================
+
+==================================================
+Name: Slay the Spire 2
+Release Date: Mar 5, 2026
+Price: $24.99
+Genres: Indie, Strategy, Early Access
+Link: https://store.steampowered.com/app/2868840
+==================================================
+
+==================================================
+Name: Apex Legends™
+Release Date: Nov 4, 2020
+Price: Free to Play
+Genres: Action, Adventure, Free To Play
+Link: https://store.steampowered.com/app/1172470
+==================================================
+
+==================================================
+Name: ARC Raiders
+Release Date: Oct 30, 2025
+Price: $39.99
+Genres: Action
+Link: https://store.steampowered.com/app/1808500
+==================================================
+
+==================================================
+Name: Resident Evil 4
+Release Date: Mar 23, 2023
+Price: $15.99 (-60%, was $39.99)
+Genres: Action, Adventure
+Link: https://store.steampowered.com/app/2050650
+==================================================
+
+==================================================
+Name: Marvel Rivals
+Release Date: Dec 5, 2024
+Price: Free to Play
+Genres: Action, Free To Play
+Link: https://store.steampowered.com/app/2767030
+==================================================
+
+==================================================
+Name: War Thunder
+Release Date: Aug 15, 2013
+Price: Free to Play
+Genres: Action, Massively Multiplayer, Simulation, Free To Play
+Link: https://store.steampowered.com/app/236390
+==================================================
+
+==================================================
+Name: Rust
+Release Date: Feb 8, 2018
+Price: $39.99
+Genres: Action, Adventure, Indie, Massively Multiplayer, RPG
+Link: https://store.steampowered.com/app/252490
+==================================================
+
+==================================================
+Name: Dead by Daylight
+Release Date: Jun 14, 2016
+Price: $19.99
+Genres: Action
+Link: https://store.steampowered.com/app/381210
+==================================================
+
+==================================================
+Name: Resident Evil Requiem
+Release Date: Feb 26, 2026
+Price: $69.99
+Genres: Action, Adventure
+Link: https://store.steampowered.com/app/3764200
+==================================================
+
+==================================================
+Name: Tom Clancy's Rainbow Six Siege
+Release Date: Dec 1, 2015
+Price: Free to Play
+Genres: Action, Free To Play
+Link: https://store.steampowered.com/app/359550
+==================================================
+
+==================================================
+Name: HELLDIVERS™ 2
+Release Date: Feb 8, 2024
+Price: $39.99
+Genres: Action
+Link: https://store.steampowered.com/app/553850
+==================================================
+
+==================================================
+Name: Grand Theft Auto V Enhanced
+Release Date: Mar 4, 2025
+Price: $29.99
+Genres: Action, Adventure, Racing
+Link: https://store.steampowered.com/app/3240220
+==================================================
+
+==================================================
+Name: Gray Zone Warfare
+Release Date: Apr 30, 2024
+Price: $39.99
+Genres: Action, Massively Multiplayer, Simulation, Early Access
+Link: https://store.steampowered.com/app/2479810
+==================================================
+
+==================================================
+Name: PUBG: BATTLEGROUNDS
+Release Date: Dec 21, 2017
+Price: Free to Play
+Genres: Action, Adventure, Massively Multiplayer, Free To Play
+Link: https://store.steampowered.com/app/578080
+==================================================
+
+==================================================
+Name: Fallout 76
+Release Date: Apr 14, 2020
+Price: $39.99
+Genres: RPG
+Link: https://store.steampowered.com/app/1151340
+==================================================
+
+==================================================
+Name: NBA 2K26
+Release Date: Sep 4, 2025
+Price: $69.99
+Genres: Sports
+Link: https://store.steampowered.com/app/3472040
+==================================================
+
+==================================================
+Name: Warhammer 40,000: Space Marine 2
+Release Date: Sep 9, 2024
+Price: $19.79 (-67%, was $59.99)
+Genres: Action, Adventure, RPG
+Link: https://store.steampowered.com/app/2183900
+==================================================
+
+==================================================
+Name: GUILTY GEAR -STRIVE-
+Release Date: Jun 11, 2021
+Price: $19.99 (-50%, was $39.99)
+Genres: Action
+Link: https://store.steampowered.com/app/1384160
+==================================================
+
+==================================================
+Name: The Elder Scrolls® Online
+Release Date: May 22, 2017
+Price: $19.99
+Genres: Action, Adventure, Massively Multiplayer, RPG
+Link: https://store.steampowered.com/app/306130
+==================================================
+
+==================================================
+Name: Baldur's Gate 3
+Release Date: Aug 3, 2023
+Price: $59.99
+Genres: Adventure, RPG, Strategy
+Link: https://store.steampowered.com/app/1086940
+==================================================
+
+==================================================
+Name: ELDEN RING
+Release Date: Feb 24, 2022
+Price: $59.99
+Genres: Action, RPG
+Link: https://store.steampowered.com/app/1245620
+==================================================
+
+==================================================
+Name: Ready or Not
+Release Date: Dec 13, 2023
+Price: $49.99
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/1144200
+==================================================
+
+==================================================
+Name: No Man's Sky
+Release Date: Aug 12, 2016
+Price: $23.99 (-60%, was $59.99)
+Genres: Action, Adventure
+Link: https://store.steampowered.com/app/275850
+==================================================
+
+==================================================
+Name: Kerbal Space Program
+Release Date: Apr 27, 2015
+Price: $39.99
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/220200
+==================================================
+
+==================================================
+Name: ARK: Survival Ascended
+Release Date: Oct 25, 2023
+Price: $11.24 (-75%, was $44.99)
+Genres: Action, Adventure, Indie, Massively Multiplayer, RPG, Early Access
+Link: https://store.steampowered.com/app/2399830
+==================================================
+
+==================================================
+Name: Where Winds Meet
+Release Date: Nov 14, 2025
+Price: Free to Play
+Genres: Action, Adventure, RPG, Free To Play
+Link: https://store.steampowered.com/app/3564740
+==================================================
+
+==================================================
+Name: Resident Evil 7 Biohazard
+Release Date: Jan 23, 2017
+Price: $7.99 (-60%, was $19.99)
+Genres: Action, Adventure
+Link: https://store.steampowered.com/app/418370
+==================================================
+
+==================================================
+Name: Super Battle Golf
+Release Date: Feb 19, 2026
+Price: $7.99
+Genres: Casual, Indie, Sports
+Link: https://store.steampowered.com/app/4069520
+==================================================
+
+==================================================
+Name: Schedule I
+Release Date: Mar 24, 2025
+Price: $19.99
+Genres: Action, Indie, Simulation, Strategy, Early Access
+Link: https://store.steampowered.com/app/3164500
+==================================================
+
+==================================================
+Name: Retro Rewind - Video Store Simulator
+Release Date: Mar 17, 2026
+Price: $19.90
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/3552140
+==================================================
+
+==================================================
+Name: Monster Hunter Wilds
+Release Date: Feb 27, 2025
+Price: $38.49 (-45%, was $69.99)
+Genres: Action, Adventure, RPG
+Link: https://store.steampowered.com/app/2246340
+==================================================
+
+==================================================
+Name: Soulmask
+Release Date: Apr 9, 2026
+Price: $26.99 (-10%, was $29.99)
+Genres: Adventure, Indie, RPG, Simulation, Free To Play
+Link: https://store.steampowered.com/app/2646460
+==================================================
+
+==================================================
+Name: Black Desert
+Release Date: May 24, 2017
+Price: $9.99
+Genres: Action, Adventure, Massively Multiplayer, RPG, Strategy
+Link: https://store.steampowered.com/app/582660
+==================================================
+
+==================================================
+Name: Magic: The Gathering Arena
+Release Date: May 23, 2023
+Price: Free to Play
+Genres: Strategy, Free To Play
+Link: https://store.steampowered.com/app/2141910
+==================================================
+
+==================================================
+Name: VRChat
+Release Date: Feb 1, 2017
+Price: Free to Play
+Genres: Adventure, Casual, Massively Multiplayer, Simulation, Sports, Free To Play, Early Access
+Link: https://store.steampowered.com/app/438100
+==================================================
+
+==================================================
+Name: DEATH STRANDING 2: ON THE BEACH
+Release Date: Mar 19, 2026
+Price: $69.99
+Genres: Action, Adventure
+Link: https://store.steampowered.com/app/3280350
+==================================================
+
+==================================================
+Name: Starfield
+Release Date: Sep 5, 2023
+Price: $49.99
+Genres: RPG
+Link: https://store.steampowered.com/app/1716740
+==================================================
+
+==================================================
+Name: Tom Clancy’s The Division® 2
+Release Date: Jan 12, 2023
+Price: $29.99
+Genres: Action, Adventure, RPG
+Link: https://store.steampowered.com/app/2221490
+==================================================
+
+==================================================
+Name: Overwatch®
+Release Date: Aug 10, 2023
+Price: Free to Play
+Genres: Action, Free To Play
+Link: https://store.steampowered.com/app/2357570
+==================================================
+
+==================================================
+Name: Risk of Rain 2
+Release Date: Aug 11, 2020
+Price: $8.24 (-67%, was $24.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/632360
+==================================================
+
+==================================================
+Name: FINAL FANTASY XIV Online
+Release Date: Feb 18, 2014
+Price: $19.99
+Genres: Massively Multiplayer, RPG
+Link: https://store.steampowered.com/app/39210
+==================================================
+
+==================================================
+Name: Wuthering Waves
+Release Date: Apr 28, 2025
+Price: Free to Play
+Genres: Action, Adventure, RPG, Free To Play
+Link: https://store.steampowered.com/app/3513350
+==================================================
+
+==================================================
+Name: MapleStory
+Release Date: Aug 9, 2012
+Price: Free to Play
+Genres: Action, Adventure, Casual, Massively Multiplayer, RPG, Free To Play
+Link: https://store.steampowered.com/app/216150
+==================================================
+
+==================================================
+Name: theHunter: Call of the Wild™
+Release Date: Feb 16, 2017
+Price: $1.99 (-90%, was $19.99)
+Genres: Adventure, Simulation, Sports
+Link: https://store.steampowered.com/app/518790
+==================================================
+
+==================================================
+Name: The Sims™ 4
+Release Date: Jun 18, 2020
+Price: Free to Play
+Genres: Adventure, Casual, Simulation, Free To Play
+Link: https://store.steampowered.com/app/1222670
+==================================================
+
+==================================================
+Name: Team Fortress 2
+Release Date: Oct 10, 2007
+Price: Free to Play
+Genres: Action, Free To Play
+Link: https://store.steampowered.com/app/440
+==================================================
+
+==================================================
+Name: PEAK
+Release Date: Jun 16, 2025
+Price: $4.95 (-38%, was $7.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/3527290
+==================================================
+
