@@ -72,7 +72,7 @@ def send_discord(games):
             "title": g["name"],
             "url": f"https://store.steampowered.com/app/{g['app_id']}",
             "color": 0x1b2838,
-            "image": {"url": f"https://cdn.akamai.steamstatic.com/steam/apps/{g['app_id']}/header.jpg"},
+            **({"image": {"url": g["header_image"]}} if g.get("header_image") else {}),
             "fields": [
                 {"name": "Release Date", "value": g["release_date"], "inline": True},
                 {"name": "Price",        "value": g["price"],        "inline": True},
@@ -130,11 +130,13 @@ def main():
 
         release_date = "Unknown"
         genres = "Unknown"
+        header_image = None
         if details:
             release_date = details.get("release_date", {}).get("date", "Unknown")
             genre_list = details.get("genres", [])
             if genre_list:
                 genres = ", ".join(g["description"] for g in genre_list)
+            header_image = details.get("header_image")
 
         games.append({
             "name": item.get("name", "Unknown"),
@@ -142,6 +144,7 @@ def main():
             "release_date": release_date,
             "price": format_price(item),
             "genres": genres,
+            "header_image": header_image,
         })
 
     now = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
