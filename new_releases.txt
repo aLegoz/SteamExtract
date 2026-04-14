@@ -1093,3 +1093,22 @@ Genres: Action, Adventure, Indie
 Link: https://store.steampowered.com/app/3527290
 ==================================================
 
+
+--- Run: 2026-04-14 21:40:16 --- (2 new game(s) found)
+
+==================================================
+Name: Hades II
+Release Date: Sep 25, 2025
+Price: $23.99 (-20%, was $29.99)
+Genres: Action, Indie, RPG
+Link: https://store.steampowered.com/app/1145350
+==================================================
+
+==================================================
+Name: Farming Simulator 25
+Release Date: Nov 12, 2024
+Price: $23.99 (-20%, was $29.99)
+Genres: Simulation
+Link: https://store.steampowered.com/app/2300320
+==================================================
+
