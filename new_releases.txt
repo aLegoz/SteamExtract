@@ -484,3 +484,14 @@ Genres: Action
 Link: https://store.steampowered.com/app/2721340
 ==================================================
 
+
+--- Run: 2026-04-14 20:35:16 --- (1 new game(s) found)
+
+==================================================
+Name: Artifact Hunt: Yao
+Release Date: Apr 14, 2026
+Price: $5.10 (-15%, was $6.00)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4159190
+==================================================
+
