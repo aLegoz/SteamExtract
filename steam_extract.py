@@ -132,6 +132,9 @@ def main():
         genres = "Unknown"
         header_image = None
         if details:
+            if details.get("type", "game") != "game":
+                print(f"  Skipping {item.get('name')} (type: {details.get('type')})")
+                continue
             release_date = details.get("release_date", {}).get("date", "Unknown")
             genre_list = details.get("genres", [])
             if genre_list:
