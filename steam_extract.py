@@ -4,7 +4,7 @@ import sys
 import time
 import urllib.request
 import urllib.parse
-from datetime import datetime
+from datetime import datetime, timezone
 
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 SEEN_FILE = os.path.join(SCRIPT_DIR, "seen_games.json")
@@ -78,7 +78,7 @@ def send_discord(games):
                 {"name": "Genres",       "value": g["genres"],       "inline": False},
             ],
             "footer": {"text": "SteamExtract"},
-            "timestamp": datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ"),
+            "timestamp": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
         }
         payload = json.dumps({"embeds": [embed]}).encode("utf-8")
         req = urllib.request.Request(
@@ -171,4 +171,7 @@ def main():
 
 if __name__ == "__main__":
     main()
-    input("\nНажмите Enter для выхода...")
+    try:
+        input("\nНажмите Enter для выхода...")
+    except (EOFError, KeyboardInterrupt):
+        pass
