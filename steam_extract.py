@@ -1,5 +1,6 @@
 import json
 import os
+import re
 import sys
 import time
 import urllib.request
@@ -10,7 +11,7 @@ SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 SEEN_FILE = os.path.join(SCRIPT_DIR, "seen_games.json")
 OUTPUT_FILE = os.path.join(SCRIPT_DIR, "new_releases.txt")
 
-FEATURED_URL = "https://store.steampowered.com/api/featuredcategories/"
+SEARCH_URL = "https://store.steampowered.com/search/results/"
 DETAILS_URL = "https://store.steampowered.com/api/appdetails"
 
 DISCORD_WEBHOOK_URL = os.environ.get("DISCORD_WEBHOOK_URL", "")
@@ -35,9 +36,25 @@ def save_seen(seen):
         json.dump(seen, f, indent=2, ensure_ascii=False)
 
 
+def parse_app_id(item):
+    logo = item.get("logo", "")
+    match = re.search(r"/apps/(\d+)/", logo)
+    return int(match.group(1)) if match else None
+
+
 def fetch_new_releases():
-    data = get_json(FEATURED_URL, {"cc": "us", "l": "english"})
-    return data.get("new_releases", {}).get("items", [])
+    data = get_json(SEARCH_URL, {
+        "filter": "popularnew",
+        "count": 50,
+        "json": 1,
+        "cc": "us",
+        "l": "english",
+    })
+    items = data.get("items", [])
+    # attach parsed app_id to each item for downstream use
+    for item in items:
+        item["id"] = parse_app_id(item)
+    return [item for item in items if item["id"] is not None]
 
 
 def fetch_app_details(app_id):
@@ -51,16 +68,18 @@ def fetch_app_details(app_id):
     return None
 
 
-def format_price(item):
-    if item.get("discount_percent", 0) > 0:
-        original = item.get("original_price", 0) / 100
-        final = item.get("final_price", 0) / 100
-        discount = item["discount_percent"]
-        return f"${final:.2f} (-{discount}%, was ${original:.2f})"
-    final = item.get("final_price", 0)
-    if final == 0:
+def format_price(details):
+    if not details:
+        return "Unknown"
+    price_data = details.get("price_overview")
+    if not price_data:
         return "Free to Play"
-    return f"${final / 100:.2f}"
+    if price_data.get("discount_percent", 0) > 0:
+        original = price_data.get("initial", 0) / 100
+        final = price_data.get("final", 0) / 100
+        discount = price_data["discount_percent"]
+        return f"${final:.2f} (-{discount}%, was ${original:.2f})"
+    return f"${price_data.get('final', 0) / 100:.2f}"
 
 
 def send_discord(games):
@@ -145,7 +164,7 @@ def main():
             "name": item.get("name", "Unknown"),
             "app_id": app_id,
             "release_date": release_date,
-            "price": format_price(item),
+            "price": format_price(details),
             "genres": genres,
             "header_image": header_image,
         })
@@ -179,6 +198,6 @@ def main():
 if __name__ == "__main__":
     main()
     try:
-        input("\nНажмите Enter для выхода...")
+        input("\nPress Enter to exit...")
     except (EOFError, KeyboardInterrupt):
         pass
