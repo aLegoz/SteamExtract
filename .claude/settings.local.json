@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(pip install:*)",
+      "Bash(python steam_extract.py)",
+      "Bash(python -c \"import json; d=json.load\\(open\\('seen_games.json'\\)\\); print\\(f'{len\\(d\\)} games tracked'\\)\")",
+      "Bash(py -m pip install requests)",
+      "Bash(py steam_extract.py)",
+      "Bash(py -c \"import sys; print\\(sys.executable\\)\")",
+      "Bash(\"C:\\\\Users\\\\achek\\\\AppData\\\\Local\\\\Python\\\\pythoncore-3.14-64\\\\python.exe\" -m pip install requests)",
+      "Bash(\"C:\\\\Users\\\\achek\\\\AppData\\\\Local\\\\Python\\\\pythoncore-3.14-64\\\\python.exe\" -c \"import requests; print\\('OK', requests.__version__\\)\")",
+      "Bash(py --list)",
+      "Bash(gh auth:*)"
+    ]
+  }
+}
