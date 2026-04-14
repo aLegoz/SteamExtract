@@ -13,13 +13,6 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Restore seen games cache
-        uses: actions/cache@v4
-        with:
-          path: seen_games.json
-          key: seen-games-${{ github.run_id }}
-          restore-keys: seen-games-
-
       - name: Run SteamExtract
         env:
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
