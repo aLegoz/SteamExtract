@@ -2,8 +2,8 @@ name: Steam New Releases
 
 on:
   schedule:
-    - cron: "0 */6 * * *"   # каждые 6 часов
-  workflow_dispatch:          # запуск вручную из GitHub
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
 
 jobs:
   check:
@@ -25,7 +25,7 @@ jobs:
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
         run: python steam_extract.py
 
-      - name: Commit new_releases.txt
+      - name: Commit results
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
