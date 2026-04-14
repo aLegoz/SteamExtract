@@ -72,6 +72,7 @@ def send_discord(games):
             "title": g["name"],
             "url": f"https://store.steampowered.com/app/{g['app_id']}",
             "color": 0x1b2838,
+            "image": {"url": f"https://cdn.akamai.steamstatic.com/steam/apps/{g['app_id']}/header.jpg"},
             "fields": [
                 {"name": "Release Date", "value": g["release_date"], "inline": True},
                 {"name": "Price",        "value": g["price"],        "inline": True},
