@@ -1,9 +1,12 @@
-"""Test CMsgFSGetFollowerCount via direct CM message"""
-import json, os
+"""Test CMsgFSGetFollowerCount - fixed body init + correct clan steamid"""
+import json, os, gevent
 from steam.client import SteamClient
 from steam.enums import EResult
 from steam.enums.emsg import EMsg
 from steam.core.msg import MsgProto
+from steam.protobufs.steammessages_clientserver_2_pb2 import (
+    CMsgFSGetFollowerCount, CMsgFSGetFollowerCountResponse
+)
 
 TEST_APPID = 3041230
 STEAM_USER = os.environ.get("STEAM_USER", "")
@@ -18,96 +21,107 @@ if STEAM_USER and STEAM_PASS:
 else:
     client.anonymous_login(); print("Anonymous")
 
+def get_follower_count(steam_id):
+    """Send CMsgFSGetFollowerCount and wait for response."""
+    msg = MsgProto(EMsg.ClientFSGetFollowerCount)
+    # Override body with correct proto type
+    proto_body = CMsgFSGetFollowerCount()
+    proto_body.steam_id = steam_id
+    msg.body = proto_body
+
+    # Use send_job + wait_event pattern
+    jobid = client.send_job(msg)
+    resp = client.wait_event(jobid, timeout=10)
+    return resp
+
 def show(label): print(f"\n{'='*50}\n=== {label} ===")
 
-# --- Find EMsg for FSGetFollowerCount ---
-show("EMsg for FS follower count")
+# --- First get the creator_clan_account_id via StoreBrowse ---
+show("Get creator_clan_account_id from StoreBrowse")
+creator_clan_id = None
 try:
-    # Search EMsg enum for follower-related values
-    for name, val in EMsg.__members__.items():
-        if "follow" in name.lower() or "FS" in name:
-            print(f"  EMsg.{name} = {val}")
+    resp = client.send_um_and_wait("StoreBrowse.GetItems#1", {
+        "ids": [{"appid": TEST_APPID}],
+        "context": {"language": "english", "country_code": "US", "steam_realm": 1},
+        "data_request": {"include_basic_info": True}
+    }, timeout=10)
+    if resp and resp.body.store_items:
+        item = resp.body.store_items[0]
+        for pub in item.basic_info.publishers:
+            print(f"  publisher: {pub.name}, clan_id={pub.creator_clan_account_id}")
+            if pub.creator_clan_account_id:
+                creator_clan_id = pub.creator_clan_account_id
+        for dev in item.basic_info.developers:
+            print(f"  developer: {dev.name}, clan_id={dev.creator_clan_account_id}")
+            if dev.creator_clan_account_id and not creator_clan_id:
+                creator_clan_id = dev.creator_clan_account_id
 except Exception as e:
     print(f"  error: {e}")
 
-# --- CMsgFSGetFollowerCount ---
-show("CMsgFSGetFollowerCount - direct CM message")
-try:
-    from steam.protobufs.steammessages_clientserver_2_pb2 import (
-        CMsgFSGetFollowerCount, CMsgFSGetFollowerCountResponse
-    )
-    # SteamID for game community: clan type, account_id = ?
-    # Try different steam_id formats for the app
+# Build full clan SteamID (type=7, universe=1)
+def to_clan_steamid(account_id):
+    return (1 << 56) | (7 << 52) | (0 << 32) | account_id
 
-    # Method 1: Use appid directly as steamid (wrong but let's see)
-    # Method 2: Build a proper clan SteamID
-    # Clan SteamID: universe=1, type=7(Clan), instance=0, account_id
-    # format: ((1 << 56) | (7 << 52) | (0 << 32) | account_id)
-    # For games, their community group often has account_id = appid
-
-    clan_steamid = (1 << 56) | (7 << 52) | (0 << 32) | TEST_APPID
-    print(f"  Trying clan steamid: {clan_steamid}")
-
-    # Find EMsg value
-    emsg_req = None
-    emsg_resp = None
-    for name, val in EMsg.__members__.items():
-        if "FSGetFollowerCount" in name:
-            print(f"  Found EMsg: {name} = {val}")
-            if "Response" in name:
-                emsg_resp = val
-            else:
-                emsg_req = val
-
-    if emsg_req is None:
-        # Try to find it by searching
-        print("  EMsg not found by name, trying common values...")
-        # ClientFSGetFollowerCount is around EMsg 796
-        for test_emsg in [796, 797, 780, 781]:
-            try:
-                e = EMsg(test_emsg)
-                print(f"  EMsg({test_emsg}) = {e.name}")
-            except:
-                pass
-
-    # Try with send_job - uses job system
-    import gevent
-
-    result_event = gevent.event.AsyncResult()
-    def on_response(msg):
-        result_event.set(msg)
-
-    # Build and send the message
-    msg = MsgProto(EMsg.ClientFSGetFollowerCount if hasattr(EMsg, 'ClientFSGetFollowerCount') else EMsg(796))
-    msg.body.steam_id = clan_steamid
-    print(f"  Sending with steamid={clan_steamid}...")
-
-    jobid = client.send_job(msg)
-    resp = client.wait_event(jobid, timeout=10)
+# --- Try FSGetFollowerCount with clan steamid ---
+show(f"CMsgFSGetFollowerCount - creator clan (id={creator_clan_id})")
+if creator_clan_id:
+    clan_steamid = to_clan_steamid(creator_clan_id)
+    print(f"  steamid64={clan_steamid}")
+    resp = get_follower_count(clan_steamid)
     if resp:
-        print(f"  Response: {resp}")
-        print(f"  Response type: {type(resp)}")
-        if hasattr(resp[0], 'body'):
-            print(f"  Body: {resp[0].body}")
+        r = resp[0]
+        try:
+            body = CMsgFSGetFollowerCountResponse()
+            body.ParseFromString(r.body.SerializeToString() if hasattr(r.body, 'SerializeToString') else b'')
+            print(f"  eresult={body.eresult}, count={body.count}")
+        except:
+            print(f"  raw resp: {resp}")
     else:
-        print("  No response (timeout)")
+        print("  timeout/no response")
 
+# --- Try with appid interpreted as account_id (game clan) ---
+show(f"CMsgFSGetFollowerCount - game clan appid={TEST_APPID}")
+game_clan_steamid = to_clan_steamid(TEST_APPID)
+print(f"  steamid64={game_clan_steamid}")
+resp = get_follower_count(game_clan_steamid)
+if resp:
+    print(f"  got response: {resp}")
+else:
+    print("  timeout/no response")
+
+# --- Try with raw appid ---
+show(f"CMsgFSGetFollowerCount - raw appid")
+resp = get_follower_count(TEST_APPID)
+if resp:
+    print(f"  got response: {resp}")
+else:
+    print("  timeout/no response")
+
+# --- Check event system: wait for FSGetFollowerCountResponse ---
+show("Direct send + on_event approach")
+try:
+    result_holder = []
+    def on_fs_resp(msg):
+        result_holder.append(msg)
+
+    client.on(EMsg.ClientFSGetFollowerCountResponse, on_fs_resp)
+
+    msg = MsgProto(EMsg.ClientFSGetFollowerCount)
+    proto_body = CMsgFSGetFollowerCount()
+    proto_body.steam_id = to_clan_steamid(creator_clan_id) if creator_clan_id else TEST_APPID
+    msg.body = proto_body
+    client.send(msg)
+
+    gevent.sleep(5)
+
+    if result_holder:
+        print(f"  Got response!")
+        for r in result_holder:
+            print(f"  {r}")
+    else:
+        print("  No response after 5 seconds")
 except Exception as e:
     print(f"  {type(e).__name__}: {e}")
     import traceback; traceback.print_exc()
-
-# --- Also try with appid directly as steam_id ---
-show("CMsgFSGetFollowerCount - appid as steamid")
-try:
-    msg = MsgProto(EMsg.ClientFSGetFollowerCount if hasattr(EMsg, 'ClientFSGetFollowerCount') else EMsg(796))
-    msg.body.steam_id = TEST_APPID
-    jobid = client.send_job(msg)
-    resp = client.wait_event(jobid, timeout=10)
-    if resp:
-        print(f"  Body: {resp[0].body if hasattr(resp[0], 'body') else resp}")
-    else:
-        print("  No response (timeout)")
-except Exception as e:
-    print(f"  {type(e).__name__}: {e}")
 
 client.disconnect()
