@@ -1131,3 +1131,14 @@ Genres: RPG
 Link: https://store.steampowered.com/app/1091500
 ==================================================
 
+
+--- Run: 2026-04-15 04:35:47 --- (1 new game(s) found)
+
+==================================================
+Name: THE FINALS
+Release Date: Dec 7, 2023
+Price: Free to Play
+Genres: Action, Free To Play
+Link: https://store.steampowered.com/app/2073850
+==================================================
+
