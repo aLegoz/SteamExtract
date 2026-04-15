@@ -1,5 +1,5 @@
-"""Test CMsgFSGetFollowerCount - fixed body init + correct clan steamid"""
-import json, os, gevent
+"""Find the right steam_id for game follower count"""
+import os, gevent
 from steam.client import SteamClient
 from steam.enums import EResult
 from steam.enums.emsg import EMsg
@@ -21,24 +21,57 @@ if STEAM_USER and STEAM_PASS:
 else:
     client.anonymous_login(); print("Anonymous")
 
-def get_follower_count(steam_id):
-    """Send CMsgFSGetFollowerCount and wait for response."""
+def get_follower_count(steam_id, label=""):
+    """Send CMsgFSGetFollowerCount and get count via event."""
+    result_holder = []
+    ev = gevent.event.Event()
+
+    def on_resp(msg):
+        result_holder.append(msg)
+        ev.set()
+
+    client.once(EMsg.ClientFSGetFollowerCountResponse, on_resp)
+
     msg = MsgProto(EMsg.ClientFSGetFollowerCount)
-    # Override body with correct proto type
     proto_body = CMsgFSGetFollowerCount()
     proto_body.steam_id = steam_id
     msg.body = proto_body
+    client.send(msg)
 
-    # Use send_job + wait_event pattern
-    jobid = client.send_job(msg)
-    resp = client.wait_event(jobid, timeout=10)
-    return resp
+    ev.wait(timeout=5)
+
+    if result_holder:
+        raw = result_holder[0].body
+        try:
+            resp_body = CMsgFSGetFollowerCountResponse()
+            if hasattr(raw, 'SerializeToString'):
+                resp_body.ParseFromString(raw.SerializeToString())
+            else:
+                # raw might be bytes
+                resp_body.ParseFromString(bytes(raw))
+            return resp_body.eresult, resp_body.count
+        except Exception as e:
+            return None, f"parse error: {e} / raw={bytes(raw)[:20] if hasattr(raw, '__bytes__') else raw}"
+    return None, "timeout"
 
 def show(label): print(f"\n{'='*50}\n=== {label} ===")
 
-# --- First get the creator_clan_account_id via StoreBrowse ---
-show("Get creator_clan_account_id from StoreBrowse")
-creator_clan_id = None
+def to_clan_steamid(account_id):
+    return (1 << 56) | (7 << 52) | (0 << 32) | account_id
+
+# --- Validate: GabeN should have many followers ---
+show("GabeN user steamid (should have followers)")
+gaben_steamid = 76561197960287930
+eresult, count = get_follower_count(gaben_steamid, "GabeN")
+print(f"  eresult={eresult}, count={count}")
+
+# --- Windrose appid as-is (not valid SteamID but let's see) ---
+show("Windrose appid raw")
+eresult, count = get_follower_count(TEST_APPID)
+print(f"  eresult={eresult}, count={count}")
+
+# --- All publisher/developer clan_ids from StoreBrowse ---
+show("Get all clan_ids from StoreBrowse + try each")
 try:
     resp = client.send_um_and_wait("StoreBrowse.GetItems#1", {
         "ids": [{"appid": TEST_APPID}],
@@ -47,81 +80,38 @@ try:
     }, timeout=10)
     if resp and resp.body.store_items:
         item = resp.body.store_items[0]
+        clan_ids = set()
         for pub in item.basic_info.publishers:
-            print(f"  publisher: {pub.name}, clan_id={pub.creator_clan_account_id}")
-            if pub.creator_clan_account_id:
-                creator_clan_id = pub.creator_clan_account_id
+            cid = pub.creator_clan_account_id
+            print(f"  Publisher {pub.name}: clan_account_id={cid}")
+            if cid: clan_ids.add(cid)
         for dev in item.basic_info.developers:
-            print(f"  developer: {dev.name}, clan_id={dev.creator_clan_account_id}")
-            if dev.creator_clan_account_id and not creator_clan_id:
-                creator_clan_id = dev.creator_clan_account_id
+            cid = dev.creator_clan_account_id
+            print(f"  Developer {dev.name}: clan_account_id={cid}")
+            if cid: clan_ids.add(cid)
+        print(f"\n  Testing {len(clan_ids)} clan(s):")
+        for cid in clan_ids:
+            steamid = to_clan_steamid(cid)
+            eresult, count = get_follower_count(steamid)
+            print(f"    clan_id={cid} steamid={steamid} -> eresult={eresult}, count={count}")
 except Exception as e:
     print(f"  error: {e}")
 
-# Build full clan SteamID (type=7, universe=1)
-def to_clan_steamid(account_id):
-    return (1 << 56) | (7 << 52) | (0 << 32) | account_id
-
-# --- Try FSGetFollowerCount with clan steamid ---
-show(f"CMsgFSGetFollowerCount - creator clan (id={creator_clan_id})")
-if creator_clan_id:
-    clan_steamid = to_clan_steamid(creator_clan_id)
-    print(f"  steamid64={clan_steamid}")
-    resp = get_follower_count(clan_steamid)
-    if resp:
-        r = resp[0]
-        try:
-            body = CMsgFSGetFollowerCountResponse()
-            body.ParseFromString(r.body.SerializeToString() if hasattr(r.body, 'SerializeToString') else b'')
-            print(f"  eresult={body.eresult}, count={body.count}")
-        except:
-            print(f"  raw resp: {resp}")
-    else:
-        print("  timeout/no response")
-
-# --- Try with appid interpreted as account_id (game clan) ---
-show(f"CMsgFSGetFollowerCount - game clan appid={TEST_APPID}")
-game_clan_steamid = to_clan_steamid(TEST_APPID)
-print(f"  steamid64={game_clan_steamid}")
-resp = get_follower_count(game_clan_steamid)
-if resp:
-    print(f"  got response: {resp}")
-else:
-    print("  timeout/no response")
-
-# --- Try with raw appid ---
-show(f"CMsgFSGetFollowerCount - raw appid")
-resp = get_follower_count(TEST_APPID)
-if resp:
-    print(f"  got response: {resp}")
-else:
-    print("  timeout/no response")
-
-# --- Check event system: wait for FSGetFollowerCountResponse ---
-show("Direct send + on_event approach")
+# --- Try get_product_info for any community-related fields ---
+show("get_product_info - look for community/clan ids")
 try:
-    result_holder = []
-    def on_fs_resp(msg):
-        result_holder.append(msg)
-
-    client.on(EMsg.ClientFSGetFollowerCountResponse, on_fs_resp)
-
-    msg = MsgProto(EMsg.ClientFSGetFollowerCount)
-    proto_body = CMsgFSGetFollowerCount()
-    proto_body.steam_id = to_clan_steamid(creator_clan_id) if creator_clan_id else TEST_APPID
-    msg.body = proto_body
-    client.send(msg)
-
-    gevent.sleep(5)
-
-    if result_holder:
-        print(f"  Got response!")
-        for r in result_holder:
-            print(f"  {r}")
-    else:
-        print("  No response after 5 seconds")
+    info = client.get_product_info(apps=[TEST_APPID])
+    common = info.get("apps", {}).get(TEST_APPID, {}).get("common", {})
+    # Print fields that might contain community/clan info
+    for key in sorted(common.keys()):
+        val = str(common[key])
+        if any(kw in key.lower() for kw in ["community", "clan", "group", "hub", "page", "steam_id"]):
+            print(f"  {key}: {val}")
+    # Also print gameid, steam_release_date for reference
+    for key in ["gameid", "community_hub_visible", "community_visible_stats"]:
+        if key in common:
+            print(f"  {key}: {common[key]}")
 except Exception as e:
-    print(f"  {type(e).__name__}: {e}")
-    import traceback; traceback.print_exc()
+    print(f"  error: {e}")
 
 client.disconnect()
