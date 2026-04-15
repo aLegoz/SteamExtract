@@ -1,4 +1,4 @@
-"""Find official game group clan_id via ResolveVanityURL + inspect CStoreItem fields"""
+"""Find game clan_id via associations + ResolveVanityURL"""
 import os, gevent, urllib.request, urllib.parse, json
 from steam.client import SteamClient
 from steam.enums import EResult
@@ -39,69 +39,91 @@ def get_follower_count(steam_id):
     if result_holder:
         raw = result_holder[0].payload
         if raw:
-            resp_proto = CMsgFSGetFollowerCountResponse()
-            resp_proto.ParseFromString(raw)
-            return resp_proto.eresult, resp_proto.count
+            r = CMsgFSGetFollowerCountResponse()
+            r.ParseFromString(raw)
+            return r.eresult, r.count
     return None, "timeout"
 
 def get_json(url, params={}):
-    full_url = url + "?" + urllib.parse.urlencode(params)
-    req = urllib.request.Request(full_url, headers={"User-Agent": "SteamExtract/1.0"})
-    with urllib.request.urlopen(req, timeout=10) as resp:
-        return json.loads(resp.read().decode("utf-8"))
+    try:
+        full_url = url + "?" + urllib.parse.urlencode(params)
+        req = urllib.request.Request(full_url, headers={"User-Agent": "SteamExtract/1.0"})
+        with urllib.request.urlopen(req, timeout=10) as resp:
+            return json.loads(resp.read().decode("utf-8"))
+    except Exception as e:
+        return {"error": str(e)}
 
 def show(label): print(f"\n{'='*50}\n=== {label} ===")
 def to_clan_steamid(account_id):
     return (1 << 56) | (7 << 52) | (0 << 32) | account_id
 
-# --- Try ResolveVanityURL for game groups ---
-show("ResolveVanityURL for game official groups")
+# --- get_product_info associations ---
+show("get_product_info associations (both games)")
+for appid in [TEST_APPID, PALWORLD_APPID]:
+    try:
+        info = client.get_product_info(apps=[appid])
+        common = info.get("apps", {}).get(appid, {}).get("common", {})
+        print(f"\n  appid={appid} ({common.get('name', '?')})")
+        assoc = common.get("associations", {})
+        if assoc:
+            for k, v in assoc.items():
+                print(f"    assoc[{k}]: {v}")
+        else:
+            print("    (no associations)")
+        # Also check all fields that might have steam_id/clan
+        for key in sorted(common.keys()):
+            val = common[key]
+            val_str = str(val)
+            if any(kw in key.lower() for kw in ["clan", "group", "community", "hub"]) or \
+               (len(val_str) > 10 and val_str.isdigit() and int(val_str) > 10**15):
+                print(f"    {key}: {val_str[:200]}")
+    except Exception as e:
+        print(f"  error for {appid}: {e}")
+
+# --- ResolveVanityURL for game groups ---
+show("ResolveVanityURL for game official groups (url_type=2)")
 if STEAM_API_KEY:
-    for vanity in ["palworld", "windrose", "Windrose"]:
-        try:
+    for appid, names in [
+        (PALWORLD_APPID, ["Palworld", "palworld", "pocketpair"]),
+        (TEST_APPID, ["Windrose", "windrose", "krakenexpress"])
+    ]:
+        print(f"\n  appid={appid}:")
+        for vanity in names:
             data = get_json("https://api.steampowered.com/ISteamUser/ResolveVanityURL/v0001/", {
-                "key": STEAM_API_KEY, "vanityurl": vanity, "url_type": 2  # 2=game group
+                "key": STEAM_API_KEY, "vanityurl": vanity, "url_type": 2
             })
             result = data.get("response", {})
-            print(f"  '{vanity}': success={result.get('success')}, steamid={result.get('steamid')}")
-            if result.get("steamid"):
-                steamid = int(result["steamid"])
-                # Extract account_id from steamid64
-                account_id = steamid & 0xFFFFFFFF
-                print(f"    account_id={account_id}")
-                eresult, count = get_follower_count(steamid)
-                print(f"    followers: eresult={eresult}, count={count}")
-        except Exception as e:
-            print(f"  '{vanity}': error={e}")
+            success = result.get("success")
+            steamid = result.get("steamid")
+            print(f"    '{vanity}': success={success}, steamid={steamid}")
+            if steamid and success == 1:
+                sid = int(steamid)
+                eresult, count = get_follower_count(sid)
+                print(f"      -> followers: eresult={eresult}, count={count}")
 else:
-    print("  No API key")
+    print("  No STEAM_API_KEY set")
 
-# --- Check CStoreItem proto fields for follower field ---
-show("CStoreItem all proto fields (look for follower/wish)")
+# --- Try to find clan via ISteamApps.GetAppInfo ---
+show("IStoreService/GetAppInfo via Web API")
+if STEAM_API_KEY:
+    for appid in [PALWORLD_APPID, TEST_APPID]:
+        data = get_json("https://api.steampowered.com/IStoreService/GetAppInfo/v1/", {
+            "key": STEAM_API_KEY, "appids": appid, "include_all_platforms": True
+        })
+        print(f"  appid={appid}: {json.dumps(data, default=str)[:300]}")
+else:
+    print("  No STEAM_API_KEY")
+
+# --- Try CommunityService.GetApps ---
+show("CommunityService.GetApps#1 via CM")
 try:
-    from steam.protobufs.steammessages_storebrowse_pb2 import CStoreItem
-    print(f"  CStoreItem has {len(CStoreItem.DESCRIPTOR.fields)} fields:")
-    for f in CStoreItem.DESCRIPTOR.fields:
-        if any(kw in f.name.lower() for kw in ["follow", "wish", "subscri", "interest", "fan"]):
-            print(f"  *** {f.name} ({f.type}) ***")
-        else:
-            print(f"  {f.name} ({f.type})")
+    resp = client.send_um_and_wait("CommunityService.GetApps#1", {"appids": [PALWORLD_APPID]}, timeout=10)
+    if resp:
+        print(f"  eresult: {resp.header.eresult}")
+        print(f"  body: {str(resp.body)[:500]}")
+    else:
+        print("  timeout")
 except Exception as e:
-    print(f"  error: {e}")
-
-# --- Try to get store follower data via store.steampowered.com ---
-show("Store follower count via HTTP")
-for appid in [TEST_APPID, PALWORLD_APPID]:
-    for endpoint in [
-        f"https://store.steampowered.com/app/{appid}/ajaxgetfollowerscount/",
-        f"https://steamcommunity.com/actions/GroupFollowPage?appid={appid}",
-    ]:
-        try:
-            req = urllib.request.Request(endpoint, headers={"User-Agent": "Mozilla/5.0"})
-            with urllib.request.urlopen(req, timeout=5) as r:
-                data = r.read().decode("utf-8")
-                print(f"  {endpoint}: {data[:200]}")
-        except Exception as e:
-            print(f"  {endpoint}: {type(e).__name__}: {str(e)[:100]}")
+    print(f"  {type(e).__name__}: {e}")
 
 client.disconnect()
