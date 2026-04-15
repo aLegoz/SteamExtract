@@ -1,57 +1,52 @@
-"""Test: scrape SteamDB for follower/wishlist data"""
+"""Test: SteamDB GetGraphFollowersLoggedIn endpoint"""
 import json
 import os
-import re
 import urllib.request
 import urllib.parse
 
-KEY = os.environ.get("STEAM_API_KEY", "")
-TEST_APPID = 730  # CS2
+TEST_APPID = 3041230
+STEAMDB_COOKIE = os.environ.get("STEAMDB_COOKIE", "")
 
 def get(url, params={}, headers={}):
     full_url = url + ("?" + urllib.parse.urlencode(params) if params else "")
     req = urllib.request.Request(full_url, headers={
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
-        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
-        "Accept-Language": "en-US,en;q=0.5",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+        "Accept": "application/json, text/plain, */*",
+        "Referer": f"https://steamdb.info/app/{TEST_APPID}/",
+        "X-Requested-With": "XMLHttpRequest",
         **headers,
     })
     try:
         with urllib.request.urlopen(req, timeout=15) as resp:
             raw = resp.read().decode("utf-8", errors="replace")
+            print(f"Status: {resp.status}")
             try:
-                return {"json": json.loads(raw), "raw": None}
+                return json.loads(raw)
             except:
-                return {"json": None, "raw": raw}
+                return {"raw": raw[:1000]}
     except Exception as e:
         return {"error": str(e)}
 
 def show(label, r):
     print(f"\n{'='*50}")
     print(f"=== {label} ===")
-    if "error" in r:
-        print(f"ERROR: {r['error']}")
-    elif r.get("json") is not None:
-        print(json.dumps(r["json"], indent=2)[:800])
-    elif r.get("raw"):
-        # Search for follower-related keywords in HTML
-        raw = r["raw"]
-        for keyword in ["follower", "wishlist", "subscriber", "following", "followers"]:
-            idx = raw.lower().find(keyword)
-            if idx != -1:
-                print(f"Found '{keyword}' at pos {idx}:")
-                print(raw[max(0, idx-100):idx+200])
-                print("---")
-        print(f"(Full HTML length: {len(raw)} chars)")
+    print(json.dumps(r, indent=2)[:1000])
 
-# 1. SteamDB app page
-r = get(f"https://steamdb.info/app/{TEST_APPID}/")
-show("steamdb.info/app page", r)
+# 1. Без куков
+show("Without auth",
+    get(f"https://steamdb.info/api/GetGraphFollowersLoggedIn/",
+        {"appid": TEST_APPID}))
 
-# 2. SteamDB API endpoint (undocumented)
-r = get("https://steamdb.info/api/ExtendedAppDetails/", {"appids": TEST_APPID}, {"Accept": "application/json"})
-show("steamdb.info/api/ExtendedAppDetails", r)
+# 2. С куками (если заданы)
+if STEAMDB_COOKIE:
+    show("With cookie",
+        get(f"https://steamdb.info/api/GetGraphFollowersLoggedIn/",
+            {"appid": TEST_APPID},
+            {"Cookie": STEAMDB_COOKIE}))
+else:
+    print("\n[STEAMDB_COOKIE not set — add it as GitHub secret to test with auth]")
 
-# 3. SteamDB instantsearch / search API
-r = get("https://steamdb.info/api/instantsearch/", {"query": "counter-strike 2"}, {"Accept": "application/json"})
-show("steamdb.info/api/instantsearch", r)
+# 3. Попробуем незалогиненный аналог
+show("GetGraphFollowers (no login?)",
+    get(f"https://steamdb.info/api/GetGraphFollowers/",
+        {"appid": TEST_APPID}))
