@@ -9,9 +9,9 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - name: Install deps
-        run: pip install curl_cffi
-      - name: Test SteamDB endpoints
+        run: pip install steam[client]
+      - name: Test Steam client connection
         env:
-          STEAM_API_KEY: ${{ secrets.STEAM_API_KEY }}
-          STEAMDB_COOKIE: ${{ secrets.STEAMDB_COOKIE }}
+          STEAM_USER: ${{ secrets.STEAM_USER }}
+          STEAM_PASS: ${{ secrets.STEAM_PASS }}
         run: python test_api.py
