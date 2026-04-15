@@ -1,7 +1,8 @@
-"""Scan all proto files for follower/wishlist, test GetUserGameInterestState"""
+"""Test CMsgFSGetFollowerCount via direct CM message"""
 import json, os
 from steam.client import SteamClient
-from steam.enums import EResult
+from steam.enums import EMsg, EResult
+from steam.core.msg import MsgProto
 
 TEST_APPID = 3041230
 STEAM_USER = os.environ.get("STEAM_USER", "")
@@ -18,67 +19,94 @@ else:
 
 def show(label): print(f"\n{'='*50}\n=== {label} ===")
 
-# --- Scan ALL proto modules for follower/wishlist ---
-show("Proto scan: follower/wishlist/subscriber mentions")
+# --- Find EMsg for FSGetFollowerCount ---
+show("EMsg for FS follower count")
 try:
-    import steam.protobufs, pkgutil
-    KEYWORDS = ["follow", "wishlist", "subscri", "interest"]
-    for importer, modname, ispkg in pkgutil.walk_packages(
-        path=steam.protobufs.__path__,
-        prefix=steam.protobufs.__name__ + ".",
-        onerror=lambda x: None
-    ):
-        try:
-            mod = __import__(modname, fromlist=[""])
-            # Check all message types
-            for msg_name, msg_desc in mod.DESCRIPTOR.message_types_by_name.items():
-                for f in msg_desc.fields:
-                    for kw in KEYWORDS:
-                        if kw in f.name.lower() or kw in msg_name.lower():
-                            print(f"  [{modname.split('.')[-1]}] {msg_name}.{f.name}")
-            # Check all service methods
-            for svc_name, svc_desc in mod.DESCRIPTOR.services_by_name.items():
-                for method in svc_desc.methods:
-                    for kw in KEYWORDS:
-                        if kw in method.name.lower() or kw in svc_name.lower():
-                            print(f"  [{modname.split('.')[-1]}] Service:{svc_name}.{method.name}")
-        except Exception:
-            pass
+    # Search EMsg enum for follower-related values
+    for name, val in EMsg.__members__.items():
+        if "follow" in name.lower() or "FS" in name:
+            print(f"  EMsg.{name} = {val}")
 except Exception as e:
     print(f"  error: {e}")
 
-# --- Store.GetUserGameInterestState - per-user wishlist status ---
-show("Store.GetUserGameInterestState#1")
+# --- CMsgFSGetFollowerCount ---
+show("CMsgFSGetFollowerCount - direct CM message")
 try:
-    resp = client.send_um_and_wait("Store.GetUserGameInterestState#1",
-        {"appid": TEST_APPID}, timeout=10)
-    if resp:
-        print(f"  eresult: {resp.header.eresult}")
-        print(f"  body: {resp.body}")
-    else:
-        print("  timeout")
-except Exception as e:
-    print(f"  {type(e).__name__}: {e}")
+    from steam.protobufs.steammessages_clientserver_2_pb2 import (
+        CMsgFSGetFollowerCount, CMsgFSGetFollowerCountResponse
+    )
+    # SteamID for game community: clan type, account_id = ?
+    # Try different steam_id formats for the app
 
-# --- StoreBrowse: check if include_extended exists via other approach ---
-show("StoreBrowse.GetItems - include_trailers to verify trailer data")
-try:
-    resp = client.send_um_and_wait("StoreBrowse.GetItems#1", {
-        "ids": [{"appid": TEST_APPID}],
-        "context": {"language": "english", "country_code": "US", "steam_realm": 1},
-        "data_request": {"include_trailers": True, "include_basic_info": True, "include_reviews": True}
-    }, timeout=10)
-    if resp and resp.body.store_items:
-        item = resp.body.store_items[0]
-        # trailers
-        print(f"  trailers count: {len(item.trailers.highlights) + len(item.trailers.other_trailers)}")
-        for t in list(item.trailers.highlights)[:2]:
-            print(f"    trailer: {t.trailer_name}")
-        # reviews
-        r = item.reviews
-        print(f"  reviews: {r.summary_filtered.review_count} total, {r.summary_filtered.percent_positive}% positive")
+    # Method 1: Use appid directly as steamid (wrong but let's see)
+    # Method 2: Build a proper clan SteamID
+    # Clan SteamID: universe=1, type=7(Clan), instance=0, account_id
+    # format: ((1 << 56) | (7 << 52) | (0 << 32) | account_id)
+    # For games, their community group often has account_id = appid
+
+    clan_steamid = (1 << 56) | (7 << 52) | (0 << 32) | TEST_APPID
+    print(f"  Trying clan steamid: {clan_steamid}")
+
+    # Find EMsg value
+    emsg_req = None
+    emsg_resp = None
+    for name, val in EMsg.__members__.items():
+        if "FSGetFollowerCount" in name:
+            print(f"  Found EMsg: {name} = {val}")
+            if "Response" in name:
+                emsg_resp = val
+            else:
+                emsg_req = val
+
+    if emsg_req is None:
+        # Try to find it by searching
+        print("  EMsg not found by name, trying common values...")
+        # ClientFSGetFollowerCount is around EMsg 796
+        for test_emsg in [796, 797, 780, 781]:
+            try:
+                e = EMsg(test_emsg)
+                print(f"  EMsg({test_emsg}) = {e.name}")
+            except:
+                pass
+
+    # Try with send_job - uses job system
+    import gevent
+
+    result_event = gevent.event.AsyncResult()
+    def on_response(msg):
+        result_event.set(msg)
+
+    # Build and send the message
+    msg = MsgProto(EMsg.ClientFSGetFollowerCount if hasattr(EMsg, 'ClientFSGetFollowerCount') else EMsg(796))
+    msg.body.steam_id = clan_steamid
+    print(f"  Sending with steamid={clan_steamid}...")
+
+    jobid = client.send_job(msg)
+    resp = client.wait_event(jobid, timeout=10)
+    if resp:
+        print(f"  Response: {resp}")
+        print(f"  Response type: {type(resp)}")
+        if hasattr(resp[0], 'body'):
+            print(f"  Body: {resp[0].body}")
+    else:
+        print("  No response (timeout)")
+
 except Exception as e:
     print(f"  {type(e).__name__}: {e}")
     import traceback; traceback.print_exc()
+
+# --- Also try with appid directly as steam_id ---
+show("CMsgFSGetFollowerCount - appid as steamid")
+try:
+    msg = MsgProto(EMsg.ClientFSGetFollowerCount if hasattr(EMsg, 'ClientFSGetFollowerCount') else EMsg(796))
+    msg.body.steam_id = TEST_APPID
+    jobid = client.send_job(msg)
+    resp = client.wait_event(jobid, timeout=10)
+    if resp:
+        print(f"  Body: {resp[0].body if hasattr(resp[0], 'body') else resp}")
+    else:
+        print("  No response (timeout)")
+except Exception as e:
+    print(f"  {type(e).__name__}: {e}")
 
 client.disconnect()
