@@ -8,7 +8,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Test Steam API endpoints
+      - name: Install deps
+        run: pip install curl_cffi
+      - name: Test SteamDB endpoints
         env:
           STEAM_API_KEY: ${{ secrets.STEAM_API_KEY }}
+          STEAMDB_COOKIE: ${{ secrets.STEAMDB_COOKIE }}
         run: python test_api.py
