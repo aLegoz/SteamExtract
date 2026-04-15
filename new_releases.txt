@@ -1164,3 +1164,14 @@ Genres: Action, Adventure, Massively Multiplayer, RPG, Free To Play
 Link: https://store.steampowered.com/app/1599340
 ==================================================
 
+
+--- Run: 2026-04-15 15:57:21 --- (1 new game(s) found)
+
+==================================================
+Name: Disney Dreamlight Valley
+Release Date: Dec 5, 2023
+Price: $27.99 (-30%, was $39.99)
+Genres: Action, Adventure, Casual, RPG, Simulation
+Link: https://store.steampowered.com/app/1401590
+==================================================
+
