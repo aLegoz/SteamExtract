@@ -1,51 +1,63 @@
-"""Test: Steam Web API endpoints for follower/wishlist data"""
-import json, os, urllib.request, urllib.parse
+"""Test: find follower data via Steam CM with real login"""
+import json, os
+from steam.client import SteamClient
+from steam.enums import EResult
 
 TEST_APPID = 3041230
-STEAM_API_KEY = os.environ.get("STEAM_API_KEY", "")
+STEAM_USER = os.environ.get("STEAM_USER", "")
+STEAM_PASS = os.environ.get("STEAM_PASS", "")
 
-def get_json(url, params={}):
-    full_url = url + "?" + urllib.parse.urlencode(params)
-    req = urllib.request.Request(full_url, headers={"User-Agent": "SteamExtract/1.0"})
+client = SteamClient()
+
+if STEAM_USER and STEAM_PASS:
+    print(f"Logging in as {STEAM_USER}...")
+    result = client.login(username=STEAM_USER, password=STEAM_PASS)
+    print(f"Login result: {result}")
+    if result != EResult.OK:
+        print(f"Login failed: {result} (value={result.value})")
+        exit(1)
+    print("Login OK!")
+else:
+    print("Anonymous login...")
+    client.anonymous_login()
+
+def try_um(method, body={}):
     try:
-        with urllib.request.urlopen(req, timeout=10) as resp:
-            return json.loads(resp.read().decode("utf-8"))
+        resp = client.send_um_and_wait(method, body, timeout=10)
+        if resp is None:
+            return {"result": "timeout/no response"}
+        body_obj = resp.body
+        try:
+            result = {}
+            for field in body_obj.DESCRIPTOR.fields:
+                val = getattr(body_obj, field.name, None)
+                result[field.name] = str(val)
+            return result
+        except:
+            return {"raw": str(body_obj)[:500]}
     except Exception as e:
-        return {"error": str(e)}
+        return {"error": type(e).__name__, "msg": str(e)}
 
 def show(label, r):
     print(f"\n{'='*50}\n=== {label} ===")
     print(json.dumps(r, indent=2, default=str)[:2000])
 
-# IStoreService/GetAppInfo - extended app info including engagement
-show("IStoreService.GetAppInfo",
-    get_json("https://api.steampowered.com/IStoreService/GetAppInfo/v1/", {
-        "key": STEAM_API_KEY,
-        "appids": TEST_APPID,
+show("Store.GetFollowerCount#1",
+    try_um("Store.GetFollowerCount#1", {"appid": TEST_APPID}))
+
+show("Community.GetSteamFollowers#1",
+    try_um("Community.GetSteamFollowers#1", {"steamid": TEST_APPID}))
+
+show("StoreBrowse.GetItems#1",
+    try_um("StoreBrowse.GetItems#1", {
+        "ids": [{"appid": TEST_APPID}],
+        "context": {"language": "english", "country_code": "US", "steam_realm": 1},
+        "data_request": {
+            "include_tag_count": True,
+            "include_reviews": True,
+            "include_basic_info": True,
+            "include_extended": True,
+        }
     }))
 
-# ISteamApps.GetAppList - see if any extra fields
-show("IStoreService.GetAppList sample",
-    get_json("https://api.steampowered.com/IStoreService/GetAppList/v1/", {
-        "key": STEAM_API_KEY,
-        "include_games": True,
-        "include_dlc": False,
-        "max_results": 3,
-        "last_appid": TEST_APPID - 1,
-    }))
-
-# Try store review endpoint for context
-show("Store reviews",
-    get_json(f"https://store.steampowered.com/appreviews/{TEST_APPID}", {
-        "json": 1,
-        "language": "all",
-        "purchase_type": "all",
-        "num_per_page": 0,
-    }))
-
-# appdetails - what's in movies/screenshots for shovelware check
-show("appdetails movies+screenshots",
-    {k: v for k, v in (get_json("https://store.steampowered.com/api/appdetails", {
-        "appids": TEST_APPID, "cc": "us", "l": "english"
-    }).get(str(TEST_APPID), {}).get("data", {}) or {}).items()
-     if k in ("movies", "screenshots", "recommendations", "categories", "developers", "publishers")})
+client.disconnect()
