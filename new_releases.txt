@@ -1153,3 +1153,14 @@ Genres: Simulation, Sports, Free To Play
 Link: https://store.steampowered.com/app/3224770
 ==================================================
 
+
+--- Run: 2026-04-15 12:54:58 --- (1 new game(s) found)
+
+==================================================
+Name: Lost Ark
+Release Date: Feb 11, 2022
+Price: Free to Play
+Genres: Action, Adventure, Massively Multiplayer, RPG, Free To Play
+Link: https://store.steampowered.com/app/1599340
+==================================================
+
