@@ -12,6 +12,9 @@ OUTPUT_FILE = os.path.join(SCRIPT_DIR, "new_releases.txt")
 
 FEATURED_URL = "https://store.steampowered.com/api/featuredcategories/"
 DETAILS_URL = "https://store.steampowered.com/api/appdetails"
+REVIEWS_URL = "https://store.steampowered.com/appreviews"
+
+MIN_REVIEWS_TO_SKIP_TRAILER = 10  # if game has enough reviews, skip trailer requirement
 
 DISCORD_WEBHOOK_URL = os.environ.get("DISCORD_WEBHOOK_URL", "")
 
@@ -38,6 +41,17 @@ def save_seen(seen):
 def fetch_new_releases():
     data = get_json(FEATURED_URL, {"cc": "us", "l": "english"})
     return data.get("new_releases", {}).get("items", [])
+
+
+def fetch_review_count(app_id):
+    try:
+        data = get_json(f"{REVIEWS_URL}/{app_id}", {
+            "json": 1, "language": "all",
+            "purchase_type": "all", "num_per_page": 0,
+        })
+        return data.get("query_summary", {}).get("total_reviews", 0)
+    except Exception:
+        return 0
 
 
 def fetch_app_details(app_id):
@@ -140,6 +154,14 @@ def main():
             if genre_list:
                 genres = ", ".join(g["description"] for g in genre_list)
             header_image = details.get("header_image")
+
+            # Quality filter: require a trailer, unless the game already has reviews
+            has_trailer = bool(details.get("movies"))
+            review_count = fetch_review_count(app_id)
+            time.sleep(0.5)
+            if not has_trailer and review_count < MIN_REVIEWS_TO_SKIP_TRAILER:
+                print(f"  Skipping {item.get('name')} (no trailer, {review_count} reviews)")
+                continue
 
         games.append({
             "name": item.get("name", "Unknown"),
