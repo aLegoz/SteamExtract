@@ -1142,3 +1142,14 @@ Genres: Action, Free To Play
 Link: https://store.steampowered.com/app/2073850
 ==================================================
 
+
+--- Run: 2026-04-15 10:05:51 --- (1 new game(s) found)
+
+==================================================
+Name: Umamusume: Pretty Derby
+Release Date: Jun 24, 2025
+Price: Free to Play
+Genres: Simulation, Sports, Free To Play
+Link: https://store.steampowered.com/app/3224770
+==================================================
+
