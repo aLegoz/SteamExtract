@@ -1,7 +1,8 @@
 """Test CMsgFSGetFollowerCount via direct CM message"""
 import json, os
 from steam.client import SteamClient
-from steam.enums import EMsg, EResult
+from steam.enums import EResult
+from steam.enums.emsg import EMsg
 from steam.core.msg import MsgProto
 
 TEST_APPID = 3041230
