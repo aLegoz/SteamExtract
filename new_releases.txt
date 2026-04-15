@@ -1394,3 +1394,38 @@ Genres: Casual, Indie
 Link: https://store.steampowered.com/app/4517650
 ==================================================
 
+
+--- Run: 2026-04-15 21:40:46 --- (4 new game(s) found)
+
+==================================================
+Name: Undead Tread
+Release Date: Apr 15, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Action, Adventure, Racing
+Link: https://store.steampowered.com/app/1913310
+==================================================
+
+==================================================
+Name: Idle Spin&Win Tower Defense
+Release Date: Apr 15, 2026
+Price: $5.95 (-15%, was $7.00)
+Genres: Indie
+Link: https://store.steampowered.com/app/4536870
+==================================================
+
+==================================================
+Name: Reliquare
+Release Date: Apr 15, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/3905690
+==================================================
+
+==================================================
+Name: Little Chain Game
+Release Date: Apr 15, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4489540
+==================================================
+
