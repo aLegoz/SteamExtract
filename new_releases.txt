@@ -1175,3 +1175,222 @@ Genres: Action, Adventure, Casual, RPG, Simulation
 Link: https://store.steampowered.com/app/1401590
 ==================================================
 
+
+--- Run: 2026-04-15 20:42:39 --- (27 new game(s) found)
+
+==================================================
+Name: Crisálida
+Release Date: Apr 15, 2026
+Price: $1.99
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/3629580
+==================================================
+
+==================================================
+Name: Blockboy and The Wizard
+Release Date: Apr 15, 2026
+Price: $2.69 (-10%, was $2.99)
+Genres: Adventure, Casual, Indie, RPG
+Link: https://store.steampowered.com/app/2481500
+==================================================
+
+==================================================
+Name: Elvenfoundry
+Release Date: Apr 15, 2026
+Price: $29.74 (-15%, was $34.99)
+Genres: Adventure, Casual, Simulation
+Link: https://store.steampowered.com/app/2834310
+==================================================
+
+==================================================
+Name: Sprite's Honor!
+Release Date: Apr 15, 2026
+Price: $9.99
+Genres: Action, Adventure, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/2861360
+==================================================
+
+==================================================
+Name: Immerse Gamepack FINAL FANTASY™ XIV Online Edition
+Release Date: Apr 15, 2026
+Price: $19.99
+Genres: Utilities
+Link: https://store.steampowered.com/app/1795690
+==================================================
+
+==================================================
+Name: Empty Gauge
+Release Date: Apr 15, 2026
+Price: $2.69 (-10%, was $2.99)
+Genres: Action, Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/3998790
+==================================================
+
+==================================================
+Name: Calamity Angels: Special Delivery
+Release Date: Apr 15, 2026
+Price: $25.49 (-15%, was $29.99)
+Genres: Casual, RPG, Strategy
+Link: https://store.steampowered.com/app/3974290
+==================================================
+
+==================================================
+Name: Frontline: Afrika Korps
+Release Date: Apr 15, 2026
+Price: $13.49 (-10%, was $14.99)
+Genres: Action, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4076070
+==================================================
+
+==================================================
+Name: Top Alert
+Release Date: Apr 15, 2026
+Price: $2.99
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/3213890
+==================================================
+
+==================================================
+Name: 迴避我的死亡結局
+Release Date: Apr 15, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Adventure, Casual, Indie, RPG
+Link: https://store.steampowered.com/app/4510910
+==================================================
+
+==================================================
+Name: Hollowborn: The Military Incident
+Release Date: Apr 15, 2026
+Price: $2.24 (-25%, was $2.99)
+Genres: Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/4436270
+==================================================
+
+==================================================
+Name: Cleaning Up!
+Release Date: Apr 15, 2026
+Price: $13.49 (-10%, was $14.99)
+Genres: Adventure, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/3835650
+==================================================
+
+==================================================
+Name: BUNNY GARDEN 2
+Release Date: Apr 15, 2026
+Price: $22.49 (-10%, was $24.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/3443820
+==================================================
+
+==================================================
+Name: Super Station Swarm
+Release Date: Apr 15, 2026
+Price: $1.19 (-40%, was $1.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4462380
+==================================================
+
+==================================================
+Name: Terminal Shift
+Release Date: Apr 15, 2026
+Price: $5.39 (-10%, was $5.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/3856670
+==================================================
+
+==================================================
+Name: JOTT : Jump Over The Time
+Release Date: Apr 15, 2026
+Price: $4.99
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4338560
+==================================================
+
+==================================================
+Name: My 4 nights: Door 1
+Release Date: Apr 15, 2026
+Price: $2.99
+Genres: Indie
+Link: https://store.steampowered.com/app/4556820
+==================================================
+
+==================================================
+Name: Pixel Game Maker Series MagicalShot The AttackBump☆
+Release Date: Apr 15, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4300420
+==================================================
+
+==================================================
+Name: Chippu
+Release Date: Apr 15, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/4308330
+==================================================
+
+==================================================
+Name: Age of History 2: Definitive Edition
+Release Date: Apr 15, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/3381680
+==================================================
+
+==================================================
+Name: Project Breakout
+Release Date: Apr 15, 2026
+Price: $9.74 (-25%, was $12.99)
+Genres: Adventure, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/2665100
+==================================================
+
+==================================================
+Name: Void Roots
+Release Date: Apr 15, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/4235310
+==================================================
+
+==================================================
+Name: Revenge Of Destiny
+Release Date: Apr 15, 2026
+Price: $3.39 (-15%, was $3.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/4540180
+==================================================
+
+==================================================
+Name: Cult Nation
+Release Date: Apr 15, 2026
+Price: $2.79 (-30%, was $3.99)
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/3897540
+==================================================
+
+==================================================
+Name: Hunkfrat
+Release Date: Apr 15, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/3819000
+==================================================
+
+==================================================
+Name: Parcel Delivery Simulator
+Release Date: Apr 15, 2026
+Price: $5.94 (-15%, was $6.99)
+Genres: Action, Casual, Indie, Racing, Simulation
+Link: https://store.steampowered.com/app/4078230
+==================================================
+
+==================================================
+Name: Hentai Milf & Futanari
+Release Date: Apr 15, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4517650
+==================================================
+
