@@ -1,4 +1,4 @@
-"""Find the right steam_id for game follower count"""
+"""Test CMsgFSGetFollowerCount - parse raw payload"""
 import os, gevent
 from steam.client import SteamClient
 from steam.enums import EResult
@@ -9,6 +9,9 @@ from steam.protobufs.steammessages_clientserver_2_pb2 import (
 )
 
 TEST_APPID = 3041230
+# Palworld (well-known game with followers)
+PALWORLD_APPID = 1623730
+
 STEAM_USER = os.environ.get("STEAM_USER", "")
 STEAM_PASS = os.environ.get("STEAM_PASS", "")
 
@@ -21,8 +24,8 @@ if STEAM_USER and STEAM_PASS:
 else:
     client.anonymous_login(); print("Anonymous")
 
-def get_follower_count(steam_id, label=""):
-    """Send CMsgFSGetFollowerCount and get count via event."""
+def get_follower_count(steam_id):
+    """Send CMsgFSGetFollowerCount, parse raw payload response."""
     result_holder = []
     ev = gevent.event.Event()
 
@@ -37,21 +40,38 @@ def get_follower_count(steam_id, label=""):
     proto_body.steam_id = steam_id
     msg.body = proto_body
     client.send(msg)
-
     ev.wait(timeout=5)
 
     if result_holder:
-        raw = result_holder[0].body
-        try:
-            resp_body = CMsgFSGetFollowerCountResponse()
-            if hasattr(raw, 'SerializeToString'):
-                resp_body.ParseFromString(raw.SerializeToString())
-            else:
-                # raw might be bytes
-                resp_body.ParseFromString(bytes(raw))
-            return resp_body.eresult, resp_body.count
-        except Exception as e:
-            return None, f"parse error: {e} / raw={bytes(raw)[:20] if hasattr(raw, '__bytes__') else raw}"
+        r = result_holder[0]
+        # Try all ways to get raw bytes
+        raw_bytes = None
+        for attr in ['payload', 'body_data', 'msg_data', '_data']:
+            val = getattr(r, attr, None)
+            if val and isinstance(val, (bytes, bytearray)) and len(val) > 0:
+                raw_bytes = bytes(val)
+                print(f"  got bytes via r.{attr}: {raw_bytes.hex()}")
+                break
+
+        if raw_bytes is None:
+            # Try serializing the whole message and extracting body
+            try:
+                full_bytes = bytes(r)
+                print(f"  full serialized len={len(full_bytes)}")
+                raw_bytes = full_bytes[-20:]  # try last bytes as body
+            except Exception as e:
+                print(f"  serialize error: {e}")
+
+        if raw_bytes:
+            try:
+                resp_proto = CMsgFSGetFollowerCountResponse()
+                resp_proto.ParseFromString(raw_bytes)
+                return resp_proto.eresult, resp_proto.count
+            except Exception as e:
+                print(f"  parse error: {e}")
+                # Try to print all attributes of r
+                print(f"  r attrs: {[a for a in dir(r) if not a.startswith('_')]}")
+        return None, f"no bytes (r type={type(r).__name__})"
     return None, "timeout"
 
 def show(label): print(f"\n{'='*50}\n=== {label} ===")
@@ -59,58 +79,36 @@ def show(label): print(f"\n{'='*50}\n=== {label} ===")
 def to_clan_steamid(account_id):
     return (1 << 56) | (7 << 52) | (0 << 32) | account_id
 
-# --- Validate: GabeN should have many followers ---
-show("GabeN user steamid (should have followers)")
-gaben_steamid = 76561197960287930
-eresult, count = get_follower_count(gaben_steamid, "GabeN")
+# --- Test with GabeN ---
+show("GabeN user steamid")
+eresult, count = get_follower_count(76561197960287930)
 print(f"  eresult={eresult}, count={count}")
 
-# --- Windrose appid as-is (not valid SteamID but let's see) ---
-show("Windrose appid raw")
-eresult, count = get_follower_count(TEST_APPID)
-print(f"  eresult={eresult}, count={count}")
-
-# --- All publisher/developer clan_ids from StoreBrowse ---
-show("Get all clan_ids from StoreBrowse + try each")
+# --- Get Palworld clan_id from StoreBrowse and test ---
+show("Palworld StoreBrowse clan_ids")
 try:
     resp = client.send_um_and_wait("StoreBrowse.GetItems#1", {
-        "ids": [{"appid": TEST_APPID}],
+        "ids": [{"appid": PALWORLD_APPID}],
         "context": {"language": "english", "country_code": "US", "steam_realm": 1},
         "data_request": {"include_basic_info": True}
     }, timeout=10)
     if resp and resp.body.store_items:
         item = resp.body.store_items[0]
-        clan_ids = set()
+        print(f"  Game: {item.name}")
         for pub in item.basic_info.publishers:
             cid = pub.creator_clan_account_id
-            print(f"  Publisher {pub.name}: clan_account_id={cid}")
-            if cid: clan_ids.add(cid)
+            print(f"  Publisher {pub.name}: clan_id={cid}")
+            if cid:
+                steamid = to_clan_steamid(cid)
+                eresult, count = get_follower_count(steamid)
+                print(f"    -> eresult={eresult}, count={count}")
         for dev in item.basic_info.developers:
             cid = dev.creator_clan_account_id
-            print(f"  Developer {dev.name}: clan_account_id={cid}")
-            if cid: clan_ids.add(cid)
-        print(f"\n  Testing {len(clan_ids)} clan(s):")
-        for cid in clan_ids:
-            steamid = to_clan_steamid(cid)
-            eresult, count = get_follower_count(steamid)
-            print(f"    clan_id={cid} steamid={steamid} -> eresult={eresult}, count={count}")
-except Exception as e:
-    print(f"  error: {e}")
-
-# --- Try get_product_info for any community-related fields ---
-show("get_product_info - look for community/clan ids")
-try:
-    info = client.get_product_info(apps=[TEST_APPID])
-    common = info.get("apps", {}).get(TEST_APPID, {}).get("common", {})
-    # Print fields that might contain community/clan info
-    for key in sorted(common.keys()):
-        val = str(common[key])
-        if any(kw in key.lower() for kw in ["community", "clan", "group", "hub", "page", "steam_id"]):
-            print(f"  {key}: {val}")
-    # Also print gameid, steam_release_date for reference
-    for key in ["gameid", "community_hub_visible", "community_visible_stats"]:
-        if key in common:
-            print(f"  {key}: {common[key]}")
+            print(f"  Developer {dev.name}: clan_id={cid}")
+            if cid:
+                steamid = to_clan_steamid(cid)
+                eresult, count = get_follower_count(steamid)
+                print(f"    -> eresult={eresult}, count={count}")
 except Exception as e:
     print(f"  error: {e}")
 
