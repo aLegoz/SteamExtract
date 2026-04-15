@@ -21,7 +21,6 @@ def try_um(method, body={}):
         if resp is None:
             return {"result": "timeout/no response"}
         body_obj = resp.body
-        # Try to get all fields
         try:
             result = {}
             for field in body_obj.DESCRIPTOR.fields:
@@ -31,27 +30,45 @@ def try_um(method, body={}):
         except:
             return {"raw": str(body_obj)[:500]}
     except Exception as e:
-        return {"error": str(e)}
+        return {"error": type(e).__name__, "msg": str(e)}
 
 def show(label, r):
     print(f"\n{'='*50}\n=== {label} ===")
-    print(json.dumps(r, indent=2, default=str)[:800])
+    print(json.dumps(r, indent=2, default=str)[:1000])
 
-# StoreBrowse.GetItems — с деталями ответа
-show("StoreBrowse.GetItems",
+# Store.GetFollowerCount - needs appid
+show("Store.GetFollowerCount#1",
+    try_um("Store.GetFollowerCount#1", {"appid": TEST_APPID}))
+
+# Community.GetSteamFollowers - needs steamid of app (appid as steamid)
+show("Community.GetSteamFollowers#1",
+    try_um("Community.GetSteamFollowers#1", {"steamid": TEST_APPID}))
+
+# StoreBrowse.GetItems with all data fields
+show("StoreBrowse.GetItems (full)",
     try_um("StoreBrowse.GetItems#1", {
         "ids": [{"appid": TEST_APPID}],
         "context": {"language": "english", "country_code": "US", "steam_realm": 1},
-        "data_request": {"include_tag_count": True, "include_reviews": True, "include_basic_info": True}
+        "data_request": {
+            "include_tag_count": True,
+            "include_reviews": True,
+            "include_basic_info": True,
+            "include_assets": True,
+            "include_extended": True,
+        }
     }))
 
-# Community follower methods
+# StoreAppSimilarity
+show("StoreAppSimilarity.GetRelatedApps#1",
+    try_um("StoreAppSimilarity.GetRelatedApps#1", {"appid": TEST_APPID}))
+
+# PlayerService.GetOwnedGames style - check if follower endpoint exists
 for method in [
-    "Community.GetSteamFollowers#1",
-    "StoreQuery.SearchResults#1",
     "Store.GetFollowerCount#1",
-    "GameSearchService.SearchForGameResults#1",
-    "StoreBrowse.GetDiscoveryQueue#1",
+    "StoreAppSimilarity.GetSimilarApps#1",
+    "StoreQuery.SearchResults#1",
+    "Store.GetLocalizedNameForTags#1",
+    "Community.GetCommunityBadgeProgress#1",
 ]:
     show(method, try_um(method, {"appid": TEST_APPID}))
 
