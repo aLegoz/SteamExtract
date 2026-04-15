@@ -1429,3 +1429,38 @@ Genres: Casual, Indie
 Link: https://store.steampowered.com/app/4489540
 ==================================================
 
+
+--- Run: 2026-04-15 22:31:29 --- (4 new game(s) found)
+
+==================================================
+Name: Fishing Star World Tour
+Release Date: Apr 15, 2026
+Price: $19.99
+Genres: Action, Casual, Sports
+Link: https://store.steampowered.com/app/4350360
+==================================================
+
+==================================================
+Name: Beastfall
+Release Date: Apr 15, 2026
+Price: $6.79 (-15%, was $7.99)
+Genres: Action, Adventure, Casual, Indie, RPG
+Link: https://store.steampowered.com/app/4217250
+==================================================
+
+==================================================
+Name: El Cipitío: The Cuscatlecan Legends
+Release Date: Apr 15, 2026
+Price: $10.20 (-15%, was $12.00)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/4492450
+==================================================
+
+==================================================
+Name: High Noon
+Release Date: Apr 15, 2026
+Price: $5.99
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4046240
+==================================================
+
