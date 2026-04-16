@@ -1475,3 +1475,86 @@ Genres: Casual, Indie, Simulation, Strategy
 Link: https://store.steampowered.com/app/4210020
 ==================================================
 
+
+--- Run: 2026-04-16 04:42:16 --- (10 new game(s) found)
+
+==================================================
+Name: Nothing Remains
+Release Date: Apr 15, 2026
+Price: Free to Play
+Genres: Action, Adventure, Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/4541800
+==================================================
+
+==================================================
+Name: Sharp Chess
+Release Date: Apr 15, 2026
+Price: $2.39 (-20%, was $2.99)
+Genres: Strategy
+Link: https://store.steampowered.com/app/4455210
+==================================================
+
+==================================================
+Name: KING of HOLO
+Release Date: Apr 15, 2026
+Price: $4.79 (-20%, was $5.99)
+Genres: RPG, Simulation, Strategy
+Link: https://store.steampowered.com/app/4184080
+==================================================
+
+==================================================
+Name: Stranger Maidens Please Protect Me!
+Release Date: Apr 15, 2026
+Price: $9.89 (-10%, was $10.99)
+Genres: Action, Casual, Indie, RPG
+Link: https://store.steampowered.com/app/3028830
+==================================================
+
+==================================================
+Name: Mirai's Midnight Training
+Release Date: Apr 15, 2026
+Price: $6.29 (-10%, was $6.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/4257850
+==================================================
+
+==================================================
+Name: BidKing
+Release Date: Apr 15, 2026
+Price: $2.99
+Genres: Casual, Indie, Massively Multiplayer, Simulation, Sports, Strategy
+Link: https://store.steampowered.com/app/4128580
+==================================================
+
+==================================================
+Name: LaVonne's Lemons Idle
+Release Date: Apr 15, 2026
+Price: Free to Play
+Genres: Casual, Indie, Simulation, Free To Play
+Link: https://store.steampowered.com/app/4568130
+==================================================
+
+==================================================
+Name: Make it! Gyoza
+Release Date: Apr 15, 2026
+Price: $4.96 (-29%, was $6.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4552230
+==================================================
+
+==================================================
+Name: LUCKROT
+Release Date: Apr 15, 2026
+Price: $4.99
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/3823650
+==================================================
+
+==================================================
+Name: Squared Circle Tycoon
+Release Date: Apr 15, 2026
+Price: $9.99
+Genres: Indie, RPG, Simulation, Sports, Strategy
+Link: https://store.steampowered.com/app/4517250
+==================================================
+
