@@ -1569,3 +1569,62 @@ Genres: Simulation, Strategy
 Link: https://store.steampowered.com/app/4181160
 ==================================================
 
+
+--- Run: 2026-04-16 08:21:08 --- (7 new game(s) found)
+
+==================================================
+Name: The Amusement
+Release Date: Apr 16, 2026
+Price: $18.69 (-15%, was $21.99)
+Genres: Adventure
+Link: https://store.steampowered.com/app/3867610
+==================================================
+
+==================================================
+Name: Synth Laser
+Release Date: Apr 16, 2026
+Price: $5.24 (-25%, was $6.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/3966300
+==================================================
+
+==================================================
+Name: Cool Thief Guy
+Release Date: Apr 16, 2026
+Price: $1.19 (-40%, was $1.99)
+Genres: Adventure, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4580060
+==================================================
+
+==================================================
+Name: Conveyor Belt Sushi Simulator
+Release Date: Apr 15, 2026
+Price: $11.69 (-10%, was $12.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/3536670
+==================================================
+
+==================================================
+Name: Kings Do Not Fall
+Release Date: Apr 15, 2026
+Price: $6.39 (-20%, was $7.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4231970
+==================================================
+
+==================================================
+Name: The Day I Became a Bird
+Release Date: Apr 15, 2026
+Price: $15.99 (-20%, was $19.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/3120030
+==================================================
+
+==================================================
+Name: OPUS: Prism Peak
+Release Date: Apr 15, 2026
+Price: $22.49 (-10%, was $24.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/1947910
+==================================================
+
