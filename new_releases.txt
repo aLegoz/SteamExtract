@@ -2108,3 +2108,38 @@ Genres: Casual, Indie
 Link: https://store.steampowered.com/app/3934290
 ==================================================
 
+
+--- Run: 2026-04-16 23:30:28 --- (4 new game(s) found)
+
+==================================================
+Name: Smoke & Lottery Simulator
+Release Date: Apr 16, 2026
+Price: $12.99
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/4488930
+==================================================
+
+==================================================
+Name: THE TALE OF SPRING CITY
+Release Date: Apr 16, 2026
+Price: $7.64 (-15%, was $8.99)
+Genres: Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/4030660
+==================================================
+
+==================================================
+Name: Sweet Beach
+Release Date: Apr 16, 2026
+Price: $0.89 (-10%, was $0.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4310620
+==================================================
+
+==================================================
+Name: 5-Minute Maid
+Release Date: Apr 16, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: Adventure
+Link: https://store.steampowered.com/app/4053760
+==================================================
+
