@@ -1558,3 +1558,14 @@ Genres: Indie, RPG, Simulation, Sports, Strategy
 Link: https://store.steampowered.com/app/4517250
 ==================================================
 
+
+--- Run: 2026-04-16 06:27:04 --- (1 new game(s) found)
+
+==================================================
+Name: FARWORLD BEACON
+Release Date: Apr 15, 2026
+Price: $5.39 (-10%, was $5.99)
+Genres: Simulation, Strategy
+Link: https://store.steampowered.com/app/4181160
+==================================================
+
