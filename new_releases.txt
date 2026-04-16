@@ -1722,3 +1722,78 @@ Genres: Strategy
 Link: https://store.steampowered.com/app/4557900
 ==================================================
 
+
+--- Run: 2026-04-16 14:56:38 --- (9 new game(s) found)
+
+==================================================
+Name: Verse Bound
+Release Date: Apr 16, 2026
+Price: Free to Play
+Genres: Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/3892700
+==================================================
+
+==================================================
+Name: Rescue Quest: Lexi's Mountain Adventure
+Release Date: Apr 16, 2026
+Price: Free to Play
+Genres: Action, Adventure, Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/4556900
+==================================================
+
+==================================================
+Name: Umbra Lumen
+Release Date: Apr 16, 2026
+Price: $5.99 (-40%, was $9.99)
+Genres: Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/3225730
+==================================================
+
+==================================================
+Name: House Cleaner Simulator
+Release Date: Apr 16, 2026
+Price: $5.09 (-15%, was $5.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/3937230
+==================================================
+
+==================================================
+Name: G-MODEアーカイブス+ DIGITAL DEVIL SAGA アバタール・チューナー A's TEST Server完全版
+Release Date: Apr 16, 2026
+Price: $14.39 (-10%, was $15.99)
+Genres: RPG
+Link: https://store.steampowered.com/app/2627690
+==================================================
+
+==================================================
+Name: Hentai Milfs Boobs
+Release Date: Apr 16, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4528810
+==================================================
+
+==================================================
+Name: INTO THE RUN
+Release Date: Apr 16, 2026
+Price: $2.70 (-10%, was $3.00)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4382390
+==================================================
+
+==================================================
+Name: BLACKOUT ARENA
+Release Date: Apr 15, 2026
+Price: $31.49 (-10%, was $34.99)
+Genres: Action, Adventure, Indie, Strategy
+Link: https://store.steampowered.com/app/4158710
+==================================================
+
+==================================================
+Name: Between
+Release Date: Apr 15, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Adventure
+Link: https://store.steampowered.com/app/4340940
+==================================================
+
