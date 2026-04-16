@@ -2097,3 +2097,14 @@ Genres: Casual, Indie
 Link: https://store.steampowered.com/app/4224270
 ==================================================
 
+
+--- Run: 2026-04-16 21:33:25 --- (1 new game(s) found)
+
+==================================================
+Name: Cafe of Roses
+Release Date: Apr 16, 2026
+Price: $8.09 (-10%, was $8.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/3934290
+==================================================
+
