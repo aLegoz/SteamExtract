@@ -2019,3 +2019,30 @@ Genres: Indie, Simulation, Strategy
 Link: https://store.steampowered.com/app/2213700
 ==================================================
 
+
+--- Run: 2026-04-16 19:55:37 --- (3 new game(s) found)
+
+==================================================
+Name: Guild Manager 26
+Release Date: Coming soon
+Price: Free to Play
+Genres: Massively Multiplayer, Free To Play
+Link: https://store.steampowered.com/app/4495870
+==================================================
+
+==================================================
+Name: Hacksaw Massacre
+Release Date: Apr 16, 2026
+Price: $4.99
+Genres: Adventure
+Link: https://store.steampowered.com/app/4243320
+==================================================
+
+==================================================
+Name: 3D Game Library
+Release Date: Apr 16, 2026
+Price: $2.39 (-20%, was $2.99)
+Genres: Casual, Indie, Simulation, Design & Illustration, Utilities
+Link: https://store.steampowered.com/app/4413790
+==================================================
+
