@@ -1904,3 +1904,118 @@ Genres: Action, Adventure, Indie, Simulation
 Link: https://store.steampowered.com/app/2270540
 ==================================================
 
+
+--- Run: 2026-04-16 18:02:02 --- (14 new game(s) found)
+
+==================================================
+Name: ShantyTown
+Release Date: Apr 16, 2026
+Price: $13.49 (-10%, was $14.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/2434600
+==================================================
+
+==================================================
+Name: 水果甜心 Fruit Sweetheart
+Release Date: Apr 16, 2026
+Price: $11.69 (-10%, was $12.99)
+Genres: Casual, Indie, RPG, Simulation, Strategy
+Link: https://store.steampowered.com/app/4480400
+==================================================
+
+==================================================
+Name: Hentai Furry Pig
+Release Date: Apr 16, 2026
+Price: $0.69 (-30%, was $0.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4492190
+==================================================
+
+==================================================
+Name: Scriptorium: Master of Manuscripts
+Release Date: Apr 16, 2026
+Price: $11.99 (-20%, was $14.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/3119540
+==================================================
+
+==================================================
+Name: Under Par Golf Architect
+Release Date: Apr 16, 2026
+Price: $17.99 (-10%, was $19.99)
+Genres: Simulation, Sports, Strategy
+Link: https://store.steampowered.com/app/2928410
+==================================================
+
+==================================================
+Name: EXD - Extra Dimensional
+Release Date: Apr 16, 2026
+Price: $29.99
+Genres: Action, Adventure, RPG
+Link: https://store.steampowered.com/app/3962020
+==================================================
+
+==================================================
+Name: Smash it Wild: Tactical Volleyball Roguelike
+Release Date: Apr 16, 2026
+Price: $9.59 (-20%, was $11.99)
+Genres: RPG, Sports, Strategy
+Link: https://store.steampowered.com/app/2432240
+==================================================
+
+==================================================
+Name: Cozy Sanctuary
+Release Date: Apr 16, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Casual, Simulation
+Link: https://store.steampowered.com/app/3574760
+==================================================
+
+==================================================
+Name: ZPF
+Release Date: Apr 16, 2026
+Price: $9.99
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/3095410
+==================================================
+
+==================================================
+Name: Mace Knight
+Release Date: Apr 16, 2026
+Price: $7.03 (-12%, was $7.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/3814790
+==================================================
+
+==================================================
+Name: Wormies
+Release Date: Apr 16, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4058290
+==================================================
+
+==================================================
+Name: Cthulhu: The Cosmic Abyss
+Release Date: Apr 16, 2026
+Price: $35.99 (-10%, was $39.99)
+Genres: Adventure
+Link: https://store.steampowered.com/app/2760560
+==================================================
+
+==================================================
+Name: Nullstar: Solus
+Release Date: Apr 16, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/3094210
+==================================================
+
+==================================================
+Name: Sintopia
+Release Date: Apr 16, 2026
+Price: $29.74 (-15%, was $34.99)
+Genres: Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/2213700
+==================================================
+
