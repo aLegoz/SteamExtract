@@ -2046,3 +2046,54 @@ Genres: Casual, Indie, Simulation, Design & Illustration, Utilities
 Link: https://store.steampowered.com/app/4413790
 ==================================================
 
+
+--- Run: 2026-04-16 20:38:11 --- (6 new game(s) found)
+
+==================================================
+Name: We Are Prophet
+Release Date: Apr 16, 2026
+Price: Free to Play
+Genres: Action, Casual, Free To Play
+Link: https://store.steampowered.com/app/3890090
+==================================================
+
+==================================================
+Name: Love vs Lust: The story of a Gigolo
+Release Date: Apr 16, 2026
+Price: $12.59 (-10%, was $13.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/3932870
+==================================================
+
+==================================================
+Name: Soko Pirates
+Release Date: Apr 16, 2026
+Price: $2.99
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4307500
+==================================================
+
+==================================================
+Name: Hideous
+Release Date: Apr 16, 2026
+Price: $3.99
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/3716590
+==================================================
+
+==================================================
+Name: Treasure Hunter: Echo of War
+Release Date: Apr 16, 2026
+Price: $7.49 (-25%, was $9.99)
+Genres: Adventure, Indie, RPG, Simulation
+Link: https://store.steampowered.com/app/4224620
+==================================================
+
+==================================================
+Name: Hentai Color Studio
+Release Date: Apr 16, 2026
+Price: $5.39 (-10%, was $5.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4224270
+==================================================
+
