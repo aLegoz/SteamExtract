@@ -1628,3 +1628,54 @@ Genres: Adventure, Indie
 Link: https://store.steampowered.com/app/1947910
 ==================================================
 
+
+--- Run: 2026-04-16 10:05:28 --- (6 new game(s) found)
+
+==================================================
+Name: Packmates
+Release Date: Apr 16, 2026
+Price: $11.99
+Genres: Action, Casual, RPG
+Link: https://store.steampowered.com/app/3171540
+==================================================
+
+==================================================
+Name: False Exit
+Release Date: Apr 16, 2026
+Price: $1.69 (-15%, was $1.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4384110
+==================================================
+
+==================================================
+Name: Myth of Empires: Throne
+Release Date: Apr 16, 2026
+Price: Free to Play
+Genres: Action, Adventure, Casual, Massively Multiplayer, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4510830
+==================================================
+
+==================================================
+Name: Hidden Within
+Release Date: Apr 16, 2026
+Price: $2.99 (-40%, was $4.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4201360
+==================================================
+
+==================================================
+Name: Slash Cash
+Release Date: Apr 15, 2026
+Price: $3.59 (-10%, was $3.99)
+Genres: Casual, Simulation, Strategy
+Link: https://store.steampowered.com/app/3548830
+==================================================
+
+==================================================
+Name: Angel Clicker
+Release Date: Apr 15, 2026
+Price: $2.99 (-25%, was $3.99)
+Genres: Casual, Indie, RPG, Simulation, Strategy
+Link: https://store.steampowered.com/app/4247760
+==================================================
+
