@@ -1797,3 +1797,110 @@ Genres: Adventure
 Link: https://store.steampowered.com/app/4340940
 ==================================================
 
+
+--- Run: 2026-04-16 16:17:04 --- (13 new game(s) found)
+
+==================================================
+Name: Rift Miner
+Release Date: Apr 16, 2026
+Price: $5.99 (-25%, was $7.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/3989120
+==================================================
+
+==================================================
+Name: Anomaly Directive
+Release Date: Apr 16, 2026
+Price: $3.19 (-20%, was $3.99)
+Genres: Adventure
+Link: https://store.steampowered.com/app/4052400
+==================================================
+
+==================================================
+Name: Lucky Tower Ultimate
+Release Date: Apr 16, 2026
+Price: $11.99 (-20%, was $14.99)
+Genres: Action, Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/1700270
+==================================================
+
+==================================================
+Name: office chair curling
+Release Date: Apr 16, 2026
+Price: $3.24 (-35%, was $4.99)
+Genres: Action
+Link: https://store.steampowered.com/app/4483800
+==================================================
+
+==================================================
+Name: [MULTIPLIERS]
+Release Date: Apr 16, 2026
+Price: $2.69 (-10%, was $2.99)
+Genres: Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4577280
+==================================================
+
+==================================================
+Name: CEO Sim: Cyberpunk
+Release Date: Apr 16, 2026
+Price: $17.99 (-10%, was $19.99)
+Genres: Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/2731370
+==================================================
+
+==================================================
+Name: Gecko Gods
+Release Date: Apr 16, 2026
+Price: $17.99 (-10%, was $19.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/1290760
+==================================================
+
+==================================================
+Name: Witch Dance
+Release Date: Apr 16, 2026
+Price: $2.99
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4506570
+==================================================
+
+==================================================
+Name: Marrow Marrow
+Release Date: Apr 16, 2026
+Price: $12.59 (-10%, was $13.99)
+Genres: Action
+Link: https://store.steampowered.com/app/4040710
+==================================================
+
+==================================================
+Name: Ground Zero
+Release Date: Apr 16, 2026
+Price: $16.99 (-15%, was $19.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/2340130
+==================================================
+
+==================================================
+Name: MOUSE: P.I. For Hire
+Release Date: Apr 16, 2026
+Price: $29.99
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/2416450
+==================================================
+
+==================================================
+Name: Cycle of Corruption
+Release Date: Apr 16, 2026
+Price: $13.49 (-10%, was $14.99)
+Genres: Adventure, RPG, Simulation
+Link: https://store.steampowered.com/app/2709090
+==================================================
+
+==================================================
+Name: Fun with Ragdolls Plus
+Release Date: Apr 16, 2026
+Price: $24.99
+Genres: Action, Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/2270540
+==================================================
+
