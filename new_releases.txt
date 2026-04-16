@@ -1679,3 +1679,46 @@ Genres: Casual, Indie, RPG, Simulation, Strategy
 Link: https://store.steampowered.com/app/4247760
 ==================================================
 
+
+--- Run: 2026-04-16 11:49:56 --- (5 new game(s) found)
+
+==================================================
+Name: Switchboard
+Release Date: Apr 16, 2026
+Price: $14.07 (-12%, was $15.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/3931650
+==================================================
+
+==================================================
+Name: Void Daggers
+Release Date: Apr 16, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4551050
+==================================================
+
+==================================================
+Name: HexSwarm: Hostile Worlds
+Release Date: Apr 16, 2026
+Price: $20.09 (-33%, was $29.99)
+Genres: Strategy
+Link: https://store.steampowered.com/app/4295230
+==================================================
+
+==================================================
+Name: Kitty Finder
+Release Date: Apr 16, 2026
+Price: $3.19 (-20%, was $3.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4103830
+==================================================
+
+==================================================
+Name: Coin of Fate
+Release Date: Apr 15, 2026
+Price: $3.99
+Genres: Strategy
+Link: https://store.steampowered.com/app/4557900
+==================================================
+
