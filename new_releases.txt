@@ -1464,3 +1464,14 @@ Genres: Action, Casual, Indie
 Link: https://store.steampowered.com/app/4046240
 ==================================================
 
+
+--- Run: 2026-04-16 01:21:36 --- (1 new game(s) found)
+
+==================================================
+Name: A game about sucking (up ghosts with a Vacuum)
+Release Date: Apr 15, 2026
+Price: $3.59 (-10%, was $3.99)
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4210020
+==================================================
+
