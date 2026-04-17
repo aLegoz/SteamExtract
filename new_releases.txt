@@ -2699,3 +2699,14 @@ Genres: Casual, Indie, Simulation, Strategy
 Link: https://store.steampowered.com/app/4291910
 ==================================================
 
+
+--- Run: 2026-04-17 19:50:02 --- (1 new game(s) found)
+
+==================================================
+Name: LifeSimOS
+Release Date: Apr 17, 2026
+Price: $13.49 (-10%, was $14.99)
+Genres: Simulation
+Link: https://store.steampowered.com/app/4581850
+==================================================
+
