@@ -2656,3 +2656,46 @@ Genres: Adventure
 Link: https://store.steampowered.com/app/4180230
 ==================================================
 
+
+--- Run: 2026-04-17 18:40:29 --- (5 new game(s) found)
+
+==================================================
+Name: Last Shinobi
+Release Date: Apr 17, 2026
+Price: $6.99 (-30%, was $9.99)
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/4157010
+==================================================
+
+==================================================
+Name: Generation Exile
+Release Date: Apr 17, 2026
+Price: $19.49 (-35%, was $29.99)
+Genres: Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/2963240
+==================================================
+
+==================================================
+Name: Dunk Cookies
+Release Date: Apr 17, 2026
+Price: $2.99 (-40%, was $4.99)
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4257230
+==================================================
+
+==================================================
+Name: NEONSKY
+Release Date: Apr 17, 2026
+Price: $3.59 (-10%, was $3.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4546400
+==================================================
+
+==================================================
+Name: DataFall
+Release Date: Apr 17, 2026
+Price: $3.39 (-15%, was $3.99)
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4291910
+==================================================
+
