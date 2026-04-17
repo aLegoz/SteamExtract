@@ -2259,3 +2259,62 @@ Genres: Simulation
 Link: https://store.steampowered.com/app/4416220
 ==================================================
 
+
+--- Run: 2026-04-17 10:03:03 --- (7 new game(s) found)
+
+==================================================
+Name: 某一年四季
+Release Date: Apr 17, 2026
+Price: Free to Play
+Genres: Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/4568960
+==================================================
+
+==================================================
+Name: SupercarKickers
+Release Date: Apr 17, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Racing, Sports
+Link: https://store.steampowered.com/app/4546950
+==================================================
+
+==================================================
+Name: Hentai Magical Warriors
+Release Date: Apr 17, 2026
+Price: $4.79 (-40%, was $7.99)
+Genres: Casual, Simulation
+Link: https://store.steampowered.com/app/3986720
+==================================================
+
+==================================================
+Name: Demon's GunPlay 2
+Release Date: Apr 17, 2026
+Price: $9.89 (-10%, was $10.99)
+Genres: Action, Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/2614100
+==================================================
+
+==================================================
+Name: Jobless Hero
+Release Date: Apr 17, 2026
+Price: $8.09 (-10%, was $8.99)
+Genres: Casual, Simulation, Strategy
+Link: https://store.steampowered.com/app/4337830
+==================================================
+
+==================================================
+Name: Animora
+Release Date: Apr 17, 2026
+Price: Free to Play
+Genres: Casual, RPG, Simulation, Free To Play
+Link: https://store.steampowered.com/app/4347190
+==================================================
+
+==================================================
+Name: What is Older?
+Release Date: Apr 16, 2026
+Price: $1.69 (-15%, was $1.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4431760
+==================================================
+
