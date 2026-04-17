@@ -2562,3 +2562,46 @@ Genres: Casual, Indie, Strategy
 Link: https://store.steampowered.com/app/4387870
 ==================================================
 
+
+--- Run: 2026-04-17 16:40:52 --- (5 new game(s) found)
+
+==================================================
+Name: Tacticell Arena
+Release Date: Apr 17, 2026
+Price: $2.99 (-40%, was $4.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4364660
+==================================================
+
+==================================================
+Name: PHAZIKA
+Release Date: Apr 17, 2026
+Price: $3.39 (-15%, was $3.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4354930
+==================================================
+
+==================================================
+Name: The Last Connection
+Release Date: Apr 17, 2026
+Price: Free to Play
+Genres: Indie, Free To Play
+Link: https://store.steampowered.com/app/4523240
+==================================================
+
+==================================================
+Name: Scarlet Idol
+Release Date: Apr 17, 2026
+Price: $6.79 (-15%, was $7.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/3513600
+==================================================
+
+==================================================
+Name: Part-Time Witch
+Release Date: Apr 17, 2026
+Price: $6.29 (-10%, was $6.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/3108980
+==================================================
+
