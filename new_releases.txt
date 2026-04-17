@@ -2377,3 +2377,38 @@ Genres: Action, Adventure, Indie
 Link: https://store.steampowered.com/app/4535700
 ==================================================
 
+
+--- Run: 2026-04-17 12:51:39 --- (4 new game(s) found)
+
+==================================================
+Name: Tokyo Trigger
+Release Date: Apr 17, 2026
+Price: Free to Play
+Genres: Action, Indie, Free To Play
+Link: https://store.steampowered.com/app/3053130
+==================================================
+
+==================================================
+Name: Forbidden Snack
+Release Date: Apr 17, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4400910
+==================================================
+
+==================================================
+Name: Cubepathy
+Release Date: Apr 17, 2026
+Price: $2.39 (-40%, was $3.99)
+Genres: Casual, Indie, Massively Multiplayer
+Link: https://store.steampowered.com/app/4430480
+==================================================
+
+==================================================
+Name: DynamicDesktop
+Release Date: Apr 16, 2026
+Price: $1.79 (-10%, was $1.99)
+Genres: Utilities
+Link: https://store.steampowered.com/app/3556910
+==================================================
+
