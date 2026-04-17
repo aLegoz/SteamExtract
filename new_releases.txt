@@ -2412,3 +2412,22 @@ Genres: Utilities
 Link: https://store.steampowered.com/app/3556910
 ==================================================
 
+
+--- Run: 2026-04-17 14:14:53 --- (2 new game(s) found)
+
+==================================================
+Name: Sanctum Ruins
+Release Date: Apr 17, 2026
+Price: Free to Play
+Genres: Casual, Indie, RPG, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4272290
+==================================================
+
+==================================================
+Name: RAD: Repeat After Death
+Release Date: Apr 17, 2026
+Price: $11.04 (-15%, was $12.99)
+Genres: Action, Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/2875510
+==================================================
+
