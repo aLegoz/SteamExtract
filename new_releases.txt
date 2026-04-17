@@ -2318,3 +2318,62 @@ Genres: Casual, Indie, Strategy
 Link: https://store.steampowered.com/app/4431760
 ==================================================
 
+
+--- Run: 2026-04-17 11:41:19 --- (7 new game(s) found)
+
+==================================================
+Name: Hell is Empty, Demons are playing Apokerlypse
+Release Date: Apr 17, 2026
+Price: Free to Play
+Genres: Casual, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4559800
+==================================================
+
+==================================================
+Name: DARK EDGE
+Release Date: Apr 17, 2026
+Price: $7.99
+Genres: Action, Adventure, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/4248980
+==================================================
+
+==================================================
+Name: Beta Kafe : Write Your Love Story
+Release Date: Apr 17, 2026
+Price: $10.79 (-10%, was $11.99)
+Genres: Adventure, Casual, Simulation
+Link: https://store.steampowered.com/app/3869090
+==================================================
+
+==================================================
+Name: Super Darts Champs
+Release Date: Apr 17, 2026
+Price: $2.99
+Genres: Casual, Sports
+Link: https://store.steampowered.com/app/4559450
+==================================================
+
+==================================================
+Name: Miser King gamesforfarm
+Release Date: Apr 17, 2026
+Price: $0.59 (-40%, was $0.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4516460
+==================================================
+
+==================================================
+Name: Wild Rabbits: Mating Season
+Release Date: Apr 16, 2026
+Price: $7.59
+Genres: Indie, RPG, Simulation
+Link: https://store.steampowered.com/app/4546930
+==================================================
+
+==================================================
+Name: ESKAPI2 7カイキ
+Release Date: Apr 16, 2026
+Price: $5.39 (-10%, was $5.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/4535700
+==================================================
+
