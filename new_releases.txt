@@ -2710,3 +2710,38 @@ Genres: Simulation
 Link: https://store.steampowered.com/app/4581850
 ==================================================
 
+
+--- Run: 2026-04-17 20:33:25 --- (4 new game(s) found)
+
+==================================================
+Name: Neve
+Release Date: Apr 17, 2026
+Price: $9.09 (-30%, was $12.99)
+Genres: Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/2415050
+==================================================
+
+==================================================
+Name: Write Warz
+Release Date: Apr 17, 2026
+Price: $9.99
+Genres: Action, Adventure, Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/2477650
+==================================================
+
+==================================================
+Name: The Lustful Bride
+Release Date: Apr 17, 2026
+Price: $6.99 (-30%, was $9.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4561040
+==================================================
+
+==================================================
+Name: Tower Of Dogma
+Release Date: Apr 17, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Action, Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/4533710
+==================================================
+
