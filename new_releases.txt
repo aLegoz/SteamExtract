@@ -2143,3 +2143,14 @@ Genres: Adventure
 Link: https://store.steampowered.com/app/4053760
 ==================================================
 
+
+--- Run: 2026-04-17 01:19:11 --- (1 new game(s) found)
+
+==================================================
+Name: AICOMI
+Release Date: Apr 16, 2026
+Price: $69.99
+Genres: Adventure
+Link: https://store.steampowered.com/app/4416880
+==================================================
+
