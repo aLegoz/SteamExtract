@@ -2748,3 +2748,14 @@ Link: https://store.steampowered.com/app/4533710
 
 --- Run: 2026-04-17 21:31:30 --- (0 new game(s) found)
 
+
+--- Run: 2026-04-17 23:29:16 --- (1 new game(s) found)
+
+==================================================
+Name: Starlight Mining Company
+Release Date: Apr 17, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: Action, Adventure, Indie, Strategy
+Link: https://store.steampowered.com/app/3424360
+==================================================
+
