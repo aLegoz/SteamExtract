@@ -2431,3 +2431,134 @@ Genres: Action, Adventure, Indie, RPG
 Link: https://store.steampowered.com/app/2875510
 ==================================================
 
+
+--- Run: 2026-04-17 15:47:58 --- (16 new game(s) found)
+
+==================================================
+Name: Venice After Dark
+Release Date: Apr 17, 2026
+Price: $19.99
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/1933960
+==================================================
+
+==================================================
+Name: The Ember Guardian
+Release Date: Apr 17, 2026
+Price: $17.99 (-10%, was $19.99)
+Genres: Action, Adventure, Strategy
+Link: https://store.steampowered.com/app/3570060
+==================================================
+
+==================================================
+Name: Airborne Empire
+Release Date: Apr 17, 2026
+Price: $14.99 (-50%, was $29.99)
+Genres: Action, Adventure, Casual, Indie, RPG, Simulation, Strategy
+Link: https://store.steampowered.com/app/2438680
+==================================================
+
+==================================================
+Name: Mawgate
+Release Date: Apr 17, 2026
+Price: Free to Play
+Genres: Action, Adventure, Indie, Free To Play
+Link: https://store.steampowered.com/app/4566950
+==================================================
+
+==================================================
+Name: Convenience Store Simulator
+Release Date: Apr 17, 2026
+Price: $13.49 (-10%, was $14.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4221940
+==================================================
+
+==================================================
+Name: VertalStrike
+Release Date: Apr 17, 2026
+Price: Free to Play
+Genres: Action, Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/4568780
+==================================================
+
+==================================================
+Name: Yolo Mode
+Release Date: Apr 17, 2026
+Price: $1.99
+Genres: Simulation, Strategy
+Link: https://store.steampowered.com/app/4516940
+==================================================
+
+==================================================
+Name: Cralon
+Release Date: Apr 17, 2026
+Price: $19.99
+Genres: Adventure, Indie, RPG, Simulation
+Link: https://store.steampowered.com/app/3440060
+==================================================
+
+==================================================
+Name: Fremd Wagen: Mod Chaos
+Release Date: Apr 17, 2026
+Price: Free to Play
+Genres: Adventure, Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/3562090
+==================================================
+
+==================================================
+Name: SudokuGo
+Release Date: Apr 17, 2026
+Price: $1.49 (-25%, was $1.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/4463060
+==================================================
+
+==================================================
+Name: Dinosaur Adventure 3-D (1999 Version)
+Release Date: Apr 17, 2026
+Price: $7.49 (-25%, was $9.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/4395390
+==================================================
+
+==================================================
+Name: 3D Dinosaur Adventure
+Release Date: Apr 17, 2026
+Price: $4.49 (-25%, was $5.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/4395370
+==================================================
+
+==================================================
+Name: 鬼サザエトリ(Oni Sazae Tori)
+Release Date: Apr 17, 2026
+Price: $3.99
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4373570
+==================================================
+
+==================================================
+Name: New Yankee: Jelly Chaos
+Release Date: Apr 17, 2026
+Price: $5.94 (-15%, was $6.99)
+Genres: Adventure, Casual, Strategy
+Link: https://store.steampowered.com/app/4395710
+==================================================
+
+==================================================
+Name: Sunlit Journey: The Town
+Release Date: Apr 17, 2026
+Price: $1.59 (-20%, was $1.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/4568470
+==================================================
+
+==================================================
+Name: Hentai Tales: Fallen Wife's Womb
+Release Date: Apr 17, 2026
+Price: $0.59 (-40%, was $0.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4387870
+==================================================
+
