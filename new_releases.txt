@@ -2605,3 +2605,54 @@ Genres: Casual, Indie, Simulation
 Link: https://store.steampowered.com/app/3108980
 ==================================================
 
+
+--- Run: 2026-04-17 17:38:58 --- (6 new game(s) found)
+
+==================================================
+Name: Dead 4 Now: Bio-Weapon Simulator
+Release Date: Apr 17, 2026
+Price: $13.49 (-10%, was $14.99)
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/3755220
+==================================================
+
+==================================================
+Name: The Butler
+Release Date: Apr 17, 2026
+Price: $13.59 (-15%, was $15.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4168280
+==================================================
+
+==================================================
+Name: Hope Harrison
+Release Date: Apr 17, 2026
+Price: Free to Play
+Genres: Action, Adventure, Indie, Free To Play
+Link: https://store.steampowered.com/app/3647620
+==================================================
+
+==================================================
+Name: Project Dejavu
+Release Date: Apr 17, 2026
+Price: $6.29 (-10%, was $6.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/3992720
+==================================================
+
+==================================================
+Name: Treeplanter: Plant real trees🌲
+Release Date: Apr 17, 2026
+Price: $3.19 (-20%, was $3.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/3531490
+==================================================
+
+==================================================
+Name: The Forest Watches
+Release Date: Apr 17, 2026
+Price: $1.97 (-34%, was $2.99)
+Genres: Adventure
+Link: https://store.steampowered.com/app/4180230
+==================================================
+
