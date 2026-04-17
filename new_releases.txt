@@ -2154,3 +2154,86 @@ Genres: Adventure
 Link: https://store.steampowered.com/app/4416880
 ==================================================
 
+
+--- Run: 2026-04-17 04:39:30 --- (10 new game(s) found)
+
+==================================================
+Name: MELFIAS －Azure and Crimson Verge－
+Release Date: Apr 16, 2026
+Price: $10.79 (-10%, was $11.99)
+Genres: Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/4142300
+==================================================
+
+==================================================
+Name: Patent Tycoon
+Release Date: Apr 16, 2026
+Price: Free to Play
+Genres: Simulation, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4154200
+==================================================
+
+==================================================
+Name: PRAGMATA
+Release Date: Apr 16, 2026
+Price: $59.99
+Genres: Action, Adventure
+Link: https://store.steampowered.com/app/3357650
+==================================================
+
+==================================================
+Name: Syr and The Stars' Revival
+Release Date: Apr 16, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: Simulation
+Link: https://store.steampowered.com/app/3748140
+==================================================
+
+==================================================
+Name: holoBase
+Release Date: Apr 16, 2026
+Price: $10.39 (-20%, was $12.99)
+Genres: Action, Sports
+Link: https://store.steampowered.com/app/4521010
+==================================================
+
+==================================================
+Name: The Immortal Is Watching
+Release Date: Apr 16, 2026
+Price: Free to Play
+Genres: Casual, RPG, Free To Play
+Link: https://store.steampowered.com/app/4563320
+==================================================
+
+==================================================
+Name: Flee, My Elven Ninja!  3D
+Release Date: Apr 16, 2026
+Price: $13.49 (-10%, was $14.99)
+Genres: RPG, Simulation
+Link: https://store.steampowered.com/app/3830690
+==================================================
+
+==================================================
+Name: Planet Lust
+Release Date: Apr 16, 2026
+Price: $14.99
+Genres: Action, Adventure
+Link: https://store.steampowered.com/app/3324580
+==================================================
+
+==================================================
+Name: Bullet Barrage Basketball
+Release Date: Apr 16, 2026
+Price: $2.99 (-40%, was $4.99)
+Genres: Action, Casual, Indie, Sports
+Link: https://store.steampowered.com/app/4101530
+==================================================
+
+==================================================
+Name: Rotminers
+Release Date: Apr 16, 2026
+Price: $1.79 (-40%, was $2.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/3968460
+==================================================
+
