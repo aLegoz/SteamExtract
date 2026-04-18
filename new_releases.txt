@@ -2899,3 +2899,22 @@ Genres: Adventure, Indie
 Link: https://store.steampowered.com/app/3936620
 ==================================================
 
+
+--- Run: 2026-04-18 09:37:08 --- (2 new game(s) found)
+
+==================================================
+Name: Into the Cave
+Release Date: Apr 18, 2026
+Price: $9.99
+Genres: Action, Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4304340
+==================================================
+
+==================================================
+Name: Empeti - Quest for the Pinnacle
+Release Date: Apr 18, 2026
+Price: $15.99 (-20%, was $19.99)
+Genres: Adventure, Casual, Indie, RPG, Simulation
+Link: https://store.steampowered.com/app/4545870
+==================================================
+
