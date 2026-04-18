@@ -2888,3 +2888,14 @@ Genres: Action, Indie
 Link: https://store.steampowered.com/app/4545670
 ==================================================
 
+
+--- Run: 2026-04-18 07:52:12 --- (1 new game(s) found)
+
+==================================================
+Name: 金泉风土记
+Release Date: Apr 17, 2026
+Price: $6.99
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/3936620
+==================================================
+
