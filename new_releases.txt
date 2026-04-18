@@ -3021,3 +3021,14 @@ Genres: Casual, Indie, Strategy
 Link: https://store.steampowered.com/app/4547610
 ==================================================
 
+
+--- Run: 2026-04-18 16:25:27 --- (1 new game(s) found)
+
+==================================================
+Name: Sisters in Sin 🔞
+Release Date: Apr 18, 2026
+Price: $9.29 (-38%, was $14.99)
+Genres: Casual, RPG, Simulation
+Link: https://store.steampowered.com/app/4414250
+==================================================
+
