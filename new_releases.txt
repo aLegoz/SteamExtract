@@ -2953,3 +2953,14 @@ Genres: Casual, Indie, RPG, Simulation
 Link: https://store.steampowered.com/app/4384120
 ==================================================
 
+
+--- Run: 2026-04-18 11:25:16 --- (1 new game(s) found)
+
+==================================================
+Name: Prison Glow
+Release Date: Apr 18, 2026
+Price: $5.39 (-10%, was $5.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4575680
+==================================================
+
