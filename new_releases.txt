@@ -2794,3 +2794,38 @@ Genres: Action, Casual, Indie, Strategy
 Link: https://store.steampowered.com/app/3811540
 ==================================================
 
+
+--- Run: 2026-04-18 04:21:47 --- (4 new game(s) found)
+
+==================================================
+Name: How Now Sea Cow?
+Release Date: Apr 17, 2026
+Price: $4.99
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4166150
+==================================================
+
+==================================================
+Name: Cat Simulator: Meow
+Release Date: Apr 17, 2026
+Price: $0.79 (-20%, was $0.99)
+Genres: Adventure, Casual, Indie, RPG, Simulation
+Link: https://store.steampowered.com/app/1469220
+==================================================
+
+==================================================
+Name: E.S.O: Don't Forget
+Release Date: Apr 17, 2026
+Price: $4.99
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4549030
+==================================================
+
+==================================================
+Name: Gloomvex
+Release Date: Apr 17, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4449700
+==================================================
+
