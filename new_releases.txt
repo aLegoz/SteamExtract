@@ -3032,3 +3032,14 @@ Genres: Casual, RPG, Simulation
 Link: https://store.steampowered.com/app/4414250
 ==================================================
 
+
+--- Run: 2026-04-18 18:30:25 --- (1 new game(s) found)
+
+==================================================
+Name: Cosy Puzzle Cabin
+Release Date: Apr 18, 2026
+Price: $2.37 (-10%, was $2.64)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4575650
+==================================================
+
