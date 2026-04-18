@@ -2991,3 +2991,22 @@ Genres: Adventure, Indie, RPG
 Link: https://store.steampowered.com/app/4584060
 ==================================================
 
+
+--- Run: 2026-04-18 13:53:58 --- (2 new game(s) found)
+
+==================================================
+Name: Hiryu no Ken Collection
+Release Date: Apr 18, 2026
+Price: $17.99
+Genres: Action
+Link: https://store.steampowered.com/app/4575330
+==================================================
+
+==================================================
+Name: Space Memory: Fairies
+Release Date: Apr 18, 2026
+Price: $1.19 (-40%, was $1.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4579860
+==================================================
+
