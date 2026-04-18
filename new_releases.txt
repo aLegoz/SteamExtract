@@ -3010,3 +3010,14 @@ Genres: Casual, Indie
 Link: https://store.steampowered.com/app/4579860
 ==================================================
 
+
+--- Run: 2026-04-18 15:27:23 --- (1 new game(s) found)
+
+==================================================
+Name: Abyss Cards
+Release Date: Apr 18, 2026
+Price: $2.79 (-30%, was $3.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4547610
+==================================================
+
