@@ -2964,3 +2964,30 @@ Genres: Adventure, Casual, Indie
 Link: https://store.steampowered.com/app/4575680
 ==================================================
 
+
+--- Run: 2026-04-18 12:34:05 --- (3 new game(s) found)
+
+==================================================
+Name: Echo 91
+Release Date: Apr 18, 2026
+Price: $9.89 (-10%, was $10.99)
+Genres: Indie
+Link: https://store.steampowered.com/app/3906060
+==================================================
+
+==================================================
+Name: Sad Virus Military
+Release Date: Apr 18, 2026
+Price: $0.59 (-40%, was $0.99)
+Genres: Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/4584120
+==================================================
+
+==================================================
+Name: Visual novel: Dashing 90s
+Release Date: Apr 18, 2026
+Price: $0.69 (-30%, was $0.99)
+Genres: Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/4584060
+==================================================
+
