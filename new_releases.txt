@@ -3043,3 +3043,14 @@ Genres: Casual, Indie
 Link: https://store.steampowered.com/app/4575650
 ==================================================
 
+
+--- Run: 2026-04-18 19:32:45 --- (1 new game(s) found)
+
+==================================================
+Name: Gallipoli Trenches: The Forgotten Front WW1
+Release Date: Apr 18, 2026
+Price: $4.99
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/4131480
+==================================================
+
