@@ -2918,3 +2918,38 @@ Genres: Adventure, Casual, Indie, RPG, Simulation
 Link: https://store.steampowered.com/app/4545870
 ==================================================
 
+
+--- Run: 2026-04-18 10:30:10 --- (4 new game(s) found)
+
+==================================================
+Name: Somnium
+Release Date: Apr 18, 2026
+Price: Free to Play
+Genres: Action, Free To Play
+Link: https://store.steampowered.com/app/3717060
+==================================================
+
+==================================================
+Name: Craftia Elements
+Release Date: Apr 18, 2026
+Price: $20.00 (-20%, was $25.00)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4226490
+==================================================
+
+==================================================
+Name: SKIDDDDDD: Tori's Frozen Racing
+Release Date: Apr 18, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Casual, Indie, Racing, Sports
+Link: https://store.steampowered.com/app/4320570
+==================================================
+
+==================================================
+Name: Worthy or Not
+Release Date: Apr 18, 2026
+Price: $6.29 (-10%, was $6.99)
+Genres: Casual, Indie, RPG, Simulation
+Link: https://store.steampowered.com/app/4384120
+==================================================
+
