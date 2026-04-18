@@ -2829,3 +2829,62 @@ Genres: Action, Casual, Indie
 Link: https://store.steampowered.com/app/4449700
 ==================================================
 
+
+--- Run: 2026-04-18 06:06:09 --- (7 new game(s) found)
+
+==================================================
+Name: TheMute
+Release Date: Apr 17, 2026
+Price: $5.39 (-10%, was $5.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/3042580
+==================================================
+
+==================================================
+Name: Radiance of Annihilation -Disorder Eclipse-
+Release Date: Apr 17, 2026
+Price: $5.59 (-20%, was $6.99)
+Genres: Adventure, RPG
+Link: https://store.steampowered.com/app/4353600
+==================================================
+
+==================================================
+Name: Sacrifice
+Release Date: Apr 17, 2026
+Price: $6.29 (-10%, was $6.99)
+Genres: Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/4112790
+==================================================
+
+==================================================
+Name: Shanhai Ranch
+Release Date: Apr 17, 2026
+Price: $2.99
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4549760
+==================================================
+
+==================================================
+Name: Hentai World Bar
+Release Date: Apr 17, 2026
+Price: $0.79 (-20%, was $0.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4520720
+==================================================
+
+==================================================
+Name: Galactic Conflict
+Release Date: Apr 17, 2026
+Price: $3.99
+Genres: Casual, Simulation, Strategy
+Link: https://store.steampowered.com/app/4552360
+==================================================
+
+==================================================
+Name: Peace Incarnate
+Release Date: Apr 17, 2026
+Price: $2.00 (-33%, was $2.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4545670
+==================================================
+
