@@ -2759,3 +2759,38 @@ Genres: Action, Adventure, Indie, Strategy
 Link: https://store.steampowered.com/app/3424360
 ==================================================
 
+
+--- Run: 2026-04-18 01:12:42 --- (4 new game(s) found)
+
+==================================================
+Name: NTR & Zombies
+Release Date: Apr 17, 2026
+Price: $6.79 (-15%, was $7.99)
+Genres: Simulation
+Link: https://store.steampowered.com/app/4120300
+==================================================
+
+==================================================
+Name: CPU Clicker
+Release Date: Apr 17, 2026
+Price: $2.79 (-30%, was $3.99)
+Genres: Casual, Simulation
+Link: https://store.steampowered.com/app/4523800
+==================================================
+
+==================================================
+Name: Do As I Say - Obedience to the Priest
+Release Date: Apr 17, 2026
+Price: $13.49 (-10%, was $14.99)
+Genres: Adventure, Casual
+Link: https://store.steampowered.com/app/3558880
+==================================================
+
+==================================================
+Name: Survivor TD : Favor of the Gods
+Release Date: Apr 17, 2026
+Price: $3.19 (-20%, was $3.99)
+Genres: Action, Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/3811540
+==================================================
+
