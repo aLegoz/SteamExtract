@@ -3122,3 +3122,46 @@ Genres: Indie, Strategy
 Link: https://store.steampowered.com/app/2414310
 ==================================================
 
+
+--- Run: 2026-04-19 17:26:30 --- (5 new game(s) found)
+
+==================================================
+Name: Castle Craft
+Release Date: Apr 19, 2026
+Price: $9.99 (-50%, was $19.99)
+Genres: Action, Casual, RPG, Simulation, Strategy
+Link: https://store.steampowered.com/app/2086680
+==================================================
+
+==================================================
+Name: Core Defense 2099
+Release Date: Apr 19, 2026
+Price: $14.99 (-40%, was $24.99)
+Genres: Casual, Strategy
+Link: https://store.steampowered.com/app/4481540
+==================================================
+
+==================================================
+Name: Creepytape Rewind - Not From Here
+Release Date: Apr 19, 2026
+Price: $2.99
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4569900
+==================================================
+
+==================================================
+Name: Forever With You
+Release Date: Apr 19, 2026
+Price: $3.60 (-20%, was $4.50)
+Genres: Casual, Simulation
+Link: https://store.steampowered.com/app/4139240
+==================================================
+
+==================================================
+Name: SIM Election USA
+Release Date: Apr 19, 2026
+Price: $24.99
+Genres: Simulation, Strategy
+Link: https://store.steampowered.com/app/4551530
+==================================================
+
