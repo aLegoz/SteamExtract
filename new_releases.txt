@@ -3100,3 +3100,14 @@ Genres: Action, Adventure, RPG
 Link: https://store.steampowered.com/app/4355530
 ==================================================
 
+
+--- Run: 2026-04-19 08:55:02 --- (1 new game(s) found)
+
+==================================================
+Name: Lab: Balance
+Release Date: Apr 18, 2026
+Price: $3.99
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4440940
+==================================================
+
