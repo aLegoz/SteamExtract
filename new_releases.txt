@@ -3054,3 +3054,38 @@ Genres: Action, Adventure, Indie
 Link: https://store.steampowered.com/app/4131480
 ==================================================
 
+
+--- Run: 2026-04-19 01:21:39 --- (4 new game(s) found)
+
+==================================================
+Name: Big Breasted Milky Futa Mommies 2
+Release Date: Apr 18, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4558200
+==================================================
+
+==================================================
+Name: AltarCall
+Release Date: Apr 18, 2026
+Price: $3.59 (-40%, was $5.99)
+Genres: Adventure, Simulation
+Link: https://store.steampowered.com/app/4561720
+==================================================
+
+==================================================
+Name: The Presence Ritual
+Release Date: Apr 18, 2026
+Price: $6.99
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/4500970
+==================================================
+
+==================================================
+Name: Phairos Studio
+Release Date: Apr 17, 2026
+Price: $20.00
+Genres: Design & Illustration
+Link: https://store.steampowered.com/app/4541480
+==================================================
+
