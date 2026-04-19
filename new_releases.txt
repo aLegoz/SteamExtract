@@ -3111,3 +3111,14 @@ Genres: Casual, Indie
 Link: https://store.steampowered.com/app/4440940
 ==================================================
 
+
+--- Run: 2026-04-19 11:26:02 --- (1 new game(s) found)
+
+==================================================
+Name: Wyred
+Release Date: Apr 18, 2026
+Price: $8.99
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/2414310
+==================================================
+
