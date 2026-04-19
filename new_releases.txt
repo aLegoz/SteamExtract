@@ -3184,3 +3184,14 @@ Genres: Action
 Link: https://store.steampowered.com/app/4382900
 ==================================================
 
+
+--- Run: 2026-04-19 23:25:26 --- (1 new game(s) found)
+
+==================================================
+Name: SoulBite
+Release Date: Apr 19, 2026
+Price: $4.79 (-20%, was $5.99)
+Genres: Casual, Simulation
+Link: https://store.steampowered.com/app/4427760
+==================================================
+
