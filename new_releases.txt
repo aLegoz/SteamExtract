@@ -3089,3 +3089,14 @@ Genres: Design & Illustration
 Link: https://store.steampowered.com/app/4541480
 ==================================================
 
+
+--- Run: 2026-04-19 06:22:47 --- (1 new game(s) found)
+
+==================================================
+Name: Alone Among the Ruins
+Release Date: Apr 18, 2026
+Price: $1.59 (-20%, was $1.99)
+Genres: Action, Adventure, RPG
+Link: https://store.steampowered.com/app/4355530
+==================================================
+
