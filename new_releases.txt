@@ -3692,3 +3692,30 @@ Genres: Indie
 Link: https://store.steampowered.com/app/3220670
 ==================================================
 
+
+--- Run: 2026-04-20 23:32:33 --- (3 new game(s) found)
+
+==================================================
+Name: Silent Snow
+Release Date: Apr 20, 2026
+Price: $1.19 (-40%, was $1.99)
+Genres: Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/4259250
+==================================================
+
+==================================================
+Name: Message Salon
+Release Date: Apr 20, 2026
+Price: $5.99 (-40%, was $9.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4546680
+==================================================
+
+==================================================
+Name: Hentai Horny Office
+Release Date: Apr 20, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4544180
+==================================================
+
