@@ -3195,3 +3195,46 @@ Genres: Casual, Simulation
 Link: https://store.steampowered.com/app/4427760
 ==================================================
 
+
+--- Run: 2026-04-20 01:21:43 --- (5 new game(s) found)
+
+==================================================
+Name: Hentai Dynasty
+Release Date: Apr 19, 2026
+Price: $1.19 (-40%, was $1.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4458630
+==================================================
+
+==================================================
+Name: Whisper
+Release Date: Apr 19, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Action, Adventure, Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/2313490
+==================================================
+
+==================================================
+Name: Fantasy Pieces: Chapter II
+Release Date: Apr 19, 2026
+Price: $3.39 (-15%, was $3.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4482550
+==================================================
+
+==================================================
+Name: Fantasy Pieces: Chapter I
+Release Date: Apr 19, 2026
+Price: $3.39 (-15%, was $3.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4482530
+==================================================
+
+==================================================
+Name: Lunar Strings
+Release Date: Apr 19, 2026
+Price: $0.99
+Genres: Casual, RPG
+Link: https://store.steampowered.com/app/4203670
+==================================================
+
