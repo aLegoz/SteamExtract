@@ -3273,3 +3273,30 @@ Genres: Casual, Indie, Simulation
 Link: https://store.steampowered.com/app/4426450
 ==================================================
 
+
+--- Run: 2026-04-20 07:09:03 --- (3 new game(s) found)
+
+==================================================
+Name: Tide
+Release Date: Apr 19, 2026
+Price: Free to Play
+Genres: Action, Casual, Indie, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4442260
+==================================================
+
+==================================================
+Name: RuneClick
+Release Date: Apr 19, 2026
+Price: $1.79 (-40%, was $2.99)
+Genres: Casual, RPG
+Link: https://store.steampowered.com/app/4516860
+==================================================
+
+==================================================
+Name: Bad Range
+Release Date: Apr 19, 2026
+Price: $15.01
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4239630
+==================================================
+
