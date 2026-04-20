@@ -3638,3 +3638,30 @@ Genres: RPG, Simulation, Strategy
 Link: https://store.steampowered.com/app/3048750
 ==================================================
 
+
+--- Run: 2026-04-20 18:48:24 --- (3 new game(s) found)
+
+==================================================
+Name: Current
+Release Date: Apr 20, 2026
+Price: $4.89 (-30%, was $6.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/3898810
+==================================================
+
+==================================================
+Name: Fries Drive
+Release Date: Apr 20, 2026
+Price: $5.09 (-15%, was $5.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/3897690
+==================================================
+
+==================================================
+Name: WizardWare
+Release Date: Apr 20, 2026
+Price: $3.74 (-25%, was $4.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4088880
+==================================================
+
