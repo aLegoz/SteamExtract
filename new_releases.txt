@@ -3504,3 +3504,118 @@ Genres: Action, Adventure, Casual, Indie
 Link: https://store.steampowered.com/app/4154900
 ==================================================
 
+
+--- Run: 2026-04-20 16:52:38 --- (14 new game(s) found)
+
+==================================================
+Name: Blades, Bows and Magic
+Release Date: Apr 20, 2026
+Price: $5.59 (-20%, was $6.99)
+Genres: Casual, Strategy
+Link: https://store.steampowered.com/app/3182730
+==================================================
+
+==================================================
+Name: Survive On The Moon
+Release Date: Apr 20, 2026
+Price: Free to Play
+Genres: Action, Adventure, Casual, Indie, Simulation, Strategy, Free To Play
+Link: https://store.steampowered.com/app/3268160
+==================================================
+
+==================================================
+Name: Dungeon Market Simulator
+Release Date: Apr 20, 2026
+Price: $5.99 (-40%, was $9.99)
+Genres: Adventure, Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/3816300
+==================================================
+
+==================================================
+Name: Magissy
+Release Date: Apr 20, 2026
+Price: $11.99 (-20%, was $14.99)
+Genres: Action, Adventure, Indie, RPG, Simulation
+Link: https://store.steampowered.com/app/1636460
+==================================================
+
+==================================================
+Name: Together We Move
+Release Date: Apr 20, 2026
+Price: $2.54 (-15%, was $2.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4424100
+==================================================
+
+==================================================
+Name: Kingdom's Calling: The Final Gospel
+Release Date: Apr 20, 2026
+Price: $4.99
+Genres: Indie
+Link: https://store.steampowered.com/app/4564500
+==================================================
+
+==================================================
+Name: TownsFolk
+Release Date: Apr 20, 2026
+Price: $9.59 (-20%, was $11.99)
+Genres: Adventure, Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/3670580
+==================================================
+
+==================================================
+Name: The Solitary Existence of a Little Universe
+Release Date: Apr 20, 2026
+Price: Free to Play
+Genres: Adventure, Indie, Free To Play
+Link: https://store.steampowered.com/app/3719550
+==================================================
+
+==================================================
+Name: Pillager
+Release Date: Apr 20, 2026
+Price: $2.99
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/3711660
+==================================================
+
+==================================================
+Name: Medieval Machines Builder
+Release Date: Apr 20, 2026
+Price: $11.99
+Genres: Action, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/1584680
+==================================================
+
+==================================================
+Name: Only Driving - Cozy Car Journey
+Release Date: Apr 20, 2026
+Price: $3.19 (-20%, was $3.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4581840
+==================================================
+
+==================================================
+Name: Line Go Up
+Release Date: Apr 20, 2026
+Price: $1.99
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4442890
+==================================================
+
+==================================================
+Name: Sword & Siege Crusades: Book I
+Release Date: Apr 20, 2026
+Price: $33.95 (-15%, was $39.95)
+Genres: Simulation, Strategy
+Link: https://store.steampowered.com/app/4527890
+==================================================
+
+==================================================
+Name: 东方魔法块 ~ Touhou Magic Blocks
+Release Date: Apr 20, 2026
+Price: $1.59 (-20%, was $1.99)
+Genres: Action, Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4498110
+==================================================
+
