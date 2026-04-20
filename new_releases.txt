@@ -3300,3 +3300,30 @@ Genres: Action, Casual, Indie
 Link: https://store.steampowered.com/app/4239630
 ==================================================
 
+
+--- Run: 2026-04-20 09:30:37 --- (3 new game(s) found)
+
+==================================================
+Name: Shadowbane: Resurgence
+Release Date: Apr 20, 2026
+Price: Free to Play
+Genres: Action, Adventure, Massively Multiplayer, RPG, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4371680
+==================================================
+
+==================================================
+Name: Fracture Field
+Release Date: Apr 20, 2026
+Price: $4.54 (-35%, was $6.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/3946110
+==================================================
+
+==================================================
+Name: WishPot
+Release Date: Apr 19, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4134350
+==================================================
+
