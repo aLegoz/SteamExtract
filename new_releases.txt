@@ -3665,3 +3665,30 @@ Genres: Casual, Indie, Simulation
 Link: https://store.steampowered.com/app/4088880
 ==================================================
 
+
+--- Run: 2026-04-20 20:37:47 --- (3 new game(s) found)
+
+==================================================
+Name: Sherman's Quest
+Release Date: Apr 20, 2026
+Price: Free to Play
+Genres: Action, Adventure, Casual, Indie, RPG, Free To Play
+Link: https://store.steampowered.com/app/3531800
+==================================================
+
+==================================================
+Name: Spider Game
+Release Date: Apr 20, 2026
+Price: Free to Play
+Genres: Action, Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/4169010
+==================================================
+
+==================================================
+Name: Murder Mystery Mayhem AI
+Release Date: Apr 20, 2026
+Price: $9.99
+Genres: Indie
+Link: https://store.steampowered.com/app/3220670
+==================================================
+
