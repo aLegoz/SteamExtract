@@ -3327,3 +3327,54 @@ Genres: Casual, Indie, Strategy
 Link: https://store.steampowered.com/app/4134350
 ==================================================
 
+
+--- Run: 2026-04-20 11:09:42 --- (6 new game(s) found)
+
+==================================================
+Name:  All Hail the Orb
+Release Date: Apr 20, 2026
+Price: $6.29 (-10%, was $6.99)
+Genres: Casual, Simulation
+Link: https://store.steampowered.com/app/4262310
+==================================================
+
+==================================================
+Name: Pratfall
+Release Date: Apr 20, 2026
+Price: $6.39 (-20%, was $7.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/4244510
+==================================================
+
+==================================================
+Name: Slot Theory
+Release Date: Apr 20, 2026
+Price: $5.69 (-15%, was $6.70)
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/4523160
+==================================================
+
+==================================================
+Name: Deckbane
+Release Date: Apr 20, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/2473410
+==================================================
+
+==================================================
+Name: Exonie Online
+Release Date: Apr 20, 2026
+Price: Free to Play
+Genres: Action, Adventure, Indie, Massively Multiplayer, RPG, Free To Play
+Link: https://store.steampowered.com/app/4579730
+==================================================
+
+==================================================
+Name: 잿빛의 행성 은하편
+Release Date: Apr 20, 2026
+Price: Free to Play
+Genres: Adventure, RPG, Free To Play
+Link: https://store.steampowered.com/app/3950680
+==================================================
+
