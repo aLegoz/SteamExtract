@@ -3378,3 +3378,30 @@ Genres: Adventure, RPG, Free To Play
 Link: https://store.steampowered.com/app/3950680
 ==================================================
 
+
+--- Run: 2026-04-20 13:01:18 --- (3 new game(s) found)
+
+==================================================
+Name: Sword & Siege Crusades: Book II
+Release Date: Apr 20, 2026
+Price: Free to Play
+Genres: Simulation, Strategy
+Link: https://store.steampowered.com/app/4527900
+==================================================
+
+==================================================
+Name: MMO98
+Release Date: Apr 20, 2026
+Price: $6.29 (-10%, was $6.99)
+Genres: Simulation, Strategy
+Link: https://store.steampowered.com/app/3907940
+==================================================
+
+==================================================
+Name: Cross Math - Logic Number Puzzle
+Release Date: Apr 20, 2026
+Price: $5.09 (-15%, was $5.99)
+Genres: Casual, Strategy
+Link: https://store.steampowered.com/app/4528620
+==================================================
+
