@@ -3619,3 +3619,22 @@ Genres: Action, Casual, Indie, Strategy
 Link: https://store.steampowered.com/app/4498110
 ==================================================
 
+
+--- Run: 2026-04-20 17:48:07 --- (2 new game(s) found)
+
+==================================================
+Name: Scribed castle
+Release Date: Coming soon
+Price: $3.39 (-15%, was $3.99)
+Genres: Casual, Simulation, Strategy
+Link: https://store.steampowered.com/app/4063810
+==================================================
+
+==================================================
+Name: Fool's Court
+Release Date: Apr 20, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: RPG, Simulation, Strategy
+Link: https://store.steampowered.com/app/3048750
+==================================================
+
