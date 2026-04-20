@@ -3238,3 +3238,38 @@ Genres: Casual, RPG
 Link: https://store.steampowered.com/app/4203670
 ==================================================
 
+
+--- Run: 2026-04-20 04:48:17 --- (4 new game(s) found)
+
+==================================================
+Name: Saint Slayer: Spear of Sacrilege
+Release Date: Apr 19, 2026
+Price: $9.99
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/3695650
+==================================================
+
+==================================================
+Name: Faithfall
+Release Date: Apr 19, 2026
+Price: Free to Play
+Genres: Action, Adventure, Indie, Free To Play
+Link: https://store.steampowered.com/app/3418100
+==================================================
+
+==================================================
+Name: Typing Farmer
+Release Date: Apr 19, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4216670
+==================================================
+
+==================================================
+Name: Hentai Marina
+Release Date: Apr 19, 2026
+Price: $0.59 (-40%, was $0.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4426450
+==================================================
+
