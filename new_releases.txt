@@ -4015,3 +4015,70 @@ Genres: Casual
 Link: https://store.steampowered.com/app/4524180
 ==================================================
 
+
+--- Run: 2026-04-21 17:49:44 --- (8 new game(s) found)
+
+==================================================
+Name: Pirate's Booty
+Release Date: Apr 21, 2026
+Price: $6.95 (-13%, was $7.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4590850
+==================================================
+
+==================================================
+Name: Artifact - 3D puzzle
+Release Date: Apr 21, 2026
+Price: $5.09 (-15%, was $5.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4282760
+==================================================
+
+==================================================
+Name: Foreign Sun
+Release Date: Apr 21, 2026
+Price: $17.99 (-10%, was $19.99)
+Genres: Action, Indie, RPG
+Link: https://store.steampowered.com/app/2387560
+==================================================
+
+==================================================
+Name: Stay With Me
+Release Date: Apr 21, 2026
+Price: Free to Play
+Genres: Indie, Free To Play
+Link: https://store.steampowered.com/app/4588170
+==================================================
+
+==================================================
+Name: Scurry
+Release Date: Apr 21, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/3829510
+==================================================
+
+==================================================
+Name: Together: Moon Escape
+Release Date: Apr 21, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/3744430
+==================================================
+
+==================================================
+Name: Save My Scrap
+Release Date: Apr 21, 2026
+Price: $8.79 (-20%, was $10.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4078210
+==================================================
+
+==================================================
+Name: Emberlorn
+Release Date: Apr 21, 2026
+Price: $3.49 (-30%, was $4.99)
+Genres: Action
+Link: https://store.steampowered.com/app/4585550
+==================================================
+
