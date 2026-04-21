@@ -3870,3 +3870,38 @@ Genres: Indie, RPG
 Link: https://store.steampowered.com/app/3371420
 ==================================================
 
+
+--- Run: 2026-04-21 11:52:19 --- (4 new game(s) found)
+
+==================================================
+Name: Legendary Pilots
+Release Date: Apr 21, 2026
+Price: $8.09 (-10%, was $8.99)
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/2393730
+==================================================
+
+==================================================
+Name: Factory Balls Go!
+Release Date: Apr 21, 2026
+Price: $3.39 (-15%, was $3.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/4460470
+==================================================
+
+==================================================
+Name: Hentai Clicker: Tammy is streaming
+Release Date: Apr 21, 2026
+Price: $2.00 (-33%, was $2.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4553220
+==================================================
+
+==================================================
+Name: Luck of the Draw
+Release Date: Apr 21, 2026
+Price: $3.59 (-10%, was $3.99)
+Genres: Casual, Strategy
+Link: https://store.steampowered.com/app/4510550
+==================================================
+
