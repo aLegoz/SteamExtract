@@ -3851,3 +3851,22 @@ Genres: Casual, Indie, RPG, Simulation, Free To Play
 Link: https://store.steampowered.com/app/4491840
 ==================================================
 
+
+--- Run: 2026-04-21 10:08:45 --- (2 new game(s) found)
+
+==================================================
+Name: Excroaalibur
+Release Date: Coming soon
+Price: Free to Play
+Genres: Indie, Free To Play
+Link: https://store.steampowered.com/app/4392470
+==================================================
+
+==================================================
+Name: 吸血鬼杀人事件 The Resurrection of Vampire
+Release Date: Apr 21, 2026
+Price: $5.99
+Genres: Indie, RPG
+Link: https://store.steampowered.com/app/3371420
+==================================================
+
