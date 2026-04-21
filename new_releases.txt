@@ -3964,3 +3964,54 @@ Genres: Adventure, Indie
 Link: https://store.steampowered.com/app/4539000
 ==================================================
 
+
+--- Run: 2026-04-21 16:02:30 --- (6 new game(s) found)
+
+==================================================
+Name: Below the Crown
+Release Date: Apr 21, 2026
+Price: $9.74 (-35%, was $14.99)
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/1883920
+==================================================
+
+==================================================
+Name: Cosmos point
+Release Date: Apr 21, 2026
+Price: $11.69 (-10%, was $12.99)
+Genres: Adventure, Strategy
+Link: https://store.steampowered.com/app/3247720
+==================================================
+
+==================================================
+Name: My Demonic Romance
+Release Date: Apr 21, 2026
+Price: $17.99 (-10%, was $19.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/2370140
+==================================================
+
+==================================================
+Name: Vampire Crawlers: The Turbo Wildcard from Vampire Survivors
+Release Date: Apr 21, 2026
+Price: $9.99
+Genres: Action, Indie, Strategy
+Link: https://store.steampowered.com/app/3265700
+==================================================
+
+==================================================
+Name: Vespers Edge
+Release Date: Apr 21, 2026
+Price: $6.39 (-20%, was $7.99)
+Genres: Action, Indie, RPG
+Link: https://store.steampowered.com/app/4440950
+==================================================
+
+==================================================
+Name: Any Key for Toddlers
+Release Date: Apr 21, 2026
+Price: $3.99
+Genres: Casual
+Link: https://store.steampowered.com/app/4524180
+==================================================
+
