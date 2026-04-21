@@ -3719,3 +3719,22 @@ Genres: Casual, Indie
 Link: https://store.steampowered.com/app/4544180
 ==================================================
 
+
+--- Run: 2026-04-21 01:18:53 --- (2 new game(s) found)
+
+==================================================
+Name: Tessel Run
+Release Date: Apr 20, 2026
+Price: Free to Play
+Genres: Adventure, Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/3661660
+==================================================
+
+==================================================
+Name: Do A Crime
+Release Date: Apr 20, 2026
+Price: $14.99
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4233380
+==================================================
+
