@@ -4082,3 +4082,46 @@ Genres: Action
 Link: https://store.steampowered.com/app/4585550
 ==================================================
 
+
+--- Run: 2026-04-21 18:54:15 --- (5 new game(s) found)
+
+==================================================
+Name: Moon Mice: The Game
+Release Date: Apr 21, 2026
+Price: Free to Play
+Genres: Action, Adventure, RPG, Free To Play
+Link: https://store.steampowered.com/app/4561190
+==================================================
+
+==================================================
+Name: Evymind Subtitles
+Release Date: Apr 21, 2026
+Price: $19.49 (-35%, was $29.99)
+Genres: Utilities, Video Production
+Link: https://store.steampowered.com/app/4484020
+==================================================
+
+==================================================
+Name: billion
+Release Date: Apr 21, 2026
+Price: Free to Play
+Genres: Casual, Free To Play
+Link: https://store.steampowered.com/app/4589500
+==================================================
+
+==================================================
+Name: Alchemist's Garden
+Release Date: Apr 21, 2026
+Price: $3.59 (-10%, was $3.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4503640
+==================================================
+
+==================================================
+Name: Champions of Chaxia
+Release Date: Apr 21, 2026
+Price: $5.09 (-15%, was $5.99)
+Genres: Adventure, RPG
+Link: https://store.steampowered.com/app/3074210
+==================================================
+
