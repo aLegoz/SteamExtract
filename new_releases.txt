@@ -3738,3 +3738,54 @@ Genres: Adventure, Casual, Indie
 Link: https://store.steampowered.com/app/4233380
 ==================================================
 
+
+--- Run: 2026-04-21 04:38:59 --- (6 new game(s) found)
+
+==================================================
+Name: TigerGame
+Release Date: Apr 20, 2026
+Price: $2.39 (-20%, was $2.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4549220
+==================================================
+
+==================================================
+Name: Dialoop -Roguelite Puzzle-
+Release Date: Apr 20, 2026
+Price: $4.79 (-40%, was $7.99)
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/3020550
+==================================================
+
+==================================================
+Name: A Tragedy in Elvish
+Release Date: Apr 20, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: Adventure, RPG
+Link: https://store.steampowered.com/app/3700370
+==================================================
+
+==================================================
+Name: Idle High
+Release Date: Apr 20, 2026
+Price: $4.20
+Genres: Indie
+Link: https://store.steampowered.com/app/4073110
+==================================================
+
+==================================================
+Name: Coinbox Clicker
+Release Date: Apr 20, 2026
+Price: $3.19 (-20%, was $3.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/4299220
+==================================================
+
+==================================================
+Name: Snail Pit League
+Release Date: Apr 20, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Casual, Indie, Racing, Simulation, Sports
+Link: https://store.steampowered.com/app/4546690
+==================================================
+
