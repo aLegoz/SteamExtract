@@ -4125,3 +4125,38 @@ Genres: Adventure, RPG
 Link: https://store.steampowered.com/app/3074210
 ==================================================
 
+
+--- Run: 2026-04-21 19:57:59 --- (4 new game(s) found)
+
+==================================================
+Name: Scream under the house
+Release Date: Apr 21, 2026
+Price: $3.59 (-10%, was $3.99)
+Genres: Action, Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/3916390
+==================================================
+
+==================================================
+Name: Shooting Range Simulator
+Release Date: Apr 21, 2026
+Price: $8.99 (-25%, was $11.99)
+Genres: Action, Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/2967850
+==================================================
+
+==================================================
+Name: Strict Sensei
+Release Date: Apr 21, 2026
+Price: $0.99
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/4598070
+==================================================
+
+==================================================
+Name: Orbital Crew
+Release Date: Apr 21, 2026
+Price: $1.19 (-40%, was $1.99)
+Genres: Action, Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4198450
+==================================================
+
