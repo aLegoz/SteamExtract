@@ -3905,3 +3905,62 @@ Genres: Casual, Strategy
 Link: https://store.steampowered.com/app/4510550
 ==================================================
 
+
+--- Run: 2026-04-21 14:29:52 --- (7 new game(s) found)
+
+==================================================
+Name: Lifecycles of the Traveler Spider
+Release Date: Apr 21, 2026
+Price: $12.74 (-15%, was $14.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/4134330
+==================================================
+
+==================================================
+Name: Music Movement
+Release Date: Apr 21, 2026
+Price: $5.09 (-15%, was $5.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4266460
+==================================================
+
+==================================================
+Name: The Lone Sword
+Release Date: Apr 21, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/3292760
+==================================================
+
+==================================================
+Name: Space Guild
+Release Date: Apr 21, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Action, Casual, Indie, RPG, Simulation, Strategy
+Link: https://store.steampowered.com/app/4589880
+==================================================
+
+==================================================
+Name: very normal rail game
+Release Date: Apr 21, 2026
+Price: $3.19 (-20%, was $3.99)
+Genres: Action, Adventure, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4270660
+==================================================
+
+==================================================
+Name: STELLAR BASTION
+Release Date: Apr 21, 2026
+Price: $2.69 (-10%, was $2.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4529960
+==================================================
+
+==================================================
+Name: SoulSwap
+Release Date: Apr 21, 2026
+Price: $14.39 (-20%, was $17.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4539000
+==================================================
+
