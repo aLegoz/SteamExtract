@@ -3789,3 +3789,30 @@ Genres: Casual, Indie, Racing, Simulation, Sports
 Link: https://store.steampowered.com/app/4546690
 ==================================================
 
+
+--- Run: 2026-04-21 06:27:52 --- (3 new game(s) found)
+
+==================================================
+Name: One King Is Enough
+Release Date: Apr 20, 2026
+Price: $8.79 (-20%, was $10.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/2858880
+==================================================
+
+==================================================
+Name: Lap of the Gods: A Visual Novel
+Release Date: Apr 20, 2026
+Price: $7.99
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/3138230
+==================================================
+
+==================================================
+Name: Pixel Worldcraft Map Creator
+Release Date: Apr 20, 2026
+Price: $11.19 (-20%, was $13.99)
+Genres: RPG, Animation & Modeling, Design & Illustration, Game Development
+Link: https://store.steampowered.com/app/3327690
+==================================================
+
