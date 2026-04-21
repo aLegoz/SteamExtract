@@ -4163,3 +4163,22 @@ Link: https://store.steampowered.com/app/4198450
 
 --- Run: 2026-04-21 22:29:01 --- (0 new game(s) found)
 
+
+--- Run: 2026-04-21 23:26:45 --- (2 new game(s) found)
+
+==================================================
+Name: Isolation Simulator
+Release Date: Apr 21, 2026
+Price: $3.74 (-25%, was $4.99)
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/1338430
+==================================================
+
+==================================================
+Name: Omnicore: Freiza's Retribution
+Release Date: Apr 21, 2026
+Price: $9.74 (-25%, was $12.99)
+Genres: Action, Indie, Strategy
+Link: https://store.steampowered.com/app/4504810
+==================================================
+
