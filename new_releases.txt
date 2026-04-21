@@ -3816,3 +3816,38 @@ Genres: RPG, Animation & Modeling, Design & Illustration, Game Development
 Link: https://store.steampowered.com/app/3327690
 ==================================================
 
+
+--- Run: 2026-04-21 08:25:20 --- (4 new game(s) found)
+
+==================================================
+Name: VanillaBeast: Mystery Kink
+Release Date: Apr 21, 2026
+Price: $14.99
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/2722990
+==================================================
+
+==================================================
+Name: U.F.F.C - Ultra Fuckin’ Fuckable Championship
+Release Date: Apr 21, 2026
+Price: $8.09 (-10%, was $8.99)
+Genres: Casual, RPG
+Link: https://store.steampowered.com/app/3436220
+==================================================
+
+==================================================
+Name: The Third Shift
+Release Date: Apr 20, 2026
+Price: $10.79 (-10%, was $11.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/2079480
+==================================================
+
+==================================================
+Name: Beesy Life
+Release Date: Apr 20, 2026
+Price: Free to Play
+Genres: Casual, Indie, RPG, Simulation, Free To Play
+Link: https://store.steampowered.com/app/4491840
+==================================================
+
