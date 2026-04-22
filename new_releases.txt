@@ -4634,3 +4634,22 @@ Genres: Action, Casual, Indie, Strategy
 Link: https://store.steampowered.com/app/4383460
 ==================================================
 
+
+--- Run: 2026-04-22 20:54:41 --- (2 new game(s) found)
+
+==================================================
+Name: Melancholic Night
+Release Date: Apr 22, 2026
+Price: $0.99
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4561310
+==================================================
+
+==================================================
+Name: Magic Regrowth
+Release Date: Apr 22, 2026
+Price: $13.99
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/3428310
+==================================================
+
