@@ -4314,3 +4314,30 @@ Genres: Indie, Simulation
 Link: https://store.steampowered.com/app/3986100
 ==================================================
 
+
+--- Run: 2026-04-22 10:09:09 --- (3 new game(s) found)
+
+==================================================
+Name: Combat Kart
+Release Date: Apr 22, 2026
+Price: $11.69 (-10%, was $12.99)
+Genres: Action, Casual, Indie, Racing, RPG, Simulation, Sports, Strategy
+Link: https://store.steampowered.com/app/2399430
+==================================================
+
+==================================================
+Name: SpaceRiddle
+Release Date: Apr 22, 2026
+Price: $3.99
+Genres: Indie
+Link: https://store.steampowered.com/app/4452660
+==================================================
+
+==================================================
+Name: Ava Loveless
+Release Date: Apr 21, 2026
+Price: $3.99
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4513900
+==================================================
+
