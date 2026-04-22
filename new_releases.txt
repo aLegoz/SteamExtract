@@ -4241,3 +4241,46 @@ Genres: Casual, Indie, Simulation
 Link: https://store.steampowered.com/app/4596650
 ==================================================
 
+
+--- Run: 2026-04-22 04:36:26 --- (5 new game(s) found)
+
+==================================================
+Name: KNOCKOFF
+Release Date: Apr 21, 2026
+Price: $2.99
+Genres: Action, Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/3269810
+==================================================
+
+==================================================
+Name: LoopSpace
+Release Date: Apr 21, 2026
+Price: $3.59 (-10%, was $3.99)
+Genres: Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/4189860
+==================================================
+
+==================================================
+Name: Fantasy Pieces: Chapter III
+Release Date: Apr 21, 2026
+Price: $3.39 (-15%, was $3.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4482540
+==================================================
+
+==================================================
+Name: Divineblaze : March Tactics
+Release Date: Apr 21, 2026
+Price: $12.74 (-15%, was $14.99)
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/3800870
+==================================================
+
+==================================================
+Name: Nugatory
+Release Date: Apr 21, 2026
+Price: Free to Play
+Genres: Adventure, Casual, Simulation, Free To Play
+Link: https://store.steampowered.com/app/3715920
+==================================================
+
