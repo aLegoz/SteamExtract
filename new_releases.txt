@@ -4481,3 +4481,86 @@ Genres: Adventure, Indie
 Link: https://store.steampowered.com/app/4395900
 ==================================================
 
+
+--- Run: 2026-04-22 17:50:11 --- (10 new game(s) found)
+
+==================================================
+Name: Dungeon Gals
+Release Date: Apr 22, 2026
+Price: $13.49 (-10%, was $14.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/2864880
+==================================================
+
+==================================================
+Name: Factory 95
+Release Date: Apr 22, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: Simulation
+Link: https://store.steampowered.com/app/3987250
+==================================================
+
+==================================================
+Name: Medieval Crafter: Blacksmith
+Release Date: Apr 22, 2026
+Price: $7.19 (-40%, was $11.99)
+Genres: Indie, RPG, Simulation
+Link: https://store.steampowered.com/app/2331280
+==================================================
+
+==================================================
+Name: 666 Malevolence Lane
+Release Date: Apr 22, 2026
+Price: $6.66
+Genres: Casual
+Link: https://store.steampowered.com/app/4450260
+==================================================
+
+==================================================
+Name: Beat Tokyo with Jimotoism
+Release Date: Apr 22, 2026
+Price: $9.99
+Genres: Action, Adventure, Casual, Indie, Sports
+Link: https://store.steampowered.com/app/3488700
+==================================================
+
+==================================================
+Name: Perfect Porcelain
+Release Date: Apr 22, 2026
+Price: $13.49 (-10%, was $14.99)
+Genres: Indie, RPG
+Link: https://store.steampowered.com/app/3997370
+==================================================
+
+==================================================
+Name: ジャリネスハートPro
+Release Date: Apr 22, 2026
+Price: $4.54 (-35%, was $6.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4416130
+==================================================
+
+==================================================
+Name: 100 School Cats
+Release Date: Apr 22, 2026
+Price: $1.19 (-40%, was $1.99)
+Genres: Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/4324590
+==================================================
+
+==================================================
+Name: Seed 2313
+Release Date: Apr 22, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Action, Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/3859940
+==================================================
+
+==================================================
+Name: Santa Smoke: Prologue
+Release Date: Apr 22, 2026
+Price: $0.59 (-40%, was $0.99)
+Genres: Indie
+Link: https://store.steampowered.com/app/4574210
+==================================================
+
