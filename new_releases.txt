@@ -4564,3 +4564,14 @@ Genres: Indie
 Link: https://store.steampowered.com/app/4574210
 ==================================================
 
+
+--- Run: 2026-04-22 18:55:11 --- (1 new game(s) found)
+
+==================================================
+Name: CAPTURED 2
+Release Date: Apr 22, 2026
+Price: $7.19 (-10%, was $7.99)
+Genres: Action
+Link: https://store.steampowered.com/app/3390880
+==================================================
+
