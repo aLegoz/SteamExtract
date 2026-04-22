@@ -4368,3 +4368,38 @@ Genres: Indie, Simulation, Free To Play
 Link: https://store.steampowered.com/app/4395630
 ==================================================
 
+
+--- Run: 2026-04-22 12:56:01 --- (4 new game(s) found)
+
+==================================================
+Name: Satori
+Release Date: Apr 22, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/4595670
+==================================================
+
+==================================================
+Name: Revenger2
+Release Date: Apr 22, 2026
+Price: $2.69 (-10%, was $2.99)
+Genres: RPG
+Link: https://store.steampowered.com/app/4456130
+==================================================
+
+==================================================
+Name: Anime Girls: Climb Together
+Release Date: Apr 22, 2026
+Price: $1.69 (-15%, was $1.99)
+Genres: Adventure, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4581580
+==================================================
+
+==================================================
+Name: ANIMA : Dark Fairy Tale for Adults
+Release Date: Apr 21, 2026
+Price: $9.99
+Genres: Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/4547250
+==================================================
+
