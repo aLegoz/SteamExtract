@@ -4656,3 +4656,22 @@ Link: https://store.steampowered.com/app/3428310
 
 --- Run: 2026-04-22 22:36:58 --- (0 new game(s) found)
 
+
+--- Run: 2026-04-22 23:36:54 --- (2 new game(s) found)
+
+==================================================
+Name: Rumbral
+Release Date: Apr 22, 2026
+Price: $9.74 (-25%, was $12.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/3565040
+==================================================
+
+==================================================
+Name: GAME The Strongest Job Is Apparently Not a Hero or a Sage, but an Appraiser (Provisional)! ~Dungeon and Mystery Girl~
+Release Date: Apr 22, 2026
+Price: $21.59 (-10%, was $23.99)
+Genres: Action
+Link: https://store.steampowered.com/app/4320940
+==================================================
+
