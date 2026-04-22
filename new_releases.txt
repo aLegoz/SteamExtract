@@ -4575,3 +4575,62 @@ Genres: Action
 Link: https://store.steampowered.com/app/3390880
 ==================================================
 
+
+--- Run: 2026-04-22 19:59:32 --- (7 new game(s) found)
+
+==================================================
+Name: 101 Cats in Dublin
+Release Date: Apr 22, 2026
+Price: $1.19 (-40%, was $1.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4523090
+==================================================
+
+==================================================
+Name: Ignition to Extinction
+Release Date: Apr 22, 2026
+Price: Free to Play
+Genres: Casual, Indie, Racing, Free To Play
+Link: https://store.steampowered.com/app/4464350
+==================================================
+
+==================================================
+Name: 101 Dogs Hidden in Rome
+Release Date: Apr 22, 2026
+Price: $1.19 (-40%, was $1.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4523070
+==================================================
+
+==================================================
+Name: Midnight Hoops
+Release Date: Apr 22, 2026
+Price: $3.39 (-15%, was $3.99)
+Genres: Adventure, Indie, Simulation, Sports
+Link: https://store.steampowered.com/app/4095020
+==================================================
+
+==================================================
+Name: Fall Again
+Release Date: Apr 22, 2026
+Price: $4.99
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4565980
+==================================================
+
+==================================================
+Name: Holding Pattern
+Release Date: Apr 22, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Casual, Strategy
+Link: https://store.steampowered.com/app/4309180
+==================================================
+
+==================================================
+Name: Q.U.B.E: Incremental TD
+Release Date: Apr 22, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Action, Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4383460
+==================================================
+
