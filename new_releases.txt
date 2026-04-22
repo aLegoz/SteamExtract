@@ -4182,3 +4182,62 @@ Genres: Action, Indie, Strategy
 Link: https://store.steampowered.com/app/4504810
 ==================================================
 
+
+--- Run: 2026-04-22 01:17:33 --- (7 new game(s) found)
+
+==================================================
+Name: Island Treasures
+Release Date: Apr 21, 2026
+Price: $1.49 (-25%, was $1.99)
+Genres: Action, Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/3745650
+==================================================
+
+==================================================
+Name: KILLGUN
+Release Date: Apr 21, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Action, Adventure
+Link: https://store.steampowered.com/app/4400190
+==================================================
+
+==================================================
+Name: 三国：百将牌
+Release Date: Apr 21, 2026
+Price: Free to Play
+Genres: Casual, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4071040
+==================================================
+
+==================================================
+Name: BOOM: Excelente
+Release Date: Apr 21, 2026
+Price: $3.59 (-40%, was $5.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4363170
+==================================================
+
+==================================================
+Name: Big Beautiful Women: Giantess Dating Action
+Release Date: Apr 21, 2026
+Price: $17.99 (-10%, was $19.99)
+Genres: Simulation
+Link: https://store.steampowered.com/app/3220050
+==================================================
+
+==================================================
+Name: Deadlivery Night
+Release Date: Apr 21, 2026
+Price: $9.99
+Genres: Indie
+Link: https://store.steampowered.com/app/4020020
+==================================================
+
+==================================================
+Name: Hentai Turbulence
+Release Date: Apr 21, 2026
+Price: $1.19 (-40%, was $1.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4596650
+==================================================
+
