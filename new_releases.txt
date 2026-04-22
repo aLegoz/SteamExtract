@@ -4341,3 +4341,30 @@ Genres: Casual, Indie
 Link: https://store.steampowered.com/app/4513900
 ==================================================
 
+
+--- Run: 2026-04-22 11:50:22 --- (3 new game(s) found)
+
+==================================================
+Name: Caromble!
+Release Date: Apr 22, 2026
+Price: $10.39 (-20%, was $12.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/347660
+==================================================
+
+==================================================
+Name: BLOOD MALL: RETAPED
+Release Date: Apr 22, 2026
+Price: $1.79 (-10%, was $1.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/4391590
+==================================================
+
+==================================================
+Name: Office Hours
+Release Date: Apr 22, 2026
+Price: Free to Play
+Genres: Indie, Simulation, Free To Play
+Link: https://store.steampowered.com/app/4395630
+==================================================
+
