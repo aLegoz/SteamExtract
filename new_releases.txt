@@ -4430,3 +4430,54 @@ Genres: Casual, Indie, Free To Play
 Link: https://store.steampowered.com/app/4583390
 ==================================================
 
+
+--- Run: 2026-04-22 16:00:31 --- (6 new game(s) found)
+
+==================================================
+Name: Ultimate Drummer
+Release Date: Apr 22, 2026
+Price: $4.97 (-17%, was $5.99)
+Genres: Action, Adventure, RPG
+Link: https://store.steampowered.com/app/3646020
+==================================================
+
+==================================================
+Name: Planet Keeper Program
+Release Date: Apr 22, 2026
+Price: $4.79 (-20%, was $5.99)
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/2923610
+==================================================
+
+==================================================
+Name: Alice in Wonder Underland AIWU
+Release Date: Apr 22, 2026
+Price: $15.99 (-20%, was $19.99)
+Genres: Adventure
+Link: https://store.steampowered.com/app/4406390
+==================================================
+
+==================================================
+Name: Colony Defense - Tower Defense
+Release Date: Apr 22, 2026
+Price: $5.58 (-20%, was $6.98)
+Genres: Action, Casual, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/2659480
+==================================================
+
+==================================================
+Name: Hentai Love Hotel
+Release Date: Apr 22, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4548130
+==================================================
+
+==================================================
+Name: Subliminal Echoes
+Release Date: Apr 22, 2026
+Price: $1.99
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4395900
+==================================================
+
