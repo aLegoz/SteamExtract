@@ -4403,3 +4403,30 @@ Genres: Adventure, Indie, RPG
 Link: https://store.steampowered.com/app/4547250
 ==================================================
 
+
+--- Run: 2026-04-22 14:29:47 --- (3 new game(s) found)
+
+==================================================
+Name: Secrets in Stone
+Release Date: Apr 22, 2026
+Price: $2.99 (-40%, was $4.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4079990
+==================================================
+
+==================================================
+Name: Tides of Tomorrow 🌊
+Release Date: Apr 22, 2026
+Price: $23.99 (-20%, was $29.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/2678080
+==================================================
+
+==================================================
+Name: Gridlock
+Release Date: Apr 22, 2026
+Price: Free to Play
+Genres: Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/4583390
+==================================================
+
