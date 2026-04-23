@@ -4769,3 +4769,30 @@ Genres: Adventure, Casual, Indie, Simulation
 Link: https://store.steampowered.com/app/4106310
 ==================================================
 
+
+--- Run: 2026-04-23 06:53:55 --- (3 new game(s) found)
+
+==================================================
+Name: Stray Cat Doors
+Release Date: Apr 22, 2026
+Price: $2.59
+Genres: Adventure
+Link: https://store.steampowered.com/app/4474150
+==================================================
+
+==================================================
+Name: Bedtime Stories 4
+Release Date: Apr 22, 2026
+Price: $11.69 (-10%, was $12.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/4203620
+==================================================
+
+==================================================
+Name: Memories Off Sousou Break out of my shell
+Release Date: Apr 22, 2026
+Price: $35.99 (-10%, was $39.99)
+Genres: Adventure
+Link: https://store.steampowered.com/app/4231560
+==================================================
+
