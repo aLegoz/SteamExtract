@@ -4976,3 +4976,102 @@ Genres: Action, Casual, Indie, Massively Multiplayer, Strategy, Free To Play
 Link: https://store.steampowered.com/app/3831400
 ==================================================
 
+
+--- Run: 2026-04-23 15:07:53 --- (12 new game(s) found)
+
+==================================================
+Name: MineZone
+Release Date: Apr 23, 2026
+Price: $2.99
+Genres: Action, Simulation, Strategy
+Link: https://store.steampowered.com/app/4546290
+==================================================
+
+==================================================
+Name: Numeral Strike
+Release Date: Apr 23, 2026
+Price: $11.69 (-10%, was $12.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/3708620
+==================================================
+
+==================================================
+Name: 101 Dogs Hidden in Bangkok
+Release Date: Apr 23, 2026
+Price: $1.19 (-40%, was $1.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4523080
+==================================================
+
+==================================================
+Name: LYSA HORA: The Haunted Hill
+Release Date: Apr 23, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Adventure
+Link: https://store.steampowered.com/app/3963490
+==================================================
+
+==================================================
+Name: The Last Cat in the Universe
+Release Date: Apr 23, 2026
+Price: $6.29 (-10%, was $6.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4197890
+==================================================
+
+==================================================
+Name: Hunted Within: The Metro
+Release Date: Apr 23, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/4220430
+==================================================
+
+==================================================
+Name: Sudden Strike 5
+Release Date: Apr 23, 2026
+Price: $44.99 (-10%, was $49.99)
+Genres: Action, Strategy
+Link: https://store.steampowered.com/app/2808550
+==================================================
+
+==================================================
+Name: Bound To Fail
+Release Date: Apr 23, 2026
+Price: $5.39 (-10%, was $5.99)
+Genres: Action, Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4508090
+==================================================
+
+==================================================
+Name: Elusive Ilan
+Release Date: Apr 23, 2026
+Price: Free to Play
+Genres: Action, Adventure, Indie, Free To Play
+Link: https://store.steampowered.com/app/4602960
+==================================================
+
+==================================================
+Name: Lost Soul of the Missing Island
+Release Date: Apr 23, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/4568730
+==================================================
+
+==================================================
+Name: 舌尖上的神兽
+Release Date: Apr 23, 2026
+Price: $1.79 (-10%, was $1.99)
+Genres: Adventure, Casual, Indie, RPG
+Link: https://store.steampowered.com/app/4534020
+==================================================
+
+==================================================
+Name: 我是小保安
+Release Date: Apr 23, 2026
+Price: $1.79 (-10%, was $1.99)
+Genres: Adventure, Casual, RPG
+Link: https://store.steampowered.com/app/4529720
+==================================================
+
