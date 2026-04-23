@@ -4949,3 +4949,30 @@ Genres: Indie, RPG
 Link: https://store.steampowered.com/app/3424670
 ==================================================
 
+
+--- Run: 2026-04-23 12:56:01 --- (3 new game(s) found)
+
+==================================================
+Name: Age Of Warbots
+Release Date: Apr 23, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Action, Casual, Indie, Simulation, Strategy, Free To Play
+Link: https://store.steampowered.com/app/3371630
+==================================================
+
+==================================================
+Name: Posthuman: Guardians vs PSION
+Release Date: Apr 23, 2026
+Price: $4.89 (-30%, was $6.99)
+Genres: RPG
+Link: https://store.steampowered.com/app/4400600
+==================================================
+
+==================================================
+Name: Anchor's Lament
+Release Date: Apr 23, 2026
+Price: Free to Play
+Genres: Action, Casual, Indie, Massively Multiplayer, Strategy, Free To Play
+Link: https://store.steampowered.com/app/3831400
+==================================================
+
