@@ -4823,3 +4823,70 @@ Genres: Adventure, Simulation
 Link: https://store.steampowered.com/app/4093270
 ==================================================
 
+
+--- Run: 2026-04-23 10:12:27 --- (8 new game(s) found)
+
+==================================================
+Name: Who The Fuck Ate Grandma ?
+Release Date: Apr 23, 2026
+Price: $6.99
+Genres: Adventure
+Link: https://store.steampowered.com/app/1756100
+==================================================
+
+==================================================
+Name: Forefront
+Release Date: Apr 23, 2026
+Price: $27.99
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/2981220
+==================================================
+
+==================================================
+Name: Sophie's Grids
+Release Date: Apr 23, 2026
+Price: Free to Play
+Genres: Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/2310850
+==================================================
+
+==================================================
+Name: Poly Bricks
+Release Date: Apr 23, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Simulation
+Link: https://store.steampowered.com/app/3449470
+==================================================
+
+==================================================
+Name: Reptilian Rising
+Release Date: Apr 23, 2026
+Price: $23.99 (-20%, was $29.99)
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/1625460
+==================================================
+
+==================================================
+Name: Deep Sea Delivery & Co.
+Release Date: Apr 23, 2026
+Price: $6.99
+Genres: Action, Adventure, Casual, RPG
+Link: https://store.steampowered.com/app/4565990
+==================================================
+
+==================================================
+Name: The Fruit Merchant's Diary
+Release Date: Apr 22, 2026
+Price: $7.50 (-25%, was $10.00)
+Genres: Action, Adventure, Casual, Indie, RPG, Simulation, Strategy
+Link: https://store.steampowered.com/app/3538450
+==================================================
+
+==================================================
+Name: Nightmare Medica
+Release Date: Apr 22, 2026
+Price: $2.99
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4578620
+==================================================
+
