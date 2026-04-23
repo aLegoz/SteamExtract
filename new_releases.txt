@@ -5311,3 +5311,86 @@ Genres: Casual, Indie, Free To Play
 Link: https://store.steampowered.com/app/4582030
 ==================================================
 
+
+--- Run: 2026-04-23 21:36:04 --- (10 new game(s) found)
+
+==================================================
+Name: Cat Adventure
+Release Date: Q2 2026
+Price: Free to Play
+Genres: Adventure, Casual, Free To Play
+Link: https://store.steampowered.com/app/4488380
+==================================================
+
+==================================================
+Name: Battle 3D - Strategy game
+Release Date: Apr 23, 2026
+Price: Free to Play
+Genres: Simulation, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4563570
+==================================================
+
+==================================================
+Name: Paws Coven
+Release Date: Apr 23, 2026
+Price: $5.94 (-15%, was $6.99)
+Genres: Action, Casual
+Link: https://store.steampowered.com/app/4238920
+==================================================
+
+==================================================
+Name: Raw Signal - Uncover Gay Hidden Secrets
+Release Date: Apr 23, 2026
+Price: Free to Play
+Genres: Simulation, Free To Play
+Link: https://store.steampowered.com/app/3949680
+==================================================
+
+==================================================
+Name: Codex Solis: Purrgatorium
+Release Date: Apr 23, 2026
+Price: $11.24 (-25%, was $14.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4553910
+==================================================
+
+==================================================
+Name: Cruel Paradise
+Release Date: Apr 23, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4336370
+==================================================
+
+==================================================
+Name: Tiny Glass Tank: Dwarf Shrimp and Friends
+Release Date: Apr 23, 2026
+Price: $11.04 (-15%, was $12.99)
+Genres: Simulation
+Link: https://store.steampowered.com/app/4593750
+==================================================
+
+==================================================
+Name: Sweet Worker
+Release Date: Apr 23, 2026
+Price: $0.89 (-10%, was $0.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4334470
+==================================================
+
+==================================================
+Name: Parting Shadows
+Release Date: Apr 23, 2026
+Price: $13.49 (-10%, was $14.99)
+Genres: Indie, RPG
+Link: https://store.steampowered.com/app/4545380
+==================================================
+
+==================================================
+Name: Five Nights at Carson's
+Release Date: Apr 23, 2026
+Price: $2.99
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/4559320
+==================================================
+
