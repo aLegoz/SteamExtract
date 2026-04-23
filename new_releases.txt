@@ -5437,3 +5437,30 @@ Genres: Casual, Indie, Strategy
 Link: https://store.steampowered.com/app/4576860
 ==================================================
 
+
+--- Run: 2026-04-23 23:34:45 --- (3 new game(s) found)
+
+==================================================
+Name: Rat of Infinity: Idle Clicker
+Release Date: Apr 23, 2026
+Price: Free to Play
+Genres: Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/4289850
+==================================================
+
+==================================================
+Name: Neko Loop
+Release Date: Apr 23, 2026
+Price: $17.50
+Genres: Action, Adventure, Indie, Strategy
+Link: https://store.steampowered.com/app/2055470
+==================================================
+
+==================================================
+Name: FATAL FURY: City of the Wolves
+Release Date: Jan 22, 2026
+Price: $19.99
+Genres: Action
+Link: https://store.steampowered.com/app/2492040
+==================================================
+
