@@ -4694,3 +4694,78 @@ Genres: Action, Adventure, Casual, Indie, Simulation
 Link: https://store.steampowered.com/app/3948040
 ==================================================
 
+
+--- Run: 2026-04-23 04:41:30 --- (9 new game(s) found)
+
+==================================================
+Name: FIND KITTENS 11: Dollhouse
+Release Date: Apr 22, 2026
+Price: $0.83 (-16%, was $0.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4591240
+==================================================
+
+==================================================
+Name: Puzzle Bobble Everybubble!
+Release Date: Apr 22, 2026
+Price: $31.99 (-20%, was $39.99)
+Genres: Action, Casual
+Link: https://store.steampowered.com/app/3990960
+==================================================
+
+==================================================
+Name: Your Meow-jesty!
+Release Date: Apr 22, 2026
+Price: $1.99
+Genres: Adventure, Casual
+Link: https://store.steampowered.com/app/4453370
+==================================================
+
+==================================================
+Name: Broken Voyage
+Release Date: Apr 22, 2026
+Price: Free to Play
+Genres: Simulation, Free To Play
+Link: https://store.steampowered.com/app/4422650
+==================================================
+
+==================================================
+Name: Fruit Mountain Party
+Release Date: Apr 22, 2026
+Price: $12.99
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/3467540
+==================================================
+
+==================================================
+Name: ARTDINK GAME LOG: Aquanaut's Holiday
+Release Date: Apr 22, 2026
+Price: $15.99 (-20%, was $19.99)
+Genres: Simulation
+Link: https://store.steampowered.com/app/4042750
+==================================================
+
+==================================================
+Name: Secret Some
+Release Date: Apr 22, 2026
+Price: $13.49 (-10%, was $14.99)
+Genres: Adventure, Simulation
+Link: https://store.steampowered.com/app/4047680
+==================================================
+
+==================================================
+Name: Liz and Rose's Alchemy Factory
+Release Date: Apr 22, 2026
+Price: $19.99 (-20%, was $24.99)
+Genres: Adventure
+Link: https://store.steampowered.com/app/3143550
+==================================================
+
+==================================================
+Name: Wubbo: PuterPal
+Release Date: Apr 22, 2026
+Price: $6.99
+Genres: Adventure, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4106310
+==================================================
+
