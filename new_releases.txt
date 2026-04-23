@@ -5289,3 +5289,14 @@ Genres: Casual, Indie
 Link: https://store.steampowered.com/app/4566460
 ==================================================
 
+
+--- Run: 2026-04-23 20:00:01 --- (1 new game(s) found)
+
+==================================================
+Name: Hentai Reina
+Release Date: Apr 23, 2026
+Price: $0.69 (-30%, was $0.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4524290
+==================================================
+
