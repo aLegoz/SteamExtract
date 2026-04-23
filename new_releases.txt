@@ -4796,3 +4796,30 @@ Genres: Adventure
 Link: https://store.steampowered.com/app/4231560
 ==================================================
 
+
+--- Run: 2026-04-23 08:27:09 --- (3 new game(s) found)
+
+==================================================
+Name: Food Truck Chef - Full Course Edition
+Release Date: Apr 23, 2026
+Price: $9.74 (-25%, was $12.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/3653750
+==================================================
+
+==================================================
+Name: Fighters Guild
+Release Date: Apr 23, 2026
+Price: Free to Play
+Genres: Casual, Indie, RPG, Free To Play
+Link: https://store.steampowered.com/app/4581720
+==================================================
+
+==================================================
+Name: Dreams and Desires
+Release Date: Apr 22, 2026
+Price: $23.75 (-15%, was $27.95)
+Genres: Adventure, Simulation
+Link: https://store.steampowered.com/app/4093270
+==================================================
+
