@@ -5300,3 +5300,14 @@ Genres: Casual, Indie, Strategy
 Link: https://store.steampowered.com/app/4524290
 ==================================================
 
+
+--- Run: 2026-04-23 20:54:36 --- (1 new game(s) found)
+
+==================================================
+Name: Coin$ Pusher Ltd
+Release Date: Apr 23, 2026
+Price: Free to Play
+Genres: Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/4582030
+==================================================
+
