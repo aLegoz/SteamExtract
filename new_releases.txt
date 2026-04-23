@@ -4890,3 +4890,62 @@ Genres: Adventure, Casual, Indie
 Link: https://store.steampowered.com/app/4578620
 ==================================================
 
+
+--- Run: 2026-04-23 11:52:16 --- (7 new game(s) found)
+
+==================================================
+Name: shapez 2 - Factory
+Release Date: Apr 23, 2026
+Price: $23.99 (-20%, was $29.99)
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/2162800
+==================================================
+
+==================================================
+Name: AeroWave OS
+Release Date: Apr 23, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4597170
+==================================================
+
+==================================================
+Name: GRID CRYPT
+Release Date: Apr 23, 2026
+Price: $2.69 (-10%, was $2.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4542250
+==================================================
+
+==================================================
+Name: SandTable War: Three Kingdoms
+Release Date: Apr 23, 2026
+Price: $8.49 (-15%, was $9.99)
+Genres: Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/3885930
+==================================================
+
+==================================================
+Name: Empty Village (Part 1) 
+Release Date: Apr 23, 2026
+Price: $5.99 (-25%, was $7.99)
+Genres: Adventure, Casual, Indie, RPG
+Link: https://store.steampowered.com/app/4498230
+==================================================
+
+==================================================
+Name: The Guest II
+Release Date: Apr 23, 2026
+Price: $4.96 (-20%, was $6.20)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/4466990
+==================================================
+
+==================================================
+Name: LUMINEX QUARTET
+Release Date: Apr 23, 2026
+Price: $6.29 (-10%, was $6.99)
+Genres: Indie, RPG
+Link: https://store.steampowered.com/app/3424670
+==================================================
+
