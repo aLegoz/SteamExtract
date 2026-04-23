@@ -4675,3 +4675,22 @@ Genres: Action
 Link: https://store.steampowered.com/app/4320940
 ==================================================
 
+
+--- Run: 2026-04-23 01:22:41 --- (2 new game(s) found)
+
+==================================================
+Name: Spiral to Despair
+Release Date: Apr 22, 2026
+Price: $2.54 (-15%, was $2.99)
+Genres: Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/1652700
+==================================================
+
+==================================================
+Name: Rebounce
+Release Date: Apr 22, 2026
+Price: $9.99
+Genres: Action, Adventure, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/3948040
+==================================================
+
