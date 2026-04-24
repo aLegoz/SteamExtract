@@ -5837,3 +5837,102 @@ Genres: Casual, Indie, RPG, Strategy
 Link: https://store.steampowered.com/app/4558500
 ==================================================
 
+
+--- Run: 2026-04-24 14:27:35 --- (12 new game(s) found)
+
+==================================================
+Name: OBLITACRATER
+Release Date: Apr 24, 2026
+Price: $3.74 (-25%, was $4.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/457250
+==================================================
+
+==================================================
+Name: Set Yourself on Fire
+Release Date: Apr 24, 2026
+Price: Free to Play
+Genres: Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/3048420
+==================================================
+
+==================================================
+Name: Set Yourself on Fire
+Release Date: Apr 24, 2026
+Price: Free to Play
+Genres: Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/3048420
+==================================================
+
+==================================================
+Name: Drowned Caves
+Release Date: Apr 24, 2026
+Price: Free to Play
+Genres: Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/4545120
+==================================================
+
+==================================================
+Name: After the Curtain Call
+Release Date: Apr 24, 2026
+Price: $5.99
+Genres: Adventure
+Link: https://store.steampowered.com/app/4118020
+==================================================
+
+==================================================
+Name: Spinera
+Release Date: Apr 24, 2026
+Price: $5.94 (-15%, was $6.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/3576520
+==================================================
+
+==================================================
+Name: Rest Area Simulator
+Release Date: Apr 24, 2026
+Price: $8.49 (-15%, was $9.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/3732960
+==================================================
+
+==================================================
+Name: Network Notation
+Release Date: Apr 24, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/3941010
+==================================================
+
+==================================================
+Name: Micro Overdrive: Home Tour
+Release Date: Apr 24, 2026
+Price: $8.79 (-20%, was $10.99)
+Genres: Casual, Indie, Racing
+Link: https://store.steampowered.com/app/4125010
+==================================================
+
+==================================================
+Name: Hentai Tales: Possession Stream Nightmare Idol
+Release Date: Apr 24, 2026
+Price: $0.59 (-40%, was $0.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4337240
+==================================================
+
+==================================================
+Name: hEvEN oN sNOrF
+Release Date: Apr 24, 2026
+Price: $2.79 (-20%, was $3.49)
+Genres: Action, Adventure, Casual, Simulation
+Link: https://store.steampowered.com/app/4543520
+==================================================
+
+==================================================
+Name: Our Ordinary Home
+Release Date: Apr 24, 2026
+Price: $4.99
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4155810
+==================================================
+
