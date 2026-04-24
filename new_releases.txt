@@ -6038,3 +6038,70 @@ Genres: Indie, Strategy
 Link: https://store.steampowered.com/app/3957540
 ==================================================
 
+
+--- Run: 2026-04-24 17:41:40 --- (8 new game(s) found)
+
+==================================================
+Name: Divine Wish
+Release Date: Apr 24, 2026
+Price: $5.24 (-25%, was $6.99)
+Genres: Indie
+Link: https://store.steampowered.com/app/3126200
+==================================================
+
+==================================================
+Name: Misty Land
+Release Date: Apr 24, 2026
+Price: $7.19 (-20%, was $8.99)
+Genres: Action, Indie, Strategy
+Link: https://store.steampowered.com/app/4279880
+==================================================
+
+==================================================
+Name: Climber Toys: Together
+Release Date: Apr 24, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4537780
+==================================================
+
+==================================================
+Name: Boomerang Jack
+Release Date: Apr 24, 2026
+Price: $9.74 (-35%, was $14.99)
+Genres: Action, Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/2010010
+==================================================
+
+==================================================
+Name: Hands up
+Release Date: Apr 24, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4124540
+==================================================
+
+==================================================
+Name: Flock Around
+Release Date: Apr 24, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/3618030
+==================================================
+
+==================================================
+Name: Snap & Grab
+Release Date: Apr 24, 2026
+Price: $7.19 (-10%, was $7.99)
+Genres: Adventure, Indie, Strategy
+Link: https://store.steampowered.com/app/897160
+==================================================
+
+==================================================
+Name: Odyssey of Dremid'ir
+Release Date: Apr 24, 2026
+Price: $15.99 (-20%, was $19.99)
+Genres: Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/2134530
+==================================================
+
