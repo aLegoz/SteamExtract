@@ -5499,3 +5499,166 @@ Genres: Casual, Indie, Simulation
 Link: https://store.steampowered.com/app/4256540
 ==================================================
 
+
+--- Run: 2026-04-24 04:45:43 --- (20 new game(s) found)
+
+==================================================
+Name: OMG! – Overhead Micro Game
+Release Date: Apr 23, 2026
+Price: $5.59 (-20%, was $6.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/3894050
+==================================================
+
+==================================================
+Name: Otaku and Bubbly Girl - 游戏宅与青春女
+Release Date: Apr 23, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4105970
+==================================================
+
+==================================================
+Name: Chyma and the Toll of Time
+Release Date: Apr 23, 2026
+Price: Free to Play
+Genres: Casual, Indie, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4555180
+==================================================
+
+==================================================
+Name: Yunyun Syndrome!? Rhythm Psychosis
+Release Date: Apr 23, 2026
+Price: $15.29 (-10%, was $16.99)
+Genres: Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/2914150
+==================================================
+
+==================================================
+Name: Order of the Ivy
+Release Date: Apr 23, 2026
+Price: $12.74 (-15%, was $14.99)
+Genres: RPG
+Link: https://store.steampowered.com/app/4562390
+==================================================
+
+==================================================
+Name: ACE Strategy: Mecha Nova
+Release Date: Apr 23, 2026
+Price: $12.89 (-14%, was $14.99)
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/3127770
+==================================================
+
+==================================================
+Name: Aethinion
+Release Date: Apr 23, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Casual, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/4581490
+==================================================
+
+==================================================
+Name: Stack to Ascension
+Release Date: Apr 23, 2026
+Price: $11.69 (-10%, was $12.99)
+Genres: Casual, Indie, RPG, Simulation, Strategy
+Link: https://store.steampowered.com/app/3612130
+==================================================
+
+==================================================
+Name: S-mail
+Release Date: Apr 23, 2026
+Price: $2.00 (-20%, was $2.50)
+Genres: Casual, Indie, RPG, Simulation
+Link: https://store.steampowered.com/app/3649700
+==================================================
+
+==================================================
+Name: 16 Personalities Simulator
+Release Date: Apr 23, 2026
+Price: Free to Play
+Genres: Indie, Simulation, Free To Play
+Link: https://store.steampowered.com/app/4505700
+==================================================
+
+==================================================
+Name: Musical Slime
+Release Date: Apr 23, 2026
+Price: $2.69 (-10%, was $2.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/4575860
+==================================================
+
+==================================================
+Name: Wordban: a text-based Sokoban game
+Release Date: Apr 23, 2026
+Price: $11.69 (-10%, was $12.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/3126790
+==================================================
+
+==================================================
+Name: Isekai Bistro
+Release Date: Apr 23, 2026
+Price: $9.89 (-10%, was $10.99)
+Genres: Casual, Indie, RPG, Simulation
+Link: https://store.steampowered.com/app/3570940
+==================================================
+
+==================================================
+Name: 龙王捕鱼
+Release Date: Apr 23, 2026
+Price: Free to Play
+Genres: Action, Adventure, Casual, Massively Multiplayer, Simulation, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4537530
+==================================================
+
+==================================================
+Name: 驱入虚空
+Release Date: Apr 23, 2026
+Price: Free to Play
+Genres: Action, Adventure, Massively Multiplayer, RPG, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4482960
+==================================================
+
+==================================================
+Name: Kingdom's Return: Time-Eating Fruit and the Ancient Monster
+Release Date: Apr 23, 2026
+Price: $14.99
+Genres: Action, RPG
+Link: https://store.steampowered.com/app/3882650
+==================================================
+
+==================================================
+Name: Villainess Trainer
+Release Date: Apr 23, 2026
+Price: $12.74 (-15%, was $14.99)
+Genres: RPG
+Link: https://store.steampowered.com/app/4402320
+==================================================
+
+==================================================
+Name: Your Daddy
+Release Date: Apr 23, 2026
+Price: $0.89 (-10%, was $0.99)
+Genres: Simulation
+Link: https://store.steampowered.com/app/4551520
+==================================================
+
+==================================================
+Name: METRO QUESTER | OSAKA
+Release Date: Apr 23, 2026
+Price: $11.99 (-40%, was $19.99)
+Genres: Adventure, Indie, RPG, Simulation, Strategy
+Link: https://store.steampowered.com/app/4402660
+==================================================
+
+==================================================
+Name: METRO QUESTER
+Release Date: Apr 23, 2026
+Price: $11.99 (-40%, was $19.99)
+Genres: Adventure, Indie, RPG, Simulation, Strategy
+Link: https://store.steampowered.com/app/4402650
+==================================================
+
