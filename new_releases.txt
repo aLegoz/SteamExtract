@@ -5802,3 +5802,38 @@ Genres: Animation & Modeling, Design & Illustration, Education, Utilities, Game 
 Link: https://store.steampowered.com/app/4595970
 ==================================================
 
+
+--- Run: 2026-04-24 12:54:13 --- (4 new game(s) found)
+
+==================================================
+Name: MINDFUNK In 13 Days
+Release Date: Apr 24, 2026
+Price: $2.39 (-20%, was $2.99)
+Genres: Indie
+Link: https://store.steampowered.com/app/4572680
+==================================================
+
+==================================================
+Name: The Brewline - Prologue
+Release Date: Apr 24, 2026
+Price: Free to Play
+Genres: Indie, Simulation, Free To Play
+Link: https://store.steampowered.com/app/4556580
+==================================================
+
+==================================================
+Name: Toot Odyssey
+Release Date: Apr 24, 2026
+Price: $3.74 (-25%, was $4.99)
+Genres: Action, Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/4216740
+==================================================
+
+==================================================
+Name: Squarsenal
+Release Date: Apr 24, 2026
+Price: $1.79 (-10%, was $1.99)
+Genres: Casual, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/4558500
+==================================================
+
