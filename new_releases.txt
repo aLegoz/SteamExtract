@@ -6105,3 +6105,46 @@ Genres: Adventure, Indie, RPG
 Link: https://store.steampowered.com/app/2134530
 ==================================================
 
+
+--- Run: 2026-04-24 18:34:46 --- (5 new game(s) found)
+
+==================================================
+Name: Dreamcore: Rabbit Hole
+Release Date: Apr 24, 2026
+Price: $4.19 (-30%, was $5.99)
+Genres: Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/4149700
+==================================================
+
+==================================================
+Name: Catapult Legend
+Release Date: Apr 24, 2026
+Price: $11.04 (-15%, was $12.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/4506920
+==================================================
+
+==================================================
+Name: KINKY LIZARD!
+Release Date: Apr 24, 2026
+Price: $2.24 (-25%, was $2.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4133070
+==================================================
+
+==================================================
+Name: False Flag
+Release Date: Apr 24, 2026
+Price: Free to Play
+Genres: Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/4530790
+==================================================
+
+==================================================
+Name: castle idler
+Release Date: Apr 24, 2026
+Price: $3.59 (-10%, was $3.99)
+Genres: Casual, Strategy
+Link: https://store.steampowered.com/app/4082900
+==================================================
+
