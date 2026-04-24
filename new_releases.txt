@@ -5783,3 +5783,22 @@ Genres: Action, Casual
 Link: https://store.steampowered.com/app/3217900
 ==================================================
 
+
+--- Run: 2026-04-24 11:51:12 --- (2 new game(s) found)
+
+==================================================
+Name: Gym Empire - Idle Gym Tycoon Management
+Release Date: Apr 24, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Action, Adventure, Casual, Indie, Simulation, Sports, Strategy
+Link: https://store.steampowered.com/app/756300
+==================================================
+
+==================================================
+Name: Armory Crafter
+Release Date: Apr 24, 2026
+Price: $29.99 (-40%, was $49.99)
+Genres: Animation & Modeling, Design & Illustration, Education, Utilities, Game Development
+Link: https://store.steampowered.com/app/4595970
+==================================================
+
