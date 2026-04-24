@@ -6148,3 +6148,22 @@ Genres: Casual, Strategy
 Link: https://store.steampowered.com/app/4082900
 ==================================================
 
+
+--- Run: 2026-04-24 19:42:13 --- (2 new game(s) found)
+
+==================================================
+Name: Lichgate: Tower Survivor
+Release Date: Apr 24, 2026
+Price: $6.29 (-10%, was $6.99)
+Genres: Strategy
+Link: https://store.steampowered.com/app/3458500
+==================================================
+
+==================================================
+Name: Coloring Game: Girls 3
+Release Date: Apr 24, 2026
+Price: $11.04 (-15%, was $12.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/3525390
+==================================================
+
