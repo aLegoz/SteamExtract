@@ -5662,3 +5662,38 @@ Genres: Adventure, Indie, RPG, Simulation, Strategy
 Link: https://store.steampowered.com/app/4402650
 ==================================================
 
+
+--- Run: 2026-04-24 06:57:06 --- (4 new game(s) found)
+
+==================================================
+Name: Node Body
+Release Date: Apr 23, 2026
+Price: $3.59 (-40%, was $5.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4592800
+==================================================
+
+==================================================
+Name: Domino Titan
+Release Date: Apr 23, 2026
+Price: $5.09 (-15%, was $5.99)
+Genres: Casual, Strategy
+Link: https://store.steampowered.com/app/4479000
+==================================================
+
+==================================================
+Name: Selena's Charm: Sweet Home
+Release Date: Apr 23, 2026
+Price: Free to Play
+Genres: Casual, Free To Play
+Link: https://store.steampowered.com/app/4483550
+==================================================
+
+==================================================
+Name: Toggled
+Release Date: Apr 23, 2026
+Price: $2.54 (-15%, was $2.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/3093390
+==================================================
+
