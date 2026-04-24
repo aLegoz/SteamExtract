@@ -6167,3 +6167,30 @@ Genres: Casual, Indie
 Link: https://store.steampowered.com/app/3525390
 ==================================================
 
+
+--- Run: 2026-04-24 20:34:21 --- (3 new game(s) found)
+
+==================================================
+Name: Games Tycoon
+Release Date: Apr 24, 2026
+Price: $5.99
+Genres: Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/3534690
+==================================================
+
+==================================================
+Name: VIDEO CHAPEL
+Release Date: Apr 24, 2026
+Price: $5.03 (-37%, was $7.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4155040
+==================================================
+
+==================================================
+Name: Traysia 「港のトレイジア」
+Release Date: Apr 24, 2026
+Price: $4.79 (-20%, was $5.99)
+Genres: Adventure, RPG
+Link: https://store.steampowered.com/app/4365530
+==================================================
+
