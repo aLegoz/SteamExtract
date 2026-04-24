@@ -6194,3 +6194,62 @@ Genres: Adventure, RPG
 Link: https://store.steampowered.com/app/4365530
 ==================================================
 
+
+--- Run: 2026-04-24 21:37:31 --- (7 new game(s) found)
+
+==================================================
+Name: KilaFlow
+Release Date: Apr 24, 2026
+Price: $19.99
+Genres: Action, Adventure, Casual, Indie, Racing
+Link: https://store.steampowered.com/app/2927510
+==================================================
+
+==================================================
+Name: Typer Survivor
+Release Date: Apr 24, 2026
+Price: $4.79 (-20%, was $5.99)
+Genres: RPG
+Link: https://store.steampowered.com/app/4430310
+==================================================
+
+==================================================
+Name: Certified Mother Fucker
+Release Date: Apr 24, 2026
+Price: $9.59 (-20%, was $11.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/4328680
+==================================================
+
+==================================================
+Name: 28 Leicester Square
+Release Date: Apr 24, 2026
+Price: Free to Play
+Genres: Adventure, Free To Play
+Link: https://store.steampowered.com/app/4493220
+==================================================
+
+==================================================
+Name: Pawn Shop Simulator
+Release Date: Apr 24, 2026
+Price: $11.99
+Genres: Simulation
+Link: https://store.steampowered.com/app/3954140
+==================================================
+
+==================================================
+Name: MY VAMPIRE WIFE
+Release Date: Apr 24, 2026
+Price: $3.89 (-35%, was $5.99)
+Genres: Indie, RPG, Simulation
+Link: https://store.steampowered.com/app/4488490
+==================================================
+
+==================================================
+Name: Decrepit
+Release Date: Apr 24, 2026
+Price: $1.99
+Genres: Indie
+Link: https://store.steampowered.com/app/3997930
+==================================================
+
