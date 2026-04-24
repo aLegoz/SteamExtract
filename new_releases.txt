@@ -5979,3 +5979,62 @@ Genres: Casual, Indie, Free To Play
 Link: https://store.steampowered.com/app/1724190
 ==================================================
 
+
+--- Run: 2026-04-24 16:48:58 --- (7 new game(s) found)
+
+==================================================
+Name: Recipe For Disaster
+Release Date: Apr 24, 2026
+Price: Free to Play
+Genres: Action, Casual, Indie, Massively Multiplayer, Free To Play
+Link: https://store.steampowered.com/app/4531990
+==================================================
+
+==================================================
+Name: Lost in Voice
+Release Date: Apr 24, 2026
+Price: $9.79 (-30%, was $13.99)
+Genres: Adventure
+Link: https://store.steampowered.com/app/4182770
+==================================================
+
+==================================================
+Name: Project Vesperi
+Release Date: Apr 24, 2026
+Price: $13.49 (-10%, was $14.99)
+Genres: Action, Adventure
+Link: https://store.steampowered.com/app/2536670
+==================================================
+
+==================================================
+Name: Strings of Fate XI: Magic dream
+Release Date: Apr 24, 2026
+Price: $14.44 (-15%, was $16.99)
+Genres: Adventure
+Link: https://store.steampowered.com/app/2965220
+==================================================
+
+==================================================
+Name: OURATH: a Place in Peace
+Release Date: Apr 24, 2026
+Price: $9.89 (-34%, was $14.99)
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/4118190
+==================================================
+
+==================================================
+Name: ToyBoxers!
+Release Date: Apr 24, 2026
+Price: Free to Play
+Genres: Casual, Free To Play
+Link: https://store.steampowered.com/app/4014830
+==================================================
+
+==================================================
+Name: Bloodless Heart
+Release Date: Apr 24, 2026
+Price: $2.54 (-15%, was $2.99)
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/3957540
+==================================================
+
