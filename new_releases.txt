@@ -5772,3 +5772,14 @@ Genres: Action, Adventure, Indie, RPG
 Link: https://store.steampowered.com/app/854080
 ==================================================
 
+
+--- Run: 2026-04-24 10:16:51 --- (1 new game(s) found)
+
+==================================================
+Name: Gorilla Showdown
+Release Date: Apr 24, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Action, Casual
+Link: https://store.steampowered.com/app/3217900
+==================================================
+
