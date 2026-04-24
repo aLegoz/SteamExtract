@@ -5936,3 +5936,46 @@ Genres: Adventure, Indie
 Link: https://store.steampowered.com/app/4155810
 ==================================================
 
+
+--- Run: 2026-04-24 15:57:12 --- (5 new game(s) found)
+
+==================================================
+Name: Whispers of the Hourglass
+Release Date: Apr 24, 2026
+Price: $5.59 (-20%, was $6.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/3677140
+==================================================
+
+==================================================
+Name: Increbraintal
+Release Date: Apr 24, 2026
+Price: $2.39 (-20%, was $2.99)
+Genres: Casual, Simulation, Strategy
+Link: https://store.steampowered.com/app/3863830
+==================================================
+
+==================================================
+Name: Indoor Baseball
+Release Date: Apr 24, 2026
+Price: $14.99
+Genres: Casual, Indie, Sports
+Link: https://store.steampowered.com/app/3434700
+==================================================
+
+==================================================
+Name: Frontier Paladin
+Release Date: Apr 24, 2026
+Price: $14.84 (-10%, was $16.49)
+Genres: Action, Adventure, RPG, Strategy
+Link: https://store.steampowered.com/app/2804970
+==================================================
+
+==================================================
+Name: Come Home
+Release Date: Apr 24, 2026
+Price: Free to Play
+Genres: Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/1724190
+==================================================
+
