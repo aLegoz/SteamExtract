@@ -5697,3 +5697,78 @@ Genres: Casual, Indie
 Link: https://store.steampowered.com/app/3093390
 ==================================================
 
+
+--- Run: 2026-04-24 08:57:29 --- (9 new game(s) found)
+
+==================================================
+Name: Capyvarias
+Release Date: Apr 24, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/4072340
+==================================================
+
+==================================================
+Name: Star Witch
+Release Date: Apr 24, 2026
+Price: $10.79 (-10%, was $11.99)
+Genres: Casual, Indie, RPG
+Link: https://store.steampowered.com/app/3959930
+==================================================
+
+==================================================
+Name: holoVillage: Our Cozy Days
+Release Date: Apr 24, 2026
+Price: $24.99
+Genres: Adventure, Indie, RPG, Simulation
+Link: https://store.steampowered.com/app/3856280
+==================================================
+
+==================================================
+Name: Neon Village
+Release Date: Apr 24, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/2916670
+==================================================
+
+==================================================
+Name: Joker Madness 🃏
+Release Date: Apr 24, 2026
+Price: $1.99
+Genres: Strategy
+Link: https://store.steampowered.com/app/4356020
+==================================================
+
+==================================================
+Name: Hentai Senpai: Doo Wop Pussy Pop
+Release Date: Apr 24, 2026
+Price: $3.59 (-10%, was $3.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4357030
+==================================================
+
+==================================================
+Name: Pretty Girl Puzzle · Summer Phantom
+Release Date: Apr 23, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Strategy
+Link: https://store.steampowered.com/app/4512330
+==================================================
+
+==================================================
+Name: 狩魔之旅
+Release Date: Apr 23, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Indie, RPG
+Link: https://store.steampowered.com/app/4486210
+==================================================
+
+==================================================
+Name: Dread Trials
+Release Date: Apr 23, 2026
+Price: $14.39 (-10%, was $15.99)
+Genres: Action, Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/854080
+==================================================
+
