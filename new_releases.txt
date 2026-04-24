@@ -5464,3 +5464,38 @@ Genres: Action
 Link: https://store.steampowered.com/app/2492040
 ==================================================
 
+
+--- Run: 2026-04-24 01:22:04 --- (4 new game(s) found)
+
+==================================================
+Name: Welcome to Cafe Lumière! ~A Dragon Girl Concept Cafe~
+Release Date: Apr 23, 2026
+Price: $17.99 (-10%, was $19.99)
+Genres: Adventure, Casual
+Link: https://store.steampowered.com/app/3419820
+==================================================
+
+==================================================
+Name: Still, I am.
+Release Date: Apr 23, 2026
+Price: $3.99
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4179080
+==================================================
+
+==================================================
+Name: Lenos
+Release Date: Apr 23, 2026
+Price: $7.64 (-15%, was $8.99)
+Genres: Action, Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4517700
+==================================================
+
+==================================================
+Name: Synthie Maker
+Release Date: Apr 23, 2026
+Price: $16.99 (-15%, was $19.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4256540
+==================================================
+
