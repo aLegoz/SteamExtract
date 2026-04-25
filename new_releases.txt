@@ -6331,3 +6331,22 @@ Genres: Action, Strategy
 Link: https://store.steampowered.com/app/3961430
 ==================================================
 
+
+--- Run: 2026-04-25 06:13:43 --- (2 new game(s) found)
+
+==================================================
+Name: Elise and the Spellbinding Marionette
+Release Date: Apr 24, 2026
+Price: $10.39 (-20%, was $12.99)
+Genres: Adventure, RPG
+Link: https://store.steampowered.com/app/4237200
+==================================================
+
+==================================================
+Name: 1234 connect puzzle
+Release Date: Apr 24, 2026
+Price: $2.54 (-15%, was $2.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/3635060
+==================================================
+
