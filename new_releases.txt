@@ -6502,3 +6502,14 @@ Genres: Massively Multiplayer, Simulation, Strategy, Free To Play
 Link: https://store.steampowered.com/app/2926320
 ==================================================
 
+
+--- Run: 2026-04-25 21:25:39 --- (1 new game(s) found)
+
+==================================================
+Name: The Midnight Garden: Amy's Flower
+Release Date: Apr 25, 2026
+Price: $2.69 (-10%, was $2.99)
+Genres: Action, Indie, RPG
+Link: https://store.steampowered.com/app/4222370
+==================================================
+
