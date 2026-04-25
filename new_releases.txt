@@ -6380,3 +6380,14 @@ Genres: Adventure, Indie, Massively Multiplayer
 Link: https://store.steampowered.com/app/3634220
 ==================================================
 
+
+--- Run: 2026-04-25 11:30:09 --- (1 new game(s) found)
+
+==================================================
+Name: Vending Machine Co.
+Release Date: Apr 25, 2026
+Price: $8.99 (-40%, was $14.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/3622640
+==================================================
+
