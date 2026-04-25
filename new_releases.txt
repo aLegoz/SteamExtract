@@ -6461,3 +6461,14 @@ Genres: Casual, Indie
 Link: https://store.steampowered.com/app/4380870
 ==================================================
 
+
+--- Run: 2026-04-25 16:28:10 --- (1 new game(s) found)
+
+==================================================
+Name: SEX, SIN & ROCK'N'ROLL 🤘🎸
+Release Date: Apr 25, 2026
+Price: $9.29 (-38%, was $14.99)
+Genres: Adventure, Casual, Simulation
+Link: https://store.steampowered.com/app/4280130
+==================================================
+
