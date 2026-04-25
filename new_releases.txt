@@ -6361,3 +6361,22 @@ Genres: Simulation, Strategy
 Link: https://store.steampowered.com/app/3861100
 ==================================================
 
+
+--- Run: 2026-04-25 09:40:19 --- (2 new game(s) found)
+
+==================================================
+Name: Universe Plan
+Release Date: Apr 25, 2026
+Price: $4.99
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/4271140
+==================================================
+
+==================================================
+Name: DON`T PEEK
+Release Date: Apr 25, 2026
+Price: $5.99
+Genres: Adventure, Indie, Massively Multiplayer
+Link: https://store.steampowered.com/app/3634220
+==================================================
+
