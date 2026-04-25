@@ -6296,3 +6296,38 @@ Genres: Adventure, Casual, Indie
 Link: https://store.steampowered.com/app/3796740
 ==================================================
 
+
+--- Run: 2026-04-25 04:26:25 --- (4 new game(s) found)
+
+==================================================
+Name: Itsy Bitsy Spider: Vengeance
+Release Date: Apr 24, 2026
+Price: Free to Play
+Genres: Action, Indie, Free To Play
+Link: https://store.steampowered.com/app/4596740
+==================================================
+
+==================================================
+Name: Arena of Sacrifice
+Release Date: Apr 24, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: Action
+Link: https://store.steampowered.com/app/3903830
+==================================================
+
+==================================================
+Name: Runway™
+Release Date: Apr 24, 2026
+Price: $2.69 (-10%, was $2.99)
+Genres: Action, Indie, Simulation
+Link: https://store.steampowered.com/app/3879500
+==================================================
+
+==================================================
+Name: Mythos
+Release Date: Apr 24, 2026
+Price: $7.99
+Genres: Action, Strategy
+Link: https://store.steampowered.com/app/3961430
+==================================================
+
