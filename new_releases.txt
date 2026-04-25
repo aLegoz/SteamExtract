@@ -6472,3 +6472,22 @@ Genres: Adventure, Casual, Simulation
 Link: https://store.steampowered.com/app/4280130
 ==================================================
 
+
+--- Run: 2026-04-25 18:33:20 --- (2 new game(s) found)
+
+==================================================
+Name: STIGMA: The Salem Legacy
+Release Date: Apr 25, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/3770520
+==================================================
+
+==================================================
+Name: Double or Nothing
+Release Date: Apr 25, 2026
+Price: $0.89 (-10%, was $0.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4604090
+==================================================
+
