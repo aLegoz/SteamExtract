@@ -6513,3 +6513,14 @@ Genres: Action, Indie, RPG
 Link: https://store.steampowered.com/app/4222370
 ==================================================
 
+
+--- Run: 2026-04-25 22:23:46 --- (1 new game(s) found)
+
+==================================================
+Name: Kawai'ian Isolation
+Release Date: Apr 25, 2026
+Price: Free to Play
+Genres: Indie, Free To Play
+Link: https://store.steampowered.com/app/3812810
+==================================================
+
