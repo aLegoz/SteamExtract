@@ -6350,3 +6350,14 @@ Genres: Casual
 Link: https://store.steampowered.com/app/3635060
 ==================================================
 
+
+--- Run: 2026-04-25 07:58:16 --- (1 new game(s) found)
+
+==================================================
+Name: 1492 - Colonization of the New World
+Release Date: Apr 24, 2026
+Price: $24.29 (-10%, was $26.99)
+Genres: Simulation, Strategy
+Link: https://store.steampowered.com/app/3861100
+==================================================
+
