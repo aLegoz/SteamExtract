@@ -6253,3 +6253,46 @@ Genres: Indie
 Link: https://store.steampowered.com/app/3997930
 ==================================================
 
+
+--- Run: 2026-04-25 01:15:24 --- (5 new game(s) found)
+
+==================================================
+Name: HEXADEL
+Release Date: Apr 24, 2026
+Price: $1.19 (-40%, was $1.99)
+Genres: Action, Adventure, Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/2499130
+==================================================
+
+==================================================
+Name: The Illuminati Simulator
+Release Date: Apr 24, 2026
+Price: $7.99
+Genres: Action, Adventure, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/1429070
+==================================================
+
+==================================================
+Name: Hentai Age Shadow
+Release Date: Apr 24, 2026
+Price: $0.79 (-20%, was $0.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4603560
+==================================================
+
+==================================================
+Name: The Hollow
+Release Date: Apr 24, 2026
+Price: $6.37 (-15%, was $7.50)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/4381460
+==================================================
+
+==================================================
+Name: 77p egg: Cubicle 77
+Release Date: Apr 24, 2026
+Price: $1.79 (-10%, was $1.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/3796740
+==================================================
+
