@@ -6491,3 +6491,14 @@ Genres: Casual, Indie, Strategy
 Link: https://store.steampowered.com/app/4604090
 ==================================================
 
+
+--- Run: 2026-04-25 19:36:24 --- (1 new game(s) found)
+
+==================================================
+Name: Economy World
+Release Date: Apr 25, 2026
+Price: Free to Play
+Genres: Massively Multiplayer, Simulation, Strategy, Free To Play
+Link: https://store.steampowered.com/app/2926320
+==================================================
+
