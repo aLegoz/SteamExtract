@@ -6426,3 +6426,38 @@ Genres: Casual, Indie, Simulation
 Link: https://store.steampowered.com/app/4324300
 ==================================================
 
+
+--- Run: 2026-04-25 15:30:47 --- (4 new game(s) found)
+
+==================================================
+Name: LEGION:DEAD METAL
+Release Date: Apr 25, 2026
+Price: $17.99 (-10%, was $19.99)
+Genres: Action, Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/2362620
+==================================================
+
+==================================================
+Name: Deep Sea Love
+Release Date: Apr 25, 2026
+Price: $3.39 (-15%, was $3.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4593340
+==================================================
+
+==================================================
+Name: Hustle Together
+Release Date: Apr 24, 2026
+Price: $4.99
+Genres: Action, Indie, RPG
+Link: https://store.steampowered.com/app/3944210
+==================================================
+
+==================================================
+Name: Room to Breathe
+Release Date: Apr 24, 2026
+Price: $6.29 (-10%, was $6.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4380870
+==================================================
+
