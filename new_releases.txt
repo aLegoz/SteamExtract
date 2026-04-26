@@ -6717,3 +6717,14 @@ Genres: Indie, Simulation
 Link: https://store.steampowered.com/app/4556450
 ==================================================
 
+
+--- Run: 2026-04-26 23:28:09 --- (1 new game(s) found)
+
+==================================================
+Name: RAKKA: WAKE 01 - SOOT
+Release Date: Apr 26, 2026
+Price: $5.99 (-40%, was $9.99)
+Genres: Indie, RPG
+Link: https://store.steampowered.com/app/3455080
+==================================================
+
