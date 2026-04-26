@@ -6698,3 +6698,22 @@ Genres: Action, Casual, Indie, Sports
 Link: https://store.steampowered.com/app/4164140
 ==================================================
 
+
+--- Run: 2026-04-26 22:25:33 --- (2 new game(s) found)
+
+==================================================
+Name: Donkey Ball
+Release Date: Apr 26, 2026
+Price: $2.99
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/3886410
+==================================================
+
+==================================================
+Name: Stamped : Visa Officer
+Release Date: Apr 26, 2026
+Price: $1.19 (-40%, was $1.99)
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/4556450
+==================================================
+
