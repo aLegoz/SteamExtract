@@ -6652,3 +6652,22 @@ Genres: Adventure, Indie
 Link: https://store.steampowered.com/app/3875820
 ==================================================
 
+
+--- Run: 2026-04-26 18:34:15 --- (2 new game(s) found)
+
+==================================================
+Name: Tread Heavy
+Release Date: Apr 26, 2026
+Price: $3.99
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4523630
+==================================================
+
+==================================================
+Name: AI Stories: Machine Angel
+Release Date: Apr 25, 2026
+Price: Free to Play
+Genres: Adventure, Indie, Free To Play
+Link: https://store.steampowered.com/app/2801290
+==================================================
+
