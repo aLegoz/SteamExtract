@@ -6524,3 +6524,30 @@ Genres: Indie, Free To Play
 Link: https://store.steampowered.com/app/3812810
 ==================================================
 
+
+--- Run: 2026-04-26 01:24:13 --- (3 new game(s) found)
+
+==================================================
+Name: Cyber Boxing Arena
+Release Date: Apr 25, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: Action, Indie, Simulation, Sports
+Link: https://store.steampowered.com/app/3903140
+==================================================
+
+==================================================
+Name: Ant Attack!
+Release Date: Apr 25, 2026
+Price: $3.74 (-25%, was $4.99)
+Genres: Strategy
+Link: https://store.steampowered.com/app/4127250
+==================================================
+
+==================================================
+Name: BERSERK TANK
+Release Date: Apr 25, 2026
+Price: $3.60 (-20%, was $4.50)
+Genres: Action, Adventure, Casual, Indie, RPG, Sports
+Link: https://store.steampowered.com/app/4556150
+==================================================
+
