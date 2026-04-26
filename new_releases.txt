@@ -6641,3 +6641,14 @@ Genres: Adventure, Indie
 Link: https://store.steampowered.com/app/4328690
 ==================================================
 
+
+--- Run: 2026-04-26 16:29:04 --- (1 new game(s) found)
+
+==================================================
+Name: Where is Mother
+Release Date: Apr 26, 2026
+Price: $1.79 (-10%, was $1.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/3875820
+==================================================
+
