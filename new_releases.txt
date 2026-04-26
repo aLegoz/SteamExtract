@@ -6603,3 +6603,14 @@ Genres: Action, Adventure, Casual, Indie, Strategy
 Link: https://store.steampowered.com/app/3405160
 ==================================================
 
+
+--- Run: 2026-04-26 11:30:46 --- (1 new game(s) found)
+
+==================================================
+Name: Techmino-Downstacking
+Release Date: Apr 26, 2026
+Price: $5.38 (-14%, was $6.26)
+Genres: Indie
+Link: https://store.steampowered.com/app/4568800
+==================================================
+
