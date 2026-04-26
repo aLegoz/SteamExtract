@@ -6592,3 +6592,14 @@ Genres: Action, Indie
 Link: https://store.steampowered.com/app/1825250
 ==================================================
 
+
+--- Run: 2026-04-26 10:34:52 --- (1 new game(s) found)
+
+==================================================
+Name: Yokai Art 2: Tales of the Nine-Tails
+Release Date: Apr 26, 2026
+Price: $8.79 (-12%, was $9.99)
+Genres: Action, Adventure, Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/3405160
+==================================================
+
