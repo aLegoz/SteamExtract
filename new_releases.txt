@@ -6581,3 +6581,14 @@ Genres: Casual, Indie, Simulation
 Link: https://store.steampowered.com/app/1299800
 ==================================================
 
+
+--- Run: 2026-04-26 08:09:45 --- (1 new game(s) found)
+
+==================================================
+Name: Touhou Lensed Night Sky, Kaseigai
+Release Date: Apr 26, 2026
+Price: $22.00
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/1825250
+==================================================
+
