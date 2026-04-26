@@ -6551,3 +6551,22 @@ Genres: Action, Adventure, Casual, Indie, RPG, Sports
 Link: https://store.steampowered.com/app/4556150
 ==================================================
 
+
+--- Run: 2026-04-26 04:49:28 --- (2 new game(s) found)
+
+==================================================
+Name: The Window 8:Millennium
+Release Date: Apr 25, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/3853120
+==================================================
+
+==================================================
+Name: Game Pulse Payoff Pitch
+Release Date: Apr 25, 2026
+Price: $44.95 (-10%, was $49.95)
+Genres: Simulation, Sports, Strategy
+Link: https://store.steampowered.com/app/4504390
+==================================================
+
