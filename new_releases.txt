@@ -6671,3 +6671,30 @@ Genres: Adventure, Indie, Free To Play
 Link: https://store.steampowered.com/app/2801290
 ==================================================
 
+
+--- Run: 2026-04-26 21:26:58 --- (3 new game(s) found)
+
+==================================================
+Name: FARLOW
+Release Date: Apr 26, 2026
+Price: Free to Play
+Genres: Adventure, Free To Play
+Link: https://store.steampowered.com/app/4602200
+==================================================
+
+==================================================
+Name: Ghostify
+Release Date: Apr 26, 2026
+Price: $3.99
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4456880
+==================================================
+
+==================================================
+Name: Break Shoot
+Release Date: Apr 26, 2026
+Price: $4.99
+Genres: Action, Casual, Indie, Sports
+Link: https://store.steampowered.com/app/4164140
+==================================================
+
