@@ -6614,3 +6614,30 @@ Genres: Indie
 Link: https://store.steampowered.com/app/4568800
 ==================================================
 
+
+--- Run: 2026-04-26 12:37:18 --- (3 new game(s) found)
+
+==================================================
+Name: Frontier Fire
+Release Date: Apr 26, 2026
+Price: $5.99
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4273130
+==================================================
+
+==================================================
+Name: Outer Space Bar
+Release Date: Apr 25, 2026
+Price: $7.19 (-20%, was $8.99)
+Genres: Indie
+Link: https://store.steampowered.com/app/4602100
+==================================================
+
+==================================================
+Name: DREADCELL
+Release Date: Apr 25, 2026
+Price: $9.79 (-30%, was $13.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4328690
+==================================================
+
