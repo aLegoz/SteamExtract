@@ -7198,3 +7198,46 @@ Genres: Action, Adventure, Indie, Free To Play
 Link: https://store.steampowered.com/app/2431380
 ==================================================
 
+
+--- Run: 2026-04-27 21:43:48 --- (5 new game(s) found)
+
+==================================================
+Name: MoonNight Shift
+Release Date: Apr 27, 2026
+Price: $4.79 (-20%, was $5.99)
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/4474120
+==================================================
+
+==================================================
+Name: Market Hours
+Release Date: Apr 27, 2026
+Price: $16.99 (-15%, was $19.99)
+Genres: Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4313280
+==================================================
+
+==================================================
+Name: Open Robot
+Release Date: Apr 27, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/3795000
+==================================================
+
+==================================================
+Name: The Crosley Tower Horror
+Release Date: Apr 27, 2026
+Price: $1.99
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/4532080
+==================================================
+
+==================================================
+Name: Order Up
+Release Date: Apr 27, 2026
+Price: $1.79 (-40%, was $2.99)
+Genres: Action, Adventure, Casual, Simulation
+Link: https://store.steampowered.com/app/4584630
+==================================================
+
