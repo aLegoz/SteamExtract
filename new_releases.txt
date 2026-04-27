@@ -6825,3 +6825,102 @@ Genres: Casual, Simulation, Free To Play
 Link: https://store.steampowered.com/app/4529010
 ==================================================
 
+
+--- Run: 2026-04-27 10:03:49 --- (12 new game(s) found)
+
+==================================================
+Name: Next Patient
+Release Date: Apr 27, 2026
+Price: $7.64 (-15%, was $8.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4265350
+==================================================
+
+==================================================
+Name: AI Stories: Cybee Princess
+Release Date: Apr 27, 2026
+Price: Free to Play
+Genres: Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/3295760
+==================================================
+
+==================================================
+Name: Aquaville
+Release Date: Apr 27, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/3720880
+==================================================
+
+==================================================
+Name: Overhang
+Release Date: Apr 27, 2026
+Price: $2.39 (-20%, was $2.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4606580
+==================================================
+
+==================================================
+Name: Bongo Waifu
+Release Date: Apr 27, 2026
+Price: Free to Play
+Genres: Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/3861430
+==================================================
+
+==================================================
+Name: Kanji RPG
+Release Date: Apr 27, 2026
+Price: $0.99
+Genres: Adventure, Casual, Indie, RPG
+Link: https://store.steampowered.com/app/2177020
+==================================================
+
+==================================================
+Name: Long Rest
+Release Date: Apr 27, 2026
+Price: $1.79 (-10%, was $1.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4529170
+==================================================
+
+==================================================
+Name: Information conveyed Information received
+Release Date: Apr 27, 2026
+Price: Free to Play
+Genres: Adventure, Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/4600250
+==================================================
+
+==================================================
+Name: Portal Worlds
+Release Date: Apr 27, 2026
+Price: Free to Play
+Genres: Adventure, Casual, RPG, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4327940
+==================================================
+
+==================================================
+Name: Keep On Winning!
+Release Date: Apr 26, 2026
+Price: $0.89 (-10%, was $0.99)
+Genres: Indie
+Link: https://store.steampowered.com/app/4576620
+==================================================
+
+==================================================
+Name: Treasure's Mine!
+Release Date: Apr 26, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4463020
+==================================================
+
+==================================================
+Name: 墨缇斯：霾影季度
+Release Date: Apr 26, 2026
+Price: $5.39 (-10%, was $5.99)
+Genres: Adventure, Casual, Indie, RPG, Simulation, Strategy
+Link: https://store.steampowered.com/app/3137670
+==================================================
+
