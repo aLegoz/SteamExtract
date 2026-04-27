@@ -7034,3 +7034,78 @@ Genres: Indie, Strategy
 Link: https://store.steampowered.com/app/3873560
 ==================================================
 
+
+--- Run: 2026-04-27 16:17:46 --- (9 new game(s) found)
+
+==================================================
+Name: Fate of Antara
+Release Date: Apr 27, 2026
+Price: $11.25 (-25%, was $15.00)
+Genres: Action, Adventure, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/4015060
+==================================================
+
+==================================================
+Name: Lich of Might
+Release Date: Apr 27, 2026
+Price: $4.99
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4485760
+==================================================
+
+==================================================
+Name: Messy Hearts
+Release Date: Apr 27, 2026
+Price: Free to Play
+Genres: Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/3892820
+==================================================
+
+==================================================
+Name: Better Luck Next Run
+Release Date: Apr 27, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Indie, RPG
+Link: https://store.steampowered.com/app/4448530
+==================================================
+
+==================================================
+Name: Velgrym
+Release Date: Apr 27, 2026
+Price: $7.19 (-10%, was $7.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/3975340
+==================================================
+
+==================================================
+Name: BAZOOKA: Rhythm Game
+Release Date: Apr 27, 2026
+Price: $6.79 (-15%, was $7.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/3634430
+==================================================
+
+==================================================
+Name: Wild City
+Release Date: Apr 27, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: Strategy
+Link: https://store.steampowered.com/app/2436970
+==================================================
+
+==================================================
+Name: Ah. Ah. Ah.
+Release Date: Apr 27, 2026
+Price: $0.89 (-10%, was $0.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4574320
+==================================================
+
+==================================================
+Name: 卑怯な勇者を許さない！～魔王の娘とダンジョン作り～
+Release Date: Apr 27, 2026
+Price: $6.39 (-20%, was $7.99)
+Genres: Casual, RPG, Strategy
+Link: https://store.steampowered.com/app/4596850
+==================================================
+
