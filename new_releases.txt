@@ -6728,3 +6728,30 @@ Genres: Indie, RPG
 Link: https://store.steampowered.com/app/3455080
 ==================================================
 
+
+--- Run: 2026-04-27 01:25:04 --- (3 new game(s) found)
+
+==================================================
+Name: 这是谐音梗
+Release Date: Apr 26, 2026
+Price: $1.77 (-26%, was $2.40)
+Genres: Casual
+Link: https://store.steampowered.com/app/4164310
+==================================================
+
+==================================================
+Name: Racer Overdrive
+Release Date: Apr 26, 2026
+Price: $5.99
+Genres: Racing
+Link: https://store.steampowered.com/app/3756020
+==================================================
+
+==================================================
+Name: Savor Hour
+Release Date: Apr 26, 2026
+Price: $4.99
+Genres: Indie, RPG
+Link: https://store.steampowered.com/app/4542580
+==================================================
+
