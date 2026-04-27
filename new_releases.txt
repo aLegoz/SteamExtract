@@ -6806,3 +6806,22 @@ Genres: Action, Adventure, Indie, Strategy
 Link: https://store.steampowered.com/app/4083090
 ==================================================
 
+
+--- Run: 2026-04-27 07:31:58 --- (2 new game(s) found)
+
+==================================================
+Name: 无名者
+Release Date: Coming soon
+Price: $7.99
+Genres: Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/1960880
+==================================================
+
+==================================================
+Name: Flow Reader — Speed Reading Trainer
+Release Date: Apr 26, 2026
+Price: Free to Play
+Genres: Casual, Simulation, Free To Play
+Link: https://store.steampowered.com/app/4529010
+==================================================
+
