@@ -7241,3 +7241,14 @@ Genres: Action, Adventure, Casual, Simulation
 Link: https://store.steampowered.com/app/4584630
 ==================================================
 
+
+--- Run: 2026-04-27 23:40:53 --- (1 new game(s) found)
+
+==================================================
+Name: Midnight Billiards
+Release Date: Apr 27, 2026
+Price: $8.09 (-10%, was $8.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/3546480
+==================================================
+
