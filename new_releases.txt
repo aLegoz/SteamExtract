@@ -6983,3 +6983,54 @@ Genres: RPG, Simulation, Strategy
 Link: https://store.steampowered.com/app/4603270
 ==================================================
 
+
+--- Run: 2026-04-27 14:54:19 --- (6 new game(s) found)
+
+==================================================
+Name: Bangkok Story: A Stray Dog
+Release Date: Apr 27, 2026
+Price: $9.99
+Genres: Adventure, RPG
+Link: https://store.steampowered.com/app/2121450
+==================================================
+
+==================================================
+Name: SHEROK's Case ;Recollection
+Release Date: Apr 27, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/3573410
+==================================================
+
+==================================================
+Name: Clicks Per Lifetime
+Release Date: Apr 27, 2026
+Price: $3.59 (-10%, was $3.99)
+Genres: Utilities
+Link: https://store.steampowered.com/app/4592370
+==================================================
+
+==================================================
+Name: Legionbound
+Release Date: Apr 27, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/4283360
+==================================================
+
+==================================================
+Name: Lazy Train Game
+Release Date: Apr 27, 2026
+Price: $11.99 (-20%, was $14.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/3470220
+==================================================
+
+==================================================
+Name: GIVE ME A WEAPON!
+Release Date: Apr 27, 2026
+Price: $4.79 (-20%, was $5.99)
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/3873560
+==================================================
+
