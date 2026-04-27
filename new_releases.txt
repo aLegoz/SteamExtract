@@ -6755,3 +6755,54 @@ Genres: Indie, RPG
 Link: https://store.steampowered.com/app/4542580
 ==================================================
 
+
+--- Run: 2026-04-27 04:57:50 --- (6 new game(s) found)
+
+==================================================
+Name: Captcha The Flag
+Release Date: Apr 26, 2026
+Price: $4.95 (-38%, was $7.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4127370
+==================================================
+
+==================================================
+Name: Pirarucu's Money Rush
+Release Date: Apr 26, 2026
+Price: $3.99
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/2944960
+==================================================
+
+==================================================
+Name: Toad's Soul Hopper
+Release Date: Apr 26, 2026
+Price: $3.99
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/2944950
+==================================================
+
+==================================================
+Name: Snail's Knock Out!
+Release Date: Apr 26, 2026
+Price: $3.99
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/2944940
+==================================================
+
+==================================================
+Name: Octo's Balloon Challenge
+Release Date: Apr 26, 2026
+Price: $3.99
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/2944920
+==================================================
+
+==================================================
+Name: DUMPLing
+Release Date: Apr 26, 2026
+Price: $2.99 (-40%, was $4.99)
+Genres: Action, Adventure, Indie, Strategy
+Link: https://store.steampowered.com/app/4083090
+==================================================
+
