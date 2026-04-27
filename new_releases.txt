@@ -6924,3 +6924,62 @@ Genres: Adventure, Casual, Indie, RPG, Simulation, Strategy
 Link: https://store.steampowered.com/app/3137670
 ==================================================
 
+
+--- Run: 2026-04-27 12:14:43 --- (7 new game(s) found)
+
+==================================================
+Name: Lustquake Legion
+Release Date: Apr 27, 2026
+Price: Free to Play
+Genres: Casual, Simulation, Free To Play
+Link: https://store.steampowered.com/app/3966480
+==================================================
+
+==================================================
+Name: Toll Booth Simulator
+Release Date: Apr 27, 2026
+Price: $11.04 (-15%, was $12.99)
+Genres: Action, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/3896300
+==================================================
+
+==================================================
+Name: Nanima: Curse of Kalavati
+Release Date: Apr 27, 2026
+Price: $2.79 (-30%, was $3.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/4593290
+==================================================
+
+==================================================
+Name: DUNGEON WALK4－蟲毒の魔蟲姫－
+Release Date: Apr 27, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Indie
+Link: https://store.steampowered.com/app/4002350
+==================================================
+
+==================================================
+Name: Agrivore: Incremental Farming
+Release Date: Apr 27, 2026
+Price: $4.19 (-40%, was $6.99)
+Genres: Casual, Simulation, Strategy
+Link: https://store.steampowered.com/app/4045540
+==================================================
+
+==================================================
+Name: Mad YU: Rural Idle
+Release Date: Apr 27, 2026
+Price: $5.99 (-40%, was $9.99)
+Genres: Simulation, Strategy
+Link: https://store.steampowered.com/app/4593180
+==================================================
+
+==================================================
+Name: Island God Simulator
+Release Date: Apr 27, 2026
+Price: $2.39 (-20%, was $2.99)
+Genres: RPG, Simulation, Strategy
+Link: https://store.steampowered.com/app/4603270
+==================================================
+
