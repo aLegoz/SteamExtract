@@ -7152,3 +7152,30 @@ Genres: Casual, Indie
 Link: https://store.steampowered.com/app/4219060
 ==================================================
 
+
+--- Run: 2026-04-27 19:14:37 --- (3 new game(s) found)
+
+==================================================
+Name: 100 Tiki Cats
+Release Date: Apr 27, 2026
+Price: $1.39 (-30%, was $1.99)
+Genres: Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/4310700
+==================================================
+
+==================================================
+Name: PlaneWorld
+Release Date: Apr 27, 2026
+Price: $7.49 (-25%, was $9.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4596590
+==================================================
+
+==================================================
+Name: Jinmengyo
+Release Date: Apr 27, 2026
+Price: $2.99
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4519560
+==================================================
+
