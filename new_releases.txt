@@ -7179,3 +7179,22 @@ Genres: Action, Indie
 Link: https://store.steampowered.com/app/4519560
 ==================================================
 
+
+--- Run: 2026-04-27 20:49:09 --- (2 new game(s) found)
+
+==================================================
+Name: Bubblexity
+Release Date: Apr 27, 2026
+Price: $5.24 (-25%, was $6.99)
+Genres: Indie
+Link: https://store.steampowered.com/app/3984310
+==================================================
+
+==================================================
+Name: Fear Of Reptiles: Chapter 1
+Release Date: Apr 27, 2026
+Price: Free to Play
+Genres: Action, Adventure, Indie, Free To Play
+Link: https://store.steampowered.com/app/2431380
+==================================================
+
