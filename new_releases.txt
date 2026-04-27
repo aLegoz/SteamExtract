@@ -7109,3 +7109,46 @@ Genres: Casual, RPG, Strategy
 Link: https://store.steampowered.com/app/4596850
 ==================================================
 
+
+--- Run: 2026-04-27 17:58:21 --- (5 new game(s) found)
+
+==================================================
+Name: Coincidences?
+Release Date: Apr 27, 2026
+Price: $3.99
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/3848750
+==================================================
+
+==================================================
+Name: Wolf with Inn
+Release Date: Apr 27, 2026
+Price: $17.99 (-10%, was $19.99)
+Genres: Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/3902280
+==================================================
+
+==================================================
+Name: Moomintroll: Winter's Warmth
+Release Date: Apr 27, 2026
+Price: $16.99 (-15%, was $19.99)
+Genres: Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/3256150
+==================================================
+
+==================================================
+Name: Super Candle World
+Release Date: Apr 27, 2026
+Price: $2.99
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4028490
+==================================================
+
+==================================================
+Name: Idle Ways
+Release Date: Apr 27, 2026
+Price: $1.49 (-40%, was $2.49)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4219060
+==================================================
+
