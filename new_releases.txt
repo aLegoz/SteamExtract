@@ -7480,3 +7480,70 @@ Genres: Strategy
 Link: https://store.steampowered.com/app/3332600
 ==================================================
 
+
+--- Run: 2026-04-28 12:18:50 --- (8 new game(s) found)
+
+==================================================
+Name: Error 2351
+Release Date: Apr 28, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/4049970
+==================================================
+
+==================================================
+Name: Kingdom Loop
+Release Date: Apr 28, 2026
+Price: $11.04 (-15%, was $12.99)
+Genres: Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/3541000
+==================================================
+
+==================================================
+Name: Bang Bang Tank
+Release Date: Apr 28, 2026
+Price: $3.99
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/3987640
+==================================================
+
+==================================================
+Name: s&box
+Release Date: Apr 28, 2026
+Price: $19.99
+Genres: Action, Adventure, Casual, Indie, Racing, Simulation, Sports, Strategy, Free To Play
+Link: https://store.steampowered.com/app/590830
+==================================================
+
+==================================================
+Name: The Queen's Quest
+Release Date: Apr 28, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: Action, Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/3955300
+==================================================
+
+==================================================
+Name: Operation: All Out
+Release Date: Apr 28, 2026
+Price: $2.69 (-10%, was $2.99)
+Genres: Action, Strategy
+Link: https://store.steampowered.com/app/4498620
+==================================================
+
+==================================================
+Name: Hentai Clicker: Akumi is streaming
+Release Date: Apr 27, 2026
+Price: $2.00 (-33%, was $2.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4579920
+==================================================
+
+==================================================
+Name: Hardwood Basketball Manager
+Release Date: Apr 27, 2026
+Price: $14.99
+Genres: Simulation, Sports, Strategy
+Link: https://store.steampowered.com/app/4594110
+==================================================
+
