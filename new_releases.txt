@@ -7812,3 +7812,46 @@ Genres: Action, Free To Play
 Link: https://store.steampowered.com/app/4393300
 ==================================================
 
+
+--- Run: 2026-04-28 21:51:22 --- (5 new game(s) found)
+
+==================================================
+Name: Clanker Cleanup
+Release Date: Apr 28, 2026
+Price: Free to Play
+Genres: Action, Indie, Free To Play
+Link: https://store.steampowered.com/app/4416840
+==================================================
+
+==================================================
+Name: Slime Clime
+Release Date: Apr 28, 2026
+Price: Free to Play
+Genres: Adventure, Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/4547190
+==================================================
+
+==================================================
+Name: NoRail
+Release Date: Apr 28, 2026
+Price: Free to Play
+Genres: Action, Indie, Free To Play
+Link: https://store.steampowered.com/app/4125300
+==================================================
+
+==================================================
+Name: RAM Downloader
+Release Date: Apr 28, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4219680
+==================================================
+
+==================================================
+Name: Hidden Foxes
+Release Date: Apr 28, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/3941750
+==================================================
+
