@@ -7252,3 +7252,38 @@ Genres: Casual, Indie, Strategy
 Link: https://store.steampowered.com/app/3546480
 ==================================================
 
+
+--- Run: 2026-04-28 01:44:45 --- (4 new game(s) found)
+
+==================================================
+Name: Made in Glory Hole: Lewd Painters Never Die
+Release Date: Apr 27, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Casual, RPG, Simulation
+Link: https://store.steampowered.com/app/3672990
+==================================================
+
+==================================================
+Name: Seal of Magic
+Release Date: Apr 27, 2026
+Price: $2.99
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/3656060
+==================================================
+
+==================================================
+Name: Maple Blade
+Release Date: Apr 27, 2026
+Price: $4.99
+Genres: Adventure, Casual, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/4382220
+==================================================
+
+==================================================
+Name: My Rocky
+Release Date: Apr 27, 2026
+Price: $2.39 (-20%, was $2.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4592630
+==================================================
+
