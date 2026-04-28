@@ -7855,3 +7855,14 @@ Genres: Casual, Indie
 Link: https://store.steampowered.com/app/3941750
 ==================================================
 
+
+--- Run: 2026-04-28 22:44:26 --- (1 new game(s) found)
+
+==================================================
+Name: Ecto
+Release Date: Apr 28, 2026
+Price: Free to Play
+Genres: Adventure, Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/2256970
+==================================================
+
