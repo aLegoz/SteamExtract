@@ -7287,3 +7287,94 @@ Genres: Casual, Indie
 Link: https://store.steampowered.com/app/4592630
 ==================================================
 
+
+--- Run: 2026-04-28 05:20:29 --- (11 new game(s) found)
+
+==================================================
+Name: Magical Princess
+Release Date: Apr 27, 2026
+Price: $11.99 (-20%, was $14.99)
+Genres: Adventure, Indie, RPG, Simulation
+Link: https://store.steampowered.com/app/3562120
+==================================================
+
+==================================================
+Name: Cat carried Butterfly
+Release Date: Apr 27, 2026
+Price: $7.91 (-12%, was $8.99)
+Genres: Indie, RPG
+Link: https://store.steampowered.com/app/3870140
+==================================================
+
+==================================================
+Name: MEMOLITH: Forsaken by Light
+Release Date: Apr 27, 2026
+Price: $19.99
+Genres: Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/2225480
+==================================================
+
+==================================================
+Name: AFK Journey
+Release Date: Apr 27, 2026
+Price: Free to Play
+Genres: Adventure, Casual, RPG, Simulation, Free To Play
+Link: https://store.steampowered.com/app/4195600
+==================================================
+
+==================================================
+Name: Tales of Terrarum
+Release Date: Apr 27, 2026
+Price: Free to Play
+Genres: Casual, Simulation
+Link: https://store.steampowered.com/app/3864100
+==================================================
+
+==================================================
+Name: Undercover
+Release Date: Apr 27, 2026
+Price: $11.99 (-20%, was $14.99)
+Genres: Action, Adventure, RPG
+Link: https://store.steampowered.com/app/4104120
+==================================================
+
+==================================================
+Name: DopePie Survivors 3D
+Release Date: Apr 27, 2026
+Price: $4.49 (-25%, was $5.99)
+Genres: Action, Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/4205060
+==================================================
+
+==================================================
+Name: Conduit
+Release Date: Apr 27, 2026
+Price: Free to Play
+Genres: Action, Adventure, Indie, Free To Play
+Link: https://store.steampowered.com/app/4558030
+==================================================
+
+==================================================
+Name: Ovation
+Release Date: Apr 27, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/4346480
+==================================================
+
+==================================================
+Name: MAIDENS OF ETERNAL NIGHT
+Release Date: Apr 27, 2026
+Price: $7.79 (-35%, was $11.99)
+Genres: Action, Adventure, Casual, Indie, RPG
+Link: https://store.steampowered.com/app/4415440
+==================================================
+
+==================================================
+Name: [RANDOM]
+Release Date: Apr 27, 2026
+Price: $2.69 (-10%, was $2.99)
+Genres: Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4600650
+==================================================
+
