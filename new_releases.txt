@@ -7718,3 +7718,86 @@ Genres: Casual, Indie
 Link: https://store.steampowered.com/app/4583700
 ==================================================
 
+
+--- Run: 2026-04-28 19:15:53 --- (10 new game(s) found)
+
+==================================================
+Name: Lottery vs Aliens
+Release Date: Apr 28, 2026
+Price: $2.09 (-30%, was $2.99)
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/3342870
+==================================================
+
+==================================================
+Name: Hidden Cats in Barcelona
+Release Date: Apr 28, 2026
+Price: $3.39 (-15%, was $3.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/2906260
+==================================================
+
+==================================================
+Name: BastionOS
+Release Date: Apr 28, 2026
+Price: $1.98 (-40%, was $3.30)
+Genres: Action, Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4090270
+==================================================
+
+==================================================
+Name: Watt's the Limit?
+Release Date: Apr 28, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Casual, Strategy
+Link: https://store.steampowered.com/app/4187000
+==================================================
+
+==================================================
+Name: A Fox Tale
+Release Date: Apr 28, 2026
+Price: $12.74 (-15%, was $14.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/1371570
+==================================================
+
+==================================================
+Name: Keine's Expanding Class!
+Release Date: Apr 28, 2026
+Price: $4.79 (-20%, was $5.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/3894520
+==================================================
+
+==================================================
+Name: Sukusuku Hakutaku's Class!
+Release Date: Apr 28, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4388190
+==================================================
+
+==================================================
+Name: Case 1963
+Release Date: Apr 28, 2026
+Price: $11.99
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/4302850
+==================================================
+
+==================================================
+Name: Stalker from Willowfield St.
+Release Date: Apr 28, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Adventure, Simulation
+Link: https://store.steampowered.com/app/4063380
+==================================================
+
+==================================================
+Name: REliC
+Release Date: Apr 28, 2026
+Price: $0.79 (-20%, was $0.99)
+Genres: Adventure
+Link: https://store.steampowered.com/app/4275470
+==================================================
+
