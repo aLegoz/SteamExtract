@@ -7421,3 +7421,62 @@ Genres: Action
 Link: https://store.steampowered.com/app/4258110
 ==================================================
 
+
+--- Run: 2026-04-28 10:52:14 --- (7 new game(s) found)
+
+==================================================
+Name: BDSM Sex - Futanari
+Release Date: Apr 28, 2026
+Price: $11.99 (-20%, was $14.99)
+Genres: Adventure, Casual, Simulation
+Link: https://store.steampowered.com/app/4576180
+==================================================
+
+==================================================
+Name: Brainrot Tung Tung Sahur
+Release Date: Apr 28, 2026
+Price: $1.19 (-40%, was $1.99)
+Genres: Action
+Link: https://store.steampowered.com/app/4579990
+==================================================
+
+==================================================
+Name: Artifex
+Release Date: Apr 28, 2026
+Price: $5.99
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4295010
+==================================================
+
+==================================================
+Name: EchoKey
+Release Date: Apr 28, 2026
+Price: $3.69
+Genres: Audio Production, Utilities
+Link: https://store.steampowered.com/app/4581320
+==================================================
+
+==================================================
+Name: The Three Kingdoms: Rebirth
+Release Date: Apr 28, 2026
+Price: $16.99 (-15%, was $19.99)
+Genres: Adventure, Casual, Indie, RPG, Simulation, Strategy
+Link: https://store.steampowered.com/app/3412900
+==================================================
+
+==================================================
+Name: Aphelion
+Release Date: Apr 28, 2026
+Price: $26.99 (-10%, was $29.99)
+Genres: Action, Adventure
+Link: https://store.steampowered.com/app/1966410
+==================================================
+
+==================================================
+Name: Cubic Cosmos
+Release Date: Apr 28, 2026
+Price: $9.74 (-25%, was $12.99)
+Genres: Strategy
+Link: https://store.steampowered.com/app/3332600
+==================================================
+
