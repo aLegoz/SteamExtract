@@ -7801,3 +7801,14 @@ Genres: Adventure
 Link: https://store.steampowered.com/app/4275470
 ==================================================
 
+
+--- Run: 2026-04-28 20:56:44 --- (1 new game(s) found)
+
+==================================================
+Name: Culinary Mayhem
+Release Date: Apr 28, 2026
+Price: Free to Play
+Genres: Action, Free To Play
+Link: https://store.steampowered.com/app/4393300
+==================================================
+
