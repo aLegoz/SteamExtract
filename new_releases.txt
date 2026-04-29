@@ -7877,3 +7877,70 @@ Genres: Casual, Indie, Simulation
 Link: https://store.steampowered.com/app/4512120
 ==================================================
 
+
+--- Run: 2026-04-29 05:17:08 --- (8 new game(s) found)
+
+==================================================
+Name: JJBoom
+Release Date: Apr 28, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Action, Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/895140
+==================================================
+
+==================================================
+Name: 嘉德莉亚的挽歌 ～Wind and Dream～
+Release Date: Apr 28, 2026
+Price: $6.31 (-21%, was $7.99)
+Genres: Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/4591380
+==================================================
+
+==================================================
+Name: Baseball Scouter
+Release Date: Apr 28, 2026
+Price: $1.34 (-10%, was $1.49)
+Genres: Indie
+Link: https://store.steampowered.com/app/4211900
+==================================================
+
+==================================================
+Name: Apes Warfare
+Release Date: Apr 28, 2026
+Price: $13.49 (-10%, was $14.99)
+Genres: Strategy
+Link: https://store.steampowered.com/app/3266580
+==================================================
+
+==================================================
+Name: Hamam: The Steaming Backrooms
+Release Date: Apr 28, 2026
+Price: $3.99
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/4038550
+==================================================
+
+==================================================
+Name: EGGCONSOLE HYDLIDE PC-8801
+Release Date: Apr 28, 2026
+Price: $9.99
+Genres: Action, RPG
+Link: https://store.steampowered.com/app/4555540
+==================================================
+
+==================================================
+Name: Dungeon Gatekeeper
+Release Date: Apr 28, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Adventure, Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/3619780
+==================================================
+
+==================================================
+Name: FuturePuck Manager
+Release Date: Apr 28, 2026
+Price: $3.99
+Genres: Simulation, Sports, Strategy
+Link: https://store.steampowered.com/app/4596500
+==================================================
+
