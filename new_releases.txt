@@ -8411,3 +8411,14 @@ Genres: Action, Casual, Indie
 Link: https://store.steampowered.com/app/3967910
 ==================================================
 
+
+--- Run: 2026-04-29 22:43:24 --- (1 new game(s) found)
+
+==================================================
+Name: Postcard
+Release Date: Apr 29, 2026
+Price: Free to Play
+Genres: Casual, Free To Play
+Link: https://store.steampowered.com/app/4032540
+==================================================
+
