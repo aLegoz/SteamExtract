@@ -7944,3 +7944,54 @@ Genres: Simulation, Sports, Strategy
 Link: https://store.steampowered.com/app/4596500
 ==================================================
 
+
+--- Run: 2026-04-29 07:56:10 --- (6 new game(s) found)
+
+==================================================
+Name: MotoGP™26
+Release Date: Apr 29, 2026
+Price: $59.99
+Genres: Racing, Simulation, Sports
+Link: https://store.steampowered.com/app/3875050
+==================================================
+
+==================================================
+Name: Hollow INN
+Release Date: Apr 28, 2026
+Price: $5.84 (-10%, was $6.49)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4324060
+==================================================
+
+==================================================
+Name: Tales of Justice Academy: Winds Arise
+Release Date: Apr 28, 2026
+Price: $9.89 (-10%, was $10.99)
+Genres: Adventure, Casual, Indie, RPG, Simulation, Strategy
+Link: https://store.steampowered.com/app/3834880
+==================================================
+
+==================================================
+Name: Hentai Pirates Survivors
+Release Date: Apr 28, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Action, Adventure, Casual
+Link: https://store.steampowered.com/app/3950220
+==================================================
+
+==================================================
+Name: Dungeon-Bot
+Release Date: Apr 28, 2026
+Price: $6.02 (-33%, was $8.99)
+Genres: Casual, Strategy
+Link: https://store.steampowered.com/app/4458020
+==================================================
+
+==================================================
+Name: 晴蓝岛恋活笔记 LoveLife of QingLan Island
+Release Date: Apr 28, 2026
+Price: $3.99
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4295500
+==================================================
+
