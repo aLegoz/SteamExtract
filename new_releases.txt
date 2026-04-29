@@ -7866,3 +7866,14 @@ Genres: Adventure, Casual, Indie, Free To Play
 Link: https://store.steampowered.com/app/2256970
 ==================================================
 
+
+--- Run: 2026-04-29 01:47:37 --- (1 new game(s) found)
+
+==================================================
+Name: Hentai Remedy
+Release Date: Apr 28, 2026
+Price: $1.19 (-40%, was $1.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4512120
+==================================================
+
