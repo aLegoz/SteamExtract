@@ -8384,3 +8384,30 @@ Genres: Action, Indie, RPG
 Link: https://store.steampowered.com/app/2697460
 ==================================================
 
+
+--- Run: 2026-04-29 21:50:03 --- (3 new game(s) found)
+
+==================================================
+Name: SAMUKID
+Release Date: Apr 29, 2026
+Price: $5.99
+Genres: Action, Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/3876950
+==================================================
+
+==================================================
+Name: Istikan Chai
+Release Date: Apr 29, 2026
+Price: $5.09 (-15%, was $5.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4037010
+==================================================
+
+==================================================
+Name: Exit Plan
+Release Date: Apr 29, 2026
+Price: $8.99
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/3967910
+==================================================
+
