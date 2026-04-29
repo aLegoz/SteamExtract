@@ -8065,3 +8065,46 @@ Genres: Adventure, Casual, Indie, RPG, Simulation, Strategy
 Link: https://store.steampowered.com/app/4205010
 ==================================================
 
+
+--- Run: 2026-04-29 13:17:22 --- (5 new game(s) found)
+
+==================================================
+Name: The Board is Yours
+Release Date: Apr 29, 2026
+Price: $2.00 (-20%, was $2.50)
+Genres: Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4238740
+==================================================
+
+==================================================
+Name: GRIDBUSTERS
+Release Date: Apr 29, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4226820
+==================================================
+
+==================================================
+Name: Tides of Trade: Eastern Horizons
+Release Date: Apr 29, 2026
+Price: $9.99
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4453250
+==================================================
+
+==================================================
+Name: BACK*SPACE
+Release Date: Apr 29, 2026
+Price: $7.50
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4530880
+==================================================
+
+==================================================
+Name: 101 Cats in Florence
+Release Date: Apr 29, 2026
+Price: $1.19 (-40%, was $1.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4523110
+==================================================
+
