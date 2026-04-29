@@ -8314,3 +8314,62 @@ Genres: RPG
 Link: https://store.steampowered.com/app/4532150
 ==================================================
 
+
+--- Run: 2026-04-29 19:05:20 --- (7 new game(s) found)
+
+==================================================
+Name: !Dream
+Release Date: Apr 29, 2026
+Price: Free to Play
+Genres: Indie, Simulation, Free To Play
+Link: https://store.steampowered.com/app/4128010
+==================================================
+
+==================================================
+Name: Violet Mind and The Mysterious Island
+Release Date: Apr 29, 2026
+Price: $11.04 (-15%, was $12.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/4078040
+==================================================
+
+==================================================
+Name: BlackStump
+Release Date: Apr 29, 2026
+Price: Free to Play
+Genres: Adventure, Casual, Indie, RPG, Simulation, Free To Play
+Link: https://store.steampowered.com/app/4534550
+==================================================
+
+==================================================
+Name: Ana's Auto Fellatio
+Release Date: Apr 29, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4311860
+==================================================
+
+==================================================
+Name: Punishment NyanNyan R
+Release Date: Apr 29, 2026
+Price: $5.39 (-40%, was $8.99)
+Genres: Adventure
+Link: https://store.steampowered.com/app/4456310
+==================================================
+
+==================================================
+Name: Capybara Roulette
+Release Date: Apr 29, 2026
+Price: $3.00
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4566060
+==================================================
+
+==================================================
+Name: VR Live Yuzuki Yukari Mμ -  stay with me
+Release Date: Apr 29, 2026
+Price: $19.99
+Genres: Casual
+Link: https://store.steampowered.com/app/4276630
+==================================================
+
