@@ -8054,3 +8054,14 @@ Genres: Adventure, RPG, Free To Play
 Link: https://store.steampowered.com/app/2996330
 ==================================================
 
+
+--- Run: 2026-04-29 11:26:00 --- (1 new game(s) found)
+
+==================================================
+Name: Become Emperor! My Trillion Beauties Planet Empire
+Release Date: Apr 29, 2026
+Price: $29.99 (-25%, was $39.99)
+Genres: Adventure, Casual, Indie, RPG, Simulation, Strategy
+Link: https://store.steampowered.com/app/4205010
+==================================================
+
