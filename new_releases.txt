@@ -8108,3 +8108,126 @@ Genres: Casual, Indie
 Link: https://store.steampowered.com/app/4523110
 ==================================================
 
+
+--- Run: 2026-04-29 15:51:17 --- (15 new game(s) found)
+
+==================================================
+Name: 葦原のアニマ
+Release Date: Apr 29, 2026
+Price: $4.79 (-20%, was $5.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4373170
+==================================================
+
+==================================================
+Name: Don't Push Your Luck
+Release Date: Apr 29, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Action, Indie, Simulation
+Link: https://store.steampowered.com/app/4527250
+==================================================
+
+==================================================
+Name: R-TYPE DX: Music Encore
+Release Date: Apr 29, 2026
+Price: $11.99 (-20%, was $14.99)
+Genres: Action
+Link: https://store.steampowered.com/app/3804290
+==================================================
+
+==================================================
+Name: The Parking Garage
+Release Date: Apr 29, 2026
+Price: $3.19 (-20%, was $3.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4385540
+==================================================
+
+==================================================
+Name: Demons' Timeline
+Release Date: Apr 29, 2026
+Price: $9.34 (-15%, was $10.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4198660
+==================================================
+
+==================================================
+Name: Kugayama Shiori's Death Diary
+Release Date: Apr 29, 2026
+Price: $19.99 (-20%, was $24.99)
+Genres: Adventure, Casual
+Link: https://store.steampowered.com/app/4141950
+==================================================
+
+==================================================
+Name: Magin: The Rat Project Stories
+Release Date: Apr 29, 2026
+Price: $17.99 (-10%, was $19.99)
+Genres: Adventure, Indie, Strategy
+Link: https://store.steampowered.com/app/1205270
+==================================================
+
+==================================================
+Name: Spellfarers
+Release Date: Apr 29, 2026
+Price: Free to Play
+Genres: Adventure, Casual, Massively Multiplayer, Simulation, Free To Play
+Link: https://store.steampowered.com/app/1569420
+==================================================
+
+==================================================
+Name: Parallel
+Release Date: Apr 29, 2026
+Price: Free to Play
+Genres: Strategy, Free To Play
+Link: https://store.steampowered.com/app/2604930
+==================================================
+
+==================================================
+Name: RAM Munchers Neon
+Release Date: Apr 29, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Action
+Link: https://store.steampowered.com/app/4264020
+==================================================
+
+==================================================
+Name: Homgard
+Release Date: Apr 29, 2026
+Price: $13.49 (-10%, was $14.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4287570
+==================================================
+
+==================================================
+Name: The Spell Brigade
+Release Date: Apr 29, 2026
+Price: $7.79 (-40%, was $12.99)
+Genres: Action, Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/2904000
+==================================================
+
+==================================================
+Name: 百尺様
+Release Date: Apr 29, 2026
+Price: $5.59 (-20%, was $6.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4345020
+==================================================
+
+==================================================
+Name: Box Dungeons
+Release Date: Apr 29, 2026
+Price: $1.59 (-20%, was $1.99)
+Genres: Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/2434290
+==================================================
+
+==================================================
+Name: Defective Detectives 2
+Release Date: Apr 29, 2026
+Price: $1.39 (-30%, was $1.99)
+Genres: Action, Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/4620480
+==================================================
+
