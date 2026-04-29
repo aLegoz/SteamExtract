@@ -7995,3 +7995,62 @@ Genres: Casual, Indie
 Link: https://store.steampowered.com/app/4295500
 ==================================================
 
+
+--- Run: 2026-04-29 09:57:47 --- (7 new game(s) found)
+
+==================================================
+Name: Demon Lord: Just a Block
+Release Date: Apr 29, 2026
+Price: $11.69 (-10%, was $12.99)
+Genres: Action, Adventure, Casual, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/3720420
+==================================================
+
+==================================================
+Name: The Sage's Seven
+Release Date: Apr 29, 2026
+Price: $2.39 (-20%, was $2.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4563450
+==================================================
+
+==================================================
+Name: Flourish Visual Novel Engine
+Release Date: Apr 29, 2026
+Price: Free to Play
+Genres: Free To Play, Design & Illustration, Utilities, Game Development
+Link: https://store.steampowered.com/app/4523570
+==================================================
+
+==================================================
+Name: Apokerlypse
+Release Date: Apr 29, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: Casual, Strategy
+Link: https://store.steampowered.com/app/3481020
+==================================================
+
+==================================================
+Name: War Room Football
+Release Date: Apr 29, 2026
+Price: $9.99
+Genres: Indie, Simulation, Sports, Strategy
+Link: https://store.steampowered.com/app/4555100
+==================================================
+
+==================================================
+Name: Puzzle ATLAS
+Release Date: Apr 29, 2026
+Price: Free to Play
+Genres: Casual, Indie, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4624460
+==================================================
+
+==================================================
+Name: TheNinthFloor
+Release Date: Apr 29, 2026
+Price: Free to Play
+Genres: Adventure, RPG, Free To Play
+Link: https://store.steampowered.com/app/2996330
+==================================================
+
