@@ -8231,3 +8231,86 @@ Genres: Action, Adventure, Indie, RPG
 Link: https://store.steampowered.com/app/4620480
 ==================================================
 
+
+--- Run: 2026-04-29 17:14:30 --- (10 new game(s) found)
+
+==================================================
+Name: Off the Beaten Track
+Release Date: Apr 29, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/3752960
+==================================================
+
+==================================================
+Name: Mini Tank Mayhem
+Release Date: Apr 29, 2026
+Price: $9.47 (-21%, was $11.99)
+Genres: Action, Strategy
+Link: https://store.steampowered.com/app/2096260
+==================================================
+
+==================================================
+Name: Crimson Waves on the Emerald Sea: Amaranthine Moon
+Release Date: Apr 29, 2026
+Price: $15.29 (-10%, was $16.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/3072470
+==================================================
+
+==================================================
+Name: INDUSTRIA 2
+Release Date: Apr 29, 2026
+Price: $22.49 (-10%, was $24.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/2154070
+==================================================
+
+==================================================
+Name: Bobo Bay
+Release Date: Apr 29, 2026
+Price: $20.99 (-16%, was $24.99)
+Genres: Casual, Indie, Racing, Simulation, Sports
+Link: https://store.steampowered.com/app/1889810
+==================================================
+
+==================================================
+Name: Ariana and the Elder Codex
+Release Date: Apr 29, 2026
+Price: $25.49 (-15%, was $29.99)
+Genres: Action, Adventure
+Link: https://store.steampowered.com/app/3986690
+==================================================
+
+==================================================
+Name: YAMIGATARI: FOR3ST
+Release Date: Apr 29, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4025010
+==================================================
+
+==================================================
+Name: See-Through Jewels
+Release Date: Apr 29, 2026
+Price: $7.19 (-20%, was $8.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4561660
+==================================================
+
+==================================================
+Name: Rogue Fist
+Release Date: Apr 29, 2026
+Price: $7.19 (-20%, was $8.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/2522160
+==================================================
+
+==================================================
+Name: G-MODEアーカイブス+ ゼノサーガ パイドパイパー
+Release Date: Apr 29, 2026
+Price: $15.99
+Genres: RPG
+Link: https://store.steampowered.com/app/4532150
+==================================================
+
