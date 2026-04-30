@@ -9335,3 +9335,14 @@ Genres: Casual, Indie
 Link: https://store.steampowered.com/app/4350970
 ==================================================
 
+
+--- Run: 2026-04-30 23:40:29 --- (1 new game(s) found)
+
+==================================================
+Name: Golf Around 2
+Release Date: Apr 30, 2026
+Price: $6.79 (-15%, was $7.99)
+Genres: Casual, Indie, Simulation, Sports
+Link: https://store.steampowered.com/app/4346280
+==================================================
+
