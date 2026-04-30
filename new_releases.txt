@@ -8556,3 +8556,46 @@ Genres: Action, Adventure, Casual, Indie
 Link: https://store.steampowered.com/app/4599120
 ==================================================
 
+
+--- Run: 2026-04-30 07:59:55 --- (5 new game(s) found)
+
+==================================================
+Name: inKONBINI: One Store. Many Stories
+Release Date: Apr 30, 2026
+Price: $17.99 (-10%, was $19.99)
+Genres: Adventure, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/2723430
+==================================================
+
+==================================================
+Name: CatTag: Create
+Release Date: Apr 30, 2026
+Price: Free to Play
+Genres: Adventure, Casual, Indie, Simulation, Free To Play
+Link: https://store.steampowered.com/app/2874730
+==================================================
+
+==================================================
+Name: Dreadmarrow
+Release Date: Apr 30, 2026
+Price: $5.59 (-20%, was $6.99)
+Genres: Action, Adventure, Casual, Indie, RPG
+Link: https://store.steampowered.com/app/4031690
+==================================================
+
+==================================================
+Name: Runren Simulator
+Release Date: Apr 29, 2026
+Price: $1.59 (-20%, was $1.99)
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/4099900
+==================================================
+
+==================================================
+Name: Alice Landing：愛莉絲迫降
+Release Date: Apr 29, 2026
+Price: $4.79 (-40%, was $7.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4117860
+==================================================
+
