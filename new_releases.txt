@@ -8497,3 +8497,62 @@ Genres: Action
 Link: https://store.steampowered.com/app/4540360
 ==================================================
 
+
+--- Run: 2026-04-30 05:20:11 --- (7 new game(s) found)
+
+==================================================
+Name: Beast Saga
+Release Date: Apr 29, 2026
+Price: $15.29 (-15%, was $17.99)
+Genres: Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/2232880
+==================================================
+
+==================================================
+Name: Ink Shadow: Zero
+Release Date: Apr 29, 2026
+Price: Free to Play
+Genres: Action, Adventure, Massively Multiplayer, RPG, Free To Play
+Link: https://store.steampowered.com/app/4282510
+==================================================
+
+==================================================
+Name: Blackfire Crusade
+Release Date: Apr 29, 2026
+Price: Free to Play
+Genres: Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/1765770
+==================================================
+
+==================================================
+Name: Crimson Oath
+Release Date: Apr 29, 2026
+Price: $9.59 (-20%, was $11.99)
+Genres: Action, Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/3333250
+==================================================
+
+==================================================
+Name: Dream at Dead of Century
+Release Date: Apr 29, 2026
+Price: Free to Play
+Genres: Adventure, Indie, Free To Play
+Link: https://store.steampowered.com/app/4542240
+==================================================
+
+==================================================
+Name: Your Friend, Sam
+Release Date: Apr 29, 2026
+Price: Free to Play
+Genres: Adventure, Free To Play
+Link: https://store.steampowered.com/app/4541300
+==================================================
+
+==================================================
+Name: Our Flick Erasers 4
+Release Date: Apr 29, 2026
+Price: $11.87 (-28%, was $16.49)
+Genres: Action, Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4599120
+==================================================
+
