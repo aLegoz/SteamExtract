@@ -8422,3 +8422,78 @@ Genres: Casual, Free To Play
 Link: https://store.steampowered.com/app/4032540
 ==================================================
 
+
+--- Run: 2026-04-30 01:46:20 --- (9 new game(s) found)
+
+==================================================
+Name: Legends of Wasteland
+Release Date: Apr 29, 2026
+Price: $5.94 (-15%, was $6.99)
+Genres: Action, Adventure, Casual, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/4007300
+==================================================
+
+==================================================
+Name: Starshot Idle
+Release Date: Apr 29, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4408630
+==================================================
+
+==================================================
+Name: Demon's Door: The Checkpoint
+Release Date: Apr 29, 2026
+Price: $4.99
+Genres: Action, Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4561160
+==================================================
+
+==================================================
+Name: ScooterFlow
+Release Date: Apr 29, 2026
+Price: $19.99
+Genres: Casual, Indie, Simulation, Sports
+Link: https://store.steampowered.com/app/1648390
+==================================================
+
+==================================================
+Name: Slime Tales
+Release Date: Apr 29, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/3790590
+==================================================
+
+==================================================
+Name: IamMETEOR
+Release Date: Apr 29, 2026
+Price: $1.99
+Genres: Action, Casual
+Link: https://store.steampowered.com/app/4520960
+==================================================
+
+==================================================
+Name: Weather Dragger
+Release Date: Apr 29, 2026
+Price: $6.79 (-15%, was $7.99)
+Genres: Casual, Simulation, Strategy
+Link: https://store.steampowered.com/app/4254840
+==================================================
+
+==================================================
+Name: Wish Upon
+Release Date: Apr 29, 2026
+Price: $7.99
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4125080
+==================================================
+
+==================================================
+Name: Hel Survivor
+Release Date: Apr 29, 2026
+Price: $6.29 (-10%, was $6.99)
+Genres: Action
+Link: https://store.steampowered.com/app/4540360
+==================================================
+
