@@ -8789,3 +8789,126 @@ Genres: Action, Adventure, Simulation
 Link: https://store.steampowered.com/app/4562850
 ==================================================
 
+
+--- Run: 2026-04-30 14:57:09 --- (15 new game(s) found)
+
+==================================================
+Name: Bandit Trap
+Release Date: Apr 30, 2026
+Price: $13.49 (-10%, was $14.99)
+Genres: Action, Strategy
+Link: https://store.steampowered.com/app/2982360
+==================================================
+
+==================================================
+Name: Inner Voice
+Release Date: Apr 30, 2026
+Price: $9.99 (-20%, was $12.49)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4139880
+==================================================
+
+==================================================
+Name: CrossForge
+Release Date: Apr 30, 2026
+Price: $0.59 (-40%, was $0.99)
+Genres: Utilities
+Link: https://store.steampowered.com/app/4533960
+==================================================
+
+==================================================
+Name: Bus Bound
+Release Date: Apr 30, 2026
+Price: $29.99
+Genres: Simulation
+Link: https://store.steampowered.com/app/2095420
+==================================================
+
+==================================================
+Name: Quarantine Market Simulator: Prologue
+Release Date: Apr 30, 2026
+Price: Free to Play
+Genres: Indie, Simulation, Free To Play
+Link: https://store.steampowered.com/app/4518320
+==================================================
+
+==================================================
+Name: Librarian: Tidy Up the Arcane Library!
+Release Date: Apr 30, 2026
+Price: $5.09 (-15%, was $5.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4197610
+==================================================
+
+==================================================
+Name: Monster Crown: Sin Eater
+Release Date: Apr 30, 2026
+Price: $22.49 (-10%, was $24.99)
+Genres: Adventure, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/3388410
+==================================================
+
+==================================================
+Name: Chickens Don't Fly
+Release Date: Apr 30, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/2826970
+==================================================
+
+==================================================
+Name: Milf Solitaire: Lust Collector
+Release Date: Apr 30, 2026
+Price: Free to Play
+Genres: Casual, Simulation, Free To Play
+Link: https://store.steampowered.com/app/4293360
+==================================================
+
+==================================================
+Name: Outlive 25
+Release Date: Apr 30, 2026
+Price: $10.79 (-10%, was $11.99)
+Genres: Action, Simulation, Strategy
+Link: https://store.steampowered.com/app/2948680
+==================================================
+
+==================================================
+Name: TOYCRAFTER
+Release Date: Apr 30, 2026
+Price: $2.39 (-20%, was $2.99)
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/4116460
+==================================================
+
+==================================================
+Name: DIMENSION RANGER
+Release Date: Apr 30, 2026
+Price: $8.55 (-10%, was $9.50)
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/3458810
+==================================================
+
+==================================================
+Name: Almost Castaways
+Release Date: Apr 30, 2026
+Price: $12.90
+Genres: Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/4553070
+==================================================
+
+==================================================
+Name: Ossan Hamster
+Release Date: Apr 30, 2026
+Price: $1.79 (-10%, was $1.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4580560
+==================================================
+
+==================================================
+Name: North Korean saves the USSR
+Release Date: Apr 30, 2026
+Price: $1.59 (-20%, was $1.99)
+Genres: Action, Adventure, Casual
+Link: https://store.steampowered.com/app/4130230
+==================================================
+
