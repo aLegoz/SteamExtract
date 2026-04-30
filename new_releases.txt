@@ -9241,3 +9241,70 @@ Genres: Action, Indie, Strategy
 Link: https://store.steampowered.com/app/2180950
 ==================================================
 
+
+--- Run: 2026-04-30 21:44:59 --- (8 new game(s) found)
+
+==================================================
+Name: Custom Cursor
+Release Date: Apr 30, 2026
+Price: Free to Play
+Genres: Indie, Design & Illustration, Utilities, Free To Play
+Link: https://store.steampowered.com/app/4342760
+==================================================
+
+==================================================
+Name: Adrift
+Release Date: Apr 30, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4153510
+==================================================
+
+==================================================
+Name: Ataegina Act I
+Release Date: Apr 30, 2026
+Price: $10.19 (-15%, was $11.99)
+Genres: Action, Adventure, RPG
+Link: https://store.steampowered.com/app/2929140
+==================================================
+
+==================================================
+Name: Project Uncover
+Release Date: Apr 30, 2026
+Price: $3.39 (-15%, was $3.99)
+Genres: Action, Casual
+Link: https://store.steampowered.com/app/4575140
+==================================================
+
+==================================================
+Name: Daily Climb
+Release Date: Apr 30, 2026
+Price: $4.89 (-30%, was $6.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/3015150
+==================================================
+
+==================================================
+Name: Our Home, My Keeper
+Release Date: Apr 30, 2026
+Price: $13.49 (-10%, was $14.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/3092190
+==================================================
+
+==================================================
+Name: Puppet Mistress
+Release Date: Apr 30, 2026
+Price: $14.99 (-25%, was $19.99)
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/4101490
+==================================================
+
+==================================================
+Name: Ratnik
+Release Date: Apr 30, 2026
+Price: $5.99 (-40%, was $9.99)
+Genres: Simulation, Strategy
+Link: https://store.steampowered.com/app/4485520
+==================================================
+
