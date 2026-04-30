@@ -8912,3 +8912,126 @@ Genres: Action, Adventure, Casual
 Link: https://store.steampowered.com/app/4130230
 ==================================================
 
+
+--- Run: 2026-04-30 16:14:09 --- (15 new game(s) found)
+
+==================================================
+Name: Who Summoned It?
+Release Date: Apr 30, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/3682850
+==================================================
+
+==================================================
+Name: Room 713
+Release Date: Apr 30, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Adventure, Simulation
+Link: https://store.steampowered.com/app/3961890
+==================================================
+
+==================================================
+Name: Winx Club: The Magic is Back
+Release Date: Apr 30, 2026
+Price: $23.99 (-20%, was $29.99)
+Genres: Action, Adventure
+Link: https://store.steampowered.com/app/4007490
+==================================================
+
+==================================================
+Name: Dwarf Guild Mania
+Release Date: Apr 30, 2026
+Price: $7.19 (-10%, was $7.99)
+Genres: Casual, Strategy
+Link: https://store.steampowered.com/app/4346210
+==================================================
+
+==================================================
+Name: Penance
+Release Date: Apr 30, 2026
+Price: $5.59 (-20%, was $6.99)
+Genres: Action, Adventure, Indie, Strategy
+Link: https://store.steampowered.com/app/4030320
+==================================================
+
+==================================================
+Name: Valenium
+Release Date: Apr 30, 2026
+Price: $10.99
+Genres: Action, Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/4247040
+==================================================
+
+==================================================
+Name: Dungeon Clawler
+Release Date: Apr 30, 2026
+Price: $9.74 (-35%, was $14.99)
+Genres: Action, Casual, RPG, Simulation, Strategy
+Link: https://store.steampowered.com/app/2356780
+==================================================
+
+==================================================
+Name: Adorable Adventures
+Release Date: Apr 30, 2026
+Price: $15.99 (-20%, was $19.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/3840230
+==================================================
+
+==================================================
+Name: AGERASIA
+Release Date: Apr 30, 2026
+Price: $9.99
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4046410
+==================================================
+
+==================================================
+Name: Mask City: Chapter Zero
+Release Date: Apr 30, 2026
+Price: $11.69 (-10%, was $12.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/3870370
+==================================================
+
+==================================================
+Name: Downsizing.exe
+Release Date: Apr 30, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4438440
+==================================================
+
+==================================================
+Name: TEEFS
+Release Date: Apr 30, 2026
+Price: $4.00 (-20%, was $5.00)
+Genres: Casual
+Link: https://store.steampowered.com/app/4401500
+==================================================
+
+==================================================
+Name: 集墨聚场™：三国（单机版）
+Release Date: Apr 30, 2026
+Price: $14.99
+Genres: Casual, Indie, RPG
+Link: https://store.steampowered.com/app/4244660
+==================================================
+
+==================================================
+Name: 星标4：乐园传说
+Release Date: Apr 30, 2026
+Price: $5.39 (-10%, was $5.99)
+Genres: Adventure, Casual, Indie, RPG
+Link: https://store.steampowered.com/app/4224770
+==================================================
+
+==================================================
+Name: LotS - Light on the Sea
+Release Date: Apr 30, 2026
+Price: $5.39 (-10%, was $5.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4106450
+==================================================
+
