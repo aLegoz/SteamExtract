@@ -8754,3 +8754,38 @@ Genres: Casual, Indie, Simulation, Strategy
 Link: https://store.steampowered.com/app/4582780
 ==================================================
 
+
+--- Run: 2026-04-30 12:06:38 --- (4 new game(s) found)
+
+==================================================
+Name: Zombiehood
+Release Date: Apr 30, 2026
+Price: $8.49 (-15%, was $9.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/3003120
+==================================================
+
+==================================================
+Name: Starbase Starlight
+Release Date: Apr 30, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Action, Strategy
+Link: https://store.steampowered.com/app/4585360
+==================================================
+
+==================================================
+Name: Swarm Survivor: Endless Siege
+Release Date: Apr 30, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Casual, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/3745020
+==================================================
+
+==================================================
+Name: I Fell for Her
+Release Date: Apr 30, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Action, Adventure, Simulation
+Link: https://store.steampowered.com/app/4562850
+==================================================
+
