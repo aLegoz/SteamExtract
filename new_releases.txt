@@ -9308,3 +9308,30 @@ Genres: Simulation, Strategy
 Link: https://store.steampowered.com/app/4485520
 ==================================================
 
+
+--- Run: 2026-04-30 22:39:33 --- (3 new game(s) found)
+
+==================================================
+Name: Charm Studies
+Release Date: Apr 30, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4541930
+==================================================
+
+==================================================
+Name: Tomboy: Race for Love
+Release Date: Apr 30, 2026
+Price: $3.59 (-10%, was $3.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4282960
+==================================================
+
+==================================================
+Name: Sweet Hawaii
+Release Date: Apr 30, 2026
+Price: $0.89 (-10%, was $0.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4350970
+==================================================
+
