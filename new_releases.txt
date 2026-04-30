@@ -9126,3 +9126,118 @@ Genres: Action, Indie, RPG, Strategy, Free To Play
 Link: https://store.steampowered.com/app/4320970
 ==================================================
 
+
+--- Run: 2026-04-30 20:03:49 --- (14 new game(s) found)
+
+==================================================
+Name: Hex Strikers
+Release Date: Apr 30, 2026
+Price: Free to Play
+Genres: Indie, Strategy, Free To Play
+Link: https://store.steampowered.com/app/2408870
+==================================================
+
+==================================================
+Name: Prehistoric Pack
+Release Date: Apr 30, 2026
+Price: Free to Play
+Genres: Casual, Indie, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4393990
+==================================================
+
+==================================================
+Name: Lights Out Vr
+Release Date: Apr 30, 2026
+Price: Free to Play
+Genres: RPG, Simulation, Free To Play
+Link: https://store.steampowered.com/app/4561710
+==================================================
+
+==================================================
+Name: Dating Maze
+Release Date: Apr 30, 2026
+Price: Free to Play
+Genres: Action, Adventure, Casual, Indie, RPG, Simulation, Strategy, Free To Play
+Link: https://store.steampowered.com/app/3184700
+==================================================
+
+==================================================
+Name: The Heresy of Gibur
+Release Date: Apr 30, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Adventure, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4460060
+==================================================
+
+==================================================
+Name: Aero Tales Online: The World - Anime MMORPG
+Release Date: Apr 30, 2026
+Price: Free to Play
+Genres: Massively Multiplayer, RPG, Free To Play
+Link: https://store.steampowered.com/app/1943610
+==================================================
+
+==================================================
+Name: Before Times
+Release Date: Apr 30, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Action, Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/4462780
+==================================================
+
+==================================================
+Name: Crossed Tiles
+Release Date: Apr 30, 2026
+Price: Free to Play
+Genres: Casual, Indie, Strategy, Free To Play
+Link: https://store.steampowered.com/app/3725870
+==================================================
+
+==================================================
+Name: Touhou Unite Arena
+Release Date: Apr 30, 2026
+Price: $2.39 (-20%, was $2.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/3453460
+==================================================
+
+==================================================
+Name: La Vida de Andrea
+Release Date: Apr 30, 2026
+Price: Free to Play
+Genres: Adventure, Indie, Free To Play
+Link: https://store.steampowered.com/app/3680380
+==================================================
+
+==================================================
+Name: Hentai Furry Goat
+Release Date: Apr 30, 2026
+Price: $0.64 (-35%, was $0.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4566470
+==================================================
+
+==================================================
+Name: Piywebler
+Release Date: Apr 30, 2026
+Price: $4.99
+Genres: Action, Adventure
+Link: https://store.steampowered.com/app/4606900
+==================================================
+
+==================================================
+Name: Arcadia Cafe
+Release Date: Apr 30, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Action, Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/636270
+==================================================
+
+==================================================
+Name: Porta-Tower
+Release Date: Apr 30, 2026
+Price: $4.92 (-15%, was $5.79)
+Genres: Action, Indie, Strategy
+Link: https://store.steampowered.com/app/2180950
+==================================================
+
