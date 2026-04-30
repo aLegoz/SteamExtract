@@ -8599,3 +8599,158 @@ Genres: Adventure, Indie
 Link: https://store.steampowered.com/app/4117860
 ==================================================
 
+
+--- Run: 2026-04-30 10:07:20 --- (19 new game(s) found)
+
+==================================================
+Name: Project: Aurora
+Release Date: Apr 30, 2026
+Price: $10.49 (-25%, was $13.99)
+Genres: Adventure, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/1646290
+==================================================
+
+==================================================
+Name: Herb Garden
+Release Date: Apr 30, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/4595890
+==================================================
+
+==================================================
+Name: Crystal TD
+Release Date: Apr 30, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/4604000
+==================================================
+
+==================================================
+Name: GLADIMAKER : Auto Battle RPG
+Release Date: Apr 30, 2026
+Price: $5.59 (-20%, was $6.99)
+Genres: Indie, RPG, Simulation, Strategy
+Link: https://store.steampowered.com/app/4310900
+==================================================
+
+==================================================
+Name: Monster TD
+Release Date: Apr 30, 2026
+Price: Free to Play
+Genres: Casual, Indie, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4570050
+==================================================
+
+==================================================
+Name: SuperIMGViewr
+Release Date: Apr 30, 2026
+Price: $14.99 (-25%, was $19.99)
+Genres: Photo Editing, Utilities
+Link: https://store.steampowered.com/app/4526390
+==================================================
+
+==================================================
+Name: Twin Shot Deluxe
+Release Date: Apr 30, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/3618520
+==================================================
+
+==================================================
+Name: Speed Rivals - Slot Racing
+Release Date: Apr 30, 2026
+Price: $9.35 (-15%, was $11.00)
+Genres: Action, Casual, Indie, Racing, Simulation, Sports
+Link: https://store.steampowered.com/app/3389390
+==================================================
+
+==================================================
+Name: See-Through Bubbles
+Release Date: Apr 30, 2026
+Price: $7.19 (-20%, was $8.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4573450
+==================================================
+
+==================================================
+Name: Spori
+Release Date: Apr 30, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/3924080
+==================================================
+
+==================================================
+Name: Core Awaken Rurumu's will
+Release Date: Apr 30, 2026
+Price: $11.69 (-10%, was $12.99)
+Genres: Action, Adventure, Casual, Indie, RPG
+Link: https://store.steampowered.com/app/2963320
+==================================================
+
+==================================================
+Name: The Coma 3: Bloodlines
+Release Date: Apr 30, 2026
+Price: $11.99 (-20%, was $14.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/3885590
+==================================================
+
+==================================================
+Name: Dracamar
+Release Date: Apr 30, 2026
+Price: $17.99 (-10%, was $19.99)
+Genres: Action, Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/3306480
+==================================================
+
+==================================================
+Name: Doorcrash!
+Release Date: Apr 30, 2026
+Price: Free to Play
+Genres: Action, Casual, Indie, Racing, Free To Play
+Link: https://store.steampowered.com/app/4619730
+==================================================
+
+==================================================
+Name: Mystery Cube: Black Dragon Jarl
+Release Date: Apr 30, 2026
+Price: $1.39 (-30%, was $1.99)
+Genres: Action, Adventure, Casual, Indie, RPG
+Link: https://store.steampowered.com/app/4498190
+==================================================
+
+==================================================
+Name: Grenouilles 3D
+Release Date: Apr 30, 2026
+Price: Free to Play
+Genres: Adventure, Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/3645100
+==================================================
+
+==================================================
+Name: Navigatore of the Ruined World
+Release Date: Apr 30, 2026
+Price: $15.99 (-20%, was $19.99)
+Genres: Adventure
+Link: https://store.steampowered.com/app/3966350
+==================================================
+
+==================================================
+Name: Cyberdelia: Micro
+Release Date: Apr 29, 2026
+Price: $6.99
+Genres: Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/4269670
+==================================================
+
+==================================================
+Name: 掼蛋 Guandan
+Release Date: Apr 29, 2026
+Price: $3.39 (-15%, was $3.99)
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4582780
+==================================================
+
