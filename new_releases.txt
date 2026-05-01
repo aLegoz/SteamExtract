@@ -10043,3 +10043,46 @@ Genres: Adventure, Casual, Indie
 Link: https://store.steampowered.com/app/4636010
 ==================================================
 
+
+--- Run: 2026-05-01 18:54:02 --- (5 new game(s) found)
+
+==================================================
+Name: Die in the Dungeon
+Release Date: May 1, 2026
+Price: $9.74 (-35%, was $14.99)
+Genres: Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/2026820
+==================================================
+
+==================================================
+Name: Gamble With Your Friends
+Release Date: May 1, 2026
+Price: $4.95 (-38%, was $7.99)
+Genres: Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/3892270
+==================================================
+
+==================================================
+Name: The Bunker Notes - Horror/Drama Visual Novel
+Release Date: May 1, 2026
+Price: $1.07 (-40%, was $1.79)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/1811190
+==================================================
+
+==================================================
+Name: Meltopia
+Release Date: May 1, 2026
+Price: $4.19 (-40%, was $6.99)
+Genres: Adventure, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/3601800
+==================================================
+
+==================================================
+Name: Pogo With Friends
+Release Date: May 1, 2026
+Price: $3.19 (-20%, was $3.99)
+Genres: Adventure, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/3434550
+==================================================
+
