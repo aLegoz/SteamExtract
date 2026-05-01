@@ -9536,3 +9536,62 @@ Genres: Casual, Indie, RPG
 Link: https://store.steampowered.com/app/4500780
 ==================================================
 
+
+--- Run: 2026-05-01 07:57:59 --- (7 new game(s) found)
+
+==================================================
+Name: Waifu Cam Girl - NSFW Hentai Clicker
+Release Date: May 1, 2026
+Price: Free to Play
+Genres: Casual, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4605810
+==================================================
+
+==================================================
+Name: Terminal Breaker
+Release Date: Apr 30, 2026
+Price: $0.99
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4365470
+==================================================
+
+==================================================
+Name: EMOJI BOMB
+Release Date: Apr 30, 2026
+Price: Free to Play
+Genres: Action, Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/4387970
+==================================================
+
+==================================================
+Name: People are Tools
+Release Date: Apr 30, 2026
+Price: $5.59 (-20%, was $6.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4518730
+==================================================
+
+==================================================
+Name: Reflex Rush
+Release Date: Apr 30, 2026
+Price: $0.59 (-40%, was $0.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4593520
+==================================================
+
+==================================================
+Name: Pixel It!
+Release Date: Apr 30, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4258780
+==================================================
+
+==================================================
+Name: Switch_Out
+Release Date: Apr 30, 2026
+Price: $2.99 (-25%, was $3.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4442530
+==================================================
+
