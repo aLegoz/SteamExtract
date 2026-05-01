@@ -9346,3 +9346,46 @@ Genres: Casual, Indie, Simulation, Sports
 Link: https://store.steampowered.com/app/4346280
 ==================================================
 
+
+--- Run: 2026-05-01 01:49:24 --- (5 new game(s) found)
+
+==================================================
+Name: Mayor May Knott
+Release Date: Apr 30, 2026
+Price: $18.39 (-20%, was $22.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/2377450
+==================================================
+
+==================================================
+Name: Fragments In Situ: Escape Room
+Release Date: Apr 30, 2026
+Price: $12.99
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4436430
+==================================================
+
+==================================================
+Name: MagiClean
+Release Date: Apr 30, 2026
+Price: $3.14 (-37%, was $4.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/3948440
+==================================================
+
+==================================================
+Name: Quiet Soul
+Release Date: Apr 30, 2026
+Price: $7.49 (-25%, was $9.99)
+Genres: Action, Adventure, Strategy
+Link: https://store.steampowered.com/app/3254010
+==================================================
+
+==================================================
+Name: Corporate Hell
+Release Date: Apr 30, 2026
+Price: $6.79 (-15%, was $7.99)
+Genres: Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/3766480
+==================================================
+
