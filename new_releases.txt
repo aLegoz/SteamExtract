@@ -10137,3 +10137,14 @@ Genres: Adventure
 Link: https://store.steampowered.com/app/3886260
 ==================================================
 
+
+--- Run: 2026-05-01 20:51:18 --- (1 new game(s) found)
+
+==================================================
+Name: Jigsaw Puzzle Palace
+Release Date: May 1, 2026
+Price: Free to Play
+Genres: Casual, Free To Play
+Link: https://store.steampowered.com/app/4456230
+==================================================
+
