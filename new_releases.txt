@@ -9917,3 +9917,38 @@ Genres: Casual, Indie, Simulation, Strategy
 Link: https://store.steampowered.com/app/4614860
 ==================================================
 
+
+--- Run: 2026-05-01 16:41:54 --- (4 new game(s) found)
+
+==================================================
+Name: Memoria Arcana
+Release Date: May 1, 2026
+Price: $2.99 (-40%, was $4.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4134700
+==================================================
+
+==================================================
+Name: Which hand?
+Release Date: May 1, 2026
+Price: $3.19 (-20%, was $3.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4195010
+==================================================
+
+==================================================
+Name: BreakaBull
+Release Date: May 1, 2026
+Price: Free to Play
+Genres: Casual, Indie, Simulation, Free To Play
+Link: https://store.steampowered.com/app/4453020
+==================================================
+
+==================================================
+Name: Early Bird gets the Space Worm
+Release Date: May 1, 2026
+Price: $2.99 (-25%, was $3.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4149870
+==================================================
+
