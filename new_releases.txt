@@ -9595,3 +9595,54 @@ Genres: Action, Casual, Indie
 Link: https://store.steampowered.com/app/4442530
 ==================================================
 
+
+--- Run: 2026-05-01 09:29:19 --- (6 new game(s) found)
+
+==================================================
+Name: Koloboke: Sickness Simulator
+Release Date: May 1, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Action, Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/3813910
+==================================================
+
+==================================================
+Name: Rogue Voltage
+Release Date: May 1, 2026
+Price: $9.91 (-38%, was $15.99)
+Genres: Indie, RPG, Simulation, Strategy
+Link: https://store.steampowered.com/app/1494560
+==================================================
+
+==================================================
+Name: LaVonne's Bouncing Idle
+Release Date: May 1, 2026
+Price: Free to Play
+Genres: Casual, Indie, Simulation, Free To Play
+Link: https://store.steampowered.com/app/4606730
+==================================================
+
+==================================================
+Name: Shortcutty
+Release Date: May 1, 2026
+Price: $4.79 (-20%, was $5.99)
+Genres: Indie, Utilities
+Link: https://store.steampowered.com/app/4604030
+==================================================
+
+==================================================
+Name: Rock Quest: A Rhythm Adventure
+Release Date: Apr 30, 2026
+Price: $10.04 (-33%, was $14.99)
+Genres: Action, Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/3695470
+==================================================
+
+==================================================
+Name: Punch 1000 Dudes
+Release Date: Apr 30, 2026
+Price: $4.99
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4188420
+==================================================
+
