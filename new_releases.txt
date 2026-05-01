@@ -10086,3 +10086,54 @@ Genres: Adventure, Casual, Indie, Simulation
 Link: https://store.steampowered.com/app/3434550
 ==================================================
 
+
+--- Run: 2026-05-01 19:59:02 --- (6 new game(s) found)
+
+==================================================
+Name: Hap to Day
+Release Date: May 1, 2026
+Price: $0.99
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/1156430
+==================================================
+
+==================================================
+Name: Cursed Isle
+Release Date: May 1, 2026
+Price: Free to Play
+Genres: Action, Adventure, Indie, RPG, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4385020
+==================================================
+
+==================================================
+Name: A Bumpy Ride
+Release Date: May 1, 2026
+Price: $12.89 (-14%, was $14.99)
+Genres: Action, Adventure, Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/3056840
+==================================================
+
+==================================================
+Name: The Endless Village
+Release Date: May 1, 2026
+Price: Free to Play
+Genres: Indie, Simulation, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4082740
+==================================================
+
+==================================================
+Name: Bio Fail
+Release Date: May 1, 2026
+Price: $2.99
+Genres: Action, Adventure
+Link: https://store.steampowered.com/app/4591120
+==================================================
+
+==================================================
+Name: Cult Of The Serpent: Cuck Or Be Cucked
+Release Date: May 1, 2026
+Price: $18.74 (-25%, was $24.99)
+Genres: Adventure
+Link: https://store.steampowered.com/app/3886260
+==================================================
+
