@@ -10258,3 +10258,14 @@ Genres: Action, Indie, Strategy
 Link: https://store.steampowered.com/app/4328860
 ==================================================
 
+
+--- Run: 2026-05-01 23:40:22 --- (1 new game(s) found)
+
+==================================================
+Name: Strike Again VR
+Release Date: May 1, 2026
+Price: Free to Play
+Genres: Casual, Indie, Sports, Free To Play
+Link: https://store.steampowered.com/app/4574390
+==================================================
+
