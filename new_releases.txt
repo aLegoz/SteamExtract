@@ -9866,3 +9866,54 @@ Genres: Adventure
 Link: https://store.steampowered.com/app/4157130
 ==================================================
 
+
+--- Run: 2026-05-01 15:43:39 --- (6 new game(s) found)
+
+==================================================
+Name: Red: Flame & Fable
+Release Date: May 1, 2026
+Price: Free to Play
+Genres: Action, Adventure, Indie, Free To Play
+Link: https://store.steampowered.com/app/4374730
+==================================================
+
+==================================================
+Name: Maelstrom
+Release Date: May 1, 2026
+Price: Free to Play
+Genres: Free To Play
+Link: https://store.steampowered.com/app/4239950
+==================================================
+
+==================================================
+Name: Pennies 12
+Release Date: May 1, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Strategy
+Link: https://store.steampowered.com/app/4419670
+==================================================
+
+==================================================
+Name: Fetish Love: NSFW Dating Sim
+Release Date: May 1, 2026
+Price: $7.99
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/3886560
+==================================================
+
+==================================================
+Name: Japanese Mature: Sex Dreams
+Release Date: May 1, 2026
+Price: $18.74 (-25%, was $24.99)
+Genres: Adventure, Simulation
+Link: https://store.steampowered.com/app/4357110
+==================================================
+
+==================================================
+Name: Keep On Hashing!: Idle Mining Sim
+Release Date: May 1, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4614860
+==================================================
+
