@@ -9389,3 +9389,150 @@ Genres: Adventure, Indie, Simulation
 Link: https://store.steampowered.com/app/3766480
 ==================================================
 
+
+--- Run: 2026-05-01 05:32:39 --- (18 new game(s) found)
+
+==================================================
+Name: Bomberball
+Release Date: Apr 30, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: Action, Casual, Indie, Sports, Strategy
+Link: https://store.steampowered.com/app/3092240
+==================================================
+
+==================================================
+Name: Sklesh
+Release Date: Apr 30, 2026
+Price: $7.49 (-25%, was $9.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/4617070
+==================================================
+
+==================================================
+Name: Our Bad Ending
+Release Date: Apr 30, 2026
+Price: Free to Play
+Genres: Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/4585000
+==================================================
+
+==================================================
+Name: Void Ascendancy
+Release Date: Apr 30, 2026
+Price: $9.99
+Genres: Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4391820
+==================================================
+
+==================================================
+Name: Pick Some Axe
+Release Date: Apr 30, 2026
+Price: Free to Play
+Genres: Action, Adventure, Indie, Free To Play
+Link: https://store.steampowered.com/app/4459260
+==================================================
+
+==================================================
+Name: S.O.R.N.
+Release Date: Apr 30, 2026
+Price: Free to Play
+Genres: Action, Indie, Free To Play
+Link: https://store.steampowered.com/app/4606740
+==================================================
+
+==================================================
+Name: What You Don't See
+Release Date: Apr 30, 2026
+Price: Free to Play
+Genres: Adventure, Indie, Free To Play
+Link: https://store.steampowered.com/app/4592990
+==================================================
+
+==================================================
+Name: Football Rising:Zero to Hero
+Release Date: Apr 30, 2026
+Price: $13.49 (-10%, was $14.99)
+Genres: Simulation, Sports
+Link: https://store.steampowered.com/app/4327760
+==================================================
+
+==================================================
+Name: Your Stepmom
+Release Date: Apr 30, 2026
+Price: $0.79 (-20%, was $0.99)
+Genres: Casual, Indie, RPG
+Link: https://store.steampowered.com/app/4308110
+==================================================
+
+==================================================
+Name: Distant Oceanic Getaway
+Release Date: Apr 30, 2026
+Price: $8.09 (-10%, was $8.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/2861290
+==================================================
+
+==================================================
+Name: The martial world of drinking：Wu Song
+Release Date: Apr 30, 2026
+Price: $3.59 (-10%, was $3.99)
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/4128640
+==================================================
+
+==================================================
+Name: 緋月仙行錄
+Release Date: Apr 30, 2026
+Price: $17.99 (-10%, was $19.99)
+Genres: Adventure, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/4048300
+==================================================
+
+==================================================
+Name: Goblin Vyke: The Thief Tycoon
+Release Date: Apr 30, 2026
+Price: $11.24 (-25%, was $14.99)
+Genres: Adventure, RPG, Simulation
+Link: https://store.steampowered.com/app/3794610
+==================================================
+
+==================================================
+Name: Dating 4 Girls
+Release Date: Apr 30, 2026
+Price: $7.09 (-29%, was $9.99)
+Genres: Adventure, Casual, Indie, RPG, Simulation
+Link: https://store.steampowered.com/app/4005300
+==================================================
+
+==================================================
+Name: カタネガイ
+Release Date: Apr 30, 2026
+Price: $8.09 (-10%, was $8.99)
+Genres: RPG
+Link: https://store.steampowered.com/app/4242500
+==================================================
+
+==================================================
+Name: 夕日まで
+Release Date: Apr 30, 2026
+Price: $3.42 (-10%, was $3.80)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/3396370
+==================================================
+
+==================================================
+Name: System Shutdown
+Release Date: Apr 30, 2026
+Price: Free to Play
+Genres: Action, Free To Play
+Link: https://store.steampowered.com/app/4598740
+==================================================
+
+==================================================
+Name: Touhou: Records of Wealth-Seeking
+Release Date: Apr 30, 2026
+Price: $0.84 (-15%, was $0.99)
+Genres: Casual, Indie, RPG
+Link: https://store.steampowered.com/app/4500780
+==================================================
+
