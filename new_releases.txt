@@ -9684,3 +9684,118 @@ Genres: Action, Casual, Indie, RPG
 Link: https://store.steampowered.com/app/4132240
 ==================================================
 
+
+--- Run: 2026-05-01 13:20:05 --- (14 new game(s) found)
+
+==================================================
+Name: Gambonanza
+Release Date: May 1, 2026
+Price: $9.74 (-35%, was $14.99)
+Genres: Casual, Simulation, Strategy
+Link: https://store.steampowered.com/app/3509230
+==================================================
+
+==================================================
+Name: This Is Fine: Maximum Cope
+Release Date: May 1, 2026
+Price: $15.19 (-20%, was $18.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/3229980
+==================================================
+
+==================================================
+Name: Nemunai
+Release Date: May 1, 2026
+Price: $6.29 (-10%, was $6.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/3903740
+==================================================
+
+==================================================
+Name: CyberMuyu
+Release Date: May 1, 2026
+Price: Free to Play
+Genres: Casual, Free To Play
+Link: https://store.steampowered.com/app/4429010
+==================================================
+
+==================================================
+Name: WithIN
+Release Date: May 1, 2026
+Price: Free to Play
+Genres: Adventure, Indie, Free To Play
+Link: https://store.steampowered.com/app/4524150
+==================================================
+
+==================================================
+Name: Color Connect
+Release Date: May 1, 2026
+Price: Free to Play
+Genres: Casual, Free To Play
+Link: https://store.steampowered.com/app/3779810
+==================================================
+
+==================================================
+Name: Rootnote
+Release Date: May 1, 2026
+Price: Free to Play
+Genres: Adventure, Casual, Indie, Simulation, Free To Play
+Link: https://store.steampowered.com/app/4291250
+==================================================
+
+==================================================
+Name: Monster Lily
+Release Date: May 1, 2026
+Price: $12.74 (-15%, was $14.99)
+Genres: Adventure, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/4135810
+==================================================
+
+==================================================
+Name: Mining Merchant
+Release Date: May 1, 2026
+Price: $4.89 (-30%, was $6.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/3744080
+==================================================
+
+==================================================
+Name: A Smithing Game
+Release Date: May 1, 2026
+Price: $5.94 (-15%, was $6.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4541460
+==================================================
+
+==================================================
+Name: Hentai Tales: Breed Me - Sensei
+Release Date: May 1, 2026
+Price: $0.59 (-40%, was $0.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4498120
+==================================================
+
+==================================================
+Name: ノワールの帰り道
+Release Date: May 1, 2026
+Price: $1.39 (-30%, was $1.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4418090
+==================================================
+
+==================================================
+Name: MAGA Simulator 2077
+Release Date: May 1, 2026
+Price: $1.79 (-10%, was $1.99)
+Genres: Action, Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/4519880
+==================================================
+
+==================================================
+Name: Omniquarium
+Release Date: May 1, 2026
+Price: $4.99
+Genres: Casual, Simulation
+Link: https://store.steampowered.com/app/4122310
+==================================================
+
