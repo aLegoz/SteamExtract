@@ -10148,3 +10148,62 @@ Genres: Casual, Free To Play
 Link: https://store.steampowered.com/app/4456230
 ==================================================
 
+
+--- Run: 2026-05-01 21:41:24 --- (7 new game(s) found)
+
+==================================================
+Name: Blitz Haul
+Release Date: May 1, 2026
+Price: $2.24 (-25%, was $2.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4594420
+==================================================
+
+==================================================
+Name: Unknown Entity
+Release Date: May 1, 2026
+Price: Free to Play
+Genres: Action, Free To Play
+Link: https://store.steampowered.com/app/4353460
+==================================================
+
+==================================================
+Name: Choo Choo Boom Boom
+Release Date: May 1, 2026
+Price: Free to Play
+Genres: Action, Indie, Free To Play
+Link: https://store.steampowered.com/app/4561070
+==================================================
+
+==================================================
+Name: DripDrip - Monitor Horror モニターホラー !
+Release Date: May 1, 2026
+Price: $6.99 (-30%, was $9.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4030160
+==================================================
+
+==================================================
+Name: Harmful Attachment
+Release Date: May 1, 2026
+Price: $4.19 (-40%, was $6.99)
+Genres: Adventure, Simulation
+Link: https://store.steampowered.com/app/4575020
+==================================================
+
+==================================================
+Name: The Horror Occultist
+Release Date: May 1, 2026
+Price: $2.39 (-40%, was $3.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/4573590
+==================================================
+
+==================================================
+Name: DATA DUTY
+Release Date: May 1, 2026
+Price: $2.99 (-40%, was $4.99)
+Genres: Casual, Indie, RPG, Simulation
+Link: https://store.steampowered.com/app/3953070
+==================================================
+
