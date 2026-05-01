@@ -9665,3 +9665,22 @@ Genres: Action, Adventure, Indie
 Link: https://store.steampowered.com/app/2890910
 ==================================================
 
+
+--- Run: 2026-05-01 11:59:43 --- (2 new game(s) found)
+
+==================================================
+Name: Adrift: In the Corners of Time
+Release Date: May 1, 2026
+Price: $3.99
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4317850
+==================================================
+
+==================================================
+Name: Path of the Runecaster
+Release Date: May 1, 2026
+Price: $5.59 (-20%, was $6.99)
+Genres: Action, Casual, Indie, RPG
+Link: https://store.steampowered.com/app/4132240
+==================================================
+
