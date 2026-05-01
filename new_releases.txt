@@ -9799,3 +9799,70 @@ Genres: Casual, Simulation
 Link: https://store.steampowered.com/app/4122310
 ==================================================
 
+
+--- Run: 2026-05-01 14:45:10 --- (8 new game(s) found)
+
+==================================================
+Name: summer haze/glory days
+Release Date: May 1, 2026
+Price: $14.39 (-10%, was $15.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/2960800
+==================================================
+
+==================================================
+Name: Forehead Chip
+Release Date: May 1, 2026
+Price: $13.49 (-10%, was $14.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/2171910
+==================================================
+
+==================================================
+Name: FinCrementalOS
+Release Date: May 1, 2026
+Price: Free to Play
+Genres: Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/4408540
+==================================================
+
+==================================================
+Name: 이세계 바텐더
+Release Date: May 1, 2026
+Price: $13.99
+Genres: Simulation
+Link: https://store.steampowered.com/app/4575150
+==================================================
+
+==================================================
+Name: Cybro
+Release Date: May 1, 2026
+Price: $7.19 (-20%, was $8.99)
+Genres: Action
+Link: https://store.steampowered.com/app/4294140
+==================================================
+
+==================================================
+Name: EcoMoguls
+Release Date: May 1, 2026
+Price: $11.99
+Genres: Strategy
+Link: https://store.steampowered.com/app/4610960
+==================================================
+
+==================================================
+Name: Glitchers
+Release Date: May 1, 2026
+Price: $14.99
+Genres: Action, Adventure
+Link: https://store.steampowered.com/app/3534130
+==================================================
+
+==================================================
+Name: Dark Pals: The 1st Floor
+Release Date: May 1, 2026
+Price: $5.69 (-15%, was $6.70)
+Genres: Adventure
+Link: https://store.steampowered.com/app/4157130
+==================================================
+
