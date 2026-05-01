@@ -10207,3 +10207,54 @@ Genres: Casual, Indie, RPG, Simulation
 Link: https://store.steampowered.com/app/3953070
 ==================================================
 
+
+--- Run: 2026-05-01 22:38:52 --- (6 new game(s) found)
+
+==================================================
+Name: Yaxi Taxi
+Release Date: May 1, 2026
+Price: $2.24 (-25%, was $2.99)
+Genres: Casual, Indie, Racing
+Link: https://store.steampowered.com/app/4316050
+==================================================
+
+==================================================
+Name: Age of Gods
+Release Date: May 1, 2026
+Price: Free to Play
+Genres: Casual, Indie, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4545850
+==================================================
+
+==================================================
+Name: DOSTAVKA
+Release Date: May 1, 2026
+Price: $4.99
+Genres: Action, Adventure, Indie, Massively Multiplayer
+Link: https://store.steampowered.com/app/3773750
+==================================================
+
+==================================================
+Name: AFK Tactics
+Release Date: May 1, 2026
+Price: Free to Play
+Genres: RPG, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4379390
+==================================================
+
+==================================================
+Name: The Last Bet
+Release Date: May 1, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Action, Adventure, Casual, Indie, RPG, Simulation
+Link: https://store.steampowered.com/app/4060250
+==================================================
+
+==================================================
+Name: Slimes and Arrows
+Release Date: May 1, 2026
+Price: $3.84 (-23%, was $4.99)
+Genres: Action, Indie, Strategy
+Link: https://store.steampowered.com/app/4328860
+==================================================
+
