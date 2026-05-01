@@ -9646,3 +9646,22 @@ Genres: Action, Indie
 Link: https://store.steampowered.com/app/4188420
 ==================================================
 
+
+--- Run: 2026-05-01 10:59:48 --- (2 new game(s) found)
+
+==================================================
+Name: Yappy Bird
+Release Date: May 1, 2026
+Price: $0.99
+Genres: Casual
+Link: https://store.steampowered.com/app/4563550
+==================================================
+
+==================================================
+Name: MATRESHKA
+Release Date: May 1, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/2890910
+==================================================
+
