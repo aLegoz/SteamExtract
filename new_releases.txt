@@ -10466,3 +10466,30 @@ Genres: Casual, Indie
 Link: https://store.steampowered.com/app/4379590
 ==================================================
 
+
+--- Run: 2026-05-02 17:35:10 --- (3 new game(s) found)
+
+==================================================
+Name: The Family Trip
+Release Date: May 2, 2026
+Price: $3.39 (-15%, was $3.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4415880
+==================================================
+
+==================================================
+Name: Blood Clicker
+Release Date: May 2, 2026
+Price: $0.79 (-20%, was $0.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/4630550
+==================================================
+
+==================================================
+Name: Furious Kitchen
+Release Date: May 2, 2026
+Price: $0.84 (-15%, was $0.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/4549750
+==================================================
+
