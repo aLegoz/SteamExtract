@@ -10393,3 +10393,22 @@ Genres: Action, Casual, Indie
 Link: https://store.steampowered.com/app/4568590
 ==================================================
 
+
+--- Run: 2026-05-02 12:41:01 --- (2 new game(s) found)
+
+==================================================
+Name: White
+Release Date: May 2, 2026
+Price: $0.89 (-10%, was $0.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/4434130
+==================================================
+
+==================================================
+Name: Fallen Night - Cumming Inside the Innocent Girl
+Release Date: May 2, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4475580
+==================================================
+
