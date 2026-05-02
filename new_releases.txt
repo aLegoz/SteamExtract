@@ -10504,3 +10504,14 @@ Genres: Adventure, Indie, Simulation
 Link: https://store.steampowered.com/app/4603130
 ==================================================
 
+
+--- Run: 2026-05-02 20:29:09 --- (1 new game(s) found)
+
+==================================================
+Name: Hollow Ward
+Release Date: May 2, 2026
+Price: Free to Play
+Genres: Action, Indie, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4595100
+==================================================
+
