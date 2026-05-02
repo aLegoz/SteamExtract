@@ -10493,3 +10493,14 @@ Genres: Casual
 Link: https://store.steampowered.com/app/4549750
 ==================================================
 
+
+--- Run: 2026-05-02 19:45:07 --- (1 new game(s) found)
+
+==================================================
+Name: The Woman Above
+Release Date: May 2, 2026
+Price: $5.39 (-10%, was $5.99)
+Genres: Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/4603130
+==================================================
+
