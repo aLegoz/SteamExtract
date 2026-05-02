@@ -10447,3 +10447,22 @@ Genres: Casual, Indie, Strategy
 Link: https://store.steampowered.com/app/4599440
 ==================================================
 
+
+--- Run: 2026-05-02 16:34:17 --- (2 new game(s) found)
+
+==================================================
+Name: Not My Hand
+Release Date: May 2, 2026
+Price: $5.59 (-20%, was $6.99)
+Genres: Action, Indie, Simulation
+Link: https://store.steampowered.com/app/3672920
+==================================================
+
+==================================================
+Name: Trivia Tycoon
+Release Date: May 2, 2026
+Price: $2.39 (-40%, was $3.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4379590
+==================================================
+
