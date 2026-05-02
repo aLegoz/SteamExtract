@@ -10269,3 +10269,70 @@ Genres: Casual, Indie, Sports, Free To Play
 Link: https://store.steampowered.com/app/4574390
 ==================================================
 
+
+--- Run: 2026-05-02 01:27:03 --- (8 new game(s) found)
+
+==================================================
+Name: WORLD HEROES PERFECT
+Release Date: May 1, 2026
+Price: $14.99 (-25%, was $19.99)
+Genres: Action
+Link: https://store.steampowered.com/app/3822220
+==================================================
+
+==================================================
+Name: Canine Derby Manager
+Release Date: May 1, 2026
+Price: Free to Play
+Genres: Casual, Indie, Racing, Simulation, Free To Play
+Link: https://store.steampowered.com/app/3774390
+==================================================
+
+==================================================
+Name: Sticky Fingers
+Release Date: May 1, 2026
+Price: Free to Play
+Genres: Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/4577120
+==================================================
+
+==================================================
+Name: Monster Ops 18
+Release Date: May 1, 2026
+Price: $4.99
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/3853200
+==================================================
+
+==================================================
+Name: Exit Loops - Street 001
+Release Date: May 1, 2026
+Price: $3.99
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/3666880
+==================================================
+
+==================================================
+Name: SEX KINGDOM
+Release Date: May 1, 2026
+Price: $2.39 (-40%, was $3.99)
+Genres: Action, Adventure, Casual, Indie, RPG, Simulation, Sports
+Link: https://store.steampowered.com/app/4576310
+==================================================
+
+==================================================
+Name: My Magic Assistant (Whether You Like it or Not!)
+Release Date: May 1, 2026
+Price: $8.09 (-10%, was $8.99)
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/4583750
+==================================================
+
+==================================================
+Name: Banana Belt Miner
+Release Date: May 1, 2026
+Price: $1.80 (-10%, was $2.00)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4527150
+==================================================
+
