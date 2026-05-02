@@ -10382,3 +10382,14 @@ Link: https://store.steampowered.com/app/4607700
 
 --- Run: 2026-05-02 06:54:36 --- (0 new game(s) found)
 
+
+--- Run: 2026-05-02 08:16:16 --- (1 new game(s) found)
+
+==================================================
+Name: Animal Tenya Wanya: Cute Multitasking
+Release Date: May 1, 2026
+Price: $1.69 (-15%, was $1.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4568590
+==================================================
+
