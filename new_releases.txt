@@ -10515,3 +10515,22 @@ Genres: Action, Indie, Strategy, Free To Play
 Link: https://store.steampowered.com/app/4595100
 ==================================================
 
+
+--- Run: 2026-05-02 21:29:11 --- (2 new game(s) found)
+
+==================================================
+Name: Factory Train: DreamLine
+Release Date: May 2, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Simulation
+Link: https://store.steampowered.com/app/4565940
+==================================================
+
+==================================================
+Name: Specter
+Release Date: May 2, 2026
+Price: $4.99
+Genres: Indie
+Link: https://store.steampowered.com/app/4555360
+==================================================
+
