@@ -10412,3 +10412,38 @@ Genres: Casual, Indie
 Link: https://store.steampowered.com/app/4475580
 ==================================================
 
+
+--- Run: 2026-05-02 15:36:19 --- (4 new game(s) found)
+
+==================================================
+Name: FUTA FIGHT & FUCK 🥊
+Release Date: May 2, 2026
+Price: $9.14 (-39%, was $14.99)
+Genres: Action, Simulation, Sports
+Link: https://store.steampowered.com/app/4491210
+==================================================
+
+==================================================
+Name: Hunted Hunter
+Release Date: May 2, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Action, Casual, Indie, Massively Multiplayer, Strategy
+Link: https://store.steampowered.com/app/3217060
+==================================================
+
+==================================================
+Name: SupermarCAT
+Release Date: May 2, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4303240
+==================================================
+
+==================================================
+Name: Silvers Snake
+Release Date: May 2, 2026
+Price: $1.79 (-10%, was $1.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4599440
+==================================================
+
