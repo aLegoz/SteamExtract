@@ -10613,3 +10613,14 @@ Genres: Adventure, Indie
 Link: https://store.steampowered.com/app/4328050
 ==================================================
 
+
+--- Run: 2026-05-03 14:03:52 --- (1 new game(s) found)
+
+==================================================
+Name: Poop Right Now
+Release Date: May 3, 2026
+Price: $2.39 (-20%, was $2.99)
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4213110
+==================================================
+
