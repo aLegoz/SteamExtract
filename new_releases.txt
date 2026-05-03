@@ -10646,3 +10646,14 @@ Genres: Casual, Indie, Strategy
 Link: https://store.steampowered.com/app/3889820
 ==================================================
 
+
+--- Run: 2026-05-03 18:40:09 --- (1 new game(s) found)
+
+==================================================
+Name: SnakeyBoss
+Release Date: May 3, 2026
+Price: $2.99 (-40%, was $4.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/4621560
+==================================================
+
