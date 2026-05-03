@@ -10679,3 +10679,22 @@ Genres: Action, Adventure, Indie, RPG, Free To Play
 Link: https://store.steampowered.com/app/4035030
 ==================================================
 
+
+--- Run: 2026-05-03 21:30:53 --- (2 new game(s) found)
+
+==================================================
+Name: Pepper Rush
+Release Date: May 3, 2026
+Price: $10.99
+Genres: Action, Adventure, Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4265390
+==================================================
+
+==================================================
+Name: Crystalline Bliss
+Release Date: May 3, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/2547740
+==================================================
+
