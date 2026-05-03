@@ -10657,3 +10657,14 @@ Genres: Casual
 Link: https://store.steampowered.com/app/4621560
 ==================================================
 
+
+--- Run: 2026-05-03 19:44:12 --- (1 new game(s) found)
+
+==================================================
+Name: My CV
+Release Date: May 3, 2026
+Price: Free to Play
+Genres: Casual, Free To Play
+Link: https://store.steampowered.com/app/3127100
+==================================================
+
