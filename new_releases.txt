@@ -10580,3 +10580,14 @@ Genres: Adventure
 Link: https://store.steampowered.com/app/4326770
 ==================================================
 
+
+--- Run: 2026-05-03 07:44:04 --- (1 new game(s) found)
+
+==================================================
+Name: Another Red Riding Hood Story - 另一个小红帽的故事 - Cô Bé Quàng Khăn Đỏ
+Release Date: May 1, 2026
+Price: $4.79 (-40%, was $7.99)
+Genres: RPG
+Link: https://store.steampowered.com/app/4351160
+==================================================
+
