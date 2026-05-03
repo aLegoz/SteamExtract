@@ -10635,3 +10635,14 @@ Genres: Casual, Indie, Simulation, Free To Play
 Link: https://store.steampowered.com/app/4327890
 ==================================================
 
+
+--- Run: 2026-05-03 17:37:10 --- (1 new game(s) found)
+
+==================================================
+Name: Trickshot Tactics
+Release Date: May 3, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/3889820
+==================================================
+
