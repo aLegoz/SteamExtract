@@ -10698,3 +10698,14 @@ Genres: Casual, Indie
 Link: https://store.steampowered.com/app/2547740
 ==================================================
 
+
+--- Run: 2026-05-03 22:28:31 --- (1 new game(s) found)
+
+==================================================
+Name: Magic Hero Incremental
+Release Date: May 3, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: RPG
+Link: https://store.steampowered.com/app/4267030
+==================================================
+
