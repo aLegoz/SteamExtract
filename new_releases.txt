@@ -10602,3 +10602,14 @@ Genres: Action, Adventure
 Link: https://store.steampowered.com/app/4586320
 ==================================================
 
+
+--- Run: 2026-05-03 10:42:35 --- (1 new game(s) found)
+
+==================================================
+Name: Besitupia: Mediator
+Release Date: May 3, 2026
+Price: $5.99
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4328050
+==================================================
+
