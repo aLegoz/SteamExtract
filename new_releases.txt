@@ -10561,3 +10561,22 @@ Genres: Simulation
 Link: https://store.steampowered.com/app/4403390
 ==================================================
 
+
+--- Run: 2026-05-03 05:19:33 --- (2 new game(s) found)
+
+==================================================
+Name: VAGUS
+Release Date: May 2, 2026
+Price: Free to Play
+Genres: Adventure, Indie, Free To Play
+Link: https://store.steampowered.com/app/4453180
+==================================================
+
+==================================================
+Name: Angel Devil Machine - Episode 1: The Princes and the Prototype
+Release Date: May 2, 2026
+Price: $2.00
+Genres: Adventure
+Link: https://store.steampowered.com/app/4326770
+==================================================
+
