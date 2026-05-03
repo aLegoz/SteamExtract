@@ -10624,3 +10624,14 @@ Genres: Casual, Indie, Simulation, Strategy
 Link: https://store.steampowered.com/app/4213110
 ==================================================
 
+
+--- Run: 2026-05-03 15:35:56 --- (1 new game(s) found)
+
+==================================================
+Name: Bloom
+Release Date: May 3, 2026
+Price: Free to Play
+Genres: Casual, Indie, Simulation, Free To Play
+Link: https://store.steampowered.com/app/4327890
+==================================================
+
