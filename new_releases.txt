@@ -10591,3 +10591,14 @@ Genres: RPG
 Link: https://store.steampowered.com/app/4351160
 ==================================================
 
+
+--- Run: 2026-05-03 09:10:43 --- (1 new game(s) found)
+
+==================================================
+Name: Grimwatch: Mutation Protocol
+Release Date: May 1, 2026
+Price: $11.40 (-40%, was $19.00)
+Genres: Action, Adventure
+Link: https://store.steampowered.com/app/4586320
+==================================================
+
