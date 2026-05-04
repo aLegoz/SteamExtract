@@ -11096,3 +11096,38 @@ Genres: Adventure, Simulation
 Link: https://store.steampowered.com/app/4597130
 ==================================================
 
+
+--- Run: 2026-05-04 22:45:17 --- (4 new game(s) found)
+
+==================================================
+Name: Blood Vial
+Release Date: May 4, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Action
+Link: https://store.steampowered.com/app/3648730
+==================================================
+
+==================================================
+Name: Castle Defender
+Release Date: May 4, 2026
+Price: Free to Play
+Genres: Action, Adventure, Indie, Free To Play
+Link: https://store.steampowered.com/app/4587220
+==================================================
+
+==================================================
+Name: The Witch and The Lost Babies
+Release Date: May 4, 2026
+Price: $4.99
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4311230
+==================================================
+
+==================================================
+Name: Racelink
+Release Date: May 4, 2026
+Price: $6.39 (-20%, was $7.99)
+Genres: Indie, Racing, Animation & Modeling, Design & Illustration, Photo Editing, Utilities
+Link: https://store.steampowered.com/app/3825980
+==================================================
+
