@@ -10782,3 +10782,46 @@ Genres: Action, Casual, Indie, Strategy
 Link: https://store.steampowered.com/app/3580340
 ==================================================
 
+
+--- Run: 2026-05-04 10:53:18 --- (5 new game(s) found)
+
+==================================================
+Name: Tiny space pirate
+Release Date: May 4, 2026
+Price: $5.99
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/3921290
+==================================================
+
+==================================================
+Name: HyphoSphere
+Release Date: May 4, 2026
+Price: $1.79 (-40%, was $2.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4622180
+==================================================
+
+==================================================
+Name: Sweet Valentine Chocolatier
+Release Date: May 4, 2026
+Price: Free to Play
+Genres: Indie, Free To Play
+Link: https://store.steampowered.com/app/4303900
+==================================================
+
+==================================================
+Name: No Guess Minesweeper
+Release Date: May 4, 2026
+Price: Free to Play
+Genres: Casual, Free To Play
+Link: https://store.steampowered.com/app/4610730
+==================================================
+
+==================================================
+Name: The Ultimate And Invincibly Cute Reiko
+Release Date: May 3, 2026
+Price: $0.59 (-40%, was $0.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/4515630
+==================================================
+
