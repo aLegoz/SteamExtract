@@ -10744,3 +10744,30 @@ Genres: Action
 Link: https://store.steampowered.com/app/4627300
 ==================================================
 
+
+--- Run: 2026-05-04 05:22:28 --- (3 new game(s) found)
+
+==================================================
+Name: 我家恋天使太废柴鸟真～可怕
+Release Date: May 3, 2026
+Price: $19.99 (-20%, was $24.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4491980
+==================================================
+
+==================================================
+Name: The Lost
+Release Date: May 3, 2026
+Price: $3.99
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4615610
+==================================================
+
+==================================================
+Name: Achieve-Its
+Release Date: May 3, 2026
+Price: $1.99
+Genres: Action, Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/3050660
+==================================================
+
