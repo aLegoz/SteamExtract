@@ -11131,3 +11131,22 @@ Genres: Indie, Racing, Animation & Modeling, Design & Illustration, Photo Editin
 Link: https://store.steampowered.com/app/3825980
 ==================================================
 
+
+--- Run: 2026-05-04 23:41:21 --- (2 new game(s) found)
+
+==================================================
+Name: Find the Differences 3D
+Release Date: May 4, 2026
+Price: $2.39 (-40%, was $3.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/3753590
+==================================================
+
+==================================================
+Name: Ebon Crucible
+Release Date: May 4, 2026
+Price: Free to Play
+Genres: Action, Casual, Massively Multiplayer, Free To Play
+Link: https://store.steampowered.com/app/4620190
+==================================================
+
