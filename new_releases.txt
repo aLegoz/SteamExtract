@@ -10771,3 +10771,14 @@ Genres: Action, Adventure, Casual, Indie
 Link: https://store.steampowered.com/app/3050660
 ==================================================
 
+
+--- Run: 2026-05-04 08:12:39 --- (1 new game(s) found)
+
+==================================================
+Name: Ash & Adam's Existential Treads
+Release Date: May 3, 2026
+Price: $4.89 (-30%, was $6.99)
+Genres: Action, Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/3580340
+==================================================
+
