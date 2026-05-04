@@ -11085,3 +11085,14 @@ Genres: Action, Casual, Indie
 Link: https://store.steampowered.com/app/4508370
 ==================================================
 
+
+--- Run: 2026-05-04 21:52:49 --- (1 new game(s) found)
+
+==================================================
+Name: Occupied Hearts
+Release Date: May 4, 2026
+Price: $4.19 (-40%, was $6.99)
+Genres: Adventure, Simulation
+Link: https://store.steampowered.com/app/4597130
+==================================================
+
