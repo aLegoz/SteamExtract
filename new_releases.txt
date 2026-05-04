@@ -10709,3 +10709,38 @@ Genres: RPG
 Link: https://store.steampowered.com/app/4267030
 ==================================================
 
+
+--- Run: 2026-05-04 01:29:25 --- (4 new game(s) found)
+
+==================================================
+Name: 翻翻卡
+Release Date: May 3, 2026
+Price: Free to Play
+Genres: Action, Casual, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4508610
+==================================================
+
+==================================================
+Name: The Final Stay - Chapter 1
+Release Date: May 3, 2026
+Price: $3.49 (-30%, was $4.99)
+Genres: Action, Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4587380
+==================================================
+
+==================================================
+Name: Court of Ma'at
+Release Date: May 3, 2026
+Price: $9.99
+Genres: Simulation, Strategy
+Link: https://store.steampowered.com/app/4177850
+==================================================
+
+==================================================
+Name: Defender Zed-001
+Release Date: May 3, 2026
+Price: $3.39 (-15%, was $3.99)
+Genres: Action
+Link: https://store.steampowered.com/app/4627300
+==================================================
+
