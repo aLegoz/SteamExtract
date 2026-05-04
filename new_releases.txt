@@ -10994,3 +10994,94 @@ Genres: Casual, Indie, Sports
 Link: https://store.steampowered.com/app/4387230
 ==================================================
 
+
+--- Run: 2026-05-04 19:10:37 --- (11 new game(s) found)
+
+==================================================
+Name: GobZ
+Release Date: May 4, 2026
+Price: Free to Play
+Genres: Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/4174600
+==================================================
+
+==================================================
+Name: Chubby Story
+Release Date: May 4, 2026
+Price: $17.99 (-10%, was $19.99)
+Genres: Adventure, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/3277170
+==================================================
+
+==================================================
+Name: Lilacs in the Breeze
+Release Date: May 4, 2026
+Price: Free to Play
+Genres: Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/4260460
+==================================================
+
+==================================================
+Name: Belonging to Eunoia
+Release Date: May 4, 2026
+Price: $7.00
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4548840
+==================================================
+
+==================================================
+Name: Sinful Vacation
+Release Date: May 4, 2026
+Price: $11.19 (-20%, was $13.99)
+Genres: Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/4457480
+==================================================
+
+==================================================
+Name: HorrorMon Photography
+Release Date: May 4, 2026
+Price: $5.59 (-20%, was $6.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4242060
+==================================================
+
+==================================================
+Name: A Game About Making A Planet
+Release Date: May 4, 2026
+Price: $5.59 (-20%, was $6.99)
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4314260
+==================================================
+
+==================================================
+Name: Hyper Profit Pets
+Release Date: May 4, 2026
+Price: $13.49 (-25%, was $17.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4570470
+==================================================
+
+==================================================
+Name: Hentai Big Boobs Femboy
+Release Date: May 4, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4608270
+==================================================
+
+==================================================
+Name: Arrow Flow
+Release Date: May 4, 2026
+Price: $2.24 (-25%, was $2.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/4464260
+==================================================
+
+==================================================
+Name: Dodging Orb
+Release Date: May 4, 2026
+Price: $1.59 (-20%, was $1.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4508370
+==================================================
+
