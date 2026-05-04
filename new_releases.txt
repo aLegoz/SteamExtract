@@ -10836,3 +10836,94 @@ Genres: Action, Massively Multiplayer, Simulation, Strategy, Free To Play
 Link: https://store.steampowered.com/app/2964090
 ==================================================
 
+
+--- Run: 2026-05-04 15:01:05 --- (11 new game(s) found)
+
+==================================================
+Name: Your Crown Is Mine
+Release Date: May 4, 2026
+Price: $16.71 (-12%, was $18.99)
+Genres: Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/3541340
+==================================================
+
+==================================================
+Name: Board Forge
+Release Date: May 4, 2026
+Price: Free to Play
+Genres: Casual, Free To Play
+Link: https://store.steampowered.com/app/4464510
+==================================================
+
+==================================================
+Name: Pet Troll
+Release Date: May 4, 2026
+Price: Free to Play
+Genres: Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/4187610
+==================================================
+
+==================================================
+Name: nanDECK
+Release Date: May 4, 2026
+Price: Free to Play
+Genres: Free To Play, Design & Illustration, Utilities
+Link: https://store.steampowered.com/app/3258490
+==================================================
+
+==================================================
+Name: Prime Monster
+Release Date: May 4, 2026
+Price: $16.99 (-15%, was $19.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/3214480
+==================================================
+
+==================================================
+Name:  STICKER/BALL
+Release Date: May 4, 2026
+Price: $5.59 (-30%, was $7.99)
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/3537690
+==================================================
+
+==================================================
+Name: Amazons vs Zombies
+Release Date: May 4, 2026
+Price: Free to Play
+Genres: Action, Adventure, Casual, Indie, RPG, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4103710
+==================================================
+
+==================================================
+Name: Tomography VR
+Release Date: May 4, 2026
+Price: $32.00
+Genres: Casual, Simulation
+Link: https://store.steampowered.com/app/3214840
+==================================================
+
+==================================================
+Name: Dustline
+Release Date: May 4, 2026
+Price: $2.54 (-15%, was $2.99)
+Genres: RPG
+Link: https://store.steampowered.com/app/4626470
+==================================================
+
+==================================================
+Name: Qu Adra
+Release Date: May 4, 2026
+Price: $1.69 (-15%, was $1.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4608400
+==================================================
+
+==================================================
+Name: tombolo
+Release Date: May 3, 2026
+Price: $4.99
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4575200
+==================================================
+
