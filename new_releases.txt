@@ -10825,3 +10825,14 @@ Genres: Casual
 Link: https://store.steampowered.com/app/4515630
 ==================================================
 
+
+--- Run: 2026-05-04 12:16:12 --- (1 new game(s) found)
+
+==================================================
+Name: World of Warships: Legends
+Release Date: May 4, 2026
+Price: Free to Play
+Genres: Action, Massively Multiplayer, Simulation, Strategy, Free To Play
+Link: https://store.steampowered.com/app/2964090
+==================================================
+
