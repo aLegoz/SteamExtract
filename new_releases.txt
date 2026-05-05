@@ -11150,3 +11150,22 @@ Genres: Action, Casual, Massively Multiplayer, Free To Play
 Link: https://store.steampowered.com/app/4620190
 ==================================================
 
+
+--- Run: 2026-05-05 01:29:23 --- (2 new game(s) found)
+
+==================================================
+Name: Murim Survival
+Release Date: May 4, 2026
+Price: $6.39 (-20%, was $7.99)
+Genres: Action, Adventure, Casual, Indie, RPG
+Link: https://store.steampowered.com/app/3449590
+==================================================
+
+==================================================
+Name: Cat & Mouse Solitaire
+Release Date: May 4, 2026
+Price: $0.99
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/4531590
+==================================================
+
