@@ -11253,3 +11253,102 @@ Genres: Action, Adventure, Free To Play
 Link: https://store.steampowered.com/app/4514790
 ==================================================
 
+
+--- Run: 2026-05-05 15:39:43 --- (12 new game(s) found)
+
+==================================================
+Name: MOTORSLICE
+Release Date: May 5, 2026
+Price: $17.99 (-10%, was $19.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/2830030
+==================================================
+
+==================================================
+Name: The Traveller Tale
+Release Date: May 5, 2026
+Price: $22.49 (-10%, was $24.99)
+Genres: Indie, RPG
+Link: https://store.steampowered.com/app/4601460
+==================================================
+
+==================================================
+Name: The Awakener: Battle Tendency
+Release Date: May 5, 2026
+Price: $11.98 (-20%, was $14.98)
+Genres: Action, RPG
+Link: https://store.steampowered.com/app/3742830
+==================================================
+
+==================================================
+Name: Wax Heads
+Release Date: May 5, 2026
+Price: $12.74 (-15%, was $14.99)
+Genres: Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/2769240
+==================================================
+
+==================================================
+Name: Never Second in Rome
+Release Date: May 5, 2026
+Price: $11.69 (-10%, was $12.99)
+Genres: Indie, RPG, Simulation
+Link: https://store.steampowered.com/app/3169580
+==================================================
+
+==================================================
+Name: Parrydox: Battle of the Alamo
+Release Date: May 5, 2026
+Price: $1.79 (-10%, was $1.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4272820
+==================================================
+
+==================================================
+Name: College Roommates 👩‍🎓
+Release Date: May 5, 2026
+Price: $4.97 (-17%, was $5.99)
+Genres: Adventure, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4135490
+==================================================
+
+==================================================
+Name: フェアリースイートデイズ
+Release Date: May 5, 2026
+Price: $7.19 (-10%, was $7.99)
+Genres: Simulation
+Link: https://store.steampowered.com/app/3979280
+==================================================
+
+==================================================
+Name: Aleae
+Release Date: May 5, 2026
+Price: $5.94 (-15%, was $6.99)
+Genres: Strategy
+Link: https://store.steampowered.com/app/3298780
+==================================================
+
+==================================================
+Name: Hentai Clicker: Mila is streaming
+Release Date: May 5, 2026
+Price: $2.00 (-33%, was $2.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4615930
+==================================================
+
+==================================================
+Name: Echoes of the Deep
+Release Date: May 5, 2026
+Price: $2.99
+Genres: Action, Adventure
+Link: https://store.steampowered.com/app/3720400
+==================================================
+
+==================================================
+Name: Lotto.exe
+Release Date: May 5, 2026
+Price: $2.99
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4621740
+==================================================
+
