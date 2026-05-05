@@ -11596,3 +11596,14 @@ Genres: Action, Adventure, Casual, Indie
 Link: https://store.steampowered.com/app/4583670
 ==================================================
 
+
+--- Run: 2026-05-05 23:38:05 --- (1 new game(s) found)
+
+==================================================
+Name: Little Petsville Desktop
+Release Date: May 5, 2026
+Price: Free to Play
+Genres: Action, Casual, Indie, Simulation, Free To Play
+Link: https://store.steampowered.com/app/4343200
+==================================================
+
