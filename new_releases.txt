@@ -11188,3 +11188,38 @@ Genres: Action, Adventure, Casual, Indie, Free To Play
 Link: https://store.steampowered.com/app/3871960
 ==================================================
 
+
+--- Run: 2026-05-05 09:50:10 --- (4 new game(s) found)
+
+==================================================
+Name: Stream Empire: Platform Simulator
+Release Date: May 5, 2026
+Price: $8.49 (-15%, was $9.99)
+Genres: Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4621210
+==================================================
+
+==================================================
+Name: Assassin Of Aliens
+Release Date: May 5, 2026
+Price: $2.39 (-40%, was $3.99)
+Genres: Action, Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4645730
+==================================================
+
+==================================================
+Name: My Part-Time Job With a Flirty Mistress
+Release Date: May 4, 2026
+Price: $9.89 (-10%, was $10.99)
+Genres: Casual, Simulation
+Link: https://store.steampowered.com/app/4552380
+==================================================
+
+==================================================
+Name: Rapid Fire Girls - AwaAngel 2 -
+Release Date: May 4, 2026
+Price: $14.39 (-20%, was $17.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4438430
+==================================================
+
