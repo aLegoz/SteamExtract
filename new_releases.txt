@@ -11529,3 +11529,70 @@ Genres: Casual, Indie, Simulation
 Link: https://store.steampowered.com/app/4599650
 ==================================================
 
+
+--- Run: 2026-05-05 21:51:08 --- (8 new game(s) found)
+
+==================================================
+Name: Midnight Ramen Shop
+Release Date: May 5, 2026
+Price: $6.39 (-20%, was $7.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4235390
+==================================================
+
+==================================================
+Name: After Hours: Lines of Desire - S1
+Release Date: May 5, 2026
+Price: $5.39 (-40%, was $8.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4456750
+==================================================
+
+==================================================
+Name: Grief
+Release Date: May 5, 2026
+Price: $3.99
+Genres: Indie
+Link: https://store.steampowered.com/app/4565390
+==================================================
+
+==================================================
+Name: KINGDOM RULES
+Release Date: May 5, 2026
+Price: $1.19 (-40%, was $1.99)
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/4591300
+==================================================
+
+==================================================
+Name: Tiny Wizard Tavern
+Release Date: May 5, 2026
+Price: $0.59 (-40%, was $0.99)
+Genres: Indie, RPG
+Link: https://store.steampowered.com/app/4583740
+==================================================
+
+==================================================
+Name: SirKwitz 2
+Release Date: May 5, 2026
+Price: $8.99
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/3546820
+==================================================
+
+==================================================
+Name: Ex-Master, Zombie
+Release Date: May 5, 2026
+Price: $2.09 (-30%, was $2.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4546130
+==================================================
+
+==================================================
+Name: Floppy-Ear Chaos
+Release Date: May 5, 2026
+Price: $6.29 (-30%, was $8.99)
+Genres: Action, Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4583670
+==================================================
+
