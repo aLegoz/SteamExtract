@@ -11234,3 +11234,22 @@ Genres: Indie, Simulation, Strategy
 Link: https://store.steampowered.com/app/3242950
 ==================================================
 
+
+--- Run: 2026-05-05 13:05:16 --- (2 new game(s) found)
+
+==================================================
+Name: Vehicle No. 4
+Release Date: May 5, 2026
+Price: $6.29 (-10%, was $6.99)
+Genres: Action, Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/3363890
+==================================================
+
+==================================================
+Name: Candellum
+Release Date: May 5, 2026
+Price: Free to Play
+Genres: Action, Adventure, Free To Play
+Link: https://store.steampowered.com/app/4514790
+==================================================
+
