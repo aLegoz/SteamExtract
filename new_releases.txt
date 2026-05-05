@@ -11491,3 +11491,22 @@ Genres: Indie
 Link: https://store.steampowered.com/app/4635110
 ==================================================
 
+
+--- Run: 2026-05-05 19:01:50 --- (2 new game(s) found)
+
+==================================================
+Name: Giantfall
+Release Date: May 5, 2026
+Price: $10.19 (-15%, was $11.99)
+Genres: Strategy
+Link: https://store.steampowered.com/app/3956750
+==================================================
+
+==================================================
+Name: Zi´s Mansion
+Release Date: May 5, 2026
+Price: $2.69 (-10%, was $2.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/4474010
+==================================================
+
