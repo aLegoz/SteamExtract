@@ -11223,3 +11223,14 @@ Genres: Action, Casual, Indie
 Link: https://store.steampowered.com/app/4438430
 ==================================================
 
+
+--- Run: 2026-05-05 11:08:43 --- (1 new game(s) found)
+
+==================================================
+Name: Outworld Station
+Release Date: May 5, 2026
+Price: $15.19 (-20%, was $18.99)
+Genres: Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/3242950
+==================================================
+
