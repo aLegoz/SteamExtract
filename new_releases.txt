@@ -11169,3 +11169,22 @@ Genres: Indie, Strategy
 Link: https://store.steampowered.com/app/4531590
 ==================================================
 
+
+--- Run: 2026-05-05 04:51:11 --- (2 new game(s) found)
+
+==================================================
+Name: Meow My Crop!
+Release Date: May 4, 2026
+Price: Free to Play
+Genres: Casual, Indie, Simulation, Free To Play
+Link: https://store.steampowered.com/app/4201710
+==================================================
+
+==================================================
+Name: GRIDROYALE Battle Royale
+Release Date: May 4, 2026
+Price: Free to Play
+Genres: Action, Adventure, Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/3871960
+==================================================
+
