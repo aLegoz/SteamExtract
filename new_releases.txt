@@ -11510,3 +11510,22 @@ Genres: Action, Adventure, Indie
 Link: https://store.steampowered.com/app/4474010
 ==================================================
 
+
+--- Run: 2026-05-05 20:50:55 --- (2 new game(s) found)
+
+==================================================
+Name: Magic Fairy Fun Blast
+Release Date: May 5, 2026
+Price: $6.79 (-15%, was $7.99)
+Genres: Action
+Link: https://store.steampowered.com/app/4320600
+==================================================
+
+==================================================
+Name: Flip My Room: Makeover
+Release Date: May 5, 2026
+Price: $9.09 (-30%, was $12.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4599650
+==================================================
+
