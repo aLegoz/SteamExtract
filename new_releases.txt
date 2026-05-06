@@ -11607,3 +11607,14 @@ Genres: Action, Casual, Indie, Simulation, Free To Play
 Link: https://store.steampowered.com/app/4343200
 ==================================================
 
+
+--- Run: 2026-05-06 01:27:57 --- (1 new game(s) found)
+
+==================================================
+Name: Back In My Day
+Release Date: May 5, 2026
+Price: Free to Play
+Genres: Action, Casual, Indie, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4405030
+==================================================
+
