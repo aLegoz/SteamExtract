@@ -11836,3 +11836,54 @@ Genres: Indie, RPG, Simulation
 Link: https://store.steampowered.com/app/4570310
 ==================================================
 
+
+--- Run: 2026-05-06 22:37:44 --- (6 new game(s) found)
+
+==================================================
+Name: Jack's 510 Racing
+Release Date: May 6, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Racing
+Link: https://store.steampowered.com/app/3219800
+==================================================
+
+==================================================
+Name: Sputnik
+Release Date: May 6, 2026
+Price: $1.39 (-30%, was $1.99)
+Genres: Action, Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/1482890
+==================================================
+
+==================================================
+Name: Flippant
+Release Date: May 6, 2026
+Price: $2.99
+Genres: Casual, Simulation, Strategy
+Link: https://store.steampowered.com/app/4323290
+==================================================
+
+==================================================
+Name: Brooks Investment Simulator
+Release Date: May 6, 2026
+Price: $4.99
+Genres: Casual, Simulation, Strategy
+Link: https://store.steampowered.com/app/4613730
+==================================================
+
+==================================================
+Name: Tri6: Infinite 2
+Release Date: May 6, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Action, Casual, Indie, Racing
+Link: https://store.steampowered.com/app/4139340
+==================================================
+
+==================================================
+Name: A Love Like Broken Glass
+Release Date: May 6, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Casual, Indie, RPG
+Link: https://store.steampowered.com/app/4624020
+==================================================
+
