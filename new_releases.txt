@@ -11817,3 +11817,22 @@ Genres: Casual, Free To Play
 Link: https://store.steampowered.com/app/4526660
 ==================================================
 
+
+--- Run: 2026-05-06 19:17:56 --- (2 new game(s) found)
+
+==================================================
+Name: Dead Intelligence: First Encounter
+Release Date: May 6, 2026
+Price: $1.26 (-15%, was $1.49)
+Genres: Simulation
+Link: https://store.steampowered.com/app/4367320
+==================================================
+
+==================================================
+Name: Femboy Simulator
+Release Date: May 6, 2026
+Price: $4.99
+Genres: Indie, RPG, Simulation
+Link: https://store.steampowered.com/app/4570310
+==================================================
+
