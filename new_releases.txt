@@ -11618,3 +11618,46 @@ Genres: Action, Casual, Indie, Strategy, Free To Play
 Link: https://store.steampowered.com/app/4405030
 ==================================================
 
+
+--- Run: 2026-05-06 05:17:38 --- (5 new game(s) found)
+
+==================================================
+Name: Narball
+Release Date: May 5, 2026
+Price: Free to Play
+Genres: Sports, Free To Play
+Link: https://store.steampowered.com/app/4404880
+==================================================
+
+==================================================
+Name: Keyboard Rush
+Release Date: May 5, 2026
+Price: Free to Play
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4455420
+==================================================
+
+==================================================
+Name: Royal Wars: Farm TD
+Release Date: May 5, 2026
+Price: Free to Play
+Genres: Indie, Simulation, Strategy, Free To Play
+Link: https://store.steampowered.com/app/1679470
+==================================================
+
+==================================================
+Name: Last Line: Zombie Horde
+Release Date: May 5, 2026
+Price: Free to Play
+Genres: Casual, Indie, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4467640
+==================================================
+
+==================================================
+Name: Call of the Lake
+Release Date: May 5, 2026
+Price: $2.54 (-15%, was $2.99)
+Genres: Adventure, Casual, Indie, RPG
+Link: https://store.steampowered.com/app/4118240
+==================================================
+
