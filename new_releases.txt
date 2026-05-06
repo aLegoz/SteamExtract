@@ -11688,3 +11688,38 @@ Genres: Casual
 Link: https://store.steampowered.com/app/2957730
 ==================================================
 
+
+--- Run: 2026-05-06 12:21:47 --- (4 new game(s) found)
+
+==================================================
+Name: Werewolf: The Inner Beast
+Release Date: May 6, 2026
+Price: $17.99 (-10%, was $19.99)
+Genres: Action
+Link: https://store.steampowered.com/app/4235230
+==================================================
+
+==================================================
+Name: Block Clicker
+Release Date: May 6, 2026
+Price: $3.99
+Genres: Indie
+Link: https://store.steampowered.com/app/4605380
+==================================================
+
+==================================================
+Name: Fireboy & Watergirl and Friends
+Release Date: May 6, 2026
+Price: $0.99
+Genres: Action, Adventure
+Link: https://store.steampowered.com/app/4401160
+==================================================
+
+==================================================
+Name: 谐了个音 - 这是谐音梗
+Release Date: May 5, 2026
+Price: $1.59 (-20%, was $1.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/4612930
+==================================================
+
