@@ -11790,3 +11790,30 @@ Genres: Casual, Indie
 Link: https://store.steampowered.com/app/4608280
 ==================================================
 
+
+--- Run: 2026-05-06 17:19:54 --- (3 new game(s) found)
+
+==================================================
+Name: Alter Evo
+Release Date: May 6, 2026
+Price: $11.99 (-20%, was $14.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/2293640
+==================================================
+
+==================================================
+Name: MechDrachen
+Release Date: May 6, 2026
+Price: Free to Play
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/2602010
+==================================================
+
+==================================================
+Name: 桌宠小然
+Release Date: May 6, 2026
+Price: Free to Play
+Genres: Casual, Free To Play
+Link: https://store.steampowered.com/app/4526660
+==================================================
+
