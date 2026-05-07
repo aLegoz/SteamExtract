@@ -12006,3 +12006,110 @@ Genres: Action, Casual, Indie, RPG
 Link: https://store.steampowered.com/app/4608160
 ==================================================
 
+
+--- Run: 2026-05-07 15:24:12 --- (13 new game(s) found)
+
+==================================================
+Name: Dread Neighbor
+Release Date: May 7, 2026
+Price: $5.39 (-10%, was $5.99)
+Genres: Indie, RPG
+Link: https://store.steampowered.com/app/4111260
+==================================================
+
+==================================================
+Name: Aylix: Linux Native Crosshair Overlay
+Release Date: May 7, 2026
+Price: $7.99
+Genres: Indie, Animation & Modeling, Design & Illustration, Utilities, Video Production, Game Development
+Link: https://store.steampowered.com/app/4583000
+==================================================
+
+==================================================
+Name: WILL: Follow The Light
+Release Date: May 7, 2026
+Price: $19.99 (-20%, was $24.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/3144860
+==================================================
+
+==================================================
+Name: In Trusted Hands
+Release Date: May 7, 2026
+Price: $7.49 (-25%, was $9.99)
+Genres: Adventure, Casual, Simulation
+Link: https://store.steampowered.com/app/4183230
+==================================================
+
+==================================================
+Name: Blessed To Die
+Release Date: May 7, 2026
+Price: $9.37 (-33%, was $13.99)
+Genres: Strategy
+Link: https://store.steampowered.com/app/4637960
+==================================================
+
+==================================================
+Name: MITHOS: Game Master's TTRPG Toolkit
+Release Date: May 7, 2026
+Price: $35.10 (-10%, was $39.00)
+Genres: RPG, Utilities
+Link: https://store.steampowered.com/app/3990740
+==================================================
+
+==================================================
+Name: Mixtape
+Release Date: May 7, 2026
+Price: $17.99 (-10%, was $19.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/2582320
+==================================================
+
+==================================================
+Name: Blindfire
+Release Date: May 7, 2026
+Price: Free to Play
+Genres: Action, Free To Play
+Link: https://store.steampowered.com/app/2854480
+==================================================
+
+==================================================
+Name: Console Store Simulator
+Release Date: May 7, 2026
+Price: $9.99
+Genres: Casual, Simulation
+Link: https://store.steampowered.com/app/3667730
+==================================================
+
+==================================================
+Name: Pixel Airport Tycoon
+Release Date: May 7, 2026
+Price: $14.99
+Genres: Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4406030
+==================================================
+
+==================================================
+Name: Alien Strike: Blasting the Intruders
+Release Date: May 7, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/2876150
+==================================================
+
+==================================================
+Name: Duck Side of the Moon
+Release Date: May 7, 2026
+Price: $17.99 (-10%, was $19.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/2959770
+==================================================
+
+==================================================
+Name: 100 Hidden ASCII Cats
+Release Date: May 7, 2026
+Price: Free to Play
+Genres: Casual, Free To Play
+Link: https://store.steampowered.com/app/4651840
+==================================================
+
