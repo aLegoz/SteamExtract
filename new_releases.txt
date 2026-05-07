@@ -12373,3 +12373,30 @@ Genres: Action
 Link: https://store.steampowered.com/app/4593570
 ==================================================
 
+
+--- Run: 2026-05-07 22:49:58 --- (3 new game(s) found)
+
+==================================================
+Name: 101 Dogs Hidden in New Delhi
+Release Date: May 7, 2026
+Price: $1.19 (-40%, was $1.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4617690
+==================================================
+
+==================================================
+Name: Invaders Evolutions
+Release Date: May 7, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Action, Indie, Strategy
+Link: https://store.steampowered.com/app/4624340
+==================================================
+
+==================================================
+Name: Do As I Say - Obedience to the Ninja Master
+Release Date: May 7, 2026
+Price: $13.49 (-10%, was $14.99)
+Genres: Adventure, Casual
+Link: https://store.steampowered.com/app/4462790
+==================================================
+
