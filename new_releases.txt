@@ -12330,3 +12330,46 @@ Genres: Casual, Indie, Simulation
 Link: https://store.steampowered.com/app/3784580
 ==================================================
 
+
+--- Run: 2026-05-07 21:44:31 --- (5 new game(s) found)
+
+==================================================
+Name: The Honored Wife
+Release Date: May 7, 2026
+Price: $4.19 (-40%, was $6.99)
+Genres: Adventure, Simulation
+Link: https://store.steampowered.com/app/4614980
+==================================================
+
+==================================================
+Name: The Last Nordic Tribe
+Release Date: May 7, 2026
+Price: $5.39 (-10%, was $5.99)
+Genres: Action, Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/3435710
+==================================================
+
+==================================================
+Name: Eko and the Bewitched Lands
+Release Date: May 7, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: Action, Adventure
+Link: https://store.steampowered.com/app/2786440
+==================================================
+
+==================================================
+Name: BUTTON
+Release Date: May 7, 2026
+Price: $3.25 (-35%, was $5.00)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4589010
+==================================================
+
+==================================================
+Name: Extreme Clicker
+Release Date: May 7, 2026
+Price: $0.99
+Genres: Action
+Link: https://store.steampowered.com/app/4593570
+==================================================
+
