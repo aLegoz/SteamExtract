@@ -12400,3 +12400,30 @@ Genres: Adventure, Casual
 Link: https://store.steampowered.com/app/4462790
 ==================================================
 
+
+--- Run: 2026-05-07 23:41:49 --- (3 new game(s) found)
+
+==================================================
+Name: President of Steel
+Release Date: May 7, 2026
+Price: $4.25 (-15%, was $5.00)
+Genres: RPG, Simulation, Strategy
+Link: https://store.steampowered.com/app/4271170
+==================================================
+
+==================================================
+Name: Sweet Agent
+Release Date: May 7, 2026
+Price: $0.89 (-10%, was $0.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4368840
+==================================================
+
+==================================================
+Name: Clowny The Great Escape
+Release Date: May 7, 2026
+Price: $2.39 (-20%, was $2.99)
+Genres: Action, Adventure, Indie, Strategy
+Link: https://store.steampowered.com/app/4608790
+==================================================
+
