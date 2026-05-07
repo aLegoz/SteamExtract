@@ -11960,3 +11960,22 @@ Genres: Indie, Sports, Free To Play
 Link: https://store.steampowered.com/app/4632110
 ==================================================
 
+
+--- Run: 2026-05-07 10:57:29 --- (2 new game(s) found)
+
+==================================================
+Name: Kobayashi Clash of Conquest
+Release Date: May 7, 2026
+Price: Free to Play
+Genres: Simulation, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4587790
+==================================================
+
+==================================================
+Name: Doll Hero Thirty-Six
+Release Date: May 7, 2026
+Price: $9.34 (-15%, was $10.99)
+Genres: Action, Adventure, RPG, Strategy
+Link: https://store.steampowered.com/app/4638580
+==================================================
+
