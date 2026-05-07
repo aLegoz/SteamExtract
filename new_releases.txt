@@ -12311,3 +12311,22 @@ Genres: Action, Adventure, Indie
 Link: https://store.steampowered.com/app/4499850
 ==================================================
 
+
+--- Run: 2026-05-07 20:55:15 --- (2 new game(s) found)
+
+==================================================
+Name: Spin Royale
+Release Date: May 7, 2026
+Price: $4.79 (-20%, was $5.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/3737550
+==================================================
+
+==================================================
+Name: Goth Obsession: Touch Adventure
+Release Date: May 7, 2026
+Price: $2.69 (-10%, was $2.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/3784580
+==================================================
+
