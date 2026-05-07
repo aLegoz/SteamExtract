@@ -11979,3 +11979,30 @@ Genres: Action, Adventure, RPG, Strategy
 Link: https://store.steampowered.com/app/4638580
 ==================================================
 
+
+--- Run: 2026-05-07 12:26:38 --- (3 new game(s) found)
+
+==================================================
+Name: Pharma Craft
+Release Date: May 7, 2026
+Price: $2.99
+Genres: Casual, RPG, Simulation
+Link: https://store.steampowered.com/app/4282200
+==================================================
+
+==================================================
+Name: Visual novel: The One from the Dark
+Release Date: May 7, 2026
+Price: $0.69 (-30%, was $0.99)
+Genres: Action, Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4653000
+==================================================
+
+==================================================
+Name: Gin and Wall
+Release Date: May 6, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Action, Casual, Indie, RPG
+Link: https://store.steampowered.com/app/4608160
+==================================================
+
