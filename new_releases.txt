@@ -11890,3 +11890,54 @@ Link: https://store.steampowered.com/app/4624020
 
 --- Run: 2026-05-07 01:46:03 --- (0 new game(s) found)
 
+
+--- Run: 2026-05-07 05:20:33 --- (6 new game(s) found)
+
+==================================================
+Name: 1000 hidden snails
+Release Date: May 6, 2026
+Price: $1.79 (-10%, was $1.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/1730520
+==================================================
+
+==================================================
+Name: ARSONATE
+Release Date: May 6, 2026
+Price: $2.69 (-10%, was $2.99)
+Genres: Action, Strategy
+Link: https://store.steampowered.com/app/2822980
+==================================================
+
+==================================================
+Name: Cosyland: Island Simulator
+Release Date: May 6, 2026
+Price: $2.69 (-10%, was $2.99)
+Genres: Adventure, Casual, Indie, RPG, Simulation
+Link: https://store.steampowered.com/app/4586670
+==================================================
+
+==================================================
+Name: Visseron Idle
+Release Date: May 6, 2026
+Price: $2.99
+Genres: Adventure, Casual, RPG, Simulation
+Link: https://store.steampowered.com/app/4601670
+==================================================
+
+==================================================
+Name: Silverbrook: a Text-Based RPG
+Release Date: May 6, 2026
+Price: $1.59 (-20%, was $1.99)
+Genres: Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/4641240
+==================================================
+
+==================================================
+Name: Reel Clicker
+Release Date: May 6, 2026
+Price: $1.99
+Genres: Action, Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4630580
+==================================================
+
