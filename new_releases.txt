@@ -12591,3 +12591,22 @@ Genres: Casual, Indie
 Link: https://store.steampowered.com/app/4240840
 ==================================================
 
+
+--- Run: 2026-05-08 10:14:23 --- (2 new game(s) found)
+
+==================================================
+Name: Futanari Mermaids
+Release Date: May 8, 2026
+Price: $5.99 (-40%, was $9.99)
+Genres: Adventure, Casual, RPG, Simulation
+Link: https://store.steampowered.com/app/4522660
+==================================================
+
+==================================================
+Name: Everything is Crab: The Animal Evolution Roguelite
+Release Date: May 8, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Action, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/3526710
+==================================================
+
