@@ -12462,3 +12462,46 @@ Genres: Action, Indie
 Link: https://store.steampowered.com/app/3864610
 ==================================================
 
+
+--- Run: 2026-05-08 04:46:35 --- (5 new game(s) found)
+
+==================================================
+Name: Silliards
+Release Date: Coming soon
+Price: Free to Play
+Genres: Action, Adventure, Casual, Indie, Simulation, Free To Play
+Link: https://store.steampowered.com/app/4326790
+==================================================
+
+==================================================
+Name: 传奇盛世
+Release Date: May 7, 2026
+Price: Free to Play
+Genres: Action, Adventure, Massively Multiplayer, RPG, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4517350
+==================================================
+
+==================================================
+Name: 海神捕鱼
+Release Date: May 7, 2026
+Price: Free to Play
+Genres: Action, Adventure, Casual, Massively Multiplayer, Simulation, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4537540
+==================================================
+
+==================================================
+Name: Endless Maze
+Release Date: May 7, 2026
+Price: Free to Play
+Genres: Casual, Indie, RPG, Simulation, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4615730
+==================================================
+
+==================================================
+Name: Hyper-Drive
+Release Date: May 7, 2026
+Price: $9.67 (-12%, was $10.99)
+Genres: Action, Casual, Indie, Racing
+Link: https://store.steampowered.com/app/4586030
+==================================================
+
