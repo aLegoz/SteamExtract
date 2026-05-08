@@ -12610,3 +12610,38 @@ Genres: Action, Indie, Simulation, Strategy
 Link: https://store.steampowered.com/app/3526710
 ==================================================
 
+
+--- Run: 2026-05-08 12:03:09 --- (4 new game(s) found)
+
+==================================================
+Name: Haunted Izakaya
+Release Date: May 8, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4532900
+==================================================
+
+==================================================
+Name: SEX Shop Simulator: Forbidden Service
+Release Date: May 8, 2026
+Price: $6.79 (-15%, was $7.99)
+Genres: Adventure, Simulation
+Link: https://store.steampowered.com/app/4227680
+==================================================
+
+==================================================
+Name: Vampire Pumpkin Plot
+Release Date: May 8, 2026
+Price: $10.79 (-10%, was $11.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4550550
+==================================================
+
+==================================================
+Name: Arcane Plunder
+Release Date: May 8, 2026
+Price: $2.99 (-25%, was $3.99)
+Genres: Casual, Simulation, Strategy
+Link: https://store.steampowered.com/app/4042600
+==================================================
+
