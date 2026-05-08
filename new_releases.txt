@@ -12712,3 +12712,30 @@ Genres: Action, Casual, Indie
 Link: https://store.steampowered.com/app/4585800
 ==================================================
 
+
+--- Run: 2026-05-08 16:07:33 --- (3 new game(s) found)
+
+==================================================
+Name: Project Rod3nt
+Release Date: May 8, 2026
+Price: Free to Play
+Genres: Action, Adventure, Free To Play
+Link: https://store.steampowered.com/app/4558280
+==================================================
+
+==================================================
+Name: Bourbon Risky
+Release Date: May 8, 2026
+Price: Free to Play
+Genres: Action, Indie, Free To Play
+Link: https://store.steampowered.com/app/3775970
+==================================================
+
+==================================================
+Name: Random Coin
+Release Date: May 8, 2026
+Price: $0.89 (-10%, was $0.99)
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/4650990
+==================================================
+
