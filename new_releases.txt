@@ -12889,3 +12889,38 @@ Genres: Adventure, Indie
 Link: https://store.steampowered.com/app/4629980
 ==================================================
 
+
+--- Run: 2026-05-08 21:46:19 --- (4 new game(s) found)
+
+==================================================
+Name: Scorchie Adventures
+Release Date: May 8, 2026
+Price: $6.99 (-30%, was $9.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/3176520
+==================================================
+
+==================================================
+Name: Kuentame
+Release Date: May 8, 2026
+Price: $5.09 (-15%, was $5.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/4222630
+==================================================
+
+==================================================
+Name: HOT STRIPPERS
+Release Date: May 8, 2026
+Price: $2.39 (-40%, was $3.99)
+Genres: Action, Adventure, Casual, Indie, RPG, Simulation, Sports
+Link: https://store.steampowered.com/app/4643590
+==================================================
+
+==================================================
+Name: Scary Game 2: The Mad Shepherd
+Release Date: May 8, 2026
+Price: $2.39 (-20%, was $2.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4479970
+==================================================
+
