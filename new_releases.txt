@@ -12924,3 +12924,22 @@ Genres: Action, Casual, Indie
 Link: https://store.steampowered.com/app/4479970
 ==================================================
 
+
+--- Run: 2026-05-08 22:42:51 --- (2 new game(s) found)
+
+==================================================
+Name: Jackpot Crash Course
+Release Date: May 8, 2026
+Price: Free to Play
+Genres: Adventure, Indie, RPG, Free To Play
+Link: https://store.steampowered.com/app/3639010
+==================================================
+
+==================================================
+Name: Fortunegg: Species Revival
+Release Date: May 8, 2026
+Price: $1.99 (-20%, was $2.49)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4445960
+==================================================
+
