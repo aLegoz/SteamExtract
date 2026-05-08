@@ -12540,3 +12540,54 @@ Genres: Indie, Simulation, Strategy
 Link: https://store.steampowered.com/app/4602840
 ==================================================
 
+
+--- Run: 2026-05-08 08:16:59 --- (6 new game(s) found)
+
+==================================================
+Name: A summer in Oneeshota Town
+Release Date: May 8, 2026
+Price: $13.49 (-10%, was $14.99)
+Genres: Casual, Indie, RPG
+Link: https://store.steampowered.com/app/3804180
+==================================================
+
+==================================================
+Name: Malware City
+Release Date: May 8, 2026
+Price: $9.99
+Genres: Indie
+Link: https://store.steampowered.com/app/3650510
+==================================================
+
+==================================================
+Name: Deadlucre
+Release Date: May 8, 2026
+Price: Free to Play
+Genres: Action, Free To Play
+Link: https://store.steampowered.com/app/4475190
+==================================================
+
+==================================================
+Name: Cow Project 1986
+Release Date: May 8, 2026
+Price: Free to Play
+Genres: Casual, Indie, Simulation, Free To Play
+Link: https://store.steampowered.com/app/4644670
+==================================================
+
+==================================================
+Name: Magelike: Path to Redemption
+Release Date: May 8, 2026
+Price: $6.99
+Genres: Action, Indie, RPG
+Link: https://store.steampowered.com/app/4620070
+==================================================
+
+==================================================
+Name: Intersectio
+Release Date: May 7, 2026
+Price: $3.99
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4240840
+==================================================
+
