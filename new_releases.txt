@@ -12645,3 +12645,70 @@ Genres: Casual, Simulation, Strategy
 Link: https://store.steampowered.com/app/4042600
 ==================================================
 
+
+--- Run: 2026-05-08 14:29:37 --- (8 new game(s) found)
+
+==================================================
+Name: Arena Arcade Fest
+Release Date: May 8, 2026
+Price: $8.09 (-10%, was $8.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4639940
+==================================================
+
+==================================================
+Name: Cosmonade
+Release Date: May 8, 2026
+Price: Free to Play
+Genres: Indie, Simulation, Strategy, Free To Play
+Link: https://store.steampowered.com/app/3876100
+==================================================
+
+==================================================
+Name: Cafe Crew Simulator: Prologue
+Release Date: May 8, 2026
+Price: Free to Play
+Genres: Casual, Simulation, Free To Play
+Link: https://store.steampowered.com/app/3723430
+==================================================
+
+==================================================
+Name: Umigami Eye
+Release Date: May 8, 2026
+Price: $2.69 (-10%, was $2.99)
+Genres: Adventure
+Link: https://store.steampowered.com/app/4592100
+==================================================
+
+==================================================
+Name: Ice Cream Simulator - Prologue
+Release Date: May 8, 2026
+Price: Free to Play
+Genres: Casual, Indie, Simulation, Free To Play
+Link: https://store.steampowered.com/app/4554740
+==================================================
+
+==================================================
+Name: Dream&Robot
+Release Date: May 8, 2026
+Price: $1.69 (-15%, was $1.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4650560
+==================================================
+
+==================================================
+Name: Hentai Tales: Licentious Of Chinatown
+Release Date: May 8, 2026
+Price: $0.59 (-40%, was $0.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4440830
+==================================================
+
+==================================================
+Name: もじみち
+Release Date: May 7, 2026
+Price: $6.99
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4585800
+==================================================
+
