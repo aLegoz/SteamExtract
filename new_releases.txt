@@ -12943,3 +12943,14 @@ Genres: Casual, Indie
 Link: https://store.steampowered.com/app/4445960
 ==================================================
 
+
+--- Run: 2026-05-08 23:43:30 --- (1 new game(s) found)
+
+==================================================
+Name: Pixelarium: Free Lands
+Release Date: May 8, 2026
+Price: $12.74 (-15%, was $14.99)
+Genres: Action, Adventure, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/3208450
+==================================================
+
