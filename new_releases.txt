@@ -13097,3 +13097,30 @@ Genres: Indie
 Link: https://store.steampowered.com/app/3770150
 ==================================================
 
+
+--- Run: 2026-05-09 14:11:44 --- (3 new game(s) found)
+
+==================================================
+Name: It's too late to apologize.
+Release Date: May 9, 2026
+Price: Free to Play
+Genres: Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/4451220
+==================================================
+
+==================================================
+Name: Fight For Peace
+Release Date: May 9, 2026
+Price: $1.39 (-30%, was $1.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/4400640
+==================================================
+
+==================================================
+Name: WitchGhost
+Release Date: May 9, 2026
+Price: Free to Play
+Genres: Action, Adventure, Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/2711050
+==================================================
+
