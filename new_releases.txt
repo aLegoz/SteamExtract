@@ -12989,3 +12989,38 @@ Genres: Casual, Indie, Racing
 Link: https://store.steampowered.com/app/4401400
 ==================================================
 
+
+--- Run: 2026-05-09 04:58:40 --- (4 new game(s) found)
+
+==================================================
+Name: UBAI Again
+Release Date: May 8, 2026
+Price: $11.99 (-20%, was $14.99)
+Genres: RPG
+Link: https://store.steampowered.com/app/4182620
+==================================================
+
+==================================================
+Name: ECH8
+Release Date: May 8, 2026
+Price: Free to Play
+Genres: Adventure, Indie, Free To Play
+Link: https://store.steampowered.com/app/3529610
+==================================================
+
+==================================================
+Name: duplicity loop
+Release Date: May 8, 2026
+Price: Free to Play
+Genres: Indie
+Link: https://store.steampowered.com/app/2708580
+==================================================
+
+==================================================
+Name: 8 Ball 4
+Release Date: May 8, 2026
+Price: $2.09 (-30%, was $2.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4642180
+==================================================
+
