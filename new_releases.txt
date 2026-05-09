@@ -12954,3 +12954,38 @@ Genres: Action, Adventure, Indie, RPG, Strategy
 Link: https://store.steampowered.com/app/3208450
 ==================================================
 
+
+--- Run: 2026-05-09 01:45:00 --- (4 new game(s) found)
+
+==================================================
+Name: Between Stops
+Release Date: May 8, 2026
+Price: Free to Play
+Genres: Action, Adventure, Indie, RPG, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4480890
+==================================================
+
+==================================================
+Name: Hentai World Fall
+Release Date: May 8, 2026
+Price: $0.79 (-20%, was $0.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4587580
+==================================================
+
+==================================================
+Name: Protocol: Umbra
+Release Date: May 8, 2026
+Price: $5.80 (-17%, was $6.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4386250
+==================================================
+
+==================================================
+Name: Demand For Velocity 2: Endgame
+Release Date: May 8, 2026
+Price: $0.99
+Genres: Casual, Indie, Racing
+Link: https://store.steampowered.com/app/4401400
+==================================================
+
