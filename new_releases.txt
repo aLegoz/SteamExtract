@@ -13024,3 +13024,22 @@ Genres: Adventure, Casual, Indie
 Link: https://store.steampowered.com/app/4642180
 ==================================================
 
+
+--- Run: 2026-05-09 07:05:35 --- (2 new game(s) found)
+
+==================================================
+Name: Autonomous Warfare Evolution
+Release Date: May 8, 2026
+Price: $11.89 (-15%, was $13.99)
+Genres: Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4628600
+==================================================
+
+==================================================
+Name: Princess Colosseum
+Release Date: May 8, 2026
+Price: $9.59 (-20%, was $11.99)
+Genres: RPG
+Link: https://store.steampowered.com/app/3017630
+==================================================
+
