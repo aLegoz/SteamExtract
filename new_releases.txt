@@ -13043,3 +13043,30 @@ Genres: RPG
 Link: https://store.steampowered.com/app/3017630
 ==================================================
 
+
+--- Run: 2026-05-09 10:44:17 --- (3 new game(s) found)
+
+==================================================
+Name: SurrounDead Poly Construction
+Release Date: May 9, 2026
+Price: $3.59 (-40%, was $5.99)
+Genres: Action, Adventure, Casual, Indie, Racing, RPG, Simulation, Strategy
+Link: https://store.steampowered.com/app/4148570
+==================================================
+
+==================================================
+Name: Checkers Kingdom
+Release Date: May 9, 2026
+Price: $2.99 (-40%, was $4.99)
+Genres: Casual, Simulation, Sports, Strategy
+Link: https://store.steampowered.com/app/4651000
+==================================================
+
+==================================================
+Name: Pointer Manual
+Release Date: May 8, 2026
+Price: $1.79 (-40%, was $2.99)
+Genres: Casual, Indie, RPG, Simulation, Strategy
+Link: https://store.steampowered.com/app/4491010
+==================================================
+
