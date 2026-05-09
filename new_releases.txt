@@ -13070,3 +13070,30 @@ Genres: Casual, Indie, RPG, Simulation, Strategy
 Link: https://store.steampowered.com/app/4491010
 ==================================================
 
+
+--- Run: 2026-05-09 12:47:36 --- (3 new game(s) found)
+
+==================================================
+Name: Abominable Asteroids
+Release Date: May 9, 2026
+Price: Free to Play
+Genres: Action, Indie, Free To Play
+Link: https://store.steampowered.com/app/4619620
+==================================================
+
+==================================================
+Name: V8 Player
+Release Date: May 9, 2026
+Price: $4.99
+Genres: Photo Editing, Video Production
+Link: https://store.steampowered.com/app/4647080
+==================================================
+
+==================================================
+Name: Cyber UF2
+Release Date: May 9, 2026
+Price: $2.39 (-40%, was $3.99)
+Genres: Indie
+Link: https://store.steampowered.com/app/3770150
+==================================================
+
