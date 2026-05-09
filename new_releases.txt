@@ -13135,3 +13135,14 @@ Genres: Adventure, Casual, Indie
 Link: https://store.steampowered.com/app/4533800
 ==================================================
 
+
+--- Run: 2026-05-09 17:39:33 --- (1 new game(s) found)
+
+==================================================
+Name: CD-ROM
+Release Date: May 9, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: Indie
+Link: https://store.steampowered.com/app/3968100
+==================================================
+
