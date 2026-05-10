@@ -13249,3 +13249,14 @@ Genres: Casual, Indie
 Link: https://store.steampowered.com/app/4383060
 ==================================================
 
+
+--- Run: 2026-05-10 16:39:47 --- (1 new game(s) found)
+
+==================================================
+Name: Sopwith
+Release Date: May 9, 2026
+Price: Free to Play
+Genres: Action, Indie, Free To Play
+Link: https://store.steampowered.com/app/4438380
+==================================================
+
