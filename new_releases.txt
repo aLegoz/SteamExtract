@@ -13168,3 +13168,46 @@ Genres: Indie, Strategy
 Link: https://store.steampowered.com/app/4615810
 ==================================================
 
+
+--- Run: 2026-05-10 05:26:32 --- (5 new game(s) found)
+
+==================================================
+Name: Dodge-imals
+Release Date: May 9, 2026
+Price: Free to Play
+Genres: Action, Adventure, Casual, Indie, Strategy, Free To Play
+Link: https://store.steampowered.com/app/1850200
+==================================================
+
+==================================================
+Name: Hentai Nitro
+Release Date: May 9, 2026
+Price: $1.19 (-40%, was $1.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4506710
+==================================================
+
+==================================================
+Name: Hentai Blush
+Release Date: May 9, 2026
+Price: $1.19 (-40%, was $1.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4484780
+==================================================
+
+==================================================
+Name: Sakura Drift
+Release Date: May 9, 2026
+Price: $14.99 (-25%, was $19.99)
+Genres: Racing
+Link: https://store.steampowered.com/app/4307070
+==================================================
+
+==================================================
+Name: Aquanore
+Release Date: May 9, 2026
+Price: $3.99
+Genres: Casual, Simulation
+Link: https://store.steampowered.com/app/4086860
+==================================================
+
