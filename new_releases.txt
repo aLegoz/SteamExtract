@@ -13260,3 +13260,22 @@ Genres: Action, Indie, Free To Play
 Link: https://store.steampowered.com/app/4438380
 ==================================================
 
+
+--- Run: 2026-05-10 18:42:40 --- (2 new game(s) found)
+
+==================================================
+Name: Office Shoe Slinger
+Release Date: May 10, 2026
+Price: $0.99
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4626700
+==================================================
+
+==================================================
+Name: Lampyris Moon
+Release Date: May 10, 2026
+Price: $7.01 (-22%, was $8.99)
+Genres: Action, Adventure, Casual
+Link: https://store.steampowered.com/app/4626350
+==================================================
+
