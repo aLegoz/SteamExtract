@@ -13290,3 +13290,22 @@ Genres: Adventure, Casual, Indie
 Link: https://store.steampowered.com/app/3995270
 ==================================================
 
+
+--- Run: 2026-05-10 21:36:45 --- (2 new game(s) found)
+
+==================================================
+Name: Soft Money
+Release Date: May 10, 2026
+Price: $4.19 (-40%, was $6.99)
+Genres: Adventure, Simulation
+Link: https://store.steampowered.com/app/4633540
+==================================================
+
+==================================================
+Name: Retro Manager
+Release Date: May 10, 2026
+Price: $4.99
+Genres: Simulation, Sports, Strategy
+Link: https://store.steampowered.com/app/4613680
+==================================================
+
