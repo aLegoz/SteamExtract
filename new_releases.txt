@@ -13309,3 +13309,14 @@ Genres: Simulation, Sports, Strategy
 Link: https://store.steampowered.com/app/4613680
 ==================================================
 
+
+--- Run: 2026-05-10 23:39:03 --- (1 new game(s) found)
+
+==================================================
+Name: The Siege of Jeomdo
+Release Date: May 10, 2026
+Price: $7.64 (-15%, was $8.99)
+Genres: Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/2417710
+==================================================
+
