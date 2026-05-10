@@ -13157,3 +13157,14 @@ Genres: Simulation, Education
 Link: https://store.steampowered.com/app/4654080
 ==================================================
 
+
+--- Run: 2026-05-10 01:45:33 --- (1 new game(s) found)
+
+==================================================
+Name: Periodic Lottery
+Release Date: May 9, 2026
+Price: $1.59 (-20%, was $1.99)
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/4615810
+==================================================
+
