@@ -13279,3 +13279,14 @@ Genres: Action, Adventure, Casual
 Link: https://store.steampowered.com/app/4626350
 ==================================================
 
+
+--- Run: 2026-05-10 20:35:33 --- (1 new game(s) found)
+
+==================================================
+Name: Beach Ball Bounce Back
+Release Date: May 10, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/3995270
+==================================================
+
