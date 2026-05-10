@@ -13222,3 +13222,30 @@ Genres: Indie, RPG
 Link: https://store.steampowered.com/app/4524240
 ==================================================
 
+
+--- Run: 2026-05-10 15:41:00 --- (3 new game(s) found)
+
+==================================================
+Name: Eternally Departed
+Release Date: May 10, 2026
+Price: Free to Play
+Genres: Adventure, Indie, Free To Play
+Link: https://store.steampowered.com/app/4500140
+==================================================
+
+==================================================
+Name: MusicRunner
+Release Date: May 10, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/3869710
+==================================================
+
+==================================================
+Name: 100 Marshmallow Cats
+Release Date: May 10, 2026
+Price: $1.79 (-10%, was $1.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4383060
+==================================================
+
