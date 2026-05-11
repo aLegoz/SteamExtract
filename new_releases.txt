@@ -13320,3 +13320,14 @@ Genres: Adventure, Indie, RPG
 Link: https://store.steampowered.com/app/2417710
 ==================================================
 
+
+--- Run: 2026-05-11 01:52:49 --- (1 new game(s) found)
+
+==================================================
+Name: サチコの七不思議
+Release Date: May 10, 2026
+Price: $3.19 (-20%, was $3.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4555220
+==================================================
+
