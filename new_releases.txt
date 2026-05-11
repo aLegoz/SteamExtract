@@ -13366,3 +13366,78 @@ Genres: Casual, Indie, RPG, Strategy
 Link: https://store.steampowered.com/app/4140440
 ==================================================
 
+
+--- Run: 2026-05-11 11:55:18 --- (9 new game(s) found)
+
+==================================================
+Name: Rope Up!
+Release Date: May 11, 2026
+Price: $4.89 (-30%, was $6.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4595740
+==================================================
+
+==================================================
+Name: Firewall Breaker
+Release Date: May 11, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4627270
+==================================================
+
+==================================================
+Name: Don't Panic! It is Just Turbulence
+Release Date: May 11, 2026
+Price: $6.39 (-20%, was $7.99)
+Genres: Indie
+Link: https://store.steampowered.com/app/4187140
+==================================================
+
+==================================================
+Name: NOOK FALL: West Town
+Release Date: May 11, 2026
+Price: $12.59 (-10%, was $13.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/3119700
+==================================================
+
+==================================================
+Name: kill -9
+Release Date: May 11, 2026
+Price: $6.99 (-30%, was $9.99)
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/4610000
+==================================================
+
+==================================================
+Name: 追曙
+Release Date: May 11, 2026
+Price: $7.19 (-10%, was $7.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/3432650
+==================================================
+
+==================================================
+Name: Vocabulary Mastermind
+Release Date: May 10, 2026
+Price: $14.99
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4611870
+==================================================
+
+==================================================
+Name: Aeschylus: Death
+Release Date: May 10, 2026
+Price: $10.99
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/3397590
+==================================================
+
+==================================================
+Name: Descension
+Release Date: May 10, 2026
+Price: $11.99 (-20%, was $14.99)
+Genres: Indie, RPG
+Link: https://store.steampowered.com/app/3437580
+==================================================
+
