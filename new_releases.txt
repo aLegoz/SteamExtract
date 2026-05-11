@@ -13725,3 +13725,22 @@ Genres: Adventure, Casual, Indie, Simulation
 Link: https://store.steampowered.com/app/4666780
 ==================================================
 
+
+--- Run: 2026-05-11 23:44:57 --- (2 new game(s) found)
+
+==================================================
+Name: Puzzle Park 2
+Release Date: May 11, 2026
+Price: $7.99
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4375920
+==================================================
+
+==================================================
+Name: Dilemma
+Release Date: May 11, 2026
+Price: $5.99
+Genres: Adventure, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4251310
+==================================================
+
