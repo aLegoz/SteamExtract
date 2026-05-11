@@ -13618,3 +13618,110 @@ Genres: Adventure, Casual, Indie, RPG
 Link: https://store.steampowered.com/app/3565570
 ==================================================
 
+
+--- Run: 2026-05-11 21:08:19 --- (13 new game(s) found)
+
+==================================================
+Name: Slot Heroes: Reels of Fate
+Release Date: May 11, 2026
+Price: $2.99
+Genres: Casual, RPG, Strategy
+Link: https://store.steampowered.com/app/3982350
+==================================================
+
+==================================================
+Name: HackSaw
+Release Date: May 11, 2026
+Price: $4.99
+Genres: Indie
+Link: https://store.steampowered.com/app/4633010
+==================================================
+
+==================================================
+Name: Searching Light
+Release Date: May 11, 2026
+Price: $8.49 (-15%, was $9.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4005430
+==================================================
+
+==================================================
+Name: Centurion's Gambit
+Release Date: May 11, 2026
+Price: $9.99
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/4634140
+==================================================
+
+==================================================
+Name: Esqapes: Voyages
+Release Date: May 11, 2026
+Price: $19.99
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4453130
+==================================================
+
+==================================================
+Name: Don Quijote
+Release Date: May 11, 2026
+Price: $1.79 (-40%, was $2.99)
+Genres: Adventure
+Link: https://store.steampowered.com/app/4499530
+==================================================
+
+==================================================
+Name: Welcome to Bloomroots
+Release Date: May 11, 2026
+Price: $9.99
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4530530
+==================================================
+
+==================================================
+Name: Drifting Dots
+Release Date: May 11, 2026
+Price: $6.39 (-20%, was $7.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4104160
+==================================================
+
+==================================================
+Name: 都市青年模拟器
+Release Date: May 11, 2026
+Price: $5.39 (-40%, was $8.99)
+Genres: RPG, Simulation
+Link: https://store.steampowered.com/app/4132760
+==================================================
+
+==================================================
+Name: Bloomy Ladies
+Release Date: May 11, 2026
+Price: $1.69 (-15%, was $1.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/4636770
+==================================================
+
+==================================================
+Name: Return of the Boogeyman 👻
+Release Date: May 11, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Action, Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4144250
+==================================================
+
+==================================================
+Name: Umbra Flora
+Release Date: May 11, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: Action, Adventure, Indie, Strategy
+Link: https://store.steampowered.com/app/4286210
+==================================================
+
+==================================================
+Name: Messiah Simulator
+Release Date: May 11, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Adventure, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4666780
+==================================================
+
