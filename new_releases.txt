@@ -13591,3 +13591,30 @@ Genres: RPG, Strategy
 Link: https://store.steampowered.com/app/4660730
 ==================================================
 
+
+--- Run: 2026-05-11 19:24:15 --- (3 new game(s) found)
+
+==================================================
+Name: Boat on Desk
+Release Date: May 11, 2026
+Price: $1.19 (-40%, was $1.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4465210
+==================================================
+
+==================================================
+Name: The Last Winter Knight
+Release Date: May 11, 2026
+Price: $12.59 (-10%, was $13.99)
+Genres: Adventure
+Link: https://store.steampowered.com/app/2768420
+==================================================
+
+==================================================
+Name: STU THE FISHERMAN
+Release Date: May 11, 2026
+Price: $5.99
+Genres: Adventure, Casual, Indie, RPG
+Link: https://store.steampowered.com/app/3565570
+==================================================
+
