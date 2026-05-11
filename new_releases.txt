@@ -13441,3 +13441,54 @@ Genres: Indie, RPG
 Link: https://store.steampowered.com/app/3437580
 ==================================================
 
+
+--- Run: 2026-05-11 14:18:25 --- (6 new game(s) found)
+
+==================================================
+Name: 100 Cats Lost In Space Find & Color
+Release Date: May 11, 2026
+Price: $4.79 (-40%, was $7.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/3774950
+==================================================
+
+==================================================
+Name: Aether FIR ATC Simulator
+Release Date: May 11, 2026
+Price: Free to Play
+Genres: Simulation, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4639130
+==================================================
+
+==================================================
+Name: Truth Universally Acknowledged - Nine Hearts
+Release Date: May 11, 2026
+Price: $4.99
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4593250
+==================================================
+
+==================================================
+Name: Chart Weaver
+Release Date: May 11, 2026
+Price: $5.94 (-15%, was $6.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4262070
+==================================================
+
+==================================================
+Name: Land of Ghosts
+Release Date: May 11, 2026
+Price: $4.50
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4612480
+==================================================
+
+==================================================
+Name: Sussy Cat
+Release Date: May 10, 2026
+Price: $0.59 (-40%, was $0.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4566330
+==================================================
+
