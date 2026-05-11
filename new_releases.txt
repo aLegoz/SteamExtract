@@ -13492,3 +13492,102 @@ Genres: Casual, Indie
 Link: https://store.steampowered.com/app/4566330
 ==================================================
 
+
+--- Run: 2026-05-11 17:16:38 --- (12 new game(s) found)
+
+==================================================
+Name: Spell Alchemist
+Release Date: May 11, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Action, Adventure, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4414430
+==================================================
+
+==================================================
+Name: Word Space Blaster
+Release Date: May 11, 2026
+Price: $2.42 (-10%, was $2.69)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4599370
+==================================================
+
+==================================================
+Name: Greenhearth Necromancer
+Release Date: May 11, 2026
+Price: $8.79 (-20%, was $10.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/2127570
+==================================================
+
+==================================================
+Name: Boardwalk Builders
+Release Date: May 11, 2026
+Price: $7.19 (-10%, was $7.99)
+Genres: Casual, Simulation
+Link: https://store.steampowered.com/app/2958890
+==================================================
+
+==================================================
+Name: With It We Leave
+Release Date: May 11, 2026
+Price: Free to Play
+Genres: Free To Play
+Link: https://store.steampowered.com/app/4577580
+==================================================
+
+==================================================
+Name: Flesh Forest
+Release Date: May 11, 2026
+Price: Free to Play
+Genres: Action, Free To Play
+Link: https://store.steampowered.com/app/4645040
+==================================================
+
+==================================================
+Name: Flowfects
+Release Date: May 11, 2026
+Price: $2.99 (-40%, was $4.99)
+Genres: Casual, Indie, Simulation, Utilities
+Link: https://store.steampowered.com/app/4124610
+==================================================
+
+==================================================
+Name: Dragon Hop
+Release Date: May 11, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/2650290
+==================================================
+
+==================================================
+Name: Battlestar Galactica: Scattered Hopes
+Release Date: May 11, 2026
+Price: $19.99 (-20%, was $24.99)
+Genres: Action, Indie, Strategy
+Link: https://store.steampowered.com/app/2535950
+==================================================
+
+==================================================
+Name: Cheap Car Repair: Welcome to Nowhere
+Release Date: May 11, 2026
+Price: Free to Play
+Genres: Adventure, Indie, Simulation, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4584240
+==================================================
+
+==================================================
+Name: Outbound
+Release Date: May 11, 2026
+Price: $22.49 (-10%, was $24.99)
+Genres: Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/2681030
+==================================================
+
+==================================================
+Name: 西游释厄传
+Release Date: May 11, 2026
+Price: $4.99
+Genres: RPG, Strategy
+Link: https://store.steampowered.com/app/4660730
+==================================================
+
