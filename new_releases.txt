@@ -13833,3 +13833,30 @@ Genres: Action, Indie, Strategy
 Link: https://store.steampowered.com/app/3048930
 ==================================================
 
+
+--- Run: 2026-05-12 11:09:46 --- (3 new game(s) found)
+
+==================================================
+Name: The Maddening Mercy
+Release Date: May 12, 2026
+Price: Free to Play
+Genres: Action, Simulation, Free To Play
+Link: https://store.steampowered.com/app/4634980
+==================================================
+
+==================================================
+Name: Tennis Manager 26
+Release Date: May 12, 2026
+Price: $35.99 (-10%, was $39.99)
+Genres: Sports
+Link: https://store.steampowered.com/app/4216650
+==================================================
+
+==================================================
+Name: Port Trader
+Release Date: May 11, 2026
+Price: $4.79 (-20%, was $5.99)
+Genres: Casual, Simulation
+Link: https://store.steampowered.com/app/4402730
+==================================================
+
