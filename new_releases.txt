@@ -14077,3 +14077,22 @@ Genres: Adventure, Casual, Indie, Strategy
 Link: https://store.steampowered.com/app/3100370
 ==================================================
 
+
+--- Run: 2026-05-12 20:26:15 --- (2 new game(s) found)
+
+==================================================
+Name: Cloud Crashers
+Release Date: May 12, 2026
+Price: Free to Play
+Genres: Action, Indie, Free To Play
+Link: https://store.steampowered.com/app/2995940
+==================================================
+
+==================================================
+Name: A.K.O - Arrow Keys Only
+Release Date: May 12, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Action
+Link: https://store.steampowered.com/app/4594440
+==================================================
+
