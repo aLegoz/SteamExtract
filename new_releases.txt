@@ -13763,3 +13763,30 @@ Genres: Simulation, Strategy
 Link: https://store.steampowered.com/app/3458090
 ==================================================
 
+
+--- Run: 2026-05-12 05:29:09 --- (3 new game(s) found)
+
+==================================================
+Name: Poolscape
+Release Date: May 11, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Adventure, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4189480
+==================================================
+
+==================================================
+Name: Grid of Change
+Release Date: May 11, 2026
+Price: Free to Play
+Genres: Free To Play
+Link: https://store.steampowered.com/app/4650900
+==================================================
+
+==================================================
+Name: Chill & Reel
+Release Date: May 11, 2026
+Price: $7.99
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/3952880
+==================================================
+
