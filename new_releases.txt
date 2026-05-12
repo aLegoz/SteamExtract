@@ -13860,3 +13860,78 @@ Genres: Casual, Simulation
 Link: https://store.steampowered.com/app/4402730
 ==================================================
 
+
+--- Run: 2026-05-12 13:47:42 --- (9 new game(s) found)
+
+==================================================
+Name: Uncle Lee’s Cookbook: Five Recipes for Disaster
+Release Date: May 12, 2026
+Price: $9.59 (-20%, was $11.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/3777930
+==================================================
+
+==================================================
+Name: Minute Mark
+Release Date: May 12, 2026
+Price: Free to Play
+Genres: Action, Indie, Racing, Free To Play
+Link: https://store.steampowered.com/app/4387950
+==================================================
+
+==================================================
+Name: The Door in The Skybox
+Release Date: May 12, 2026
+Price: Free to Play
+Genres: Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/4629680
+==================================================
+
+==================================================
+Name: Elfie: A Sand Plan
+Release Date: May 12, 2026
+Price: $6.29 (-10%, was $6.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/3784760
+==================================================
+
+==================================================
+Name: LiteRect
+Release Date: May 12, 2026
+Price: $4.99
+Genres: Casual, Utilities
+Link: https://store.steampowered.com/app/4631480
+==================================================
+
+==================================================
+Name: Slime's Blacksmith
+Release Date: May 12, 2026
+Price: $2.99
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4610270
+==================================================
+
+==================================================
+Name: PROMulti-TableTournament
+Release Date: May 12, 2026
+Price: $17.09 (-10%, was $18.99)
+Genres: Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4638860
+==================================================
+
+==================================================
+Name: TwistedGraphen
+Release Date: May 12, 2026
+Price: $2.99
+Genres: Casual, Strategy
+Link: https://store.steampowered.com/app/4474300
+==================================================
+
+==================================================
+Name: COALCOM: Power Station
+Release Date: May 11, 2026
+Price: $11.69 (-10%, was $12.99)
+Genres: Simulation, Strategy
+Link: https://store.steampowered.com/app/4411610
+==================================================
+
