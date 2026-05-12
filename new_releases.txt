@@ -13790,3 +13790,46 @@ Genres: Casual, Indie, Simulation
 Link: https://store.steampowered.com/app/3952880
 ==================================================
 
+
+--- Run: 2026-05-12 08:19:30 --- (5 new game(s) found)
+
+==================================================
+Name: Tasty Bite: Food dating simulator
+Release Date: May 12, 2026
+Price: $6.29 (-10%, was $6.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/3520180
+==================================================
+
+==================================================
+Name: NITRO GEN OMEGA
+Release Date: May 12, 2026
+Price: $26.99 (-10%, was $29.99)
+Genres: RPG, Strategy
+Link: https://store.steampowered.com/app/2525510
+==================================================
+
+==================================================
+Name: Spatial Lens
+Release Date: May 11, 2026
+Price: Free to Play
+Genres: Free To Play, Education
+Link: https://store.steampowered.com/app/3972540
+==================================================
+
+==================================================
+Name: Giant Beast Island
+Release Date: May 11, 2026
+Price: $6.99
+Genres: Massively Multiplayer, RPG
+Link: https://store.steampowered.com/app/4249620
+==================================================
+
+==================================================
+Name: Duriano
+Release Date: May 11, 2026
+Price: $14.99
+Genres: Action, Indie, Strategy
+Link: https://store.steampowered.com/app/3048930
+==================================================
+
