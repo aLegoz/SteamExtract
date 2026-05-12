@@ -14002,3 +14002,78 @@ Genres: Casual
 Link: https://store.steampowered.com/app/4656690
 ==================================================
 
+
+--- Run: 2026-05-12 18:29:28 --- (9 new game(s) found)
+
+==================================================
+Name: Saint of Chains
+Release Date: May 12, 2026
+Price: $9.74 (-25%, was $12.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/4079340
+==================================================
+
+==================================================
+Name: Mining Goblins Idle
+Release Date: May 12, 2026
+Price: $5.09 (-15%, was $5.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4519530
+==================================================
+
+==================================================
+Name: FOF (Fear Of Failure)
+Release Date: May 12, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: Action, Adventure, Casual, Strategy
+Link: https://store.steampowered.com/app/4036580
+==================================================
+
+==================================================
+Name: Silent Paradise Anthology
+Release Date: May 12, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/3525870
+==================================================
+
+==================================================
+Name: Clockwork Ambrosia
+Release Date: May 12, 2026
+Price: $17.99 (-10%, was $19.99)
+Genres: Action, Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/896010
+==================================================
+
+==================================================
+Name: Dice Biology
+Release Date: May 12, 2026
+Price: $5.09 (-15%, was $5.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4463050
+==================================================
+
+==================================================
+Name: Fail Fail Succeed
+Release Date: May 12, 2026
+Price: $5.99 (-40%, was $9.99)
+Genres: Indie
+Link: https://store.steampowered.com/app/3816180
+==================================================
+
+==================================================
+Name: Call of the Elder Gods
+Release Date: May 12, 2026
+Price: $19.99 (-20%, was $24.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/2174380
+==================================================
+
+==================================================
+Name: Black Jacket
+Release Date: May 12, 2026
+Price: $12.74 (-15%, was $14.99)
+Genres: Adventure, Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/3100370
+==================================================
+
