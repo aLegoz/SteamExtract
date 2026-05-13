@@ -14268,3 +14268,46 @@ Genres: Indie
 Link: https://store.steampowered.com/app/1916590
 ==================================================
 
+
+--- Run: 2026-05-13 08:30:09 --- (5 new game(s) found)
+
+==================================================
+Name: CaseCracker3
+Release Date: May 13, 2026
+Price: $11.69 (-10%, was $12.99)
+Genres: Adventure, Indie, RPG, Simulation
+Link: https://store.steampowered.com/app/3296830
+==================================================
+
+==================================================
+Name: ARIE: Moonprayer
+Release Date: May 13, 2026
+Price: $15.29 (-10%, was $16.99)
+Genres: Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/2476690
+==================================================
+
+==================================================
+Name: Renegade Cat Marbles
+Release Date: May 12, 2026
+Price: $2.69 (-10%, was $2.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4467530
+==================================================
+
+==================================================
+Name: Warfront Vanguard
+Release Date: May 12, 2026
+Price: $1.99
+Genres: Action, Adventure, Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4590380
+==================================================
+
+==================================================
+Name: Scorched Legacy
+Release Date: May 12, 2026
+Price: $13.49 (-10%, was $14.99)
+Genres: Strategy
+Link: https://store.steampowered.com/app/4326140
+==================================================
+
