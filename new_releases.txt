@@ -14598,3 +14598,46 @@ Genres: Action, Indie
 Link: https://store.steampowered.com/app/4676970
 ==================================================
 
+
+--- Run: 2026-05-13 22:54:48 --- (5 new game(s) found)
+
+==================================================
+Name: Janggi
+Release Date: May 13, 2026
+Price: $6.79 (-15%, was $7.99)
+Genres: Casual, Strategy
+Link: https://store.steampowered.com/app/4673970
+==================================================
+
+==================================================
+Name: The Dice Lodge
+Release Date: May 13, 2026
+Price: $2.69
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4316940
+==================================================
+
+==================================================
+Name: klik.
+Release Date: May 13, 2026
+Price: $2.54 (-15%, was $2.99)
+Genres: Casual, Strategy
+Link: https://store.steampowered.com/app/4639120
+==================================================
+
+==================================================
+Name: Monkey Gang
+Release Date: May 13, 2026
+Price: $3.19 (-20%, was $3.99)
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/3812750
+==================================================
+
+==================================================
+Name: Cyberpunk Wenwan: Desktop Idle Simulator
+Release Date: May 13, 2026
+Price: $2.54 (-15%, was $2.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4533030
+==================================================
+
