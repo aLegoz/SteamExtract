@@ -14311,3 +14311,54 @@ Genres: Strategy
 Link: https://store.steampowered.com/app/4326140
 ==================================================
 
+
+--- Run: 2026-05-13 11:23:27 --- (6 new game(s) found)
+
+==================================================
+Name: Dead Sector: Outbreak
+Release Date: May 13, 2026
+Price: $5.99 (-40%, was $9.99)
+Genres: Action, RPG
+Link: https://store.steampowered.com/app/4168740
+==================================================
+
+==================================================
+Name: Okinawa Soba Simulator
+Release Date: May 13, 2026
+Price: $0.69 (-30%, was $0.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4620320
+==================================================
+
+==================================================
+Name: Kernelbay
+Release Date: May 13, 2026
+Price: $3.39 (-15%, was $3.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/3686480
+==================================================
+
+==================================================
+Name: Sad Virus Waterland
+Release Date: May 13, 2026
+Price: $0.59 (-40%, was $0.99)
+Genres: Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/4679770
+==================================================
+
+==================================================
+Name: Rejected Doll ~ Erotic Discipline for the Clone Princess
+Release Date: May 12, 2026
+Price: $8.99
+Genres: Indie, RPG
+Link: https://store.steampowered.com/app/4258510
+==================================================
+
+==================================================
+Name: Plantation Simulator
+Release Date: May 12, 2026
+Price: $1.19 (-40%, was $1.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4495510
+==================================================
+
