@@ -14174,3 +14174,54 @@ Genres: Adventure, Simulation, Free To Play
 Link: https://store.steampowered.com/app/4535300
 ==================================================
 
+
+--- Run: 2026-05-13 01:53:09 --- (6 new game(s) found)
+
+==================================================
+Name: The TEAM game:Corgi&me
+Release Date: May 12, 2026
+Price: $5.09 (-15%, was $5.99)
+Genres: Casual, Indie, Sports
+Link: https://store.steampowered.com/app/4593000
+==================================================
+
+==================================================
+Name: Inquiry Counsel逆转茶食人
+Release Date: May 12, 2026
+Price: $7.19 (-20%, was $8.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4258180
+==================================================
+
+==================================================
+Name: The Azure One
+Release Date: May 12, 2026
+Price: Free to Play
+Genres: Indie, RPG, Free To Play
+Link: https://store.steampowered.com/app/4354300
+==================================================
+
+==================================================
+Name: Orbit's Grocery
+Release Date: May 12, 2026
+Price: Free to Play
+Genres: Action, Adventure, Casual, Indie, Racing, RPG, Simulation, Free To Play
+Link: https://store.steampowered.com/app/4637810
+==================================================
+
+==================================================
+Name: The Company
+Release Date: May 12, 2026
+Price: $3.59 (-10%, was $3.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4389840
+==================================================
+
+==================================================
+Name: Exit, Seriously?
+Release Date: May 12, 2026
+Price: $3.99
+Genres: Adventure, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4382370
+==================================================
+
