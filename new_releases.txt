@@ -14225,3 +14225,46 @@ Genres: Adventure, Casual, Indie, Simulation
 Link: https://store.steampowered.com/app/4382370
 ==================================================
 
+
+--- Run: 2026-05-13 05:39:18 --- (5 new game(s) found)
+
+==================================================
+Name: Dungeon Buddy
+Release Date: May 12, 2026
+Price: Free to Play
+Genres: Casual, Indie, RPG, Free To Play
+Link: https://store.steampowered.com/app/4619820
+==================================================
+
+==================================================
+Name: SEGMENTS
+Release Date: May 12, 2026
+Price: $1.69 (-15%, was $1.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/4284620
+==================================================
+
+==================================================
+Name: XFlight: FPV Drone Simulator
+Release Date: May 12, 2026
+Price: $22.49 (-10%, was $24.99)
+Genres: Indie, Racing, Simulation, Sports
+Link: https://store.steampowered.com/app/3628070
+==================================================
+
+==================================================
+Name: ControllerMeta
+Release Date: May 12, 2026
+Price: $1.50
+Genres: Indie, Software Training, Utilities
+Link: https://store.steampowered.com/app/4474670
+==================================================
+
+==================================================
+Name: Hell's Bell
+Release Date: May 12, 2026
+Price: $4.99
+Genres: Indie
+Link: https://store.steampowered.com/app/1916590
+==================================================
+
