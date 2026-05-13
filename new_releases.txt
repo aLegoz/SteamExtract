@@ -14571,3 +14571,30 @@ Genres: Casual, Indie
 Link: https://store.steampowered.com/app/4631800
 ==================================================
 
+
+--- Run: 2026-05-13 21:14:27 --- (3 new game(s) found)
+
+==================================================
+Name: 101 Dogs Hidden in Istanbul
+Release Date: May 13, 2026
+Price: $1.19 (-40%, was $1.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4617700
+==================================================
+
+==================================================
+Name: Weapon Skills
+Release Date: May 13, 2026
+Price: $0.99
+Genres: Action, RPG, Strategy
+Link: https://store.steampowered.com/app/4637280
+==================================================
+
+==================================================
+Name: Vector Escape
+Release Date: May 13, 2026
+Price: $2.49
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4676970
+==================================================
+
