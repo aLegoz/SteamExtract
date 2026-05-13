@@ -14397,3 +14397,126 @@ Genres: Indie, Simulation
 Link: https://store.steampowered.com/app/4386410
 ==================================================
 
+
+--- Run: 2026-05-13 17:06:01 --- (15 new game(s) found)
+
+==================================================
+Name: CAMERAMAN NEVER DIES
+Release Date: May 13, 2026
+Price: Free to Play
+Genres: Action, Adventure, Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/4581410
+==================================================
+
+==================================================
+Name: Overtime : Paper Trail
+Release Date: May 13, 2026
+Price: $2.69 (-10%, was $2.99)
+Genres: Indie
+Link: https://store.steampowered.com/app/4555350
+==================================================
+
+==================================================
+Name: Wiped-Out VR
+Release Date: May 13, 2026
+Price: Free to Play
+Genres: Simulation, Sports, Free To Play
+Link: https://store.steampowered.com/app/4574270
+==================================================
+
+==================================================
+Name: Dark Dominion
+Release Date: May 13, 2026
+Price: $17.49 (-30%, was $24.99)
+Genres: Action, Adventure, RPG
+Link: https://store.steampowered.com/app/3237640
+==================================================
+
+==================================================
+Name: Space Haven
+Release Date: May 13, 2026
+Price: $14.99 (-40%, was $24.99)
+Genres: Indie, RPG, Simulation, Strategy
+Link: https://store.steampowered.com/app/979110
+==================================================
+
+==================================================
+Name: Vultures - Scavengers of Death
+Release Date: May 13, 2026
+Price: $14.39 (-20%, was $17.99)
+Genres: Action, Adventure, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/2537470
+==================================================
+
+==================================================
+Name: Wingsuit: Romsdalen
+Release Date: May 13, 2026
+Price: $24.99
+Genres: Action, Racing, Simulation, Sports
+Link: https://store.steampowered.com/app/4293900
+==================================================
+
+==================================================
+Name: Your Darling
+Release Date: May 13, 2026
+Price: $0.69 (-30%, was $0.99)
+Genres: Casual, Simulation
+Link: https://store.steampowered.com/app/4646170
+==================================================
+
+==================================================
+Name: Kami: Parade of Senses
+Release Date: May 13, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/2764320
+==================================================
+
+==================================================
+Name: Rabbit Runabout
+Release Date: May 13, 2026
+Price: $2.54 (-15%, was $2.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4668640
+==================================================
+
+==================================================
+Name: Hentai Futa Maid
+Release Date: May 13, 2026
+Price: $4.79 (-20%, was $5.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4669900
+==================================================
+
+==================================================
+Name: WAGEE
+Release Date: May 13, 2026
+Price: $6.99
+Genres: Strategy
+Link: https://store.steampowered.com/app/4614290
+==================================================
+
+==================================================
+Name: 重启人生
+Release Date: May 13, 2026
+Price: $1.39 (-30%, was $1.99)
+Genres: Casual, Indie, RPG, Simulation, Strategy
+Link: https://store.steampowered.com/app/4595340
+==================================================
+
+==================================================
+Name: 雪球对对碰 Snowball Bumping
+Release Date: May 13, 2026
+Price: $1.26
+Genres: Casual, Sports
+Link: https://store.steampowered.com/app/4618380
+==================================================
+
+==================================================
+Name: You Can't Ring It
+Release Date: May 13, 2026
+Price: $1.69 (-15%, was $1.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/4631050
+==================================================
+
