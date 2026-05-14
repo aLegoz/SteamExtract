@@ -15059,3 +15059,118 @@ Genres: Adventure, Indie
 Link: https://store.steampowered.com/app/4578060
 ==================================================
 
+
+--- Run: 2026-05-14 18:27:23 --- (14 new game(s) found)
+
+==================================================
+Name: Wonderful Realms
+Release Date: May 14, 2026
+Price: $19.99
+Genres: RPG
+Link: https://store.steampowered.com/app/4656630
+==================================================
+
+==================================================
+Name: The Dark Field
+Release Date: May 14, 2026
+Price: Free to Play
+Genres: Adventure, Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/3861150
+==================================================
+
+==================================================
+Name: Move, Move, Melon!!
+Release Date: May 14, 2026
+Price: Free to Play
+Genres: Action, Adventure, Casual, Indie, Racing, Free To Play
+Link: https://store.steampowered.com/app/4379220
+==================================================
+
+==================================================
+Name: A Tale of Silent Depths
+Release Date: May 14, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/2820850
+==================================================
+
+==================================================
+Name: Wild West Furry - Hentai Jigsaw
+Release Date: May 14, 2026
+Price: $1.59 (-20%, was $1.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/4633230
+==================================================
+
+==================================================
+Name: InVein
+Release Date: May 14, 2026
+Price: Free to Play
+Genres: Casual, Indie, RPG, Simulation, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4642060
+==================================================
+
+==================================================
+Name: Hentai Sake
+Release Date: May 14, 2026
+Price: $0.64 (-35%, was $0.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4637350
+==================================================
+
+==================================================
+Name: The Ramen Shop
+Release Date: May 14, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Action, Adventure, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4093970
+==================================================
+
+==================================================
+Name: Myth Finders 3
+Release Date: May 14, 2026
+Price: $14.99
+Genres: Casual
+Link: https://store.steampowered.com/app/4731150
+==================================================
+
+==================================================
+Name: sportive
+Release Date: May 14, 2026
+Price: Free to Play
+Genres: Casual, Sports, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4517240
+==================================================
+
+==================================================
+Name: Let Me Play!
+Release Date: May 14, 2026
+Price: $2.69 (-10%, was $2.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/3859740
+==================================================
+
+==================================================
+Name: Funny Park Reawakening
+Release Date: May 14, 2026
+Price: Free to Play
+Genres: Action, Adventure, Indie, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4186170
+==================================================
+
+==================================================
+Name: Port Authority
+Release Date: May 14, 2026
+Price: $5.39 (-10%, was $5.99)
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/3672760
+==================================================
+
+==================================================
+Name: Mysteries of Old Tokyo
+Release Date: May 14, 2026
+Price: $11.69 (-10%, was $12.99)
+Genres: Adventure
+Link: https://store.steampowered.com/app/3784300
+==================================================
+
