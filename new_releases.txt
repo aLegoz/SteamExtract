@@ -15236,3 +15236,38 @@ Genres: Casual, Indie, Free To Play
 Link: https://store.steampowered.com/app/4246790
 ==================================================
 
+
+--- Run: 2026-05-14 22:54:25 --- (4 new game(s) found)
+
+==================================================
+Name: Tavern Timer
+Release Date: May 14, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4420410
+==================================================
+
+==================================================
+Name: Case Files: Internal Affairs
+Release Date: May 14, 2026
+Price: $9.89 (-10%, was $10.99)
+Genres: Adventure, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/3233260
+==================================================
+
+==================================================
+Name: Argonauts Agency: Reflections from the Moon Collector's Edition
+Release Date: May 14, 2026
+Price: $19.99
+Genres: Adventure, Casual, Simulation, Strategy
+Link: https://store.steampowered.com/app/4623080
+==================================================
+
+==================================================
+Name: Sweet Reporter
+Release Date: May 14, 2026
+Price: $0.89 (-10%, was $0.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4390950
+==================================================
+
