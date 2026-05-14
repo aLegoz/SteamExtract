@@ -14676,3 +14676,54 @@ Genres: Adventure, Simulation
 Link: https://store.steampowered.com/app/4654170
 ==================================================
 
+
+--- Run: 2026-05-14 05:40:43 --- (6 new game(s) found)
+
+==================================================
+Name: Actuator : Overt Abnormality
+Release Date: May 13, 2026
+Price: $4.19 (-30%, was $5.99)
+Genres: Action
+Link: https://store.steampowered.com/app/3703440
+==================================================
+
+==================================================
+Name: Maze Creep!!
+Release Date: May 13, 2026
+Price: $5.59 (-20%, was $6.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4014040
+==================================================
+
+==================================================
+Name: Lorain
+Release Date: May 13, 2026
+Price: $8.79 (-20%, was $10.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/3415060
+==================================================
+
+==================================================
+Name: Holo Hockey
+Release Date: May 13, 2026
+Price: $3.99
+Genres: Action, Casual, Indie, Sports
+Link: https://store.steampowered.com/app/4536040
+==================================================
+
+==================================================
+Name: Solo Shift!
+Release Date: May 13, 2026
+Price: $6.46 (-34%, was $9.79)
+Genres: Action, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4638460
+==================================================
+
+==================================================
+Name: The Knight of Niraking
+Release Date: May 13, 2026
+Price: $3.00 (-40%, was $5.00)
+Genres: Action, Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/4170400
+==================================================
+
