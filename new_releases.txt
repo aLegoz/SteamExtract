@@ -14853,3 +14853,38 @@ Genres: Indie
 Link: https://store.steampowered.com/app/4366360
 ==================================================
 
+
+--- Run: 2026-05-14 13:24:10 --- (4 new game(s) found)
+
+==================================================
+Name: OurLife
+Release Date: May 14, 2026
+Price: $3.74 (-25%, was $4.99)
+Genres: Adventure, Indie, RPG, Simulation, Strategy
+Link: https://store.steampowered.com/app/4653330
+==================================================
+
+==================================================
+Name: 爪爪改造家 PawRebuild
+Release Date: May 14, 2026
+Price: $1.59 (-20%, was $1.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4630290
+==================================================
+
+==================================================
+Name: A Playground Afternoon
+Release Date: May 14, 2026
+Price: Free to Play
+Genres: Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/4543920
+==================================================
+
+==================================================
+Name: Hotel Architect
+Release Date: May 14, 2026
+Price: $23.39 (-22%, was $29.99)
+Genres: Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/1602000
+==================================================
+
