@@ -15174,3 +15174,22 @@ Genres: Adventure
 Link: https://store.steampowered.com/app/3784300
 ==================================================
 
+
+--- Run: 2026-05-14 20:22:13 --- (2 new game(s) found)
+
+==================================================
+Name: TAMURO CARDS
+Release Date: May 14, 2026
+Price: $2.39 (-20%, was $2.99)
+Genres: Strategy
+Link: https://store.steampowered.com/app/4580670
+==================================================
+
+==================================================
+Name: Meowpire
+Release Date: May 14, 2026
+Price: $3.59 (-10%, was $3.99)
+Genres: Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4478650
+==================================================
+
