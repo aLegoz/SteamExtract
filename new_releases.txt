@@ -14641,3 +14641,38 @@ Genres: Casual, Indie, Simulation
 Link: https://store.steampowered.com/app/4533030
 ==================================================
 
+
+--- Run: 2026-05-14 01:56:11 --- (4 new game(s) found)
+
+==================================================
+Name: The Kendama Challenge: 100 Players
+Release Date: May 13, 2026
+Price: $4.99
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4293130
+==================================================
+
+==================================================
+Name: Disillusion
+Release Date: May 13, 2026
+Price: Free to Play
+Genres: Adventure, Indie, Free To Play
+Link: https://store.steampowered.com/app/4541690
+==================================================
+
+==================================================
+Name: Crosshair Zero
+Release Date: May 13, 2026
+Price: $4.95 (-38%, was $7.99)
+Genres: Action, Adventure, Indie, Design & Illustration, Photo Editing, Software Training, Utilities, Game Development
+Link: https://store.steampowered.com/app/4517310
+==================================================
+
+==================================================
+Name: Tenured Hearts
+Release Date: May 13, 2026
+Price: $4.19 (-40%, was $6.99)
+Genres: Adventure, Simulation
+Link: https://store.steampowered.com/app/4654170
+==================================================
+
