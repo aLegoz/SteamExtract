@@ -14888,3 +14888,174 @@ Genres: Indie, Simulation, Strategy
 Link: https://store.steampowered.com/app/1602000
 ==================================================
 
+
+--- Run: 2026-05-14 16:03:37 --- (21 new game(s) found)
+
+==================================================
+Name: Nerdy Quest
+Release Date: May 14, 2026
+Price: $5.94 (-15%, was $6.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4394150
+==================================================
+
+==================================================
+Name: Luna's Room
+Release Date: May 14, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Adventure
+Link: https://store.steampowered.com/app/4522280
+==================================================
+
+==================================================
+Name: DO NOT FEED THE VIRUS - Incremental
+Release Date: May 14, 2026
+Price: $6.29 (-10%, was $6.99)
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4288460
+==================================================
+
+==================================================
+Name: The Caribou Trail
+Release Date: May 14, 2026
+Price: $11.69 (-10%, was $12.99)
+Genres: Action, Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/3065030
+==================================================
+
+==================================================
+Name: Blades of Fire
+Release Date: May 14, 2026
+Price: $29.99 (-25%, was $39.99)
+Genres: Action, Adventure
+Link: https://store.steampowered.com/app/2091020
+==================================================
+
+==================================================
+Name: Klifur
+Release Date: May 14, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Casual, Indie, Sports
+Link: https://store.steampowered.com/app/4573210
+==================================================
+
+==================================================
+Name: Drifters Don't Brake: Midnight
+Release Date: May 14, 2026
+Price: $10.19 (-15%, was $11.99)
+Genres: Casual, Indie, Racing
+Link: https://store.steampowered.com/app/3491670
+==================================================
+
+==================================================
+Name: Tabletops & Bottoms
+Release Date: May 14, 2026
+Price: $8.79 (-20%, was $10.99)
+Genres: Simulation, Strategy
+Link: https://store.steampowered.com/app/3973280
+==================================================
+
+==================================================
+Name: Wall Street Raider
+Release Date: May 14, 2026
+Price: $25.49 (-15%, was $29.99)
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/3525620
+==================================================
+
+==================================================
+Name: RoadOut
+Release Date: May 14, 2026
+Price: $12.74 (-15%, was $14.99)
+Genres: Action, Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/1829270
+==================================================
+
+==================================================
+Name: Underling Uprising
+Release Date: May 14, 2026
+Price: $12.74 (-15%, was $14.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/1896760
+==================================================
+
+==================================================
+Name: Creepy Tale: Snow Child
+Release Date: May 14, 2026
+Price: $9.59 (-20%, was $11.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/3529690
+==================================================
+
+==================================================
+Name: Onslaught
+Release Date: May 14, 2026
+Price: Free to Play
+Genres: Action, Adventure, Free To Play
+Link: https://store.steampowered.com/app/4405050
+==================================================
+
+==================================================
+Name: King Crab
+Release Date: May 14, 2026
+Price: $11.99 (-20%, was $14.99)
+Genres: Action, Adventure, Simulation
+Link: https://store.steampowered.com/app/2523690
+==================================================
+
+==================================================
+Name: Nova Patria
+Release Date: May 14, 2026
+Price: $10.19 (-15%, was $11.99)
+Genres: Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/3831720
+==================================================
+
+==================================================
+Name: Whirlight - No Time To Trip
+Release Date: May 14, 2026
+Price: $16.99 (-15%, was $19.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/2706980
+==================================================
+
+==================================================
+Name: Rocket Cars
+Release Date: May 14, 2026
+Price: Free to Play
+Genres: Racing, Sports, Free To Play
+Link: https://store.steampowered.com/app/4384290
+==================================================
+
+==================================================
+Name: Swing of the Valkyries
+Release Date: May 14, 2026
+Price: $8.99
+Genres: Action
+Link: https://store.steampowered.com/app/3794400
+==================================================
+
+==================================================
+Name: Ignore the Blackbird
+Release Date: May 14, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4519240
+==================================================
+
+==================================================
+Name: Hexart City
+Release Date: May 14, 2026
+Price: $1.59 (-20%, was $1.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4388820
+==================================================
+
+==================================================
+Name: 巡怪警備 -The Cursed Security-
+Release Date: May 14, 2026
+Price: $2.69 (-10%, was $2.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4578060
+==================================================
+
