@@ -14754,3 +14754,102 @@ Genres: Casual
 Link: https://store.steampowered.com/app/2538170
 ==================================================
 
+
+--- Run: 2026-05-14 11:07:11 --- (12 new game(s) found)
+
+==================================================
+Name: Swing Dynasty: College Tennis
+Release Date: May 14, 2026
+Price: $14.99
+Genres: Simulation, Sports
+Link: https://store.steampowered.com/app/4671140
+==================================================
+
+==================================================
+Name: Food Processing Simulator
+Release Date: May 14, 2026
+Price: $9.74 (-25%, was $12.99)
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/3928990
+==================================================
+
+==================================================
+Name: Zero Bugs Given
+Release Date: May 14, 2026
+Price: $9.90
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/4443770
+==================================================
+
+==================================================
+Name: Rogue Command
+Release Date: May 14, 2026
+Price: $13.99 (-30%, was $19.99)
+Genres: Action, Simulation, Strategy
+Link: https://store.steampowered.com/app/1461910
+==================================================
+
+==================================================
+Name: Jewels of Rome: Match-3 Game and City Builder
+Release Date: May 14, 2026
+Price: Free to Play
+Genres: Casual, Free To Play
+Link: https://store.steampowered.com/app/4490870
+==================================================
+
+==================================================
+Name: Flux Tower Defense
+Release Date: May 14, 2026
+Price: $5.99
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/4645330
+==================================================
+
+==================================================
+Name: Iridio
+Release Date: May 14, 2026
+Price: $19.99
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/2587590
+==================================================
+
+==================================================
+Name: SkyDungeon Shinobigaeshi Peak
+Release Date: May 14, 2026
+Price: $3.39 (-15%, was $3.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/3566380
+==================================================
+
+==================================================
+Name: Jeo-seung Bus : Underworld Bus
+Release Date: May 14, 2026
+Price: $3.99
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4588410
+==================================================
+
+==================================================
+Name: One Day
+Release Date: May 14, 2026
+Price: $5.39 (-10%, was $5.99)
+Genres: Adventure, Casual, Indie, RPG
+Link: https://store.steampowered.com/app/4478540
+==================================================
+
+==================================================
+Name: Ghostgirl Trainer
+Release Date: May 13, 2026
+Price: $11.04 (-15%, was $12.99)
+Genres: RPG
+Link: https://store.steampowered.com/app/4557070
+==================================================
+
+==================================================
+Name: Balorizon
+Release Date: May 13, 2026
+Price: $6.29 (-10%, was $6.99)
+Genres: Indie
+Link: https://store.steampowered.com/app/4366360
+==================================================
+
