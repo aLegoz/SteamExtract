@@ -15927,3 +15927,38 @@ Genres: Casual, Strategy
 Link: https://store.steampowered.com/app/4686320
 ==================================================
 
+
+--- Run: 2026-05-15 20:47:55 --- (4 new game(s) found)
+
+==================================================
+Name: No One Left To Die
+Release Date: May 15, 2026
+Price: $5.99
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/4459140
+==================================================
+
+==================================================
+Name: Endless Snake
+Release Date: May 15, 2026
+Price: $2.69 (-10%, was $2.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4705550
+==================================================
+
+==================================================
+Name: Deep in the Fields
+Release Date: May 15, 2026
+Price: $2.99
+Genres: Adventure
+Link: https://store.steampowered.com/app/4519280
+==================================================
+
+==================================================
+Name: Only Up: Chan Chained Together
+Release Date: May 15, 2026
+Price: $1.79 (-40%, was $2.99)
+Genres: Action, Adventure, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/3460440
+==================================================
+
