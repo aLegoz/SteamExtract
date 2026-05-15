@@ -15828,3 +15828,102 @@ Genres: Indie, RPG
 Link: https://store.steampowered.com/app/4506500
 ==================================================
 
+
+--- Run: 2026-05-15 17:19:50 --- (12 new game(s) found)
+
+==================================================
+Name: Midnight Kebab
+Release Date: May 15, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/4268430
+==================================================
+
+==================================================
+Name: Cafe Revolution
+Release Date: May 15, 2026
+Price: $3.19 (-20%, was $3.99)
+Genres: Simulation
+Link: https://store.steampowered.com/app/4380000
+==================================================
+
+==================================================
+Name: Drive Together
+Release Date: May 15, 2026
+Price: $4.04 (-10%, was $4.49)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4117320
+==================================================
+
+==================================================
+Name: Augment Anthem
+Release Date: May 15, 2026
+Price: $17.99 (-10%, was $19.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/3035960
+==================================================
+
+==================================================
+Name: Boba Buba
+Release Date: May 15, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4290890
+==================================================
+
+==================================================
+Name: Skigill
+Release Date: May 15, 2026
+Price: $4.99
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/3657180
+==================================================
+
+==================================================
+Name: Aetherbreak
+Release Date: May 15, 2026
+Price: Free to Play
+Genres: Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/3987160
+==================================================
+
+==================================================
+Name: Unanswered
+Release Date: May 15, 2026
+Price: Free to Play
+Genres: Adventure, Indie, Free To Play
+Link: https://store.steampowered.com/app/4539950
+==================================================
+
+==================================================
+Name: Soul Machine
+Release Date: May 15, 2026
+Price: $3.49 (-30%, was $4.99)
+Genres: Action, Indie, Strategy
+Link: https://store.steampowered.com/app/1449700
+==================================================
+
+==================================================
+Name: Invasion of the Lizard People
+Release Date: May 15, 2026
+Price: $4.99
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4621860
+==================================================
+
+==================================================
+Name: Durak Online by Pokerist
+Release Date: May 15, 2026
+Price: Free to Play
+Genres: Casual, Massively Multiplayer, Simulation, Sports, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4355340
+==================================================
+
+==================================================
+Name: Žolík
+Release Date: May 15, 2026
+Price: $3.51
+Genres: Casual, Strategy
+Link: https://store.steampowered.com/app/4686320
+==================================================
+
