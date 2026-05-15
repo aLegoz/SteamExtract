@@ -15713,3 +15713,118 @@ Genres: Action, Indie
 Link: https://store.steampowered.com/app/4590020
 ==================================================
 
+
+--- Run: 2026-05-15 15:54:42 --- (14 new game(s) found)
+
+==================================================
+Name: Anomaly Jobs : Data Center
+Release Date: May 15, 2026
+Price: Free to Play
+Genres: Adventure, Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/3554150
+==================================================
+
+==================================================
+Name: Galaxy Grinder Incremental
+Release Date: May 15, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/4396370
+==================================================
+
+==================================================
+Name: Karkaba
+Release Date: May 15, 2026
+Price: $29.99
+Genres: Action
+Link: https://store.steampowered.com/app/4359120
+==================================================
+
+==================================================
+Name: FUTA FUCKS FEMBOYS
+Release Date: May 15, 2026
+Price: $11.04 (-15%, was $12.99)
+Genres: Adventure, Casual, Indie, RPG, Simulation, Free To Play
+Link: https://store.steampowered.com/app/3989810
+==================================================
+
+==================================================
+Name: Liminal Sick Pizza Blue
+Release Date: May 15, 2026
+Price: $4.99
+Genres: Indie
+Link: https://store.steampowered.com/app/4591720
+==================================================
+
+==================================================
+Name: Steel Artery: Train City Builder
+Release Date: May 15, 2026
+Price: $13.49 (-10%, was $14.99)
+Genres: Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/3602030
+==================================================
+
+==================================================
+Name: Centipede Simulator
+Release Date: May 15, 2026
+Price: $2.99 (-25%, was $3.99)
+Genres: Action, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/3922090
+==================================================
+
+==================================================
+Name: Going Over
+Release Date: May 15, 2026
+Price: $14.99
+Genres: Casual
+Link: https://store.steampowered.com/app/4568150
+==================================================
+
+==================================================
+Name: Moventure
+Release Date: May 15, 2026
+Price: $7.40 (-40%, was $12.34)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/3826060
+==================================================
+
+==================================================
+Name: 液态围棋
+Release Date: May 15, 2026
+Price: Free to Play
+Genres: Casual, Indie, Simulation, Sports, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4670730
+==================================================
+
+==================================================
+Name: Console Cafe Simulator
+Release Date: May 15, 2026
+Price: $9.99
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4391540
+==================================================
+
+==================================================
+Name: 'In You We Trust, Not Algorithms' ~Newbie Matsumoto's Manual Elevator Operation with Sticky Notes~
+Release Date: May 15, 2026
+Price: $1.79 (-10%, was $1.99)
+Genres: Action, Simulation
+Link: https://store.steampowered.com/app/4655400
+==================================================
+
+==================================================
+Name: VamPigo
+Release Date: May 15, 2026
+Price: $4.99
+Genres: Action, Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4591700
+==================================================
+
+==================================================
+Name: Dunjourney
+Release Date: May 15, 2026
+Price: $2.24 (-10%, was $2.49)
+Genres: Indie, RPG
+Link: https://store.steampowered.com/app/4506500
+==================================================
+
