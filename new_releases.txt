@@ -15997,3 +15997,22 @@ Genres: Action, Adventure, Casual, Indie, RPG, Simulation, Sports
 Link: https://store.steampowered.com/app/4643580
 ==================================================
 
+
+--- Run: 2026-05-15 22:42:14 --- (2 new game(s) found)
+
+==================================================
+Name: Neuron Connection
+Release Date: May 15, 2026
+Price: $2.69 (-10%, was $2.99)
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4223860
+==================================================
+
+==================================================
+Name: The Forgotten Nightmare Series
+Release Date: May 15, 2026
+Price: $2.99
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4362760
+==================================================
+
