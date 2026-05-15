@@ -15962,3 +15962,38 @@ Genres: Action, Adventure, Casual, Indie, Simulation
 Link: https://store.steampowered.com/app/3460440
 ==================================================
 
+
+--- Run: 2026-05-15 21:46:20 --- (4 new game(s) found)
+
+==================================================
+Name: Dream Doctor
+Release Date: May 15, 2026
+Price: $4.89 (-30%, was $6.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/3255170
+==================================================
+
+==================================================
+Name: Gold Gold Adventure Gold
+Release Date: May 15, 2026
+Price: $14.99 (-40%, was $24.99)
+Genres: Adventure, Indie, RPG, Simulation, Strategy
+Link: https://store.steampowered.com/app/3133650
+==================================================
+
+==================================================
+Name: The Melty Way
+Release Date: May 15, 2026
+Price: $5.99 (-25%, was $7.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/3990570
+==================================================
+
+==================================================
+Name: CYBERSEX
+Release Date: May 15, 2026
+Price: $2.39 (-40%, was $3.99)
+Genres: Action, Adventure, Casual, Indie, RPG, Simulation, Sports
+Link: https://store.steampowered.com/app/4643580
+==================================================
+
