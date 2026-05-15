@@ -15598,3 +15598,118 @@ Genres: Casual, Indie, Simulation, Strategy, Free To Play
 Link: https://store.steampowered.com/app/4674800
 ==================================================
 
+
+--- Run: 2026-05-15 13:23:58 --- (14 new game(s) found)
+
+==================================================
+Name: Service Area Simulator
+Release Date: May 15, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4182000
+==================================================
+
+==================================================
+Name: Last Known Vector
+Release Date: May 15, 2026
+Price: $6.29 (-10%, was $6.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4341480
+==================================================
+
+==================================================
+Name: The Adventures of Sir Kicksalot
+Release Date: May 15, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Action, RPG
+Link: https://store.steampowered.com/app/2629230
+==================================================
+
+==================================================
+Name: Entiled
+Release Date: May 15, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/4663010
+==================================================
+
+==================================================
+Name: Nano Squadron
+Release Date: May 15, 2026
+Price: $4.79 (-20%, was $5.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/3521220
+==================================================
+
+==================================================
+Name: That's An Order Ensign
+Release Date: May 15, 2026
+Price: $2.54 (-15%, was $2.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4541390
+==================================================
+
+==================================================
+Name: XorO
+Release Date: May 15, 2026
+Price: Free to Play
+Genres: Indie, Massively Multiplayer, Free To Play
+Link: https://store.steampowered.com/app/3950510
+==================================================
+
+==================================================
+Name: Blind Savior
+Release Date: May 15, 2026
+Price: $1.99
+Genres: Simulation
+Link: https://store.steampowered.com/app/4662430
+==================================================
+
+==================================================
+Name: The Beautiful Game - Book One
+Release Date: May 15, 2026
+Price: $9.99
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/3263540
+==================================================
+
+==================================================
+Name: Dungeon of Calibris: Demon Orb
+Release Date: May 15, 2026
+Price: $4.79 (-20%, was $5.99)
+Genres: Indie, RPG
+Link: https://store.steampowered.com/app/4628500
+==================================================
+
+==================================================
+Name: Before Closure
+Release Date: May 15, 2026
+Price: $2.54 (-15%, was $2.99)
+Genres: Indie
+Link: https://store.steampowered.com/app/3595320
+==================================================
+
+==================================================
+Name: Skrrt Racing
+Release Date: May 15, 2026
+Price: $6.99
+Genres: Casual, Indie, Racing
+Link: https://store.steampowered.com/app/4645490
+==================================================
+
+==================================================
+Name: A Lucky Hunt With : Aella
+Release Date: May 15, 2026
+Price: $2.99
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4631010
+==================================================
+
+==================================================
+Name: Kill Source: Neon Hemorrhage
+Release Date: May 15, 2026
+Price: $5.39 (-10%, was $5.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4590020
+==================================================
+
