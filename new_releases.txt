@@ -15424,3 +15424,86 @@ Genres: Action, Adventure, Indie, RPG
 Link: https://store.steampowered.com/app/4265120
 ==================================================
 
+
+--- Run: 2026-05-15 08:35:34 --- (10 new game(s) found)
+
+==================================================
+Name: Deathplane
+Release Date: May 15, 2026
+Price: $1.72 (-25%, was $2.30)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/3925420
+==================================================
+
+==================================================
+Name: Mushroom Simulator Co-op
+Release Date: May 15, 2026
+Price: $2.69 (-10%, was $2.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4565430
+==================================================
+
+==================================================
+Name: Adventurer Liena: The Targeted Girl and Her Boyfriend
+Release Date: May 15, 2026
+Price: $8.09 (-10%, was $8.99)
+Genres: Casual, Indie, RPG
+Link: https://store.steampowered.com/app/4093190
+==================================================
+
+==================================================
+Name: Xeno Finder
+Release Date: May 15, 2026
+Price: Free to Play
+Genres: Casual, Indie, Simulation, Free To Play
+Link: https://store.steampowered.com/app/4591390
+==================================================
+
+==================================================
+Name: Life on Mars (MiZtyl)
+Release Date: May 15, 2026
+Price: $11.99 (-20%, was $14.99)
+Genres: Indie
+Link: https://store.steampowered.com/app/3015250
+==================================================
+
+==================================================
+Name: The Island of Doctor Morose
+Release Date: May 14, 2026
+Price: $9.99
+Genres: Adventure
+Link: https://store.steampowered.com/app/3788120
+==================================================
+
+==================================================
+Name: Solo Defending
+Release Date: May 14, 2026
+Price: $2.69 (-10%, was $2.99)
+Genres: Action, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/4650780
+==================================================
+
+==================================================
+Name: Monkey See, Monkey Doo, Monkey Kiss You
+Release Date: May 14, 2026
+Price: $7.99
+Genres: Action, Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/2899880
+==================================================
+
+==================================================
+Name: Somewhere Café
+Release Date: May 14, 2026
+Price: $6.79 (-15%, was $7.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4629400
+==================================================
+
+==================================================
+Name: Super Strike Champions
+Release Date: May 14, 2026
+Price: $11.99
+Genres: Action, Casual, Indie, Sports
+Link: https://store.steampowered.com/app/4242770
+==================================================
+
