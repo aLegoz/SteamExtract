@@ -16086,3 +16086,22 @@ Genres: Action, Casual, Indie, Strategy
 Link: https://store.steampowered.com/app/4588370
 ==================================================
 
+
+--- Run: 2026-05-16 07:45:30 --- (2 new game(s) found)
+
+==================================================
+Name: Sic Bo Macau: The Ultimate Casino Dice Game
+Release Date: May 15, 2026
+Price: $3.99
+Genres: Casual, Simulation
+Link: https://store.steampowered.com/app/4662900
+==================================================
+
+==================================================
+Name: Deephold
+Release Date: May 15, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4642610
+==================================================
+
