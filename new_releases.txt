@@ -16043,3 +16043,46 @@ Genres: Adventure, Indie, RPG
 Link: https://store.steampowered.com/app/4624790
 ==================================================
 
+
+--- Run: 2026-05-16 05:17:09 --- (5 new game(s) found)
+
+==================================================
+Name: Mogitate: Bearing Fruit
+Release Date: May 15, 2026
+Price: $10.39 (-20%, was $12.99)
+Genres: Adventure, Casual, RPG
+Link: https://store.steampowered.com/app/4486310
+==================================================
+
+==================================================
+Name: Succubus Survivors
+Release Date: May 15, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Action, Adventure, Casual, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/4223590
+==================================================
+
+==================================================
+Name: 开局养成满级修士
+Release Date: May 15, 2026
+Price: $2.09 (-30%, was $2.99)
+Genres: Casual, Simulation, Strategy
+Link: https://store.steampowered.com/app/4626410
+==================================================
+
+==================================================
+Name: My Scout Life
+Release Date: May 15, 2026
+Price: $3.20 (-20%, was $4.00)
+Genres: Casual, Simulation, Sports
+Link: https://store.steampowered.com/app/4577630
+==================================================
+
+==================================================
+Name: Seed Defender
+Release Date: May 15, 2026
+Price: $4.99
+Genres: Action, Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4588370
+==================================================
+
