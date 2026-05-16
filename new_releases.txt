@@ -16016,3 +16016,30 @@ Genres: Adventure, Indie
 Link: https://store.steampowered.com/app/4362760
 ==================================================
 
+
+--- Run: 2026-05-16 01:47:06 --- (3 new game(s) found)
+
+==================================================
+Name: Hentai Age Desert
+Release Date: May 15, 2026
+Price: $0.79 (-20%, was $0.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4654710
+==================================================
+
+==================================================
+Name: SiNiSistar 2
+Release Date: May 15, 2026
+Price: $11.99 (-20%, was $14.99)
+Genres: Action, Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/4466620
+==================================================
+
+==================================================
+Name: Lost Totem Trajipon!
+Release Date: May 15, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/4624790
+==================================================
+
