@@ -16195,3 +16195,14 @@ Genres: Casual
 Link: https://store.steampowered.com/app/4646130
 ==================================================
 
+
+--- Run: 2026-05-16 19:54:15 --- (1 new game(s) found)
+
+==================================================
+Name: No Roads: 4×4 Off-Road Challenge
+Release Date: May 16, 2026
+Price: $7.49 (-25%, was $9.99)
+Genres: Casual, Racing, Simulation, Sports
+Link: https://store.steampowered.com/app/4154250
+==================================================
+
