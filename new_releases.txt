@@ -16279,3 +16279,14 @@ Genres: Casual, RPG
 Link: https://store.steampowered.com/app/3332830
 ==================================================
 
+
+--- Run: 2026-05-16 23:39:23 --- (1 new game(s) found)
+
+==================================================
+Name: Hipermercado de Seme - The game: O jogo
+Release Date: May 16, 2026
+Price: $3.99
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/4303940
+==================================================
+
