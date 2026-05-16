@@ -16135,3 +16135,14 @@ Genres: Action, Adventure, Casual, Indie, Sports
 Link: https://store.steampowered.com/app/4560920
 ==================================================
 
+
+--- Run: 2026-05-16 14:16:58 --- (1 new game(s) found)
+
+==================================================
+Name: MONOPHOBIA
+Release Date: May 16, 2026
+Price: Free to Play
+Genres: Adventure, Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/4372240
+==================================================
+
