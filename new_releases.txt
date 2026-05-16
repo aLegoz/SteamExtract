@@ -16268,3 +16268,14 @@ Genres: Audio Production, Utilities
 Link: https://store.steampowered.com/app/4501860
 ==================================================
 
+
+--- Run: 2026-05-16 22:34:03 --- (1 new game(s) found)
+
+==================================================
+Name: Mr Right Simulator
+Release Date: May 16, 2026
+Price: $11.69 (-10%, was $12.99)
+Genres: Casual, RPG
+Link: https://store.steampowered.com/app/3332830
+==================================================
+
