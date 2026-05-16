@@ -16146,3 +16146,14 @@ Genres: Adventure, Casual, Indie, Free To Play
 Link: https://store.steampowered.com/app/4372240
 ==================================================
 
+
+--- Run: 2026-05-16 15:45:22 --- (1 new game(s) found)
+
+==================================================
+Name: Cave Crashers
+Release Date: May 16, 2026
+Price: Free to Play
+Genres: Action, Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/4329790
+==================================================
+
