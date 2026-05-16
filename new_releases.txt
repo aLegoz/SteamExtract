@@ -16105,3 +16105,14 @@ Genres: Casual, Indie, Strategy
 Link: https://store.steampowered.com/app/4642610
 ==================================================
 
+
+--- Run: 2026-05-16 10:52:57 --- (1 new game(s) found)
+
+==================================================
+Name: Penis Simulator
+Release Date: May 15, 2026
+Price: $1.99
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4567630
+==================================================
+
