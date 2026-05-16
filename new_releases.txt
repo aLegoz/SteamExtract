@@ -16176,3 +16176,22 @@ Genres: Strategy, Free To Play
 Link: https://store.steampowered.com/app/3686400
 ==================================================
 
+
+--- Run: 2026-05-16 17:44:29 --- (2 new game(s) found)
+
+==================================================
+Name: Femboy Next Door 🔞🚪
+Release Date: May 16, 2026
+Price: $9.59 (-36%, was $14.99)
+Genres: Adventure, Casual, RPG, Simulation
+Link: https://store.steampowered.com/app/4450550
+==================================================
+
+==================================================
+Name: Green Clicker
+Release Date: May 16, 2026
+Price: $0.99
+Genres: Casual
+Link: https://store.steampowered.com/app/4646130
+==================================================
+
