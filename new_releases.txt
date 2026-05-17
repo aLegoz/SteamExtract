@@ -16388,3 +16388,22 @@ Genres: Casual, Indie
 Link: https://store.steampowered.com/app/4674730
 ==================================================
 
+
+--- Run: 2026-05-17 18:49:43 --- (2 new game(s) found)
+
+==================================================
+Name: Forgotten Depths
+Release Date: May 17, 2026
+Price: $3.59 (-10%, was $3.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/4598880
+==================================================
+
+==================================================
+Name: Yurei: Ink of the Damned
+Release Date: May 17, 2026
+Price: Free to Play
+Genres: Adventure, Indie, Free To Play
+Link: https://store.steampowered.com/app/4372880
+==================================================
+
