@@ -16331,3 +16331,22 @@ Genres: Casual, Indie, Free To Play
 Link: https://store.steampowered.com/app/4443800
 ==================================================
 
+
+--- Run: 2026-05-17 15:47:54 --- (2 new game(s) found)
+
+==================================================
+Name: Hamster’s Sticker Book
+Release Date: May 17, 2026
+Price: Free to Play
+Genres: Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/4281140
+==================================================
+
+==================================================
+Name: Ashes of Holloway Bay
+Release Date: May 17, 2026
+Price: $8.49 (-15%, was $9.99)
+Genres: Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/4651320
+==================================================
+
