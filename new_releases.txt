@@ -16301,3 +16301,22 @@ Genres: Adventure, Indie
 Link: https://store.steampowered.com/app/4599890
 ==================================================
 
+
+--- Run: 2026-05-17 05:38:35 --- (2 new game(s) found)
+
+==================================================
+Name: Pinball Tide
+Release Date: May 16, 2026
+Price: $4.19 (-30%, was $5.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4611750
+==================================================
+
+==================================================
+Name: Offroad Frontiers
+Release Date: May 16, 2026
+Price: $14.99
+Genres: Racing, Simulation
+Link: https://store.steampowered.com/app/4584440
+==================================================
+
