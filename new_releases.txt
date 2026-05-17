@@ -16369,3 +16369,22 @@ Genres: Casual, Indie
 Link: https://store.steampowered.com/app/4565750
 ==================================================
 
+
+--- Run: 2026-05-17 17:45:14 --- (2 new game(s) found)
+
+==================================================
+Name: 100 Factory Cats
+Release Date: May 17, 2026
+Price: $1.33 (-33%, was $1.99)
+Genres: Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/4324620
+==================================================
+
+==================================================
+Name: Hentai Clicker: Raven is streaming
+Release Date: May 17, 2026
+Price: $2.00 (-33%, was $2.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4674730
+==================================================
+
