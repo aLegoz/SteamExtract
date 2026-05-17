@@ -16350,3 +16350,22 @@ Genres: Adventure, Indie, Simulation
 Link: https://store.steampowered.com/app/4651320
 ==================================================
 
+
+--- Run: 2026-05-17 16:43:04 --- (2 new game(s) found)
+
+==================================================
+Name: 6600：The Park
+Release Date: May 17, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4651880
+==================================================
+
+==================================================
+Name: Mr. President We Have A Situation!
+Release Date: May 17, 2026
+Price: $1.49 (-25%, was $1.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4565750
+==================================================
+
