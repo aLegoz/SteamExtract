@@ -16320,3 +16320,14 @@ Genres: Racing, Simulation
 Link: https://store.steampowered.com/app/4584440
 ==================================================
 
+
+--- Run: 2026-05-17 10:15:51 --- (1 new game(s) found)
+
+==================================================
+Name: Cyber Units
+Release Date: May 17, 2026
+Price: Free to Play
+Genres: Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/4443800
+==================================================
+
