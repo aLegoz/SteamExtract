@@ -16437,3 +16437,22 @@ Genres: Casual
 Link: https://store.steampowered.com/app/3878820
 ==================================================
 
+
+--- Run: 2026-05-17 22:41:04 --- (2 new game(s) found)
+
+==================================================
+Name: Panthalassa
+Release Date: May 17, 2026
+Price: $12.59 (-10%, was $13.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/2955720
+==================================================
+
+==================================================
+Name: It Reaches
+Release Date: May 17, 2026
+Price: $13.49 (-10%, was $14.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4119360
+==================================================
+
