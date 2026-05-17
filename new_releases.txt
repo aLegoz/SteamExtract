@@ -16418,3 +16418,22 @@ Genres: Action, Adventure, Indie
 Link: https://store.steampowered.com/app/4213880
 ==================================================
 
+
+--- Run: 2026-05-17 20:47:17 --- (2 new game(s) found)
+
+==================================================
+Name: Lucifer's Grand Adventure
+Release Date: May 17, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Action
+Link: https://store.steampowered.com/app/3712250
+==================================================
+
+==================================================
+Name: Quizy Peasy
+Release Date: May 17, 2026
+Price: $10.49 (-30%, was $14.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/3878820
+==================================================
+
