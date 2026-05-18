@@ -16548,3 +16548,70 @@ Genres: Casual, Indie
 Link: https://store.steampowered.com/app/4595030
 ==================================================
 
+
+--- Run: 2026-05-18 14:23:28 --- (8 new game(s) found)
+
+==================================================
+Name: Lighthouse Duty With Tsundere
+Release Date: May 18, 2026
+Price: $6.39 (-20%, was $7.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4653570
+==================================================
+
+==================================================
+Name: Frostland
+Release Date: May 18, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4568090
+==================================================
+
+==================================================
+Name: Crazy Oddballs: Idle RPG
+Release Date: May 18, 2026
+Price: Free to Play
+Genres: Action, Adventure, Casual, Indie, Massively Multiplayer, RPG, Free To Play
+Link: https://store.steampowered.com/app/4507620
+==================================================
+
+==================================================
+Name: Without A Doubt
+Release Date: May 18, 2026
+Price: $1.59 (-20%, was $1.99)
+Genres: Indie
+Link: https://store.steampowered.com/app/3962000
+==================================================
+
+==================================================
+Name: Deskpet Engine
+Release Date: May 18, 2026
+Price: $1.79 (-40%, was $2.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4644660
+==================================================
+
+==================================================
+Name: Clicky Bunny
+Release Date: May 18, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4337900
+==================================================
+
+==================================================
+Name: Artificial Dawn
+Release Date: May 17, 2026
+Price: $0.99
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4681020
+==================================================
+
+==================================================
+Name: Humans Vs Orcs
+Release Date: May 17, 2026
+Price: $4.99
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4455950
+==================================================
+
