@@ -16615,3 +16615,126 @@ Genres: Casual, Indie
 Link: https://store.steampowered.com/app/4455950
 ==================================================
 
+
+--- Run: 2026-05-18 17:24:00 --- (15 new game(s) found)
+
+==================================================
+Name: Crush The Rebellion!
+Release Date: May 18, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/3824050
+==================================================
+
+==================================================
+Name: Corsairs - Battle of the Caribbean
+Release Date: May 18, 2026
+Price: $11.99 (-20%, was $14.99)
+Genres: Strategy
+Link: https://store.steampowered.com/app/2397510
+==================================================
+
+==================================================
+Name: Hardware Tycoon
+Release Date: May 18, 2026
+Price: $10.79 (-10%, was $11.99)
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4490710
+==================================================
+
+==================================================
+Name: Re:Blade
+Release Date: May 18, 2026
+Price: $3.19 (-20%, was $3.99)
+Genres: Action, Casual, Indie, RPG
+Link: https://store.steampowered.com/app/3421660
+==================================================
+
+==================================================
+Name: The Dead Await
+Release Date: May 18, 2026
+Price: $8.44 (-35%, was $12.99)
+Genres: Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/2393580
+==================================================
+
+==================================================
+Name: Thrifty Business
+Release Date: May 18, 2026
+Price: $11.69 (-10%, was $12.99)
+Genres: Casual, Simulation
+Link: https://store.steampowered.com/app/3693650
+==================================================
+
+==================================================
+Name: Where Is Lena?
+Release Date: May 18, 2026
+Price: $7.19 (-20%, was $8.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4196000
+==================================================
+
+==================================================
+Name: At Night: Haunted Ride
+Release Date: May 18, 2026
+Price: $7.11 (-11%, was $7.99)
+Genres: Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/4577180
+==================================================
+
+==================================================
+Name: Dwarf Eats Mountain
+Release Date: May 18, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4078200
+==================================================
+
+==================================================
+Name: NAMAKORIUM (ナマコリウム)
+Release Date: May 18, 2026
+Price: $7.19 (-40%, was $11.99)
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/3866920
+==================================================
+
+==================================================
+Name: IT's for Adults 🤡
+Release Date: May 18, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Action, Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4157770
+==================================================
+
+==================================================
+Name: WorldShaper Idle
+Release Date: May 18, 2026
+Price: $6.79 (-15%, was $7.99)
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/2562020
+==================================================
+
+==================================================
+Name: Claiming the Noble Elf Mother
+Release Date: May 18, 2026
+Price: $8.99
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4381280
+==================================================
+
+==================================================
+Name: Triangles
+Release Date: May 18, 2026
+Price: $9.99
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4594920
+==================================================
+
+==================================================
+Name: Skillful Pixel Dungeon
+Release Date: May 18, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/4696680
+==================================================
+
