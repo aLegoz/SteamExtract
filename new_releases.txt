@@ -16738,3 +16738,22 @@ Genres: Adventure, Indie, RPG
 Link: https://store.steampowered.com/app/4696680
 ==================================================
 
+
+--- Run: 2026-05-18 19:20:36 --- (2 new game(s) found)
+
+==================================================
+Name: Legend of Hiraq
+Release Date: May 18, 2026
+Price: $8.99
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/3630620
+==================================================
+
+==================================================
+Name: The Anomaly Detective
+Release Date: May 18, 2026
+Price: $3.59 (-10%, was $3.99)
+Genres: Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/4181340
+==================================================
+
