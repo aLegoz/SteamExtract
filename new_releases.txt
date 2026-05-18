@@ -16475,3 +16475,14 @@ Genres: Casual, Indie
 Link: https://store.steampowered.com/app/4674070
 ==================================================
 
+
+--- Run: 2026-05-18 02:00:29 --- (1 new game(s) found)
+
+==================================================
+Name: Ice River
+Release Date: May 17, 2026
+Price: $5.09 (-15%, was $5.99)
+Genres: Adventure
+Link: https://store.steampowered.com/app/3614170
+==================================================
+
