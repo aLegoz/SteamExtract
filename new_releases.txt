@@ -16513,3 +16513,38 @@ Genres: Action, Adventure
 Link: https://store.steampowered.com/app/4681310
 ==================================================
 
+
+--- Run: 2026-05-18 10:54:01 --- (4 new game(s) found)
+
+==================================================
+Name: Nightmare Fishing Tournament
+Release Date: May 18, 2026
+Price: Free to Play
+Genres: Action, Adventure, Simulation, Sports, Free To Play
+Link: https://store.steampowered.com/app/4694350
+==================================================
+
+==================================================
+Name: SKELOST
+Release Date: May 18, 2026
+Price: Free to Play
+Genres: Action, Adventure, Indie, Free To Play
+Link: https://store.steampowered.com/app/1551460
+==================================================
+
+==================================================
+Name: Shikhondo: Blue Pieta
+Release Date: May 18, 2026
+Price: $19.99 (-20%, was $24.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4445060
+==================================================
+
+==================================================
+Name: Typing Idler
+Release Date: May 18, 2026
+Price: $1.99
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4595030
+==================================================
+
