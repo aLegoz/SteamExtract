@@ -16757,3 +16757,70 @@ Genres: Adventure, Indie, Simulation
 Link: https://store.steampowered.com/app/4181340
 ==================================================
 
+
+--- Run: 2026-05-18 23:53:52 --- (8 new game(s) found)
+
+==================================================
+Name: Technically Frogs Can Fly
+Release Date: May 18, 2026
+Price: $3.39 (-15%, was $3.99)
+Genres: Action, Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/3406840
+==================================================
+
+==================================================
+Name: R-Type Dimensions III
+Release Date: May 18, 2026
+Price: $34.99
+Genres: Action
+Link: https://store.steampowered.com/app/4165620
+==================================================
+
+==================================================
+Name: Yomifuda: Kanji Survivors
+Release Date: May 18, 2026
+Price: $1.79 (-10%, was $1.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4276660
+==================================================
+
+==================================================
+Name: Penguin Capitalism Simulator
+Release Date: May 18, 2026
+Price: $6.15 (-12%, was $6.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4386810
+==================================================
+
+==================================================
+Name: Midnight Escape
+Release Date: May 18, 2026
+Price: $5.99 (-40%, was $9.99)
+Genres: Indie
+Link: https://store.steampowered.com/app/3739620
+==================================================
+
+==================================================
+Name: Vacation Adventures: Park Ranger 18 Collectors Edition
+Release Date: May 18, 2026
+Price: $9.99
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4655410
+==================================================
+
+==================================================
+Name: Skin Lure
+Release Date: May 18, 2026
+Price: $3.00
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/4637070
+==================================================
+
+==================================================
+Name: Big Bad Soccer
+Release Date: May 18, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Action, Indie, Sports
+Link: https://store.steampowered.com/app/3200940
+==================================================
+
