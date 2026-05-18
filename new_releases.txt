@@ -16486,3 +16486,30 @@ Genres: Adventure
 Link: https://store.steampowered.com/app/3614170
 ==================================================
 
+
+--- Run: 2026-05-18 06:41:38 --- (3 new game(s) found)
+
+==================================================
+Name: Dawn Village
+Release Date: May 18, 2026
+Price: $11.69 (-10%, was $12.99)
+Genres: Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4310110
+==================================================
+
+==================================================
+Name: Welcome to Elite Cafe
+Release Date: May 17, 2026
+Price: $8.99
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4434680
+==================================================
+
+==================================================
+Name: Sara The Sexy Thief In The Mysterious Mansion
+Release Date: May 17, 2026
+Price: $9.99
+Genres: Action, Adventure
+Link: https://store.steampowered.com/app/4681310
+==================================================
+
