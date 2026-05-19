@@ -17109,3 +17109,22 @@ Genres: Casual, Strategy
 Link: https://store.steampowered.com/app/4564900
 ==================================================
 
+
+--- Run: 2026-05-19 22:03:49 --- (2 new game(s) found)
+
+==================================================
+Name: 93, Kuindzhi
+Release Date: May 19, 2026
+Price: Free to Play
+Genres: Adventure, Indie, Free To Play
+Link: https://store.steampowered.com/app/4275420
+==================================================
+
+==================================================
+Name: Winnie-the-Pooh Hops for Honey
+Release Date: May 19, 2026
+Price: $4.99
+Genres: Action, Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/3701910
+==================================================
+
