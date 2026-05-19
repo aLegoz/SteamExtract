@@ -16910,3 +16910,30 @@ Genres: RPG, Strategy, Free To Play
 Link: https://store.steampowered.com/app/4501880
 ==================================================
 
+
+--- Run: 2026-05-19 10:29:16 --- (3 new game(s) found)
+
+==================================================
+Name: Armu's Sokoban Adventure
+Release Date: May 19, 2026
+Price: $2.70 (-10%, was $3.00)
+Genres: Indie
+Link: https://store.steampowered.com/app/4671490
+==================================================
+
+==================================================
+Name: 事務所4649(Office4649)
+Release Date: May 19, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4278200
+==================================================
+
+==================================================
+Name: Earned Today
+Release Date: May 19, 2026
+Price: $0.84 (-15%, was $0.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/4693570
+==================================================
+
