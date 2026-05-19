@@ -17128,3 +17128,22 @@ Genres: Action, Adventure, Casual, Indie
 Link: https://store.steampowered.com/app/3701910
 ==================================================
 
+
+--- Run: 2026-05-19 23:51:55 --- (2 new game(s) found)
+
+==================================================
+Name: Broken Shores
+Release Date: May 19, 2026
+Price: $15.99
+Genres: Simulation
+Link: https://store.steampowered.com/app/3067440
+==================================================
+
+==================================================
+Name: Memories : Silenced
+Release Date: May 19, 2026
+Price: $5.09 (-15%, was $5.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4307260
+==================================================
+
