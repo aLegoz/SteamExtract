@@ -17066,3 +17066,46 @@ Genres: Casual
 Link: https://store.steampowered.com/app/3735120
 ==================================================
 
+
+--- Run: 2026-05-19 20:22:26 --- (5 new game(s) found)
+
+==================================================
+Name: Scoundrel
+Release Date: May 19, 2026
+Price: $2.99
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4643520
+==================================================
+
+==================================================
+Name: Bird Cage
+Release Date: May 19, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/1828330
+==================================================
+
+==================================================
+Name: Spirit Cleansers
+Release Date: May 19, 2026
+Price: Free to Play
+Genres: Strategy, Free To Play
+Link: https://store.steampowered.com/app/4508350
+==================================================
+
+==================================================
+Name: Mittelland AD Origins
+Release Date: May 19, 2026
+Price: $2.99
+Genres: RPG, Simulation, Strategy
+Link: https://store.steampowered.com/app/4511540
+==================================================
+
+==================================================
+Name: Drill-Ceratops
+Release Date: May 19, 2026
+Price: $2.24 (-25%, was $2.99)
+Genres: Casual, Strategy
+Link: https://store.steampowered.com/app/4564900
+==================================================
+
