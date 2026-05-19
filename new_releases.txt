@@ -16988,3 +16988,54 @@ Genres: Action, Simulation
 Link: https://store.steampowered.com/app/4683240
 ==================================================
 
+
+--- Run: 2026-05-19 16:42:50 --- (6 new game(s) found)
+
+==================================================
+Name: Teeworlds : Archive
+Release Date: Coming soon
+Price: Free to Play
+Genres: Action, Indie, Free To Play
+Link: https://store.steampowered.com/app/4640030
+==================================================
+
+==================================================
+Name: INKOCHET: Paint The Walls With Your Arrows!
+Release Date: May 19, 2026
+Price: Free to Play
+Genres: Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/4691090
+==================================================
+
+==================================================
+Name: Wilder Bound - 荒野拼图
+Release Date: May 19, 2026
+Price: $1.59 (-20%, was $1.99)
+Genres: Casual, Strategy
+Link: https://store.steampowered.com/app/3185420
+==================================================
+
+==================================================
+Name: Roadhouse Simulator - Prologue
+Release Date: May 19, 2026
+Price: Free to Play
+Genres: Casual, Indie, Simulation, Free To Play
+Link: https://store.steampowered.com/app/4417950
+==================================================
+
+==================================================
+Name: Rune Dice
+Release Date: May 19, 2026
+Price: $12.74 (-15%, was $14.99)
+Genres: Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/3542380
+==================================================
+
+==================================================
+Name: LIT Creature Forge
+Release Date: May 19, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Simulation
+Link: https://store.steampowered.com/app/4701600
+==================================================
+
