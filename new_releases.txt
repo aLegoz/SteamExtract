@@ -16824,3 +16824,62 @@ Genres: Action, Indie, Sports
 Link: https://store.steampowered.com/app/3200940
 ==================================================
 
+
+--- Run: 2026-05-19 02:00:18 --- (7 new game(s) found)
+
+==================================================
+Name: Potion Portion
+Release Date: May 18, 2026
+Price: $1.99
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4559180
+==================================================
+
+==================================================
+Name: Girls' Dorm -Managing an all-girls' dormitory- After
+Release Date: May 18, 2026
+Price: $11.99 (-20%, was $14.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/3690270
+==================================================
+
+==================================================
+Name: Girls' Dorm -Managing an all-girls' dormitory-
+Release Date: May 18, 2026
+Price: $11.99 (-20%, was $14.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/3690260
+==================================================
+
+==================================================
+Name: Anything But A Gun
+Release Date: May 18, 2026
+Price: Free to Play
+Genres: Action, Indie, Free To Play
+Link: https://store.steampowered.com/app/4413900
+==================================================
+
+==================================================
+Name: Hidden Weekend: The American Getaway Collector's Edition
+Release Date: May 18, 2026
+Price: $10.79 (-10%, was $11.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4650920
+==================================================
+
+==================================================
+Name: Home Rescue: Clean and Restore Collector's Edition
+Release Date: May 18, 2026
+Price: $10.79 (-10%, was $11.99)
+Genres: Adventure, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4650930
+==================================================
+
+==================================================
+Name: Typegrinder
+Release Date: May 18, 2026
+Price: $2.99 (-40%, was $4.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4660950
+==================================================
+
