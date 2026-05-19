@@ -16883,3 +16883,30 @@ Genres: Action, Casual, Indie
 Link: https://store.steampowered.com/app/4660950
 ==================================================
 
+
+--- Run: 2026-05-19 06:09:42 --- (3 new game(s) found)
+
+==================================================
+Name: Hello Duck
+Release Date: May 18, 2026
+Price: $3.99
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4663380
+==================================================
+
+==================================================
+Name: Afternoon Frontline
+Release Date: May 18, 2026
+Price: Free to Play
+Genres: Indie, Free To Play
+Link: https://store.steampowered.com/app/4366380
+==================================================
+
+==================================================
+Name: Infinite Galgame
+Release Date: May 18, 2026
+Price: Free to Play
+Genres: RPG, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4501880
+==================================================
+
