@@ -17039,3 +17039,30 @@ Genres: Simulation
 Link: https://store.steampowered.com/app/4701600
 ==================================================
 
+
+--- Run: 2026-05-19 18:50:35 --- (3 new game(s) found)
+
+==================================================
+Name: MARINE.EXE - Desktop RPG
+Release Date: May 19, 2026
+Price: $6.99
+Genres: Indie, RPG
+Link: https://store.steampowered.com/app/4299590
+==================================================
+
+==================================================
+Name: Membrillo Hid My Socks
+Release Date: May 19, 2026
+Price: Free to Play
+Genres: Adventure, Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/4075590
+==================================================
+
+==================================================
+Name: Eden Coil
+Release Date: May 19, 2026
+Price: $1.79 (-40%, was $2.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/3735120
+==================================================
+
