@@ -16937,3 +16937,54 @@ Genres: Casual
 Link: https://store.steampowered.com/app/4693570
 ==================================================
 
+
+--- Run: 2026-05-19 13:47:51 --- (6 new game(s) found)
+
+==================================================
+Name: Moksha
+Release Date: Coming soon
+Price: Free to Play
+Genres: Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/4629750
+==================================================
+
+==================================================
+Name: The Last Voyage of the SS Aurelia
+Release Date: May 19, 2026
+Price: $12.74 (-15%, was $14.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4615680
+==================================================
+
+==================================================
+Name: Ratalorica
+Release Date: May 19, 2026
+Price: $3.49 (-30%, was $4.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4592560
+==================================================
+
+==================================================
+Name: Trees Inc
+Release Date: May 19, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4634910
+==================================================
+
+==================================================
+Name: 三生忆梦(Dream Of Three Lives)
+Release Date: May 19, 2026
+Price: $2.09 (-30%, was $2.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4682490
+==================================================
+
+==================================================
+Name: Modern Artillery Strike
+Release Date: May 19, 2026
+Price: $5.99
+Genres: Action, Simulation
+Link: https://store.steampowered.com/app/4683240
+==================================================
+
