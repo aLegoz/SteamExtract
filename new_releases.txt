@@ -17442,3 +17442,62 @@ Genres: Adventure, Casual, Indie
 Link: https://store.steampowered.com/app/4671940
 ==================================================
 
+
+--- Run: 2026-05-20 19:11:24 --- (7 new game(s) found)
+
+==================================================
+Name: Vasilisa
+Release Date: May 20, 2026
+Price: $5.52 (-21%, was $6.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/3550710
+==================================================
+
+==================================================
+Name: Echo Isle
+Release Date: May 20, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Action, Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4290470
+==================================================
+
+==================================================
+Name: Palliative - Reach for an Angel
+Release Date: May 20, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Adventure, Simulation
+Link: https://store.steampowered.com/app/1807740
+==================================================
+
+==================================================
+Name: Cosmic Run
+Release Date: May 20, 2026
+Price: $9.89 (-10%, was $10.99)
+Genres: Action, Indie, Strategy
+Link: https://store.steampowered.com/app/3770700
+==================================================
+
+==================================================
+Name: Gator Hucker
+Release Date: May 20, 2026
+Price: Free to Play
+Genres: Action, Free To Play
+Link: https://store.steampowered.com/app/4646860
+==================================================
+
+==================================================
+Name: Desktop Nard: Dice Idle
+Release Date: May 20, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Action, Casual, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/4330860
+==================================================
+
+==================================================
+Name: PeeWee Purpdrank's FOENEM Clicker
+Release Date: May 20, 2026
+Price: $2.99
+Genres: Casual
+Link: https://store.steampowered.com/app/4651030
+==================================================
+
