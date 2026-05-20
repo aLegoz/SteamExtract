@@ -17501,3 +17501,78 @@ Genres: Casual
 Link: https://store.steampowered.com/app/4651030
 ==================================================
 
+
+--- Run: 2026-05-20 21:28:26 --- (9 new game(s) found)
+
+==================================================
+Name: ROGUETRIP
+Release Date: May 20, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Action, Indie, Racing
+Link: https://store.steampowered.com/app/4686280
+==================================================
+
+==================================================
+Name: All Pro Golf
+Release Date: May 20, 2026
+Price: $0.99
+Genres: Casual, Sports
+Link: https://store.steampowered.com/app/4610020
+==================================================
+
+==================================================
+Name: Warrens Of Random
+Release Date: May 20, 2026
+Price: $4.99
+Genres: Adventure, Indie, Strategy
+Link: https://store.steampowered.com/app/4098870
+==================================================
+
+==================================================
+Name: KASAP
+Release Date: May 20, 2026
+Price: $2.99 (-25%, was $3.99)
+Genres: Indie
+Link: https://store.steampowered.com/app/3651880
+==================================================
+
+==================================================
+Name: Hearts Above the Line
+Release Date: May 20, 2026
+Price: $4.19 (-40%, was $6.99)
+Genres: Adventure, Simulation
+Link: https://store.steampowered.com/app/4672360
+==================================================
+
+==================================================
+Name: Bench Simulator
+Release Date: May 20, 2026
+Price: $2.99
+Genres: Adventure, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4697430
+==================================================
+
+==================================================
+Name: Allure Rush
+Release Date: May 20, 2026
+Price: $7.99
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4689590
+==================================================
+
+==================================================
+Name: Against The Light
+Release Date: May 20, 2026
+Price: $5.99
+Genres: Indie
+Link: https://store.steampowered.com/app/4669150
+==================================================
+
+==================================================
+Name: Grill Girl
+Release Date: May 20, 2026
+Price: $1.50
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4653650
+==================================================
+
