@@ -17190,3 +17190,22 @@ Genres: Adventure, Indie, Free To Play
 Link: https://store.steampowered.com/app/4640200
 ==================================================
 
+
+--- Run: 2026-05-20 06:09:09 --- (2 new game(s) found)
+
+==================================================
+Name: Cliché Horror 2000s: The Witch’s Lair
+Release Date: May 19, 2026
+Price: $5.99
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/4332080
+==================================================
+
+==================================================
+Name: Pain Pain Go Away!
+Release Date: May 19, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/3127750
+==================================================
+
