@@ -17359,3 +17359,86 @@ Genres: Casual, Simulation, Strategy
 Link: https://store.steampowered.com/app/4699200
 ==================================================
 
+
+--- Run: 2026-05-20 16:44:05 --- (10 new game(s) found)
+
+==================================================
+Name: GooNECT√2
+Release Date: May 20, 2026
+Price: $15.99 (-20%, was $19.99)
+Genres: Action, Casual
+Link: https://store.steampowered.com/app/4258070
+==================================================
+
+==================================================
+Name: P-PAN
+Release Date: May 20, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/3891080
+==================================================
+
+==================================================
+Name: Thick As Thieves
+Release Date: May 20, 2026
+Price: $4.99
+Genres: Action, Indie, Simulation
+Link: https://store.steampowered.com/app/3341000
+==================================================
+
+==================================================
+Name: Lover's Enigma
+Release Date: May 20, 2026
+Price: $11.99
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/3123540
+==================================================
+
+==================================================
+Name: Bloodweight
+Release Date: May 20, 2026
+Price: $14.99
+Genres: Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4522140
+==================================================
+
+==================================================
+Name: Psyvariar 3
+Release Date: May 20, 2026
+Price: $15.99 (-20%, was $19.99)
+Genres: Action
+Link: https://store.steampowered.com/app/4019130
+==================================================
+
+==================================================
+Name: A Dogday Odyssey
+Release Date: May 20, 2026
+Price: $5.87 (-16%, was $6.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4504930
+==================================================
+
+==================================================
+Name: Phonopolis
+Release Date: May 20, 2026
+Price: $22.49 (-10%, was $24.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/1206070
+==================================================
+
+==================================================
+Name: Mousify
+Release Date: May 20, 2026
+Price: $10.39 (-20%, was $12.99)
+Genres: Animation & Modeling, Design & Illustration, Education, Utilities, Video Production
+Link: https://store.steampowered.com/app/4571020
+==================================================
+
+==================================================
+Name: Enclaved
+Release Date: May 20, 2026
+Price: $3.74 (-25%, was $4.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4671940
+==================================================
+
