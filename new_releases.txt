@@ -17576,3 +17576,14 @@ Genres: Casual, Indie, Strategy
 Link: https://store.steampowered.com/app/4653650
 ==================================================
 
+
+--- Run: 2026-05-20 23:02:53 --- (1 new game(s) found)
+
+==================================================
+Name: Axis Escape
+Release Date: May 20, 2026
+Price: $3.49 (-30%, was $4.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4504020
+==================================================
+
