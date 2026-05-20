@@ -17209,3 +17209,86 @@ Genres: Adventure, Indie
 Link: https://store.steampowered.com/app/3127750
 ==================================================
 
+
+--- Run: 2026-05-20 10:16:17 --- (10 new game(s) found)
+
+==================================================
+Name: Infernal Battles
+Release Date: May 20, 2026
+Price: Free to Play
+Genres: Strategy, Free To Play
+Link: https://store.steampowered.com/app/3118140
+==================================================
+
+==================================================
+Name:  Last Crown Gambit
+Release Date: May 20, 2026
+Price: $5.09 (-15%, was $5.99)
+Genres: Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4554420
+==================================================
+
+==================================================
+Name: The Rise of the Dark Tower
+Release Date: May 20, 2026
+Price: $10.99
+Genres: Action, Casual, Indie, RPG
+Link: https://store.steampowered.com/app/3735680
+==================================================
+
+==================================================
+Name: Super Climb Up!!
+Release Date: May 20, 2026
+Price: $11.99
+Genres: Action
+Link: https://store.steampowered.com/app/4164030
+==================================================
+
+==================================================
+Name: RAGING BILL
+Release Date: May 19, 2026
+Price: $19.99
+Genres: Action, Adventure, Casual, Indie, Racing
+Link: https://store.steampowered.com/app/3710470
+==================================================
+
+==================================================
+Name: Bruce's Jetpack
+Release Date: May 19, 2026
+Price: $0.84 (-15%, was $0.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4416790
+==================================================
+
+==================================================
+Name: SoulBound - Lys Fragments
+Release Date: May 19, 2026
+Price: $1.75 (-30%, was $2.50)
+Genres: Action, RPG
+Link: https://store.steampowered.com/app/4698200
+==================================================
+
+==================================================
+Name: O Monumento
+Release Date: May 19, 2026
+Price: $4.99
+Genres: Indie
+Link: https://store.steampowered.com/app/4597990
+==================================================
+
+==================================================
+Name: Three Kingdoms Club Manager
+Release Date: May 19, 2026
+Price: $8.99
+Genres: Indie, RPG, Simulation, Sports, Strategy
+Link: https://store.steampowered.com/app/4172250
+==================================================
+
+==================================================
+Name: Provisional Authority: An AI Governance Simulation
+Release Date: May 19, 2026
+Price: $3.59 (-40%, was $5.99)
+Genres: Simulation, Strategy
+Link: https://store.steampowered.com/app/4532370
+==================================================
+
