@@ -17147,3 +17147,46 @@ Genres: Adventure, Casual, Indie
 Link: https://store.steampowered.com/app/4307260
 ==================================================
 
+
+--- Run: 2026-05-20 02:00:02 --- (5 new game(s) found)
+
+==================================================
+Name: BATTLE OF YOKAN
+Release Date: May 19, 2026
+Price: $0.99
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4493180
+==================================================
+
+==================================================
+Name: Auragami
+Release Date: May 19, 2026
+Price: Free to Play
+Genres: Indie, Free To Play
+Link: https://store.steampowered.com/app/4411940
+==================================================
+
+==================================================
+Name: Qiú 泅
+Release Date: May 19, 2026
+Price: Free to Play
+Genres: Adventure, Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/4441130
+==================================================
+
+==================================================
+Name: SpellCatcher
+Release Date: May 19, 2026
+Price: Free to Play
+Genres: Adventure, Casual, Indie, Simulation, Free To Play
+Link: https://store.steampowered.com/app/4551940
+==================================================
+
+==================================================
+Name: Without Regret
+Release Date: May 19, 2026
+Price: Free to Play
+Genres: Adventure, Indie, Free To Play
+Link: https://store.steampowered.com/app/4640200
+==================================================
+
