@@ -17292,3 +17292,70 @@ Genres: Simulation, Strategy
 Link: https://store.steampowered.com/app/4532370
 ==================================================
 
+
+--- Run: 2026-05-20 13:28:10 --- (8 new game(s) found)
+
+==================================================
+Name: Sporbs
+Release Date: May 20, 2026
+Price: $3.49 (-30%, was $4.99)
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4241840
+==================================================
+
+==================================================
+Name: Bouncy Weapons
+Release Date: May 20, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Action, Casual, RPG, Strategy
+Link: https://store.steampowered.com/app/4389400
+==================================================
+
+==================================================
+Name: Game about jetpack fly
+Release Date: May 20, 2026
+Price: $2.99
+Genres: Action, Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/3154610
+==================================================
+
+==================================================
+Name: Pharmacy Store Simulator
+Release Date: May 20, 2026
+Price: $8.09 (-10%, was $8.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4300150
+==================================================
+
+==================================================
+Name: Noun Town Language Learning
+Release Date: May 20, 2026
+Price: $14.99 (-25%, was $19.99)
+Genres: Adventure, Casual, Simulation
+Link: https://store.steampowered.com/app/2313720
+==================================================
+
+==================================================
+Name: Paozhong Legend
+Release Date: May 20, 2026
+Price: $1.20 (-20%, was $1.50)
+Genres: Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/4286580
+==================================================
+
+==================================================
+Name: Reap & Repay
+Release Date: May 20, 2026
+Price: $1.39 (-30%, was $1.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4259060
+==================================================
+
+==================================================
+Name: Server Farm Idle
+Release Date: May 20, 2026
+Price: $2.00 (-33%, was $2.99)
+Genres: Casual, Simulation, Strategy
+Link: https://store.steampowered.com/app/4699200
+==================================================
+
