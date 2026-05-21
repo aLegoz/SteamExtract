@@ -17622,3 +17622,102 @@ Genres: Indie
 Link: https://store.steampowered.com/app/4585260
 ==================================================
 
+
+--- Run: 2026-05-21 06:09:40 --- (12 new game(s) found)
+
+==================================================
+Name: Brew or Die
+Release Date: May 20, 2026
+Price: $5.39 (-40%, was $8.99)
+Genres: Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/3893830
+==================================================
+
+==================================================
+Name: Factory Reset
+Release Date: May 20, 2026
+Price: Free to Play
+Genres: Adventure, Indie, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4671640
+==================================================
+
+==================================================
+Name: HoRoyal 〜Hololive Battle Royal〜
+Release Date: May 20, 2026
+Price: Free to Play
+Genres: Action, Free To Play
+Link: https://store.steampowered.com/app/4449390
+==================================================
+
+==================================================
+Name: DONG WU: ODYSSEY
+Release Date: May 20, 2026
+Price: $5.39 (-10%, was $5.99)
+Genres: Adventure, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/4528830
+==================================================
+
+==================================================
+Name: REBELLION PRINCESS｜リベリオン プリンセス
+Release Date: May 20, 2026
+Price: $4.79 (-20%, was $5.99)
+Genres: Action, Strategy
+Link: https://store.steampowered.com/app/3944190
+==================================================
+
+==================================================
+Name: [빈 칸]
+Release Date: May 20, 2026
+Price: $2.54 (-15%, was $2.99)
+Genres: Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/3870810
+==================================================
+
+==================================================
+Name: 进击的打工人 Attack of the worker
+Release Date: May 20, 2026
+Price: $2.69 (-10%, was $2.99)
+Genres: Indie
+Link: https://store.steampowered.com/app/2537560
+==================================================
+
+==================================================
+Name: Holy Valkyrie ExS-TIA TS
+Release Date: May 20, 2026
+Price: $11.99 (-20%, was $14.99)
+Genres: Adventure
+Link: https://store.steampowered.com/app/3508170
+==================================================
+
+==================================================
+Name: Holy Valkyrie ExS-TIA P
+Release Date: May 20, 2026
+Price: $11.99 (-20%, was $14.99)
+Genres: Action, Casual
+Link: https://store.steampowered.com/app/3397120
+==================================================
+
+==================================================
+Name: Holy Valkyrie ExS-TIA F
+Release Date: May 20, 2026
+Price: $11.99 (-20%, was $14.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/3508150
+==================================================
+
+==================================================
+Name: Blood Brides
+Release Date: May 20, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Action, RPG
+Link: https://store.steampowered.com/app/4597310
+==================================================
+
+==================================================
+Name: An Incremental Game About Placing Blocks
+Release Date: May 20, 2026
+Price: $2.99
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4228650
+==================================================
+
