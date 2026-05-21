@@ -18050,3 +18050,126 @@ Genres: Adventure, Indie
 Link: https://store.steampowered.com/app/4686400
 ==================================================
 
+
+--- Run: 2026-05-21 18:50:46 --- (15 new game(s) found)
+
+==================================================
+Name: Kanojo Panic
+Release Date: May 21, 2026
+Price: $4.99
+Genres: Casual
+Link: https://store.steampowered.com/app/4605700
+==================================================
+
+==================================================
+Name: Alchemist: Journey of the Soul
+Release Date: May 21, 2026
+Price: $9.59 (-20%, was $11.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/3115240
+==================================================
+
+==================================================
+Name: Turnout
+Release Date: May 21, 2026
+Price: $4.79 (-20%, was $5.99)
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/3049020
+==================================================
+
+==================================================
+Name: Gamestonk Simulator: Gone Rogue
+Release Date: May 21, 2026
+Price: $11.46 (-15%, was $13.49)
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/3349970
+==================================================
+
+==================================================
+Name: Layermask
+Release Date: May 21, 2026
+Price: Free to Play
+Genres: Free To Play
+Link: https://store.steampowered.com/app/4644950
+==================================================
+
+==================================================
+Name: Mind Prison: The Last War
+Release Date: May 21, 2026
+Price: $2.69 (-10%, was $2.99)
+Genres: Strategy
+Link: https://store.steampowered.com/app/4703150
+==================================================
+
+==================================================
+Name: Long Live My Lady! 🍻 Tavern Simulator
+Release Date: May 21, 2026
+Price: $5.24 (-25%, was $6.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/3593040
+==================================================
+
+==================================================
+Name: Forsaken Valley
+Release Date: May 21, 2026
+Price: $8.49 (-15%, was $9.99)
+Genres: Action, Adventure, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/3597390
+==================================================
+
+==================================================
+Name: Gravelord
+Release Date: May 21, 2026
+Price: $17.99 (-10%, was $19.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/1823990
+==================================================
+
+==================================================
+Name: Geist Heist
+Release Date: May 21, 2026
+Price: Free to Play
+Genres: Free To Play
+Link: https://store.steampowered.com/app/4476090
+==================================================
+
+==================================================
+Name: Hentai Roxy
+Release Date: May 21, 2026
+Price: $0.64 (-35%, was $0.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4602670
+==================================================
+
+==================================================
+Name: Walk The Frog
+Release Date: May 21, 2026
+Price: $9.74 (-25%, was $12.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/3336240
+==================================================
+
+==================================================
+Name: Life Shatter
+Release Date: May 21, 2026
+Price: $9.99
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4704410
+==================================================
+
+==================================================
+Name: The Longest Tale
+Release Date: May 21, 2026
+Price: $14.99
+Genres: Adventure
+Link: https://store.steampowered.com/app/3507360
+==================================================
+
+==================================================
+Name: 水彩画は水底に沈む
+Release Date: May 21, 2026
+Price: $1.58
+Genres: Adventure
+Link: https://store.steampowered.com/app/4389120
+==================================================
+
