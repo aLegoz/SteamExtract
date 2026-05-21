@@ -18275,3 +18275,38 @@ Genres: Adventure, RPG, Strategy, Free To Play
 Link: https://store.steampowered.com/app/4462280
 ==================================================
 
+
+--- Run: 2026-05-21 23:47:10 --- (4 new game(s) found)
+
+==================================================
+Name: Beat Your Boss
+Release Date: May 21, 2026
+Price: $3.86 (-10%, was $4.29)
+Genres: Action, Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4291070
+==================================================
+
+==================================================
+Name: Pimpalot
+Release Date: May 21, 2026
+Price: $4.99
+Genres: RPG
+Link: https://store.steampowered.com/app/4170650
+==================================================
+
+==================================================
+Name: Endix
+Release Date: May 21, 2026
+Price: Free to Play
+Genres: Adventure, Casual, Indie, Massively Multiplayer, Simulation, Free To Play
+Link: https://store.steampowered.com/app/4356840
+==================================================
+
+==================================================
+Name: Cyber Miner 2
+Release Date: May 21, 2026
+Price: $5.99 (-25%, was $7.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/3736980
+==================================================
+
