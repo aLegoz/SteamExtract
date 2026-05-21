@@ -17587,3 +17587,38 @@ Genres: Adventure, Casual, Indie
 Link: https://store.steampowered.com/app/4504020
 ==================================================
 
+
+--- Run: 2026-05-21 01:59:14 --- (4 new game(s) found)
+
+==================================================
+Name: Backpacker Guild
+Release Date: May 20, 2026
+Price: $8.99 (-25%, was $11.99)
+Genres: Simulation, Strategy
+Link: https://store.steampowered.com/app/2824000
+==================================================
+
+==================================================
+Name: Violet Mansion
+Release Date: May 20, 2026
+Price: Free to Play
+Genres: Action, Adventure, Indie, Free To Play
+Link: https://store.steampowered.com/app/3059250
+==================================================
+
+==================================================
+Name: Alien History
+Release Date: May 20, 2026
+Price: $5.99 (-40%, was $9.99)
+Genres: Adventure, RPG
+Link: https://store.steampowered.com/app/4552750
+==================================================
+
+==================================================
+Name: The Rake Sees You
+Release Date: May 20, 2026
+Price: $2.39 (-40%, was $3.99)
+Genres: Indie
+Link: https://store.steampowered.com/app/4585260
+==================================================
+
