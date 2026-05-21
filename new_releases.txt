@@ -18173,3 +18173,30 @@ Genres: Adventure
 Link: https://store.steampowered.com/app/4389120
 ==================================================
 
+
+--- Run: 2026-05-21 20:28:23 --- (3 new game(s) found)
+
+==================================================
+Name: Drop and Grow
+Release Date: May 21, 2026
+Price: $5.59 (-20%, was $6.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4268890
+==================================================
+
+==================================================
+Name: Icarian
+Release Date: May 31, 2026
+Price: Free to Play
+Genres: Action, Free To Play
+Link: https://store.steampowered.com/app/4381000
+==================================================
+
+==================================================
+Name: SlimeVR
+Release Date: May 21, 2026
+Price: Free to Play
+Genres: Free To Play, Animation & Modeling, Utilities
+Link: https://store.steampowered.com/app/3245490
+==================================================
+
