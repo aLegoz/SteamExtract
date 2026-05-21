@@ -17796,3 +17796,70 @@ Genres: Indie, Simulation, Strategy
 Link: https://store.steampowered.com/app/3047800
 ==================================================
 
+
+--- Run: 2026-05-21 13:52:17 --- (8 new game(s) found)
+
+==================================================
+Name: Mystery Egg Shop Simulator - Prologue
+Release Date: May 21, 2026
+Price: Free to Play
+Genres: Simulation, Free To Play
+Link: https://store.steampowered.com/app/4492070
+==================================================
+
+==================================================
+Name: Burden Street Station
+Release Date: May 21, 2026
+Price: $13.49 (-10%, was $14.99)
+Genres: Adventure
+Link: https://store.steampowered.com/app/3126340
+==================================================
+
+==================================================
+Name: Psalm 2
+Release Date: May 21, 2026
+Price: $6.79 (-15%, was $7.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/3916260
+==================================================
+
+==================================================
+Name: Schrodinger's Cat Burglar
+Release Date: May 21, 2026
+Price: $17.99 (-10%, was $19.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/2111550
+==================================================
+
+==================================================
+Name: Planet Gemini
+Release Date: May 21, 2026
+Price: Free to Play
+Genres: Indie, Strategy, Free To Play
+Link: https://store.steampowered.com/app/3183170
+==================================================
+
+==================================================
+Name: Bufo Jump
+Release Date: May 21, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4175980
+==================================================
+
+==================================================
+Name: King of Tokyo - Richard Garfield
+Release Date: May 21, 2026
+Price: $19.99
+Genres: Casual, Strategy
+Link: https://store.steampowered.com/app/3232870
+==================================================
+
+==================================================
+Name: London Train!
+Release Date: May 21, 2026
+Price: $5.09 (-15%, was $5.99)
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4688520
+==================================================
+
