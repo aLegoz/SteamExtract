@@ -18200,3 +18200,78 @@ Genres: Free To Play, Animation & Modeling, Utilities
 Link: https://store.steampowered.com/app/3245490
 ==================================================
 
+
+--- Run: 2026-05-21 22:09:06 --- (9 new game(s) found)
+
+==================================================
+Name: Big Ralph's Kitty Pinball
+Release Date: May 21, 2026
+Price: $3.74 (-25%, was $4.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/3176680
+==================================================
+
+==================================================
+Name: Kobold Delvers
+Release Date: May 21, 2026
+Price: Free to Play
+Genres: Casual, Indie, Simulation, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4701700
+==================================================
+
+==================================================
+Name: Sliding Knight
+Release Date: May 21, 2026
+Price: $2.62 (-25%, was $3.50)
+Genres: Action, Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/3900190
+==================================================
+
+==================================================
+Name: Silent Stay
+Release Date: May 21, 2026
+Price: $2.59 (-35%, was $3.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/3820020
+==================================================
+
+==================================================
+Name: Waifu Syndicate
+Release Date: May 21, 2026
+Price: $0.79 (-20%, was $0.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/4543960
+==================================================
+
+==================================================
+Name: Toilet Paper Idle
+Release Date: May 21, 2026
+Price: $1.59 (-20%, was $1.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4280420
+==================================================
+
+==================================================
+Name: Sweet Medieval
+Release Date: May 21, 2026
+Price: $0.89 (-10%, was $0.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4413080
+==================================================
+
+==================================================
+Name: Machiavelli
+Release Date: May 21, 2026
+Price: Free to Play
+Genres: Strategy, Free To Play
+Link: https://store.steampowered.com/app/3949280
+==================================================
+
+==================================================
+Name: Wayward Woods
+Release Date: May 21, 2026
+Price: Free to Play
+Genres: Adventure, RPG, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4462280
+==================================================
+
