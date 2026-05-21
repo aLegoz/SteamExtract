@@ -17721,3 +17721,78 @@ Genres: Casual, Indie, Simulation
 Link: https://store.steampowered.com/app/4228650
 ==================================================
 
+
+--- Run: 2026-05-21 10:28:29 --- (9 new game(s) found)
+
+==================================================
+Name: Hidden Girls
+Release Date: May 21, 2026
+Price: $0.79 (-20%, was $0.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4542660
+==================================================
+
+==================================================
+Name: ZERO PARADES: For Dead Spies
+Release Date: May 21, 2026
+Price: $39.99
+Genres: Indie, RPG
+Link: https://store.steampowered.com/app/2863680
+==================================================
+
+==================================================
+Name: Hidden Objects - Items Find
+Release Date: May 21, 2026
+Price: Free to Play
+Genres: Adventure, Casual, Free To Play
+Link: https://store.steampowered.com/app/4663660
+==================================================
+
+==================================================
+Name: Midnight Special
+Release Date: May 21, 2026
+Price: $11.24 (-25%, was $14.99)
+Genres: Indie
+Link: https://store.steampowered.com/app/2560100
+==================================================
+
+==================================================
+Name: Berserker Onslaught
+Release Date: May 20, 2026
+Price: $8.49 (-15%, was $9.99)
+Genres: Action, Indie, RPG
+Link: https://store.steampowered.com/app/4337210
+==================================================
+
+==================================================
+Name: Last Draft
+Release Date: May 20, 2026
+Price: $5.99
+Genres: Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4536290
+==================================================
+
+==================================================
+Name: Farm for you
+Release Date: May 20, 2026
+Price: $2.69 (-10%, was $2.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/4677180
+==================================================
+
+==================================================
+Name: Rock, Paper, Scissors: Survival
+Release Date: May 20, 2026
+Price: $9.99
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4535670
+==================================================
+
+==================================================
+Name: Dice Tech Dominion - Enter the Shadow Circuit
+Release Date: May 20, 2026
+Price: $11.04 (-15%, was $12.99)
+Genres: Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/3047800
+==================================================
+
