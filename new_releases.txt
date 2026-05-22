@@ -18902,3 +18902,54 @@ Genres: Casual, Indie, Simulation, Free To Play
 Link: https://store.steampowered.com/app/4593770
 ==================================================
 
+
+--- Run: 2026-05-22 22:47:25 --- (6 new game(s) found)
+
+==================================================
+Name: Way of Horny: Love Paradise
+Release Date: May 22, 2026
+Price: $1.79 (-10%, was $1.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4603850
+==================================================
+
+==================================================
+Name: VOSPETKA Simulator
+Release Date: May 22, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Action, Casual, Massively Multiplayer, Simulation
+Link: https://store.steampowered.com/app/4162110
+==================================================
+
+==================================================
+Name: Paskahousu
+Release Date: May 22, 2026
+Price: $9.99
+Genres: Casual, Simulation, Strategy
+Link: https://store.steampowered.com/app/4651870
+==================================================
+
+==================================================
+Name: Jackie Snape Clicker
+Release Date: May 22, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/4600820
+==================================================
+
+==================================================
+Name: Paragon Protocol: V X V
+Release Date: May 22, 2026
+Price: $5.99
+Genres: Action, Casual, Indie, RPG
+Link: https://store.steampowered.com/app/4645130
+==================================================
+
+==================================================
+Name: Deskwaters
+Release Date: May 22, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/4695010
+==================================================
+
