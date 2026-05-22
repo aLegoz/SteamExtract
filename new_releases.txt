@@ -18765,3 +18765,94 @@ Genres: Casual, Simulation
 Link: https://store.steampowered.com/app/4284570
 ==================================================
 
+
+--- Run: 2026-05-22 18:27:14 --- (11 new game(s) found)
+
+==================================================
+Name: Toward The Ice
+Release Date: May 22, 2026
+Price: $13.49 (-10%, was $14.99)
+Genres: RPG
+Link: https://store.steampowered.com/app/2878110
+==================================================
+
+==================================================
+Name: Virtual Driving School
+Release Date: May 22, 2026
+Price: $17.99 (-10%, was $19.99)
+Genres: Indie, Racing, Simulation, Sports
+Link: https://store.steampowered.com/app/1515220
+==================================================
+
+==================================================
+Name: LEGO® Batman™: Legacy of the Dark Knight
+Release Date: May 22, 2026
+Price: $69.99
+Genres: Action, Adventure
+Link: https://store.steampowered.com/app/2215200
+==================================================
+
+==================================================
+Name: Lust Poker Club
+Release Date: May 22, 2026
+Price: $5.99 (-25%, was $7.99)
+Genres: Adventure, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4442190
+==================================================
+
+==================================================
+Name: I am Coin
+Release Date: May 22, 2026
+Price: $2.79 (-30%, was $3.99)
+Genres: Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/4259890
+==================================================
+
+==================================================
+Name: Bar Keeper
+Release Date: May 22, 2026
+Price: $3.99
+Genres: Action
+Link: https://store.steampowered.com/app/4526900
+==================================================
+
+==================================================
+Name: Brawl Burrow
+Release Date: May 22, 2026
+Price: $5.94 (-15%, was $6.99)
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4011160
+==================================================
+
+==================================================
+Name: Last $50
+Release Date: May 22, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/4315100
+==================================================
+
+==================================================
+Name: Glint Translator
+Release Date: May 22, 2026
+Price: $26.99 (-10%, was $29.99)
+Genres: Utilities
+Link: https://store.steampowered.com/app/4636530
+==================================================
+
+==================================================
+Name: Mei Paranormies 2
+Release Date: May 22, 2026
+Price: $0.59 (-40%, was $0.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4683000
+==================================================
+
+==================================================
+Name: Null Zone: No Way Back
+Release Date: May 22, 2026
+Price: $9.99
+Genres: Indie, RPG
+Link: https://store.steampowered.com/app/4369800
+==================================================
+
