@@ -18953,3 +18953,14 @@ Genres: Indie, Simulation
 Link: https://store.steampowered.com/app/4695010
 ==================================================
 
+
+--- Run: 2026-05-22 23:55:07 --- (1 new game(s) found)
+
+==================================================
+Name: Cursor Slayer
+Release Date: May 22, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/697540
+==================================================
+
