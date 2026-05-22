@@ -18527,3 +18527,102 @@ Genres: Casual, Indie, Simulation
 Link: https://store.steampowered.com/app/4326550
 ==================================================
 
+
+--- Run: 2026-05-22 13:20:02 --- (12 new game(s) found)
+
+==================================================
+Name: A Thread Between
+Release Date: May 22, 2026
+Price: $10.19 (-15%, was $11.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4030020
+==================================================
+
+==================================================
+Name: Aztecs: The Last Sun
+Release Date: May 22, 2026
+Price: $15.99 (-20%, was $19.99)
+Genres: Simulation, Strategy
+Link: https://store.steampowered.com/app/1409840
+==================================================
+
+==================================================
+Name: Lost Hope: Backrooms
+Release Date: May 22, 2026
+Price: $6.99
+Genres: Adventure, Indie, Strategy
+Link: https://store.steampowered.com/app/2600830
+==================================================
+
+==================================================
+Name: Drop-Off Duty
+Release Date: May 22, 2026
+Price: Free to Play
+Genres: Action, Casual, Free To Play
+Link: https://store.steampowered.com/app/4598360
+==================================================
+
+==================================================
+Name: F.A.R.M.S.: Chill Factory
+Release Date: May 22, 2026
+Price: $7.19 (-10%, was $7.99)
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/4302160
+==================================================
+
+==================================================
+Name: Apartment 10
+Release Date: May 22, 2026
+Price: $6.39 (-20%, was $7.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4645780
+==================================================
+
+==================================================
+Name: Hentai Tales: Summoned - Entrusted with the Elves
+Release Date: May 22, 2026
+Price: $0.59 (-40%, was $0.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4571220
+==================================================
+
+==================================================
+Name: 执念刑警之消失的证人
+Release Date: May 22, 2026
+Price: $3.39 (-15%, was $3.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4573080
+==================================================
+
+==================================================
+Name: Almazuela Picross
+Release Date: May 22, 2026
+Price: $3.74 (-25%, was $4.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4539810
+==================================================
+
+==================================================
+Name: THE HOUSEMAID'S SECRET AFFAIRS -DESTINY IN THE CARDS-
+Release Date: May 22, 2026
+Price: $6.39 (-20%, was $7.99)
+Genres: Simulation
+Link: https://store.steampowered.com/app/4692820
+==================================================
+
+==================================================
+Name: Quest of Dungeloria
+Release Date: May 21, 2026
+Price: $4.99
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/2623580
+==================================================
+
+==================================================
+Name: Lost in Hieroglyphs: A Hidden Objects Expedition
+Release Date: May 21, 2026
+Price: $0.89 (-10%, was $0.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/2689000
+==================================================
+
