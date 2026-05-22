@@ -18875,3 +18875,30 @@ Genres: Action, Adventure, Casual, Indie
 Link: https://store.steampowered.com/app/2600960
 ==================================================
 
+
+--- Run: 2026-05-22 21:54:56 --- (3 new game(s) found)
+
+==================================================
+Name: How to Train Your Bro's Girlfriend
+Release Date: May 22, 2026
+Price: $9.59 (-20%, was $11.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/4404820
+==================================================
+
+==================================================
+Name: Divine Diner
+Release Date: May 22, 2026
+Price: Free to Play
+Genres: Casual, Indie, RPG, Free To Play
+Link: https://store.steampowered.com/app/4574110
+==================================================
+
+==================================================
+Name: Entropy Archive
+Release Date: May 22, 2026
+Price: Free to Play
+Genres: Casual, Indie, Simulation, Free To Play
+Link: https://store.steampowered.com/app/4593770
+==================================================
+
