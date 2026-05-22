@@ -18856,3 +18856,22 @@ Genres: Indie, RPG
 Link: https://store.steampowered.com/app/4369800
 ==================================================
 
+
+--- Run: 2026-05-22 20:26:33 --- (2 new game(s) found)
+
+==================================================
+Name: ICR - Multiplayer Car Racing
+Release Date: May 22, 2026
+Price: Free to Play
+Genres: Action, Racing, Sports, Free To Play
+Link: https://store.steampowered.com/app/4474090
+==================================================
+
+==================================================
+Name: HoverGrease 2
+Release Date: May 22, 2026
+Price: $15.99 (-20%, was $19.99)
+Genres: Action, Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/2600960
+==================================================
+
