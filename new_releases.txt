@@ -18353,3 +18353,102 @@ Genres: Action, Adventure, Casual, Indie, RPG
 Link: https://store.steampowered.com/app/4566260
 ==================================================
 
+
+--- Run: 2026-05-22 06:37:34 --- (12 new game(s) found)
+
+==================================================
+Name: Butcherman
+Release Date: May 21, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/3979350
+==================================================
+
+==================================================
+Name: Cinder City
+Release Date: May 21, 2026
+Price: Free to Play
+Genres: Action, Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/4520140
+==================================================
+
+==================================================
+Name: Don't Fall
+Release Date: May 21, 2026
+Price: $6.29 (-10%, was $6.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/3204770
+==================================================
+
+==================================================
+Name: the art of Tortoise Walking
+Release Date: May 21, 2026
+Price: Free to Play
+Genres: Casual, Indie, Simulation, Free To Play
+Link: https://store.steampowered.com/app/4639300
+==================================================
+
+==================================================
+Name: halfmoon
+Release Date: May 21, 2026
+Price: $1.99
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4175330
+==================================================
+
+==================================================
+Name: Geylang Crunk: Enter the Glampong
+Release Date: May 21, 2026
+Price: Free to Play
+Genres: Adventure, Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/4651360
+==================================================
+
+==================================================
+Name: 凡人修仙传之韩老魔传奇
+Release Date: May 21, 2026
+Price: Free to Play
+Genres: Casual, Massively Multiplayer, RPG, Free To Play
+Link: https://store.steampowered.com/app/4295730
+==================================================
+
+==================================================
+Name: Maui Pong
+Release Date: May 21, 2026
+Price: Free to Play
+Genres: Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/4709610
+==================================================
+
+==================================================
+Name: Dread Rally
+Release Date: May 21, 2026
+Price: Free to Play
+Genres: Action, Racing, Free To Play
+Link: https://store.steampowered.com/app/4627600
+==================================================
+
+==================================================
+Name: LAT The Punk World of Tentacled Monsters
+Release Date: May 21, 2026
+Price: $6.29 (-10%, was $6.99)
+Genres: Casual, Indie, RPG, Simulation
+Link: https://store.steampowered.com/app/3633770
+==================================================
+
+==================================================
+Name: 暗黑战神
+Release Date: May 21, 2026
+Price: Free to Play
+Genres: Action, Adventure, Indie, Massively Multiplayer, RPG, Free To Play
+Link: https://store.steampowered.com/app/4528240
+==================================================
+
+==================================================
+Name: Fear Within
+Release Date: May 21, 2026
+Price: $2.39 (-20%, was $2.99)
+Genres: Adventure, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4298890
+==================================================
+
