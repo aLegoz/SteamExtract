@@ -18452,3 +18452,78 @@ Genres: Adventure, Casual, Indie, Simulation
 Link: https://store.steampowered.com/app/4298890
 ==================================================
 
+
+--- Run: 2026-05-22 10:14:06 --- (9 new game(s) found)
+
+==================================================
+Name: THE LAST PORTRAIT
+Release Date: May 22, 2026
+Price: $7.19 (-10%, was $7.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/3691530
+==================================================
+
+==================================================
+Name: 여자 꼬시기(Getting Her)
+Release Date: May 22, 2026
+Price: $1.79 (-40%, was $2.99)
+Genres: Indie, RPG
+Link: https://store.steampowered.com/app/4711280
+==================================================
+
+==================================================
+Name: Jewelands Adventures
+Release Date: May 22, 2026
+Price: Free to Play
+Genres: Casual, Free To Play
+Link: https://store.steampowered.com/app/4511640
+==================================================
+
+==================================================
+Name: The Rebirth Tale of Broken Horn Demon Lord Alice
+Release Date: May 22, 2026
+Price: $9.89 (-10%, was $10.99)
+Genres: Adventure, Casual, Indie, RPG
+Link: https://store.steampowered.com/app/4282710
+==================================================
+
+==================================================
+Name: Evil Girls Party!
+Release Date: May 22, 2026
+Price: $10.79 (-10%, was $11.99)
+Genres: Adventure, RPG
+Link: https://store.steampowered.com/app/4142570
+==================================================
+
+==================================================
+Name: Dream Corp 梦想公司
+Release Date: May 22, 2026
+Price: $5.99
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4503530
+==================================================
+
+==================================================
+Name: THROUGH TIME·SUMMER OF GIRL PUZZLE
+Release Date: May 22, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Casual, Indie, RPG, Simulation, Strategy
+Link: https://store.steampowered.com/app/4196510
+==================================================
+
+==================================================
+Name: Bunny:Protect Her
+Release Date: May 21, 2026
+Price: $1.30
+Genres: Action, RPG
+Link: https://store.steampowered.com/app/4658900
+==================================================
+
+==================================================
+Name: Monmusu Island
+Release Date: May 21, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4326550
+==================================================
+
