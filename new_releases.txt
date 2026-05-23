@@ -18964,3 +18964,30 @@ Genres: Casual, Indie
 Link: https://store.steampowered.com/app/697540
 ==================================================
 
+
+--- Run: 2026-05-23 01:51:25 --- (3 new game(s) found)
+
+==================================================
+Name: Gekko Episode of Nova
+Release Date: May 22, 2026
+Price: Free to Play
+Genres: Adventure, Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/4645570
+==================================================
+
+==================================================
+Name: Hentai World Nice
+Release Date: May 22, 2026
+Price: $0.79 (-20%, was $0.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4700820
+==================================================
+
+==================================================
+Name: Click-A-Duck
+Release Date: May 22, 2026
+Price: $2.09 (-30%, was $2.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4485920
+==================================================
+
