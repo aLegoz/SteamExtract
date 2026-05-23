@@ -19224,3 +19224,14 @@ Genres: Casual, Indie
 Link: https://store.steampowered.com/app/4646790
 ==================================================
 
+
+--- Run: 2026-05-23 20:52:20 --- (1 new game(s) found)
+
+==================================================
+Name: The Pinkman Files
+Release Date: May 23, 2026
+Price: Free to Play
+Genres: Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/3854540
+==================================================
+
