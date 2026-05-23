@@ -19213,3 +19213,14 @@ Genres: Action, Casual, Indie, Free To Play
 Link: https://store.steampowered.com/app/4702360
 ==================================================
 
+
+--- Run: 2026-05-23 19:59:26 --- (1 new game(s) found)
+
+==================================================
+Name: noCube
+Release Date: May 23, 2026
+Price: $2.39 (-20%, was $2.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4646790
+==================================================
+
