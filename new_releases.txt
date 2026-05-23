@@ -19172,3 +19172,22 @@ Genres: Simulation, Sports
 Link: https://store.steampowered.com/app/2988140
 ==================================================
 
+
+--- Run: 2026-05-23 16:45:26 --- (2 new game(s) found)
+
+==================================================
+Name: War of the Damned
+Release Date: May 23, 2026
+Price: Free to Play
+Genres: Indie, RPG, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4535380
+==================================================
+
+==================================================
+Name: Candy Box U
+Release Date: May 23, 2026
+Price: $0.99
+Genres: Adventure, Casual, Indie, RPG
+Link: https://store.steampowered.com/app/4582340
+==================================================
+
