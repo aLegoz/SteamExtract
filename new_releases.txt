@@ -19118,3 +19118,14 @@ Genres: Action, Adventure, Simulation
 Link: https://store.steampowered.com/app/4147900
 ==================================================
 
+
+--- Run: 2026-05-23 14:24:24 --- (1 new game(s) found)
+
+==================================================
+Name: The Lost Lunch
+Release Date: May 23, 2026
+Price: $4.99
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4267390
+==================================================
+
