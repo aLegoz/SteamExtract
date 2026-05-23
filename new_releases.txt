@@ -19246,3 +19246,46 @@ Genres: Adventure, Casual, Indie, Strategy
 Link: https://store.steampowered.com/app/4682130
 ==================================================
 
+
+--- Run: 2026-05-23 23:45:02 --- (5 new game(s) found)
+
+==================================================
+Name: The Lazarus Game
+Release Date: May 23, 2026
+Price: $5.99
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4499570
+==================================================
+
+==================================================
+Name: SafeHaven
+Release Date: May 23, 2026
+Price: $10.79 (-10%, was $11.99)
+Genres: Strategy
+Link: https://store.steampowered.com/app/4687070
+==================================================
+
+==================================================
+Name: Hearts on the List
+Release Date: May 23, 2026
+Price: $4.19 (-40%, was $6.99)
+Genres: Adventure, Simulation
+Link: https://store.steampowered.com/app/4687200
+==================================================
+
+==================================================
+Name: Tactris
+Release Date: May 23, 2026
+Price: $2.69 (-10%, was $2.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4273270
+==================================================
+
+==================================================
+Name: Jumppass 2
+Release Date: May 23, 2026
+Price: $0.59 (-40%, was $0.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/4590260
+==================================================
+
