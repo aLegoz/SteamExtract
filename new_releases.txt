@@ -19107,3 +19107,14 @@ Genres: Indie, Simulation
 Link: https://store.steampowered.com/app/3542540
 ==================================================
 
+
+--- Run: 2026-05-23 12:54:19 --- (1 new game(s) found)
+
+==================================================
+Name: Pleasure Entangled
+Release Date: May 23, 2026
+Price: $7.19 (-20%, was $8.99)
+Genres: Action, Adventure, Simulation
+Link: https://store.steampowered.com/app/4147900
+==================================================
+
