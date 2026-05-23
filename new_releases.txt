@@ -19129,3 +19129,46 @@ Genres: Adventure, Indie
 Link: https://store.steampowered.com/app/4267390
 ==================================================
 
+
+--- Run: 2026-05-23 15:52:54 --- (5 new game(s) found)
+
+==================================================
+Name: Woodville Chronicles
+Release Date: May 23, 2026
+Price: $4.19 (-40%, was $6.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/4612840
+==================================================
+
+==================================================
+Name: LOVE SHOP Simulator 💕🛒
+Release Date: May 23, 2026
+Price: $9.89 (-34%, was $14.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/3426440
+==================================================
+
+==================================================
+Name: Arai-san Mansion Exploration Game: Incarnation
+Release Date: May 23, 2026
+Price: Free to Play
+Genres: Adventure, Indie, Free To Play
+Link: https://store.steampowered.com/app/4293310
+==================================================
+
+==================================================
+Name: Impulse Reactor
+Release Date: May 23, 2026
+Price: $1.79 (-10%, was $1.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4557040
+==================================================
+
+==================================================
+Name: Lacrosse 26
+Release Date: May 23, 2026
+Price: $34.99
+Genres: Simulation, Sports
+Link: https://store.steampowered.com/app/2988140
+==================================================
+
