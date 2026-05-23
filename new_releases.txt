@@ -19042,3 +19042,22 @@ Genres: Simulation, Strategy
 Link: https://store.steampowered.com/app/4590640
 ==================================================
 
+
+--- Run: 2026-05-23 08:02:47 --- (2 new game(s) found)
+
+==================================================
+Name: LOVE LOVE SEXY SALARYMAN
+Release Date: May 22, 2026
+Price: $17.99 (-10%, was $19.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4437660
+==================================================
+
+==================================================
+Name: Fluffy Arena
+Release Date: May 22, 2026
+Price: $3.19 (-20%, was $3.99)
+Genres: Adventure, Casual, Indie, RPG, Simulation, Strategy
+Link: https://store.steampowered.com/app/1148600
+==================================================
+
