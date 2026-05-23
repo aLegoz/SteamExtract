@@ -19235,3 +19235,14 @@ Genres: Casual, Indie, Free To Play
 Link: https://store.steampowered.com/app/3854540
 ==================================================
 
+
+--- Run: 2026-05-23 22:40:49 --- (1 new game(s) found)
+
+==================================================
+Name: Arcane Rooms
+Release Date: May 23, 2026
+Price: $4.04 (-10%, was $4.49)
+Genres: Adventure, Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4682130
+==================================================
+
