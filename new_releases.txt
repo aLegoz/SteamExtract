@@ -19202,3 +19202,14 @@ Genres: Action, Casual, Indie, Free To Play
 Link: https://store.steampowered.com/app/4551370
 ==================================================
 
+
+--- Run: 2026-05-23 18:51:17 --- (1 new game(s) found)
+
+==================================================
+Name: Crown Chaos
+Release Date: May 23, 2026
+Price: Free to Play
+Genres: Action, Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/4702360
+==================================================
+
