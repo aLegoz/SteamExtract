@@ -19191,3 +19191,14 @@ Genres: Adventure, Casual, Indie, RPG
 Link: https://store.steampowered.com/app/4582340
 ==================================================
 
+
+--- Run: 2026-05-23 17:51:53 --- (1 new game(s) found)
+
+==================================================
+Name: Knockout Carnival
+Release Date: May 23, 2026
+Price: Free to Play
+Genres: Action, Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/4551370
+==================================================
+
