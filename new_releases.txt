@@ -19080,3 +19080,30 @@ Genres: Strategy
 Link: https://store.steampowered.com/app/4567490
 ==================================================
 
+
+--- Run: 2026-05-23 11:52:12 --- (3 new game(s) found)
+
+==================================================
+Name: Laser Harp VR
+Release Date: May 23, 2026
+Price: Free to Play
+Genres: Casual, Indie, Simulation, Free To Play
+Link: https://store.steampowered.com/app/3789120
+==================================================
+
+==================================================
+Name: Yellow Clicker
+Release Date: May 23, 2026
+Price: $0.99
+Genres: Casual
+Link: https://store.steampowered.com/app/4678680
+==================================================
+
+==================================================
+Name: Calm Before the Storm
+Release Date: May 22, 2026
+Price: $5.99
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/3542540
+==================================================
+
