@@ -19289,3 +19289,22 @@ Genres: Casual
 Link: https://store.steampowered.com/app/4590260
 ==================================================
 
+
+--- Run: 2026-05-24 05:58:25 --- (2 new game(s) found)
+
+==================================================
+Name: Mulligan Keep
+Release Date: May 23, 2026
+Price: Free to Play
+Genres: Adventure, Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/4465440
+==================================================
+
+==================================================
+Name: UNDERKING KINGDOM
+Release Date: May 23, 2026
+Price: $2.79 (-30%, was $3.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4559290
+==================================================
+
