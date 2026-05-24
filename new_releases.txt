@@ -19441,3 +19441,14 @@ Genres: Adventure, Indie, RPG
 Link: https://store.steampowered.com/app/2241440
 ==================================================
 
+
+--- Run: 2026-05-24 22:44:13 --- (1 new game(s) found)
+
+==================================================
+Name: Dungeon Twist
+Release Date: May 24, 2026
+Price: $4.99
+Genres: Casual, Strategy
+Link: https://store.steampowered.com/app/2706030
+==================================================
+
