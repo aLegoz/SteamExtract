@@ -19351,3 +19351,14 @@ Genres: Casual, Indie
 Link: https://store.steampowered.com/app/4615150
 ==================================================
 
+
+--- Run: 2026-05-24 11:56:43 --- (1 new game(s) found)
+
+==================================================
+Name: Streets Adventure: Medina Motors
+Release Date: May 24, 2026
+Price: $1.99
+Genres: Adventure, Indie, Racing, Simulation, Sports
+Link: https://store.steampowered.com/app/3063240
+==================================================
+
