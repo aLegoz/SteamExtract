@@ -19392,3 +19392,14 @@ Genres: Simulation, Utilities
 Link: https://store.steampowered.com/app/4662380
 ==================================================
 
+
+--- Run: 2026-05-24 18:57:13 --- (1 new game(s) found)
+
+==================================================
+Name: Darker: Chapter 1
+Release Date: May 24, 2026
+Price: $9.95 (-17%, was $11.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/3344930
+==================================================
+
