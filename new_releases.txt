@@ -19308,3 +19308,46 @@ Genres: Action, Indie
 Link: https://store.steampowered.com/app/4559290
 ==================================================
 
+
+--- Run: 2026-05-24 08:25:41 --- (5 new game(s) found)
+
+==================================================
+Name: Another Zombie Shooter
+Release Date: May 24, 2026
+Price: Free to Play
+Genres: Action, Casual, Free To Play
+Link: https://store.steampowered.com/app/4703450
+==================================================
+
+==================================================
+Name: Fun Park Simulator: Prologue
+Release Date: May 23, 2026
+Price: Free to Play
+Genres: Casual, Indie, Simulation, Free To Play
+Link: https://store.steampowered.com/app/4688580
+==================================================
+
+==================================================
+Name: Hero Company
+Release Date: May 23, 2026
+Price: Free to Play
+Genres: Casual, Indie, RPG, Simulation, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4692360
+==================================================
+
+==================================================
+Name: Lazy Boxing
+Release Date: May 23, 2026
+Price: $1.19 (-40%, was $1.99)
+Genres: Action
+Link: https://store.steampowered.com/app/4663040
+==================================================
+
+==================================================
+Name: NRDominó
+Release Date: May 23, 2026
+Price: $1.99
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4615150
+==================================================
+
