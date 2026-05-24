@@ -19381,3 +19381,14 @@ Genres: Casual
 Link: https://store.steampowered.com/app/4714670
 ==================================================
 
+
+--- Run: 2026-05-24 16:48:41 --- (1 new game(s) found)
+
+==================================================
+Name: Recoil Trainer
+Release Date: May 24, 2026
+Price: $2.28 (-15%, was $2.69)
+Genres: Simulation, Utilities
+Link: https://store.steampowered.com/app/4662380
+==================================================
+
