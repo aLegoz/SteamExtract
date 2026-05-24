@@ -19362,3 +19362,22 @@ Genres: Adventure, Indie, Racing, Simulation, Sports
 Link: https://store.steampowered.com/app/3063240
 ==================================================
 
+
+--- Run: 2026-05-24 14:54:33 --- (2 new game(s) found)
+
+==================================================
+Name: Once Upon
+Release Date: May 24, 2026
+Price: Free to Play
+Genres: RPG, Free To Play
+Link: https://store.steampowered.com/app/4604180
+==================================================
+
+==================================================
+Name: Neon Fantasy: Dinosaurs
+Release Date: May 24, 2026
+Price: $1.19 (-40%, was $1.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/4714670
+==================================================
+
