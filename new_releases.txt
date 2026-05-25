@@ -19761,3 +19761,14 @@ Genres: Adventure
 Link: https://store.steampowered.com/app/4705060
 ==================================================
 
+
+--- Run: 2026-05-25 23:00:02 --- (1 new game(s) found)
+
+==================================================
+Name: Math Warudo: Grassland & Beyond
+Release Date: May 25, 2026
+Price: $4.99
+Genres: Action, Adventure, Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4656240
+==================================================
+
