@@ -19565,3 +19565,62 @@ Genres: Casual, Indie, Simulation
 Link: https://store.steampowered.com/app/3935260
 ==================================================
 
+
+--- Run: 2026-05-25 14:28:45 --- (7 new game(s) found)
+
+==================================================
+Name: FEED THE QUEEN
+Release Date: May 25, 2026
+Price: $7.19 (-10%, was $7.99)
+Genres: Strategy
+Link: https://store.steampowered.com/app/4135750
+==================================================
+
+==================================================
+Name: Budgie's Bug Shop
+Release Date: May 25, 2026
+Price: $5.39 (-10%, was $5.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/4279120
+==================================================
+
+==================================================
+Name: EmyLiveShow: Horny Horrors
+Release Date: May 25, 2026
+Price: $10.39 (-20%, was $12.99)
+Genres: Adventure, Casual, Simulation
+Link: https://store.steampowered.com/app/4265080
+==================================================
+
+==================================================
+Name: Slot or Not
+Release Date: May 25, 2026
+Price: $6.29 (-10%, was $6.99)
+Genres: Casual, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/3496890
+==================================================
+
+==================================================
+Name: PATCHED
+Release Date: May 25, 2026
+Price: Free to Play
+Genres: Adventure, Free To Play
+Link: https://store.steampowered.com/app/4517340
+==================================================
+
+==================================================
+Name: The Circle Move
+Release Date: May 25, 2026
+Price: Free to Play
+Genres: Indie, Free To Play
+Link: https://store.steampowered.com/app/4713700
+==================================================
+
+==================================================
+Name: Demonic Gauntlet
+Release Date: May 25, 2026
+Price: $2.09 (-30%, was $2.99)
+Genres: Indie
+Link: https://store.steampowered.com/app/4627420
+==================================================
+
