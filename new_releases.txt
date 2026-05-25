@@ -19710,3 +19710,54 @@ Genres: Adventure, RPG, Strategy
 Link: https://store.steampowered.com/app/2529010
 ==================================================
 
+
+--- Run: 2026-05-25 20:17:31 --- (6 new game(s) found)
+
+==================================================
+Name: Unbound Drift
+Release Date: Coming soon
+Price: $9.74 (-35%, was $14.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/3339860
+==================================================
+
+==================================================
+Name: Last Signal
+Release Date: May 25, 2026
+Price: $6.29 (-10%, was $6.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/4681280
+==================================================
+
+==================================================
+Name: AUTO DERBY CASINO
+Release Date: May 25, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/3631410
+==================================================
+
+==================================================
+Name: Wild Horse Racing
+Release Date: May 25, 2026
+Price: $7.19 (-10%, was $7.99)
+Genres: Action, Casual, Indie, Racing, Sports
+Link: https://store.steampowered.com/app/2579620
+==================================================
+
+==================================================
+Name: Only Farming - Cozy Harvesting Game
+Release Date: May 25, 2026
+Price: $3.19 (-20%, was $3.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4715190
+==================================================
+
+==================================================
+Name: エスケープ・ザ・ホラースクール
+Release Date: May 25, 2026
+Price: $1.99
+Genres: Adventure
+Link: https://store.steampowered.com/app/4705060
+==================================================
+
