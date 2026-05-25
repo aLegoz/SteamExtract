@@ -19651,3 +19651,62 @@ Genres: Action, Indie
 Link: https://store.steampowered.com/app/4438030
 ==================================================
 
+
+--- Run: 2026-05-25 18:22:02 --- (7 new game(s) found)
+
+==================================================
+Name: this SHORT indie game made me MISS MY FRIENDS | Rainy Plays Lonely Game Livestream
+Release Date: May 25, 2026
+Price: $2.69 (-10%, was $2.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4548960
+==================================================
+
+==================================================
+Name: Farmnana Defence
+Release Date: May 25, 2026
+Price: Free to Play
+Genres: Action, Indie, Free To Play
+Link: https://store.steampowered.com/app/4555900
+==================================================
+
+==================================================
+Name: Mountain Crew
+Release Date: May 25, 2026
+Price: $24.99
+Genres: Indie, Racing, Simulation, Sports
+Link: https://store.steampowered.com/app/4348710
+==================================================
+
+==================================================
+Name: IKUN vs XHZ
+Release Date: May 25, 2026
+Price: $1.59 (-20%, was $1.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4317700
+==================================================
+
+==================================================
+Name: JUMP KING QUEST
+Release Date: May 25, 2026
+Price: $11.99 (-20%, was $14.99)
+Genres: Action, Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/2317640
+==================================================
+
+==================================================
+Name: EMUUROM
+Release Date: May 25, 2026
+Price: $11.24 (-10%, was $12.49)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/1634360
+==================================================
+
+==================================================
+Name: One More Try: Prologue
+Release Date: May 25, 2026
+Price: Free to Play
+Genres: Adventure, RPG, Strategy
+Link: https://store.steampowered.com/app/2529010
+==================================================
+
