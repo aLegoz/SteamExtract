@@ -19624,3 +19624,30 @@ Genres: Indie
 Link: https://store.steampowered.com/app/4627420
 ==================================================
 
+
+--- Run: 2026-05-25 16:56:39 --- (3 new game(s) found)
+
+==================================================
+Name: BunnyFly: Season of Summer
+Release Date: May 25, 2026
+Price: $2.99 (-25%, was $3.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4296860
+==================================================
+
+==================================================
+Name: Vortica
+Release Date: May 25, 2026
+Price: $12.74 (-15%, was $14.99)
+Genres: Action, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/2980170
+==================================================
+
+==================================================
+Name: kipi oppi
+Release Date: May 25, 2026
+Price: $2.24 (-10%, was $2.49)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4438030
+==================================================
+
