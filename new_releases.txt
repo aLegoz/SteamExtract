@@ -19452,3 +19452,14 @@ Genres: Casual, Strategy
 Link: https://store.steampowered.com/app/2706030
 ==================================================
 
+
+--- Run: 2026-05-25 02:04:40 --- (1 new game(s) found)
+
+==================================================
+Name: VR180 SyncPro
+Release Date: May 24, 2026
+Price: $50.99 (-15%, was $59.99)
+Genres: Video Production
+Link: https://store.steampowered.com/app/4646160
+==================================================
+
