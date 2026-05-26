@@ -19842,3 +19842,62 @@ Genres: Adventure, Casual, Indie, RPG, Simulation
 Link: https://store.steampowered.com/app/4458600
 ==================================================
 
+
+--- Run: 2026-05-26 08:25:23 --- (7 new game(s) found)
+
+==================================================
+Name: God's Blessing On That Desire World!
+Release Date: May 26, 2026
+Price: $7.19 (-10%, was $7.99)
+Genres: Casual, Indie, RPG
+Link: https://store.steampowered.com/app/3633120
+==================================================
+
+==================================================
+Name: I HATE SNAKE: Retro Simulator
+Release Date: May 26, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Action, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4677990
+==================================================
+
+==================================================
+Name: World of Tanks: HEAT
+Release Date: May 25, 2026
+Price: Free to Play
+Genres: Action, Massively Multiplayer, Free To Play
+Link: https://store.steampowered.com/app/2100280
+==================================================
+
+==================================================
+Name: Brewed and Battered
+Release Date: May 25, 2026
+Price: $2.99 (-40%, was $4.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/3921670
+==================================================
+
+==================================================
+Name: They Left Us Here
+Release Date: May 25, 2026
+Price: $5.99
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4004830
+==================================================
+
+==================================================
+Name: Sketch Royale - Draw Something
+Release Date: May 25, 2026
+Price: $2.99
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4178900
+==================================================
+
+==================================================
+Name: N/A Museum
+Release Date: May 25, 2026
+Price: $9.00
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/3581700
+==================================================
+
