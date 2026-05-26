@@ -19772,3 +19772,30 @@ Genres: Action, Adventure, Casual, Indie, Strategy
 Link: https://store.steampowered.com/app/4656240
 ==================================================
 
+
+--- Run: 2026-05-26 00:06:59 --- (3 new game(s) found)
+
+==================================================
+Name: Ropeman
+Release Date: May 25, 2026
+Price: $5.99
+Genres: Action, Casual
+Link: https://store.steampowered.com/app/4134680
+==================================================
+
+==================================================
+Name: Consorts of the Emperor
+Release Date: May 25, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4713420
+==================================================
+
+==================================================
+Name: Steam & Clicks
+Release Date: May 25, 2026
+Price: $4.99
+Genres: Casual
+Link: https://store.steampowered.com/app/3805000
+==================================================
+
