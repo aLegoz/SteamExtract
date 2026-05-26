@@ -19799,3 +19799,46 @@ Genres: Casual
 Link: https://store.steampowered.com/app/3805000
 ==================================================
 
+
+--- Run: 2026-05-26 04:55:38 --- (5 new game(s) found)
+
+==================================================
+Name: Roommate Lover: Love in Progress
+Release Date: May 25, 2026
+Price: $4.79 (-20%, was $5.99)
+Genres: Adventure, RPG, Simulation
+Link: https://store.steampowered.com/app/4539480
+==================================================
+
+==================================================
+Name: Isekai Big Dick
+Release Date: May 25, 2026
+Price: $9.89 (-10%, was $10.99)
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/3825660
+==================================================
+
+==================================================
+Name: Infiltrating Roudille
+Release Date: May 25, 2026
+Price: $11.99 (-20%, was $14.99)
+Genres: Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/4077960
+==================================================
+
+==================================================
+Name: S.A.L.A.M.E.
+Release Date: May 25, 2026
+Price: $3.39 (-15%, was $3.99)
+Genres: Casual, Simulation, Strategy
+Link: https://store.steampowered.com/app/4581930
+==================================================
+
+==================================================
+Name: SEX & DICE
+Release Date: May 25, 2026
+Price: $7.19 (-40%, was $11.99)
+Genres: Adventure, Casual, Indie, RPG, Simulation
+Link: https://store.steampowered.com/app/4458600
+==================================================
+
