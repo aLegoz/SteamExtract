@@ -20147,3 +20147,62 @@ Genres: Strategy
 Link: https://store.steampowered.com/app/254800
 ==================================================
 
+
+--- Run: 2026-05-26 19:52:03 --- (7 new game(s) found)
+
+==================================================
+Name: Veil of Torment
+Release Date: May 26, 2026
+Price: $5.49
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/3832300
+==================================================
+
+==================================================
+Name: FearPark Chapter 1
+Release Date: May 26, 2026
+Price: $9.99
+Genres: Adventure
+Link: https://store.steampowered.com/app/3434220
+==================================================
+
+==================================================
+Name: Statecraft: Corrupted Democracy
+Release Date: May 26, 2026
+Price: $8.49 (-15%, was $9.99)
+Genres: Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/2838620
+==================================================
+
+==================================================
+Name: Time of the Lilies
+Release Date: May 26, 2026
+Price: Free to Play
+Genres: Adventure, Indie, Free To Play
+Link: https://store.steampowered.com/app/4712660
+==================================================
+
+==================================================
+Name: Grumpy Jack
+Release Date: May 26, 2026
+Price: $5.94 (-15%, was $6.99)
+Genres: RPG
+Link: https://store.steampowered.com/app/3698230
+==================================================
+
+==================================================
+Name: Just Eat Sushi!
+Release Date: May 26, 2026
+Price: $2.25 (-25%, was $3.00)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4644090
+==================================================
+
+==================================================
+Name: Donut Smash
+Release Date: May 26, 2026
+Price: $3.99
+Genres: Action
+Link: https://store.steampowered.com/app/4672860
+==================================================
+
