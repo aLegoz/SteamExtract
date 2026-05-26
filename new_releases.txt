@@ -20024,3 +20024,126 @@ Genres: Casual, Indie
 Link: https://store.steampowered.com/app/4720660
 ==================================================
 
+
+--- Run: 2026-05-26 17:50:55 --- (15 new game(s) found)
+
+==================================================
+Name: HiFi Streamer Pro
+Release Date: May 26, 2026
+Price: $1.19 (-40%, was $1.99)
+Genres: Audio Production, Utilities
+Link: https://store.steampowered.com/app/4590700
+==================================================
+
+==================================================
+Name: Stonemachia
+Release Date: May 26, 2026
+Price: $17.99 (-10%, was $19.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/2982610
+==================================================
+
+==================================================
+Name: Mesoké
+Release Date: May 26, 2026
+Price: $13.49 (-10%, was $14.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/3239940
+==================================================
+
+==================================================
+Name: My Dorm - Season 2
+Release Date: May 26, 2026
+Price: $9.95 (-17%, was $11.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4178920
+==================================================
+
+==================================================
+Name: Realm of Ink
+Release Date: May 26, 2026
+Price: $22.49 (-10%, was $24.99)
+Genres: Action, Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/2597080
+==================================================
+
+==================================================
+Name: Prettiest Morgue
+Release Date: May 26, 2026
+Price: Free to Play
+Genres: Casual, Indie, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4624780
+==================================================
+
+==================================================
+Name: Field of Polarity
+Release Date: May 26, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/3070080
+==================================================
+
+==================================================
+Name: LumenTale: Memories of Trey
+Release Date: May 26, 2026
+Price: $22.49 (-10%, was $24.99)
+Genres: Action, Adventure, RPG
+Link: https://store.steampowered.com/app/2261430
+==================================================
+
+==================================================
+Name: Yerba Buena
+Release Date: May 26, 2026
+Price: $24.99
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/2330110
+==================================================
+
+==================================================
+Name: 101 Cats in Toronto
+Release Date: May 26, 2026
+Price: $1.19 (-40%, was $1.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4618890
+==================================================
+
+==================================================
+Name: Town to City
+Release Date: May 26, 2026
+Price: $26.99 (-10%, was $29.99)
+Genres: Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/3115220
+==================================================
+
+==================================================
+Name: Life Below
+Release Date: May 26, 2026
+Price: $26.99 (-10%, was $29.99)
+Genres: Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/2932150
+==================================================
+
+==================================================
+Name: Veil
+Release Date: May 26, 2026
+Price: $3.39 (-15%, was $3.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4587980
+==================================================
+
+==================================================
+Name: Figuritas
+Release Date: May 26, 2026
+Price: $3.59 (-10%, was $3.99)
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/4710100
+==================================================
+
+==================================================
+Name: Empire Earth III
+Release Date: May 26, 2026
+Price: $9.99
+Genres: Strategy
+Link: https://store.steampowered.com/app/254800
+==================================================
+
