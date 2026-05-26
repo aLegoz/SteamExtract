@@ -20206,3 +20206,30 @@ Genres: Action
 Link: https://store.steampowered.com/app/4672860
 ==================================================
 
+
+--- Run: 2026-05-26 21:25:33 --- (3 new game(s) found)
+
+==================================================
+Name: Luditect: Game Design Tool
+Release Date: May 26, 2026
+Price: $23.99 (-20%, was $29.99)
+Genres: RPG, Design & Illustration, Education, Utilities, Game Development
+Link: https://store.steampowered.com/app/4487950
+==================================================
+
+==================================================
+Name: Is Guilty
+Release Date: May 26, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Adventure, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4312280
+==================================================
+
+==================================================
+Name: Mystery Phantoms: Ghostly Secrets Collector's Edition
+Release Date: May 26, 2026
+Price: $15.99
+Genres: Adventure, Casual
+Link: https://store.steampowered.com/app/4176490
+==================================================
+
