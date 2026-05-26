@@ -19901,3 +19901,126 @@ Genres: Adventure, Indie
 Link: https://store.steampowered.com/app/3581700
 ==================================================
 
+
+--- Run: 2026-05-26 14:33:36 --- (15 new game(s) found)
+
+==================================================
+Name: Decay
+Release Date: May 26, 2026
+Price: $3.59 (-10%, was $3.99)
+Genres: Simulation
+Link: https://store.steampowered.com/app/4594750
+==================================================
+
+==================================================
+Name: 007 First Light
+Release Date: May 26, 2026
+Price: $69.99
+Genres: Action, Adventure
+Link: https://store.steampowered.com/app/3768760
+==================================================
+
+==================================================
+Name: Database Designer
+Release Date: May 26, 2026
+Price: Free to Play
+Genres: Simulation, Free To Play
+Link: https://store.steampowered.com/app/4098880
+==================================================
+
+==================================================
+Name: Kanji Cats
+Release Date: May 26, 2026
+Price: $9.94 (-15%, was $11.70)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/3830490
+==================================================
+
+==================================================
+Name: Empire Earth II: Gold Edition
+Release Date: May 26, 2026
+Price: $9.99
+Genres: Strategy
+Link: https://store.steampowered.com/app/254780
+==================================================
+
+==================================================
+Name: Empire Earth: Gold Edition
+Release Date: May 26, 2026
+Price: $5.99
+Genres: Strategy
+Link: https://store.steampowered.com/app/254760
+==================================================
+
+==================================================
+Name: Lost In The Backrooms: Day 100
+Release Date: May 26, 2026
+Price: $7.19 (-10%, was $7.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/3964500
+==================================================
+
+==================================================
+Name: Frog Up!
+Release Date: May 26, 2026
+Price: $1.19 (-40%, was $1.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4665830
+==================================================
+
+==================================================
+Name: The Way Home at Night
+Release Date: May 26, 2026
+Price: $0.90 (-40%, was $1.50)
+Genres: Indie
+Link: https://store.steampowered.com/app/4707320
+==================================================
+
+==================================================
+Name: 闇ゆく君に花束を～Bouquet for you in the dark～
+Release Date: May 26, 2026
+Price: $7.19 (-20%, was $8.99)
+Genres: Adventure, Simulation
+Link: https://store.steampowered.com/app/3829690
+==================================================
+
+==================================================
+Name: Tower of Babel: Survivors of Chaos
+Release Date: May 26, 2026
+Price: $10.39 (-20%, was $12.99)
+Genres: Action, Adventure, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/2665680
+==================================================
+
+==================================================
+Name: The Henchmen
+Release Date: May 26, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Action, Adventure, Indie, Racing
+Link: https://store.steampowered.com/app/1431750
+==================================================
+
+==================================================
+Name: Hentai Senpai: Fuck Hotel
+Release Date: May 26, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4378350
+==================================================
+
+==================================================
+Name: Arid Oasis Seeker
+Release Date: May 26, 2026
+Price: $1.59 (-20%, was $1.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/4710640
+==================================================
+
+==================================================
+Name: Hentai Clicker: Cassia is streaming
+Release Date: May 26, 2026
+Price: $2.00 (-33%, was $2.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4720660
+==================================================
+
