@@ -20244,3 +20244,22 @@ Genres: Action, Adventure, Indie
 Link: https://store.steampowered.com/app/1697850
 ==================================================
 
+
+--- Run: 2026-05-27 00:03:11 --- (2 new game(s) found)
+
+==================================================
+Name: My Music Label
+Release Date: May 26, 2026
+Price: Free to Play
+Genres: Simulation
+Link: https://store.steampowered.com/app/4414950
+==================================================
+
+==================================================
+Name: Tootum
+Release Date: May 26, 2026
+Price: $8.99
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/3210910
+==================================================
+
