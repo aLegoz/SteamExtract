@@ -20263,3 +20263,110 @@ Genres: Action, Adventure, Indie
 Link: https://store.steampowered.com/app/3210910
 ==================================================
 
+
+--- Run: 2026-05-27 05:07:14 --- (13 new game(s) found)
+
+==================================================
+Name: Ex Libris
+Release Date: May 26, 2026
+Price: Free to Play
+Genres: Adventure, RPG, Free To Play
+Link: https://store.steampowered.com/app/2894540
+==================================================
+
+==================================================
+Name: Your Weight
+Release Date: May 26, 2026
+Price: $0.79 (-20%, was $0.99)
+Genres: Casual, Indie, RPG, Simulation, Strategy
+Link: https://store.steampowered.com/app/3959160
+==================================================
+
+==================================================
+Name: XF Extreme Formula
+Release Date: May 26, 2026
+Price: $10.79 (-10%, was $11.99)
+Genres: Action, Racing
+Link: https://store.steampowered.com/app/2539910
+==================================================
+
+==================================================
+Name: Marathon:Glory Run(V1.0)
+Release Date: May 26, 2026
+Price: $15.99 (-20%, was $19.99)
+Genres: Casual, Indie, Simulation, Sports
+Link: https://store.steampowered.com/app/4702940
+==================================================
+
+==================================================
+Name: Birdwatching Notebook
+Release Date: May 26, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/4111370
+==================================================
+
+==================================================
+Name: Void Clickers
+Release Date: May 26, 2026
+Price: $2.39 (-40%, was $3.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4577130
+==================================================
+
+==================================================
+Name: Illegal Alien Tower Defense
+Release Date: May 26, 2026
+Price: $7.99
+Genres: Strategy
+Link: https://store.steampowered.com/app/4571190
+==================================================
+
+==================================================
+Name: Eve of Cultivation
+Release Date: May 26, 2026
+Price: $6.99
+Genres: Adventure
+Link: https://store.steampowered.com/app/4662130
+==================================================
+
+==================================================
+Name: Picronix
+Release Date: May 26, 2026
+Price: $2.09 (-30%, was $2.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4677360
+==================================================
+
+==================================================
+Name: Sushi Idle Clicker
+Release Date: May 26, 2026
+Price: $2.99
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4677590
+==================================================
+
+==================================================
+Name: Hearts in Open Water
+Release Date: May 26, 2026
+Price: $4.19 (-40%, was $6.99)
+Genres: Adventure, Simulation
+Link: https://store.steampowered.com/app/4697120
+==================================================
+
+==================================================
+Name: Peek
+Release Date: May 26, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/3575190
+==================================================
+
+==================================================
+Name: Cosmic Match
+Release Date: May 26, 2026
+Price: $0.84 (-15%, was $0.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/2934250
+==================================================
+
