@@ -20667,3 +20667,22 @@ Genres: Racing
 Link: https://store.steampowered.com/app/4445200
 ==================================================
 
+
+--- Run: 2026-05-27 21:42:33 --- (2 new game(s) found)
+
+==================================================
+Name: Tale of Chak Chak
+Release Date: May 27, 2026
+Price: $8.09 (-10%, was $8.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/3922870
+==================================================
+
+==================================================
+Name: CrosshairEDGE
+Release Date: May 27, 2026
+Price: $5.39 (-10%, was $5.99)
+Genres: Utilities
+Link: https://store.steampowered.com/app/4006310
+==================================================
+
