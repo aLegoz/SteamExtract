@@ -20584,3 +20584,86 @@ Genres: Indie
 Link: https://store.steampowered.com/app/4602970
 ==================================================
 
+
+--- Run: 2026-05-27 19:11:52 --- (10 new game(s) found)
+
+==================================================
+Name: Focus With Luna: Cozy Magic Studies
+Release Date: May 27, 2026
+Price: $5.59 (-20%, was $6.99)
+Genres: Casual, Simulation
+Link: https://store.steampowered.com/app/4443720
+==================================================
+
+==================================================
+Name: BRAVO
+Release Date: May 27, 2026
+Price: Free to Play
+Genres: Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/4683530
+==================================================
+
+==================================================
+Name: DREADMARCH
+Release Date: May 27, 2026
+Price: $3.74 (-25%, was $4.99)
+Genres: Action, Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/4285180
+==================================================
+
+==================================================
+Name: Fix and Clerk
+Release Date: May 27, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4057290
+==================================================
+
+==================================================
+Name: Eggs Must Flow
+Release Date: May 27, 2026
+Price: $3.59 (-10%, was $3.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4683750
+==================================================
+
+==================================================
+Name: G-MODEアーカイブス+ ナムコクロニクル
+Release Date: May 27, 2026
+Price: $7.99
+Genres: RPG, Simulation
+Link: https://store.steampowered.com/app/4559260
+==================================================
+
+==================================================
+Name: Rica Mode♡
+Release Date: May 27, 2026
+Price: $24.99
+Genres: Adventure, Simulation
+Link: https://store.steampowered.com/app/4517200
+==================================================
+
+==================================================
+Name: Soul Clicker
+Release Date: May 27, 2026
+Price: $4.66 (-30%, was $6.66)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4698010
+==================================================
+
+==================================================
+Name: Somnara
+Release Date: May 27, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Adventure
+Link: https://store.steampowered.com/app/4556620
+==================================================
+
+==================================================
+Name: Nitro City Racing
+Release Date: May 27, 2026
+Price: $4.99
+Genres: Racing
+Link: https://store.steampowered.com/app/4445200
+==================================================
+
