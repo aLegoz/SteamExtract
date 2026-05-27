@@ -20437,3 +20437,150 @@ Genres: Action, Adventure
 Link: https://store.steampowered.com/app/4724240
 ==================================================
 
+
+--- Run: 2026-05-27 16:31:23 --- (18 new game(s) found)
+
+==================================================
+Name: The Pharhad Road
+Release Date: May 27, 2026
+Price: Free to Play
+Genres: Action, Adventure, Indie, RPG, Simulation, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4706510
+==================================================
+
+==================================================
+Name: SOLARFLARE
+Release Date: May 27, 2026
+Price: $3.60 (-10%, was $4.00)
+Genres: RPG, Strategy
+Link: https://store.steampowered.com/app/3941030
+==================================================
+
+==================================================
+Name: Schrödinger's Call
+Release Date: May 27, 2026
+Price: $16.19 (-10%, was $17.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/2090390
+==================================================
+
+==================================================
+Name: Sydless
+Release Date: May 27, 2026
+Price: $9.89 (-10%, was $10.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/3524780
+==================================================
+
+==================================================
+Name: Utawarerumono: Past and Present Rediscovered
+Release Date: May 27, 2026
+Price: $53.99 (-10%, was $59.99)
+Genres: Adventure, RPG, Strategy
+Link: https://store.steampowered.com/app/4264260
+==================================================
+
+==================================================
+Name: Clutch Legend: FPS Career Simulator
+Release Date: May 27, 2026
+Price: $5.51 (-15%, was $6.49)
+Genres: Casual, Indie, RPG, Simulation, Sports, Strategy
+Link: https://store.steampowered.com/app/4530610
+==================================================
+
+==================================================
+Name: You All Know! Arm Tank Volley
+Release Date: May 27, 2026
+Price: $3.19 (-20%, was $3.99)
+Genres: Action
+Link: https://store.steampowered.com/app/4204840
+==================================================
+
+==================================================
+Name: Echo Generation 2
+Release Date: May 27, 2026
+Price: $22.49 (-10%, was $24.99)
+Genres: Action, Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/1115990
+==================================================
+
+==================================================
+Name: 100 Nature Cats
+Release Date: May 27, 2026
+Price: $1.33 (-33%, was $1.99)
+Genres: Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/4324630
+==================================================
+
+==================================================
+Name: 巴比伦:人与人之战
+Release Date: May 27, 2026
+Price: Free to Play
+Genres: Indie, RPG, Free To Play
+Link: https://store.steampowered.com/app/4703130
+==================================================
+
+==================================================
+Name: Avakin Life
+Release Date: May 27, 2026
+Price: Free to Play
+Genres: Casual, Massively Multiplayer, Simulation, Free To Play
+Link: https://store.steampowered.com/app/3165680
+==================================================
+
+==================================================
+Name: Revenger3
+Release Date: May 27, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: RPG
+Link: https://store.steampowered.com/app/4508620
+==================================================
+
+==================================================
+Name: Sail the Seas
+Release Date: May 27, 2026
+Price: $19.99
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/2866270
+==================================================
+
+==================================================
+Name: Enigmatic Worlds
+Release Date: May 27, 2026
+Price: $11.99
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/2558730
+==================================================
+
+==================================================
+Name: TBH: Task Bar Hero
+Release Date: May 27, 2026
+Price: Free to Play
+Genres: Casual, Indie, RPG, Free To Play
+Link: https://store.steampowered.com/app/3678970
+==================================================
+
+==================================================
+Name: Eisen
+Release Date: May 27, 2026
+Price: $1.19 (-40%, was $1.99)
+Genres: Action, Indie, RPG
+Link: https://store.steampowered.com/app/4290980
+==================================================
+
+==================================================
+Name: Drunk Parking
+Release Date: May 26, 2026
+Price: $1.49 (-25%, was $1.99)
+Genres: Simulation
+Link: https://store.steampowered.com/app/4707410
+==================================================
+
+==================================================
+Name: King Of The Hollow Circuit
+Release Date: May 26, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Indie
+Link: https://store.steampowered.com/app/4602970
+==================================================
+
