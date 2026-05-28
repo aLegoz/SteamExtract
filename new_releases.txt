@@ -21077,3 +21077,238 @@ Genres: Casual
 Link: https://store.steampowered.com/app/4727350
 ==================================================
 
+
+--- Run: 2026-05-28 17:31:05 --- (29 new game(s) found)
+
+==================================================
+Name: Sinister Remains
+Release Date: May 28, 2026
+Price: $6.29 (-10%, was $6.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/3930360
+==================================================
+
+==================================================
+Name: Salmon Tower
+Release Date: Coming soon
+Price: Free to Play
+Genres: Action, Adventure, Indie, Free To Play
+Link: https://store.steampowered.com/app/4147050
+==================================================
+
+==================================================
+Name: Space Diva
+Release Date: May 28, 2026
+Price: $7.19 (-20%, was $8.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/3044510
+==================================================
+
+==================================================
+Name: 868-BACK
+Release Date: May 28, 2026
+Price: $17.99 (-10%, was $19.99)
+Genres: RPG, Strategy
+Link: https://store.steampowered.com/app/3304110
+==================================================
+
+==================================================
+Name: Secrets of Velendar Castle - Escape Room
+Release Date: May 28, 2026
+Price: $10.39 (-20%, was $12.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4016880
+==================================================
+
+==================================================
+Name: Heatwave: Sam's Stay
+Release Date: May 28, 2026
+Price: $9.95 (-17%, was $11.99)
+Genres: Adventure, Indie, RPG, Simulation
+Link: https://store.steampowered.com/app/4103530
+==================================================
+
+==================================================
+Name: Astra's Garden
+Release Date: May 28, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/4694850
+==================================================
+
+==================================================
+Name: Bounty Brawl: Most Wanted
+Release Date: May 28, 2026
+Price: $13.59 (-15%, was $15.99)
+Genres: Action, Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/3097510
+==================================================
+
+==================================================
+Name: Taffy Tales Redux : The Morning After
+Release Date: May 28, 2026
+Price: $21.24 (-15%, was $24.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4040840
+==================================================
+
+==================================================
+Name: Facettes
+Release Date: May 28, 2026
+Price: $12.99
+Genres: Indie
+Link: https://store.steampowered.com/app/1623770
+==================================================
+
+==================================================
+Name: Compass
+Release Date: May 28, 2026
+Price: $9.74 (-25%, was $12.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4381560
+==================================================
+
+==================================================
+Name: One Move Away
+Release Date: May 28, 2026
+Price: $13.49 (-10%, was $14.99)
+Genres: Strategy
+Link: https://store.steampowered.com/app/3172440
+==================================================
+
+==================================================
+Name: Robosynthesis
+Release Date: May 28, 2026
+Price: Free to Play
+Genres: Action, Free To Play
+Link: https://store.steampowered.com/app/4682430
+==================================================
+
+==================================================
+Name: Sandloop
+Release Date: May 28, 2026
+Price: $11.04 (-15%, was $12.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/3783310
+==================================================
+
+==================================================
+Name: Feywood Wanderers
+Release Date: May 28, 2026
+Price: $13.49 (-10%, was $14.99)
+Genres: Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/3819720
+==================================================
+
+==================================================
+Name: SALVO
+Release Date: May 28, 2026
+Price: $7.19 (-40%, was $11.99)
+Genres: Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4565790
+==================================================
+
+==================================================
+Name: Morels: Out of this World
+Release Date: May 28, 2026
+Price: $8.49 (-15%, was $9.99)
+Genres: Adventure, Casual, Simulation
+Link: https://store.steampowered.com/app/4394020
+==================================================
+
+==================================================
+Name: Trackastrophe!
+Release Date: May 28, 2026
+Price: $8.09 (-10%, was $8.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/3419850
+==================================================
+
+==================================================
+Name: Mushi
+Release Date: May 28, 2026
+Price: $13.49 (-10%, was $14.99)
+Genres: Casual, Indie, RPG, Simulation
+Link: https://store.steampowered.com/app/4192770
+==================================================
+
+==================================================
+Name: Blueberry
+Release Date: May 28, 2026
+Price: $9.99 (-20%, was $12.49)
+Genres: Indie
+Link: https://store.steampowered.com/app/1536120
+==================================================
+
+==================================================
+Name: Ova Magica
+Release Date: May 28, 2026
+Price: $23.99 (-20%, was $29.99)
+Genres: Casual, Indie, RPG, Simulation
+Link: https://store.steampowered.com/app/1299170
+==================================================
+
+==================================================
+Name: Map Map - A Game About Maps
+Release Date: May 28, 2026
+Price: $13.49 (-10%, was $14.99)
+Genres: Adventure, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/2702260
+==================================================
+
+==================================================
+Name: Phasebreak
+Release Date: May 28, 2026
+Price: Free to Play
+Genres: Strategy, Free To Play
+Link: https://store.steampowered.com/app/4515410
+==================================================
+
+==================================================
+Name: Mining Grounds
+Release Date: May 28, 2026
+Price: $2.24 (-25%, was $2.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4643160
+==================================================
+
+==================================================
+Name: 2 Bows 1 Arrow
+Release Date: May 28, 2026
+Price: $6.99
+Genres: Action, Adventure
+Link: https://store.steampowered.com/app/3825740
+==================================================
+
+==================================================
+Name: Choozle!
+Release Date: May 28, 2026
+Price: Free to Play
+Genres: Adventure, Casual, Free To Play
+Link: https://store.steampowered.com/app/4330260
+==================================================
+
+==================================================
+Name: Magic Dodgeball: Homeless Edition
+Release Date: May 28, 2026
+Price: Free to Play
+Genres: Action, Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/3780290
+==================================================
+
+==================================================
+Name: Prism Deck Survivor
+Release Date: May 28, 2026
+Price: $3.74 (-25%, was $4.99)
+Genres: Action, Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4610170
+==================================================
+
+==================================================
+Name: The Suburbs
+Release Date: May 28, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Simulation
+Link: https://store.steampowered.com/app/3999940
+==================================================
+
