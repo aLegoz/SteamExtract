@@ -20946,3 +20946,134 @@ Genres: Action, Casual, Indie, Strategy
 Link: https://store.steampowered.com/app/4554410
 ==================================================
 
+
+--- Run: 2026-05-28 13:52:12 --- (16 new game(s) found)
+
+==================================================
+Name: SoundFest: Music Festival Manager
+Release Date: May 28, 2026
+Price: $11.04 (-15%, was $12.99)
+Genres: Simulation, Strategy
+Link: https://store.steampowered.com/app/4619060
+==================================================
+
+==================================================
+Name: Against The Godds
+Release Date: May 28, 2026
+Price: Free to Play
+Genres: Strategy, Free To Play
+Link: https://store.steampowered.com/app/4695220
+==================================================
+
+==================================================
+Name: Inkwellers
+Release Date: May 28, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/3061390
+==================================================
+
+==================================================
+Name: Bootleg Alchemist
+Release Date: May 28, 2026
+Price: $9.99
+Genres: Action, Indie, Simulation
+Link: https://store.steampowered.com/app/4208150
+==================================================
+
+==================================================
+Name: Airport Baggage Simulator
+Release Date: May 28, 2026
+Price: $14.39 (-20%, was $17.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/3887090
+==================================================
+
+==================================================
+Name: Heroes of Magic and Steel
+Release Date: May 28, 2026
+Price: $16.99 (-15%, was $19.99)
+Genres: Adventure, Strategy
+Link: https://store.steampowered.com/app/3226660
+==================================================
+
+==================================================
+Name: Do You even Forklift?
+Release Date: May 28, 2026
+Price: $7.19 (-10%, was $7.99)
+Genres: Adventure, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/2476650
+==================================================
+
+==================================================
+Name: Wild Assault
+Release Date: May 28, 2026
+Price: $8.99 (-40%, was $14.99)
+Genres: Action, Adventure, Massively Multiplayer
+Link: https://store.steampowered.com/app/2827230
+==================================================
+
+==================================================
+Name: Aethelgard: Galactic Guardian
+Release Date: May 28, 2026
+Price: Free to Play
+Genres: Action, Indie, RPG, Free To Play
+Link: https://store.steampowered.com/app/4719930
+==================================================
+
+==================================================
+Name: 万词破 - 单词女友
+Release Date: May 28, 2026
+Price: $12.74 (-15%, was $14.99)
+Genres: Casual, Indie, RPG, Simulation
+Link: https://store.steampowered.com/app/1981560
+==================================================
+
+==================================================
+Name: The Ballad of a True Thug
+Release Date: May 28, 2026
+Price: $4.99
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/3985000
+==================================================
+
+==================================================
+Name: Plush Parade
+Release Date: May 28, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: Casual, Simulation
+Link: https://store.steampowered.com/app/3943690
+==================================================
+
+==================================================
+Name: AIM/FLASH Trainer
+Release Date: May 28, 2026
+Price: Free to Play
+Genres: Action, Adventure, Casual, Indie, Simulation, Free To Play
+Link: https://store.steampowered.com/app/4711890
+==================================================
+
+==================================================
+Name: Kioku: Last Summer
+Release Date: May 28, 2026
+Price: $11.99 (-20%, was $14.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/3283310
+==================================================
+
+==================================================
+Name: FORENSIC - M.E. Protocol
+Release Date: May 28, 2026
+Price: $9.99 (-20%, was $12.49)
+Genres: Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/4307420
+==================================================
+
+==================================================
+Name: Giraffe Champion 2: Football Rock
+Release Date: May 28, 2026
+Price: $17.99 (-40%, was $29.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/4727350
+==================================================
+
