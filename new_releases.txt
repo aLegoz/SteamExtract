@@ -21371,3 +21371,102 @@ Genres: Casual, Simulation, Free To Play
 Link: https://store.steampowered.com/app/4555050
 ==================================================
 
+
+--- Run: 2026-05-28 22:25:00 --- (12 new game(s) found)
+
+==================================================
+Name: Tail of Glory
+Release Date: May 28, 2026
+Price: $2.99 (-40%, was $4.99)
+Genres: Adventure, Casual, Indie, RPG
+Link: https://store.steampowered.com/app/4141860
+==================================================
+
+==================================================
+Name: The Forgotten Killer
+Release Date: May 28, 2026
+Price: $3.74 (-25%, was $4.99)
+Genres: Action, Adventure, Casual, Strategy
+Link: https://store.steampowered.com/app/4339340
+==================================================
+
+==================================================
+Name: BarrelBots
+Release Date: May 28, 2026
+Price: $13.49 (-10%, was $14.99)
+Genres: Adventure, Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/3851470
+==================================================
+
+==================================================
+Name: Dramatour
+Release Date: May 28, 2026
+Price: $4.99
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/3908710
+==================================================
+
+==================================================
+Name: Beavertale
+Release Date: May 28, 2026
+Price: $4.99
+Genres: Adventure, Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4568350
+==================================================
+
+==================================================
+Name: KatsuobushiClicker
+Release Date: May 28, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Casual, Simulation
+Link: https://store.steampowered.com/app/3746080
+==================================================
+
+==================================================
+Name: The Black Siege
+Release Date: May 28, 2026
+Price: $4.99
+Genres: Action, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/2820010
+==================================================
+
+==================================================
+Name: Cozy Petchi Cats
+Release Date: May 28, 2026
+Price: $7.19 (-40%, was $11.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4492650
+==================================================
+
+==================================================
+Name: Fragmentary
+Release Date: May 28, 2026
+Price: $7.19 (-10%, was $7.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4083060
+==================================================
+
+==================================================
+Name: System Overload
+Release Date: May 28, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/4218580
+==================================================
+
+==================================================
+Name: Wall Of Insanity 2
+Release Date: May 28, 2026
+Price: $9.99
+Genres: Action, Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/4258570
+==================================================
+
+==================================================
+Name: Vivid Days
+Release Date: May 28, 2026
+Price: $13.49 (-10%, was $14.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/3680160
+==================================================
+
