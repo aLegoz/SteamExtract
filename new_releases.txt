@@ -20753,3 +20753,38 @@ Genres: Casual, Indie
 Link: https://store.steampowered.com/app/4727100
 ==================================================
 
+
+--- Run: 2026-05-28 01:48:42 --- (4 new game(s) found)
+
+==================================================
+Name: Roselt Calculator
+Release Date: May 27, 2026
+Price: $4.99
+Genres: Indie, Utilities
+Link: https://store.steampowered.com/app/4597760
+==================================================
+
+==================================================
+Name: Gaelic Football Laochra
+Release Date: May 27, 2026
+Price: $34.99
+Genres: Sports
+Link: https://store.steampowered.com/app/3115530
+==================================================
+
+==================================================
+Name: Detective Turtletop: Who Killed Harambe?
+Release Date: May 27, 2026
+Price: $8.99 (-40%, was $14.99)
+Genres: Adventure
+Link: https://store.steampowered.com/app/4312840
+==================================================
+
+==================================================
+Name: Orcavan: Idle RPG
+Release Date: May 27, 2026
+Price: $0.99
+Genres: Casual, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/4368110
+==================================================
+
