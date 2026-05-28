@@ -21470,3 +21470,38 @@ Genres: Adventure, Indie
 Link: https://store.steampowered.com/app/3680160
 ==================================================
 
+
+--- Run: 2026-05-28 23:59:47 --- (4 new game(s) found)
+
+==================================================
+Name: Baspetball
+Release Date: May 28, 2026
+Price: $2.39 (-20%, was $2.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/3421940
+==================================================
+
+==================================================
+Name: Congratulations On Your Purchase
+Release Date: May 28, 2026
+Price: $999.99
+Genres: Adventure, Simulation
+Link: https://store.steampowered.com/app/4693030
+==================================================
+
+==================================================
+Name: Zero Warning: Burnt Out
+Release Date: May 28, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/4029840
+==================================================
+
+==================================================
+Name: Smol Toad
+Release Date: May 28, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4230130
+==================================================
+
