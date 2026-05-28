@@ -21312,3 +21312,62 @@ Genres: Simulation
 Link: https://store.steampowered.com/app/3999940
 ==================================================
 
+
+--- Run: 2026-05-28 20:01:20 --- (7 new game(s) found)
+
+==================================================
+Name: Gelli Fields
+Release Date: May 28, 2026
+Price: $8.49 (-15%, was $9.99)
+Genres: Adventure, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/1965980
+==================================================
+
+==================================================
+Name: NUMERICAL ALCHEMIST
+Release Date: May 28, 2026
+Price: $3.99
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4535600
+==================================================
+
+==================================================
+Name: Beat The Champions
+Release Date: May 28, 2026
+Price: $17.99 (-10%, was $19.99)
+Genres: Indie, Sports
+Link: https://store.steampowered.com/app/4008350
+==================================================
+
+==================================================
+Name: Dread Fields
+Release Date: May 28, 2026
+Price: $5.94 (-15%, was $6.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4258770
+==================================================
+
+==================================================
+Name: Mandela Invasion VR: Alternates
+Release Date: May 28, 2026
+Price: $14.99
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4752980
+==================================================
+
+==================================================
+Name: Midnight Sin
+Release Date: May 28, 2026
+Price: $17.99 (-10%, was $19.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/3877070
+==================================================
+
+==================================================
+Name: Teaching Gender-Affirming Care
+Release Date: May 28, 2026
+Price: Free to Play
+Genres: Casual, Simulation, Free To Play
+Link: https://store.steampowered.com/app/4555050
+==================================================
+
