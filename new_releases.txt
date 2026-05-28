@@ -20887,3 +20887,62 @@ Genres: Action, Casual, Indie
 Link: https://store.steampowered.com/app/4683280
 ==================================================
 
+
+--- Run: 2026-05-28 09:59:32 --- (7 new game(s) found)
+
+==================================================
+Name: ORUN
+Release Date: May 28, 2026
+Price: Free to Play
+Genres: Action, Adventure, Free To Play
+Link: https://store.steampowered.com/app/4598370
+==================================================
+
+==================================================
+Name: Ghost of Tokyo
+Release Date: May 28, 2026
+Price: $8.83 (-32%, was $12.99)
+Genres: Adventure, Casual, Indie, RPG
+Link: https://store.steampowered.com/app/4620930
+==================================================
+
+==================================================
+Name: LAST STAND: DEAD DESERT
+Release Date: May 28, 2026
+Price: Free to Play
+Genres: Action, Adventure, Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/4637500
+==================================================
+
+==================================================
+Name: Hamster Talk
+Release Date: May 27, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Casual, Simulation
+Link: https://store.steampowered.com/app/3985130
+==================================================
+
+==================================================
+Name: Balkan Shop Simulator
+Release Date: May 27, 2026
+Price: $10.39 (-20%, was $12.99)
+Genres: Simulation
+Link: https://store.steampowered.com/app/4016760
+==================================================
+
+==================================================
+Name: BreakLoop
+Release Date: May 27, 2026
+Price: $3.99
+Genres: Action, Indie, Strategy
+Link: https://store.steampowered.com/app/4228900
+==================================================
+
+==================================================
+Name: VOID WARD
+Release Date: May 27, 2026
+Price: $2.39 (-20%, was $2.99)
+Genres: Action, Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4554410
+==================================================
+
