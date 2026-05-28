@@ -20788,3 +20788,102 @@ Genres: Casual, Indie, RPG, Strategy
 Link: https://store.steampowered.com/app/4368110
 ==================================================
 
+
+--- Run: 2026-05-28 05:59:25 --- (12 new game(s) found)
+
+==================================================
+Name: Only She and I Remain in This World
+Release Date: May 27, 2026
+Price: $2.79 (-15%, was $3.29)
+Genres: Adventure
+Link: https://store.steampowered.com/app/4726980
+==================================================
+
+==================================================
+Name: Easy Pose
+Release Date: May 27, 2026
+Price: $9.74 (-25%, was $12.99)
+Genres: Unknown
+Link: https://store.steampowered.com/app/979710
+==================================================
+
+==================================================
+Name: All About Luck
+Release Date: May 27, 2026
+Price: $9.34 (-15%, was $10.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4209240
+==================================================
+
+==================================================
+Name: Havenfall is For Lovers
+Release Date: May 27, 2026
+Price: $29.99
+Genres: Adventure
+Link: https://store.steampowered.com/app/4314480
+==================================================
+
+==================================================
+Name: Nickelodeon Extreme Tennis: Next!
+Release Date: May 27, 2026
+Price: $29.99
+Genres: Action, Casual, Sports
+Link: https://store.steampowered.com/app/4111390
+==================================================
+
+==================================================
+Name: E9uations
+Release Date: May 27, 2026
+Price: $13.49 (-10%, was $14.99)
+Genres: Indie
+Link: https://store.steampowered.com/app/3345810
+==================================================
+
+==================================================
+Name: Imaginary Kingdom
+Release Date: May 27, 2026
+Price: Free to Play
+Genres: Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/4380400
+==================================================
+
+==================================================
+Name: Nna-tan's Pixel Princess
+Release Date: May 27, 2026
+Price: $5.99
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4403340
+==================================================
+
+==================================================
+Name: Meteor Swarm Old School
+Release Date: May 27, 2026
+Price: Free to Play
+Genres: Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/4517090
+==================================================
+
+==================================================
+Name: Touhou Yukkuri Mountain
+Release Date: May 27, 2026
+Price: $13.49 (-10%, was $14.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/4459820
+==================================================
+
+==================================================
+Name: LookFoorMe
+Release Date: May 27, 2026
+Price: $0.79 (-20%, was $0.99)
+Genres: Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/4415750
+==================================================
+
+==================================================
+Name: Sneaky Secret Mission!
+Release Date: May 27, 2026
+Price: $4.96 (-29%, was $6.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4683280
+==================================================
+
