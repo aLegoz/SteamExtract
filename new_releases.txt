@@ -21858,3 +21858,126 @@ Genres: Action, Casual, Indie, Strategy
 Link: https://store.steampowered.com/app/4180640
 ==================================================
 
+
+--- Run: 2026-05-29 14:33:55 --- (15 new game(s) found)
+
+==================================================
+Name: HEXED DELTA
+Release Date: May 29, 2026
+Price: $5.09 (-15%, was $5.99)
+Genres: Action, Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4626730
+==================================================
+
+==================================================
+Name: Starvester
+Release Date: May 29, 2026
+Price: $6.29 (-10%, was $6.99)
+Genres: Casual, Simulation, Strategy
+Link: https://store.steampowered.com/app/4194800
+==================================================
+
+==================================================
+Name: Anthea's Justice
+Release Date: May 29, 2026
+Price: $4.00
+Genres: Action
+Link: https://store.steampowered.com/app/4543800
+==================================================
+
+==================================================
+Name: Plant Budz 98
+Release Date: May 29, 2026
+Price: $9.99
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/2872760
+==================================================
+
+==================================================
+Name: Curtain Call
+Release Date: May 29, 2026
+Price: Free to Play
+Genres: Action, Adventure, Free To Play
+Link: https://store.steampowered.com/app/4515420
+==================================================
+
+==================================================
+Name: Don't Touch the Snail
+Release Date: May 29, 2026
+Price: $0.99 (-34%, was $1.49)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4149320
+==================================================
+
+==================================================
+Name: StormGauge
+Release Date: May 29, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Utilities
+Link: https://store.steampowered.com/app/4586800
+==================================================
+
+==================================================
+Name: Automaton Heart
+Release Date: May 29, 2026
+Price: $13.49 (-10%, was $14.99)
+Genres: Action, Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/3070020
+==================================================
+
+==================================================
+Name: 暴杀残雨之夜
+Release Date: May 29, 2026
+Price: $4.50 (-25%, was $6.00)
+Genres: Indie, RPG
+Link: https://store.steampowered.com/app/3764940
+==================================================
+
+==================================================
+Name: Shamania
+Release Date: May 29, 2026
+Price: $11.99 (-20%, was $14.99)
+Genres: Action, Adventure, RPG
+Link: https://store.steampowered.com/app/2868100
+==================================================
+
+==================================================
+Name: System Ascension: Idle Core
+Release Date: May 29, 2026
+Price: $4.99
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4185080
+==================================================
+
+==================================================
+Name: Momo Don't Leave
+Release Date: May 29, 2026
+Price: $2.39 (-20%, was $2.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4630050
+==================================================
+
+==================================================
+Name: Card Idle: Rise of the Eight
+Release Date: May 29, 2026
+Price: $5.39 (-10%, was $5.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4154230
+==================================================
+
+==================================================
+Name: N.E.R.D
+Release Date: May 29, 2026
+Price: $6.39 (-20%, was $7.99)
+Genres: Adventure
+Link: https://store.steampowered.com/app/4128990
+==================================================
+
+==================================================
+Name: Meow Over Moo
+Release Date: May 29, 2026
+Price: $5.39 (-10%, was $5.99)
+Genres: Strategy
+Link: https://store.steampowered.com/app/4511980
+==================================================
+
