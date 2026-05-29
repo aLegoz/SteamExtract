@@ -22112,3 +22112,102 @@ Genres: Adventure, Indie
 Link: https://store.steampowered.com/app/3382310
 ==================================================
 
+
+--- Run: 2026-05-29 20:22:47 --- (12 new game(s) found)
+
+==================================================
+Name: Teeth Cutter
+Release Date: May 29, 2026
+Price: $5.59 (-20%, was $6.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4125490
+==================================================
+
+==================================================
+Name: Watching the Sky
+Release Date: May 29, 2026
+Price: $0.99
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4684600
+==================================================
+
+==================================================
+Name: Dung Battles
+Release Date: May 29, 2026
+Price: Free to Play
+Genres: Action, Indie, RPG, Free To Play
+Link: https://store.steampowered.com/app/4075610
+==================================================
+
+==================================================
+Name: Richard
+Release Date: May 29, 2026
+Price: Free to Play
+Genres: Casual, RPG, Strategy, Free To Play
+Link: https://store.steampowered.com/app/3635830
+==================================================
+
+==================================================
+Name: Escape From Crimson Manor: Trapped Together
+Release Date: May 29, 2026
+Price: $9.74 (-25%, was $12.99)
+Genres: Adventure
+Link: https://store.steampowered.com/app/2345430
+==================================================
+
+==================================================
+Name: Alien Market Simulator
+Release Date: May 29, 2026
+Price: $10.39 (-20%, was $12.99)
+Genres: Action, Adventure, Casual, Indie, RPG, Simulation, Sports
+Link: https://store.steampowered.com/app/3215290
+==================================================
+
+==================================================
+Name: Week of the MEP
+Release Date: May 29, 2026
+Price: Free to Play
+Genres: Adventure, Indie, Free To Play
+Link: https://store.steampowered.com/app/4673040
+==================================================
+
+==================================================
+Name: Destructive Contraptions
+Release Date: May 29, 2026
+Price: $3.59 (-40%, was $5.99)
+Genres: Action, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/1331180
+==================================================
+
+==================================================
+Name: Aurora's Awakening
+Release Date: May 29, 2026
+Price: $12.00 (-20%, was $15.00)
+Genres: Action, Adventure
+Link: https://store.steampowered.com/app/4092730
+==================================================
+
+==================================================
+Name: Project Confluence
+Release Date: May 29, 2026
+Price: $9.89 (-10%, was $10.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/3621620
+==================================================
+
+==================================================
+Name: SUMMER WITH MY WIFE
+Release Date: May 29, 2026
+Price: $4.19 (-40%, was $6.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4646550
+==================================================
+
+==================================================
+Name: Chickens. Chickens? Chickens!
+Release Date: May 29, 2026
+Price: $2.49
+Genres: Action, Casual
+Link: https://store.steampowered.com/app/4673420
+==================================================
+
