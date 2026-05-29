@@ -21596,3 +21596,78 @@ Genres: Action
 Link: https://store.steampowered.com/app/4438460
 ==================================================
 
+
+--- Run: 2026-05-29 07:44:16 --- (9 new game(s) found)
+
+==================================================
+Name: GrigoriNightDragon
+Release Date: May 28, 2026
+Price: Free to Play
+Genres: Action, Adventure, RPG, Simulation
+Link: https://store.steampowered.com/app/2727870
+==================================================
+
+==================================================
+Name: The Retro Exorcist
+Release Date: May 28, 2026
+Price: Free to Play
+Genres: Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/4590750
+==================================================
+
+==================================================
+Name: Sisters x Lovers
+Release Date: May 28, 2026
+Price: $17.09 (-10%, was $18.99)
+Genres: Adventure
+Link: https://store.steampowered.com/app/3988440
+==================================================
+
+==================================================
+Name: Office Inspector
+Release Date: May 28, 2026
+Price: $4.49 (-25%, was $5.99)
+Genres: Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/4231740
+==================================================
+
+==================================================
+Name: 失焦 Out of Focus
+Release Date: May 28, 2026
+Price: $2.54 (-15%, was $2.99)
+Genres: Indie
+Link: https://store.steampowered.com/app/4604320
+==================================================
+
+==================================================
+Name: Mina the Hollower
+Release Date: May 28, 2026
+Price: $19.99
+Genres: Action, Adventure
+Link: https://store.steampowered.com/app/1875580
+==================================================
+
+==================================================
+Name: Trace of the Villa
+Release Date: May 28, 2026
+Price: $14.99
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/3483660
+==================================================
+
+==================================================
+Name: Call of Elmore
+Release Date: May 28, 2026
+Price: $7.03 (-12%, was $7.99)
+Genres: Action, Adventure
+Link: https://store.steampowered.com/app/4671590
+==================================================
+
+==================================================
+Name: さーきゅらーディフェンス!!～とある辺境惑星開拓事務所、３０日の記録～
+Release Date: May 28, 2026
+Price: $7.19 (-20%, was $8.99)
+Genres: Adventure, Casual, Strategy
+Link: https://store.steampowered.com/app/2776240
+==================================================
+
