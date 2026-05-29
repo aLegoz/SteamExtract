@@ -21671,3 +21671,190 @@ Genres: Adventure, Casual, Strategy
 Link: https://store.steampowered.com/app/2776240
 ==================================================
 
+
+--- Run: 2026-05-29 11:17:39 --- (23 new game(s) found)
+
+==================================================
+Name: Primordio
+Release Date: May 29, 2026
+Price: $5.94 (-15%, was $6.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4385580
+==================================================
+
+==================================================
+Name: Overdrive Breakout
+Release Date: May 29, 2026
+Price: $2.69 (-10%, was $2.99)
+Genres: Action, Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/3742920
+==================================================
+
+==================================================
+Name: Auto Battle Girl
+Release Date: May 29, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/3104000
+==================================================
+
+==================================================
+Name: MarbleFlow
+Release Date: May 29, 2026
+Price: $5.39 (-10%, was $5.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4549080
+==================================================
+
+==================================================
+Name: Abyss Deck
+Release Date: May 29, 2026
+Price: $5.39 (-10%, was $5.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/3807250
+==================================================
+
+==================================================
+Name: Cochonnet
+Release Date: May 29, 2026
+Price: $7.19 (-10%, was $7.99)
+Genres: Casual, Indie, Sports
+Link: https://store.steampowered.com/app/3142840
+==================================================
+
+==================================================
+Name: Hyper Sphere
+Release Date: May 29, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Action
+Link: https://store.steampowered.com/app/4550120
+==================================================
+
+==================================================
+Name: Are You A Pilot
+Release Date: May 29, 2026
+Price: Free to Play
+Genres: Action, Indie, Racing, Sports, Free To Play
+Link: https://store.steampowered.com/app/4717260
+==================================================
+
+==================================================
+Name: Zombie Self-Cultivation
+Release Date: May 29, 2026
+Price: $8.91 (-10%, was $9.90)
+Genres: Action, Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/4187670
+==================================================
+
+==================================================
+Name: New Folder
+Release Date: May 29, 2026
+Price: $3.99
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/4159130
+==================================================
+
+==================================================
+Name: Into the Slimy Mines
+Release Date: May 29, 2026
+Price: $11.69 (-10%, was $12.99)
+Genres: Action, Adventure, Indie, Strategy
+Link: https://store.steampowered.com/app/3639440
+==================================================
+
+==================================================
+Name: RoboDeal Simulator Prologue
+Release Date: May 29, 2026
+Price: Free to Play
+Genres: Casual, Indie, Simulation, Free To Play
+Link: https://store.steampowered.com/app/4208520
+==================================================
+
+==================================================
+Name: Revive & Repeat
+Release Date: May 29, 2026
+Price: $1.99
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/3692490
+==================================================
+
+==================================================
+Name: Control, I'm Not Coming Back
+Release Date: May 29, 2026
+Price: Free to Play
+Genres: Adventure, Indie, Free To Play
+Link: https://store.steampowered.com/app/4515660
+==================================================
+
+==================================================
+Name: Loli Ninja Village
+Release Date: May 29, 2026
+Price: $6.29 (-10%, was $6.99)
+Genres: Adventure, Casual, Indie, RPG
+Link: https://store.steampowered.com/app/4307340
+==================================================
+
+==================================================
+Name: SubZero
+Release Date: May 29, 2026
+Price: $7.69 (-23%, was $9.99)
+Genres: Adventure, Simulation
+Link: https://store.steampowered.com/app/3711170
+==================================================
+
+==================================================
+Name: Hentai Tales: Parasitic Corrosive Slime
+Release Date: May 29, 2026
+Price: $0.59 (-40%, was $0.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4571240
+==================================================
+
+==================================================
+Name: HAM TANK!
+Release Date: May 29, 2026
+Price: Free to Play
+Genres: Action, Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/4550330
+==================================================
+
+==================================================
+Name: Cat Vs Slime 猫咪大战史莱姆
+Release Date: May 28, 2026
+Price: $2.99
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/3972160
+==================================================
+
+==================================================
+Name: F.R.E.D.'s Ascent
+Release Date: May 28, 2026
+Price: $2.99
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4689610
+==================================================
+
+==================================================
+Name: Moonlit Lanterns
+Release Date: May 28, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: Indie, RPG
+Link: https://store.steampowered.com/app/3855140
+==================================================
+
+==================================================
+Name: Left Hand Magic
+Release Date: May 28, 2026
+Price: $17.99 (-10%, was $19.99)
+Genres: Indie, RPG, Simulation
+Link: https://store.steampowered.com/app/4667300
+==================================================
+
+==================================================
+Name: Pop Balloons and Drop People
+Release Date: May 28, 2026
+Price: $2.99 (-40%, was $4.99)
+Genres: Action, Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4180640
+==================================================
+
