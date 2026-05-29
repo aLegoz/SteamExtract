@@ -22211,3 +22211,38 @@ Genres: Action, Casual
 Link: https://store.steampowered.com/app/4673420
 ==================================================
 
+
+--- Run: 2026-05-29 22:22:53 --- (4 new game(s) found)
+
+==================================================
+Name: CatBun Idle
+Release Date: May 29, 2026
+Price: $6.29 (-10%, was $6.99)
+Genres: Casual, Indie, RPG
+Link: https://store.steampowered.com/app/4634520
+==================================================
+
+==================================================
+Name: Cosmic Rays
+Release Date: May 29, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Action
+Link: https://store.steampowered.com/app/4208890
+==================================================
+
+==================================================
+Name: The Lakeview Orb 2: Consequences
+Release Date: May 29, 2026
+Price: Free to Play
+Genres: Action, Indie, Free To Play
+Link: https://store.steampowered.com/app/4674130
+==================================================
+
+==================================================
+Name: To Kill Eros
+Release Date: May 29, 2026
+Price: $14.99 (-25%, was $19.99)
+Genres: Indie
+Link: https://store.steampowered.com/app/4047480
+==================================================
+
