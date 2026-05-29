@@ -21505,3 +21505,94 @@ Genres: Casual, Indie, Simulation
 Link: https://store.steampowered.com/app/4230130
 ==================================================
 
+
+--- Run: 2026-05-29 03:39:19 --- (11 new game(s) found)
+
+==================================================
+Name: 王者争雄
+Release Date: May 28, 2026
+Price: Free to Play
+Genres: Action, Indie, Massively Multiplayer, RPG, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4524310
+==================================================
+
+==================================================
+Name: 101 Cats in Hanoi
+Release Date: May 28, 2026
+Price: $1.19 (-40%, was $1.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4618910
+==================================================
+
+==================================================
+Name: 30 Days of Work
+Release Date: May 28, 2026
+Price: $6.29 (-10%, was $6.99)
+Genres: Casual, Indie, RPG
+Link: https://store.steampowered.com/app/4065090
+==================================================
+
+==================================================
+Name: Rock Island
+Release Date: May 28, 2026
+Price: $5.39 (-10%, was $5.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/3561030
+==================================================
+
+==================================================
+Name: 武道残编
+Release Date: May 28, 2026
+Price: $3.19 (-20%, was $3.99)
+Genres: Casual, RPG, Strategy
+Link: https://store.steampowered.com/app/3550880
+==================================================
+
+==================================================
+Name: Mighty Meow
+Release Date: May 28, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: Action, Casual, RPG, Simulation, Strategy
+Link: https://store.steampowered.com/app/3262100
+==================================================
+
+==================================================
+Name: Iris Odyssey
+Release Date: May 28, 2026
+Price: Free to Play
+Genres: Adventure, Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/3263400
+==================================================
+
+==================================================
+Name: STARDUST: Wish of Witch
+Release Date: May 28, 2026
+Price: $22.49 (-10%, was $24.99)
+Genres: Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/3936730
+==================================================
+
+==================================================
+Name: Hearth & Shadow
+Release Date: May 28, 2026
+Price: $1.39 (-30%, was $1.99)
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4373690
+==================================================
+
+==================================================
+Name: Pudding the Jug
+Release Date: May 28, 2026
+Price: $9.99
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4600370
+==================================================
+
+==================================================
+Name: A Life I Couldn’t Feel
+Release Date: May 28, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Action
+Link: https://store.steampowered.com/app/4438460
+==================================================
+
