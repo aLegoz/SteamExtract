@@ -22446,3 +22446,14 @@ Genres: Casual
 Link: https://store.steampowered.com/app/4712900
 ==================================================
 
+
+--- Run: 2026-05-30 21:48:07 --- (1 new game(s) found)
+
+==================================================
+Name: Vesperis
+Release Date: May 30, 2026
+Price: $11.19 (-20%, was $13.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/3655670
+==================================================
+
