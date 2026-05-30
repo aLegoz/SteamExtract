@@ -22340,3 +22340,38 @@ Genres: Action, Adventure, Casual, Indie
 Link: https://store.steampowered.com/app/2115340
 ==================================================
 
+
+--- Run: 2026-05-30 07:34:10 --- (4 new game(s) found)
+
+==================================================
+Name: Dawn of Corruption
+Release Date: May 29, 2026
+Price: Free to Play
+Genres: Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/1608730
+==================================================
+
+==================================================
+Name: Signal Zero
+Release Date: May 29, 2026
+Price: $2.99
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/4654680
+==================================================
+
+==================================================
+Name: Hentai Age Airport
+Release Date: May 29, 2026
+Price: $0.79 (-20%, was $0.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4732610
+==================================================
+
+==================================================
+Name: Deck-A-Doodle Solitaire
+Release Date: May 29, 2026
+Price: $7.19 (-10%, was $7.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/4701820
+==================================================
+
