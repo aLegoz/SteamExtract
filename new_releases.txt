@@ -22289,3 +22289,54 @@ Genres: Adventure, RPG
 Link: https://store.steampowered.com/app/4358910
 ==================================================
 
+
+--- Run: 2026-05-30 04:42:32 --- (6 new game(s) found)
+
+==================================================
+Name: Raw Video
+Release Date: May 29, 2026
+Price: $9.99
+Genres: Animation & Modeling, Design & Illustration, Utilities, Video Production
+Link: https://store.steampowered.com/app/4686350
+==================================================
+
+==================================================
+Name: Kunugi's Life is a Mess!
+Release Date: May 29, 2026
+Price: $8.79 (-20%, was $10.99)
+Genres: RPG
+Link: https://store.steampowered.com/app/4429950
+==================================================
+
+==================================================
+Name: Tavern, Inn, and the Halberd
+Release Date: May 29, 2026
+Price: $8.09 (-10%, was $8.99)
+Genres: Adventure, Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4110360
+==================================================
+
+==================================================
+Name: Birdshot
+Release Date: May 29, 2026
+Price: $4.99
+Genres: Action, Simulation
+Link: https://store.steampowered.com/app/4644040
+==================================================
+
+==================================================
+Name: Collision Course
+Release Date: May 29, 2026
+Price: $11.99
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/555400
+==================================================
+
+==================================================
+Name: Shale
+Release Date: May 29, 2026
+Price: $19.99
+Genres: Action, Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/2115340
+==================================================
+
