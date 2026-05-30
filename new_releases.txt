@@ -22375,3 +22375,14 @@ Genres: Casual
 Link: https://store.steampowered.com/app/4701820
 ==================================================
 
+
+--- Run: 2026-05-30 09:48:15 --- (1 new game(s) found)
+
+==================================================
+Name: BünzliFight: Swiss City Simulator
+Release Date: May 30, 2026
+Price: Free to Play
+Genres: Indie, Simulation, Free To Play
+Link: https://store.steampowered.com/app/4563360
+==================================================
+
