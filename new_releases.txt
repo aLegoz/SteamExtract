@@ -22405,3 +22405,14 @@ Genres: Casual
 Link: https://store.steampowered.com/app/4651070
 ==================================================
 
+
+--- Run: 2026-05-30 15:56:54 --- (1 new game(s) found)
+
+==================================================
+Name: FRESHMAN: Project SEX 🔞
+Release Date: May 30, 2026
+Price: $9.44 (-37%, was $14.99)
+Genres: Adventure, Casual, Simulation
+Link: https://store.steampowered.com/app/4491190
+==================================================
+
