@@ -22386,3 +22386,22 @@ Genres: Indie, Simulation, Free To Play
 Link: https://store.steampowered.com/app/4563360
 ==================================================
 
+
+--- Run: 2026-05-30 12:57:59 --- (2 new game(s) found)
+
+==================================================
+Name: 100 Music Cats
+Release Date: May 30, 2026
+Price: $1.33 (-33%, was $1.99)
+Genres: Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/4310660
+==================================================
+
+==================================================
+Name: Red Clicker
+Release Date: May 30, 2026
+Price: $0.99
+Genres: Casual
+Link: https://store.steampowered.com/app/4651070
+==================================================
+
