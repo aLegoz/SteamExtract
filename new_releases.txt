@@ -22416,3 +22416,14 @@ Genres: Adventure, Casual, Simulation
 Link: https://store.steampowered.com/app/4491190
 ==================================================
 
+
+--- Run: 2026-05-30 16:53:54 --- (1 new game(s) found)
+
+==================================================
+Name: The Legend of You
+Release Date: May 30, 2026
+Price: $7.00 (-30%, was $10.00)
+Genres: Strategy
+Link: https://store.steampowered.com/app/4101210
+==================================================
+
