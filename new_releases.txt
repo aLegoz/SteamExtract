@@ -22427,3 +22427,22 @@ Genres: Strategy
 Link: https://store.steampowered.com/app/4101210
 ==================================================
 
+
+--- Run: 2026-05-30 17:54:53 --- (2 new game(s) found)
+
+==================================================
+Name: Covert X Universe
+Release Date: May 30, 2026
+Price: $19.99
+Genres: Action, Indie, Massively Multiplayer, RPG
+Link: https://store.steampowered.com/app/4498650
+==================================================
+
+==================================================
+Name: Hentai Ginger Girls
+Release Date: May 30, 2026
+Price: $1.49
+Genres: Casual
+Link: https://store.steampowered.com/app/4712900
+==================================================
+
