@@ -22246,3 +22246,46 @@ Genres: Indie
 Link: https://store.steampowered.com/app/4047480
 ==================================================
 
+
+--- Run: 2026-05-30 00:00:44 --- (5 new game(s) found)
+
+==================================================
+Name: PULSARI
+Release Date: May 29, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4654150
+==================================================
+
+==================================================
+Name: ItLivesInTheWoods
+Release Date: May 29, 2026
+Price: $5.69
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/1852980
+==================================================
+
+==================================================
+Name: Shipped In Space
+Release Date: May 29, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4681810
+==================================================
+
+==================================================
+Name: Hearts Under Guard
+Release Date: May 29, 2026
+Price: $4.19 (-40%, was $6.99)
+Genres: Adventure, Simulation
+Link: https://store.steampowered.com/app/4702460
+==================================================
+
+==================================================
+Name: The Adventure of Lioh - The beginning of the End
+Release Date: May 29, 2026
+Price: $4.99
+Genres: Adventure, RPG
+Link: https://store.steampowered.com/app/4358910
+==================================================
+
