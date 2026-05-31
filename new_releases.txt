@@ -22533,3 +22533,22 @@ Genres: Casual, Free To Play
 Link: https://store.steampowered.com/app/4312800
 ==================================================
 
+
+--- Run: 2026-05-31 13:07:39 --- (2 new game(s) found)
+
+==================================================
+Name: Nova Strider
+Release Date: May 31, 2026
+Price: Free to Play
+Genres: Action, Indie, Free To Play
+Link: https://store.steampowered.com/app/4701320
+==================================================
+
+==================================================
+Name: Absolutes Akestas Tournament
+Release Date: May 30, 2026
+Price: $14.99 (-25%, was $19.99)
+Genres: Adventure, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/4303370
+==================================================
+
