@@ -22735,3 +22735,14 @@ Genres: Indie
 Link: https://store.steampowered.com/app/4718880
 ==================================================
 
+
+--- Run: 2026-05-31 22:45:15 --- (1 new game(s) found)
+
+==================================================
+Name: Sanctum Mage
+Release Date: May 31, 2026
+Price: $8.09 (-10%, was $8.99)
+Genres: Action, Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/3609720
+==================================================
+
