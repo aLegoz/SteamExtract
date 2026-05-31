@@ -22746,3 +22746,38 @@ Genres: Action, Adventure, Indie, RPG
 Link: https://store.steampowered.com/app/3609720
 ==================================================
 
+
+--- Run: 2026-05-31 23:54:15 --- (4 new game(s) found)
+
+==================================================
+Name: Gum Squad
+Release Date: May 31, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4231020
+==================================================
+
+==================================================
+Name: Ghost Town Seekers
+Release Date: May 31, 2026
+Price: $1.79 (-40%, was $2.99)
+Genres: Casual, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/4642550
+==================================================
+
+==================================================
+Name: Neon Whispers
+Release Date: May 31, 2026
+Price: $11.16 (-14%, was $12.98)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4658020
+==================================================
+
+==================================================
+Name: ClockOut
+Release Date: May 31, 2026
+Price: $1.99 (-20%, was $2.49)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4710730
+==================================================
+
