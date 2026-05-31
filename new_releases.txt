@@ -22552,3 +22552,78 @@ Genres: Adventure, Indie, RPG, Strategy
 Link: https://store.steampowered.com/app/4303370
 ==================================================
 
+
+--- Run: 2026-05-31 16:53:21 --- (9 new game(s) found)
+
+==================================================
+Name: Penguin Rescue Run
+Release Date: May 31, 2026
+Price: $1.80 (-40%, was $3.00)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4697290
+==================================================
+
+==================================================
+Name: Dancing Line
+Release Date: May 31, 2026
+Price: $9.99
+Genres: Casual
+Link: https://store.steampowered.com/app/4395300
+==================================================
+
+==================================================
+Name: GOHEI
+Release Date: May 31, 2026
+Price: $3.59 (-10%, was $3.99)
+Genres: Strategy
+Link: https://store.steampowered.com/app/4576390
+==================================================
+
+==================================================
+Name: VRHandsFrame
+Release Date: May 31, 2026
+Price: $4.79 (-20%, was $5.99)
+Genres: Utilities
+Link: https://store.steampowered.com/app/2324090
+==================================================
+
+==================================================
+Name: The Hand of the Crownbearer
+Release Date: May 31, 2026
+Price: $24.99
+Genres: Adventure
+Link: https://store.steampowered.com/app/4045680
+==================================================
+
+==================================================
+Name: surfass
+Release Date: May 31, 2026
+Price: Free to Play
+Genres: Casual, Indie, Racing, Free To Play
+Link: https://store.steampowered.com/app/4675130
+==================================================
+
+==================================================
+Name: LiveMate
+Release Date: May 31, 2026
+Price: $4.99
+Genres: Casual, Animation & Modeling
+Link: https://store.steampowered.com/app/4703580
+==================================================
+
+==================================================
+Name: Target Hunt
+Release Date: May 31, 2026
+Price: $6.79 (-15%, was $7.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4567050
+==================================================
+
+==================================================
+Name: Mine Runner
+Release Date: May 30, 2026
+Price: $4.99
+Genres: Action, Adventure, Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4235990
+==================================================
+
