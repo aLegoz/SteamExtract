@@ -22457,3 +22457,14 @@ Genres: Action, Adventure, Indie
 Link: https://store.steampowered.com/app/3655670
 ==================================================
 
+
+--- Run: 2026-05-31 02:05:38 --- (1 new game(s) found)
+
+==================================================
+Name: Grill Your Friends Prematch
+Release Date: May 30, 2026
+Price: Free to Play
+Genres: Casual, Free To Play
+Link: https://store.steampowered.com/app/4704400
+==================================================
+
