@@ -22670,3 +22670,14 @@ Genres: RPG, Simulation
 Link: https://store.steampowered.com/app/4697190
 ==================================================
 
+
+--- Run: 2026-05-31 18:59:10 --- (1 new game(s) found)
+
+==================================================
+Name: Reincarnated as a Dark Lord Before Taking Over the World with Power 999999999
+Release Date: May 31, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/4204590
+==================================================
+
