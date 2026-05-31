@@ -22468,3 +22468,38 @@ Genres: Casual, Free To Play
 Link: https://store.steampowered.com/app/4704400
 ==================================================
 
+
+--- Run: 2026-05-31 06:45:09 --- (4 new game(s) found)
+
+==================================================
+Name: Hidden Rabbit 2
+Release Date: May 30, 2026
+Price: $0.74 (-25%, was $0.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/4631430
+==================================================
+
+==================================================
+Name: Chained Bikes
+Release Date: May 30, 2026
+Price: $1.99
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/4704880
+==================================================
+
+==================================================
+Name: Fish House Simulator
+Release Date: May 30, 2026
+Price: $9.99
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4536970
+==================================================
+
+==================================================
+Name: MUTS NO TYPO
+Release Date: May 30, 2026
+Price: $4.99
+Genres: Indie
+Link: https://store.steampowered.com/app/4700390
+==================================================
+
