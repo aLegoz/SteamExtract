@@ -22503,3 +22503,22 @@ Genres: Indie
 Link: https://store.steampowered.com/app/4700390
 ==================================================
 
+
+--- Run: 2026-05-31 09:40:05 --- (2 new game(s) found)
+
+==================================================
+Name: Linebound
+Release Date: May 31, 2026
+Price: Free to Play
+Genres: Adventure, Indie, Free To Play
+Link: https://store.steampowered.com/app/4447550
+==================================================
+
+==================================================
+Name: Roll'N With Da Punchez
+Release Date: May 30, 2026
+Price: $9.99
+Genres: Adventure, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/3269380
+==================================================
+
