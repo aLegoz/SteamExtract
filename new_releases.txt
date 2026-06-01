@@ -23257,3 +23257,70 @@ Genres: Action, Casual, Indie
 Link: https://store.steampowered.com/app/4315670
 ==================================================
 
+
+--- Run: 2026-06-01 22:28:16 --- (8 new game(s) found)
+
+==================================================
+Name: GAME.exe 2 - Phantom Strike
+Release Date: Jun 1, 2026
+Price: $5.09 (-15%, was $5.99)
+Genres: Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/4174490
+==================================================
+
+==================================================
+Name: Shrimp Escape
+Release Date: Jun 1, 2026
+Price: $7.19 (-10%, was $7.99)
+Genres: Action, Indie, RPG
+Link: https://store.steampowered.com/app/3528440
+==================================================
+
+==================================================
+Name: Freefall '95
+Release Date: Jun 1, 2026
+Price: $10.19 (-15%, was $11.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4144510
+==================================================
+
+==================================================
+Name: A Factory Roguelike
+Release Date: Jun 1, 2026
+Price: $8.39 (-30%, was $11.99)
+Genres: Strategy
+Link: https://store.steampowered.com/app/4183530
+==================================================
+
+==================================================
+Name: Glass Hand
+Release Date: Jun 1, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Casual, Strategy
+Link: https://store.steampowered.com/app/3865640
+==================================================
+
+==================================================
+Name: Queen of Wrestling
+Release Date: Jun 1, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Indie, RPG
+Link: https://store.steampowered.com/app/4664010
+==================================================
+
+==================================================
+Name: 精气神灵
+Release Date: Jun 1, 2026
+Price: $6.99
+Genres: Casual, Simulation, Strategy
+Link: https://store.steampowered.com/app/4559080
+==================================================
+
+==================================================
+Name: Cosy Housing
+Release Date: Jun 1, 2026
+Price: $4.99
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/3635320
+==================================================
+
