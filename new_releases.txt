@@ -23038,3 +23038,222 @@ Genres: Indie, Simulation
 Link: https://store.steampowered.com/app/4619700
 ==================================================
 
+
+--- Run: 2026-06-01 19:50:32 --- (27 new game(s) found)
+
+==================================================
+Name: Final Strategy
+Release Date: Jun 1, 2026
+Price: $17.99 (-10%, was $19.99)
+Genres: Action, Simulation, Strategy
+Link: https://store.steampowered.com/app/4032090
+==================================================
+
+==================================================
+Name: Shock and Gnaw
+Release Date: Jun 1, 2026
+Price: $5.39 (-10%, was $5.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4619100
+==================================================
+
+==================================================
+Name: Bloobs Adventure Idle
+Release Date: Jun 1, 2026
+Price: $7.99
+Genres: Adventure, Casual, Indie, RPG
+Link: https://store.steampowered.com/app/2942780
+==================================================
+
+==================================================
+Name: Olmari ja T-paita
+Release Date: Jun 1, 2026
+Price: $1.19 (-40%, was $1.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/1731510
+==================================================
+
+==================================================
+Name: The Victor Initiative
+Release Date: Jun 1, 2026
+Price: $10.39 (-20%, was $12.99)
+Genres: Indie
+Link: https://store.steampowered.com/app/3285960
+==================================================
+
+==================================================
+Name: Sorihae
+Release Date: Jun 1, 2026
+Price: Free to Play
+Genres: Free To Play, Education, Utilities, Game Development
+Link: https://store.steampowered.com/app/4698820
+==================================================
+
+==================================================
+Name: Wrecking Wave
+Release Date: Jun 1, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/3388590
+==================================================
+
+==================================================
+Name: Chef Knight
+Release Date: Jun 1, 2026
+Price: $5.39 (-10%, was $5.99)
+Genres: Action, Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4304930
+==================================================
+
+==================================================
+Name: Sister Ray
+Release Date: Jun 1, 2026
+Price: $10.19 (-15%, was $11.99)
+Genres: Adventure, RPG
+Link: https://store.steampowered.com/app/3200290
+==================================================
+
+==================================================
+Name: Tattoo Removal Simulator
+Release Date: Jun 1, 2026
+Price: $19.99 (-20%, was $24.99)
+Genres: Casual, Simulation
+Link: https://store.steampowered.com/app/3143910
+==================================================
+
+==================================================
+Name: Barnacle
+Release Date: Jun 1, 2026
+Price: $6.99
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4627630
+==================================================
+
+==================================================
+Name: Runebound Legends
+Release Date: Jun 1, 2026
+Price: $5.09 (-15%, was $5.99)
+Genres: RPG, Strategy
+Link: https://store.steampowered.com/app/4656830
+==================================================
+
+==================================================
+Name: GEODE
+Release Date: Jun 1, 2026
+Price: Free to Play
+Genres: Action, Adventure, Indie, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4213520
+==================================================
+
+==================================================
+Name: Let's Café
+Release Date: Jun 1, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/3019270
+==================================================
+
+==================================================
+Name: Recursive Riftfall
+Release Date: Jun 1, 2026
+Price: $2.99 (-40%, was $4.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/2962260
+==================================================
+
+==================================================
+Name: Focus Grove
+Release Date: Jun 1, 2026
+Price: $7.19 (-20%, was $8.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4030830
+==================================================
+
+==================================================
+Name: Lost in Art: a Miniature Realm
+Release Date: Jun 1, 2026
+Price: $11.19 (-20%, was $13.99)
+Genres: Adventure, Casual, Indie, RPG
+Link: https://store.steampowered.com/app/2900050
+==================================================
+
+==================================================
+Name: For the Fish in the Bottle
+Release Date: Jun 1, 2026
+Price: Free to Play
+Genres: Adventure, Indie, Free To Play
+Link: https://store.steampowered.com/app/4034190
+==================================================
+
+==================================================
+Name: Rocket1994
+Release Date: Jun 1, 2026
+Price: $2.39 (-20%, was $2.99)
+Genres: Action, Casual
+Link: https://store.steampowered.com/app/4462730
+==================================================
+
+==================================================
+Name: TheLastHelicopter
+Release Date: Jun 1, 2026
+Price: $4.99
+Genres: Action, Adventure
+Link: https://store.steampowered.com/app/4636380
+==================================================
+
+==================================================
+Name: Fishing Party VR
+Release Date: Jun 1, 2026
+Price: $17.99
+Genres: Casual, Indie, Racing, Simulation, Sports
+Link: https://store.steampowered.com/app/4184670
+==================================================
+
+==================================================
+Name: A little Jumpingspider's Garden Adventure (Day 1+2)
+Release Date: Jun 1, 2026
+Price: $11.99 (-20%, was $14.99)
+Genres: Action, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4236080
+==================================================
+
+==================================================
+Name: HELI 100
+Release Date: Jun 1, 2026
+Price: $3.99
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/3346670
+==================================================
+
+==================================================
+Name: BLOCKUELITE
+Release Date: Jun 1, 2026
+Price: $1.99
+Genres: Action
+Link: https://store.steampowered.com/app/4313300
+==================================================
+
+==================================================
+Name: Cozy Cooking
+Release Date: Jun 1, 2026
+Price: $3.99
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/4127690
+==================================================
+
+==================================================
+Name: GraveBoy CrowFeet - A Quest for Skulls
+Release Date: Jun 1, 2026
+Price: Free to Play
+Genres: Adventure, Free To Play
+Link: https://store.steampowered.com/app/4564990
+==================================================
+
+==================================================
+Name: Pets Survivors
+Release Date: Jun 1, 2026
+Price: $2.79 (-30%, was $3.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4315670
+==================================================
+
