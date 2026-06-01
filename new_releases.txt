@@ -22899,3 +22899,142 @@ Genres: Casual
 Link: https://store.steampowered.com/app/4633070
 ==================================================
 
+
+--- Run: 2026-06-01 14:46:16 --- (17 new game(s) found)
+
+==================================================
+Name: CoyoteMIDI: MIDI To Key
+Release Date: Jun 1, 2026
+Price: Free to Play
+Genres: Free To Play, Audio Production, Utilities
+Link: https://store.steampowered.com/app/4547140
+==================================================
+
+==================================================
+Name: Seedborne Soldiers
+Release Date: Jun 1, 2026
+Price: $8.39 (-30%, was $11.99)
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/3039930
+==================================================
+
+==================================================
+Name: Alley Dodge
+Release Date: Jun 1, 2026
+Price: Free to Play
+Genres: Action, Free To Play
+Link: https://store.steampowered.com/app/4423120
+==================================================
+
+==================================================
+Name: HeroTail: Survivors
+Release Date: Jun 1, 2026
+Price: Free to Play
+Genres: Action, Indie, Free To Play
+Link: https://store.steampowered.com/app/4054480
+==================================================
+
+==================================================
+Name: Hearty Haven
+Release Date: Jun 1, 2026
+Price: Free to Play
+Genres: Adventure, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4678520
+==================================================
+
+==================================================
+Name: Castle in the Sands
+Release Date: Jun 1, 2026
+Price: $3.59 (-10%, was $3.99)
+Genres: Indie
+Link: https://store.steampowered.com/app/4463700
+==================================================
+
+==================================================
+Name: Underchoice
+Release Date: Jun 1, 2026
+Price: $6.79 (-15%, was $7.99)
+Genres: Adventure, Casual, Indie, RPG, Simulation, Strategy
+Link: https://store.steampowered.com/app/3740010
+==================================================
+
+==================================================
+Name: Heart of Gaia
+Release Date: Jun 1, 2026
+Price: $16.99
+Genres: Action, Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/3760310
+==================================================
+
+==================================================
+Name: ELLUSION
+Release Date: Jun 1, 2026
+Price: $1.19 (-40%, was $1.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4567480
+==================================================
+
+==================================================
+Name: Arcane Merchant
+Release Date: Jun 1, 2026
+Price: $13.49 (-10%, was $14.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4086760
+==================================================
+
+==================================================
+Name: Fatimopolis
+Release Date: Jun 1, 2026
+Price: $2.69 (-10%, was $2.99)
+Genres: Action, Adventure, Indie, Racing, Simulation
+Link: https://store.steampowered.com/app/4619290
+==================================================
+
+==================================================
+Name: Sodaman
+Release Date: Jun 1, 2026
+Price: $3.99 (-50%, was $7.99)
+Genres: Action, Casual
+Link: https://store.steampowered.com/app/2178990
+==================================================
+
+==================================================
+Name: Suck It Up!
+Release Date: Jun 1, 2026
+Price: Free to Play
+Genres: Action, Adventure, Casual, Indie, Simulation, Free To Play
+Link: https://store.steampowered.com/app/4515400
+==================================================
+
+==================================================
+Name: Dragon Climb
+Release Date: Jun 1, 2026
+Price: $9.89 (-10%, was $10.99)
+Genres: Action, Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4518080
+==================================================
+
+==================================================
+Name: Dear My Bot - Programming Game
+Release Date: Jun 1, 2026
+Price: $1.79 (-40%, was $2.99)
+Genres: Simulation
+Link: https://store.steampowered.com/app/4628900
+==================================================
+
+==================================================
+Name: MagicPods for Linux
+Release Date: Jun 1, 2026
+Price: $2.99
+Genres: Utilities
+Link: https://store.steampowered.com/app/4486410
+==================================================
+
+==================================================
+Name: Tonkatsu Diner Simulator
+Release Date: May 31, 2026
+Price: $5.99
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/4619700
+==================================================
+
