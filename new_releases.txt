@@ -22800,3 +22800,102 @@ Genres: Action, Adventure, Casual, Indie, RPG, Strategy
 Link: https://store.steampowered.com/app/4298240
 ==================================================
 
+
+--- Run: 2026-06-01 08:20:09 --- (12 new game(s) found)
+
+==================================================
+Name: Imminence
+Release Date: Jun 1, 2026
+Price: $9.99
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4530360
+==================================================
+
+==================================================
+Name: Enter The Moshpit
+Release Date: Jun 1, 2026
+Price: Free to Play
+Genres: Adventure, Indie, Free To Play
+Link: https://store.steampowered.com/app/4296980
+==================================================
+
+==================================================
+Name: ORBITAL
+Release Date: May 31, 2026
+Price: $8.49 (-15%, was $9.99)
+Genres: Adventure, Simulation
+Link: https://store.steampowered.com/app/4245820
+==================================================
+
+==================================================
+Name: Rogue Assault
+Release Date: May 31, 2026
+Price: Free to Play
+Genres: Action, Massively Multiplayer, RPG, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4264680
+==================================================
+
+==================================================
+Name: BrokenLore: FOLLOW
+Release Date: May 31, 2026
+Price: $13.49 (-10%, was $14.99)
+Genres: Action, Adventure
+Link: https://store.steampowered.com/app/2846530
+==================================================
+
+==================================================
+Name: Fishing Survivors
+Release Date: May 31, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4705700
+==================================================
+
+==================================================
+Name: Take Your Throne
+Release Date: May 31, 2026
+Price: $4.99
+Genres: Casual, Strategy
+Link: https://store.steampowered.com/app/4725020
+==================================================
+
+==================================================
+Name: Lord and Maiden
+Release Date: May 31, 2026
+Price: Free to Play
+Genres: Adventure, Casual, Massively Multiplayer, RPG, Simulation, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4671700
+==================================================
+
+==================================================
+Name: Protect Your Humans
+Release Date: May 31, 2026
+Price: $7.19 (-10%, was $7.99)
+Genres: Action
+Link: https://store.steampowered.com/app/3965240
+==================================================
+
+==================================================
+Name: Skyship Quest Story
+Release Date: May 31, 2026
+Price: $11.69 (-10%, was $12.99)
+Genres: Casual, Indie, RPG, Simulation
+Link: https://store.steampowered.com/app/4424950
+==================================================
+
+==================================================
+Name: Gaming Burnout Treatment Center
+Release Date: May 31, 2026
+Price: $0.89 (-10%, was $0.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4521340
+==================================================
+
+==================================================
+Name: Skybound Temptation
+Release Date: May 31, 2026
+Price: $1.79 (-40%, was $2.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/4633070
+==================================================
+
