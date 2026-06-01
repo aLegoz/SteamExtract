@@ -22781,3 +22781,22 @@ Genres: Adventure, Indie
 Link: https://store.steampowered.com/app/4710730
 ==================================================
 
+
+--- Run: 2026-06-01 02:14:15 --- (2 new game(s) found)
+
+==================================================
+Name: 命运之轮（序章）/Journey of Destiny(dependent origination)
+Release Date: May 31, 2026
+Price: $7.19 (-20%, was $8.99)
+Genres: Adventure, Casual, Indie, RPG
+Link: https://store.steampowered.com/app/4481440
+==================================================
+
+==================================================
+Name: DivinityVassals
+Release Date: May 31, 2026
+Price: $9.59 (-20%, was $11.99)
+Genres: Action, Adventure, Casual, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/4298240
+==================================================
+
