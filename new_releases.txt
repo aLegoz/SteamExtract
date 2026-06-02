@@ -23496,3 +23496,206 @@ Genres: Action, Indie
 Link: https://store.steampowered.com/app/2678070
 ==================================================
 
+
+--- Run: 2026-06-02 18:01:24 --- (25 new game(s) found)
+
+==================================================
+Name: The Boomies Show
+Release Date: Jun 2, 2026
+Price: Free to Play
+Genres: Action, Indie, Free To Play
+Link: https://store.steampowered.com/app/4305960
+==================================================
+
+==================================================
+Name: Unlucky Mummy
+Release Date: Jun 2, 2026
+Price: $1.94 (-35%, was $2.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/4396620
+==================================================
+
+==================================================
+Name: MegaFactory Titan
+Release Date: Jun 2, 2026
+Price: $11.99 (-40%, was $19.99)
+Genres: Simulation, Strategy
+Link: https://store.steampowered.com/app/1803550
+==================================================
+
+==================================================
+Name: Ward X
+Release Date: Jun 2, 2026
+Price: $2.69 (-10%, was $2.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4518020
+==================================================
+
+==================================================
+Name: Remorses
+Release Date: Jun 2, 2026
+Price: $17.99 (-10%, was $19.99)
+Genres: Indie
+Link: https://store.steampowered.com/app/2292160
+==================================================
+
+==================================================
+Name: King of Exams
+Release Date: Jun 2, 2026
+Price: $1.49 (-10%, was $1.66)
+Genres: Action, Casual, RPG
+Link: https://store.steampowered.com/app/4573170
+==================================================
+
+==================================================
+Name: Fortune Mill
+Release Date: Jun 2, 2026
+Price: $5.99 (-25%, was $7.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4731620
+==================================================
+
+==================================================
+Name: Bounce On
+Release Date: Jun 2, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4394300
+==================================================
+
+==================================================
+Name: My Little Cafe Nightmare
+Release Date: Jun 2, 2026
+Price: $7.19 (-20%, was $8.99)
+Genres: Simulation
+Link: https://store.steampowered.com/app/3726250
+==================================================
+
+==================================================
+Name: TYPER3000
+Release Date: Jun 2, 2026
+Price: $10.79 (-10%, was $11.99)
+Genres: Action, Casual
+Link: https://store.steampowered.com/app/4333960
+==================================================
+
+==================================================
+Name: Papa's Mocharia Deluxe
+Release Date: Jun 2, 2026
+Price: $4.97 (-17%, was $5.99)
+Genres: Action, Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4656700
+==================================================
+
+==================================================
+Name: Joey The Duck
+Release Date: Jun 2, 2026
+Price: $5.39 (-10%, was $5.99)
+Genres: Action, Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/3929830
+==================================================
+
+==================================================
+Name: EL MINISTRO
+Release Date: Jun 2, 2026
+Price: $2.99 (-25%, was $3.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4716240
+==================================================
+
+==================================================
+Name: Hobby Horse
+Release Date: Jun 2, 2026
+Price: $11.24 (-25%, was $14.99)
+Genres: Action, Adventure, Casual, Indie, Racing, Simulation, Sports
+Link: https://store.steampowered.com/app/3219140
+==================================================
+
+==================================================
+Name: Mini Mayhem: Flood Fighters
+Release Date: Jun 2, 2026
+Price: Free to Play
+Genres: Indie, Free To Play
+Link: https://store.steampowered.com/app/3221220
+==================================================
+
+==================================================
+Name: BARDA: Backpack Roguelike
+Release Date: Jun 2, 2026
+Price: $8.09 (-10%, was $8.99)
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/3664320
+==================================================
+
+==================================================
+Name: Hentai Puzzle: Lily
+Release Date: Jun 2, 2026
+Price: $2.00 (-33%, was $2.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4561590
+==================================================
+
+==================================================
+Name: Virtual D-Day: Pointe du Hoc
+Release Date: Jun 2, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Education
+Link: https://store.steampowered.com/app/4567090
+==================================================
+
+==================================================
+Name: Jixo 5: Mask Parade Collector’s Edition
+Release Date: Jun 2, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/4724800
+==================================================
+
+==================================================
+Name: Daydream Mosaics 6: Empire - Collector's Edition
+Release Date: Jun 2, 2026
+Price: $9.34 (-15%, was $10.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4288090
+==================================================
+
+==================================================
+Name: Ultrapong
+Release Date: Jun 2, 2026
+Price: $2.54 (-15%, was $2.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4641520
+==================================================
+
+==================================================
+Name: Eclipse: Anomaly Research
+Release Date: Jun 2, 2026
+Price: $9.34 (-15%, was $10.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/3878610
+==================================================
+
+==================================================
+Name: Cakey & Tanaka : CandyLand Adventure
+Release Date: Jun 2, 2026
+Price: $3.20 (-20%, was $4.00)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4743550
+==================================================
+
+==================================================
+Name: Wild West Desire - Naughty Jigsaw
+Release Date: Jun 2, 2026
+Price: $1.59 (-20%, was $1.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/4743680
+==================================================
+
+==================================================
+Name: KeySound
+Release Date: Jun 2, 2026
+Price: $6.29 (-10%, was $6.99)
+Genres: Casual, Indie, Utilities
+Link: https://store.steampowered.com/app/4736630
+==================================================
+
