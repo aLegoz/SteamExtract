@@ -23324,3 +23324,22 @@ Genres: Casual, Indie, Simulation
 Link: https://store.steampowered.com/app/3635320
 ==================================================
 
+
+--- Run: 2026-06-02 00:03:52 --- (2 new game(s) found)
+
+==================================================
+Name: Monster Ops 19
+Release Date: Jun 1, 2026
+Price: $4.99
+Genres: Simulation
+Link: https://store.steampowered.com/app/3853220
+==================================================
+
+==================================================
+Name: Mystic Diary: Wizard's Legacy Collector's Edition
+Release Date: Jun 1, 2026
+Price: $19.99
+Genres: Adventure, Casual
+Link: https://store.steampowered.com/app/4717650
+==================================================
+
