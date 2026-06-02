@@ -23453,3 +23453,46 @@ Genres: Indie, Strategy
 Link: https://store.steampowered.com/app/3938290
 ==================================================
 
+
+--- Run: 2026-06-02 13:56:48 --- (5 new game(s) found)
+
+==================================================
+Name: X-Ray 2D
+Release Date: Coming soon
+Price: Free to Play
+Genres: Adventure, Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/4712950
+==================================================
+
+==================================================
+Name: On Your Screen – Reactive CPU GPU Visualizer
+Release Date: Jun 2, 2026
+Price: Free to Play
+Genres: Indie, Utilities, Video Production, Free To Play
+Link: https://store.steampowered.com/app/4705210
+==================================================
+
+==================================================
+Name: My Garage
+Release Date: Jun 2, 2026
+Price: $19.99
+Genres: Indie, Racing, Simulation
+Link: https://store.steampowered.com/app/1578390
+==================================================
+
+==================================================
+Name: Gobballing
+Release Date: Jun 2, 2026
+Price: Free to Play
+Genres: Adventure, Casual, Free To Play
+Link: https://store.steampowered.com/app/4697060
+==================================================
+
+==================================================
+Name: Phoenix 2
+Release Date: Jun 2, 2026
+Price: Free to Play
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/2678070
+==================================================
+
