@@ -23343,3 +23343,30 @@ Genres: Adventure, Casual
 Link: https://store.steampowered.com/app/4717650
 ==================================================
 
+
+--- Run: 2026-06-02 05:19:41 --- (3 new game(s) found)
+
+==================================================
+Name: Soul Land: Awakening World
+Release Date: Jun 1, 2026
+Price: Free to Play
+Genres: Action, Adventure, Massively Multiplayer, RPG, Free To Play
+Link: https://store.steampowered.com/app/4584110
+==================================================
+
+==================================================
+Name: Unclean Water
+Release Date: Jun 1, 2026
+Price: $7.19 (-10%, was $7.99)
+Genres: Action
+Link: https://store.steampowered.com/app/4328400
+==================================================
+
+==================================================
+Name: An Exercise in Mortality - Chapter I
+Release Date: Jun 1, 2026
+Price: $10.39 (-20%, was $12.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/3077760
+==================================================
+
