@@ -23370,3 +23370,86 @@ Genres: Adventure, Indie
 Link: https://store.steampowered.com/app/3077760
 ==================================================
 
+
+--- Run: 2026-06-02 09:57:53 --- (10 new game(s) found)
+
+==================================================
+Name: Monster Girl Factory
+Release Date: Jun 2, 2026
+Price: $9.59 (-20%, was $11.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4585540
+==================================================
+
+==================================================
+Name: ULTRA0
+Release Date: Jun 2, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Action, Casual
+Link: https://store.steampowered.com/app/4019180
+==================================================
+
+==================================================
+Name: The Tracy Arm Tsunami Experience
+Release Date: Jun 2, 2026
+Price: Free to Play
+Genres: Action, Adventure, Casual, Indie, Simulation, Free To Play
+Link: https://store.steampowered.com/app/4726250
+==================================================
+
+==================================================
+Name: Space Bross
+Release Date: Jun 2, 2026
+Price: $7.99
+Genres: Action, Adventure, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/2962280
+==================================================
+
+==================================================
+Name: Collie Companion
+Release Date: Jun 2, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4707480
+==================================================
+
+==================================================
+Name: Run Run Iguana!
+Release Date: Jun 2, 2026
+Price: $2.99
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4607840
+==================================================
+
+==================================================
+Name: DeMon Researcher 2
+Release Date: Jun 2, 2026
+Price: $5.09 (-15%, was $5.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/4729300
+==================================================
+
+==================================================
+Name: SporeWars
+Release Date: Jun 1, 2026
+Price: $5.39 (-10%, was $5.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4607110
+==================================================
+
+==================================================
+Name: In The Roots Of The Mountain
+Release Date: Jun 1, 2026
+Price: $8.99
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4676280
+==================================================
+
+==================================================
+Name: Soul Card Duel
+Release Date: Jun 1, 2026
+Price: $9.99
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/3938290
+==================================================
+
