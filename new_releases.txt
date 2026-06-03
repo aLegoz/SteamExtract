@@ -23785,3 +23785,30 @@ Genres: Action, Indie, Free To Play
 Link: https://store.steampowered.com/app/4226250
 ==================================================
 
+
+--- Run: 2026-06-03 02:33:25 --- (3 new game(s) found)
+
+==================================================
+Name: Operation Anti-Robot
+Release Date: Jun 2, 2026
+Price: $2.99 (-25%, was $3.99)
+Genres: Action, Adventure, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/3471870
+==================================================
+
+==================================================
+Name: delete.txt
+Release Date: Jun 2, 2026
+Price: $1.19 (-40%, was $1.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/3118830
+==================================================
+
+==================================================
+Name: Where The Road Fades
+Release Date: Jun 2, 2026
+Price: $2.61 (-25%, was $3.49)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/3966430
+==================================================
+
