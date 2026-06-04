@@ -24187,3 +24187,30 @@ Link: https://store.steampowered.com/app/3029010
 
 --- Run: 2026-06-03 22:56:07 --- (0 new game(s) found)
 
+
+--- Run: 2026-06-04 00:25:13 --- (3 new game(s) found)
+
+==================================================
+Name: Dig You Fools
+Release Date: Jun 3, 2026
+Price: Free to Play
+Genres: Adventure, Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/4706790
+==================================================
+
+==================================================
+Name: Super Pilot Yolk Bot
+Release Date: Jun 3, 2026
+Price: $4.99
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4260630
+==================================================
+
+==================================================
+Name: Aligned Hearts
+Release Date: Jun 3, 2026
+Price: $4.19 (-40%, was $6.99)
+Genres: Adventure, Simulation
+Link: https://store.steampowered.com/app/4731580
+==================================================
+
