@@ -24214,3 +24214,38 @@ Genres: Adventure, Simulation
 Link: https://store.steampowered.com/app/4731580
 ==================================================
 
+
+--- Run: 2026-06-04 05:30:54 --- (4 new game(s) found)
+
+==================================================
+Name: An Automaton's Journey
+Release Date: Jun 3, 2026
+Price: $7.19 (-10%, was $7.99)
+Genres: Action, Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/4184020
+==================================================
+
+==================================================
+Name: Unforgettable Love
+Release Date: Jun 3, 2026
+Price: $14.39 (-10%, was $15.99)
+Genres: Simulation
+Link: https://store.steampowered.com/app/4511140
+==================================================
+
+==================================================
+Name: Pure Heat
+Release Date: Jun 3, 2026
+Price: $29.99
+Genres: Action, Adventure
+Link: https://store.steampowered.com/app/3470050
+==================================================
+
+==================================================
+Name: Space.iZ
+Release Date: Jun 3, 2026
+Price: $6.70
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4703820
+==================================================
+
