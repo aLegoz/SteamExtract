@@ -24284,3 +24284,78 @@ Genres: Action, Indie, RPG, Sports
 Link: https://store.steampowered.com/app/2519710
 ==================================================
 
+
+--- Run: 2026-06-04 12:35:55 --- (9 new game(s) found)
+
+==================================================
+Name: Minkle's Masks of Mayhem
+Release Date: Jun 4, 2026
+Price: Free to Play
+Genres: Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/4564630
+==================================================
+
+==================================================
+Name: Modern Warships
+Release Date: Jun 4, 2026
+Price: Free to Play
+Genres: Action, Massively Multiplayer, Simulation, Free To Play
+Link: https://store.steampowered.com/app/3144230
+==================================================
+
+==================================================
+Name: Les jeux du cycle
+Release Date: Jun 4, 2026
+Price: Free to Play
+Genres: Casual, Indie, Racing, Simulation, Sports, Free To Play
+Link: https://store.steampowered.com/app/4729020
+==================================================
+
+==================================================
+Name: Halfway House
+Release Date: Jun 4, 2026
+Price: $18.99
+Genres: Indie
+Link: https://store.steampowered.com/app/3678710
+==================================================
+
+==================================================
+Name: Marshmallow Marvin: Grimvault
+Release Date: Jun 4, 2026
+Price: $4.99
+Genres: Action, Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4487160
+==================================================
+
+==================================================
+Name: Marshmallow Marvin: Templestone
+Release Date: Jun 4, 2026
+Price: $4.99
+Genres: Action, Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4487140
+==================================================
+
+==================================================
+Name: Deep Sea Fish: Hidden World
+Release Date: Jun 4, 2026
+Price: $3.19 (-20%, was $3.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4710400
+==================================================
+
+==================================================
+Name: Cream Pie
+Release Date: Jun 3, 2026
+Price: $1.99
+Genres: Action, Adventure, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4113240
+==================================================
+
+==================================================
+Name: Laika Space Adventure
+Release Date: Jun 3, 2026
+Price: $5.99 (-40%, was $9.99)
+Genres: Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/4504680
+==================================================
+
