@@ -24249,3 +24249,38 @@ Genres: Casual, Indie, Simulation
 Link: https://store.steampowered.com/app/4703820
 ==================================================
 
+
+--- Run: 2026-06-04 09:39:37 --- (4 new game(s) found)
+
+==================================================
+Name: Tour de France 2026
+Release Date: Jun 4, 2026
+Price: $39.99
+Genres: Racing, Simulation, Sports, Strategy
+Link: https://store.steampowered.com/app/3936520
+==================================================
+
+==================================================
+Name: The 7th Guest Remake
+Release Date: Jun 3, 2026
+Price: $16.99 (-15%, was $19.99)
+Genres: Adventure
+Link: https://store.steampowered.com/app/4491360
+==================================================
+
+==================================================
+Name: Factory
+Release Date: Jun 3, 2026
+Price: $0.84 (-15%, was $0.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4631250
+==================================================
+
+==================================================
+Name: Snowlike
+Release Date: Jun 3, 2026
+Price: $5.59 (-30%, was $7.99)
+Genres: Action, Indie, RPG, Sports
+Link: https://store.steampowered.com/app/2519710
+==================================================
+
