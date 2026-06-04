@@ -24672,3 +24672,70 @@ Genres: Action, Adventure, Indie, Simulation
 Link: https://store.steampowered.com/app/4043280
 ==================================================
 
+
+--- Run: 2026-06-04 22:59:07 --- (8 new game(s) found)
+
+==================================================
+Name: Eterspire
+Release Date: Jun 4, 2026
+Price: Free to Play
+Genres: Action, Adventure, Indie, Massively Multiplayer, RPG, Free To Play
+Link: https://store.steampowered.com/app/2144600
+==================================================
+
+==================================================
+Name: Darkstone Bay
+Release Date: Jun 4, 2026
+Price: $6.29 (-10%, was $6.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4622830
+==================================================
+
+==================================================
+Name: You Know The Drill
+Release Date: Jun 4, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/3833760
+==================================================
+
+==================================================
+Name: Goat Nuclear Clicker
+Release Date: Jun 4, 2026
+Price: $9.99
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4236640
+==================================================
+
+==================================================
+Name: Gachamon
+Release Date: Jun 4, 2026
+Price: $4.79 (-20%, was $5.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/3774620
+==================================================
+
+==================================================
+Name: Hentai Police Girl
+Release Date: Jun 4, 2026
+Price: $0.69 (-30%, was $0.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4698960
+==================================================
+
+==================================================
+Name: An Odd Walk: Shinjuku Alley
+Release Date: Jun 4, 2026
+Price: $2.09 (-30%, was $2.99)
+Genres: Adventure, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4471030
+==================================================
+
+==================================================
+Name: 7 DEADLY DEMONS
+Release Date: Jun 4, 2026
+Price: $5.32 (-20%, was $6.66)
+Genres: Action, Casual, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/4699890
+==================================================
+
