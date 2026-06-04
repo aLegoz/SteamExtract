@@ -24530,3 +24530,134 @@ Genres: Casual, Indie, Strategy
 Link: https://store.steampowered.com/app/4148130
 ==================================================
 
+
+--- Run: 2026-06-04 19:11:34 --- (16 new game(s) found)
+
+==================================================
+Name: Just One More Link
+Release Date: Jun 4, 2026
+Price: $4.89 (-30%, was $6.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4303110
+==================================================
+
+==================================================
+Name: Blobby Coins - The Board Game
+Release Date: Jun 4, 2026
+Price: $2.34 (-38%, was $3.79)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4695280
+==================================================
+
+==================================================
+Name: Shepherd Knight
+Release Date: Jun 4, 2026
+Price: $11.99 (-20%, was $14.99)
+Genres: Action, Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/2700790
+==================================================
+
+==================================================
+Name: Shtolnya: The Mine
+Release Date: Jun 4, 2026
+Price: $3.39 (-15%, was $3.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/3876960
+==================================================
+
+==================================================
+Name: DOMISNAKE
+Release Date: Jun 4, 2026
+Price: $1.69 (-15%, was $1.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/4627910
+==================================================
+
+==================================================
+Name: Gate Guardian
+Release Date: Jun 4, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/2975040
+==================================================
+
+==================================================
+Name: Far Mining
+Release Date: Jun 4, 2026
+Price: $2.39 (-20%, was $2.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4685070
+==================================================
+
+==================================================
+Name: Project Microchip
+Release Date: Jun 4, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Action, Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/1526550
+==================================================
+
+==================================================
+Name: Fire Pit: Throw Things Into The Fire
+Release Date: Jun 4, 2026
+Price: $7.19 (-10%, was $7.99)
+Genres: Casual, Simulation
+Link: https://store.steampowered.com/app/4300660
+==================================================
+
+==================================================
+Name: 1997 RELOADED
+Release Date: Jun 4, 2026
+Price: $9.74 (-25%, was $12.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4389350
+==================================================
+
+==================================================
+Name: PetDoctor
+Release Date: Jun 4, 2026
+Price: Free to Play
+Genres: Indie, Simulation, Free To Play
+Link: https://store.steampowered.com/app/4656920
+==================================================
+
+==================================================
+Name: Rumble Rush
+Release Date: Jun 4, 2026
+Price: $3.99
+Genres: Action, Indie, Racing
+Link: https://store.steampowered.com/app/4734280
+==================================================
+
+==================================================
+Name: Veilbreak
+Release Date: Jun 4, 2026
+Price: $21.24 (-15%, was $24.99)
+Genres: Indie, RPG
+Link: https://store.steampowered.com/app/4697320
+==================================================
+
+==================================================
+Name: What Happened At Sugar Hill?
+Release Date: Jun 4, 2026
+Price: $5.39 (-10%, was $5.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/4447880
+==================================================
+
+==================================================
+Name: Chicken Coop Invaders
+Release Date: Jun 4, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/3682920
+==================================================
+
+==================================================
+Name: Wellspring
+Release Date: Jun 4, 2026
+Price: $1.79 (-10%, was $1.99)
+Genres: Action
+Link: https://store.steampowered.com/app/4567970
+==================================================
+
