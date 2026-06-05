@@ -24841,3 +24841,78 @@ Genres: Action
 Link: https://store.steampowered.com/app/4709620
 ==================================================
 
+
+--- Run: 2026-06-05 09:01:15 --- (9 new game(s) found)
+
+==================================================
+Name: ISExKAI MAIDEN～Osawari H as you like in another world～
+Release Date: Jun 5, 2026
+Price: $26.99 (-10%, was $29.99)
+Genres: Action, Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/4145320
+==================================================
+
+==================================================
+Name: Vtuber Hack
+Release Date: Jun 5, 2026
+Price: $46.74 (-15%, was $54.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/3114080
+==================================================
+
+==================================================
+Name: 红线
+Release Date: Jun 5, 2026
+Price: Free to Play
+Genres: RPG, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4524000
+==================================================
+
+==================================================
+Name: 韭神：技能炒股
+Release Date: Jun 5, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Casual, Indie, RPG, Simulation, Strategy
+Link: https://store.steampowered.com/app/4635540
+==================================================
+
+==================================================
+Name: Classic: Snake
+Release Date: Jun 5, 2026
+Price: Free to Play
+Genres: Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/4742330
+==================================================
+
+==================================================
+Name: Putrika 2nd.cut:For the Exquisite Attire
+Release Date: Jun 4, 2026
+Price: $16.19 (-10%, was $17.99)
+Genres: Adventure
+Link: https://store.steampowered.com/app/3818900
+==================================================
+
+==================================================
+Name: Kingdom of Ashes - Fallen Era
+Release Date: Jun 4, 2026
+Price: $8.09 (-10%, was $8.99)
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/4732700
+==================================================
+
+==================================================
+Name: 天门问剑
+Release Date: Jun 4, 2026
+Price: $1.59 (-20%, was $1.99)
+Genres: Casual, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/4726950
+==================================================
+
+==================================================
+Name: 再见犹丽迪茜
+Release Date: Jun 4, 2026
+Price: $1.59 (-20%, was $1.99)
+Genres: Casual, RPG
+Link: https://store.steampowered.com/app/4749110
+==================================================
+
