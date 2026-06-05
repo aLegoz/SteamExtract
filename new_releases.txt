@@ -25270,3 +25270,22 @@ Genres: Casual
 Link: https://store.steampowered.com/app/4468740
 ==================================================
 
+
+--- Run: 2026-06-05 23:57:27 --- (2 new game(s) found)
+
+==================================================
+Name: Cyber Bike Duels
+Release Date: Jun 5, 2026
+Price: $9.99
+Genres: Action, Racing, Strategy
+Link: https://store.steampowered.com/app/4530890
+==================================================
+
+==================================================
+Name: A talk beneath the tree
+Release Date: Jun 5, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Indie
+Link: https://store.steampowered.com/app/4316020
+==================================================
+
