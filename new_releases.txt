@@ -24750,3 +24750,94 @@ Genres: Casual, Indie
 Link: https://store.steampowered.com/app/4453610
 ==================================================
 
+
+--- Run: 2026-06-05 05:07:48 --- (11 new game(s) found)
+
+==================================================
+Name: Mara Unbound
+Release Date: Jun 4, 2026
+Price: $5.99
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/4703400
+==================================================
+
+==================================================
+Name: Orbit Breaker
+Release Date: Jun 4, 2026
+Price: $5.94 (-15%, was $6.99)
+Genres: Action, Casual
+Link: https://store.steampowered.com/app/4729960
+==================================================
+
+==================================================
+Name: Ship It
+Release Date: Coming soon
+Price: Free to Play
+Genres: Casual, Indie, Simulation, Free To Play
+Link: https://store.steampowered.com/app/4705730
+==================================================
+
+==================================================
+Name: Goalkeeper Journey
+Release Date: Jun 4, 2026
+Price: Free to Play
+Genres: Indie, Sports, Free To Play
+Link: https://store.steampowered.com/app/3239960
+==================================================
+
+==================================================
+Name: Blendkins
+Release Date: Jun 4, 2026
+Price: $5.99
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/3917590
+==================================================
+
+==================================================
+Name: Witch's Apocalyptic Journey
+Release Date: Jun 4, 2026
+Price: $7.19 (-20%, was $8.99)
+Genres: Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/3709430
+==================================================
+
+==================================================
+Name: The Reserve
+Release Date: Jun 4, 2026
+Price: Free to Play
+Genres: Action, Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/4427240
+==================================================
+
+==================================================
+Name: Deep Board Go
+Release Date: Jun 4, 2026
+Price: $10.19 (-15%, was $11.99)
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4220150
+==================================================
+
+==================================================
+Name: Isekai Villain
+Release Date: Jun 4, 2026
+Price: $17.99 (-10%, was $19.99)
+Genres: Adventure, RPG, Simulation, Strategy
+Link: https://store.steampowered.com/app/4340820
+==================================================
+
+==================================================
+Name: Furry Mist
+Release Date: Jun 4, 2026
+Price: $2.42 (-10%, was $2.69)
+Genres: Adventure, Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4246210
+==================================================
+
+==================================================
+Name: GRIMLOOP
+Release Date: Jun 4, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Action
+Link: https://store.steampowered.com/app/4709620
+==================================================
+
