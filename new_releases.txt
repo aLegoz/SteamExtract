@@ -24991,3 +24991,110 @@ Genres: Casual, Indie, Strategy
 Link: https://store.steampowered.com/app/4753450
 ==================================================
 
+
+--- Run: 2026-06-05 15:46:25 --- (13 new game(s) found)
+
+==================================================
+Name: Tiny Town Market Simulator
+Release Date: Jun 5, 2026
+Price: $6.99 (-30%, was $9.99)
+Genres: Simulation
+Link: https://store.steampowered.com/app/4071090
+==================================================
+
+==================================================
+Name: Stoned to Death
+Release Date: Jun 5, 2026
+Price: $1.79 (-40%, was $2.99)
+Genres: Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/4346450
+==================================================
+
+==================================================
+Name: GlowCore
+Release Date: Jun 5, 2026
+Price: Free to Play
+Genres: Indie, Free To Play
+Link: https://store.steampowered.com/app/4613470
+==================================================
+
+==================================================
+Name: Spacefield
+Release Date: Jun 5, 2026
+Price: $0.99
+Genres: Indie
+Link: https://store.steampowered.com/app/4597830
+==================================================
+
+==================================================
+Name: Donlan Men's Athletic Academy: Before the Line
+Release Date: Jun 5, 2026
+Price: $5.99 (-25%, was $7.99)
+Genres: Adventure, Casual, Indie, Sports
+Link: https://store.steampowered.com/app/4688470
+==================================================
+
+==================================================
+Name: Where is my lady?
+Release Date: Jun 5, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Indie
+Link: https://store.steampowered.com/app/2111210
+==================================================
+
+==================================================
+Name: Airport Mania: First Flight
+Release Date: Jun 5, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: Adventure, Casual, Simulation
+Link: https://store.steampowered.com/app/4674310
+==================================================
+
+==================================================
+Name: Pour Decisions
+Release Date: Jun 5, 2026
+Price: $4.79 (-20%, was $5.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4738060
+==================================================
+
+==================================================
+Name: Ice Cream Simulator
+Release Date: Jun 5, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/3515530
+==================================================
+
+==================================================
+Name: Xeno Swarm - 异虫强袭
+Release Date: Jun 5, 2026
+Price: $1.68
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/3791870
+==================================================
+
+==================================================
+Name: Astral Lords
+Release Date: Jun 5, 2026
+Price: $11.69 (-10%, was $12.99)
+Genres: Action, Adventure, Casual, Indie, RPG, Simulation, Strategy
+Link: https://store.steampowered.com/app/3324250
+==================================================
+
+==================================================
+Name: 溺光症 Photophobia
+Release Date: Jun 5, 2026
+Price: $1.87 (-20%, was $2.34)
+Genres: Casual, Indie, RPG
+Link: https://store.steampowered.com/app/3888660
+==================================================
+
+==================================================
+Name: Chroma Climb: Reclaim Your Color
+Release Date: Jun 5, 2026
+Price: $5.39 (-40%, was $8.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/4629610
+==================================================
+
