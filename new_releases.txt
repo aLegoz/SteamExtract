@@ -24916,3 +24916,78 @@ Genres: Casual, RPG
 Link: https://store.steampowered.com/app/4749110
 ==================================================
 
+
+--- Run: 2026-06-05 12:29:35 --- (9 new game(s) found)
+
+==================================================
+Name: Sudoku Bactron
+Release Date: Jun 5, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/3601600
+==================================================
+
+==================================================
+Name: Beta City
+Release Date: Jun 5, 2026
+Price: $9.99
+Genres: Action
+Link: https://store.steampowered.com/app/3723050
+==================================================
+
+==================================================
+Name: Peril in Prymkos
+Release Date: Jun 5, 2026
+Price: $7.99
+Genres: Adventure, Casual, RPG
+Link: https://store.steampowered.com/app/4414550
+==================================================
+
+==================================================
+Name: Word Glory
+Release Date: Jun 5, 2026
+Price: $1.99
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4689010
+==================================================
+
+==================================================
+Name: Labyrinth's Depths
+Release Date: Jun 5, 2026
+Price: $3.99
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/4072570
+==================================================
+
+==================================================
+Name: 吾皇万岁
+Release Date: Jun 5, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Indie, RPG, Simulation, Strategy
+Link: https://store.steampowered.com/app/3634340
+==================================================
+
+==================================================
+Name: Horny Massage Clinic
+Release Date: Jun 5, 2026
+Price: $4.79 (-40%, was $7.99)
+Genres: Casual, Simulation
+Link: https://store.steampowered.com/app/4484400
+==================================================
+
+==================================================
+Name: Hentai Tales: Overflowing Sister
+Release Date: Jun 5, 2026
+Price: $0.59 (-40%, was $0.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4650400
+==================================================
+
+==================================================
+Name: Bluff Card Game
+Release Date: Jun 5, 2026
+Price: $0.79 (-20%, was $0.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4753450
+==================================================
+
