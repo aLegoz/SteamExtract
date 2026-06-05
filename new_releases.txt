@@ -24739,3 +24739,14 @@ Genres: Action, Casual, Indie, RPG, Strategy
 Link: https://store.steampowered.com/app/4699890
 ==================================================
 
+
+--- Run: 2026-06-05 00:05:08 --- (1 new game(s) found)
+
+==================================================
+Name: Sweet Airline
+Release Date: Jun 4, 2026
+Price: $0.89 (-10%, was $0.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4453610
+==================================================
+
