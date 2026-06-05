@@ -25205,3 +25205,30 @@ Genres: Indie, Simulation
 Link: https://store.steampowered.com/app/4712680
 ==================================================
 
+
+--- Run: 2026-06-05 19:27:52 --- (3 new game(s) found)
+
+==================================================
+Name: Drawn Together
+Release Date: Jun 5, 2026
+Price: Free to Play
+Genres: Casual, Indie, Simulation, Free To Play
+Link: https://store.steampowered.com/app/4358260
+==================================================
+
+==================================================
+Name: Blank Canvas
+Release Date: Jun 5, 2026
+Price: Free to Play
+Genres: Adventure, Indie, Free To Play
+Link: https://store.steampowered.com/app/4608340
+==================================================
+
+==================================================
+Name: Project Absentia
+Release Date: Jun 5, 2026
+Price: $14.99 (-25%, was $19.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/1662010
+==================================================
+
