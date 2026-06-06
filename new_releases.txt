@@ -25470,3 +25470,30 @@ Genres: Action, Indie
 Link: https://store.steampowered.com/app/4139330
 ==================================================
 
+
+--- Run: 2026-06-06 17:59:44 --- (3 new game(s) found)
+
+==================================================
+Name: Your Own Cozy Motel
+Release Date: Jun 6, 2026
+Price: $13.49 (-10%, was $14.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4668390
+==================================================
+
+==================================================
+Name: Beaming
+Release Date: Jun 6, 2026
+Price: $6.65 (-26%, was $8.99)
+Genres: Strategy
+Link: https://store.steampowered.com/app/4172230
+==================================================
+
+==================================================
+Name: DrivApp
+Release Date: Jun 5, 2026
+Price: $9.99
+Genres: Indie, Racing, Simulation
+Link: https://store.steampowered.com/app/4562920
+==================================================
+
