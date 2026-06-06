@@ -25530,3 +25530,30 @@ Genres: Indie, Simulation
 Link: https://store.steampowered.com/app/3723750
 ==================================================
 
+
+--- Run: 2026-06-06 23:54:07 --- (3 new game(s) found)
+
+==================================================
+Name: Electro Havoc
+Release Date: Jun 6, 2026
+Price: $5.99
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/2980110
+==================================================
+
+==================================================
+Name: 67 Minutes in Heaven
+Release Date: Jun 6, 2026
+Price: Free to Play
+Genres: Adventure, Free To Play
+Link: https://store.steampowered.com/app/4673140
+==================================================
+
+==================================================
+Name: Hanta Hearts
+Release Date: Jun 6, 2026
+Price: $4.19 (-40%, was $6.99)
+Genres: Adventure, Simulation
+Link: https://store.steampowered.com/app/4720650
+==================================================
+
