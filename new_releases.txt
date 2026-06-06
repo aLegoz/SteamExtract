@@ -25392,3 +25392,54 @@ Genres: Casual, Simulation, Strategy
 Link: https://store.steampowered.com/app/4426970
 ==================================================
 
+
+--- Run: 2026-06-06 15:03:44 --- (6 new game(s) found)
+
+==================================================
+Name: The Legacy of Shadow's Bane TCG
+Release Date: Jun 6, 2026
+Price: $14.99
+Genres: Action, Adventure, Casual, Indie, Massively Multiplayer, Strategy
+Link: https://store.steampowered.com/app/4230630
+==================================================
+
+==================================================
+Name: Momento
+Release Date: Jun 6, 2026
+Price: $16.99 (-15%, was $19.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/2474770
+==================================================
+
+==================================================
+Name: GeckoShop
+Release Date: Jun 6, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/3392420
+==================================================
+
+==================================================
+Name: Hexa Vanguard
+Release Date: Jun 6, 2026
+Price: $7.79 (-40%, was $12.99)
+Genres: Adventure, Casual, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/4531090
+==================================================
+
+==================================================
+Name: 盟军远征: 地下世界
+Release Date: Jun 6, 2026
+Price: $3.49 (-30%, was $4.99)
+Genres: Strategy
+Link: https://store.steampowered.com/app/3596330
+==================================================
+
+==================================================
+Name: Eternal Lust: Realm of the Undead
+Release Date: Jun 6, 2026
+Price: $14.99 (-25%, was $19.99)
+Genres: Action, Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/4244300
+==================================================
+
