@@ -25519,3 +25519,14 @@ Genres: Action, Indie
 Link: https://store.steampowered.com/app/4001360
 ==================================================
 
+
+--- Run: 2026-06-06 22:52:21 --- (1 new game(s) found)
+
+==================================================
+Name: Trading Card Inspector
+Release Date: Jun 6, 2026
+Price: $4.89 (-30%, was $6.99)
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/3723750
+==================================================
+
