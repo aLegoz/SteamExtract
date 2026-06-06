@@ -25373,3 +25373,22 @@ Genres: Action, Casual, Indie, Simulation
 Link: https://store.steampowered.com/app/4181830
 ==================================================
 
+
+--- Run: 2026-06-06 13:02:52 --- (2 new game(s) found)
+
+==================================================
+Name: Sharp Stock
+Release Date: Jun 6, 2026
+Price: Free to Play
+Genres: Design & Illustration, Utilities, Game Development
+Link: https://store.steampowered.com/app/4542090
+==================================================
+
+==================================================
+Name: gif catcher
+Release Date: Jun 5, 2026
+Price: $1.99
+Genres: Casual, Simulation, Strategy
+Link: https://store.steampowered.com/app/4426970
+==================================================
+
