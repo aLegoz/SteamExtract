@@ -25308,3 +25308,46 @@ Genres: Casual, Simulation
 Link: https://store.steampowered.com/app/4747800
 ==================================================
 
+
+--- Run: 2026-06-06 06:19:09 --- (5 new game(s) found)
+
+==================================================
+Name: ExerciseSimulator Vol.1 - Hustle and Exercise in a Cat-Type Rodeo Machine -
+Release Date: Jun 5, 2026
+Price: Free to Play
+Genres: Casual, Simulation, Free To Play
+Link: https://store.steampowered.com/app/2942390
+==================================================
+
+==================================================
+Name: Sumire's Secret
+Release Date: Jun 5, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: Casual, RPG
+Link: https://store.steampowered.com/app/4398370
+==================================================
+
+==================================================
+Name: Supreme War God
+Release Date: Jun 5, 2026
+Price: Free to Play
+Genres: Action, Adventure, Casual, Indie, Massively Multiplayer, RPG, Free To Play
+Link: https://store.steampowered.com/app/3579100
+==================================================
+
+==================================================
+Name: My Isekai Hotel
+Release Date: Jun 5, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: Casual, Simulation
+Link: https://store.steampowered.com/app/3845640
+==================================================
+
+==================================================
+Name: Splash Shot Golf Legend
+Release Date: Jun 5, 2026
+Price: $15.99 (-20%, was $19.99)
+Genres: Indie, RPG, Simulation, Sports
+Link: https://store.steampowered.com/app/4148100
+==================================================
+
