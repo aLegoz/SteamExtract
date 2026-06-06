@@ -25351,3 +25351,14 @@ Genres: Indie, RPG, Simulation, Sports
 Link: https://store.steampowered.com/app/4148100
 ==================================================
 
+
+--- Run: 2026-06-06 09:15:26 --- (1 new game(s) found)
+
+==================================================
+Name: Blue Fury
+Release Date: Jun 5, 2026
+Price: $9.99
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4634590
+==================================================
+
