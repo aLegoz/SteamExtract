@@ -25508,3 +25508,14 @@ Genres: Casual, RPG, Simulation
 Link: https://store.steampowered.com/app/4719730
 ==================================================
 
+
+--- Run: 2026-06-06 21:53:32 --- (1 new game(s) found)
+
+==================================================
+Name: Nowhere To Go
+Release Date: Jun 6, 2026
+Price: $4.99
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4001360
+==================================================
+
