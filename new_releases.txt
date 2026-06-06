@@ -25443,3 +25443,30 @@ Genres: Action, Adventure, Indie, Simulation
 Link: https://store.steampowered.com/app/4244300
 ==================================================
 
+
+--- Run: 2026-06-06 16:56:11 --- (3 new game(s) found)
+
+==================================================
+Name: nurny battles HD
+Release Date: Jun 6, 2026
+Price: $2.49 (-50%, was $4.99)
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4267330
+==================================================
+
+==================================================
+Name: Journey Express
+Release Date: Jun 6, 2026
+Price: $7.99
+Genres: Adventure
+Link: https://store.steampowered.com/app/2127350
+==================================================
+
+==================================================
+Name: Particulitix
+Release Date: Jun 6, 2026
+Price: $4.79 (-20%, was $5.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4139330
+==================================================
+
