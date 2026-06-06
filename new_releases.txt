@@ -25289,3 +25289,22 @@ Genres: Indie
 Link: https://store.steampowered.com/app/4316020
 ==================================================
 
+
+--- Run: 2026-06-06 02:36:50 --- (2 new game(s) found)
+
+==================================================
+Name: Midnight Massacre
+Release Date: Jun 5, 2026
+Price: $2.99 (-40%, was $4.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4557740
+==================================================
+
+==================================================
+Name: Vibe Idler
+Release Date: Jun 5, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Casual, Simulation
+Link: https://store.steampowered.com/app/4747800
+==================================================
+
