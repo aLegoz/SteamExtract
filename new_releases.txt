@@ -25362,3 +25362,14 @@ Genres: Action, Indie
 Link: https://store.steampowered.com/app/4634590
 ==================================================
 
+
+--- Run: 2026-06-06 11:13:54 --- (1 new game(s) found)
+
+==================================================
+Name: Mice Crisis
+Release Date: Jun 6, 2026
+Price: $6.99
+Genres: Action, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4181830
+==================================================
+
