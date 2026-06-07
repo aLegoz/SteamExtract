@@ -25711,3 +25711,14 @@ Genres: Adventure, RPG, Strategy
 Link: https://store.steampowered.com/app/3929630
 ==================================================
 
+
+--- Run: 2026-06-07 22:00:21 --- (1 new game(s) found)
+
+==================================================
+Name: Grinny’s Playhouse
+Release Date: Jun 7, 2026
+Price: $2.99
+Genres: Action, Adventure
+Link: https://store.steampowered.com/app/4712460
+==================================================
+
