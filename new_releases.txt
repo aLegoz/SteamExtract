@@ -25722,3 +25722,38 @@ Genres: Action, Adventure
 Link: https://store.steampowered.com/app/4712460
 ==================================================
 
+
+--- Run: 2026-06-07 23:56:07 --- (4 new game(s) found)
+
+==================================================
+Name: The Wheelchair Man
+Release Date: Jun 7, 2026
+Price: Free to Play
+Genres: Adventure, Free To Play
+Link: https://store.steampowered.com/app/4757300
+==================================================
+
+==================================================
+Name: LIMINALITY
+Release Date: Jun 7, 2026
+Price: $11.04 (-15%, was $12.99)
+Genres: Indie
+Link: https://store.steampowered.com/app/4730360
+==================================================
+
+==================================================
+Name: BLOK
+Release Date: Jun 7, 2026
+Price: Free to Play
+Genres: Strategy, Free To Play
+Link: https://store.steampowered.com/app/4269810
+==================================================
+
+==================================================
+Name: Skybound
+Release Date: Jun 6, 2026
+Price: Free to Play
+Genres: Action, Adventure, Casual, Indie, Sports, Free To Play
+Link: https://store.steampowered.com/app/3258470
+==================================================
+
