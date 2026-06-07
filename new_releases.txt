@@ -25614,3 +25614,14 @@ Genres: Casual, Indie, Simulation, Free To Play
 Link: https://store.steampowered.com/app/3825960
 ==================================================
 
+
+--- Run: 2026-06-07 15:16:16 --- (1 new game(s) found)
+
+==================================================
+Name: Stop slacking
+Release Date: Jun 7, 2026
+Price: $3.24 (-35%, was $4.99)
+Genres: Casual, Massively Multiplayer, Strategy
+Link: https://store.steampowered.com/app/4660050
+==================================================
+
