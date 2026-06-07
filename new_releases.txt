@@ -25557,3 +25557,30 @@ Genres: Adventure, Simulation
 Link: https://store.steampowered.com/app/4720650
 ==================================================
 
+
+--- Run: 2026-06-07 06:55:53 --- (3 new game(s) found)
+
+==================================================
+Name: BCKSPCE
+Release Date: Jun 6, 2026
+Price: $2.69 (-10%, was $2.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/4650350
+==================================================
+
+==================================================
+Name: Paper Cannon
+Release Date: Jun 6, 2026
+Price: $1.99
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/3236230
+==================================================
+
+==================================================
+Name: Anomalous zone
+Release Date: Jun 6, 2026
+Price: $2.54 (-15%, was $2.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/4696570
+==================================================
+
