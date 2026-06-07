@@ -25595,3 +25595,22 @@ Genres: RPG
 Link: https://store.steampowered.com/app/4696130
 ==================================================
 
+
+--- Run: 2026-06-07 11:40:55 --- (2 new game(s) found)
+
+==================================================
+Name: Arbiter Intelligence Professional Gamer Edition
+Release Date: Jun 6, 2026
+Price: $24.99
+Genres: Utilities
+Link: https://store.steampowered.com/app/4559170
+==================================================
+
+==================================================
+Name: 神游课本
+Release Date: Jun 6, 2026
+Price: Free to Play
+Genres: Casual, Indie, Simulation, Free To Play
+Link: https://store.steampowered.com/app/3825960
+==================================================
+
