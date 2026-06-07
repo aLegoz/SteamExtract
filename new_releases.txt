@@ -25668,3 +25668,46 @@ Genres: RPG
 Link: https://store.steampowered.com/app/4377380
 ==================================================
 
+
+--- Run: 2026-06-07 20:57:59 --- (5 new game(s) found)
+
+==================================================
+Name: Sushi Courier!
+Release Date: Jun 7, 2026
+Price: Free to Play
+Genres: Casual, Free To Play
+Link: https://store.steampowered.com/app/4726270
+==================================================
+
+==================================================
+Name: Maku
+Release Date: Jun 7, 2026
+Price: $2.99
+Genres: Action, Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/2000980
+==================================================
+
+==================================================
+Name: Exo Rally Championship
+Release Date: Jun 7, 2026
+Price: $18.74 (-25%, was $24.99)
+Genres: Action, Racing, Simulation
+Link: https://store.steampowered.com/app/2262020
+==================================================
+
+==================================================
+Name: Bright Lord
+Release Date: Jun 7, 2026
+Price: $14.99
+Genres: Action, Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/2906370
+==================================================
+
+==================================================
+Name: Terrinoth®: Heroes of Descent
+Release Date: Jun 7, 2026
+Price: $29.74 (-15%, was $34.99)
+Genres: Adventure, RPG, Strategy
+Link: https://store.steampowered.com/app/3929630
+==================================================
+
