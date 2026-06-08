@@ -26140,3 +26140,38 @@ Genres: Adventure, Casual, Indie, Simulation
 Link: https://store.steampowered.com/app/4500150
 ==================================================
 
+
+--- Run: 2026-06-08 23:05:34 --- (4 new game(s) found)
+
+==================================================
+Name: Rakeo
+Release Date: Jun 8, 2026
+Price: $6.39 (-20%, was $7.99)
+Genres: Indie
+Link: https://store.steampowered.com/app/2982660
+==================================================
+
+==================================================
+Name: Glow of Honeydew
+Release Date: Jun 8, 2026
+Price: $5.99
+Genres: Indie
+Link: https://store.steampowered.com/app/4708300
+==================================================
+
+==================================================
+Name: Lust o’ Heaven
+Release Date: Jun 8, 2026
+Price: $5.94 (-15%, was $6.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/3312400
+==================================================
+
+==================================================
+Name: Fart X Bully
+Release Date: Jun 8, 2026
+Price: $0.99
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/4741850
+==================================================
+
