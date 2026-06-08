@@ -26030,3 +26030,94 @@ Genres: Action, Adventure
 Link: https://store.steampowered.com/app/4764000
 ==================================================
 
+
+--- Run: 2026-06-08 19:13:08 --- (11 new game(s) found)
+
+==================================================
+Name: Apology Video
+Release Date: Jun 8, 2026
+Price: Free to Play
+Genres: Indie, Simulation, Free To Play
+Link: https://store.steampowered.com/app/4720690
+==================================================
+
+==================================================
+Name: World Cup Waifu Clicker: Soccer Evolution
+Release Date: Jun 8, 2026
+Price: $3.59 (-10%, was $3.99)
+Genres: Casual, Sports
+Link: https://store.steampowered.com/app/864780
+==================================================
+
+==================================================
+Name: Ogre Chambers 2222
+Release Date: Jun 8, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/3375890
+==================================================
+
+==================================================
+Name: Hell Bug
+Release Date: Jun 8, 2026
+Price: $5.94 (-15%, was $6.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/3400470
+==================================================
+
+==================================================
+Name: Insomnia: Chapter One
+Release Date: Jun 8, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Adventure
+Link: https://store.steampowered.com/app/3939100
+==================================================
+
+==================================================
+Name: Spirit Talk - Cozy Visual Novel
+Release Date: Jun 8, 2026
+Price: $8.79 (-20%, was $10.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4002100
+==================================================
+
+==================================================
+Name: Kamikaze Empire
+Release Date: Jun 8, 2026
+Price: $10.39 (-20%, was $12.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/3031720
+==================================================
+
+==================================================
+Name: Wanted Shadows: Unchained
+Release Date: Jun 8, 2026
+Price: $3.14 (-10%, was $3.49)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/3990560
+==================================================
+
+==================================================
+Name: Dig into the core
+Release Date: Jun 8, 2026
+Price: $4.99
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4738550
+==================================================
+
+==================================================
+Name: Argonauts Agency: Curse of Wishes
+Release Date: Jun 8, 2026
+Price: $19.99
+Genres: Adventure, Casual, Simulation, Strategy
+Link: https://store.steampowered.com/app/4768830
+==================================================
+
+==================================================
+Name: Skyfire Stronghold
+Release Date: Jun 8, 2026
+Price: $1.69 (-15%, was $1.99)
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/4741450
+==================================================
+
