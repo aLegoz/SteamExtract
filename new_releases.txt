@@ -25907,3 +25907,126 @@ Genres: Adventure, Indie, RPG
 Link: https://store.steampowered.com/app/4060150
 ==================================================
 
+
+--- Run: 2026-06-08 16:42:24 --- (15 new game(s) found)
+
+==================================================
+Name: Xeno Strike
+Release Date: Jun 8, 2026
+Price: Free to Play
+Genres: Indie, Strategy, Free To Play
+Link: https://store.steampowered.com/app/3987410
+==================================================
+
+==================================================
+Name: Mumagi: Stellar Saviors
+Release Date: Jun 8, 2026
+Price: $4.79 (-20%, was $5.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/3689240
+==================================================
+
+==================================================
+Name: BURI
+Release Date: Jun 8, 2026
+Price: $5.99
+Genres: Adventure, Casual, Indie, RPG
+Link: https://store.steampowered.com/app/4684490
+==================================================
+
+==================================================
+Name: 100 Sherwood Cats
+Release Date: Jun 8, 2026
+Price: $1.59 (-20%, was $1.99)
+Genres: Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/4516180
+==================================================
+
+==================================================
+Name: The Profaned
+Release Date: Jun 8, 2026
+Price: $2.69 (-10%, was $2.99)
+Genres: Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/4535890
+==================================================
+
+==================================================
+Name: DVD Screensaver 2: 30th Anniversary Survivors Edition
+Release Date: Jun 8, 2026
+Price: $2.99
+Genres: Action, Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4308170
+==================================================
+
+==================================================
+Name: Paul Bunyan Back to Bangor
+Release Date: Jun 8, 2026
+Price: Free to Play
+Genres: Action, RPG, Free To Play
+Link: https://store.steampowered.com/app/2980140
+==================================================
+
+==================================================
+Name: wageslave
+Release Date: Jun 8, 2026
+Price: $4.94 (-10%, was $5.49)
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/4441830
+==================================================
+
+==================================================
+Name: Road to Omaha: College Baseball Dynasty
+Release Date: Jun 8, 2026
+Price: $15.99 (-20%, was $19.99)
+Genres: Indie, RPG, Simulation, Sports, Strategy
+Link: https://store.steampowered.com/app/4742550
+==================================================
+
+==================================================
+Name: Puni the Florist
+Release Date: Jun 8, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/3396290
+==================================================
+
+==================================================
+Name: Confectionery Tale
+Release Date: Jun 8, 2026
+Price: $4.79 (-20%, was $5.99)
+Genres: Action
+Link: https://store.steampowered.com/app/4589760
+==================================================
+
+==================================================
+Name: Solarpunk™
+Release Date: Jun 8, 2026
+Price: $22.99
+Genres: Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/1805110
+==================================================
+
+==================================================
+Name: Hearing Voices
+Release Date: Jun 8, 2026
+Price: Free to Play
+Genres: Adventure, Indie, Free To Play
+Link: https://store.steampowered.com/app/4595880
+==================================================
+
+==================================================
+Name: Meow Paw Cursor : 喵爪光标
+Release Date: Jun 8, 2026
+Price: $2.09 (-30%, was $2.99)
+Genres: Utilities
+Link: https://store.steampowered.com/app/4062520
+==================================================
+
+==================================================
+Name: School of Nightmares
+Release Date: Jun 8, 2026
+Price: $8.09 (-10%, was $8.99)
+Genres: Action, Adventure
+Link: https://store.steampowered.com/app/4764000
+==================================================
+
