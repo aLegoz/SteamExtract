@@ -25840,3 +25840,70 @@ Genres: RPG
 Link: https://store.steampowered.com/app/4562630
 ==================================================
 
+
+--- Run: 2026-06-08 12:19:03 --- (8 new game(s) found)
+
+==================================================
+Name: Damn Exam
+Release Date: Jun 8, 2026
+Price: Free to Play
+Genres: Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/4653340
+==================================================
+
+==================================================
+Name: Tellyport
+Release Date: Jun 8, 2026
+Price: Free to Play
+Genres: Action, Indie, Free To Play
+Link: https://store.steampowered.com/app/4656760
+==================================================
+
+==================================================
+Name: Rollie
+Release Date: Jun 8, 2026
+Price: $1.39 (-30%, was $1.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4752130
+==================================================
+
+==================================================
+Name: Soccer Cup Girls – Hentai Jigsaw
+Release Date: Jun 8, 2026
+Price: $1.59 (-20%, was $1.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/4762290
+==================================================
+
+==================================================
+Name: Warring Clans
+Release Date: Jun 8, 2026
+Price: Free to Play
+Genres: Casual, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4760640
+==================================================
+
+==================================================
+Name: One Degree Off
+Release Date: Jun 8, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4504560
+==================================================
+
+==================================================
+Name: Decks of Dexterity
+Release Date: Jun 8, 2026
+Price: $10.49 (-30%, was $14.99)
+Genres: Action, Indie, Strategy
+Link: https://store.steampowered.com/app/968530
+==================================================
+
+==================================================
+Name: 阎罗索命
+Release Date: Jun 7, 2026
+Price: $3.74 (-25%, was $4.99)
+Genres: Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/4060150
+==================================================
+
