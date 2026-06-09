@@ -26331,3 +26331,102 @@ Genres: Design & Illustration, Photo Editing, Utilities
 Link: https://store.steampowered.com/app/4710770
 ==================================================
 
+
+--- Run: 2026-06-09 15:50:10 --- (12 new game(s) found)
+
+==================================================
+Name: Civilization Survivor
+Release Date: Jun 9, 2026
+Price: $2.24 (-25%, was $2.99)
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4695930
+==================================================
+
+==================================================
+Name: 沙雕之路
+Release Date: Jun 9, 2026
+Price: $7.00 (-30%, was $10.00)
+Genres: Action, Adventure, Casual, Indie, RPG
+Link: https://store.steampowered.com/app/1092590
+==================================================
+
+==================================================
+Name: Lusófona Games Collection 2025
+Release Date: Jun 9, 2026
+Price: Free to Play
+Genres: Action, Adventure, Indie, Free To Play
+Link: https://store.steampowered.com/app/3886350
+==================================================
+
+==================================================
+Name: Wound Man
+Release Date: Jun 9, 2026
+Price: $8.99
+Genres: Casual
+Link: https://store.steampowered.com/app/2392810
+==================================================
+
+==================================================
+Name: Voidling Bound
+Release Date: Jun 9, 2026
+Price: $22.49 (-10%, was $24.99)
+Genres: Action, Adventure, RPG
+Link: https://store.steampowered.com/app/2004680
+==================================================
+
+==================================================
+Name: The Whisper Shift
+Release Date: Jun 9, 2026
+Price: $6.79 (-15%, was $7.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4750400
+==================================================
+
+==================================================
+Name: Eden's Eclipse
+Release Date: Jun 9, 2026
+Price: $8.49 (-15%, was $9.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4616580
+==================================================
+
+==================================================
+Name: Old But Gold
+Release Date: Jun 9, 2026
+Price: Free to Play
+Genres: Action, Adventure, RPG, Free To Play
+Link: https://store.steampowered.com/app/4676790
+==================================================
+
+==================================================
+Name: Hentai Clicker: Serona is streaming
+Release Date: Jun 9, 2026
+Price: $2.00 (-33%, was $2.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4734490
+==================================================
+
+==================================================
+Name: Clock Engine - 时钟引擎
+Release Date: Jun 9, 2026
+Price: $0.99
+Genres: Design & Illustration, Utilities
+Link: https://store.steampowered.com/app/4751180
+==================================================
+
+==================================================
+Name: Universe X
+Release Date: Jun 9, 2026
+Price: $9.99
+Genres: Action, Adventure, Casual, RPG, Simulation, Strategy
+Link: https://store.steampowered.com/app/4764090
+==================================================
+
+==================================================
+Name: Just Bouncing
+Release Date: Jun 8, 2026
+Price: $2.54 (-15%, was $2.99)
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/4677020
+==================================================
+
