@@ -26221,3 +26221,54 @@ Genres: Casual, RPG, Free To Play
 Link: https://store.steampowered.com/app/3705350
 ==================================================
 
+
+--- Run: 2026-06-09 09:35:48 --- (6 new game(s) found)
+
+==================================================
+Name: Nova Swarm
+Release Date: Jun 9, 2026
+Price: $3.59 (-10%, was $3.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4765070
+==================================================
+
+==================================================
+Name: Echoes of Sin: Confusion
+Release Date: Jun 9, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4426280
+==================================================
+
+==================================================
+Name: Foundation Typer
+Release Date: Jun 9, 2026
+Price: Free to Play
+Genres: Casual, Indie, Simulation, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4703670
+==================================================
+
+==================================================
+Name: Road to Empress Ⅱ
+Release Date: Jun 8, 2026
+Price: $14.40 (-20%, was $18.00)
+Genres: Adventure, Casual, Indie, RPG, Simulation
+Link: https://store.steampowered.com/app/4148240
+==================================================
+
+==================================================
+Name: 长安首富模拟器
+Release Date: Jun 8, 2026
+Price: $6.99
+Genres: Casual, RPG, Simulation, Strategy
+Link: https://store.steampowered.com/app/4625240
+==================================================
+
+==================================================
+Name: Defying Fate: 60 Days to the Exam
+Release Date: Jun 8, 2026
+Price: $2.39 (-20%, was $2.99)
+Genres: Casual, Indie, RPG
+Link: https://store.steampowered.com/app/4733250
+==================================================
+
