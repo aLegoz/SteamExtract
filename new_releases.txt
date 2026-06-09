@@ -26272,3 +26272,62 @@ Genres: Casual, Indie, RPG
 Link: https://store.steampowered.com/app/4733250
 ==================================================
 
+
+--- Run: 2026-06-09 12:29:14 --- (7 new game(s) found)
+
+==================================================
+Name: LunoBar
+Release Date: Jun 9, 2026
+Price: $2.54 (-15%, was $2.99)
+Genres: Utilities
+Link: https://store.steampowered.com/app/4657870
+==================================================
+
+==================================================
+Name: Throne of Desire
+Release Date: Jun 9, 2026
+Price: Free to Play
+Genres: Action, Adventure, Massively Multiplayer, RPG, Free To Play
+Link: https://store.steampowered.com/app/4496710
+==================================================
+
+==================================================
+Name: My Summer Love: Memories
+Release Date: Jun 9, 2026
+Price: $8.99
+Genres: Casual, RPG, Simulation
+Link: https://store.steampowered.com/app/3794600
+==================================================
+
+==================================================
+Name: Escape Line
+Release Date: Jun 9, 2026
+Price: Free to Play
+Genres: Indie, RPG, Free To Play
+Link: https://store.steampowered.com/app/4725290
+==================================================
+
+==================================================
+Name: Haru : Ritual of Sacrifice
+Release Date: Jun 9, 2026
+Price: $1.99
+Genres: Indie
+Link: https://store.steampowered.com/app/4762670
+==================================================
+
+==================================================
+Name: Until the Abyss
+Release Date: Jun 9, 2026
+Price: $5.39 (-10%, was $5.99)
+Genres: Casual, RPG
+Link: https://store.steampowered.com/app/2651450
+==================================================
+
+==================================================
+Name: Manga Archive Translator
+Release Date: Jun 8, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Design & Illustration, Photo Editing, Utilities
+Link: https://store.steampowered.com/app/4710770
+==================================================
+
