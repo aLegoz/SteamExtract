@@ -26194,3 +26194,30 @@ Genres: Casual, Strategy
 Link: https://store.steampowered.com/app/3243800
 ==================================================
 
+
+--- Run: 2026-06-09 05:58:14 --- (3 new game(s) found)
+
+==================================================
+Name: The Echoes
+Release Date: Jun 8, 2026
+Price: $8.09 (-10%, was $8.99)
+Genres: Indie
+Link: https://store.steampowered.com/app/4708080
+==================================================
+
+==================================================
+Name: Xiaye's Doors of Magic: Lightchaser
+Release Date: Jun 8, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Adventure, Casual, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/3574100
+==================================================
+
+==================================================
+Name: Player's New World
+Release Date: Jun 8, 2026
+Price: Free to Play
+Genres: Casual, RPG, Free To Play
+Link: https://store.steampowered.com/app/3705350
+==================================================
+
