@@ -26175,3 +26175,22 @@ Genres: Indie, Simulation
 Link: https://store.steampowered.com/app/4741850
 ==================================================
 
+
+--- Run: 2026-06-09 01:52:39 --- (2 new game(s) found)
+
+==================================================
+Name: LoveCore Rhythm
+Release Date: Jun 8, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4760300
+==================================================
+
+==================================================
+Name: Sumo Battlegrounds
+Release Date: Jun 8, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: Casual, Strategy
+Link: https://store.steampowered.com/app/3243800
+==================================================
+
