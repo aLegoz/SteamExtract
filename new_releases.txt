@@ -26430,3 +26430,86 @@ Genres: Indie, Simulation
 Link: https://store.steampowered.com/app/4677020
 ==================================================
 
+
+--- Run: 2026-06-09 17:50:31 --- (10 new game(s) found)
+
+==================================================
+Name: BUNNYBastion
+Release Date: Jun 9, 2026
+Price: $3.39 (-15%, was $3.99)
+Genres: Action, Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4529340
+==================================================
+
+==================================================
+Name: Axom: Conquest
+Release Date: Jun 9, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/2143600
+==================================================
+
+==================================================
+Name: How to Make an Atomic Bomb in Your Garden
+Release Date: Jun 9, 2026
+Price: $9.93 (-15%, was $11.69)
+Genres: Adventure, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/3700980
+==================================================
+
+==================================================
+Name: Cauldron Craft
+Release Date: Jun 9, 2026
+Price: $6.29 (-10%, was $6.99)
+Genres: Casual, Indie, RPG
+Link: https://store.steampowered.com/app/4001700
+==================================================
+
+==================================================
+Name: Tavern Talk Stories: Dreamwalker
+Release Date: Jun 9, 2026
+Price: $13.49 (-10%, was $14.99)
+Genres: Adventure, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/3500880
+==================================================
+
+==================================================
+Name: Ocean Cleaner Idle
+Release Date: Jun 9, 2026
+Price: $2.66 (-11%, was $2.99)
+Genres: Indie
+Link: https://store.steampowered.com/app/4451520
+==================================================
+
+==================================================
+Name: ARE YOU OKAY?
+Release Date: Jun 9, 2026
+Price: $0.99
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4715840
+==================================================
+
+==================================================
+Name: MRGO - Mixed Reality Go
+Release Date: Jun 9, 2026
+Price: $34.99
+Genres: Utilities
+Link: https://store.steampowered.com/app/4620960
+==================================================
+
+==================================================
+Name: TACS Classic Collection
+Release Date: Jun 9, 2026
+Price: $9.99
+Genres: Action, Adventure, Indie, Strategy
+Link: https://store.steampowered.com/app/1993610
+==================================================
+
+==================================================
+Name: Swap lives
+Release Date: Jun 9, 2026
+Price: $0.99
+Genres: Indie
+Link: https://store.steampowered.com/app/4010930
+==================================================
+
