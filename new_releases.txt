@@ -26564,3 +26564,14 @@ Genres: Adventure
 Link: https://store.steampowered.com/app/4736300
 ==================================================
 
+
+--- Run: 2026-06-09 21:27:29 --- (1 new game(s) found)
+
+==================================================
+Name: Not A Bot
+Release Date: Jun 9, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Action, Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4198260
+==================================================
+
