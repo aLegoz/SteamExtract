@@ -26688,3 +26688,46 @@ Genres: Action, Indie
 Link: https://store.steampowered.com/app/4674560
 ==================================================
 
+
+--- Run: 2026-06-10 10:46:47 --- (5 new game(s) found)
+
+==================================================
+Name: Lastgirl Survivor
+Release Date: Jun 10, 2026
+Price: $1.39 (-30%, was $1.99)
+Genres: Action, Adventure, Casual, Indie, RPG
+Link: https://store.steampowered.com/app/4353510
+==================================================
+
+==================================================
+Name: Come in
+Release Date: Jun 10, 2026
+Price: $3.59 (-10%, was $3.99)
+Genres: Indie
+Link: https://store.steampowered.com/app/4701370
+==================================================
+
+==================================================
+Name: ABOVE
+Release Date: Jun 10, 2026
+Price: Free to Play
+Genres: Adventure, Free To Play
+Link: https://store.steampowered.com/app/4318420
+==================================================
+
+==================================================
+Name: Hold Your King
+Release Date: Jun 10, 2026
+Price: $4.79 (-20%, was $5.99)
+Genres: Action, Adventure, Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/3564340
+==================================================
+
+==================================================
+Name: Shadow Among Nove
+Release Date: Jun 10, 2026
+Price: $5.39 (-10%, was $5.99)
+Genres: Casual, RPG
+Link: https://store.steampowered.com/app/2651510
+==================================================
+
