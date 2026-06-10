@@ -26993,3 +26993,38 @@ Genres: Action, Adventure, Indie, RPG
 Link: https://store.steampowered.com/app/2461910
 ==================================================
 
+
+--- Run: 2026-06-10 20:05:34 --- (4 new game(s) found)
+
+==================================================
+Name: Wool at the Gates
+Release Date: Jun 10, 2026
+Price: $6.74 (-25%, was $8.99)
+Genres: Strategy
+Link: https://store.steampowered.com/app/2994990
+==================================================
+
+==================================================
+Name: Letter Lost
+Release Date: Jun 10, 2026
+Price: $17.99 (-10%, was $19.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/3624790
+==================================================
+
+==================================================
+Name: Mouse X
+Release Date: Jun 10, 2026
+Price: $1.19 (-40%, was $1.99)
+Genres: Indie, Animation & Modeling, Design & Illustration, Photo Editing, Utilities
+Link: https://store.steampowered.com/app/4255580
+==================================================
+
+==================================================
+Name: The Tragedy at Deer Creek
+Release Date: Jun 10, 2026
+Price: $19.99
+Genres: Adventure
+Link: https://store.steampowered.com/app/2771220
+==================================================
+
