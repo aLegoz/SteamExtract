@@ -26634,3 +26634,30 @@ Genres: Simulation, Strategy
 Link: https://store.steampowered.com/app/4588330
 ==================================================
 
+
+--- Run: 2026-06-10 02:04:01 --- (3 new game(s) found)
+
+==================================================
+Name: Idlemoor
+Release Date: Jun 9, 2026
+Price: Free to Play
+Genres: Adventure, Casual, Indie, Massively Multiplayer, RPG, Simulation
+Link: https://store.steampowered.com/app/4724050
+==================================================
+
+==================================================
+Name: Multi Brick Breaker
+Release Date: Jun 9, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4739150
+==================================================
+
+==================================================
+Name: Wordrix
+Release Date: Jun 9, 2026
+Price: $4.99
+Genres: Strategy
+Link: https://store.steampowered.com/app/4695200
+==================================================
+
