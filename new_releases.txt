@@ -26846,3 +26846,150 @@ Genres: Animation & Modeling, Utilities
 Link: https://store.steampowered.com/app/4748600
 ==================================================
 
+
+--- Run: 2026-06-10 17:49:17 --- (18 new game(s) found)
+
+==================================================
+Name: Beats Of Fury
+Release Date: Jun 10, 2026
+Price: $6.29 (-10%, was $6.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/727450
+==================================================
+
+==================================================
+Name: Apocalypse Express
+Release Date: Jun 10, 2026
+Price: $5.99 (-40%, was $9.99)
+Genres: Action, Indie, Strategy
+Link: https://store.steampowered.com/app/3223160
+==================================================
+
+==================================================
+Name: Kamilia
+Release Date: Jun 10, 2026
+Price: $8.49 (-15%, was $9.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/2654030
+==================================================
+
+==================================================
+Name: The Dreams in the Peacock House
+Release Date: Jun 10, 2026
+Price: $2.69 (-10%, was $2.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4693460
+==================================================
+
+==================================================
+Name: Hostage Down
+Release Date: Jun 10, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Adventure, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4596790
+==================================================
+
+==================================================
+Name: Fears to Fathom® - Scratch Creek
+Release Date: Jun 10, 2026
+Price: $7.99
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4121170
+==================================================
+
+==================================================
+Name: Crushed In Time
+Release Date: Jun 10, 2026
+Price: $19.99 (-20%, was $24.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/3858650
+==================================================
+
+==================================================
+Name: 4PGP
+Release Date: Jun 10, 2026
+Price: $17.99 (-10%, was $19.99)
+Genres: Racing
+Link: https://store.steampowered.com/app/3649530
+==================================================
+
+==================================================
+Name: 33 Immortals
+Release Date: Jun 10, 2026
+Price: $9.97 (-33%, was $14.89)
+Genres: Action, Indie, Massively Multiplayer
+Link: https://store.steampowered.com/app/958520
+==================================================
+
+==================================================
+Name: Liminal Logistics
+Release Date: Jun 10, 2026
+Price: $13.19 (-12%, was $14.99)
+Genres: Action, Casual, Simulation
+Link: https://store.steampowered.com/app/4280540
+==================================================
+
+==================================================
+Name: Interdimensional Vending Machine
+Release Date: Jun 10, 2026
+Price: $7.19 (-10%, was $7.99)
+Genres: Indie
+Link: https://store.steampowered.com/app/3857430
+==================================================
+
+==================================================
+Name: Mini Golf Madness
+Release Date: Jun 10, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Casual, Indie, Simulation, Sports
+Link: https://store.steampowered.com/app/3484020
+==================================================
+
+==================================================
+Name: Boxcat Climber
+Release Date: Jun 10, 2026
+Price: $1.99
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4570880
+==================================================
+
+==================================================
+Name: Beatdown City Survivors
+Release Date: Jun 10, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: Action
+Link: https://store.steampowered.com/app/3383040
+==================================================
+
+==================================================
+Name: Blast Head
+Release Date: Jun 10, 2026
+Price: $3.19 (-20%, was $3.99)
+Genres: Action, Casual, Indie, RPG
+Link: https://store.steampowered.com/app/2054260
+==================================================
+
+==================================================
+Name: Burglin' Gnomes
+Release Date: Jun 10, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Action, Adventure
+Link: https://store.steampowered.com/app/3844970
+==================================================
+
+==================================================
+Name: All That Time
+Release Date: Jun 10, 2026
+Price: $5.21 (-10%, was $5.79)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/3931720
+==================================================
+
+==================================================
+Name: Immortal Payroll
+Release Date: Jun 10, 2026
+Price: $5.99
+Genres: Action, Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/2461910
+==================================================
+
