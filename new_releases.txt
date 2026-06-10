@@ -26661,3 +26661,30 @@ Genres: Strategy
 Link: https://store.steampowered.com/app/4695200
 ==================================================
 
+
+--- Run: 2026-06-10 06:55:19 --- (3 new game(s) found)
+
+==================================================
+Name: MECCHA CHAMELEON
+Release Date: Jun 9, 2026
+Price: $4.79 (-20%, was $5.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/4704690
+==================================================
+
+==================================================
+Name: Re:Bloom 花精霊のぽかぽか温泉郷
+Release Date: Jun 9, 2026
+Price: $4.00
+Genres: Casual
+Link: https://store.steampowered.com/app/4658670
+==================================================
+
+==================================================
+Name: Immunity Protocol
+Release Date: Jun 9, 2026
+Price: $5.09 (-15%, was $5.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4674560
+==================================================
+
