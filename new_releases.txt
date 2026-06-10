@@ -27028,3 +27028,38 @@ Genres: Adventure
 Link: https://store.steampowered.com/app/2771220
 ==================================================
 
+
+--- Run: 2026-06-10 22:45:13 --- (4 new game(s) found)
+
+==================================================
+Name: SCREAM you LOSE
+Release Date: Jun 10, 2026
+Price: $5.03 (-16%, was $5.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/4698630
+==================================================
+
+==================================================
+Name: Sugar Shatter
+Release Date: Jun 10, 2026
+Price: $11.04 (-15%, was $12.99)
+Genres: Action
+Link: https://store.steampowered.com/app/4275860
+==================================================
+
+==================================================
+Name: Please Ignore The Anomalies
+Release Date: Jun 10, 2026
+Price: $3.39 (-15%, was $3.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/2957090
+==================================================
+
+==================================================
+Name: Debt Free Dopamine
+Release Date: Jun 10, 2026
+Price: $1.99
+Genres: Casual
+Link: https://store.steampowered.com/app/4747040
+==================================================
+
