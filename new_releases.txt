@@ -27197,3 +27197,102 @@ Genres: Action, Adventure, Indie
 Link: https://store.steampowered.com/app/4746610
 ==================================================
 
+
+--- Run: 2026-06-11 14:00:07 --- (12 new game(s) found)
+
+==================================================
+Name: Model Kit Shop Simulator: Prologue
+Release Date: Jun 11, 2026
+Price: Free to Play
+Genres: Casual, Indie, Simulation, Free To Play
+Link: https://store.steampowered.com/app/4668820
+==================================================
+
+==================================================
+Name: Tales of Seikyu
+Release Date: Jun 11, 2026
+Price: $17.49 (-30%, was $24.99)
+Genres: Adventure, RPG, Simulation
+Link: https://store.steampowered.com/app/2340520
+==================================================
+
+==================================================
+Name: Pimalai Mansion: หอนี้ ผีไม่ดุ
+Release Date: Jun 11, 2026
+Price: $7.19 (-10%, was $7.99)
+Genres: Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/3923270
+==================================================
+
+==================================================
+Name: Imago Season
+Release Date: Jun 11, 2026
+Price: $8.55 (-10%, was $9.50)
+Genres: Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/4207140
+==================================================
+
+==================================================
+Name: VHS // Anima 021
+Release Date: Jun 11, 2026
+Price: Free to Play
+Genres: Indie, Free To Play
+Link: https://store.steampowered.com/app/4731010
+==================================================
+
+==================================================
+Name: Terra Dice
+Release Date: Jun 11, 2026
+Price: $0.99
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4766680
+==================================================
+
+==================================================
+Name: Chromatic Mage
+Release Date: Jun 11, 2026
+Price: $3.39 (-15%, was $3.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4758410
+==================================================
+
+==================================================
+Name: Beach Defense: Zombie Invasion
+Release Date: Jun 11, 2026
+Price: $2.79 (-30%, was $3.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4754260
+==================================================
+
+==================================================
+Name: Idle Trinity Builder
+Release Date: Jun 10, 2026
+Price: $6.79 (-15%, was $7.99)
+Genres: Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/4669420
+==================================================
+
+==================================================
+Name: 3tene PRO
+Release Date: Jun 10, 2026
+Price: $11.39 (-40%, was $18.99)
+Genres: Animation & Modeling
+Link: https://store.steampowered.com/app/3850680
+==================================================
+
+==================================================
+Name: Ten Days Nightmare
+Release Date: Jun 10, 2026
+Price: $1.79 (-10%, was $1.99)
+Genres: Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/4760490
+==================================================
+
+==================================================
+Name: BlackColled Madala Force 2
+Release Date: Jun 10, 2026
+Price: $18.00
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4693720
+==================================================
+
