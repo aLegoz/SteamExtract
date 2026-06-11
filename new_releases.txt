@@ -27063,3 +27063,38 @@ Genres: Casual
 Link: https://store.steampowered.com/app/4747040
 ==================================================
 
+
+--- Run: 2026-06-11 05:18:20 --- (4 new game(s) found)
+
+==================================================
+Name: Lost Castle 2
+Release Date: Jun 10, 2026
+Price: $12.59 (-30%, was $17.99)
+Genres: Action, Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/2445690
+==================================================
+
+==================================================
+Name: Doo 'N' Dash
+Release Date: Jun 10, 2026
+Price: Free to Play
+Genres: Action, Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/4562100
+==================================================
+
+==================================================
+Name: Billionaire MAX
+Release Date: Jun 10, 2026
+Price: $5.75 (-36%, was $8.99)
+Genres: Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4677890
+==================================================
+
+==================================================
+Name: Total Football Online
+Release Date: Jun 10, 2026
+Price: Free to Play
+Genres: Action, Casual, Simulation, Sports, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4517460
+==================================================
+
