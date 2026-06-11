@@ -27098,3 +27098,102 @@ Genres: Action, Casual, Simulation, Sports, Strategy, Free To Play
 Link: https://store.steampowered.com/app/4517460
 ==================================================
 
+
+--- Run: 2026-06-11 10:00:13 --- (12 new game(s) found)
+
+==================================================
+Name: Ray of Life
+Release Date: Jun 11, 2026
+Price: Free to Play
+Genres: Adventure, Indie, Free To Play
+Link: https://store.steampowered.com/app/2279130
+==================================================
+
+==================================================
+Name: D.O.T. Defence
+Release Date: Jun 11, 2026
+Price: $9.74 (-35%, was $14.99)
+Genres: Strategy
+Link: https://store.steampowered.com/app/3124850
+==================================================
+
+==================================================
+Name: 少女终端
+Release Date: Jun 11, 2026
+Price: $1.49 (-25%, was $1.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4555380
+==================================================
+
+==================================================
+Name: Stall Tycoon: A Cozy English Word Game
+Release Date: Jun 10, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Casual, Simulation
+Link: https://store.steampowered.com/app/4710590
+==================================================
+
+==================================================
+Name: Dreamstranded
+Release Date: Jun 10, 2026
+Price: $9.89 (-10%, was $10.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/3326670
+==================================================
+
+==================================================
+Name: Mousebusters
+Release Date: Jun 10, 2026
+Price: $11.69 (-10%, was $12.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/2823200
+==================================================
+
+==================================================
+Name: Ascension Clicker
+Release Date: Jun 10, 2026
+Price: $0.99
+Genres: Casual
+Link: https://store.steampowered.com/app/4735710
+==================================================
+
+==================================================
+Name: Reel it! World Fishing
+Release Date: Jun 10, 2026
+Price: $9.33 (-27%, was $12.79)
+Genres: Action, Casual, Indie, Sports
+Link: https://store.steampowered.com/app/4744960
+==================================================
+
+==================================================
+Name: Word Rift
+Release Date: Jun 10, 2026
+Price: $2.99
+Genres: Casual
+Link: https://store.steampowered.com/app/4736440
+==================================================
+
+==================================================
+Name: RWS
+Release Date: Jun 10, 2026
+Price: $4.97 (-17%, was $5.99)
+Genres: Action
+Link: https://store.steampowered.com/app/3932540
+==================================================
+
+==================================================
+Name: Almost Out
+Release Date: Jun 10, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: Action, Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/4464620
+==================================================
+
+==================================================
+Name: The Disclosure Loop
+Release Date: Jun 10, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/4746610
+==================================================
+
