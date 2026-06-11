@@ -27454,3 +27454,62 @@ Link: https://store.steampowered.com/app/4753050
 
 --- Run: 2026-06-11 20:06:40 --- (0 new game(s) found)
 
+
+--- Run: 2026-06-11 22:45:31 --- (7 new game(s) found)
+
+==================================================
+Name: Red Door or Blue Door?
+Release Date: Jun 11, 2026
+Price: $3.59 (-10%, was $3.99)
+Genres: Adventure
+Link: https://store.steampowered.com/app/4700690
+==================================================
+
+==================================================
+Name: Gem Venture
+Release Date: Jun 11, 2026
+Price: $10.19 (-15%, was $11.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/2080890
+==================================================
+
+==================================================
+Name: Hentai Morgana
+Release Date: Jun 11, 2026
+Price: $0.64 (-35%, was $0.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4718710
+==================================================
+
+==================================================
+Name: Idle Protocol
+Release Date: Jun 11, 2026
+Price: $1.69 (-15%, was $1.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4596860
+==================================================
+
+==================================================
+Name: Fortune Flipper
+Release Date: Jun 11, 2026
+Price: $3.99
+Genres: Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/4667610
+==================================================
+
+==================================================
+Name: Android Who Dreams of Stars
+Release Date: Jun 11, 2026
+Price: $2.99 (-40%, was $4.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4752910
+==================================================
+
+==================================================
+Name: Dress Up
+Release Date: Jun 11, 2026
+Price: $12.59 (-30%, was $17.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4646660
+==================================================
+
