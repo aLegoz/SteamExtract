@@ -27813,3 +27813,142 @@ Genres: Action, Adventure, Indie
 Link: https://store.steampowered.com/app/4785480
 ==================================================
 
+
+--- Run: 2026-06-12 16:10:09 --- (17 new game(s) found)
+
+==================================================
+Name: Tome of the Damned
+Release Date: Jun 12, 2026
+Price: $4.79 (-40%, was $7.99)
+Genres: Action, Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/3424930
+==================================================
+
+==================================================
+Name: FeeBay Simulator
+Release Date: Jun 12, 2026
+Price: $5.99
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/3547880
+==================================================
+
+==================================================
+Name: Fuck's Quest II
+Release Date: Jun 12, 2026
+Price: $4.99
+Genres: Action, Adventure
+Link: https://store.steampowered.com/app/3545150
+==================================================
+
+==================================================
+Name: Agari — Riichi Mahjong
+Release Date: Jun 12, 2026
+Price: $5.24 (-25%, was $6.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4541910
+==================================================
+
+==================================================
+Name: Don't Let It Starve
+Release Date: Jun 12, 2026
+Price: $6.79 (-15%, was $7.99)
+Genres: Simulation, Strategy
+Link: https://store.steampowered.com/app/3930510
+==================================================
+
+==================================================
+Name: Goblin Company
+Release Date: Jun 12, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/3864450
+==================================================
+
+==================================================
+Name: Black Zen White
+Release Date: Jun 12, 2026
+Price: $7.19 (-10%, was $7.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/3237030
+==================================================
+
+==================================================
+Name: Teddy Roller 2
+Release Date: Jun 12, 2026
+Price: $7.19 (-40%, was $11.99)
+Genres: Indie
+Link: https://store.steampowered.com/app/3391920
+==================================================
+
+==================================================
+Name: Space Pew Pew
+Release Date: Jun 12, 2026
+Price: $4.05 (-10%, was $4.50)
+Genres: Action, Casual, Indie, RPG
+Link: https://store.steampowered.com/app/4754650
+==================================================
+
+==================================================
+Name: Xanthiom 2
+Release Date: Jun 12, 2026
+Price: $13.49 (-10%, was $14.99)
+Genres: Action, Adventure
+Link: https://store.steampowered.com/app/2555390
+==================================================
+
+==================================================
+Name: Warrior of Lust
+Release Date: Jun 12, 2026
+Price: $9.59 (-20%, was $11.99)
+Genres: Action, RPG
+Link: https://store.steampowered.com/app/4032770
+==================================================
+
+==================================================
+Name: Prostitute Empire
+Release Date: Jun 12, 2026
+Price: $11.99
+Genres: Action, Adventure, Simulation
+Link: https://store.steampowered.com/app/4769850
+==================================================
+
+==================================================
+Name: SKIBIDI
+Release Date: Jun 12, 2026
+Price: $2.99 (-40%, was $4.99)
+Genres: Action, Adventure, Casual, Simulation, Strategy
+Link: https://store.steampowered.com/app/3061560
+==================================================
+
+==================================================
+Name: My Neighbors are Actresses
+Release Date: Jun 12, 2026
+Price: $3.19 (-20%, was $3.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4668230
+==================================================
+
+==================================================
+Name: Tempo Tabbies
+Release Date: Jun 12, 2026
+Price: $5.99
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4737700
+==================================================
+
+==================================================
+Name: The Sphere
+Release Date: Jun 12, 2026
+Price: Free to Play
+Genres: Adventure, Indie, Free To Play
+Link: https://store.steampowered.com/app/4696950
+==================================================
+
+==================================================
+Name: Escape the Marine Lab
+Release Date: Jun 12, 2026
+Price: $1.00
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4767840
+==================================================
+
