@@ -27532,3 +27532,54 @@ Genres: Casual, Indie
 Link: https://store.steampowered.com/app/4481520
 ==================================================
 
+
+--- Run: 2026-06-12 05:24:00 --- (6 new game(s) found)
+
+==================================================
+Name: Kleopatra
+Release Date: Jun 11, 2026
+Price: $5.59 (-20%, was $6.99)
+Genres: Action, Casual, Indie, RPG
+Link: https://store.steampowered.com/app/1642440
+==================================================
+
+==================================================
+Name: The Crystalline Realm
+Release Date: Jun 11, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4728070
+==================================================
+
+==================================================
+Name: SAMURAI CLICKER Infinite Build Mastery
+Release Date: Jun 11, 2026
+Price: $2.69 (-10%, was $2.99)
+Genres: Action
+Link: https://store.steampowered.com/app/4503710
+==================================================
+
+==================================================
+Name: 修仙长生界
+Release Date: Jun 11, 2026
+Price: Free to Play
+Genres: Massively Multiplayer, RPG, Free To Play
+Link: https://store.steampowered.com/app/4598520
+==================================================
+
+==================================================
+Name: 1.76复古沉默
+Release Date: Jun 11, 2026
+Price: Free to Play
+Genres: Action, Adventure, Massively Multiplayer, RPG, Simulation, Free To Play
+Link: https://store.steampowered.com/app/4687470
+==================================================
+
+==================================================
+Name: nonogram
+Release Date: Jun 11, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4323810
+==================================================
+
