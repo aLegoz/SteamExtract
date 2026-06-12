@@ -27513,3 +27513,22 @@ Genres: Adventure, Casual, Indie
 Link: https://store.steampowered.com/app/4646660
 ==================================================
 
+
+--- Run: 2026-06-12 00:12:53 --- (2 new game(s) found)
+
+==================================================
+Name: RobBred - Funny Chat
+Release Date: Jun 11, 2026
+Price: $0.69 (-30%, was $0.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4527390
+==================================================
+
+==================================================
+Name: Sweet Birthday
+Release Date: Jun 11, 2026
+Price: $0.89 (-10%, was $0.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4481520
+==================================================
+
