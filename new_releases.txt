@@ -27583,3 +27583,102 @@ Genres: Casual, Indie
 Link: https://store.steampowered.com/app/4323810
 ==================================================
 
+
+--- Run: 2026-06-12 09:52:55 --- (12 new game(s) found)
+
+==================================================
+Name: Manhandled With Care
+Release Date: Coming soon
+Price: $1.79 (-10%, was $1.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4362860
+==================================================
+
+==================================================
+Name: Clown Camp
+Release Date: Jun 12, 2026
+Price: $6.95 (-13%, was $7.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/3765700
+==================================================
+
+==================================================
+Name: DON'T STOP SMILING
+Release Date: Jun 12, 2026
+Price: $3.59 (-10%, was $3.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4229600
+==================================================
+
+==================================================
+Name: Trust Me
+Release Date: Jun 12, 2026
+Price: $2.99
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4701420
+==================================================
+
+==================================================
+Name: Idle Asteroids
+Release Date: Jun 12, 2026
+Price: $3.39 (-15%, was $3.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/4687700
+==================================================
+
+==================================================
+Name: RR
+Release Date: Jun 12, 2026
+Price: Free to Play
+Genres: Action, Indie, RPG, Free To Play
+Link: https://store.steampowered.com/app/4758120
+==================================================
+
+==================================================
+Name: UNKNOWN CONQUEST
+Release Date: Jun 12, 2026
+Price: $4.99
+Genres: Action
+Link: https://store.steampowered.com/app/4288830
+==================================================
+
+==================================================
+Name: Match! The 12 CZ Wars
+Release Date: Jun 12, 2026
+Price: $4.79 (-20%, was $5.99)
+Genres: Casual, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/3400030
+==================================================
+
+==================================================
+Name: R.E.G.O
+Release Date: Jun 11, 2026
+Price: Free to Play
+Genres: Casual, Indie, Simulation, Free To Play
+Link: https://store.steampowered.com/app/4387480
+==================================================
+
+==================================================
+Name: Capsule Lover
+Release Date: Jun 11, 2026
+Price: $3.59 (-10%, was $3.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/3559510
+==================================================
+
+==================================================
+Name: The Shu legend
+Release Date: Jun 11, 2026
+Price: $2.88 (-20%, was $3.60)
+Genres: Casual, RPG, Simulation
+Link: https://store.steampowered.com/app/4710650
+==================================================
+
+==================================================
+Name: Escape The Complex
+Release Date: Jun 11, 2026
+Price: $4.99
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4663020
+==================================================
+
