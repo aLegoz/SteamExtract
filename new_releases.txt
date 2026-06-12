@@ -28067,3 +28067,78 @@ Genres: Animation & Modeling, Design & Illustration, Photo Editing
 Link: https://store.steampowered.com/app/4759160
 ==================================================
 
+
+--- Run: 2026-06-12 20:59:14 --- (9 new game(s) found)
+
+==================================================
+Name: Hexpand
+Release Date: Jun 12, 2026
+Price: Free to Play
+Genres: Casual, Massively Multiplayer, Strategy, Free To Play
+Link: https://store.steampowered.com/app/3234920
+==================================================
+
+==================================================
+Name: Pixel Rain
+Release Date: Jun 12, 2026
+Price: Free to Play
+Genres: Casual, Indie, Simulation, Free To Play
+Link: https://store.steampowered.com/app/4720150
+==================================================
+
+==================================================
+Name: Ten Rings 2
+Release Date: Jun 12, 2026
+Price: $10.00
+Genres: Adventure, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/4763100
+==================================================
+
+==================================================
+Name: SILVARN
+Release Date: Jun 12, 2026
+Price: $6.39 (-20%, was $7.99)
+Genres: Indie
+Link: https://store.steampowered.com/app/4225020
+==================================================
+
+==================================================
+Name: Tell Me Owl
+Release Date: Jun 12, 2026
+Price: $11.99
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/3459400
+==================================================
+
+==================================================
+Name: JPMAC: Privileged
+Release Date: Jun 12, 2026
+Price: $4.19 (-40%, was $6.99)
+Genres: Adventure, Simulation
+Link: https://store.steampowered.com/app/4709880
+==================================================
+
+==================================================
+Name: Argonauts Agency: When Spring Withered
+Release Date: Jun 12, 2026
+Price: $19.99
+Genres: Casual, Simulation, Strategy
+Link: https://store.steampowered.com/app/4768420
+==================================================
+
+==================================================
+Name: 100 Railway Cats
+Release Date: Jun 12, 2026
+Price: $1.19 (-40%, was $1.99)
+Genres: Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/4014340
+==================================================
+
+==================================================
+Name: Liminal 98
+Release Date: Jun 12, 2026
+Price: $2.69 (-10%, was $2.99)
+Genres: Casual, Indie, Racing
+Link: https://store.steampowered.com/app/4750290
+==================================================
+
