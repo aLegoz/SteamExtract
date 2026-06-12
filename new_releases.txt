@@ -27682,3 +27682,134 @@ Genres: Adventure, Indie
 Link: https://store.steampowered.com/app/4663020
 ==================================================
 
+
+--- Run: 2026-06-12 12:47:52 --- (16 new game(s) found)
+
+==================================================
+Name: Jolly and Whimsy
+Release Date: Jun 12, 2026
+Price: Free to Play
+Genres: Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/4707380
+==================================================
+
+==================================================
+Name: Japanese with Mayu
+Release Date: Jun 12, 2026
+Price: $2.99
+Genres: Simulation
+Link: https://store.steampowered.com/app/4754670
+==================================================
+
+==================================================
+Name: Pantomime Horse Obstacle Course
+Release Date: To be announced
+Price: Free to Play
+Genres: Casual, Free To Play
+Link: https://store.steampowered.com/app/4560630
+==================================================
+
+==================================================
+Name: Wet Wealth
+Release Date: Jun 12, 2026
+Price: Free to Play
+Genres: Casual, Free To Play
+Link: https://store.steampowered.com/app/4293850
+==================================================
+
+==================================================
+Name: ShiroboTanks
+Release Date: Jun 12, 2026
+Price: $1.99
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4370360
+==================================================
+
+==================================================
+Name: Teller's Duty
+Release Date: Jun 12, 2026
+Price: $9.59 (-20%, was $11.99)
+Genres: Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/3428570
+==================================================
+
+==================================================
+Name: Card Night at Gigi's
+Release Date: Jun 12, 2026
+Price: Free to Play
+Genres: Simulation, Free To Play
+Link: https://store.steampowered.com/app/4761270
+==================================================
+
+==================================================
+Name: Tidal Strings
+Release Date: Jun 12, 2026
+Price: $0.59 (-40%, was $0.99)
+Genres: Action, Casual, Indie, RPG
+Link: https://store.steampowered.com/app/4732870
+==================================================
+
+==================================================
+Name: Cradle of the Dark Brood
+Release Date: Jun 12, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Adventure, Indie, RPG, Simulation
+Link: https://store.steampowered.com/app/4745450
+==================================================
+
+==================================================
+Name: Disharmony
+Release Date: Jun 12, 2026
+Price: $4.99
+Genres: Action, Strategy
+Link: https://store.steampowered.com/app/4381330
+==================================================
+
+==================================================
+Name: Reactor Critical
+Release Date: Jun 12, 2026
+Price: $5.09 (-15%, was $5.99)
+Genres: Strategy
+Link: https://store.steampowered.com/app/4734610
+==================================================
+
+==================================================
+Name: Cursed House 16
+Release Date: Jun 12, 2026
+Price: $10.39 (-20%, was $12.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4715660
+==================================================
+
+==================================================
+Name: Storage 8
+Release Date: Jun 12, 2026
+Price: $2.79 (-30%, was $3.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4620740
+==================================================
+
+==================================================
+Name: Storage 8 VR
+Release Date: Jun 12, 2026
+Price: $4.19 (-30%, was $5.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4771190
+==================================================
+
+==================================================
+Name: Lawnmower Game Horrorland
+Release Date: Jun 12, 2026
+Price: $1.19 (-40%, was $1.99)
+Genres: Adventure, Indie, Racing, Simulation
+Link: https://store.steampowered.com/app/4782160
+==================================================
+
+==================================================
+Name: Assassin Of Spider 2: 2099
+Release Date: Jun 12, 2026
+Price: $3.59 (-40%, was $5.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/4785480
+==================================================
+
