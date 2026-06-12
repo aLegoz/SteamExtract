@@ -27952,3 +27952,118 @@ Genres: Casual, Indie
 Link: https://store.steampowered.com/app/4767840
 ==================================================
 
+
+--- Run: 2026-06-12 18:56:40 --- (14 new game(s) found)
+
+==================================================
+Name: Slice the Crops!
+Release Date: Jun 12, 2026
+Price: $3.29 (-40%, was $5.49)
+Genres: Casual, Indie, RPG, Simulation
+Link: https://store.steampowered.com/app/4169770
+==================================================
+
+==================================================
+Name: Melody's Escape 2
+Release Date: Sep 30, 2022
+Price: $8.99 (-40%, was $14.99)
+Genres: Indie, Early Access
+Link: https://store.steampowered.com/app/1829470
+==================================================
+
+==================================================
+Name: Monsters and Elves
+Release Date: Jun 12, 2026
+Price: $3.19 (-20%, was $3.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/1846420
+==================================================
+
+==================================================
+Name: Phone Flipper Simulator
+Release Date: Jun 12, 2026
+Price: $6.99 (-30%, was $9.99)
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/4081170
+==================================================
+
+==================================================
+Name: Survival Machine
+Release Date: Jun 12, 2026
+Price: $12.99 (-35%, was $19.99)
+Genres: Action, Adventure, Casual, Indie, Simulation, Free To Play
+Link: https://store.steampowered.com/app/1601330
+==================================================
+
+==================================================
+Name: Pinball Bounce 2d
+Release Date: Jun 12, 2026
+Price: $1.26 (-15%, was $1.49)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4130870
+==================================================
+
+==================================================
+Name: Fire Lookout: Abandoned Post
+Release Date: Jun 12, 2026
+Price: $8.49 (-15%, was $9.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4680960
+==================================================
+
+==================================================
+Name: IOSoccer
+Release Date: Jun 12, 2026
+Price: Free to Play
+Genres: Indie, Sports, Free To Play
+Link: https://store.steampowered.com/app/673560
+==================================================
+
+==================================================
+Name: FIGHTING GIRL YURI
+Release Date: Jun 12, 2026
+Price: $17.99 (-40%, was $29.99)
+Genres: Action
+Link: https://store.steampowered.com/app/3125090
+==================================================
+
+==================================================
+Name: Lily’s Labyrinth of Lust
+Release Date: Jun 12, 2026
+Price: $9.99
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/2866440
+==================================================
+
+==================================================
+Name: NEVEREND
+Release Date: Jun 12, 2026
+Price: Free to Play
+Genres: Sports, Free To Play
+Link: https://store.steampowered.com/app/4673920
+==================================================
+
+==================================================
+Name: Sudoku Infinity
+Release Date: Jun 12, 2026
+Price: $2.99 (-25%, was $3.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4727630
+==================================================
+
+==================================================
+Name: H-Virus: Succubus Outbreak
+Release Date: Jun 12, 2026
+Price: $4.79 (-20%, was $5.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/4672380
+==================================================
+
+==================================================
+Name: RefUsAll
+Release Date: Jun 12, 2026
+Price: $27.99 (-20%, was $34.99)
+Genres: Animation & Modeling, Design & Illustration, Photo Editing
+Link: https://store.steampowered.com/app/4759160
+==================================================
+
