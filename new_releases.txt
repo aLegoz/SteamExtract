@@ -28142,3 +28142,22 @@ Genres: Casual, Indie, Racing
 Link: https://store.steampowered.com/app/4750290
 ==================================================
 
+
+--- Run: 2026-06-12 22:23:17 --- (2 new game(s) found)
+
+==================================================
+Name: CINESCAPE VR
+Release Date: Jun 12, 2026
+Price: $10.49 (-30%, was $14.99)
+Genres: Adventure
+Link: https://store.steampowered.com/app/3779710
+==================================================
+
+==================================================
+Name: Loop Fighter
+Release Date: Jun 12, 2026
+Price: $2.39 (-20%, was $2.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/3804330
+==================================================
+
