@@ -28274,3 +28274,30 @@ Genres: Casual, Indie
 Link: https://store.steampowered.com/app/4776000
 ==================================================
 
+
+--- Run: 2026-06-13 13:19:18 --- (3 new game(s) found)
+
+==================================================
+Name: Crown Chained
+Release Date: Jun 13, 2026
+Price: $3.39 (-15%, was $3.99)
+Genres: Action, Adventure, Casual, Indie, RPG, Simulation, Strategy
+Link: https://store.steampowered.com/app/4406250
+==================================================
+
+==================================================
+Name: BrightGlade Tales
+Release Date: Jun 13, 2026
+Price: $7.99
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4730950
+==================================================
+
+==================================================
+Name: Man of Y
+Release Date: Jun 12, 2026
+Price: $9.99
+Genres: RPG
+Link: https://store.steampowered.com/app/4719980
+==================================================
+
