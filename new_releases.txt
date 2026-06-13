@@ -28180,3 +28180,62 @@ Genres: Action, Indie
 Link: https://store.steampowered.com/app/4618160
 ==================================================
 
+
+--- Run: 2026-06-13 05:12:58 --- (7 new game(s) found)
+
+==================================================
+Name: DAL'T-4
+Release Date: Jun 12, 2026
+Price: Free to Play
+Genres: Indie, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4624670
+==================================================
+
+==================================================
+Name: Silk Home: echoes of the forbidden
+Release Date: Jun 12, 2026
+Price: $0.99
+Genres: Adventure, Strategy
+Link: https://store.steampowered.com/app/4682760
+==================================================
+
+==================================================
+Name: Reverse Dream of the Menasphere
+Release Date: Jun 12, 2026
+Price: $10.39 (-20%, was $12.99)
+Genres: Adventure, RPG
+Link: https://store.steampowered.com/app/4398360
+==================================================
+
+==================================================
+Name: Rina's Undercover Train Operation
+Release Date: Jun 12, 2026
+Price: $11.19 (-20%, was $13.99)
+Genres: Simulation
+Link: https://store.steampowered.com/app/4260530
+==================================================
+
+==================================================
+Name: Folklore Reloaded
+Release Date: Jun 12, 2026
+Price: $1.59 (-20%, was $1.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/3935130
+==================================================
+
+==================================================
+Name: BitRoca
+Release Date: Jun 12, 2026
+Price: Free to Play
+Genres: Adventure, Casual, Indie, Massively Multiplayer, Free To Play
+Link: https://store.steampowered.com/app/4644600
+==================================================
+
+==================================================
+Name: Hunk Battle Gems
+Release Date: Jun 12, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Casual, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/4763730
+==================================================
+
