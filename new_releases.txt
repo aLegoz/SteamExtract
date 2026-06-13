@@ -28161,3 +28161,22 @@ Genres: Casual, Indie
 Link: https://store.steampowered.com/app/3804330
 ==================================================
 
+
+--- Run: 2026-06-13 00:11:18 --- (2 new game(s) found)
+
+==================================================
+Name: 0.5%
+Release Date: Jun 12, 2026
+Price: Free to Play
+Genres: Casual, Indie, Simulation, Free To Play
+Link: https://store.steampowered.com/app/4775970
+==================================================
+
+==================================================
+Name: Lobotomy
+Release Date: Jun 12, 2026
+Price: $6.99
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4618160
+==================================================
+
