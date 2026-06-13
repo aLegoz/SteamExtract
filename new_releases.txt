@@ -28301,3 +28301,30 @@ Genres: RPG
 Link: https://store.steampowered.com/app/4719980
 ==================================================
 
+
+--- Run: 2026-06-13 17:06:45 --- (3 new game(s) found)
+
+==================================================
+Name: The Blackwood Project
+Release Date: Jun 13, 2026
+Price: Free to Play
+Genres: Action, Adventure, Indie, Free To Play
+Link: https://store.steampowered.com/app/4566920
+==================================================
+
+==================================================
+Name: Gooner Studio
+Release Date: Jun 13, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Utilities, Video Production
+Link: https://store.steampowered.com/app/4755830
+==================================================
+
+==================================================
+Name: WHERE the F$CK is my BITCOIN ⁉️
+Release Date: Jun 13, 2026
+Price: $4.75 (-32%, was $6.99)
+Genres: Action, Adventure, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4705620
+==================================================
+
