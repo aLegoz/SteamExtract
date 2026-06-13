@@ -28239,3 +28239,38 @@ Genres: Casual, Indie, RPG, Strategy
 Link: https://store.steampowered.com/app/4763730
 ==================================================
 
+
+--- Run: 2026-06-13 08:43:46 --- (4 new game(s) found)
+
+==================================================
+Name: Tollway Tycoon
+Release Date: Jun 12, 2026
+Price: $4.89 (-30%, was $6.99)
+Genres: Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/3976220
+==================================================
+
+==================================================
+Name: Hentai Tales: Secrets Glasses & Gyaru
+Release Date: Jun 12, 2026
+Price: $0.59 (-40%, was $0.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4650610
+==================================================
+
+==================================================
+Name: Yandere Goth Boss 2: First Session
+Release Date: Jun 12, 2026
+Price: $0.99
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/4762210
+==================================================
+
+==================================================
+Name: Hentai Age Car
+Release Date: Jun 12, 2026
+Price: $0.79 (-20%, was $0.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4776000
+==================================================
+
