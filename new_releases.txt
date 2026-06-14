@@ -28452,3 +28452,22 @@ Genres: Action
 Link: https://store.steampowered.com/app/4569020
 ==================================================
 
+
+--- Run: 2026-06-14 12:55:32 --- (2 new game(s) found)
+
+==================================================
+Name: 寻味记
+Release Date: Jun 14, 2026
+Price: Free to Play
+Genres: Casual, Indie, RPG, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4625560
+==================================================
+
+==================================================
+Name: Sad Virus Up & Up
+Release Date: Jun 14, 2026
+Price: $0.59 (-40%, was $0.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4787850
+==================================================
+
