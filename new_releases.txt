@@ -28525,3 +28525,14 @@ Genres: Action, Adventure, RPG, Strategy
 Link: https://store.steampowered.com/app/4065490
 ==================================================
 
+
+--- Run: 2026-06-14 20:56:47 --- (1 new game(s) found)
+
+==================================================
+Name: Isle Of Nexaryth
+Release Date: Jun 14, 2026
+Price: $4.99
+Genres: Action, Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/4769620
+==================================================
+
