@@ -28471,3 +28471,30 @@ Genres: Casual, Indie, Simulation
 Link: https://store.steampowered.com/app/4787850
 ==================================================
 
+
+--- Run: 2026-06-14 17:06:06 --- (3 new game(s) found)
+
+==================================================
+Name: Fomo-trading
+Release Date: Jun 14, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Indie, Massively Multiplayer, Simulation, Strategy
+Link: https://store.steampowered.com/app/4503540
+==================================================
+
+==================================================
+Name: Beggar's Life
+Release Date: Jun 14, 2026
+Price: $2.54 (-15%, was $2.99)
+Genres: Indie, RPG, Simulation, Strategy
+Link: https://store.steampowered.com/app/3772140
+==================================================
+
+==================================================
+Name: Bonk Market
+Release Date: Jun 14, 2026
+Price: $7.99
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4785050
+==================================================
+
