@@ -28498,3 +28498,30 @@ Genres: Casual, Indie, Simulation, Strategy
 Link: https://store.steampowered.com/app/4785050
 ==================================================
 
+
+--- Run: 2026-06-14 19:04:44 --- (3 new game(s) found)
+
+==================================================
+Name: Dead Head Drive
+Release Date: Jun 14, 2026
+Price: $5.94 (-15%, was $6.99)
+Genres: Adventure, Indie, Racing
+Link: https://store.steampowered.com/app/4566360
+==================================================
+
+==================================================
+Name: Macrolens: The Slimes
+Release Date: Jun 14, 2026
+Price: $3.99
+Genres: Casual, Simulation
+Link: https://store.steampowered.com/app/4115690
+==================================================
+
+==================================================
+Name: The Last Hope: Exodus
+Release Date: Jun 14, 2026
+Price: $5.00
+Genres: Action, Adventure, RPG, Strategy
+Link: https://store.steampowered.com/app/4065490
+==================================================
+
