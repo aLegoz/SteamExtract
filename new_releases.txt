@@ -28441,3 +28441,14 @@ Genres: Indie, RPG
 Link: https://store.steampowered.com/app/4701920
 ==================================================
 
+
+--- Run: 2026-06-14 10:41:59 --- (1 new game(s) found)
+
+==================================================
+Name: Star Hero
+Release Date: Jun 14, 2026
+Price: $9.99
+Genres: Action
+Link: https://store.steampowered.com/app/4569020
+==================================================
+
