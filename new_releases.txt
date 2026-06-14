@@ -28536,3 +28536,22 @@ Genres: Action, Adventure, Indie, RPG
 Link: https://store.steampowered.com/app/4769620
 ==================================================
 
+
+--- Run: 2026-06-14 22:03:10 --- (2 new game(s) found)
+
+==================================================
+Name: RE_ALLOC
+Release Date: Jun 14, 2026
+Price: $2.54 (-27%, was $3.49)
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/4774270
+==================================================
+
+==================================================
+Name: Retrowave Barro Crazy Drift
+Release Date: Jun 13, 2026
+Price: $3.19 (-80%, was $15.99)
+Genres: Casual, Indie, Racing, Simulation, Sports
+Link: https://store.steampowered.com/app/4285580
+==================================================
+
