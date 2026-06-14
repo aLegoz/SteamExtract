@@ -28374,3 +28374,70 @@ Genres: Action, Adventure, Indie, Free To Play
 Link: https://store.steampowered.com/app/3066110
 ==================================================
 
+
+--- Run: 2026-06-14 07:13:13 --- (8 new game(s) found)
+
+==================================================
+Name: CacaClicker
+Release Date: Jun 13, 2026
+Price: Free to Play
+Genres: Casual, Indie, Simulation, Free To Play
+Link: https://store.steampowered.com/app/4730330
+==================================================
+
+==================================================
+Name: Unattached: City of Shadows Prologue
+Release Date: Jun 13, 2026
+Price: Free to Play
+Genres: Action, Adventure, Indie, RPG, Free To Play
+Link: https://store.steampowered.com/app/4487850
+==================================================
+
+==================================================
+Name: Pact of Steel
+Release Date: Jun 13, 2026
+Price: $14.99
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/2258380
+==================================================
+
+==================================================
+Name: 棋桜
+Release Date: Jun 13, 2026
+Price: Free to Play
+Genres: Simulation, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4257900
+==================================================
+
+==================================================
+Name: MINESTRIKE SURVIVORS
+Release Date: Jun 13, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Action, Adventure, Strategy
+Link: https://store.steampowered.com/app/4762280
+==================================================
+
+==================================================
+Name: Anomaly Watcher
+Release Date: Jun 13, 2026
+Price: $4.99
+Genres: Indie
+Link: https://store.steampowered.com/app/4766570
+==================================================
+
+==================================================
+Name: Tower Defense Monster
+Release Date: Jun 13, 2026
+Price: $1.99
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/1888760
+==================================================
+
+==================================================
+Name: After the Hero
+Release Date: Jun 13, 2026
+Price: $59.99 (-40%, was $99.99)
+Genres: Indie, RPG
+Link: https://store.steampowered.com/app/4701920
+==================================================
+
