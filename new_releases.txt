@@ -28804,3 +28804,102 @@ Genres: Adventure, Casual
 Link: https://store.steampowered.com/app/4093630
 ==================================================
 
+
+--- Run: 2026-06-15 20:19:18 --- (12 new game(s) found)
+
+==================================================
+Name: Autotelic
+Release Date: Jun 15, 2026
+Price: Free to Play
+Genres: Casual, Indie, Simulation, Free To Play
+Link: https://store.steampowered.com/app/4677950
+==================================================
+
+==================================================
+Name: ArmOut
+Release Date: Jun 15, 2026
+Price: Free to Play
+Genres: Simulation, Free To Play
+Link: https://store.steampowered.com/app/4027780
+==================================================
+
+==================================================
+Name: Eternal Exodus
+Release Date: Jun 15, 2026
+Price: $17.99 (-10%, was $19.99)
+Genres: Indie, RPG
+Link: https://store.steampowered.com/app/1009410
+==================================================
+
+==================================================
+Name: Cheese Stack
+Release Date: Jun 15, 2026
+Price: $1.19 (-40%, was $1.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4674970
+==================================================
+
+==================================================
+Name: Playback
+Release Date: Jun 15, 2026
+Price: $4.99
+Genres: Action, Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/3792530
+==================================================
+
+==================================================
+Name: Key Clover
+Release Date: Jun 15, 2026
+Price: $0.99
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4285950
+==================================================
+
+==================================================
+Name: SharedScreen Wagons 2
+Release Date: Jun 15, 2026
+Price: $8.49 (-15%, was $9.99)
+Genres: Indie
+Link: https://store.steampowered.com/app/4280570
+==================================================
+
+==================================================
+Name: Dodgeball
+Release Date: Jun 15, 2026
+Price: $3.99
+Genres: Action, Casual, Indie, Sports
+Link: https://store.steampowered.com/app/4738740
+==================================================
+
+==================================================
+Name: Politisim
+Release Date: Jun 15, 2026
+Price: $3.74 (-25%, was $4.99)
+Genres: Simulation, Strategy
+Link: https://store.steampowered.com/app/4553770
+==================================================
+
+==================================================
+Name: The Cornerman
+Release Date: Jun 15, 2026
+Price: $14.99
+Genres: Casual, Simulation, Sports, Strategy
+Link: https://store.steampowered.com/app/4717690
+==================================================
+
+==================================================
+Name: The Cursed Land
+Release Date: Jun 15, 2026
+Price: $7.64 (-15%, was $8.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4702220
+==================================================
+
+==================================================
+Name: 101 Dogs Hidden in London
+Release Date: Jun 15, 2026
+Price: $1.19 (-40%, was $1.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4725970
+==================================================
+
