@@ -28665,3 +28665,142 @@ Genres: Simulation
 Link: https://store.steampowered.com/app/4236490
 ==================================================
 
+
+--- Run: 2026-06-15 16:11:11 --- (17 new game(s) found)
+
+==================================================
+Name: Crococo
+Release Date: Jun 15, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/4699110
+==================================================
+
+==================================================
+Name: MOLE
+Release Date: Jun 15, 2026
+Price: $11.69 (-10%, was $12.99)
+Genres: Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/4064510
+==================================================
+
+==================================================
+Name: OIL.EXE
+Release Date: Jun 15, 2026
+Price: Free to Play
+Genres: Indie, Simulation, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4709640
+==================================================
+
+==================================================
+Name: Gagged Love
+Release Date: Jun 15, 2026
+Price: $4.97 (-17%, was $5.99)
+Genres: Adventure, Casual
+Link: https://store.steampowered.com/app/3610840
+==================================================
+
+==================================================
+Name: Pickupbal
+Release Date: Jun 15, 2026
+Price: $2.54 (-15%, was $2.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4272720
+==================================================
+
+==================================================
+Name: Simulation Simulator
+Release Date: Jun 15, 2026
+Price: Free to Play
+Genres: Indie, Simulation, Free To Play
+Link: https://store.steampowered.com/app/4594070
+==================================================
+
+==================================================
+Name: Rock,Paper,Scissors,SHOOT!
+Release Date: Jun 15, 2026
+Price: $5.59 (-30%, was $7.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4766160
+==================================================
+
+==================================================
+Name: Day Trade Coach
+Release Date: Jun 15, 2026
+Price: $13.49 (-10%, was $14.99)
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4779360
+==================================================
+
+==================================================
+Name: Lumber Jax
+Release Date: Jun 15, 2026
+Price: $3.39 (-15%, was $3.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/4699040
+==================================================
+
+==================================================
+Name: Slime Tempest
+Release Date: Jun 15, 2026
+Price: $9.99
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4228920
+==================================================
+
+==================================================
+Name: Eternal Onslaught
+Release Date: Jun 15, 2026
+Price: $0.84 (-15%, was $0.99)
+Genres: Action
+Link: https://store.steampowered.com/app/4775070
+==================================================
+
+==================================================
+Name: Animal Times
+Release Date: Jun 15, 2026
+Price: $3.59 (-40%, was $5.99)
+Genres: Strategy, Free To Play
+Link: https://store.steampowered.com/app/3915540
+==================================================
+
+==================================================
+Name: Visual Novel: Chernobog's Seal
+Release Date: Jun 15, 2026
+Price: $0.69 (-30%, was $0.99)
+Genres: Action, Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/4774160
+==================================================
+
+==================================================
+Name: MixCD
+Release Date: Jun 15, 2026
+Price: $2.79 (-30%, was $3.99)
+Genres: Simulation
+Link: https://store.steampowered.com/app/4754780
+==================================================
+
+==================================================
+Name: Parkour & Freerunning
+Release Date: Jun 15, 2026
+Price: $19.99
+Genres: Sports
+Link: https://store.steampowered.com/app/4759410
+==================================================
+
+==================================================
+Name: Eternal Exorcism
+Release Date: Jun 14, 2026
+Price: $2.99 (-40%, was $4.99)
+Genres: Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/4674040
+==================================================
+
+==================================================
+Name: Crime Shadows: Stolen Spotlight Collector's Edition
+Release Date: Jun 14, 2026
+Price: $15.99
+Genres: Adventure, Casual
+Link: https://store.steampowered.com/app/4093630
+==================================================
+
