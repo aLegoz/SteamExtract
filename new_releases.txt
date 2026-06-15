@@ -28582,3 +28582,86 @@ Genres: Casual
 Link: https://store.steampowered.com/app/4299160
 ==================================================
 
+
+--- Run: 2026-06-15 10:23:30 --- (10 new game(s) found)
+
+==================================================
+Name: Lane 4: Track and Field Coach Simulator
+Release Date: Jun 15, 2026
+Price: $11.04 (-15%, was $12.99)
+Genres: Indie, Simulation, Sports, Strategy
+Link: https://store.steampowered.com/app/4787740
+==================================================
+
+==================================================
+Name: Tilt It! Golf
+Release Date: Jun 15, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Action, Indie, Sports
+Link: https://store.steampowered.com/app/4733610
+==================================================
+
+==================================================
+Name: Pro Cycling Manager 26
+Release Date: Jun 15, 2026
+Price: $39.99
+Genres: Simulation, Sports
+Link: https://store.steampowered.com/app/3936530
+==================================================
+
+==================================================
+Name: Immortal Joan: Cyber Revolution
+Release Date: Jun 15, 2026
+Price: $6.99
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4400130
+==================================================
+
+==================================================
+Name: Ember Seeker
+Release Date: Jun 14, 2026
+Price: $7.19 (-10%, was $7.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4160880
+==================================================
+
+==================================================
+Name: BanPick
+Release Date: Jun 14, 2026
+Price: Free to Play
+Genres: Indie, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4536080
+==================================================
+
+==================================================
+Name: Phantom Loop: Full Circle
+Release Date: Jun 14, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: Action, Adventure, Casual, Indie, Racing, RPG, Strategy
+Link: https://store.steampowered.com/app/3761910
+==================================================
+
+==================================================
+Name: Reverie Unbound
+Release Date: Jun 14, 2026
+Price: $3.99
+Genres: Adventure, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/4736620
+==================================================
+
+==================================================
+Name: Not A Customer
+Release Date: Jun 14, 2026
+Price: $2.99 (-40%, was $4.99)
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/4747110
+==================================================
+
+==================================================
+Name: Trauma Pets
+Release Date: Jun 14, 2026
+Price: $4.99
+Genres: Simulation
+Link: https://store.steampowered.com/app/4236490
+==================================================
+
