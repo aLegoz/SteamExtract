@@ -28555,3 +28555,30 @@ Genres: Casual, Indie, Racing, Simulation, Sports
 Link: https://store.steampowered.com/app/4285580
 ==================================================
 
+
+--- Run: 2026-06-15 03:59:35 --- (3 new game(s) found)
+
+==================================================
+Name: Seal of Shadows
+Release Date: Jun 14, 2026
+Price: $12.99 (-35%, was $19.99)
+Genres: RPG
+Link: https://store.steampowered.com/app/4089110
+==================================================
+
+==================================================
+Name: Beauties and the Stranded
+Release Date: Jun 14, 2026
+Price: $14.39 (-10%, was $15.99)
+Genres: Adventure, RPG, Simulation
+Link: https://store.steampowered.com/app/3828610
+==================================================
+
+==================================================
+Name: Atomic Synthesis
+Release Date: Jun 14, 2026
+Price: $3.99
+Genres: Casual
+Link: https://store.steampowered.com/app/4299160
+==================================================
+
