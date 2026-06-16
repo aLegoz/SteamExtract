@@ -29024,3 +29024,118 @@ Genres: Adventure, Casual, Indie
 Link: https://store.steampowered.com/app/4783420
 ==================================================
 
+
+--- Run: 2026-06-16 12:00:33 --- (14 new game(s) found)
+
+==================================================
+Name: Fight or Flight
+Release Date: Jun 16, 2026
+Price: Free to Play
+Genres: Action, Indie, Free To Play
+Link: https://store.steampowered.com/app/775620
+==================================================
+
+==================================================
+Name: Junkster
+Release Date: Jun 16, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/1675860
+==================================================
+
+==================================================
+Name: 扑克迷阵 Poker Matrix
+Release Date: Jun 16, 2026
+Price: Free to Play
+Genres: Casual, Indie, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4407460
+==================================================
+
+==================================================
+Name: Pollux The Hero in The BOX
+Release Date: Jun 16, 2026
+Price: $4.79 (-20%, was $5.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4694800
+==================================================
+
+==================================================
+Name: Cat Store
+Release Date: Jun 16, 2026
+Price: $1.49
+Genres: Casual
+Link: https://store.steampowered.com/app/4773680
+==================================================
+
+==================================================
+Name: Astropath
+Release Date: Jun 16, 2026
+Price: Free to Play
+Genres: Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/4731470
+==================================================
+
+==================================================
+Name: I FORGOT TO TAKE THE CHICKEN OUT OF THE FREEZER
+Release Date: Jun 16, 2026
+Price: $1.59 (-20%, was $1.99)
+Genres: Action, Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4754000
+==================================================
+
+==================================================
+Name: Doom Party
+Release Date: Jun 16, 2026
+Price: Free to Play
+Genres: Action, Adventure, Casual, Racing, Free To Play
+Link: https://store.steampowered.com/app/3935190
+==================================================
+
+==================================================
+Name: LIMINAL ESCAPE
+Release Date: Jun 16, 2026
+Price: $4.79 (-40%, was $7.99)
+Genres: Adventure, Simulation
+Link: https://store.steampowered.com/app/4796850
+==================================================
+
+==================================================
+Name: Roses In Concrete
+Release Date: Jun 16, 2026
+Price: $2.99 (-40%, was $4.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4694070
+==================================================
+
+==================================================
+Name: Cyber-Nanotech Horde Survivor
+Release Date: Jun 16, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4788390
+==================================================
+
+==================================================
+Name: oooÖ
+Release Date: Jun 15, 2026
+Price: $1.69 (-15%, was $1.99)
+Genres: Adventure, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/4463660
+==================================================
+
+==================================================
+Name: 我的修仙日志 Cultivation Journal
+Release Date: Jun 15, 2026
+Price: $2.99
+Genres: Casual, Indie, RPG, Simulation
+Link: https://store.steampowered.com/app/4748040
+==================================================
+
+==================================================
+Name: 真弓-Mayumi-
+Release Date: Jun 15, 2026
+Price: $2.10 (-30%, was $3.00)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4778860
+==================================================
+
