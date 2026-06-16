@@ -29321,3 +29321,22 @@ Genres: Adventure, Indie
 Link: https://store.steampowered.com/app/4186160
 ==================================================
 
+
+--- Run: 2026-06-16 22:45:37 --- (2 new game(s) found)
+
+==================================================
+Name: Zenless Zone Zero
+Release Date: Jun 16, 2026
+Price: Free to Play
+Genres: Action, Adventure, RPG, Free To Play
+Link: https://store.steampowered.com/app/4162040
+==================================================
+
+==================================================
+Name: HypnoTiles
+Release Date: Jun 16, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Action, Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4712350
+==================================================
+
