@@ -29278,3 +29278,46 @@ Genres: Casual, Indie
 Link: https://store.steampowered.com/app/4751670
 ==================================================
 
+
+--- Run: 2026-06-16 20:00:42 --- (5 new game(s) found)
+
+==================================================
+Name: Icaria
+Release Date: Jun 16, 2026
+Price: $17.49 (-30%, was $24.99)
+Genres: Simulation
+Link: https://store.steampowered.com/app/2613890
+==================================================
+
+==================================================
+Name: Hentai Overtime
+Release Date: Jun 16, 2026
+Price: $1.19 (-40%, was $1.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4563960
+==================================================
+
+==================================================
+Name: Karting4Fun
+Release Date: Jun 16, 2026
+Price: $4.79 (-40%, was $7.99)
+Genres: Casual, Indie, Racing, Sports
+Link: https://store.steampowered.com/app/1627060
+==================================================
+
+==================================================
+Name: Daughter of the Rift
+Release Date: Jun 16, 2026
+Price: $15.29 (-15%, was $17.99)
+Genres: Adventure, Indie, Strategy
+Link: https://store.steampowered.com/app/3588170
+==================================================
+
+==================================================
+Name: Naughty Doug
+Release Date: Jun 16, 2026
+Price: $11.69 (-10%, was $12.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4186160
+==================================================
+
