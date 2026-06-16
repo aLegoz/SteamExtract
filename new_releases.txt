@@ -28930,3 +28930,22 @@ Genres: Indie
 Link: https://store.steampowered.com/app/4719350
 ==================================================
 
+
+--- Run: 2026-06-16 00:20:48 --- (2 new game(s) found)
+
+==================================================
+Name: Gastova: The Witches of Arkana
+Release Date: Jun 15, 2026
+Price: $11.24 (-25%, was $14.99)
+Genres: Action, Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/1222540
+==================================================
+
+==================================================
+Name: ALARIC
+Release Date: Jun 15, 2026
+Price: $12.74 (-15%, was $14.99)
+Genres: Action, Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/3121810
+==================================================
+
