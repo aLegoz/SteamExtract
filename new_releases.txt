@@ -29608,3 +29608,94 @@ Genres: Casual, Indie, RPG, Simulation
 Link: https://store.steampowered.com/app/4797940
 ==================================================
 
+
+--- Run: 2026-06-17 17:42:42 --- (11 new game(s) found)
+
+==================================================
+Name: SWAPMEAT
+Release Date: Jun 17, 2026
+Price: $9.89 (-40%, was $16.49)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/2790700
+==================================================
+
+==================================================
+Name: Arcade Architect
+Release Date: Jun 17, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: Action, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4710210
+==================================================
+
+==================================================
+Name: Melon Clicker
+Release Date: Jun 17, 2026
+Price: Free to Play
+Genres: Casual, Free To Play
+Link: https://store.steampowered.com/app/3405460
+==================================================
+
+==================================================
+Name: Firedrip Arcade
+Release Date: Coming soon
+Price: $4.49 (-10%, was $4.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/4574350
+==================================================
+
+==================================================
+Name: HeartCore Descent
+Release Date: Jun 17, 2026
+Price: Free to Play
+Genres: Adventure, Indie, Free To Play
+Link: https://store.steampowered.com/app/2599230
+==================================================
+
+==================================================
+Name: Incense Nook
+Release Date: Jun 17, 2026
+Price: $1.25 (-37%, was $1.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4701630
+==================================================
+
+==================================================
+Name: Bind
+Release Date: Jun 17, 2026
+Price: Free to Play
+Genres: Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/4247110
+==================================================
+
+==================================================
+Name: Burger Bots Inc.
+Release Date: Jun 17, 2026
+Price: $5.35 (-33%, was $7.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/3795760
+==================================================
+
+==================================================
+Name: G-MODEアーカイブス+ パックマン
+Release Date: Jun 17, 2026
+Price: $7.99
+Genres: Action
+Link: https://store.steampowered.com/app/4682460
+==================================================
+
+==================================================
+Name: The Last Salvage Squad
+Release Date: Jun 17, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Action
+Link: https://store.steampowered.com/app/3551190
+==================================================
+
+==================================================
+Name: Rocinha Wars
+Release Date: Jun 17, 2026
+Price: $3.99
+Genres: Action, Massively Multiplayer
+Link: https://store.steampowered.com/app/4710580
+==================================================
+
