@@ -29340,3 +29340,86 @@ Genres: Action, Casual, Indie, Strategy
 Link: https://store.steampowered.com/app/4712350
 ==================================================
 
+
+--- Run: 2026-06-17 00:07:07 --- (10 new game(s) found)
+
+==================================================
+Name: [Room Escape] April First
+Release Date: Jun 16, 2026
+Price: $4.00 (-20%, was $5.00)
+Genres: Adventure
+Link: https://store.steampowered.com/app/4689130
+==================================================
+
+==================================================
+Name: ME_iON
+Release Date: Jun 16, 2026
+Price: Free to Play
+Genres: Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/1963590
+==================================================
+
+==================================================
+Name: Uncle Otto's Mansion
+Release Date: Jun 16, 2026
+Price: Free to Play
+Genres: Adventure, Indie, Free To Play
+Link: https://store.steampowered.com/app/4766420
+==================================================
+
+==================================================
+Name: Reaction Challenge
+Release Date: Jun 16, 2026
+Price: Free to Play
+Genres: Free To Play
+Link: https://store.steampowered.com/app/4758680
+==================================================
+
+==================================================
+Name: Lockdown
+Release Date: Jun 16, 2026
+Price: $1.99
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4692970
+==================================================
+
+==================================================
+Name: The Office: Dirty Secrets
+Release Date: Jun 16, 2026
+Price: $7.19 (-10%, was $7.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4543360
+==================================================
+
+==================================================
+Name: Masochist Heaven
+Release Date: Jun 16, 2026
+Price: $0.99
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/4779510
+==================================================
+
+==================================================
+Name: TOTAL DRIFTIN': Touge Dreams
+Release Date: Jun 16, 2026
+Price: $2.99 (-40%, was $4.99)
+Genres: Racing
+Link: https://store.steampowered.com/app/3719540
+==================================================
+
+==================================================
+Name: CockZilla
+Release Date: Jun 16, 2026
+Price: $2.39 (-40%, was $3.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/3943810
+==================================================
+
+==================================================
+Name: Darkness Has Eyes
+Release Date: Jun 16, 2026
+Price: $4.99
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/4756570
+==================================================
+
