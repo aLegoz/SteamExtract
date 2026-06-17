@@ -29423,3 +29423,62 @@ Genres: Action, Adventure, Indie
 Link: https://store.steampowered.com/app/4756570
 ==================================================
 
+
+--- Run: 2026-06-17 05:56:49 --- (7 new game(s) found)
+
+==================================================
+Name: Going Once!
+Release Date: Jun 16, 2026
+Price: Free to Play
+Genres: Casual, Indie, Simulation, Free To Play
+Link: https://store.steampowered.com/app/4706400
+==================================================
+
+==================================================
+Name: The Scroll of Taiwu : Beyond The Dome
+Release Date: Jun 16, 2026
+Price: $23.99 (-20%, was $29.99)
+Genres: Adventure, Casual, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/838350
+==================================================
+
+==================================================
+Name: Nacho Chihuahua: The Movie: The Game
+Release Date: Jun 16, 2026
+Price: Free to Play
+Genres: Adventure, Free To Play
+Link: https://store.steampowered.com/app/4180860
+==================================================
+
+==================================================
+Name: Null Hørizøn
+Release Date: Jun 16, 2026
+Price: $9.74 (-35%, was $14.99)
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/4356100
+==================================================
+
+==================================================
+Name: God For A Day
+Release Date: Jun 16, 2026
+Price: $9.87 (-24%, was $12.99)
+Genres: Adventure, Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/2695710
+==================================================
+
+==================================================
+Name: GobboQuestIdle
+Release Date: Jun 16, 2026
+Price: $1.99
+Genres: Adventure
+Link: https://store.steampowered.com/app/4747060
+==================================================
+
+==================================================
+Name: Hentai Glacial
+Release Date: Jun 16, 2026
+Price: $1.59 (-20%, was $1.99)
+Genres: Unknown
+Link: https://store.steampowered.com/app/4627510
+==================================================
+
