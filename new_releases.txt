@@ -29482,3 +29482,54 @@ Genres: Unknown
 Link: https://store.steampowered.com/app/4627510
 ==================================================
 
+
+--- Run: 2026-06-17 10:27:40 --- (6 new game(s) found)
+
+==================================================
+Name: Mahjuro
+Release Date: Jun 17, 2026
+Price: $4.79 (-20%, was $5.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4636490
+==================================================
+
+==================================================
+Name: PoopooDino
+Release Date: Jun 17, 2026
+Price: $1.19 (-20%, was $1.49)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4764100
+==================================================
+
+==================================================
+Name: The seven days i spent with you
+Release Date: Jun 16, 2026
+Price: $1.79 (-10%, was $1.99)
+Genres: Adventure, Casual, Indie, RPG, Simulation
+Link: https://store.steampowered.com/app/3946810
+==================================================
+
+==================================================
+Name: Kooeh: A Timeless Delight
+Release Date: Jun 16, 2026
+Price: $9.99
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/3205520
+==================================================
+
+==================================================
+Name: Incremental Ragebait
+Release Date: Jun 16, 2026
+Price: $3.29 (-40%, was $5.49)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4248870
+==================================================
+
+==================================================
+Name: SLOP FIGHTER
+Release Date: Jun 16, 2026
+Price: $0.79 (-20%, was $0.99)
+Genres: Action, Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4430050
+==================================================
+
