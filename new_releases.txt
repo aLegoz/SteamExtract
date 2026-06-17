@@ -29699,3 +29699,54 @@ Genres: Action, Massively Multiplayer
 Link: https://store.steampowered.com/app/4710580
 ==================================================
 
+
+--- Run: 2026-06-17 19:55:21 --- (6 new game(s) found)
+
+==================================================
+Name: Gloria Victis: Medieval MMORPG
+Release Date: Jun 17, 2026
+Price: Free to Play
+Genres: Action, Adventure, Indie, Massively Multiplayer, RPG, Simulation, Free To Play
+Link: https://store.steampowered.com/app/327070
+==================================================
+
+==================================================
+Name: Gloria Victis: Medieval MMORPG
+Release Date: Jun 17, 2026
+Price: Free to Play
+Genres: Action, Adventure, Indie, Massively Multiplayer, RPG, Simulation, Free To Play
+Link: https://store.steampowered.com/app/327070
+==================================================
+
+==================================================
+Name: Prologue: Go Wayback!
+Release Date: Jun 17, 2026
+Price: Free to Play
+Genres: Adventure, Indie, Simulation, Free To Play
+Link: https://store.steampowered.com/app/2943740
+==================================================
+
+==================================================
+Name: Pornographer
+Release Date: Jun 17, 2026
+Price: $0.89 (-10%, was $0.99)
+Genres: Action, Adventure, Casual
+Link: https://store.steampowered.com/app/4734170
+==================================================
+
+==================================================
+Name: Galactic Patrol
+Release Date: Jun 17, 2026
+Price: $0.59 (-40%, was $0.99)
+Genres: Action
+Link: https://store.steampowered.com/app/4657290
+==================================================
+
+==================================================
+Name: Retro Clicker
+Release Date: Jun 17, 2026
+Price: $2.69 (-10%, was $2.99)
+Genres: Indie, RPG, Simulation
+Link: https://store.steampowered.com/app/4795080
+==================================================
+
