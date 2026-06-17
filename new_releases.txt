@@ -29533,3 +29533,78 @@ Genres: Action, Casual, Indie, Strategy
 Link: https://store.steampowered.com/app/4430050
 ==================================================
 
+
+--- Run: 2026-06-17 14:21:41 --- (9 new game(s) found)
+
+==================================================
+Name: Deep Enough
+Release Date: Jun 17, 2026
+Price: Free to Play
+Genres: Adventure, Casual, Indie, Simulation, Free To Play
+Link: https://store.steampowered.com/app/4575270
+==================================================
+
+==================================================
+Name: Myth Requiem
+Release Date: Jun 17, 2026
+Price: Free to Play
+Genres: Adventure, Free To Play
+Link: https://store.steampowered.com/app/3873780
+==================================================
+
+==================================================
+Name: Slipspace Panic
+Release Date: Jun 17, 2026
+Price: Free to Play
+Genres: Action, Indie, Free To Play
+Link: https://store.steampowered.com/app/4725830
+==================================================
+
+==================================================
+Name: Grand Vegas Casino
+Release Date: Jun 17, 2026
+Price: $4.99
+Genres: Casual
+Link: https://store.steampowered.com/app/4445360
+==================================================
+
+==================================================
+Name: WebGAL Terre Steam Edition
+Release Date: Jun 17, 2026
+Price: Free to Play
+Genres: Indie, Free To Play, Game Development
+Link: https://store.steampowered.com/app/2978410
+==================================================
+
+==================================================
+Name: Cricket Management Tycoon
+Release Date: Jun 17, 2026
+Price: $17.99 (-10%, was $19.99)
+Genres: Sports
+Link: https://store.steampowered.com/app/4717430
+==================================================
+
+==================================================
+Name: Cowboy Busy: Mowdown
+Release Date: Jun 17, 2026
+Price: $2.79 (-30%, was $3.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4789650
+==================================================
+
+==================================================
+Name: Ghosts Keep Out
+Release Date: Jun 17, 2026
+Price: $2.79 (-30%, was $3.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4785570
+==================================================
+
+==================================================
+Name: Gun Cultivate
+Release Date: Jun 17, 2026
+Price: $1.79 (-10%, was $1.99)
+Genres: Casual, Indie, RPG, Simulation
+Link: https://store.steampowered.com/app/4797940
+==================================================
+
