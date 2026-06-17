@@ -29750,3 +29750,14 @@ Genres: Indie, RPG, Simulation
 Link: https://store.steampowered.com/app/4795080
 ==================================================
 
+
+--- Run: 2026-06-17 21:50:39 --- (1 new game(s) found)
+
+==================================================
+Name: How Much Is ?
+Release Date: Jun 17, 2026
+Price: $0.89 (-10%, was $0.99)
+Genres: Indie
+Link: https://store.steampowered.com/app/4341690
+==================================================
+
