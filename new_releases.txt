@@ -30053,3 +30053,86 @@ Genres: Casual, Indie, Strategy
 Link: https://store.steampowered.com/app/4552860
 ==================================================
 
+
+--- Run: 2026-06-18 17:52:38 --- (10 new game(s) found)
+
+==================================================
+Name: Barbecue
+Release Date: Jun 18, 2026
+Price: $3.46 (-30%, was $4.95)
+Genres: Action, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4585830
+==================================================
+
+==================================================
+Name: One Tower Defense
+Release Date: Jun 18, 2026
+Price: $9.89 (-10%, was $10.99)
+Genres: Action, Indie, Strategy
+Link: https://store.steampowered.com/app/4138190
+==================================================
+
+==================================================
+Name: Mana Fracture
+Release Date: Jun 18, 2026
+Price: $5.99
+Genres: Adventure
+Link: https://store.steampowered.com/app/4490010
+==================================================
+
+==================================================
+Name: Neofeud 2
+Release Date: Jun 18, 2026
+Price: $13.49 (-10%, was $14.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4611140
+==================================================
+
+==================================================
+Name: Furry Aim Trainer 2 : Multiplayer Gooning
+Release Date: Jun 18, 2026
+Price: $2.00 (-33%, was $2.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4518170
+==================================================
+
+==================================================
+Name: The Quiet Things
+Release Date: Jun 18, 2026
+Price: $22.49 (-10%, was $24.99)
+Genres: Adventure, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/2288520
+==================================================
+
+==================================================
+Name: R-Type Tactics I • II Cosmos
+Release Date: Jun 18, 2026
+Price: $49.99
+Genres: Simulation, Strategy
+Link: https://store.steampowered.com/app/2169930
+==================================================
+
+==================================================
+Name: The Adventures of Elliot: The Millennium Tales
+Release Date: Jun 18, 2026
+Price: $59.99
+Genres: Action, Adventure, RPG
+Link: https://store.steampowered.com/app/3483510
+==================================================
+
+==================================================
+Name: Cricket Captain 2026
+Release Date: Jun 18, 2026
+Price: $29.99
+Genres: Simulation, Sports, Strategy
+Link: https://store.steampowered.com/app/4756480
+==================================================
+
+==================================================
+Name: The Tenth Minute
+Release Date: Jun 18, 2026
+Price: $3.59 (-10%, was $3.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4687560
+==================================================
+
