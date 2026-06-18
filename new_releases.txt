@@ -29836,3 +29836,30 @@ Genres: Indie, Simulation
 Link: https://store.steampowered.com/app/4349160
 ==================================================
 
+
+--- Run: 2026-06-18 07:23:27 --- (3 new game(s) found)
+
+==================================================
+Name: Angels Online Global
+Release Date: Jun 17, 2026
+Price: Free to Play
+Genres: Adventure, Massively Multiplayer, RPG, Free To Play
+Link: https://store.steampowered.com/app/4018020
+==================================================
+
+==================================================
+Name: SKY LEAP PIXEL SKY
+Release Date: Jun 17, 2026
+Price: $4.89 (-30%, was $6.99)
+Genres: Action, Adventure, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4566370
+==================================================
+
+==================================================
+Name: The Escape to the Afterlife
+Release Date: Jun 17, 2026
+Price: $5.99
+Genres: Action, Adventure, Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/3569560
+==================================================
+
