@@ -29863,3 +29863,126 @@ Genres: Action, Adventure, Casual, Indie, Simulation, Strategy
 Link: https://store.steampowered.com/app/3569560
 ==================================================
 
+
+--- Run: 2026-06-18 11:42:50 --- (15 new game(s) found)
+
+==================================================
+Name: The Final Week
+Release Date: Jun 18, 2026
+Price: Free to Play
+Genres: Casual, Indie, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4622250
+==================================================
+
+==================================================
+Name: The Flame and the Fart
+Release Date: Jun 18, 2026
+Price: $3.10
+Genres: Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/4677090
+==================================================
+
+==================================================
+Name: With Your Coworker
+Release Date: Jun 18, 2026
+Price: $0.89 (-10%, was $0.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/4564320
+==================================================
+
+==================================================
+Name: Room: 405 | Love Beyond Reality
+Release Date: Jun 18, 2026
+Price: $3.99
+Genres: Adventure, Indie, RPG, Simulation
+Link: https://store.steampowered.com/app/4715350
+==================================================
+
+==================================================
+Name: PokerVersity: Challenge
+Release Date: Jun 18, 2026
+Price: Free to Play
+Genres: Simulation, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4592140
+==================================================
+
+==================================================
+Name: Boo Boo Families
+Release Date: Jun 18, 2026
+Price: $2.99
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4296030
+==================================================
+
+==================================================
+Name: The Name I Wear
+Release Date: Jun 18, 2026
+Price: Free to Play
+Genres: Adventure, Indie, Free To Play
+Link: https://store.steampowered.com/app/4196120
+==================================================
+
+==================================================
+Name: Dead Station Together
+Release Date: Jun 18, 2026
+Price: $0.49 (-51%, was $0.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4803470
+==================================================
+
+==================================================
+Name: Hellocracy
+Release Date: Jun 18, 2026
+Price: Free to Play
+Genres: Action, Adventure, Indie, Free To Play
+Link: https://store.steampowered.com/app/4777090
+==================================================
+
+==================================================
+Name: Jewels of the Wild West: Match 3 to Build Your City
+Release Date: Jun 18, 2026
+Price: Free to Play
+Genres: Casual, Free To Play
+Link: https://store.steampowered.com/app/4514650
+==================================================
+
+==================================================
+Name: I'veComeToYourHouseToPlay!
+Release Date: Jun 18, 2026
+Price: Free to Play
+Genres: Indie, Free To Play
+Link: https://store.steampowered.com/app/4676340
+==================================================
+
+==================================================
+Name: The Endless Abyss: A Busty Cop’s Corrupted Soul
+Release Date: Jun 18, 2026
+Price: $11.69 (-10%, was $12.99)
+Genres: Casual, RPG
+Link: https://store.steampowered.com/app/2651410
+==================================================
+
+==================================================
+Name: Deep Drift Signal Below
+Release Date: Jun 18, 2026
+Price: Free to Play
+Genres: Adventure, Free To Play
+Link: https://store.steampowered.com/app/4777880
+==================================================
+
+==================================================
+Name: Thousand Floors
+Release Date: Jun 18, 2026
+Price: $6.99 (-30%, was $9.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4794380
+==================================================
+
+==================================================
+Name: Race! Then Retry...
+Release Date: Jun 17, 2026
+Price: $1.99
+Genres: Racing
+Link: https://store.steampowered.com/app/4004940
+==================================================
+
