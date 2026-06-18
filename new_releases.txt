@@ -29761,3 +29761,78 @@ Genres: Indie
 Link: https://store.steampowered.com/app/4341690
 ==================================================
 
+
+--- Run: 2026-06-18 02:15:47 --- (9 new game(s) found)
+
+==================================================
+Name: ENDLESS SIGNAL
+Release Date: Jun 17, 2026
+Price: $2.39 (-20%, was $2.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4754140
+==================================================
+
+==================================================
+Name: Texelizer
+Release Date: Jun 17, 2026
+Price: $14.99
+Genres: Animation & Modeling, Design & Illustration, Utilities, Game Development
+Link: https://store.steampowered.com/app/4727380
+==================================================
+
+==================================================
+Name: Building 0: Hakuei University
+Release Date: Jun 17, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: Action, Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/4315850
+==================================================
+
+==================================================
+Name: Plant Anywhere
+Release Date: Jun 17, 2026
+Price: Free to Play
+Genres: Simulation, Free To Play, Education, Utilities
+Link: https://store.steampowered.com/app/4507050
+==================================================
+
+==================================================
+Name: MuteX+
+Release Date: Jun 17, 2026
+Price: $6.99
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/3504980
+==================================================
+
+==================================================
+Name: Glimvale : My Mini Overworld
+Release Date: Jun 17, 2026
+Price: $4.79 (-20%, was $5.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/3403590
+==================================================
+
+==================================================
+Name: Trail of Gods: The Cursed Island
+Release Date: Jun 17, 2026
+Price: $3.59 (-10%, was $3.99)
+Genres: Action, Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/4771360
+==================================================
+
+==================================================
+Name: Bee Streamer Idler
+Release Date: Jun 17, 2026
+Price: $7.19 (-10%, was $7.99)
+Genres: Casual, Simulation
+Link: https://store.steampowered.com/app/4021730
+==================================================
+
+==================================================
+Name: STROZOWKA
+Release Date: Jun 17, 2026
+Price: $1.79 (-10%, was $1.99)
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/4349160
+==================================================
+
