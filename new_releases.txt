@@ -30195,3 +30195,62 @@ Genres: Action, Casual, Indie
 Link: https://store.steampowered.com/app/4777320
 ==================================================
 
+
+--- Run: 2026-06-18 22:49:37 --- (7 new game(s) found)
+
+==================================================
+Name: PhonePlay
+Release Date: Jun 18, 2026
+Price: $8.99 (-40%, was $14.99)
+Genres: Utilities
+Link: https://store.steampowered.com/app/4705420
+==================================================
+
+==================================================
+Name: 二万分の一の雨粒達 - One in 20,000 raindrops
+Release Date: Jun 18, 2026
+Price: $3.99
+Genres: Adventure
+Link: https://store.steampowered.com/app/4800570
+==================================================
+
+==================================================
+Name: No Confidence Hearts
+Release Date: Jun 18, 2026
+Price: $4.19 (-40%, was $6.99)
+Genres: Adventure, Simulation
+Link: https://store.steampowered.com/app/4758050
+==================================================
+
+==================================================
+Name: Enduro Unleashed
+Release Date: Jun 18, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Action, Casual, Racing, Simulation, Sports
+Link: https://store.steampowered.com/app/4734250
+==================================================
+
+==================================================
+Name: Sweet AI
+Release Date: Jun 18, 2026
+Price: $0.89 (-10%, was $0.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4507970
+==================================================
+
+==================================================
+Name: Obstacles: Gems of Power
+Release Date: Jun 18, 2026
+Price: $2.99
+Genres: Casual
+Link: https://store.steampowered.com/app/4755370
+==================================================
+
+==================================================
+Name: PAPARAZZI
+Release Date: Jun 18, 2026
+Price: $4.89 (-30%, was $6.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4055400
+==================================================
+
