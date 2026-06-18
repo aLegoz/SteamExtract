@@ -29986,3 +29986,70 @@ Genres: Racing
 Link: https://store.steampowered.com/app/4004940
 ==================================================
 
+
+--- Run: 2026-06-18 14:40:04 --- (8 new game(s) found)
+
+==================================================
+Name: Soccer Kid Collection (QUByte Classics)
+Release Date: Jun 18, 2026
+Price: $8.49 (-15%, was $9.99)
+Genres: Action, Adventure, Sports
+Link: https://store.steampowered.com/app/4447890
+==================================================
+
+==================================================
+Name: RE-TAPED
+Release Date: Jun 18, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Indie
+Link: https://store.steampowered.com/app/4192480
+==================================================
+
+==================================================
+Name: The Gate Must Stand
+Release Date: Jun 18, 2026
+Price: $6.99 (-30%, was $9.99)
+Genres: Action, Indie, Strategy
+Link: https://store.steampowered.com/app/3975750
+==================================================
+
+==================================================
+Name: BunnyBakery
+Release Date: Jun 18, 2026
+Price: $7.64 (-15%, was $8.99)
+Genres: Action, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4159000
+==================================================
+
+==================================================
+Name: Bakso Simulator 2
+Release Date: Jun 18, 2026
+Price: $6.29 (-10%, was $6.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/3354200
+==================================================
+
+==================================================
+Name: Midnight Train
+Release Date: Jun 18, 2026
+Price: $9.99
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/3734560
+==================================================
+
+==================================================
+Name: Heavy Is The Crown
+Release Date: Jun 18, 2026
+Price: $1.69 (-15%, was $1.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4338450
+==================================================
+
+==================================================
+Name: Illustack
+Release Date: Jun 17, 2026
+Price: $10.79 (-10%, was $11.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4552860
+==================================================
+
