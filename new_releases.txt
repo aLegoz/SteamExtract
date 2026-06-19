@@ -30479,3 +30479,110 @@ Genres: Action, Adventure, Casual, Indie, RPG
 Link: https://store.steampowered.com/app/4770560
 ==================================================
 
+
+--- Run: 2026-06-19 14:37:32 --- (13 new game(s) found)
+
+==================================================
+Name: TEAM PANIC
+Release Date: Jun 19, 2026
+Price: $4.79 (-40%, was $7.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/4753590
+==================================================
+
+==================================================
+Name: Power and Glory
+Release Date: Jun 19, 2026
+Price: $3.49 (-30%, was $4.99)
+Genres: Action, Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/4297350
+==================================================
+
+==================================================
+Name: FIRE The First Dreamer
+Release Date: Jun 19, 2026
+Price: $16.99 (-15%, was $19.99)
+Genres: Action, Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/2136420
+==================================================
+
+==================================================
+Name: Monster Rush Survivors
+Release Date: Jun 19, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Action, Casual, Indie, RPG
+Link: https://store.steampowered.com/app/4356540
+==================================================
+
+==================================================
+Name: It's Hunting Time
+Release Date: Jun 19, 2026
+Price: $1.99
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/4739360
+==================================================
+
+==================================================
+Name: Peko Downhill Hurl
+Release Date: Jun 19, 2026
+Price: Free to Play
+Genres: Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/4772040
+==================================================
+
+==================================================
+Name: Sheeps
+Release Date: Jun 19, 2026
+Price: $4.99
+Genres: Indie
+Link: https://store.steampowered.com/app/3960740
+==================================================
+
+==================================================
+Name: Thank You For Your Application
+Release Date: Jun 19, 2026
+Price: $16.99 (-15%, was $19.99)
+Genres: Indie, RPG, Simulation
+Link: https://store.steampowered.com/app/2881370
+==================================================
+
+==================================================
+Name: RV Trapped Inside?
+Release Date: Jun 19, 2026
+Price: $6.79 (-15%, was $7.99)
+Genres: Action, Adventure, Simulation
+Link: https://store.steampowered.com/app/4235400
+==================================================
+
+==================================================
+Name: Space Ends
+Release Date: Jun 19, 2026
+Price: $0.99
+Genres: Action
+Link: https://store.steampowered.com/app/4707710
+==================================================
+
+==================================================
+Name: Arkada
+Release Date: Jun 19, 2026
+Price: $8.40
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/4719820
+==================================================
+
+==================================================
+Name: Blackstrike Protocol
+Release Date: Jun 19, 2026
+Price: $0.59 (-40%, was $0.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4811540
+==================================================
+
+==================================================
+Name: Craft Drill
+Release Date: Jun 19, 2026
+Price: $0.59 (-40%, was $0.99)
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/4783270
+==================================================
+
