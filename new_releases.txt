@@ -30254,3 +30254,38 @@ Genres: Action, Casual, Indie
 Link: https://store.steampowered.com/app/4055400
 ==================================================
 
+
+--- Run: 2026-06-19 00:17:48 --- (4 new game(s) found)
+
+==================================================
+Name: Phantom Fools
+Release Date: Jun 18, 2026
+Price: $7.49 (-25%, was $9.99)
+Genres: Action, Adventure, Indie, Massively Multiplayer, RPG
+Link: https://store.steampowered.com/app/3949460
+==================================================
+
+==================================================
+Name: cloud uprising
+Release Date: Jun 18, 2026
+Price: $2.00
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4783570
+==================================================
+
+==================================================
+Name: Hentai Sexy Nurse
+Release Date: Jun 18, 2026
+Price: $0.69 (-30%, was $0.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4741740
+==================================================
+
+==================================================
+Name: Git Gud
+Release Date: Jun 18, 2026
+Price: $3.19 (-20%, was $3.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/3252380
+==================================================
+
