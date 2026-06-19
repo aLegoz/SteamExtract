@@ -30795,3 +30795,22 @@ Genres: Casual, Indie
 Link: https://store.steampowered.com/app/4318730
 ==================================================
 
+
+--- Run: 2026-06-19 23:56:51 --- (2 new game(s) found)
+
+==================================================
+Name: Chill Fishing
+Release Date: Jun 19, 2026
+Price: Free to Play
+Genres: Casual, Indie, Simulation, Free To Play
+Link: https://store.steampowered.com/app/3518340
+==================================================
+
+==================================================
+Name: Cook & Click
+Release Date: Jun 19, 2026
+Price: $1.79 (-10%, was $1.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4798320
+==================================================
+
