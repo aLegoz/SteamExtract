@@ -30348,3 +30348,134 @@ Genres: Adventure, Casual, Indie
 Link: https://store.steampowered.com/app/4777760
 ==================================================
 
+
+--- Run: 2026-06-19 11:11:36 --- (16 new game(s) found)
+
+==================================================
+Name: Void Tech
+Release Date: Jun 19, 2026
+Price: $13.49 (-10%, was $14.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/3585900
+==================================================
+
+==================================================
+Name: さくら、もゆ。-as the Night's, Reincarnation-
+Release Date: Jun 19, 2026
+Price: $35.99 (-20%, was $44.99)
+Genres: Adventure
+Link: https://store.steampowered.com/app/2899760
+==================================================
+
+==================================================
+Name: ROSE:RUIN
+Release Date: Jun 19, 2026
+Price: $3.59 (-10%, was $3.99)
+Genres: Indie
+Link: https://store.steampowered.com/app/3841700
+==================================================
+
+==================================================
+Name: Illvelo Swamp
+Release Date: Jun 19, 2026
+Price: $15.99
+Genres: Action
+Link: https://store.steampowered.com/app/4539580
+==================================================
+
+==================================================
+Name: Once Upon A Card
+Release Date: Jun 19, 2026
+Price: Free to Play
+Genres: Indie, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4148600
+==================================================
+
+==================================================
+Name: Bloxzer
+Release Date: Jun 19, 2026
+Price: Free to Play
+Genres: Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/4720600
+==================================================
+
+==================================================
+Name: Without Sanctuary
+Release Date: Jun 19, 2026
+Price: Free to Play
+Genres: Action, Free To Play
+Link: https://store.steampowered.com/app/4312080
+==================================================
+
+==================================================
+Name: My Friend’s Girlfriend
+Release Date: Jun 19, 2026
+Price: $5.99 (-40%, was $9.99)
+Genres: Casual, Simulation
+Link: https://store.steampowered.com/app/4151140
+==================================================
+
+==================================================
+Name: 山上那个猴儿
+Release Date: Jun 19, 2026
+Price: $7.19 (-20%, was $8.99)
+Genres: Adventure, Casual, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/4625760
+==================================================
+
+==================================================
+Name: Fury Journey
+Release Date: Jun 19, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Adventure, Casual, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/4766950
+==================================================
+
+==================================================
+Name: 2026 U.S. Election Simulator
+Release Date: Jun 19, 2026
+Price: $15.99 (-20%, was $19.99)
+Genres: Simulation, Strategy
+Link: https://store.steampowered.com/app/4808720
+==================================================
+
+==================================================
+Name: Panzer Island
+Release Date: Jun 18, 2026
+Price: $3.49 (-30%, was $4.99)
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/4757690
+==================================================
+
+==================================================
+Name: Tumble Type
+Release Date: Jun 18, 2026
+Price: Free to Play
+Genres: Casual, Indie, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4654770
+==================================================
+
+==================================================
+Name: Hentai Tales: Office Depravity
+Release Date: Jun 18, 2026
+Price: $0.59 (-40%, was $0.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4703100
+==================================================
+
+==================================================
+Name: EGGCONSOLE RELICS MSX2
+Release Date: Jun 18, 2026
+Price: $9.99
+Genres: Action, Adventure
+Link: https://store.steampowered.com/app/4729330
+==================================================
+
+==================================================
+Name: TernStory
+Release Date: Jun 18, 2026
+Price: $1.99
+Genres: Action, Adventure, Casual, Indie, RPG
+Link: https://store.steampowered.com/app/4770560
+==================================================
+
