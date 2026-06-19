@@ -30653,3 +30653,94 @@ Genres: Adventure, Casual, Indie
 Link: https://store.steampowered.com/app/4809700
 ==================================================
 
+
+--- Run: 2026-06-19 19:22:02 --- (11 new game(s) found)
+
+==================================================
+Name: Tales Beyond The Tomb - No Witnesses
+Release Date: Jun 19, 2026
+Price: $6.29 (-10%, was $6.99)
+Genres: Action, Adventure, Casual
+Link: https://store.steampowered.com/app/4483120
+==================================================
+
+==================================================
+Name: Chopping Together🌲
+Release Date: Jun 19, 2026
+Price: $5.59 (-20%, was $6.99)
+Genres: Adventure, Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4313610
+==================================================
+
+==================================================
+Name: BeaconBound
+Release Date: Jun 19, 2026
+Price: $3.19 (-20%, was $3.99)
+Genres: Action, Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4790960
+==================================================
+
+==================================================
+Name: The Labyrinth on Burrow Hill
+Release Date: Jun 19, 2026
+Price: $8.09 (-10%, was $8.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4771720
+==================================================
+
+==================================================
+Name: 100 Madagascar Cats
+Release Date: Jun 19, 2026
+Price: $1.39 (-30%, was $1.99)
+Genres: Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/4324610
+==================================================
+
+==================================================
+Name: Moon River
+Release Date: Jun 19, 2026
+Price: Free to Play
+Genres: Adventure, Indie, RPG, Free To Play
+Link: https://store.steampowered.com/app/3392490
+==================================================
+
+==================================================
+Name: Armor of God
+Release Date: Jun 19, 2026
+Price: Free to Play
+Genres: Action, Adventure, Indie, Free To Play
+Link: https://store.steampowered.com/app/4807600
+==================================================
+
+==================================================
+Name: Monologin
+Release Date: Jun 19, 2026
+Price: $2.39 (-20%, was $2.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4692700
+==================================================
+
+==================================================
+Name: Just a Little Longer
+Release Date: Jun 19, 2026
+Price: $6.39 (-20%, was $7.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/4762390
+==================================================
+
+==================================================
+Name: Market Simulator: Miami Beach
+Release Date: Jun 19, 2026
+Price: $0.59 (-40%, was $0.99)
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/4791730
+==================================================
+
+==================================================
+Name: Store Simulator Pettikkada
+Release Date: Jun 19, 2026
+Price: $0.59 (-40%, was $0.99)
+Genres: RPG, Simulation, Strategy
+Link: https://store.steampowered.com/app/4664370
+==================================================
+
