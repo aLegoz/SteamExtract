@@ -30289,3 +30289,62 @@ Genres: Casual, Indie
 Link: https://store.steampowered.com/app/3252380
 ==================================================
 
+
+--- Run: 2026-06-19 06:05:14 --- (7 new game(s) found)
+
+==================================================
+Name: Alisa’s  Incident Report
+Release Date: Jun 18, 2026
+Price: $1.39 (-30%, was $1.99)
+Genres: RPG
+Link: https://store.steampowered.com/app/4123600
+==================================================
+
+==================================================
+Name: Built the End
+Release Date: Jun 18, 2026
+Price: $6.99
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/4513150
+==================================================
+
+==================================================
+Name: Desktop Mascot Nunu-nui
+Release Date: Jun 18, 2026
+Price: Free to Play
+Genres: Free To Play, Utilities
+Link: https://store.steampowered.com/app/4764960
+==================================================
+
+==================================================
+Name: The Adventures of HILLS
+Release Date: Jun 18, 2026
+Price: $13.49 (-10%, was $14.99)
+Genres: Adventure, Casual, RPG
+Link: https://store.steampowered.com/app/2859100
+==================================================
+
+==================================================
+Name: Return to Lumia
+Release Date: Jun 18, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Action, Adventure, Casual, Indie, RPG
+Link: https://store.steampowered.com/app/4696030
+==================================================
+
+==================================================
+Name: LenscraftCube 相机方块
+Release Date: Jun 18, 2026
+Price: $1.39 (-30%, was $1.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/3856340
+==================================================
+
+==================================================
+Name: Axing Ice
+Release Date: Jun 18, 2026
+Price: $0.99
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4777760
+==================================================
+
