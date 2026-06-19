@@ -30586,3 +30586,70 @@ Genres: Indie, Simulation
 Link: https://store.steampowered.com/app/4783270
 ==================================================
 
+
+--- Run: 2026-06-19 17:09:03 --- (8 new game(s) found)
+
+==================================================
+Name: Tarot Spell
+Release Date: Jun 19, 2026
+Price: Free to Play
+Genres: Action, Indie, Free To Play
+Link: https://store.steampowered.com/app/4204390
+==================================================
+
+==================================================
+Name: The Man Behind the Trigger
+Release Date: Jun 19, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4360480
+==================================================
+
+==================================================
+Name: Maseylia : Echoes of the Past
+Release Date: Jun 19, 2026
+Price: $13.59 (-20%, was $16.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/2938870
+==================================================
+
+==================================================
+Name: Super Sub: World Cup
+Release Date: Jun 19, 2026
+Price: $4.79 (-20%, was $5.99)
+Genres: Casual, Indie, Sports
+Link: https://store.steampowered.com/app/4744020
+==================================================
+
+==================================================
+Name: Deigon Witch
+Release Date: Jun 19, 2026
+Price: $3.99
+Genres: Adventure, Casual, Indie, RPG
+Link: https://store.steampowered.com/app/4775040
+==================================================
+
+==================================================
+Name: Miracle Detective
+Release Date: Jun 19, 2026
+Price: $6.62 (-30%, was $9.47)
+Genres: Adventure
+Link: https://store.steampowered.com/app/3972370
+==================================================
+
+==================================================
+Name: Space Fetus Attack Idle Clicker
+Release Date: Jun 19, 2026
+Price: $2.09 (-30%, was $2.99)
+Genres: Indie
+Link: https://store.steampowered.com/app/4684040
+==================================================
+
+==================================================
+Name: House Party 8
+Release Date: Jun 19, 2026
+Price: $2.39 (-20%, was $2.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4809700
+==================================================
+
