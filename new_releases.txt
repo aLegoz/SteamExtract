@@ -31083,3 +31083,30 @@ Genres: Indie, Simulation
 Link: https://store.steampowered.com/app/4572890
 ==================================================
 
+
+--- Run: 2026-06-20 19:05:45 --- (3 new game(s) found)
+
+==================================================
+Name: Relax Puzzle
+Release Date: Jun 20, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4689480
+==================================================
+
+==================================================
+Name: BAENANA
+Release Date: Jun 20, 2026
+Price: $4.99
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4526300
+==================================================
+
+==================================================
+Name: Beauties love my quantum entanglement wine
+Release Date: Jun 20, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: RPG
+Link: https://store.steampowered.com/app/4273660
+==================================================
+
