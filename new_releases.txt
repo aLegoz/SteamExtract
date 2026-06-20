@@ -30991,3 +30991,22 @@ Genres: Action, Indie, Strategy
 Link: https://store.steampowered.com/app/4098220
 ==================================================
 
+
+--- Run: 2026-06-20 11:50:14 --- (2 new game(s) found)
+
+==================================================
+Name: Treasure Beach
+Release Date: Jun 20, 2026
+Price: $5.99 (-40%, was $9.99)
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/3939700
+==================================================
+
+==================================================
+Name: Submerged Lights
+Release Date: Jun 20, 2026
+Price: $6.39 (-20%, was $7.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/2982550
+==================================================
+
