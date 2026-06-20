@@ -31121,3 +31121,46 @@ Genres: Action, Casual, Indie
 Link: https://store.steampowered.com/app/4299270
 ==================================================
 
+
+--- Run: 2026-06-20 22:55:57 --- (5 new game(s) found)
+
+==================================================
+Name: They See Me Rollin'
+Release Date: Jun 20, 2026
+Price: $2.54 (-15%, was $2.99)
+Genres: Racing
+Link: https://store.steampowered.com/app/4766640
+==================================================
+
+==================================================
+Name: Definitely Not a Cult
+Release Date: Jun 20, 2026
+Price: $5.99 (-40%, was $9.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/4813940
+==================================================
+
+==================================================
+Name: Operation P.L.U.S.H
+Release Date: Jun 20, 2026
+Price: Free to Play
+Genres: Action, Casual, Indie, RPG, Free To Play
+Link: https://store.steampowered.com/app/4597300
+==================================================
+
+==================================================
+Name: Radar ATC simulator
+Release Date: Jun 20, 2026
+Price: $5.24 (-25%, was $6.99)
+Genres: Simulation, Strategy
+Link: https://store.steampowered.com/app/4745320
+==================================================
+
+==================================================
+Name: I WAS A KING
+Release Date: Jun 19, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/4296250
+==================================================
+
