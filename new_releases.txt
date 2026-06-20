@@ -31021,3 +31021,30 @@ Genres: Casual, Indie
 Link: https://store.steampowered.com/app/4514890
 ==================================================
 
+
+--- Run: 2026-06-20 15:27:04 --- (3 new game(s) found)
+
+==================================================
+Name: Reality Stability Office
+Release Date: Jun 20, 2026
+Price: $5.99
+Genres: Adventure, Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4570300
+==================================================
+
+==================================================
+Name: 正体 SHOUT-AI
+Release Date: Jun 20, 2026
+Price: Free to Play
+Genres: Adventure, Free To Play
+Link: https://store.steampowered.com/app/4797550
+==================================================
+
+==================================================
+Name: Mob Marathon
+Release Date: Jun 20, 2026
+Price: $3.99
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4663220
+==================================================
+
