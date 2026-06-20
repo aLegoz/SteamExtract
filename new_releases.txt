@@ -31010,3 +31010,14 @@ Genres: Casual, Indie
 Link: https://store.steampowered.com/app/2982550
 ==================================================
 
+
+--- Run: 2026-06-20 13:21:36 --- (1 new game(s) found)
+
+==================================================
+Name: Moment Hunter
+Release Date: Jun 20, 2026
+Price: $2.24 (-25%, was $2.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4514890
+==================================================
+
