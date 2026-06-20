@@ -30881,3 +30881,46 @@ Genres: Utilities
 Link: https://store.steampowered.com/app/1781430
 ==================================================
 
+
+--- Run: 2026-06-20 06:52:16 --- (5 new game(s) found)
+
+==================================================
+Name: Company Rising
+Release Date: Jun 19, 2026
+Price: $8.99
+Genres: Simulation
+Link: https://store.steampowered.com/app/4637330
+==================================================
+
+==================================================
+Name: Summer Sisters
+Release Date: Jun 19, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: Casual, RPG
+Link: https://store.steampowered.com/app/4353630
+==================================================
+
+==================================================
+Name: Poem of the Starherd
+Release Date: Jun 19, 2026
+Price: $15.19 (-20%, was $18.99)
+Genres: Casual, RPG, Simulation
+Link: https://store.steampowered.com/app/3975500
+==================================================
+
+==================================================
+Name: Hentai World Forest
+Release Date: Jun 19, 2026
+Price: $0.79 (-20%, was $0.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4812510
+==================================================
+
+==================================================
+Name: Late for School
+Release Date: Jun 19, 2026
+Price: $4.99
+Genres: Action, Casual, Indie, Racing, Simulation
+Link: https://store.steampowered.com/app/4127210
+==================================================
+
