@@ -30814,3 +30814,70 @@ Genres: Casual, Indie, Strategy
 Link: https://store.steampowered.com/app/4798320
 ==================================================
 
+
+--- Run: 2026-06-20 02:39:22 --- (8 new game(s) found)
+
+==================================================
+Name: NTR Idol: Déjà Vu
+Release Date: Jun 19, 2026
+Price: $13.49 (-10%, was $14.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/4011180
+==================================================
+
+==================================================
+Name: Snake Coil: Puzzle Adventure
+Release Date: Jun 19, 2026
+Price: $3.49 (-30%, was $4.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4178360
+==================================================
+
+==================================================
+Name: Way of Horny: Lucky Plumber
+Release Date: Jun 19, 2026
+Price: $1.61 (-19%, was $1.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4379150
+==================================================
+
+==================================================
+Name: Destruction of Heavenly Bliss
+Release Date: Jun 19, 2026
+Price: $5.94 (-15%, was $6.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4160930
+==================================================
+
+==================================================
+Name: 1B1E
+Release Date: Jun 19, 2026
+Price: $1.99
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4510730
+==================================================
+
+==================================================
+Name: What You Didn't See
+Release Date: Jun 19, 2026
+Price: $11.24 (-25%, was $14.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/4555460
+==================================================
+
+==================================================
+Name: Max's Jungle Odyssey
+Release Date: Jun 19, 2026
+Price: $12.99
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4623360
+==================================================
+
+==================================================
+Name: NotiVR
+Release Date: Jun 19, 2026
+Price: $5.94 (-15%, was $6.99)
+Genres: Utilities
+Link: https://store.steampowered.com/app/1781430
+==================================================
+
