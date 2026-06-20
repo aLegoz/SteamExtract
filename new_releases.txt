@@ -31048,3 +31048,38 @@ Genres: Action, Casual, Indie
 Link: https://store.steampowered.com/app/4663220
 ==================================================
 
+
+--- Run: 2026-06-20 17:12:35 --- (4 new game(s) found)
+
+==================================================
+Name: SlackOffDiary
+Release Date: Jun 20, 2026
+Price: $4.99
+Genres: Casual
+Link: https://store.steampowered.com/app/4789880
+==================================================
+
+==================================================
+Name: Infinite Space: Mining
+Release Date: Jun 20, 2026
+Price: $3.59 (-40%, was $5.99)
+Genres: Action, Indie, Simulation
+Link: https://store.steampowered.com/app/4276210
+==================================================
+
+==================================================
+Name: Akane's After-School Yokai Tales
+Release Date: Jun 20, 2026
+Price: $3.99
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4704480
+==================================================
+
+==================================================
+Name: Two Types Pollos
+Release Date: Jun 19, 2026
+Price: $11.99
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/4572890
+==================================================
+
