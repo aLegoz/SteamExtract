@@ -30924,3 +30924,70 @@ Genres: Action, Casual, Indie, Racing, Simulation
 Link: https://store.steampowered.com/app/4127210
 ==================================================
 
+
+--- Run: 2026-06-20 09:56:01 --- (8 new game(s) found)
+
+==================================================
+Name: PinballRobotDoctor
+Release Date: Jun 20, 2026
+Price: Free to Play
+Genres: Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/4794200
+==================================================
+
+==================================================
+Name: Sinner's Siesta
+Release Date: Jun 20, 2026
+Price: $14.99 (-25%, was $19.99)
+Genres: Action, Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/4778750
+==================================================
+
+==================================================
+Name: Zombie Wasteland Together
+Release Date: Jun 20, 2026
+Price: $0.49 (-51%, was $0.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4805240
+==================================================
+
+==================================================
+Name: Infinite Bread
+Release Date: Jun 19, 2026
+Price: $5.24 (-25%, was $6.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/4724900
+==================================================
+
+==================================================
+Name: PX2: The Termination
+Release Date: Jun 19, 2026
+Price: $4.99
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4534470
+==================================================
+
+==================================================
+Name: Retronaut
+Release Date: Jun 19, 2026
+Price: $5.99 (-40%, was $9.99)
+Genres: Action
+Link: https://store.steampowered.com/app/3838920
+==================================================
+
+==================================================
+Name: SIGNAL PIT
+Release Date: Jun 19, 2026
+Price: $1.99
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4752220
+==================================================
+
+==================================================
+Name: TD Run: Survivors
+Release Date: Jun 19, 2026
+Price: $1.00
+Genres: Action, Indie, Strategy
+Link: https://store.steampowered.com/app/4098220
+==================================================
+
