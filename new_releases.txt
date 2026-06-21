@@ -31194,3 +31194,38 @@ Genres: Indie, Simulation, Free To Play
 Link: https://store.steampowered.com/app/4766750
 ==================================================
 
+
+--- Run: 2026-06-21 11:37:21 --- (4 new game(s) found)
+
+==================================================
+Name: Skillwood
+Release Date: Jun 21, 2026
+Price: Free to Play
+Genres: Casual, Indie, Simulation, Free To Play
+Link: https://store.steampowered.com/app/2776630
+==================================================
+
+==================================================
+Name: EVIDENCE
+Release Date: Jun 21, 2026
+Price: $7.49 (-25%, was $9.99)
+Genres: Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/4760040
+==================================================
+
+==================================================
+Name: Oleander-X
+Release Date: Jun 20, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/4788930
+==================================================
+
+==================================================
+Name: Alfons World
+Release Date: Jun 20, 2026
+Price: $3.99
+Genres: Action, Adventure, RPG
+Link: https://store.steampowered.com/app/3147560
+==================================================
+
