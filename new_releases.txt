@@ -31321,3 +31321,14 @@ Genres: Action, Casual, Indie, RPG, Simulation, Strategy
 Link: https://store.steampowered.com/app/4813820
 ==================================================
 
+
+--- Run: 2026-06-21 21:01:37 --- (1 new game(s) found)
+
+==================================================
+Name: Playful Pursuit
+Release Date: Jun 21, 2026
+Price: $5.99 (-25%, was $7.99)
+Genres: Action, Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/3952220
+==================================================
+
