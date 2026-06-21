@@ -31332,3 +31332,38 @@ Genres: Action, Adventure, Casual, Indie
 Link: https://store.steampowered.com/app/3952220
 ==================================================
 
+
+--- Run: 2026-06-21 22:57:34 --- (4 new game(s) found)
+
+==================================================
+Name: Where Stones Sleep
+Release Date: Jun 21, 2026
+Price: $3.39 (-15%, was $3.99)
+Genres: Indie
+Link: https://store.steampowered.com/app/4396340
+==================================================
+
+==================================================
+Name: Pullout Hearts
+Release Date: Jun 21, 2026
+Price: $4.19 (-40%, was $6.99)
+Genres: Adventure, Simulation
+Link: https://store.steampowered.com/app/4766140
+==================================================
+
+==================================================
+Name: 幻想中世妓 : Gaudens
+Release Date: Jun 21, 2026
+Price: $1.99
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/2941980
+==================================================
+
+==================================================
+Name: Curse:The First Knot
+Release Date: Jun 21, 2026
+Price: $1.79 (-10%, was $1.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/4422150
+==================================================
+
