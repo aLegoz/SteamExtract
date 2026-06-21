@@ -31275,3 +31275,14 @@ Genres: Action, RPG
 Link: https://store.steampowered.com/app/4453470
 ==================================================
 
+
+--- Run: 2026-06-21 17:15:01 --- (1 new game(s) found)
+
+==================================================
+Name: Idle Startup
+Release Date: Jun 21, 2026
+Price: Free to Play
+Genres: Casual, Indie, Simulation, Free To Play
+Link: https://store.steampowered.com/app/4779560
+==================================================
+
