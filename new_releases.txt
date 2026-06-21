@@ -31256,3 +31256,22 @@ Genres: Casual, Indie
 Link: https://store.steampowered.com/app/3936740
 ==================================================
 
+
+--- Run: 2026-06-21 15:43:07 --- (2 new game(s) found)
+
+==================================================
+Name: Agent 9
+Release Date: Jun 21, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4752790
+==================================================
+
+==================================================
+Name: Crazy Fruit Shooter
+Release Date: Jun 21, 2026
+Price: $2.99 (-25%, was $3.99)
+Genres: Action, RPG
+Link: https://store.steampowered.com/app/4453470
+==================================================
+
