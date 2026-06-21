@@ -31175,3 +31175,22 @@ Genres: Adventure, RPG
 Link: https://store.steampowered.com/app/2907890
 ==================================================
 
+
+--- Run: 2026-06-21 08:19:22 --- (2 new game(s) found)
+
+==================================================
+Name: The Unrealtor
+Release Date: Jun 20, 2026
+Price: Free to Play
+Genres: Casual, Free To Play
+Link: https://store.steampowered.com/app/4420050
+==================================================
+
+==================================================
+Name: 관상
+Release Date: Jun 20, 2026
+Price: Free to Play
+Genres: Indie, Simulation, Free To Play
+Link: https://store.steampowered.com/app/4766750
+==================================================
+
