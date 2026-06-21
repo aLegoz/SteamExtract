@@ -31229,3 +31229,30 @@ Genres: Action, Adventure, RPG
 Link: https://store.steampowered.com/app/3147560
 ==================================================
 
+
+--- Run: 2026-06-21 13:30:37 --- (3 new game(s) found)
+
+==================================================
+Name: Mesozoic Dawn
+Release Date: Jun 21, 2026
+Price: Free to Play
+Genres: Indie, RPG, Simulation, Free To Play
+Link: https://store.steampowered.com/app/4334840
+==================================================
+
+==================================================
+Name: Kill Per Second
+Release Date: Jun 21, 2026
+Price: $1.19 (-40%, was $1.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4690070
+==================================================
+
+==================================================
+Name: Trolley Time
+Release Date: Jun 20, 2026
+Price: $6.29 (-10%, was $6.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/3936740
+==================================================
+
