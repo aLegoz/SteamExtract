@@ -31164,3 +31164,14 @@ Genres: Indie, Strategy
 Link: https://store.steampowered.com/app/4296250
 ==================================================
 
+
+--- Run: 2026-06-21 03:50:28 --- (1 new game(s) found)
+
+==================================================
+Name: Wizzerd Quest 2
+Release Date: Jun 20, 2026
+Price: $9.89 (-34%, was $14.99)
+Genres: Adventure, RPG
+Link: https://store.steampowered.com/app/2907890
+==================================================
+
