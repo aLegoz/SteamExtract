@@ -31286,3 +31286,38 @@ Genres: Casual, Indie, Simulation, Free To Play
 Link: https://store.steampowered.com/app/4779560
 ==================================================
 
+
+--- Run: 2026-06-21 19:10:06 --- (4 new game(s) found)
+
+==================================================
+Name: FAST FOOD FUNKIN'
+Release Date: Jun 21, 2026
+Price: Free to Play
+Genres: Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/4698120
+==================================================
+
+==================================================
+Name: Blackjack: CHEAT THE HOUSE!
+Release Date: Jun 21, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Indie
+Link: https://store.steampowered.com/app/4796990
+==================================================
+
+==================================================
+Name: Ball Slickers
+Release Date: Jun 21, 2026
+Price: $1.99
+Genres: Action, Casual, Indie, Sports
+Link: https://store.steampowered.com/app/4162530
+==================================================
+
+==================================================
+Name: AI Slop
+Release Date: Jun 21, 2026
+Price: $1.79 (-40%, was $2.99)
+Genres: Action, Casual, Indie, RPG, Simulation, Strategy
+Link: https://store.steampowered.com/app/4813820
+==================================================
+
