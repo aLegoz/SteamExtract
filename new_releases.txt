@@ -31421,3 +31421,22 @@ Genres: Action, Casual, Indie
 Link: https://store.steampowered.com/app/4527800
 ==================================================
 
+
+--- Run: 2026-06-22 12:40:14 --- (2 new game(s) found)
+
+==================================================
+Name: Cozy Cleaner
+Release Date: Jun 22, 2026
+Price: $4.19 (-40%, was $6.99)
+Genres: Adventure, Casual, Simulation
+Link: https://store.steampowered.com/app/2742710
+==================================================
+
+==================================================
+Name: Off Gridders
+Release Date: Jun 21, 2026
+Price: Free to Play
+Genres: Action, Casual, Indie, Sports, Free To Play
+Link: https://store.steampowered.com/app/4196140
+==================================================
+
