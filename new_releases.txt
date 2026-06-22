@@ -31367,3 +31367,14 @@ Genres: Action, Adventure, Indie
 Link: https://store.steampowered.com/app/4422150
 ==================================================
 
+
+--- Run: 2026-06-22 00:06:11 --- (1 new game(s) found)
+
+==================================================
+Name: Spider Subway
+Release Date: Jun 21, 2026
+Price: Free to Play
+Genres: Indie, Free To Play
+Link: https://store.steampowered.com/app/4300360
+==================================================
+
