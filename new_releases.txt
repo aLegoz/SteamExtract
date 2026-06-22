@@ -31817,3 +31817,14 @@ Genres: Adventure, Indie, RPG
 Link: https://store.steampowered.com/app/3952390
 ==================================================
 
+
+--- Run: 2026-06-22 23:57:49 --- (1 new game(s) found)
+
+==================================================
+Name: Elemental Magic Wars
+Release Date: Jun 22, 2026
+Price: $6.39 (-20%, was $7.99)
+Genres: Casual, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/3843620
+==================================================
+
