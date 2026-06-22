@@ -31378,3 +31378,46 @@ Genres: Indie, Free To Play
 Link: https://store.steampowered.com/app/4300360
 ==================================================
 
+
+--- Run: 2026-06-22 06:16:57 --- (5 new game(s) found)
+
+==================================================
+Name: Agraria
+Release Date: Jun 21, 2026
+Price: $11.69 (-10%, was $12.99)
+Genres: Casual, Simulation
+Link: https://store.steampowered.com/app/4448700
+==================================================
+
+==================================================
+Name: Ramen Simulator
+Release Date: Jun 21, 2026
+Price: $4.79 (-20%, was $5.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/3574020
+==================================================
+
+==================================================
+Name: NONEWORLD
+Release Date: Jun 21, 2026
+Price: $8.09 (-10%, was $8.99)
+Genres: Action, Adventure, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/3365680
+==================================================
+
+==================================================
+Name: Pitch & Pixel
+Release Date: Jun 21, 2026
+Price: $10.96 (-15%, was $12.90)
+Genres: Simulation
+Link: https://store.steampowered.com/app/4681270
+==================================================
+
+==================================================
+Name: Punt! Rollin Raccoons
+Release Date: Jun 21, 2026
+Price: $5.09 (-15%, was $5.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4527800
+==================================================
+
