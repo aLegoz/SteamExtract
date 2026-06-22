@@ -31603,3 +31603,142 @@ Genres: Casual
 Link: https://store.steampowered.com/app/4820980
 ==================================================
 
+
+--- Run: 2026-06-22 20:30:05 --- (17 new game(s) found)
+
+==================================================
+Name: Deliverage
+Release Date: Jun 22, 2026
+Price: $11.04 (-15%, was $12.99)
+Genres: Action, Racing, Simulation
+Link: https://store.steampowered.com/app/4456600
+==================================================
+
+==================================================
+Name: Goyslop
+Release Date: Jun 22, 2026
+Price: $3.56 (-25%, was $4.75)
+Genres: Action
+Link: https://store.steampowered.com/app/4237390
+==================================================
+
+==================================================
+Name: Kitty Krush 
+Release Date: Jun 22, 2026
+Price: $1.99
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4618980
+==================================================
+
+==================================================
+Name: Plant Nursery Simulator
+Release Date: Jun 22, 2026
+Price: $7.79 (-40%, was $12.99)
+Genres: Casual, Simulation
+Link: https://store.steampowered.com/app/3474700
+==================================================
+
+==================================================
+Name: Neon Pulsefire
+Release Date: Jun 22, 2026
+Price: $3.39 (-15%, was $3.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4402170
+==================================================
+
+==================================================
+Name: CyberpunkXXX
+Release Date: Jun 22, 2026
+Price: $9.99
+Genres: Action, Adventure
+Link: https://store.steampowered.com/app/2357230
+==================================================
+
+==================================================
+Name: Neon Planet
+Release Date: Jun 22, 2026
+Price: $12.59 (-10%, was $13.99)
+Genres: Action, Adventure, Casual, Indie, RPG, Simulation
+Link: https://store.steampowered.com/app/4611400
+==================================================
+
+==================================================
+Name: Neofold
+Release Date: Jun 22, 2026
+Price: $3.59 (-10%, was $3.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4412590
+==================================================
+
+==================================================
+Name: Rise Of Eurevia
+Release Date: Jun 22, 2026
+Price: Free to Play
+Genres: Action, Adventure, Indie, RPG, Free To Play
+Link: https://store.steampowered.com/app/4786910
+==================================================
+
+==================================================
+Name: Lumina Veil
+Release Date: Jun 22, 2026
+Price: Free to Play
+Genres: Action, Adventure, Free To Play
+Link: https://store.steampowered.com/app/2840000
+==================================================
+
+==================================================
+Name: Veil of Mist
+Release Date: Jun 22, 2026
+Price: $5.39 (-10%, was $5.99)
+Genres: Adventure, Simulation
+Link: https://store.steampowered.com/app/4171670
+==================================================
+
+==================================================
+Name: Jungle Defenders
+Release Date: Jun 22, 2026
+Price: $6.99
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/3758070
+==================================================
+
+==================================================
+Name: Reflection Arena
+Release Date: Jun 22, 2026
+Price: $4.99
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4186620
+==================================================
+
+==================================================
+Name: Plus/Minus Zero
+Release Date: Jun 22, 2026
+Price: $1.59 (-20%, was $1.99)
+Genres: Indie
+Link: https://store.steampowered.com/app/4753270
+==================================================
+
+==================================================
+Name: Echowood
+Release Date: Jun 22, 2026
+Price: $8.49 (-15%, was $9.99)
+Genres: Adventure, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4314780
+==================================================
+
+==================================================
+Name: SurfaceBox
+Release Date: Jun 22, 2026
+Price: $6.99
+Genres: Casual, Indie, Simulation, Sports
+Link: https://store.steampowered.com/app/4792140
+==================================================
+
+==================================================
+Name: Gaslamp Cases 6: Haunted Waters
+Release Date: Jun 22, 2026
+Price: $5.39 (-40%, was $8.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/4791330
+==================================================
+
