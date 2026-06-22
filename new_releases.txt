@@ -31742,3 +31742,78 @@ Genres: Casual
 Link: https://store.steampowered.com/app/4791330
 ==================================================
 
+
+--- Run: 2026-06-22 22:29:36 --- (9 new game(s) found)
+
+==================================================
+Name: Backrooms Untold
+Release Date: Jun 22, 2026
+Price: $11.99 (-20%, was $14.99)
+Genres: Adventure, Indie, Strategy
+Link: https://store.steampowered.com/app/3912090
+==================================================
+
+==================================================
+Name: Astaryn: RPG Idler
+Release Date: Jun 22, 2026
+Price: $3.99
+Genres: Casual, RPG
+Link: https://store.steampowered.com/app/4711140
+==================================================
+
+==================================================
+Name: Pull Factor
+Release Date: Jun 22, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4698060
+==================================================
+
+==================================================
+Name: Crazy Neighbour
+Release Date: Jun 22, 2026
+Price: $3.43 (-14%, was $3.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4678330
+==================================================
+
+==================================================
+Name: Goo Deer
+Release Date: Jun 22, 2026
+Price: $14.99
+Genres: Action, Simulation
+Link: https://store.steampowered.com/app/4349210
+==================================================
+
+==================================================
+Name: Veil: Project Conductor
+Release Date: Jun 22, 2026
+Price: $8.49 (-15%, was $9.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4250040
+==================================================
+
+==================================================
+Name: Age of Resistance
+Release Date: Jun 22, 2026
+Price: $3.59 (-20%, was $4.49)
+Genres: Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4198590
+==================================================
+
+==================================================
+Name: Café Manager
+Release Date: Jun 22, 2026
+Price: $9.99
+Genres: Simulation, Strategy
+Link: https://store.steampowered.com/app/2488790
+==================================================
+
+==================================================
+Name: Hero of Sunset
+Release Date: Jun 22, 2026
+Price: $13.49 (-10%, was $14.99)
+Genres: Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/3952390
+==================================================
+
