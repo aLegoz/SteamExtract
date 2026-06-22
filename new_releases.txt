@@ -31440,3 +31440,166 @@ Genres: Action, Casual, Indie, Sports, Free To Play
 Link: https://store.steampowered.com/app/4196140
 ==================================================
 
+
+--- Run: 2026-06-22 17:23:38 --- (20 new game(s) found)
+
+==================================================
+Name: Sineus Arena Survivors
+Release Date: Jun 22, 2026
+Price: $9.89 (-10%, was $10.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4227400
+==================================================
+
+==================================================
+Name: HAELE 3D - Portrait Studio Lite - Drawing References
+Release Date: Jun 22, 2026
+Price: $12.59 (-30%, was $17.99)
+Genres: Adventure, Casual, RPG, Simulation, Animation & Modeling, Design & Illustration, Photo Editing, Utilities, Game Development
+Link: https://store.steampowered.com/app/2949950
+==================================================
+
+==================================================
+Name: Cleanup Crew
+Release Date: Jun 22, 2026
+Price: $5.00
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4801800
+==================================================
+
+==================================================
+Name: Playful Day
+Release Date: Jun 22, 2026
+Price: $1.79 (-40%, was $2.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4752860
+==================================================
+
+==================================================
+Name: Bingle Bingle
+Release Date: Jun 22, 2026
+Price: $11.99 (-20%, was $14.99)
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/2789810
+==================================================
+
+==================================================
+Name: Hamster Pet: Desktop Companion
+Release Date: Jun 22, 2026
+Price: Free to Play
+Genres: Casual, Indie, Simulation, Free To Play
+Link: https://store.steampowered.com/app/4565910
+==================================================
+
+==================================================
+Name: Dark Scrolls
+Release Date: Jun 22, 2026
+Price: Free to Play
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/2912550
+==================================================
+
+==================================================
+Name: Ashes of Morgravia
+Release Date: Jun 22, 2026
+Price: $9.95 (-17%, was $11.99)
+Genres: RPG, Strategy
+Link: https://store.steampowered.com/app/3316960
+==================================================
+
+==================================================
+Name: WEGO World War II: Desert War
+Release Date: Jun 22, 2026
+Price: $23.99 (-40%, was $39.99)
+Genres: Strategy
+Link: https://store.steampowered.com/app/4729720
+==================================================
+
+==================================================
+Name: Space Grunts: Chrono Shard
+Release Date: Jun 22, 2026
+Price: $12.79 (-20%, was $15.99)
+Genres: Action, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/3403540
+==================================================
+
+==================================================
+Name: Boobs & Boxing
+Release Date: Jun 22, 2026
+Price: $4.49 (-25%, was $5.99)
+Genres: Casual, Simulation, Sports
+Link: https://store.steampowered.com/app/4806040
+==================================================
+
+==================================================
+Name: Levitar 3D
+Release Date: Jun 22, 2026
+Price: $9.99
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4773430
+==================================================
+
+==================================================
+Name: Idle Chapel
+Release Date: Jun 22, 2026
+Price: $4.19 (-40%, was $6.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/4102010
+==================================================
+
+==================================================
+Name: Upward
+Release Date: Jun 22, 2026
+Price: Free to Play
+Genres: Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/4496690
+==================================================
+
+==================================================
+Name: Mine Farm
+Release Date: Jun 22, 2026
+Price: $1.79 (-10%, was $1.99)
+Genres: Casual, Indie, RPG
+Link: https://store.steampowered.com/app/4572190
+==================================================
+
+==================================================
+Name: Safe Quacker
+Release Date: Jun 22, 2026
+Price: $7.19 (-10%, was $7.99)
+Genres: Action, Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4798330
+==================================================
+
+==================================================
+Name: ATOMIC BOT: SURVIVOR ON PLANETS
+Release Date: Jun 22, 2026
+Price: $1.59 (-20%, was $1.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/2835920
+==================================================
+
+==================================================
+Name: Last Dose
+Release Date: Jun 22, 2026
+Price: $2.99
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/4780470
+==================================================
+
+==================================================
+Name: Alien Battlefield
+Release Date: Jun 22, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4770850
+==================================================
+
+==================================================
+Name: Greed and Greed
+Release Date: Jun 22, 2026
+Price: $0.59 (-40%, was $0.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/4820980
+==================================================
+
