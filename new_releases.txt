@@ -32221,3 +32221,126 @@ Genres: Adventure, Indie, Simulation
 Link: https://store.steampowered.com/app/4656550
 ==================================================
 
+
+--- Run: 2026-06-23 13:33:44 --- (15 new game(s) found)
+
+==================================================
+Name: Garbage Growth
+Release Date: Jun 23, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4680930
+==================================================
+
+==================================================
+Name: Night Hike
+Release Date: Jun 23, 2026
+Price: $0.99 (-15%, was $1.17)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4747210
+==================================================
+
+==================================================
+Name: Deer & Boy
+Release Date: Jun 23, 2026
+Price: $17.99 (-10%, was $19.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/1803140
+==================================================
+
+==================================================
+Name: Project L33T: Founders Edition
+Release Date: Jun 23, 2026
+Price: $19.99
+Genres: Action, Indie, Massively Multiplayer, RPG, Simulation
+Link: https://store.steampowered.com/app/2803360
+==================================================
+
+==================================================
+Name: Keep It Running: Together
+Release Date: Jun 23, 2026
+Price: $5.99
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/3448380
+==================================================
+
+==================================================
+Name: Drink Factory Simulator - Prologue
+Release Date: Jun 23, 2026
+Price: Free to Play
+Genres: Adventure, Casual, Simulation, Free To Play
+Link: https://store.steampowered.com/app/4738020
+==================================================
+
+==================================================
+Name: The Witch Shoot
+Release Date: Jun 23, 2026
+Price: $4.19 (-40%, was $6.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/4485450
+==================================================
+
+==================================================
+Name: Cart by Cart: Supermarket Simulator
+Release Date: Jun 23, 2026
+Price: $5.59 (-30%, was $7.99)
+Genres: Casual, Simulation, Strategy
+Link: https://store.steampowered.com/app/4610760
+==================================================
+
+==================================================
+Name: The Queen's Gondola
+Release Date: Jun 23, 2026
+Price: Free to Play
+Genres: Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/4789900
+==================================================
+
+==================================================
+Name: Moldwasher
+Release Date: Jun 23, 2026
+Price: $8.09 (-10%, was $8.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/3688130
+==================================================
+
+==================================================
+Name: Ancient Adventure
+Release Date: Jun 23, 2026
+Price: $11.99
+Genres: Action, Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/4309830
+==================================================
+
+==================================================
+Name: Hardcore Soldier
+Release Date: Jun 23, 2026
+Price: $7.99
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/4443450
+==================================================
+
+==================================================
+Name: TetraPlinko
+Release Date: Jun 23, 2026
+Price: $5.99
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4823870
+==================================================
+
+==================================================
+Name: Maple Ridge
+Release Date: Jun 23, 2026
+Price: $2.11 (-15%, was $2.49)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4716540
+==================================================
+
+==================================================
+Name: Last Dive: Echo Trench
+Release Date: Jun 23, 2026
+Price: $6.29 (-10%, was $6.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4598940
+==================================================
+
