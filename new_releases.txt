@@ -31828,3 +31828,70 @@ Genres: Casual, Indie, RPG, Strategy
 Link: https://store.steampowered.com/app/3843620
 ==================================================
 
+
+--- Run: 2026-06-23 02:47:29 --- (8 new game(s) found)
+
+==================================================
+Name: Orbital Physics Simulator
+Release Date: Jun 22, 2026
+Price: Free to Play
+Genres: Indie, Simulation, Free To Play
+Link: https://store.steampowered.com/app/4798040
+==================================================
+
+==================================================
+Name: Relief
+Release Date: Jun 22, 2026
+Price: $12.74 (-15%, was $14.99)
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/3929330
+==================================================
+
+==================================================
+Name: THE MIDNIGHT QUEENS
+Release Date: Jun 22, 2026
+Price: Free to Play
+Genres: RPG, Free To Play
+Link: https://store.steampowered.com/app/4778180
+==================================================
+
+==================================================
+Name: Kudo’s Kuppa
+Release Date: Jun 22, 2026
+Price: $15.99 (-20%, was $19.99)
+Genres: Adventure, Casual
+Link: https://store.steampowered.com/app/2743810
+==================================================
+
+==================================================
+Name: 挂机破坏神 IdleDiablo
+Release Date: Jun 22, 2026
+Price: $4.79 (-20%, was $5.99)
+Genres: Adventure, Casual, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/4411600
+==================================================
+
+==================================================
+Name: 猫咪の世界
+Release Date: Jun 22, 2026
+Price: $6.20 (-10%, was $6.89)
+Genres: Casual, Indie, RPG
+Link: https://store.steampowered.com/app/4484190
+==================================================
+
+==================================================
+Name: Forgive Me My Love
+Release Date: Jun 22, 2026
+Price: $0.99
+Genres: Indie
+Link: https://store.steampowered.com/app/3916410
+==================================================
+
+==================================================
+Name: Shatterhold
+Release Date: Jun 22, 2026
+Price: $13.49 (-10%, was $14.99)
+Genres: Action, Strategy
+Link: https://store.steampowered.com/app/4619000
+==================================================
+
