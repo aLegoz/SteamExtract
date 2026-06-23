@@ -32694,3 +32694,62 @@ Genres: Indie, Simulation, Strategy
 Link: https://store.steampowered.com/app/4553140
 ==================================================
 
+
+--- Run: 2026-06-23 21:00:03 --- (7 new game(s) found)
+
+==================================================
+Name: Glitchy: Not So Sweet
+Release Date: Jun 23, 2026
+Price: $4.99
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4642480
+==================================================
+
+==================================================
+Name: Hell Runner
+Release Date: Jun 23, 2026
+Price: $14.99
+Genres: Action, Indie, Racing
+Link: https://store.steampowered.com/app/2213450
+==================================================
+
+==================================================
+Name: HOP-CO-OP
+Release Date: Jun 23, 2026
+Price: Free to Play
+Genres: Action, Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/4464550
+==================================================
+
+==================================================
+Name: Boing!
+Release Date: Jun 23, 2026
+Price: $9.87 (-24%, was $12.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4367280
+==================================================
+
+==================================================
+Name: Raccoon Packer: A Cozy Puzzle Game
+Release Date: Jun 23, 2026
+Price: $3.19 (-20%, was $3.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4590400
+==================================================
+
+==================================================
+Name: Volcano Logistics
+Release Date: Jun 23, 2026
+Price: $5.39 (-10%, was $5.99)
+Genres: Action, Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4219150
+==================================================
+
+==================================================
+Name: There Is Nothing There
+Release Date: Jun 23, 2026
+Price: $2.99
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/4387910
+==================================================
+
