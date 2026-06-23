@@ -32491,3 +32491,206 @@ Genres: Casual, Indie, Strategy
 Link: https://store.steampowered.com/app/4665970
 ==================================================
 
+
+--- Run: 2026-06-23 19:00:43 --- (25 new game(s) found)
+
+==================================================
+Name: Public Fears - George's Farm
+Release Date: Jun 23, 2026
+Price: $3.74 (-25%, was $4.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4564770
+==================================================
+
+==================================================
+Name: Knight Legion: Rpg Strategy
+Release Date: Jun 23, 2026
+Price: $5.99 (-40%, was $9.99)
+Genres: Action, RPG, Strategy
+Link: https://store.steampowered.com/app/4686310
+==================================================
+
+==================================================
+Name: Bug Drop
+Release Date: Jun 23, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4439870
+==================================================
+
+==================================================
+Name: Gene Crawl: Dungeon Descent
+Release Date: Jun 23, 2026
+Price: $4.89 (-30%, was $6.99)
+Genres: Indie, RPG, Simulation, Strategy
+Link: https://store.steampowered.com/app/4360060
+==================================================
+
+==================================================
+Name: Patchkins Party
+Release Date: Jun 23, 2026
+Price: $3.59 (-10%, was $3.99)
+Genres: Action, Adventure, Casual, Racing
+Link: https://store.steampowered.com/app/3405130
+==================================================
+
+==================================================
+Name: Deck Lite
+Release Date: Jun 23, 2026
+Price: $2.99 (-40%, was $4.99)
+Genres: Casual, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/3935250
+==================================================
+
+==================================================
+Name: Tiny Cats vs Toys
+Release Date: Jun 23, 2026
+Price: $1.69 (-15%, was $1.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4550590
+==================================================
+
+==================================================
+Name: Couchpit
+Release Date: Jun 23, 2026
+Price: $5.94 (-15%, was $6.99)
+Genres: Indie, Utilities
+Link: https://store.steampowered.com/app/4705280
+==================================================
+
+==================================================
+Name: Orb of Creation
+Release Date: Jun 23, 2026
+Price: $11.99
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/1910680
+==================================================
+
+==================================================
+Name: Dark Age Gladiator
+Release Date: Jun 23, 2026
+Price: $13.59 (-15%, was $15.99)
+Genres: Action, Indie, RPG
+Link: https://store.steampowered.com/app/2652460
+==================================================
+
+==================================================
+Name: A Game About AI
+Release Date: Jun 23, 2026
+Price: $3.19 (-20%, was $3.99)
+Genres: Simulation, Strategy
+Link: https://store.steampowered.com/app/4639230
+==================================================
+
+==================================================
+Name: How To Grow a Black Hole
+Release Date: Jun 23, 2026
+Price: $3.39 (-15%, was $3.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4562150
+==================================================
+
+==================================================
+Name: Code Tycoon
+Release Date: Jun 23, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4347780
+==================================================
+
+==================================================
+Name: Kill the Slimes
+Release Date: Jun 23, 2026
+Price: $2.39 (-20%, was $2.99)
+Genres: Action, Adventure, Casual, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/4464010
+==================================================
+
+==================================================
+Name: Beggar's Road
+Release Date: Jun 23, 2026
+Price: $5.99 (-25%, was $7.99)
+Genres: Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/4587010
+==================================================
+
+==================================================
+Name: Mythic Love: Iberian Legends
+Release Date: Jun 23, 2026
+Price: $10.91 (-16%, was $12.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/2654990
+==================================================
+
+==================================================
+Name: Postin Paradise
+Release Date: Jun 23, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4623620
+==================================================
+
+==================================================
+Name: The Grid.
+Release Date: Jun 23, 2026
+Price: $5.99 (-25%, was $7.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/2481060
+==================================================
+
+==================================================
+Name: Recess
+Release Date: Jun 23, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: Casual, Sports
+Link: https://store.steampowered.com/app/4288290
+==================================================
+
+==================================================
+Name: Frutz
+Release Date: Jun 23, 2026
+Price: $5.94 (-15%, was $6.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/4673470
+==================================================
+
+==================================================
+Name: Glowbot Tower Defense
+Release Date: Jun 23, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4666840
+==================================================
+
+==================================================
+Name: Doodle Dice Monsters
+Release Date: Jun 23, 2026
+Price: $4.19 (-30%, was $5.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/2454170
+==================================================
+
+==================================================
+Name: Condemned to Clean
+Release Date: Jun 23, 2026
+Price: $5.39 (-10%, was $5.99)
+Genres: Adventure, Simulation
+Link: https://store.steampowered.com/app/3860890
+==================================================
+
+==================================================
+Name: SLOTMANIA
+Release Date: Jun 23, 2026
+Price: $1.74 (-25%, was $2.33)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4794520
+==================================================
+
+==================================================
+Name: Scratch Off!
+Release Date: Jun 23, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4553140
+==================================================
+
