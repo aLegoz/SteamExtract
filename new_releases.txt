@@ -32344,3 +32344,150 @@ Genres: Adventure, Indie
 Link: https://store.steampowered.com/app/4598940
 ==================================================
 
+
+--- Run: 2026-06-23 16:18:55 --- (18 new game(s) found)
+
+==================================================
+Name: DEADWAVE
+Release Date: Jun 23, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4347680
+==================================================
+
+==================================================
+Name: Bit
+Release Date: Jun 23, 2026
+Price: $1.79 (-10%, was $1.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4541590
+==================================================
+
+==================================================
+Name: Stealth Operative Syn: Virtual Training
+Release Date: Jun 23, 2026
+Price: $2.39 (-20%, was $2.99)
+Genres: Action, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4330710
+==================================================
+
+==================================================
+Name: Sloop
+Release Date: Jun 23, 2026
+Price: $3.74 (-25%, was $4.99)
+Genres: Action, Adventure, Casual, Indie, Racing
+Link: https://store.steampowered.com/app/3948910
+==================================================
+
+==================================================
+Name: Clank-Robotics
+Release Date: Jun 23, 2026
+Price: $5.59 (-20%, was $6.99)
+Genres: Action, Simulation
+Link: https://store.steampowered.com/app/4443390
+==================================================
+
+==================================================
+Name: Group Chaos Bottaring
+Release Date: Jun 23, 2026
+Price: $1.19 (-40%, was $1.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4021670
+==================================================
+
+==================================================
+Name: GLiTCHiA
+Release Date: Jun 23, 2026
+Price: $7.64 (-15%, was $8.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4165180
+==================================================
+
+==================================================
+Name: Quadrix
+Release Date: Jun 23, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4414520
+==================================================
+
+==================================================
+Name: Jolt: Neon Breaker
+Release Date: Jun 23, 2026
+Price: $6.39 (-20%, was $7.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/3985100
+==================================================
+
+==================================================
+Name: Crosshair EDGE Lite
+Release Date: Jun 23, 2026
+Price: Free to Play
+Genres: Free To Play, Utilities
+Link: https://store.steampowered.com/app/4815580
+==================================================
+
+==================================================
+Name: SKY LEGENDS - An Aeropostal Epic
+Release Date: Jun 23, 2026
+Price: $16.24 (-35%, was $24.99)
+Genres: Adventure
+Link: https://store.steampowered.com/app/3846630
+==================================================
+
+==================================================
+Name: Dimhaven - The Lost Source
+Release Date: Jun 23, 2026
+Price: $22.09 (-15%, was $25.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/2458980
+==================================================
+
+==================================================
+Name: Sovereign's End
+Release Date: Jun 23, 2026
+Price: $11.24 (-25%, was $14.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4297420
+==================================================
+
+==================================================
+Name: Road To Glory
+Release Date: Jun 23, 2026
+Price: $4.13 (-30%, was $5.90)
+Genres: Adventure, Indie, RPG, Sports
+Link: https://store.steampowered.com/app/4540230
+==================================================
+
+==================================================
+Name: GeneBloom
+Release Date: Jun 23, 2026
+Price: $2.99
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/4696820
+==================================================
+
+==================================================
+Name: S+ Universe
+Release Date: Jun 23, 2026
+Price: $2.99 (-40%, was $4.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/2490520
+==================================================
+
+==================================================
+Name: Wave 43
+Release Date: Jun 23, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4529570
+==================================================
+
+==================================================
+Name: Grids of Thermometers
+Release Date: Jun 23, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4665970
+==================================================
+
