@@ -31895,3 +31895,126 @@ Genres: Action, Strategy
 Link: https://store.steampowered.com/app/4619000
 ==================================================
 
+
+--- Run: 2026-06-23 06:37:39 --- (15 new game(s) found)
+
+==================================================
+Name: LIMBY
+Release Date: Jun 22, 2026
+Price: $3.99
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4433780
+==================================================
+
+==================================================
+Name: The Miki Komori Project
+Release Date: Jun 22, 2026
+Price: Free to Play
+Genres: Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/4703120
+==================================================
+
+==================================================
+Name: 东北往事
+Release Date: Jun 22, 2026
+Price: $7.19 (-20%, was $8.99)
+Genres: RPG, Simulation, Strategy
+Link: https://store.steampowered.com/app/4056810
+==================================================
+
+==================================================
+Name: UnfAIr War: Survivors
+Release Date: Jun 22, 2026
+Price: $5.59 (-30%, was $7.99)
+Genres: Action, Casual, Indie, Massively Multiplayer, RPG
+Link: https://store.steampowered.com/app/4215940
+==================================================
+
+==================================================
+Name: Frog Climb
+Release Date: Jun 22, 2026
+Price: Free to Play
+Genres: Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/4584940
+==================================================
+
+==================================================
+Name: Gin - The Silver Wind
+Release Date: Jun 22, 2026
+Price: $7.19 (-10%, was $7.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/2582780
+==================================================
+
+==================================================
+Name: Mobile Front
+Release Date: Jun 22, 2026
+Price: $3.49 (-30%, was $4.99)
+Genres: Action, Casual, RPG, Simulation
+Link: https://store.steampowered.com/app/4639370
+==================================================
+
+==================================================
+Name: Digital Anima: Virtual Lifeform Care Kit
+Release Date: Jun 22, 2026
+Price: $3.07 (-30%, was $4.39)
+Genres: Adventure, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4494770
+==================================================
+
+==================================================
+Name: The Puppet's Casket
+Release Date: Jun 22, 2026
+Price: $4.19 (-30%, was $5.99)
+Genres: Adventure
+Link: https://store.steampowered.com/app/4240260
+==================================================
+
+==================================================
+Name: Mine Empire
+Release Date: Jun 22, 2026
+Price: $3.19 (-20%, was $3.99)
+Genres: Casual, Indie, RPG, Simulation, Strategy
+Link: https://store.steampowered.com/app/4674550
+==================================================
+
+==================================================
+Name: NEKO-MIMI SWEET HOUSEMATES Vol. 2
+Release Date: Jun 22, 2026
+Price: $14.39 (-10%, was $15.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4598080
+==================================================
+
+==================================================
+Name: Synergy Strike
+Release Date: Jun 22, 2026
+Price: $4.20 (-20%, was $5.25)
+Genres: Action, Strategy
+Link: https://store.steampowered.com/app/3893410
+==================================================
+
+==================================================
+Name: Orbosis Gloriosis
+Release Date: Jun 22, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Action, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4535410
+==================================================
+
+==================================================
+Name: 808
+Release Date: Jun 22, 2026
+Price: $4.79 (-20%, was $5.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/3209690
+==================================================
+
+==================================================
+Name: Clash of Courts
+Release Date: Jun 22, 2026
+Price: $10.00
+Genres: Action
+Link: https://store.steampowered.com/app/4787600
+==================================================
+
