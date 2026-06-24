@@ -33452,3 +33452,14 @@ Genres: Casual, Simulation, Strategy
 Link: https://store.steampowered.com/app/4816650
 ==================================================
 
+
+--- Run: 2026-06-24 22:05:26 --- (1 new game(s) found)
+
+==================================================
+Name: Idle Keep
+Release Date: Jun 24, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Casual, Indie, RPG
+Link: https://store.steampowered.com/app/4669470
+==================================================
+
