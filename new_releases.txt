@@ -33187,3 +33187,110 @@ Genres: Indie, Strategy
 Link: https://store.steampowered.com/app/4372750
 ==================================================
 
+
+--- Run: 2026-06-24 16:06:31 --- (13 new game(s) found)
+
+==================================================
+Name: Dorm Janitor's Revenge
+Release Date: Jun 24, 2026
+Price: $6.45 (-16%, was $7.69)
+Genres: Indie, RPG
+Link: https://store.steampowered.com/app/3416960
+==================================================
+
+==================================================
+Name: Aces of Avalon
+Release Date: Jun 24, 2026
+Price: Free to Play
+Genres: Indie, Simulation, Free To Play
+Link: https://store.steampowered.com/app/3656230
+==================================================
+
+==================================================
+Name: Virtual Perspective
+Release Date: Jun 24, 2026
+Price: $3.59 (-10%, was $3.99)
+Genres: Action
+Link: https://store.steampowered.com/app/3653230
+==================================================
+
+==================================================
+Name: Beatlow
+Release Date: Jun 24, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4019820
+==================================================
+
+==================================================
+Name: Trashy Cashy
+Release Date: Jun 24, 2026
+Price: $4.79 (-20%, was $5.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4631110
+==================================================
+
+==================================================
+Name: Hard Truck 2: King of the Road
+Release Date: Jun 24, 2026
+Price: $2.99 (-40%, was $4.99)
+Genres: Racing
+Link: https://store.steampowered.com/app/4487840
+==================================================
+
+==================================================
+Name: b-Run
+Release Date: Jun 24, 2026
+Price: Free to Play
+Genres: Action, Adventure, Indie, Free To Play
+Link: https://store.steampowered.com/app/4798010
+==================================================
+
+==================================================
+Name: Aura Farming
+Release Date: Jun 24, 2026
+Price: $3.67
+Genres: Casual
+Link: https://store.steampowered.com/app/4754800
+==================================================
+
+==================================================
+Name: The First Million
+Release Date: Jun 24, 2026
+Price: $6.29 (-10%, was $6.99)
+Genres: Strategy
+Link: https://store.steampowered.com/app/4446010
+==================================================
+
+==================================================
+Name: EagleRoad:WorldRise
+Release Date: Jun 24, 2026
+Price: $5.99 (-40%, was $9.99)
+Genres: Adventure, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/4328290
+==================================================
+
+==================================================
+Name: Scriver: A Word Game
+Release Date: Jun 24, 2026
+Price: $5.59 (-30%, was $7.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4023970
+==================================================
+
+==================================================
+Name: Nights at the Convenience Store
+Release Date: Jun 24, 2026
+Price: $2.99
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4829340
+==================================================
+
+==================================================
+Name: Boundless Merit
+Release Date: Jun 24, 2026
+Price: $0.99
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4526410
+==================================================
+
