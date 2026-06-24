@@ -32871,3 +32871,46 @@ Genres: Action
 Link: https://store.steampowered.com/app/3746670
 ==================================================
 
+
+--- Run: 2026-06-24 01:58:10 --- (5 new game(s) found)
+
+==================================================
+Name: Heavenly Island
+Release Date: Jun 23, 2026
+Price: $11.99 (-20%, was $14.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/3779570
+==================================================
+
+==================================================
+Name: Age of Empires Mobile: PC Edition
+Release Date: Jun 23, 2026
+Price: Free to Play
+Genres: Casual, Simulation, Strategy, Free To Play
+Link: https://store.steampowered.com/app/2783360
+==================================================
+
+==================================================
+Name: Myriad Realms
+Release Date: Jun 23, 2026
+Price: $3.19 (-20%, was $3.99)
+Genres: Adventure, Casual, Indie, RPG
+Link: https://store.steampowered.com/app/4340250
+==================================================
+
+==================================================
+Name: Hexilibrium
+Release Date: Jun 23, 2026
+Price: $6.29 (-10%, was $6.99)
+Genres: Indie
+Link: https://store.steampowered.com/app/4792210
+==================================================
+
+==================================================
+Name: FRCTL
+Release Date: Jun 23, 2026
+Price: Free to Play
+Genres: Action, Casual, Indie, Simulation, Free To Play
+Link: https://store.steampowered.com/app/4441060
+==================================================
+
