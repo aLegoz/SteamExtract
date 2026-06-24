@@ -32914,3 +32914,102 @@ Genres: Action, Casual, Indie, Simulation, Free To Play
 Link: https://store.steampowered.com/app/4441060
 ==================================================
 
+
+--- Run: 2026-06-24 06:03:43 --- (12 new game(s) found)
+
+==================================================
+Name: That Time I Got Abducted by KYONYUU ALIENS
+Release Date: Jun 23, 2026
+Price: $10.39 (-20%, was $12.99)
+Genres: Action, RPG
+Link: https://store.steampowered.com/app/2840940
+==================================================
+
+==================================================
+Name: Green Market
+Release Date: Jun 23, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Simulation
+Link: https://store.steampowered.com/app/4781520
+==================================================
+
+==================================================
+Name: Bouncy Ball
+Release Date: Jun 23, 2026
+Price: Free to Play
+Genres: Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/4667570
+==================================================
+
+==================================================
+Name: Summer at Smile Café
+Release Date: Jun 23, 2026
+Price: $9.89 (-10%, was $10.99)
+Genres: Casual, Indie, RPG
+Link: https://store.steampowered.com/app/3116500
+==================================================
+
+==================================================
+Name: Quack Quack Up
+Release Date: Jun 23, 2026
+Price: $4.95 (-38%, was $7.99)
+Genres: Adventure, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4181370
+==================================================
+
+==================================================
+Name: Strata
+Release Date: Jun 23, 2026
+Price: $14.99
+Genres: Indie, Animation & Modeling, Design & Illustration, Photo Editing, Game Development
+Link: https://store.steampowered.com/app/4791200
+==================================================
+
+==================================================
+Name: Haven Restored
+Release Date: Jun 23, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/4272830
+==================================================
+
+==================================================
+Name: FUNEX: Stock Market Simulator
+Release Date: Jun 23, 2026
+Price: $100.00
+Genres: Simulation, Strategy
+Link: https://store.steampowered.com/app/4756900
+==================================================
+
+==================================================
+Name: SeongsuStation
+Release Date: Jun 23, 2026
+Price: $0.99
+Genres: Action, Adventure, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4786410
+==================================================
+
+==================================================
+Name: Our Dreadling
+Release Date: Jun 23, 2026
+Price: $4.54 (-35%, was $6.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/3482370
+==================================================
+
+==================================================
+Name: How Shall We Die
+Release Date: Jun 23, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4221750
+==================================================
+
+==================================================
+Name: Paranormal Meatball Simulator
+Release Date: Jun 23, 2026
+Price: $1.19 (-40%, was $1.99)
+Genres: Adventure, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4820520
+==================================================
+
