@@ -33294,3 +33294,94 @@ Genres: Casual, Indie, Simulation
 Link: https://store.steampowered.com/app/4526410
 ==================================================
 
+
+--- Run: 2026-06-24 18:25:44 --- (11 new game(s) found)
+
+==================================================
+Name: Mini Raid Leader
+Release Date: Jun 24, 2026
+Price: Free to Play
+Genres: Action, Casual, Indie, RPG, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4484690
+==================================================
+
+==================================================
+Name: S.A.N.D.Y. - Beach Cleaner
+Release Date: Jun 24, 2026
+Price: $5.39 (-10%, was $5.99)
+Genres: Casual, Simulation
+Link: https://store.steampowered.com/app/3954990
+==================================================
+
+==================================================
+Name: Rogue 21
+Release Date: Jun 24, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/4276110
+==================================================
+
+==================================================
+Name: Bartender Life Simulator
+Release Date: Jun 24, 2026
+Price: $2.54 (-15%, was $2.99)
+Genres: Simulation
+Link: https://store.steampowered.com/app/4245190
+==================================================
+
+==================================================
+Name: AutoClick Pro
+Release Date: Jun 24, 2026
+Price: $1.79 (-40%, was $2.99)
+Genres: Casual, Indie, Software Training, Utilities
+Link: https://store.steampowered.com/app/4793940
+==================================================
+
+==================================================
+Name: FULL METAL COFFIN
+Release Date: Jun 24, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Simulation
+Link: https://store.steampowered.com/app/3529670
+==================================================
+
+==================================================
+Name: Glorpotron
+Release Date: Jun 24, 2026
+Price: $9.74 (-25%, was $12.99)
+Genres: Action, Indie, Strategy
+Link: https://store.steampowered.com/app/3989690
+==================================================
+
+==================================================
+Name: The Last (Hotdog) Stand
+Release Date: Jun 24, 2026
+Price: $3.74 (-25%, was $4.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4619190
+==================================================
+
+==================================================
+Name: Battle Food Mania
+Release Date: Jun 24, 2026
+Price: $13.49 (-10%, was $14.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/3594680
+==================================================
+
+==================================================
+Name: Mini AirHockey
+Release Date: Jun 24, 2026
+Price: $0.89 (-10%, was $0.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4539680
+==================================================
+
+==================================================
+Name: Blood Welkin
+Release Date: Jun 24, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Action
+Link: https://store.steampowered.com/app/3920990
+==================================================
+
