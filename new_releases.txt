@@ -33013,3 +33013,86 @@ Genres: Adventure, Casual, Indie, Simulation
 Link: https://store.steampowered.com/app/4820520
 ==================================================
 
+
+--- Run: 2026-06-24 10:11:35 --- (10 new game(s) found)
+
+==================================================
+Name: Hell Forest
+Release Date: Jun 24, 2026
+Price: Free to Play
+Genres: Casual, Simulation, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4420570
+==================================================
+
+==================================================
+Name: Succubus Successor: Delilah's Juicy Journey
+Release Date: Jun 24, 2026
+Price: $13.49 (-10%, was $14.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/3628950
+==================================================
+
+==================================================
+Name: 四方行
+Release Date: Jun 24, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: RPG, Simulation, Strategy
+Link: https://store.steampowered.com/app/4710460
+==================================================
+
+==================================================
+Name: Don't Knife Me!
+Release Date: Jun 23, 2026
+Price: Free to Play
+Genres: Casual, Free To Play
+Link: https://store.steampowered.com/app/4667580
+==================================================
+
+==================================================
+Name: They Left in a Hurry: A Hidden Object Home
+Release Date: Jun 23, 2026
+Price: $3.59 (-10%, was $3.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4417080
+==================================================
+
+==================================================
+Name: 我的璀璨男友
+Release Date: Jun 23, 2026
+Price: $7.72 (-40%, was $12.88)
+Genres: Adventure, Casual, RPG, Simulation
+Link: https://store.steampowered.com/app/4654620
+==================================================
+
+==================================================
+Name: FlyMuse
+Release Date: Jun 23, 2026
+Price: $11.89 (-15%, was $13.99)
+Genres: Casual, Simulation
+Link: https://store.steampowered.com/app/4048320
+==================================================
+
+==================================================
+Name: Ninja Cat Remewstered
+Release Date: Jun 23, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4409630
+==================================================
+
+==================================================
+Name: Nightmare Farm
+Release Date: Jun 23, 2026
+Price: $4.89 (-30%, was $6.99)
+Genres: Casual, Simulation
+Link: https://store.steampowered.com/app/4070820
+==================================================
+
+==================================================
+Name: SubPrime Delivery
+Release Date: Jun 23, 2026
+Price: $4.99
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4295050
+==================================================
+
