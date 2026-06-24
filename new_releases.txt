@@ -33385,3 +33385,70 @@ Genres: Action
 Link: https://store.steampowered.com/app/3920990
 ==================================================
 
+
+--- Run: 2026-06-24 20:25:29 --- (8 new game(s) found)
+
+==================================================
+Name: BLORBIT
+Release Date: Jun 24, 2026
+Price: $6.79 (-15%, was $7.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4826370
+==================================================
+
+==================================================
+Name: Rakete
+Release Date: Jun 24, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Action, Indie, Racing, Simulation
+Link: https://store.steampowered.com/app/3814090
+==================================================
+
+==================================================
+Name: Medieval Fantasy
+Release Date: Jun 24, 2026
+Price: $0.74 (-25%, was $0.99)
+Genres: Adventure, RPG
+Link: https://store.steampowered.com/app/4750230
+==================================================
+
+==================================================
+Name: Wantama☆Life
+Release Date: Jun 24, 2026
+Price: $24.99
+Genres: Adventure, Casual, Simulation
+Link: https://store.steampowered.com/app/4550170
+==================================================
+
+==================================================
+Name: Your Balls
+Release Date: Jun 24, 2026
+Price: $1.19 (-40%, was $1.99)
+Genres: Casual, Simulation
+Link: https://store.steampowered.com/app/4665490
+==================================================
+
+==================================================
+Name: The Rise of the New Han Prince 2
+Release Date: Jun 24, 2026
+Price: $7.19 (-20%, was $8.99)
+Genres: RPG
+Link: https://store.steampowered.com/app/3296530
+==================================================
+
+==================================================
+Name: 简单的小游戏
+Release Date: Jun 24, 2026
+Price: $0.99
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4294100
+==================================================
+
+==================================================
+Name: Roulette Salon - The Ultimate Casino Roulette Simulator
+Release Date: Jun 24, 2026
+Price: $3.99
+Genres: Casual, Simulation, Strategy
+Link: https://store.steampowered.com/app/4816650
+==================================================
+
