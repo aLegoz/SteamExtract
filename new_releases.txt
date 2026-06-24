@@ -33096,3 +33096,94 @@ Genres: Casual, Indie
 Link: https://store.steampowered.com/app/4295050
 ==================================================
 
+
+--- Run: 2026-06-24 13:09:23 --- (11 new game(s) found)
+
+==================================================
+Name: Extreme Racing Line
+Release Date: Jun 24, 2026
+Price: $13.49 (-10%, was $14.99)
+Genres: Indie, Racing, Simulation
+Link: https://store.steampowered.com/app/4550820
+==================================================
+
+==================================================
+Name: Slice To Meet You
+Release Date: Jun 24, 2026
+Price: $3.39 (-15%, was $3.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4768660
+==================================================
+
+==================================================
+Name: Fortune Fragments
+Release Date: Jun 24, 2026
+Price: $13.59 (-15%, was $15.99)
+Genres: Casual, Indie, RPG
+Link: https://store.steampowered.com/app/3601160
+==================================================
+
+==================================================
+Name: Spirimonz
+Release Date: Jun 24, 2026
+Price: $4.99
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4758140
+==================================================
+
+==================================================
+Name: YGGDRA: SURVIVOR
+Release Date: Jun 24, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Action, Indie, RPG
+Link: https://store.steampowered.com/app/4513640
+==================================================
+
+==================================================
+Name: NTR Live Broadcast!? While on Phone with Her Boyfriend, From Behind...
+Release Date: Jun 24, 2026
+Price: $1.79 (-10%, was $1.99)
+Genres: Casual, Simulation
+Link: https://store.steampowered.com/app/4583820
+==================================================
+
+==================================================
+Name: Hexara
+Release Date: Jun 24, 2026
+Price: $3.49 (-30%, was $4.99)
+Genres: Casual, Strategy
+Link: https://store.steampowered.com/app/4600140
+==================================================
+
+==================================================
+Name: Dote On Me: Desktop Pet
+Release Date: Jun 23, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Casual, Indie, Massively Multiplayer, RPG, Simulation
+Link: https://store.steampowered.com/app/4298720
+==================================================
+
+==================================================
+Name: Jump King Clicker
+Release Date: Jun 23, 2026
+Price: $1.19 (-40%, was $1.99)
+Genres: Casual, Simulation
+Link: https://store.steampowered.com/app/4584450
+==================================================
+
+==================================================
+Name: Redline JDM Drift
+Release Date: Jun 23, 2026
+Price: $2.99 (-40%, was $4.99)
+Genres: Racing
+Link: https://store.steampowered.com/app/4524460
+==================================================
+
+==================================================
+Name: Last Decree
+Release Date: Jun 23, 2026
+Price: $7.99
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/4372750
+==================================================
+
