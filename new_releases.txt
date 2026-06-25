@@ -33522,3 +33522,102 @@ Genres: Action, Adventure
 Link: https://store.steampowered.com/app/4469100
 ==================================================
 
+
+--- Run: 2026-06-25 02:08:16 --- (12 new game(s) found)
+
+==================================================
+Name: Omen Exitio: Hunger
+Release Date: Jun 24, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/1466520
+==================================================
+
+==================================================
+Name: Love in Summer
+Release Date: Jun 24, 2026
+Price: $6.39 (-20%, was $7.99)
+Genres: Casual, Indie, RPG, Simulation
+Link: https://store.steampowered.com/app/3987560
+==================================================
+
+==================================================
+Name: Crosshair
+Release Date: Jun 24, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Utilities
+Link: https://store.steampowered.com/app/4286220
+==================================================
+
+==================================================
+Name: NAMCO LEGENDARY Mountains
+Release Date: Jun 24, 2026
+Price: $17.99 (-10%, was $19.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/4459850
+==================================================
+
+==================================================
+Name: DEAD OR ALIVE 6 Last Round
+Release Date: Jun 24, 2026
+Price: $39.99
+Genres: Action
+Link: https://store.steampowered.com/app/4144680
+==================================================
+
+==================================================
+Name: DEAD OR ALIVE 6 Last Round
+Release Date: Jun 24, 2026
+Price: $39.99
+Genres: Action
+Link: https://store.steampowered.com/app/4144680
+==================================================
+
+==================================================
+Name: Sex, Secrets & Used Tech
+Release Date: Jun 24, 2026
+Price: $15.29 (-10%, was $16.99)
+Genres: Casual, RPG, Simulation
+Link: https://store.steampowered.com/app/3576350
+==================================================
+
+==================================================
+Name: My Secret Summer Vacation
+Release Date: Jun 24, 2026
+Price: $6.39 (-20%, was $7.99)
+Genres: Adventure, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4677310
+==================================================
+
+==================================================
+Name: Rental Store Simulator
+Release Date: Jun 24, 2026
+Price: $7.99
+Genres: Casual, Simulation
+Link: https://store.steampowered.com/app/3217050
+==================================================
+
+==================================================
+Name: Breast Inspector
+Release Date: Jun 24, 2026
+Price: $4.50 (-10%, was $5.00)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4523970
+==================================================
+
+==================================================
+Name: Shop of Deals
+Release Date: Jun 24, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4584830
+==================================================
+
+==================================================
+Name: Maximum Pile-Up!
+Release Date: Jun 24, 2026
+Price: $4.19 (-30%, was $5.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4007040
+==================================================
+
