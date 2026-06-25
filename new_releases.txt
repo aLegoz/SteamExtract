@@ -33621,3 +33621,46 @@ Genres: Casual, Indie, Simulation
 Link: https://store.steampowered.com/app/4007040
 ==================================================
 
+
+--- Run: 2026-06-25 06:37:33 --- (5 new game(s) found)
+
+==================================================
+Name: Pyrewarden
+Release Date: Jun 24, 2026
+Price: $0.99
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/4774690
+==================================================
+
+==================================================
+Name: 摸鱼游戏合集Moya Game Pack
+Release Date: Jun 24, 2026
+Price: $0.89 (-10%, was $0.99)
+Genres: Casual, Indie, Racing, RPG, Simulation
+Link: https://store.steampowered.com/app/4708470
+==================================================
+
+==================================================
+Name: Jump Duck
+Release Date: Jun 24, 2026
+Price: $0.74 (-25%, was $0.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4698470
+==================================================
+
+==================================================
+Name: Let's Aim! Crane Game
+Release Date: Jun 24, 2026
+Price: $5.99 (-25%, was $7.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4794370
+==================================================
+
+==================================================
+Name: Kill Cast
+Release Date: Jun 24, 2026
+Price: $9.00 (-10%, was $10.00)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/2940150
+==================================================
+
