@@ -33664,3 +33664,62 @@ Genres: Action, Indie
 Link: https://store.steampowered.com/app/2940150
 ==================================================
 
+
+--- Run: 2026-06-25 10:00:19 --- (7 new game(s) found)
+
+==================================================
+Name: Guard Her
+Release Date: Jun 25, 2026
+Price: Free to Play
+Genres: Casual, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4762830
+==================================================
+
+==================================================
+Name: Pat the Cat
+Release Date: Jun 25, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/3924280
+==================================================
+
+==================================================
+Name: Kinetic TwinZ
+Release Date: Jun 25, 2026
+Price: Free to Play
+Genres: Action, Sports, Free To Play
+Link: https://store.steampowered.com/app/4196150
+==================================================
+
+==================================================
+Name: Nuclear Epoch
+Release Date: Jun 25, 2026
+Price: $12.74 (-15%, was $14.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4049910
+==================================================
+
+==================================================
+Name: 你的可爱老婆
+Release Date: Jun 25, 2026
+Price: $11.99 (-20%, was $14.99)
+Genres: Casual, Simulation
+Link: https://store.steampowered.com/app/3413000
+==================================================
+
+==================================================
+Name: Necromancer Delivery Service
+Release Date: Jun 25, 2026
+Price: $3.39 (-15%, was $3.99)
+Genres: Action, Racing
+Link: https://store.steampowered.com/app/4557560
+==================================================
+
+==================================================
+Name: Love Confessions on the Adventure
+Release Date: Jun 25, 2026
+Price: $9.89 (-10%, was $10.99)
+Genres: Casual, RPG, Simulation
+Link: https://store.steampowered.com/app/3633750
+==================================================
+
