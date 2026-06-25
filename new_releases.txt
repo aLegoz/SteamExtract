@@ -34079,3 +34079,118 @@ Genres: Casual, Indie, Simulation
 Link: https://store.steampowered.com/app/3859750
 ==================================================
 
+
+--- Run: 2026-06-25 22:14:39 --- (14 new game(s) found)
+
+==================================================
+Name: Demonherd Dungeon
+Release Date: Jun 25, 2026
+Price: $17.99 (-10%, was $19.99)
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/4116990
+==================================================
+
+==================================================
+Name: Nano CODE:X
+Release Date: Jun 25, 2026
+Price: Free to Play
+Genres: Indie, Free To Play
+Link: https://store.steampowered.com/app/4617260
+==================================================
+
+==================================================
+Name: Bring The Rift
+Release Date: Jun 25, 2026
+Price: $3.39 (-15%, was $3.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4631200
+==================================================
+
+==================================================
+Name: 箱舟キバウ
+Release Date: Jun 25, 2026
+Price: $0.59 (-40%, was $0.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4643000
+==================================================
+
+==================================================
+Name: Project XZ
+Release Date: Jun 25, 2026
+Price: $2.69 (-10%, was $2.99)
+Genres: Action, Indie, Strategy
+Link: https://store.steampowered.com/app/1771320
+==================================================
+
+==================================================
+Name: Bitvania
+Release Date: Jun 25, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Action, Adventure, Casual, RPG
+Link: https://store.steampowered.com/app/4546210
+==================================================
+
+==================================================
+Name: Mall Simulator Together
+Release Date: Jun 25, 2026
+Price: $7.19 (-40%, was $11.99)
+Genres: Indie, Massively Multiplayer, Simulation
+Link: https://store.steampowered.com/app/4594460
+==================================================
+
+==================================================
+Name: Huntsman Against Darkness
+Release Date: Jun 25, 2026
+Price: $5.39 (-40%, was $8.99)
+Genres: Action, Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4698720
+==================================================
+
+==================================================
+Name: Hentai Puzzle Simulator: Animal Orgasm 💦🔞[ADULT NSFW]
+Release Date: Jun 25, 2026
+Price: $0.59 (-40%, was $0.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4704470
+==================================================
+
+==================================================
+Name: Floor 12
+Release Date: Jun 25, 2026
+Price: $3.59 (-10%, was $3.99)
+Genres: Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/4804670
+==================================================
+
+==================================================
+Name: Slot or Die
+Release Date: Jun 25, 2026
+Price: $11.19 (-20%, was $13.99)
+Genres: Action, Casual, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/4339080
+==================================================
+
+==================================================
+Name: The Ferryman's Trial
+Release Date: Jun 25, 2026
+Price: $0.89 (-10%, was $0.99)
+Genres: Indie
+Link: https://store.steampowered.com/app/4769580
+==================================================
+
+==================================================
+Name: Sweet Dating
+Release Date: Jun 25, 2026
+Price: $0.89 (-10%, was $0.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4528610
+==================================================
+
+==================================================
+Name: Pages of Zite
+Release Date: Jun 25, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Strategy
+Link: https://store.steampowered.com/app/4784740
+==================================================
+
