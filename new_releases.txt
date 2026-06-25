@@ -33723,3 +33723,54 @@ Genres: Casual, RPG, Simulation
 Link: https://store.steampowered.com/app/3633750
 ==================================================
 
+
+--- Run: 2026-06-25 12:22:37 --- (6 new game(s) found)
+
+==================================================
+Name: Cubic Spree
+Release Date: Jun 25, 2026
+Price: $12.99
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4148410
+==================================================
+
+==================================================
+Name: Depths
+Release Date: Jun 25, 2026
+Price: Free to Play
+Genres: Free To Play
+Link: https://store.steampowered.com/app/4808100
+==================================================
+
+==================================================
+Name: MARBLE MIRAGE
+Release Date: Jun 25, 2026
+Price: $17.99 (-10%, was $19.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4048170
+==================================================
+
+==================================================
+Name: Project Threshold
+Release Date: Jun 25, 2026
+Price: $2.39 (-20%, was $2.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4820610
+==================================================
+
+==================================================
+Name: Full Thrust at Work
+Release Date: Jun 25, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4575490
+==================================================
+
+==================================================
+Name: 摸鱼悟道
+Release Date: Jun 24, 2026
+Price: $1.19 (-40%, was $1.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/4791840
+==================================================
+
