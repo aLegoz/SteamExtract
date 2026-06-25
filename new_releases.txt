@@ -33774,3 +33774,126 @@ Genres: Casual
 Link: https://store.steampowered.com/app/4791840
 ==================================================
 
+
+--- Run: 2026-06-25 15:35:59 --- (15 new game(s) found)
+
+==================================================
+Name: Left Fore Dead: Zombie Battle Golf
+Release Date: Jun 25, 2026
+Price: Free to Play
+Genres: Action, Casual, Indie, Sports
+Link: https://store.steampowered.com/app/4626000
+==================================================
+
+==================================================
+Name: Saga Onirica: Angelic Engine
+Release Date: Jun 25, 2026
+Price: Free to Play
+Genres: Action, Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/4123060
+==================================================
+
+==================================================
+Name: Bittersweet Blossoms
+Release Date: Jun 25, 2026
+Price: Free to Play
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/3429340
+==================================================
+
+==================================================
+Name: Outta Space
+Release Date: Jun 25, 2026
+Price: Free to Play
+Genres: Casual, Free To Play
+Link: https://store.steampowered.com/app/4616690
+==================================================
+
+==================================================
+Name: Moka Love Relive♪
+Release Date: Jun 25, 2026
+Price: Free to Play
+Genres: Casual, Simulation
+Link: https://store.steampowered.com/app/4033150
+==================================================
+
+==================================================
+Name: Never Ending Hero RPG
+Release Date: Jun 25, 2026
+Price: Free to Play
+Genres: Action, Adventure, Casual, Indie, RPG, Free To Play
+Link: https://store.steampowered.com/app/4789260
+==================================================
+
+==================================================
+Name: City Lights Love Bites Season 1 - The Reset
+Release Date: Jun 25, 2026
+Price: $3.39 (-15%, was $3.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4773840
+==================================================
+
+==================================================
+Name: All one click
+Release Date: Jun 25, 2026
+Price: $1.79 (-10%, was $1.99)
+Genres: Action, Casual, Indie, RPG, Simulation
+Link: https://store.steampowered.com/app/2588750
+==================================================
+
+==================================================
+Name: Apestin Explorer
+Release Date: Jun 25, 2026
+Price: $5.03 (-37%, was $7.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4729520
+==================================================
+
+==================================================
+Name: Soccerboy vs Aliens
+Release Date: Jun 25, 2026
+Price: Free to Play
+Genres: Action, Indie, Sports, Free To Play
+Link: https://store.steampowered.com/app/3562500
+==================================================
+
+==================================================
+Name: KIYO - Bunny Tyranny
+Release Date: Jun 25, 2026
+Price: $12.74 (-15%, was $14.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/2466790
+==================================================
+
+==================================================
+Name: Critter Quest
+Release Date: Jun 25, 2026
+Price: $0.59 (-40%, was $0.99)
+Genres: RPG
+Link: https://store.steampowered.com/app/4799700
+==================================================
+
+==================================================
+Name: 7 Nights with Vroombi
+Release Date: Jun 25, 2026
+Price: $3.39 (-15%, was $3.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/3992580
+==================================================
+
+==================================================
+Name: Blood Park
+Release Date: Jun 25, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Action
+Link: https://store.steampowered.com/app/4703570
+==================================================
+
+==================================================
+Name: Mechanical Defense Line
+Release Date: Jun 25, 2026
+Price: $3.49 (-30%, was $4.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4505490
+==================================================
+
