@@ -34194,3 +34194,14 @@ Genres: Strategy
 Link: https://store.steampowered.com/app/4784740
 ==================================================
 
+
+--- Run: 2026-06-26 00:01:54 --- (1 new game(s) found)
+
+==================================================
+Name: PUPILLARY
+Release Date: Jun 25, 2026
+Price: $2.49
+Genres: Indie
+Link: https://store.steampowered.com/app/4659450
+==================================================
+
