@@ -34601,3 +34601,70 @@ Genres: Action, Casual, Indie, RPG, Simulation
 Link: https://store.steampowered.com/app/4827230
 ==================================================
 
+
+--- Run: 2026-06-26 16:05:18 --- (8 new game(s) found)
+
+==================================================
+Name: Sky Sword Strategy
+Release Date: Jun 26, 2026
+Price: $4.79 (-20%, was $5.99)
+Genres: Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/4587630
+==================================================
+
+==================================================
+Name: Battle Live! The Idol School Collection
+Release Date: Coming soon
+Price: Free to Play
+Genres: Casual, Indie, Simulation, Free To Play
+Link: https://store.steampowered.com/app/4211370
+==================================================
+
+==================================================
+Name: Rapta
+Release Date: Jul 12, 2024
+Price: $3.99 (-20%, was $4.99)
+Genres: Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/2944670
+==================================================
+
+==================================================
+Name: Colorace
+Release Date: Jun 26, 2026
+Price: $1.79 (-10%, was $1.99)
+Genres: Casual, Indie, Racing, Strategy
+Link: https://store.steampowered.com/app/4750850
+==================================================
+
+==================================================
+Name: Starmageddon
+Release Date: Jun 26, 2026
+Price: Free to Play
+Genres: Action, Indie, Free To Play
+Link: https://store.steampowered.com/app/4008040
+==================================================
+
+==================================================
+Name: Pixelords
+Release Date: Jun 26, 2026
+Price: Free to Play
+Genres: Casual, Indie, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4510260
+==================================================
+
+==================================================
+Name: Count Down
+Release Date: Jun 26, 2026
+Price: Free to Play
+Genres: Action, Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/4801780
+==================================================
+
+==================================================
+Name: Scarlet Backrooms
+Release Date: Jun 26, 2026
+Price: $4.99
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/2859420
+==================================================
+
