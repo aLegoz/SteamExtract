@@ -34205,3 +34205,94 @@ Genres: Indie
 Link: https://store.steampowered.com/app/4659450
 ==================================================
 
+
+--- Run: 2026-06-26 05:00:54 --- (11 new game(s) found)
+
+==================================================
+Name: Deluge
+Release Date: Jun 25, 2026
+Price: $7.49 (-25%, was $9.99)
+Genres: Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/3779440
+==================================================
+
+==================================================
+Name: Train45
+Release Date: Jun 25, 2026
+Price: $9.89 (-10%, was $10.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/3711590
+==================================================
+
+==================================================
+Name: DOO DOO VILLAGE
+Release Date: Jun 25, 2026
+Price: $2.99
+Genres: RPG
+Link: https://store.steampowered.com/app/4582850
+==================================================
+
+==================================================
+Name: Hunt And Peck
+Release Date: Jun 25, 2026
+Price: $2.69 (-10%, was $2.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4347810
+==================================================
+
+==================================================
+Name: Demon Princess Retreat
+Release Date: Jun 25, 2026
+Price: $3.39 (-15%, was $3.99)
+Genres: Indie, RPG, Simulation, Strategy
+Link: https://store.steampowered.com/app/4593710
+==================================================
+
+==================================================
+Name: CARTAGRA
+Release Date: Jun 25, 2026
+Price: $31.49 (-10%, was $34.99)
+Genres: Adventure
+Link: https://store.steampowered.com/app/4290390
+==================================================
+
+==================================================
+Name: Lord Of The Trough
+Release Date: Jun 25, 2026
+Price: Free to Play
+Genres: Action, Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/4698860
+==================================================
+
+==================================================
+Name: REMinal
+Release Date: Jun 25, 2026
+Price: Free to Play
+Genres: Adventure, Indie, Free To Play
+Link: https://store.steampowered.com/app/4731670
+==================================================
+
+==================================================
+Name: STEEL SERAPHIM: PROVING GROUNDS
+Release Date: Jun 25, 2026
+Price: $4.68 (-33%, was $6.99)
+Genres: Action
+Link: https://store.steampowered.com/app/4756670
+==================================================
+
+==================================================
+Name: House of Temptations
+Release Date: Jun 25, 2026
+Price: $4.49 (-25%, was $5.99)
+Genres: Adventure, Casual, Simulation
+Link: https://store.steampowered.com/app/4793110
+==================================================
+
+==================================================
+Name: Dark Descent
+Release Date: Jun 25, 2026
+Price: $4.19 (-30%, was $5.99)
+Genres: Action, Strategy
+Link: https://store.steampowered.com/app/3210260
+==================================================
+
