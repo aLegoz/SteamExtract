@@ -34296,3 +34296,70 @@ Genres: Action, Strategy
 Link: https://store.steampowered.com/app/3210260
 ==================================================
 
+
+--- Run: 2026-06-26 08:45:53 --- (8 new game(s) found)
+
+==================================================
+Name: Eyes Of The Factory
+Release Date: Jun 26, 2026
+Price: $3.29 (-40%, was $5.49)
+Genres: Action, Adventure, Casual, Strategy
+Link: https://store.steampowered.com/app/4823380
+==================================================
+
+==================================================
+Name: 漢字でGOGO!
+Release Date: Jun 26, 2026
+Price: $1.35 (-10%, was $1.50)
+Genres: Simulation
+Link: https://store.steampowered.com/app/4826530
+==================================================
+
+==================================================
+Name: 爪爪改造家2 PawRebuild 2
+Release Date: Jun 26, 2026
+Price: $1.19 (-40%, was $1.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4825980
+==================================================
+
+==================================================
+Name: Challenge 99
+Release Date: Jun 26, 2026
+Price: $9.99
+Genres: Indie
+Link: https://store.steampowered.com/app/4676670
+==================================================
+
+==================================================
+Name: A Lost Man
+Release Date: Jun 25, 2026
+Price: $7.64 (-15%, was $8.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4379960
+==================================================
+
+==================================================
+Name: The Cursed Ward
+Release Date: Jun 25, 2026
+Price: $11.89 (-15%, was $13.99)
+Genres: Action
+Link: https://store.steampowered.com/app/4254900
+==================================================
+
+==================================================
+Name: 染上你的颜色
+Release Date: Jun 25, 2026
+Price: $1.59 (-20%, was $1.99)
+Genres: Indie, RPG
+Link: https://store.steampowered.com/app/4831190
+==================================================
+
+==================================================
+Name: Fu Sha 3: Night Clinic
+Release Date: Jun 25, 2026
+Price: $1.59 (-20%, was $1.99)
+Genres: Adventure, Casual, Indie, RPG
+Link: https://store.steampowered.com/app/4735070
+==================================================
+
