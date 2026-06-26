@@ -34363,3 +34363,118 @@ Genres: Adventure, Casual, Indie, RPG
 Link: https://store.steampowered.com/app/4735070
 ==================================================
 
+
+--- Run: 2026-06-26 11:37:04 --- (14 new game(s) found)
+
+==================================================
+Name: Painting PC
+Release Date: Coming soon
+Price: $8.99 (-10%, was $9.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4521680
+==================================================
+
+==================================================
+Name: Top Bins
+Release Date: Jun 26, 2026
+Price: $2.99
+Genres: Casual, Sports, Strategy
+Link: https://store.steampowered.com/app/4819080
+==================================================
+
+==================================================
+Name: Cure for Danmaku Synd
+Release Date: Jun 26, 2026
+Price: $5.24 (-25%, was $6.99)
+Genres: Action, Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/4328580
+==================================================
+
+==================================================
+Name: Infinite Evo TD
+Release Date: Jun 26, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Casual, Indie, RPG, Simulation, Strategy
+Link: https://store.steampowered.com/app/4288940
+==================================================
+
+==================================================
+Name: Deadly Obsession
+Release Date: Jun 26, 2026
+Price: Free to Play
+Genres: Indie, Free To Play
+Link: https://store.steampowered.com/app/4606070
+==================================================
+
+==================================================
+Name: The Button Maze
+Release Date: Jun 26, 2026
+Price: Free to Play
+Genres: Adventure, Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/4825770
+==================================================
+
+==================================================
+Name: Geckos & Deckos
+Release Date: Jun 26, 2026
+Price: Free to Play
+Genres: Casual, Indie, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4179860
+==================================================
+
+==================================================
+Name: Lofi Lagoon
+Release Date: Jun 26, 2026
+Price: $4.99
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4784360
+==================================================
+
+==================================================
+Name: Cozy Mining
+Release Date: Jun 26, 2026
+Price: $5.94 (-15%, was $6.99)
+Genres: Casual, Simulation, Strategy
+Link: https://store.steampowered.com/app/4283650
+==================================================
+
+==================================================
+Name: FILL IT
+Release Date: Jun 26, 2026
+Price: $2.39 (-20%, was $2.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4835130
+==================================================
+
+==================================================
+Name: Hentai Tales: Deep Sea Breeding
+Release Date: Jun 26, 2026
+Price: $0.59 (-40%, was $0.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4703070
+==================================================
+
+==================================================
+Name: A Game About Bouncing DVD
+Release Date: Jun 25, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4324900
+==================================================
+
+==================================================
+Name: Backrooms: Exit 8
+Release Date: Jun 25, 2026
+Price: $3.59 (-10%, was $3.99)
+Genres: Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4833100
+==================================================
+
+==================================================
+Name: Missing: A Kid(s)Nap
+Release Date: Jun 25, 2026
+Price: $4.99
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/4672470
+==================================================
+
