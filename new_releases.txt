@@ -34668,3 +34668,118 @@ Genres: Adventure, Indie
 Link: https://store.steampowered.com/app/2859420
 ==================================================
 
+
+--- Run: 2026-06-26 18:20:49 --- (14 new game(s) found)
+
+==================================================
+Name: The Tartarus Loop
+Release Date: Jun 26, 2026
+Price: Free to Play
+Genres: Action, Adventure, Free To Play
+Link: https://store.steampowered.com/app/4818930
+==================================================
+
+==================================================
+Name: Bal Institute
+Release Date: Jun 26, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: Action, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4628480
+==================================================
+
+==================================================
+Name: Naked Man
+Release Date: Jun 26, 2026
+Price: $4.99
+Genres: Action
+Link: https://store.steampowered.com/app/4808800
+==================================================
+
+==================================================
+Name: Unquiet Grey
+Release Date: Jun 26, 2026
+Price: Free to Play
+Genres: Adventure, Free To Play
+Link: https://store.steampowered.com/app/4309120
+==================================================
+
+==================================================
+Name: Solderia - Fall of Kings
+Release Date: Jun 26, 2026
+Price: Free to Play
+Genres: Massively Multiplayer, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4450300
+==================================================
+
+==================================================
+Name: Lil' Quests
+Release Date: Jun 26, 2026
+Price: Free to Play
+Genres: Action, Adventure, Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/4738420
+==================================================
+
+==================================================
+Name: Dungeon Dilemma
+Release Date: Jun 26, 2026
+Price: Free to Play
+Genres: Action, Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/4535970
+==================================================
+
+==================================================
+Name: Raining Cats and Dogs
+Release Date: Jun 26, 2026
+Price: $5.99
+Genres: Casual
+Link: https://store.steampowered.com/app/3572060
+==================================================
+
+==================================================
+Name: Till Midnight
+Release Date: Jun 26, 2026
+Price: Free to Play
+Genres: Simulation, Free To Play
+Link: https://store.steampowered.com/app/4808270
+==================================================
+
+==================================================
+Name: Eyes of the Forest
+Release Date: Jun 26, 2026
+Price: Free to Play
+Genres: Adventure, Free To Play
+Link: https://store.steampowered.com/app/4395790
+==================================================
+
+==================================================
+Name: Radial Chess
+Release Date: Jun 26, 2026
+Price: $2.00 (-33%, was $2.99)
+Genres: Strategy
+Link: https://store.steampowered.com/app/4746640
+==================================================
+
+==================================================
+Name: Clover's Quadrants
+Release Date: Jun 26, 2026
+Price: $8.49 (-15%, was $9.99)
+Genres: Indie
+Link: https://store.steampowered.com/app/3191170
+==================================================
+
+==================================================
+Name: Threshold of Awakening
+Release Date: Jun 26, 2026
+Price: $10.79 (-10%, was $11.99)
+Genres: Indie
+Link: https://store.steampowered.com/app/2629550
+==================================================
+
+==================================================
+Name: Villain Hitting
+Release Date: Jun 26, 2026
+Price: $0.59 (-40%, was $0.99)
+Genres: Casual, Simulation, Education, Utilities, Video Production
+Link: https://store.steampowered.com/app/4827870
+==================================================
+
