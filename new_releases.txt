@@ -34861,3 +34861,70 @@ Genres: Action
 Link: https://store.steampowered.com/app/4101110
 ==================================================
 
+
+--- Run: 2026-06-26 23:06:18 --- (8 new game(s) found)
+
+==================================================
+Name: Blood Gauntlet
+Release Date: Jun 26, 2026
+Price: $1.94 (-35%, was $2.99)
+Genres: Action
+Link: https://store.steampowered.com/app/4400980
+==================================================
+
+==================================================
+Name: Interaktivně o Liberci
+Release Date: Jun 26, 2026
+Price: Free to Play
+Genres: Adventure, Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/3778780
+==================================================
+
+==================================================
+Name: Coastal Summit Sports: College Athletics 27
+Release Date: Jun 26, 2026
+Price: $13.59 (-15%, was $15.99)
+Genres: Simulation, Sports, Strategy
+Link: https://store.steampowered.com/app/4692340
+==================================================
+
+==================================================
+Name: Puzzle
+Release Date: Jun 26, 2026
+Price: $1.19 (-40%, was $1.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4520500
+==================================================
+
+==================================================
+Name: Never Trust a Fox
+Release Date: Jun 26, 2026
+Price: $5.99 (-25%, was $7.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/2890650
+==================================================
+
+==================================================
+Name: Sepulchre Machine
+Release Date: Jun 26, 2026
+Price: $5.99 (-40%, was $9.99)
+Genres: Indie
+Link: https://store.steampowered.com/app/4821000
+==================================================
+
+==================================================
+Name: THE ANOMALY UNIT
+Release Date: Jun 26, 2026
+Price: $3.59 (-10%, was $3.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/4300190
+==================================================
+
+==================================================
+Name: Altus Chess-Archaic Beginnings
+Release Date: Jun 26, 2026
+Price: $24.99
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4724410
+==================================================
+
