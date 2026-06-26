@@ -34783,3 +34783,70 @@ Genres: Casual, Simulation, Education, Utilities, Video Production
 Link: https://store.steampowered.com/app/4827870
 ==================================================
 
+
+--- Run: 2026-06-26 20:27:51 --- (8 new game(s) found)
+
+==================================================
+Name: The Naysayer
+Release Date: Jun 26, 2026
+Price: Free to Play
+Genres: Adventure, Free To Play
+Link: https://store.steampowered.com/app/4681970
+==================================================
+
+==================================================
+Name: Balance It!
+Release Date: Jun 26, 2026
+Price: $2.99
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4794930
+==================================================
+
+==================================================
+Name: VantGrid
+Release Date: Jun 26, 2026
+Price: $5.94 (-15%, was $6.99)
+Genres: Audio Production, Utilities
+Link: https://store.steampowered.com/app/4787760
+==================================================
+
+==================================================
+Name: Signal
+Release Date: Jun 26, 2026
+Price: $1.19 (-40%, was $1.99)
+Genres: Adventure, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4783160
+==================================================
+
+==================================================
+Name: Worm Life
+Release Date: Jun 26, 2026
+Price: $1.99
+Genres: Casual, Simulation, Strategy
+Link: https://store.steampowered.com/app/4820220
+==================================================
+
+==================================================
+Name: Station Nexus
+Release Date: Jun 26, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Adventure, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4385820
+==================================================
+
+==================================================
+Name: Arcanion: The Mekanos Invasion
+Release Date: Jun 26, 2026
+Price: $11.69 (-10%, was $12.99)
+Genres: Action, Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4465460
+==================================================
+
+==================================================
+Name: Proper Puzzles
+Release Date: Jun 26, 2026
+Price: $3.49 (-30%, was $4.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4831070
+==================================================
+
