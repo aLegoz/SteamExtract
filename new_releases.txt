@@ -34478,3 +34478,126 @@ Genres: Indie, Simulation
 Link: https://store.steampowered.com/app/4672470
 ==================================================
 
+
+--- Run: 2026-06-26 13:56:05 --- (15 new game(s) found)
+
+==================================================
+Name: nophenia
+Release Date: Jun 26, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Adventure, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/3979330
+==================================================
+
+==================================================
+Name: Curling
+Release Date: Jun 26, 2026
+Price: Free to Play
+Genres: Simulation, Sports, Free To Play
+Link: https://store.steampowered.com/app/4439050
+==================================================
+
+==================================================
+Name: Code, Solve, Revolt!
+Release Date: Jun 26, 2026
+Price: $8.39 (-30%, was $11.99)
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/2562040
+==================================================
+
+==================================================
+Name: My Sexy Photo Store: Alice
+Release Date: Jun 26, 2026
+Price: $2.69 (-10%, was $2.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4781550
+==================================================
+
+==================================================
+Name: A Mystic Journey With : Flora
+Release Date: Jun 26, 2026
+Price: $2.69 (-10%, was $2.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4763530
+==================================================
+
+==================================================
+Name: A Lucky Hunt With : Myrina
+Release Date: Jun 26, 2026
+Price: Free to Play
+Genres: Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/4734060
+==================================================
+
+==================================================
+Name: Wild West Supermarket Simulator
+Release Date: Jun 26, 2026
+Price: $7.79 (-40%, was $12.99)
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/3690760
+==================================================
+
+==================================================
+Name: Template!! An Angel's Gift
+Release Date: Jun 26, 2026
+Price: $19.99 (-20%, was $24.99)
+Genres: Adventure, Casual, RPG
+Link: https://store.steampowered.com/app/4567710
+==================================================
+
+==================================================
+Name: Operation Obliteration 2
+Release Date: Jun 26, 2026
+Price: $16.90 (-15%, was $19.89)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4257370
+==================================================
+
+==================================================
+Name: Terra Lapsa: After Ragnarök
+Release Date: Jun 26, 2026
+Price: $9.99
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/4734090
+==================================================
+
+==================================================
+Name: Don't Sleep With The Fishes
+Release Date: Jun 26, 2026
+Price: $1.79 (-10%, was $1.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4834070
+==================================================
+
+==================================================
+Name: Billionaire in the Greedy America
+Release Date: Jun 26, 2026
+Price: $7.19 (-10%, was $7.99)
+Genres: Simulation, Strategy
+Link: https://store.steampowered.com/app/4566580
+==================================================
+
+==================================================
+Name: storage activity indicator
+Release Date: Jun 26, 2026
+Price: $2.99
+Genres: Utilities
+Link: https://store.steampowered.com/app/4763190
+==================================================
+
+==================================================
+Name: 《失格》the lost
+Release Date: Jun 26, 2026
+Price: $0.99
+Genres: Casual, Strategy
+Link: https://store.steampowered.com/app/4825870
+==================================================
+
+==================================================
+Name: Click and Cast
+Release Date: Jun 26, 2026
+Price: $1.19 (-40%, was $1.99)
+Genres: Action, Casual, Indie, RPG, Simulation
+Link: https://store.steampowered.com/app/4827230
+==================================================
+
