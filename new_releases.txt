@@ -35192,3 +35192,22 @@ Genres: RPG, Strategy, Free To Play
 Link: https://store.steampowered.com/app/982380
 ==================================================
 
+
+--- Run: 2026-06-27 18:59:42 --- (2 new game(s) found)
+
+==================================================
+Name: Finding Lake Chewaucan
+Release Date: Jun 27, 2026
+Price: Free to Play
+Genres: Simulation, Free To Play
+Link: https://store.steampowered.com/app/3512920
+==================================================
+
+==================================================
+Name: Fabricatio
+Release Date: Jun 27, 2026
+Price: Free to Play
+Genres: Casual, Indie, Simulation, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4834620
+==================================================
+
