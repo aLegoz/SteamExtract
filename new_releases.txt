@@ -35211,3 +35211,22 @@ Genres: Casual, Indie, Simulation, Strategy, Free To Play
 Link: https://store.steampowered.com/app/4834620
 ==================================================
 
+
+--- Run: 2026-06-27 21:51:10 --- (2 new game(s) found)
+
+==================================================
+Name: Covet the Countdown
+Release Date: Jun 27, 2026
+Price: $4.19 (-40%, was $6.99)
+Genres: Adventure, Simulation
+Link: https://store.steampowered.com/app/4800630
+==================================================
+
+==================================================
+Name: The Therapist Impostor
+Release Date: Jun 27, 2026
+Price: $4.99
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4761810
+==================================================
+
