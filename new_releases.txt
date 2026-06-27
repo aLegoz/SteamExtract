@@ -35111,3 +35111,46 @@ Genres: Casual
 Link: https://store.steampowered.com/app/4801330
 ==================================================
 
+
+--- Run: 2026-06-27 14:21:07 --- (5 new game(s) found)
+
+==================================================
+Name: Seven Rounds
+Release Date: Jun 27, 2026
+Price: Free to Play
+Genres: Action, Casual, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4838390
+==================================================
+
+==================================================
+Name: Touhou Defense Tale ~ AI Test in Touhou ~
+Release Date: Jun 27, 2026
+Price: Free to Play
+Genres: Casual, Indie, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4738660
+==================================================
+
+==================================================
+Name: Ocean Planet
+Release Date: Jun 27, 2026
+Price: Free to Play
+Genres: Action, Adventure, Indie, Strategy, Free To Play
+Link: https://store.steampowered.com/app/3586470
+==================================================
+
+==================================================
+Name: Godius Eternal War
+Release Date: Jun 27, 2026
+Price: Free to Play
+Genres: Action, Adventure, Indie, Massively Multiplayer, RPG, Free To Play
+Link: https://store.steampowered.com/app/4559140
+==================================================
+
+==================================================
+Name: JAM Adventures
+Release Date: Jun 26, 2026
+Price: $4.99
+Genres: Indie
+Link: https://store.steampowered.com/app/4655090
+==================================================
+
