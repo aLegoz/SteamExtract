@@ -34995,3 +34995,38 @@ Genres: Action, Casual, Indie, Strategy
 Link: https://store.steampowered.com/app/4808170
 ==================================================
 
+
+--- Run: 2026-06-27 05:47:15 --- (4 new game(s) found)
+
+==================================================
+Name: The Colors of Love - Re-Colored
+Release Date: Jun 26, 2026
+Price: Free to Play
+Genres: Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/4817600
+==================================================
+
+==================================================
+Name: Book Organizer
+Release Date: Jun 26, 2026
+Price: $5.99
+Genres: Casual, Simulation
+Link: https://store.steampowered.com/app/4774660
+==================================================
+
+==================================================
+Name: 这张不算 This One Doesn't Count
+Release Date: Jun 26, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Adventure, Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4602730
+==================================================
+
+==================================================
+Name: Wizards 95
+Release Date: Jun 26, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4610800
+==================================================
+
