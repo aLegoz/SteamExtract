@@ -35181,3 +35181,14 @@ Genres: Indie
 Link: https://store.steampowered.com/app/4269740
 ==================================================
 
+
+--- Run: 2026-06-27 17:01:54 --- (1 new game(s) found)
+
+==================================================
+Name: Gods and Kings
+Release Date: Jun 27, 2026
+Price: Free to Play
+Genres: RPG, Strategy, Free To Play
+Link: https://store.steampowered.com/app/982380
+==================================================
+
