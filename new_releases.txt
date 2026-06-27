@@ -34928,3 +34928,70 @@ Genres: Casual, Indie, Simulation, Strategy
 Link: https://store.steampowered.com/app/4724410
 ==================================================
 
+
+--- Run: 2026-06-27 01:56:57 --- (8 new game(s) found)
+
+==================================================
+Name: Puzzles Desert
+Release Date: Jun 26, 2026
+Price: $0.59 (-40%, was $0.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4749170
+==================================================
+
+==================================================
+Name: The Minesweeper
+Release Date: Jun 26, 2026
+Price: $2.99 (-40%, was $4.99)
+Genres: Action, Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4292440
+==================================================
+
+==================================================
+Name: Dynasty!
+Release Date: Jun 26, 2026
+Price: $9.74 (-35%, was $14.99)
+Genres: Indie, Simulation, Sports, Strategy
+Link: https://store.steampowered.com/app/4796920
+==================================================
+
+==================================================
+Name: Codex Combat
+Release Date: Jun 26, 2026
+Price: $6.79 (-15%, was $7.99)
+Genres: Adventure, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/2974020
+==================================================
+
+==================================================
+Name: Naughty Nate : Tattoo
+Release Date: Jun 26, 2026
+Price: $5.09 (-15%, was $5.99)
+Genres: RPG
+Link: https://store.steampowered.com/app/4212640
+==================================================
+
+==================================================
+Name: Swarmbound
+Release Date: Jun 26, 2026
+Price: $2.24 (-25%, was $2.99)
+Genres: Action, Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4522710
+==================================================
+
+==================================================
+Name: ISLAND OF VALKYRIES
+Release Date: Jun 26, 2026
+Price: $7.19 (-40%, was $11.99)
+Genres: Action, Adventure, Indie, RPG, Simulation
+Link: https://store.steampowered.com/app/4534590
+==================================================
+
+==================================================
+Name: Skirmish
+Release Date: Jun 26, 2026
+Price: $0.99
+Genres: Action, Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4808170
+==================================================
+
