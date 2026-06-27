@@ -35092,3 +35092,22 @@ Genres: Action
 Link: https://store.steampowered.com/app/4729510
 ==================================================
 
+
+--- Run: 2026-06-27 12:05:56 --- (2 new game(s) found)
+
+==================================================
+Name: Battle Medal: Super Auto Chess Swarm War
+Release Date: Jun 27, 2026
+Price: $5.59 (-30%, was $7.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4568990
+==================================================
+
+==================================================
+Name: HexLemma
+Release Date: Jun 27, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/4801330
+==================================================
+
