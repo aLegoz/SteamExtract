@@ -35030,3 +35030,30 @@ Genres: Casual, Indie
 Link: https://store.steampowered.com/app/4610800
 ==================================================
 
+
+--- Run: 2026-06-27 08:23:10 --- (3 new game(s) found)
+
+==================================================
+Name: Lust Horizons
+Release Date: Jun 27, 2026
+Price: $14.99 (-25%, was $19.99)
+Genres: Action, Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/4818220
+==================================================
+
+==================================================
+Name: Space Invasion Infinite
+Release Date: Jun 27, 2026
+Price: $0.89 (-10%, was $0.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4755630
+==================================================
+
+==================================================
+Name: 大荒消劫录
+Release Date: Jun 26, 2026
+Price: $3.19 (-20%, was $3.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4385590
+==================================================
+
