@@ -35233,3 +35233,14 @@ Link: https://store.steampowered.com/app/4761810
 
 --- Run: 2026-06-27 22:51:02 --- (0 new game(s) found)
 
+
+--- Run: 2026-06-28 02:07:18 --- (1 new game(s) found)
+
+==================================================
+Name: Pion's Theorem
+Release Date: Jun 27, 2026
+Price: $6.99
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4612620
+==================================================
+
