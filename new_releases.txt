@@ -35290,3 +35290,14 @@ Genres: Casual, Indie, RPG, Strategy
 Link: https://store.steampowered.com/app/4630420
 ==================================================
 
+
+--- Run: 2026-06-28 13:08:47 --- (1 new game(s) found)
+
+==================================================
+Name: Slime Jamboree
+Release Date: Jun 27, 2026
+Price: $1.25
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4464670
+==================================================
+
