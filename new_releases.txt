@@ -35331,3 +35331,14 @@ Genres: RPG
 Link: https://store.steampowered.com/app/4396290
 ==================================================
 
+
+--- Run: 2026-06-28 17:57:13 --- (1 new game(s) found)
+
+==================================================
+Name: Integrity
+Release Date: Jun 28, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: Adventure, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/4306780
+==================================================
+
