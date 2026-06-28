@@ -35353,3 +35353,14 @@ Genres: Action
 Link: https://store.steampowered.com/app/4526620
 ==================================================
 
+
+--- Run: 2026-06-28 20:49:06 --- (1 new game(s) found)
+
+==================================================
+Name: This Game is Simple
+Release Date: Jun 28, 2026
+Price: Free to Play
+Genres: Adventure, Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/4330090
+==================================================
+
