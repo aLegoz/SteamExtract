@@ -35301,3 +35301,14 @@ Genres: Casual, Indie
 Link: https://store.steampowered.com/app/4464670
 ==================================================
 
+
+--- Run: 2026-06-28 15:08:57 --- (1 new game(s) found)
+
+==================================================
+Name: StyxVenture
+Release Date: Jun 28, 2026
+Price: Free to Play
+Genres: Indie, RPG, Free To Play
+Link: https://store.steampowered.com/app/4835800
+==================================================
+
