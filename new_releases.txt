@@ -35342,3 +35342,14 @@ Genres: Adventure, Indie, RPG, Strategy
 Link: https://store.steampowered.com/app/4306780
 ==================================================
 
+
+--- Run: 2026-06-28 19:08:27 --- (1 new game(s) found)
+
+==================================================
+Name: BalanceUP
+Release Date: Jun 28, 2026
+Price: $4.79 (-40%, was $7.99)
+Genres: Action
+Link: https://store.steampowered.com/app/4526620
+==================================================
+
