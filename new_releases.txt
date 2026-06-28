@@ -35364,3 +35364,22 @@ Genres: Adventure, Casual, Indie, Free To Play
 Link: https://store.steampowered.com/app/4330090
 ==================================================
 
+
+--- Run: 2026-06-28 21:51:28 --- (2 new game(s) found)
+
+==================================================
+Name: NINJA MASTER'S
+Release Date: Jun 28, 2026
+Price: $14.99 (-25%, was $19.99)
+Genres: Action
+Link: https://store.steampowered.com/app/3822230
+==================================================
+
+==================================================
+Name: ESKINITA
+Release Date: Jun 28, 2026
+Price: $2.54 (-15%, was $2.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4840880
+==================================================
+
