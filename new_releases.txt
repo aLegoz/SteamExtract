@@ -35383,3 +35383,14 @@ Genres: Adventure, Indie
 Link: https://store.steampowered.com/app/4840880
 ==================================================
 
+
+--- Run: 2026-06-28 23:57:41 --- (1 new game(s) found)
+
+==================================================
+Name: EVEN OR ODD 1
+Release Date: Coming soon
+Price: Free to Play
+Genres: Action, Casual, Indie, RPG, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4495530
+==================================================
+
