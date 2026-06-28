@@ -35244,3 +35244,38 @@ Genres: Casual, Indie
 Link: https://store.steampowered.com/app/4612620
 ==================================================
 
+
+--- Run: 2026-06-28 06:51:25 --- (4 new game(s) found)
+
+==================================================
+Name: When Stars Collide
+Release Date: Jun 27, 2026
+Price: Free to Play
+Genres: Action, Casual, Indie, Simulation, Free To Play
+Link: https://store.steampowered.com/app/3946180
+==================================================
+
+==================================================
+Name: lovely bakery
+Release Date: Jun 27, 2026
+Price: $8.09 (-10%, was $8.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/4667670
+==================================================
+
+==================================================
+Name: Luxmithar
+Release Date: Jun 27, 2026
+Price: $2.24 (-25%, was $2.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/3454890
+==================================================
+
+==================================================
+Name: White Signal
+Release Date: Jun 27, 2026
+Price: $3.59 (-10%, was $3.99)
+Genres: Casual, Indie, RPG, Simulation, Strategy
+Link: https://store.steampowered.com/app/4733550
+==================================================
+
