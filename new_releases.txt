@@ -35279,3 +35279,14 @@ Genres: Casual, Indie, RPG, Simulation, Strategy
 Link: https://store.steampowered.com/app/4733550
 ==================================================
 
+
+--- Run: 2026-06-28 11:29:31 --- (1 new game(s) found)
+
+==================================================
+Name: Zetrya: Dungeon Dive
+Release Date: Jun 28, 2026
+Price: $10.99
+Genres: Casual, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/4630420
+==================================================
+
