@@ -35312,3 +35312,22 @@ Genres: Indie, RPG, Free To Play
 Link: https://store.steampowered.com/app/4835800
 ==================================================
 
+
+--- Run: 2026-06-28 16:55:05 --- (2 new game(s) found)
+
+==================================================
+Name: Desktop Snail Assassin
+Release Date: Jun 28, 2026
+Price: Free to Play
+Genres: Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/3894960
+==================================================
+
+==================================================
+Name: Cloudsea Frontier
+Release Date: Jun 28, 2026
+Price: $10.49 (-30%, was $14.99)
+Genres: RPG
+Link: https://store.steampowered.com/app/4396290
+==================================================
+
