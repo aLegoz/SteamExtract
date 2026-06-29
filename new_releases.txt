@@ -35429,3 +35429,46 @@ Genres: Action, Indie
 Link: https://store.steampowered.com/app/3252280
 ==================================================
 
+
+--- Run: 2026-06-29 07:22:13 --- (5 new game(s) found)
+
+==================================================
+Name: JAYWALK: An Endless Arcade Hopper Game
+Release Date: Jun 28, 2026
+Price: Free to Play
+Genres: Action, Indie, Free To Play
+Link: https://store.steampowered.com/app/4319430
+==================================================
+
+==================================================
+Name: NomNom Treasure Hunt
+Release Date: Jun 28, 2026
+Price: Free to Play
+Genres: Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/4818770
+==================================================
+
+==================================================
+Name: Laby's Village
+Release Date: Jun 28, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Action, Indie, RPG
+Link: https://store.steampowered.com/app/3902210
+==================================================
+
+==================================================
+Name: WinWinWin
+Release Date: Jun 28, 2026
+Price: $1.69 (-15%, was $1.99)
+Genres: Casual, RPG, Strategy
+Link: https://store.steampowered.com/app/4822760
+==================================================
+
+==================================================
+Name: DOKAPON 3-2-1: Super Collection!
+Release Date: Jun 28, 2026
+Price: $15.99 (-20%, was $19.99)
+Genres: Adventure, Casual, RPG, Strategy
+Link: https://store.steampowered.com/app/4217740
+==================================================
+
