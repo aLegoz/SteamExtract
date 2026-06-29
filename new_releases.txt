@@ -35764,3 +35764,14 @@ Genres: Casual, Indie, RPG
 Link: https://store.steampowered.com/app/2777430
 ==================================================
 
+
+--- Run: 2026-06-29 22:01:54 --- (1 new game(s) found)
+
+==================================================
+Name: Betrayal at Paragon
+Release Date: Jun 29, 2026
+Price: $4.99
+Genres: Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/4536820
+==================================================
+
