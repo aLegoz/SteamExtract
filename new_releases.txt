@@ -35745,3 +35745,22 @@ Genres: Action, Adventure, Indie, Strategy
 Link: https://store.steampowered.com/app/4431440
 ==================================================
 
+
+--- Run: 2026-06-29 20:45:47 --- (2 new game(s) found)
+
+==================================================
+Name: Ah Spare Me Giantess
+Release Date: Jun 29, 2026
+Price: $9.99
+Genres: Action, Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4806420
+==================================================
+
+==================================================
+Name: The Wedding
+Release Date: Jun 29, 2026
+Price: $19.99 (-20%, was $24.99)
+Genres: Casual, Indie, RPG
+Link: https://store.steampowered.com/app/2777430
+==================================================
+
