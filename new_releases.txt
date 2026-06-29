@@ -35472,3 +35472,110 @@ Genres: Adventure, Casual, RPG, Strategy
 Link: https://store.steampowered.com/app/4217740
 ==================================================
 
+
+--- Run: 2026-06-29 12:21:10 --- (13 new game(s) found)
+
+==================================================
+Name: Toy's Dream
+Release Date: Jun 29, 2026
+Price: Free to Play
+Genres: Adventure, Free To Play
+Link: https://store.steampowered.com/app/4826170
+==================================================
+
+==================================================
+Name: Professional Cats
+Release Date: Jun 29, 2026
+Price: $2.54 (-15%, was $2.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/4440360
+==================================================
+
+==================================================
+Name: Dracs After Dusk
+Release Date: Jun 29, 2026
+Price: $3.59 (-10%, was $3.99)
+Genres: Action
+Link: https://store.steampowered.com/app/3745060
+==================================================
+
+==================================================
+Name: KimuNote
+Release Date: Jun 29, 2026
+Price: $11.99 (-20%, was $14.99)
+Genres: Indie, Design & Illustration, Utilities, Game Development
+Link: https://store.steampowered.com/app/4484670
+==================================================
+
+==================================================
+Name: A Simple Square
+Release Date: Jun 29, 2026
+Price: $3.35 (-30%, was $4.79)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/2251740
+==================================================
+
+==================================================
+Name: Cell Conquest
+Release Date: Jun 29, 2026
+Price: $2.09 (-30%, was $2.99)
+Genres: Strategy
+Link: https://store.steampowered.com/app/4836170
+==================================================
+
+==================================================
+Name: Mono
+Release Date: Jun 29, 2026
+Price: $2.39 (-20%, was $2.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/4273540
+==================================================
+
+==================================================
+Name: Desktop Driller
+Release Date: Jun 29, 2026
+Price: Free to Play
+Genres: Casual, Free To Play
+Link: https://store.steampowered.com/app/4529840
+==================================================
+
+==================================================
+Name: Haunt Out
+Release Date: Jun 29, 2026
+Price: Free to Play
+Genres: Action, Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/4196160
+==================================================
+
+==================================================
+Name: Auto Dungeon:Idle Adventure
+Release Date: Jun 28, 2026
+Price: $7.64 (-15%, was $8.99)
+Genres: Adventure, RPG, Strategy
+Link: https://store.steampowered.com/app/2434370
+==================================================
+
+==================================================
+Name: 墨影突围：无尽生存
+Release Date: Jun 28, 2026
+Price: $1.99
+Genres: Action, Indie, RPG
+Link: https://store.steampowered.com/app/4818310
+==================================================
+
+==================================================
+Name: Fool's Guild
+Release Date: Jun 28, 2026
+Price: $4.79 (-20%, was $5.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/3307320
+==================================================
+
+==================================================
+Name: Mental Medicine
+Release Date: Jun 28, 2026
+Price: $1.80 (-10%, was $2.00)
+Genres: Adventure, Simulation
+Link: https://store.steampowered.com/app/4785600
+==================================================
+
