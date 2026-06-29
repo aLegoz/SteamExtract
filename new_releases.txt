@@ -35579,3 +35579,118 @@ Genres: Adventure, Simulation
 Link: https://store.steampowered.com/app/4785600
 ==================================================
 
+
+--- Run: 2026-06-29 16:31:43 --- (14 new game(s) found)
+
+==================================================
+Name: Cultivation: Mystic Realm of Spirit Mountain
+Release Date: Jun 29, 2026
+Price: $8.99 (-25%, was $11.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4790340
+==================================================
+
+==================================================
+Name: The Message from Deep Space
+Release Date: Jun 29, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Indie
+Link: https://store.steampowered.com/app/4080030
+==================================================
+
+==================================================
+Name: REWIND
+Release Date: Jun 29, 2026
+Price: Free to Play
+Genres: Casual, Indie, RPG, Free To Play
+Link: https://store.steampowered.com/app/4560490
+==================================================
+
+==================================================
+Name: The Serpent & The Seed
+Release Date: Jun 29, 2026
+Price: $3.19 (-20%, was $3.99)
+Genres: Adventure
+Link: https://store.steampowered.com/app/3838400
+==================================================
+
+==================================================
+Name: Nomnomia
+Release Date: Jun 29, 2026
+Price: $3.19 (-20%, was $3.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4240270
+==================================================
+
+==================================================
+Name: Dungeon Bomber
+Release Date: Jun 29, 2026
+Price: $3.59 (-10%, was $3.99)
+Genres: Casual, Indie, RPG
+Link: https://store.steampowered.com/app/4207690
+==================================================
+
+==================================================
+Name: Oblivion Maiden
+Release Date: Jun 29, 2026
+Price: Free to Play
+Genres: Adventure, Indie, Free To Play
+Link: https://store.steampowered.com/app/4521430
+==================================================
+
+==================================================
+Name: At Run Time
+Release Date: Jun 29, 2026
+Price: Free to Play
+Genres: Action, Indie, Free To Play
+Link: https://store.steampowered.com/app/4660630
+==================================================
+
+==================================================
+Name: Escape the Red Curse
+Release Date: Jun 29, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/4533790
+==================================================
+
+==================================================
+Name: Dual Core Sync
+Release Date: Jun 29, 2026
+Price: $2.09 (-30%, was $2.99)
+Genres: Action, Adventure, Indie, Strategy
+Link: https://store.steampowered.com/app/4536280
+==================================================
+
+==================================================
+Name: Gaslamp Cases 7: The Faith of Rasputin
+Release Date: Jun 29, 2026
+Price: $5.39 (-40%, was $8.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/4808770
+==================================================
+
+==================================================
+Name: DIGDLE
+Release Date: Jun 29, 2026
+Price: $8.49 (-15%, was $9.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/4817390
+==================================================
+
+==================================================
+Name: Horn of the Warlord
+Release Date: Jun 29, 2026
+Price: $13.49 (-10%, was $14.99)
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/4380120
+==================================================
+
+==================================================
+Name: SU8WAY
+Release Date: Jun 29, 2026
+Price: $6.29 (-10%, was $6.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4832200
+==================================================
+
