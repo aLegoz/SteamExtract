@@ -35775,3 +35775,14 @@ Genres: Adventure, Indie, RPG
 Link: https://store.steampowered.com/app/4536820
 ==================================================
 
+
+--- Run: 2026-06-29 23:50:26 --- (1 new game(s) found)
+
+==================================================
+Name: Forgotten Blood
+Release Date: Jun 29, 2026
+Price: $7.69 (-30%, was $10.99)
+Genres: Action, Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/4130560
+==================================================
+
