@@ -35394,3 +35394,38 @@ Genres: Action, Casual, Indie, RPG, Strategy, Free To Play
 Link: https://store.steampowered.com/app/4495530
 ==================================================
 
+
+--- Run: 2026-06-29 02:56:29 --- (4 new game(s) found)
+
+==================================================
+Name: Apex Drift
+Release Date: Jun 28, 2026
+Price: $9.99
+Genres: Action, Casual, Indie, Racing
+Link: https://store.steampowered.com/app/4702160
+==================================================
+
+==================================================
+Name: The Office Void
+Release Date: Jun 28, 2026
+Price: $3.00
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/4555950
+==================================================
+
+==================================================
+Name: CELESTIAL: FIRE & FORGE
+Release Date: Jun 28, 2026
+Price: $3.74 (-25%, was $4.99)
+Genres: Adventure, Indie, RPG, Simulation, Strategy
+Link: https://store.steampowered.com/app/3638860
+==================================================
+
+==================================================
+Name: Onsen 1313
+Release Date: Jun 28, 2026
+Price: $0.99
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/3252280
+==================================================
+
