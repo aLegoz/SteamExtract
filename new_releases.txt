@@ -36434,3 +36434,70 @@ Link: https://store.steampowered.com/app/4134180
 
 --- Run: 2026-06-30 22:06:14 --- (0 new game(s) found)
 
+
+--- Run: 2026-06-30 23:55:45 --- (8 new game(s) found)
+
+==================================================
+Name: Zyntaris
+Release Date: Jun 30, 2026
+Price: $5.99
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4691080
+==================================================
+
+==================================================
+Name: Erratum
+Release Date: Jun 30, 2026
+Price: Free to Play
+Genres: Adventure, Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/4256150
+==================================================
+
+==================================================
+Name: Problematic
+Release Date: Jun 30, 2026
+Price: $4.99
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4660990
+==================================================
+
+==================================================
+Name: Regret To Inform
+Release Date: Jun 30, 2026
+Price: $5.09 (-15%, was $5.99)
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/4399130
+==================================================
+
+==================================================
+Name: Mongol 2
+Release Date: Jun 30, 2026
+Price: Free to Play
+Genres: Action, Adventure, Indie, RPG, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4028560
+==================================================
+
+==================================================
+Name: FlowDeck
+Release Date: Jun 30, 2026
+Price: $10.19 (-15%, was $11.99)
+Genres: Utilities
+Link: https://store.steampowered.com/app/4558340
+==================================================
+
+==================================================
+Name: Crave the Burn
+Release Date: Jun 30, 2026
+Price: $4.19 (-40%, was $6.99)
+Genres: Adventure, Simulation
+Link: https://store.steampowered.com/app/4775360
+==================================================
+
+==================================================
+Name: Nebula Warrior
+Release Date: Jun 30, 2026
+Price: $2.99
+Genres: Action
+Link: https://store.steampowered.com/app/3142640
+==================================================
+
