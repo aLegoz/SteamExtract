@@ -36185,3 +36185,102 @@ Genres: Casual, Indie, Strategy
 Link: https://store.steampowered.com/app/4808760
 ==================================================
 
+
+--- Run: 2026-06-30 18:27:25 --- (12 new game(s) found)
+
+==================================================
+Name: Rob o Bot
+Release Date: Jun 30, 2026
+Price: $3.15 (-10%, was $3.50)
+Genres: Action, Casual, Indie, RPG
+Link: https://store.steampowered.com/app/4503080
+==================================================
+
+==================================================
+Name: Drawtris
+Release Date: Jun 30, 2026
+Price: $5.99
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4724760
+==================================================
+
+==================================================
+Name: The Song Of WILL: ACT I
+Release Date: Coming soon
+Price: Free to Play
+Genres: Adventure, RPG, Free To Play
+Link: https://store.steampowered.com/app/4303590
+==================================================
+
+==================================================
+Name: FloraFarm
+Release Date: Jun 30, 2026
+Price: Free to Play
+Genres: Adventure, Casual, Simulation, Free To Play
+Link: https://store.steampowered.com/app/4842460
+==================================================
+
+==================================================
+Name: Bugscraper
+Release Date: Jun 30, 2026
+Price: $8.49 (-15%, was $9.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/2957130
+==================================================
+
+==================================================
+Name: Revolution: Young Mao
+Release Date: Jun 30, 2026
+Price: Free to Play
+Genres: Adventure, Free To Play
+Link: https://store.steampowered.com/app/4683470
+==================================================
+
+==================================================
+Name: Hammerhead
+Release Date: Jun 30, 2026
+Price: $6.29 (-10%, was $6.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4565090
+==================================================
+
+==================================================
+Name: Fish Companions
+Release Date: Jun 30, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4693650
+==================================================
+
+==================================================
+Name: EPIC IDLE TALE
+Release Date: Jun 30, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Adventure, Casual, Indie, RPG
+Link: https://store.steampowered.com/app/4816680
+==================================================
+
+==================================================
+Name: Guildamation
+Release Date: Jun 30, 2026
+Price: $14.99
+Genres: Adventure, Casual, RPG
+Link: https://store.steampowered.com/app/4149910
+==================================================
+
+==================================================
+Name: BIBI DICE
+Release Date: Jun 30, 2026
+Price: $2.69 (-10%, was $2.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4792230
+==================================================
+
+==================================================
+Name: Paper Brawl
+Release Date: Jun 30, 2026
+Price: $1.99
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4842420
+==================================================
+
