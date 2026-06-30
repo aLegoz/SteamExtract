@@ -35821,3 +35821,62 @@ Genres: Action, Indie
 Link: https://store.steampowered.com/app/4790380
 ==================================================
 
+
+--- Run: 2026-06-30 06:42:57 --- (7 new game(s) found)
+
+==================================================
+Name: Two Voices: A Journey Through the MET with Rin and Mio
+Release Date: Jun 29, 2026
+Price: $6.29 (-10%, was $6.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4582260
+==================================================
+
+==================================================
+Name: School Crisis
+Release Date: Jun 29, 2026
+Price: $5.24 (-25%, was $6.99)
+Genres: Action, Adventure
+Link: https://store.steampowered.com/app/3777300
+==================================================
+
+==================================================
+Name: The Joust
+Release Date: Jun 29, 2026
+Price: $0.85 (-15%, was $1.00)
+Genres: Action, Simulation
+Link: https://store.steampowered.com/app/4744160
+==================================================
+
+==================================================
+Name: Cluster - Roguelike Tower Defense
+Release Date: Jun 29, 2026
+Price: $5.99
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4567080
+==================================================
+
+==================================================
+Name: 灰度决策
+Release Date: Jun 29, 2026
+Price: $6.99
+Genres: Casual, Simulation, Strategy
+Link: https://store.steampowered.com/app/4664650
+==================================================
+
+==================================================
+Name: Samara
+Release Date: Jun 29, 2026
+Price: $8.09 (-10%, was $8.99)
+Genres: Action, Adventure, Indie, RPG, Simulation
+Link: https://store.steampowered.com/app/3985290
+==================================================
+
+==================================================
+Name: 江湖奇侠录
+Release Date: Jun 29, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Adventure, Casual, Indie, RPG, Simulation
+Link: https://store.steampowered.com/app/4803630
+==================================================
+
