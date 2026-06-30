@@ -35971,3 +35971,22 @@ Genres: Action
 Link: https://store.steampowered.com/app/4507900
 ==================================================
 
+
+--- Run: 2026-06-30 13:01:03 --- (2 new game(s) found)
+
+==================================================
+Name: Desk Space: Idle Spacefleet clicker
+Release Date: Jun 30, 2026
+Price: $5.09 (-15%, was $5.99)
+Genres: Casual, Simulation, Strategy
+Link: https://store.steampowered.com/app/4616840
+==================================================
+
+==================================================
+Name: 孤岛的动物园
+Release Date: Jun 30, 2026
+Price: Free to Play
+Genres: Adventure, Free To Play
+Link: https://store.steampowered.com/app/4618830
+==================================================
+
