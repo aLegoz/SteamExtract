@@ -35880,3 +35880,94 @@ Genres: Adventure, Casual, Indie, RPG, Simulation
 Link: https://store.steampowered.com/app/4803630
 ==================================================
 
+
+--- Run: 2026-06-30 10:21:59 --- (11 new game(s) found)
+
+==================================================
+Name: Turbo Hatchback Time Attack
+Release Date: Jun 30, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Action, Indie, Racing
+Link: https://store.steampowered.com/app/4488590
+==================================================
+
+==================================================
+Name: GolFall: Make Your Way Up
+Release Date: Jun 30, 2026
+Price: $3.59 (-10%, was $3.99)
+Genres: Action, Indie, Sports
+Link: https://store.steampowered.com/app/4646260
+==================================================
+
+==================================================
+Name: Slightly Burnt: A Goose Story
+Release Date: Jun 30, 2026
+Price: Free to Play
+Genres: Free To Play
+Link: https://store.steampowered.com/app/4844130
+==================================================
+
+==================================================
+Name: Influencer Solitaire
+Release Date: Jun 30, 2026
+Price: Free to Play
+Genres: Casual, Indie, Simulation, Free To Play
+Link: https://store.steampowered.com/app/4609800
+==================================================
+
+==================================================
+Name: Indomitus: Path of Ordeals
+Release Date: Jun 30, 2026
+Price: $8.49 (-15%, was $9.99)
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/4603750
+==================================================
+
+==================================================
+Name: Splatapult
+Release Date: Jun 30, 2026
+Price: $1.79 (-40%, was $2.99)
+Genres: Action, Casual, Indie, Simulation, Sports, Strategy
+Link: https://store.steampowered.com/app/4849020
+==================================================
+
+==================================================
+Name: TELLURICENE
+Release Date: Jun 30, 2026
+Price: $10.79 (-10%, was $11.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/3700130
+==================================================
+
+==================================================
+Name: Forge Clicker 2
+Release Date: Jun 29, 2026
+Price: $1.99
+Genres: Indie
+Link: https://store.steampowered.com/app/4826510
+==================================================
+
+==================================================
+Name: Perpetual Fear
+Release Date: Jun 29, 2026
+Price: $2.39 (-40%, was $3.99)
+Genres: Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/4278350
+==================================================
+
+==================================================
+Name: Bit Maze
+Release Date: Jun 29, 2026
+Price: $1.99
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4233630
+==================================================
+
+==================================================
+Name: rAIse: Embrace the Future
+Release Date: Jun 29, 2026
+Price: $6.79 (-15%, was $7.99)
+Genres: Action
+Link: https://store.steampowered.com/app/4507900
+==================================================
+
