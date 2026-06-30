@@ -36431,3 +36431,6 @@ Genres: Casual, Indie, Strategy
 Link: https://store.steampowered.com/app/4134180
 ==================================================
 
+
+--- Run: 2026-06-30 22:06:14 --- (0 new game(s) found)
+
