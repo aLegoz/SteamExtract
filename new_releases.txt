@@ -35786,3 +35786,38 @@ Genres: Action, Adventure, Indie, RPG
 Link: https://store.steampowered.com/app/4130560
 ==================================================
 
+
+--- Run: 2026-06-30 02:02:26 --- (4 new game(s) found)
+
+==================================================
+Name: Supermarket Chaos
+Release Date: Jun 29, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/4800590
+==================================================
+
+==================================================
+Name: WinBolo
+Release Date: Jun 29, 2026
+Price: Free to Play
+Genres: Action, Indie, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4672140
+==================================================
+
+==================================================
+Name: Jupiter-Saturn:testing conviction
+Release Date: Jun 29, 2026
+Price: $4.99
+Genres: Indie, RPG
+Link: https://store.steampowered.com/app/4782310
+==================================================
+
+==================================================
+Name: Resurection.
+Release Date: Jun 29, 2026
+Price: $12.79 (-20%, was $15.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4790380
+==================================================
+
