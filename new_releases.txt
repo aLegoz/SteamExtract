@@ -36635,3 +36635,102 @@ Genres: Casual, Indie
 Link: https://store.steampowered.com/app/4817060
 ==================================================
 
+
+--- Run: 2026-07-01 11:00:10 --- (12 new game(s) found)
+
+==================================================
+Name: Mosaic Garden: The Flower Game
+Release Date: Jul 1, 2026
+Price: $2.99 (-25%, was $3.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4409970
+==================================================
+
+==================================================
+Name: The Sound of Piano
+Release Date: Jul 1, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4532000
+==================================================
+
+==================================================
+Name: Antivirus Girl
+Release Date: Jul 1, 2026
+Price: $7.64 (-15%, was $8.99)
+Genres: Action, Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4156370
+==================================================
+
+==================================================
+Name: Nihongo Hunter
+Release Date: Jul 1, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: Adventure
+Link: https://store.steampowered.com/app/4386920
+==================================================
+
+==================================================
+Name: Tiny Slime Farm
+Release Date: Jul 1, 2026
+Price: $4.79 (-20%, was $5.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4499040
+==================================================
+
+==================================================
+Name: Hentai Senpai: Waifu Summer 2
+Release Date: Jul 1, 2026
+Price: $6.29 (-10%, was $6.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4503620
+==================================================
+
+==================================================
+Name: The One Chapter 4
+Release Date: Jul 1, 2026
+Price: $19.99
+Genres: RPG
+Link: https://store.steampowered.com/app/4703480
+==================================================
+
+==================================================
+Name: 老狼：第一季 - 宿命之吻 (The Wolf: Season 1 - Kiss of Fate)
+Release Date: Jul 1, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Casual, Indie, RPG
+Link: https://store.steampowered.com/app/4320350
+==================================================
+
+==================================================
+Name: Cat Squeeze
+Release Date: Jun 30, 2026
+Price: $8.79 (-12%, was $9.99)
+Genres: Adventure, Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/3739300
+==================================================
+
+==================================================
+Name: CryptoGrid
+Release Date: Jun 30, 2026
+Price: Free to Play
+Genres: Casual, Indie, Simulation, Free To Play
+Link: https://store.steampowered.com/app/4836510
+==================================================
+
+==================================================
+Name: Last Spell Book
+Release Date: Jun 30, 2026
+Price: $2.99
+Genres: Action, Adventure, Casual, Strategy
+Link: https://store.steampowered.com/app/4799470
+==================================================
+
+==================================================
+Name: See-Through Shanghai
+Release Date: Jun 30, 2026
+Price: $7.19 (-20%, was $8.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4783720
+==================================================
+
