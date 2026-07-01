@@ -37039,3 +37039,54 @@ Genres: Action
 Link: https://store.steampowered.com/app/4831590
 ==================================================
 
+
+--- Run: 2026-07-01 20:44:13 --- (6 new game(s) found)
+
+==================================================
+Name: Total Chaos Against Apathy
+Release Date: Jul 1, 2026
+Price: $7.77
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/3613690
+==================================================
+
+==================================================
+Name: DAMex : DArk Matter Exodus
+Release Date: Jul 1, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Action, Indie, RPG
+Link: https://store.steampowered.com/app/4046870
+==================================================
+
+==================================================
+Name: sepapu
+Release Date: Jul 1, 2026
+Price: $11.99
+Genres: Indie
+Link: https://store.steampowered.com/app/4492410
+==================================================
+
+==================================================
+Name: 101 Dogs Hidden in Vienna
+Release Date: Jul 1, 2026
+Price: $1.19 (-40%, was $1.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4829160
+==================================================
+
+==================================================
+Name: Jaleco Sports: Goal! 2
+Release Date: Jul 1, 2026
+Price: $6.39 (-20%, was $7.99)
+Genres: Action, Sports
+Link: https://store.steampowered.com/app/3399120
+==================================================
+
+==================================================
+Name: Jaleco Sports: Bases Loaded 2
+Release Date: Jul 1, 2026
+Price: $6.39 (-20%, was $7.99)
+Genres: Action, Simulation, Sports
+Link: https://store.steampowered.com/app/3428090
+==================================================
+
