@@ -37090,3 +37090,14 @@ Genres: Action, Simulation, Sports
 Link: https://store.steampowered.com/app/3428090
 ==================================================
 
+
+--- Run: 2026-07-01 23:59:33 --- (1 new game(s) found)
+
+==================================================
+Name: Headache: Altered States
+Release Date: Jul 1, 2026
+Price: $0.99
+Genres: Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/4140910
+==================================================
+
