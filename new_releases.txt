@@ -36528,3 +36528,110 @@ Genres: Action, Casual, Indie, Free To Play
 Link: https://store.steampowered.com/app/1905090
 ==================================================
 
+
+--- Run: 2026-07-01 07:01:15 --- (13 new game(s) found)
+
+==================================================
+Name: Puzzles Dino
+Release Date: Jun 30, 2026
+Price: $2.99 (-40%, was $4.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4749130
+==================================================
+
+==================================================
+Name: Feed The Pit
+Release Date: Jun 30, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/3278290
+==================================================
+
+==================================================
+Name: ROCKS.EXE
+Release Date: Jun 30, 2026
+Price: Free to Play
+Genres: Indie, Simulation, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4685210
+==================================================
+
+==================================================
+Name: Tumbles
+Release Date: Jun 30, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/3277320
+==================================================
+
+==================================================
+Name: 双面魔君心上仙
+Release Date: Jun 30, 2026
+Price: $0.99
+Genres: Casual, Indie, RPG, Simulation
+Link: https://store.steampowered.com/app/4786350
+==================================================
+
+==================================================
+Name: NOXE
+Release Date: Jun 30, 2026
+Price: $1.19 (-40%, was $1.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4797210
+==================================================
+
+==================================================
+Name: Double Knight
+Release Date: Jun 30, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4586040
+==================================================
+
+==================================================
+Name: Scelerophobia
+Release Date: Jun 30, 2026
+Price: $2.00
+Genres: Indie
+Link: https://store.steampowered.com/app/4839450
+==================================================
+
+==================================================
+Name: Desktop Hellfarmer
+Release Date: Jun 30, 2026
+Price: $2.99
+Genres: Casual, Indie, RPG
+Link: https://store.steampowered.com/app/3658030
+==================================================
+
+==================================================
+Name: The Disappearing Municipality Worker
+Release Date: Jun 30, 2026
+Price: $2.99
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4805120
+==================================================
+
+==================================================
+Name: Cartesian Battle
+Release Date: Jun 30, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4357250
+==================================================
+
+==================================================
+Name: Castaway: Lost Horizon
+Release Date: Jun 30, 2026
+Price: $3.39 (-15%, was $3.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/4808910
+==================================================
+
+==================================================
+Name: ツミゲーム（Tsumi Stack）
+Release Date: Jun 30, 2026
+Price: $3.19 (-20%, was $3.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4817060
+==================================================
+
