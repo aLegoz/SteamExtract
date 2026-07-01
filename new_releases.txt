@@ -36501,3 +36501,30 @@ Genres: Action
 Link: https://store.steampowered.com/app/3142640
 ==================================================
 
+
+--- Run: 2026-07-01 02:12:59 --- (3 new game(s) found)
+
+==================================================
+Name: Digital Diamond Baseball V14
+Release Date: Jun 30, 2026
+Price: $31.49 (-10%, was $34.99)
+Genres: Indie, Simulation, Sports, Strategy
+Link: https://store.steampowered.com/app/4384250
+==================================================
+
+==================================================
+Name: School Runner
+Release Date: Jun 30, 2026
+Price: Free to Play
+Genres: Indie, Racing, Free To Play
+Link: https://store.steampowered.com/app/4864760
+==================================================
+
+==================================================
+Name: Bedrooms on the Moon
+Release Date: Jun 30, 2026
+Price: $5.00
+Genres: Action, Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/1905090
+==================================================
+
