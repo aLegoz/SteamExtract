@@ -36948,3 +36948,94 @@ Genres: Strategy
 Link: https://store.steampowered.com/app/3359840
 ==================================================
 
+
+--- Run: 2026-07-01 18:53:29 --- (11 new game(s) found)
+
+==================================================
+Name: Duck Defender
+Release Date: Jul 1, 2026
+Price: Free to Play
+Genres: Action, Casual, Indie, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4797570
+==================================================
+
+==================================================
+Name: Star Witch
+Release Date: Jul 1, 2026
+Price: $3.74 (-25%, was $4.99)
+Genres: Action, Adventure, Indie, RPG, Simulation
+Link: https://store.steampowered.com/app/1713550
+==================================================
+
+==================================================
+Name: Prison CAT
+Release Date: Jul 1, 2026
+Price: Free to Play
+Genres: Casual, Indie, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4844080
+==================================================
+
+==================================================
+Name: StellarUniversity:FurryHearts
+Release Date: Jul 1, 2026
+Price: $7.92 (-20%, was $9.90)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4508100
+==================================================
+
+==================================================
+Name: STRAFEST
+Release Date: Jul 1, 2026
+Price: $2.09 (-30%, was $2.99)
+Genres: Action, Indie, Strategy
+Link: https://store.steampowered.com/app/4418430
+==================================================
+
+==================================================
+Name: Lullabies Made of Static
+Release Date: Jul 1, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4216940
+==================================================
+
+==================================================
+Name: Tower Vibes
+Release Date: Jul 1, 2026
+Price: $3.19 (-20%, was $3.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4835520
+==================================================
+
+==================================================
+Name: LINOVICTUS
+Release Date: Jul 1, 2026
+Price: $6.79 (-15%, was $7.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4528600
+==================================================
+
+==================================================
+Name: immerGallery
+Release Date: Jul 1, 2026
+Price: $25.49 (-15%, was $29.99)
+Genres: Utilities
+Link: https://store.steampowered.com/app/3073280
+==================================================
+
+==================================================
+Name: マイ・プラネット─MOON CHILD─
+Release Date: Jul 1, 2026
+Price: $2.79 (-30%, was $3.99)
+Genres: Adventure
+Link: https://store.steampowered.com/app/4656060
+==================================================
+
+==================================================
+Name: CrueArcade Alive
+Release Date: Jul 1, 2026
+Price: $1.99
+Genres: Action
+Link: https://store.steampowered.com/app/4831590
+==================================================
+
