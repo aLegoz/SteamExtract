@@ -36734,3 +36734,118 @@ Genres: Adventure, Casual, Indie
 Link: https://store.steampowered.com/app/4783720
 ==================================================
 
+
+--- Run: 2026-07-01 13:34:00 --- (14 new game(s) found)
+
+==================================================
+Name: The Abyss Below
+Release Date: Jul 1, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/4679180
+==================================================
+
+==================================================
+Name: Drop Jump
+Release Date: Jul 1, 2026
+Price: $4.89 (-30%, was $6.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4370410
+==================================================
+
+==================================================
+Name: Magic Puzzles: Twins
+Release Date: Jul 1, 2026
+Price: $1.99
+Genres: Casual
+Link: https://store.steampowered.com/app/4599720
+==================================================
+
+==================================================
+Name: Flawed Tactics
+Release Date: Jul 1, 2026
+Price: $5.99 (-40%, was $9.99)
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/2600970
+==================================================
+
+==================================================
+Name: void future prologue
+Release Date: Jul 1, 2026
+Price: Free to Play
+Genres: Indie, Simulation, Free To Play
+Link: https://store.steampowered.com/app/3844000
+==================================================
+
+==================================================
+Name: Inclination
+Release Date: Jul 1, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4489330
+==================================================
+
+==================================================
+Name: Miracle Brave: Beast Defense Line
+Release Date: Jul 1, 2026
+Price: $1.79 (-10%, was $1.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4720010
+==================================================
+
+==================================================
+Name: Cozy Cleanup
+Release Date: Jul 1, 2026
+Price: $8.09 (-10%, was $8.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4851420
+==================================================
+
+==================================================
+Name: Forever RPG
+Release Date: Jul 1, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Casual, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/3369270
+==================================================
+
+==================================================
+Name: The Punchbag Machine
+Release Date: Jul 1, 2026
+Price: $7.49 (-25%, was $9.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4691430
+==================================================
+
+==================================================
+Name: Empyrean Defense
+Release Date: Jul 1, 2026
+Price: $9.99
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/3575690
+==================================================
+
+==================================================
+Name: Navy Mission
+Release Date: Jul 1, 2026
+Price: $1.60 (-20%, was $2.00)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4858990
+==================================================
+
+==================================================
+Name: Just Futanari 3
+Release Date: Jun 30, 2026
+Price: $22.49 (-10%, was $24.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4730850
+==================================================
+
+==================================================
+Name: Quadra
+Release Date: Jun 30, 2026
+Price: $3.39 (-15%, was $3.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4848560
+==================================================
+
