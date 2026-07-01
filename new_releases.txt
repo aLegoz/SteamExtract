@@ -36849,3 +36849,102 @@ Genres: Casual, Indie, Strategy
 Link: https://store.steampowered.com/app/4848560
 ==================================================
 
+
+--- Run: 2026-07-01 16:13:56 --- (12 new game(s) found)
+
+==================================================
+Name: Village Coop Clicker
+Release Date: Jul 1, 2026
+Price: $3.74 (-25%, was $4.99)
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4783190
+==================================================
+
+==================================================
+Name: Save the Red Box: Prologue
+Release Date: Jul 1, 2026
+Price: Free to Play
+Genres: Action, Indie, Free To Play
+Link: https://store.steampowered.com/app/4708090
+==================================================
+
+==================================================
+Name: Ash of Gods: Tactics
+Release Date: Jul 1, 2026
+Price: Free to Play
+Genres: Strategy, Free To Play
+Link: https://store.steampowered.com/app/4162150
+==================================================
+
+==================================================
+Name: MergePiece: Merge pixels into masterpieces
+Release Date: Jul 1, 2026
+Price: $1.69 (-15%, was $1.99)
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/4505500
+==================================================
+
+==================================================
+Name: Nybble
+Release Date: Jul 1, 2026
+Price: $9.99
+Genres: Indie
+Link: https://store.steampowered.com/app/4766500
+==================================================
+
+==================================================
+Name: Moonrise
+Release Date: Jul 1, 2026
+Price: Free to Play
+Genres: Free To Play
+Link: https://store.steampowered.com/app/4836490
+==================================================
+
+==================================================
+Name: Ratatouille Builder
+Release Date: Jul 1, 2026
+Price: $4.63 (-20%, was $5.79)
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/4474960
+==================================================
+
+==================================================
+Name: Breeding Estate
+Release Date: Jul 1, 2026
+Price: $16.99
+Genres: RPG, Simulation
+Link: https://store.steampowered.com/app/4273060
+==================================================
+
+==================================================
+Name: Idle Aqua Driller
+Release Date: Jul 1, 2026
+Price: $2.10 (-40%, was $3.50)
+Genres: Indie
+Link: https://store.steampowered.com/app/4656460
+==================================================
+
+==================================================
+Name: Engine of Chaos
+Release Date: Jul 1, 2026
+Price: $0.79 (-20%, was $0.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4442280
+==================================================
+
+==================================================
+Name: .FARM RACING.
+Release Date: Jul 1, 2026
+Price: $0.99
+Genres: Adventure, Casual, Indie, Simulation, Sports
+Link: https://store.steampowered.com/app/4856840
+==================================================
+
+==================================================
+Name: Block Sprawl
+Release Date: Jul 1, 2026
+Price: $13.49 (-10%, was $14.99)
+Genres: Strategy
+Link: https://store.steampowered.com/app/3359840
+==================================================
+
