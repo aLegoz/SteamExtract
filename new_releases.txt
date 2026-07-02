@@ -37246,3 +37246,30 @@ Genres: Adventure
 Link: https://store.steampowered.com/app/4803450
 ==================================================
 
+
+--- Run: 2026-07-02 12:07:49 --- (3 new game(s) found)
+
+==================================================
+Name: The One Who Runs Away Is Chased
+Release Date: Jul 2, 2026
+Price: Free to Play
+Genres: Action, Casual, Sports, Free To Play
+Link: https://store.steampowered.com/app/4717020
+==================================================
+
+==================================================
+Name: Undying Elf
+Release Date: Jul 2, 2026
+Price: $7.19 (-20%, was $8.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4578750
+==================================================
+
+==================================================
+Name: Curious Paws: hidden objects
+Release Date: Jul 2, 2026
+Price: $2.00 (-20%, was $2.50)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4843440
+==================================================
+
