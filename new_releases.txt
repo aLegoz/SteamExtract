@@ -37509,3 +37509,14 @@ Genres: Casual, Indie
 Link: https://store.steampowered.com/app/4749160
 ==================================================
 
+
+--- Run: 2026-07-02 21:56:13 --- (1 new game(s) found)
+
+==================================================
+Name: Dream Shell
+Release Date: Jul 2, 2026
+Price: $8.55 (-10%, was $9.50)
+Genres: Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/3835680
+==================================================
+
