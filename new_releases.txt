@@ -37101,3 +37101,86 @@ Genres: Adventure, Indie, RPG
 Link: https://store.steampowered.com/app/4140910
 ==================================================
 
+
+--- Run: 2026-07-02 03:35:43 --- (10 new game(s) found)
+
+==================================================
+Name: 再战大极品+255
+Release Date: Jul 1, 2026
+Price: Free to Play
+Genres: Action, Adventure, Massively Multiplayer, RPG, Free To Play
+Link: https://store.steampowered.com/app/4714810
+==================================================
+
+==================================================
+Name: Silesian Wars
+Release Date: Jul 1, 2026
+Price: $9.89 (-10%, was $10.99)
+Genres: Strategy
+Link: https://store.steampowered.com/app/4849360
+==================================================
+
+==================================================
+Name: GOTHCUCK
+Release Date: Jul 1, 2026
+Price: $8.99
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4797840
+==================================================
+
+==================================================
+Name: Monster Ops 20
+Release Date: Jul 1, 2026
+Price: $4.99
+Genres: Casual
+Link: https://store.steampowered.com/app/3853230
+==================================================
+
+==================================================
+Name: Tiny Factions
+Release Date: Jul 1, 2026
+Price: $2.47 (-29%, was $3.49)
+Genres: Action, Adventure, Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4674520
+==================================================
+
+==================================================
+Name: 我的刀盾
+Release Date: Jul 1, 2026
+Price: $0.59 (-40%, was $0.99)
+Genres: Action, Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/3044160
+==================================================
+
+==================================================
+Name: COLORIZED
+Release Date: Jul 1, 2026
+Price: $2.39 (-40%, was $3.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4746090
+==================================================
+
+==================================================
+Name: HITHURT
+Release Date: Jul 1, 2026
+Price: $2.39 (-20%, was $2.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4698310
+==================================================
+
+==================================================
+Name: Defense of Wancotte
+Release Date: Jul 1, 2026
+Price: $7.49 (-25%, was $9.99)
+Genres: Action, Adventure, Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/3692900
+==================================================
+
+==================================================
+Name: Gambillion
+Release Date: Jul 1, 2026
+Price: $2.99
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4781750
+==================================================
+
