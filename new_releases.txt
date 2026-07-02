@@ -37184,3 +37184,38 @@ Genres: Casual, Indie, Simulation
 Link: https://store.steampowered.com/app/4781750
 ==================================================
 
+
+--- Run: 2026-07-02 06:58:12 --- (4 new game(s) found)
+
+==================================================
+Name: The Inverse Mobius
+Release Date: Jul 1, 2026
+Price: Free to Play
+Genres: Adventure, Casual, Indie, RPG, Free To Play
+Link: https://store.steampowered.com/app/4591540
+==================================================
+
+==================================================
+Name: 麻吉骑士 Magic Knights
+Release Date: Jul 1, 2026
+Price: Free to Play
+Genres: Adventure, Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/4607920
+==================================================
+
+==================================================
+Name: 500KTV
+Release Date: Jul 1, 2026
+Price: $15.99 (-20%, was $19.99)
+Genres: Simulation
+Link: https://store.steampowered.com/app/4707080
+==================================================
+
+==================================================
+Name: There Is No Lore
+Release Date: Jul 1, 2026
+Price: $14.39 (-20%, was $17.99)
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/3152430
+==================================================
+
