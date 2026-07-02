@@ -37399,3 +37399,70 @@ Genres: Action
 Link: https://store.steampowered.com/app/3997920
 ==================================================
 
+
+--- Run: 2026-07-02 19:05:13 --- (8 new game(s) found)
+
+==================================================
+Name: The Dreamers Foresight
+Release Date: Jul 2, 2026
+Price: $11.24 (-25%, was $14.99)
+Genres: Action, Indie, RPG
+Link: https://store.steampowered.com/app/2954750
+==================================================
+
+==================================================
+Name: Assault On Sector 12
+Release Date: Jul 2, 2026
+Price: $5.09 (-15%, was $5.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4293630
+==================================================
+
+==================================================
+Name: The Trials - Chapter Two
+Release Date: Jul 2, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Adventure
+Link: https://store.steampowered.com/app/4345750
+==================================================
+
+==================================================
+Name: Authorisation Engine
+Release Date: Jul 2, 2026
+Price: $4.99
+Genres: Casual
+Link: https://store.steampowered.com/app/4738940
+==================================================
+
+==================================================
+Name: APEX Swoop: Card Game
+Release Date: Jul 2, 2026
+Price: $1.59 (-20%, was $1.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4823890
+==================================================
+
+==================================================
+Name: Office Ladies Jigsaw Puzzle
+Release Date: Jul 2, 2026
+Price: $2.69 (-10%, was $2.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/4823030
+==================================================
+
+==================================================
+Name: Sentry
+Release Date: Jul 2, 2026
+Price: $1.99
+Genres: Action, Adventure, RPG, Strategy
+Link: https://store.steampowered.com/app/4728590
+==================================================
+
+==================================================
+Name: BRAFES
+Release Date: Jul 2, 2026
+Price: $2.50
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4750740
+==================================================
+
