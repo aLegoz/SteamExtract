@@ -37219,3 +37219,30 @@ Genres: Indie, Strategy
 Link: https://store.steampowered.com/app/3152430
 ==================================================
 
+
+--- Run: 2026-07-02 09:58:55 --- (3 new game(s) found)
+
+==================================================
+Name: HYPERWIRED
+Release Date: Jul 2, 2026
+Price: $7.19 (-10%, was $7.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/3234850
+==================================================
+
+==================================================
+Name: The Anomaly Hunter
+Release Date: Jul 2, 2026
+Price: $1.54
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/4774740
+==================================================
+
+==================================================
+Name: Remain
+Release Date: Jul 1, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Adventure
+Link: https://store.steampowered.com/app/4803450
+==================================================
+
