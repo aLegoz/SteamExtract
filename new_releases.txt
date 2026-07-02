@@ -37520,3 +37520,30 @@ Genres: Adventure, Indie, RPG
 Link: https://store.steampowered.com/app/3835680
 ==================================================
 
+
+--- Run: 2026-07-02 23:57:26 --- (3 new game(s) found)
+
+==================================================
+Name: Everglen
+Release Date: Jul 2, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Adventure, Casual, Indie, RPG, Simulation
+Link: https://store.steampowered.com/app/4021370
+==================================================
+
+==================================================
+Name: Tense Parking 2
+Release Date: Jul 2, 2026
+Price: $5.39 (-40%, was $8.99)
+Genres: Casual, Indie, Racing
+Link: https://store.steampowered.com/app/4845510
+==================================================
+
+==================================================
+Name: Vermin Protocol
+Release Date: Jul 2, 2026
+Price: $7.19 (-10%, was $7.99)
+Genres: Action
+Link: https://store.steampowered.com/app/4824310
+==================================================
+
