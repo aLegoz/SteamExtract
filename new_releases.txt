@@ -37332,3 +37332,70 @@ Genres: Action, Casual, Indie
 Link: https://store.steampowered.com/app/4846480
 ==================================================
 
+
+--- Run: 2026-07-02 17:23:20 --- (8 new game(s) found)
+
+==================================================
+Name: All Tomorrows: Invasion
+Release Date: Jul 2, 2026
+Price: Free to Play
+Genres: Action, Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/4179870
+==================================================
+
+==================================================
+Name: MIHASHIRA
+Release Date: Jul 2, 2026
+Price: $7.19 (-10%, was $7.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4193580
+==================================================
+
+==================================================
+Name: When will I get Home?
+Release Date: Jul 2, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/4087740
+==================================================
+
+==================================================
+Name: Giant Horse Feeding
+Release Date: Jul 2, 2026
+Price: $1.19 (-40%, was $1.99)
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4823290
+==================================================
+
+==================================================
+Name: Mech Spa
+Release Date: Jul 2, 2026
+Price: $13.59 (-15%, was $15.99)
+Genres: Casual, Simulation
+Link: https://store.steampowered.com/app/4466150
+==================================================
+
+==================================================
+Name: ユレイシア英雄戦記　- Chronicle of Arstenia500 -
+Release Date: Jul 2, 2026
+Price: Free to Play
+Genres: Simulation, Free To Play
+Link: https://store.steampowered.com/app/4617670
+==================================================
+
+==================================================
+Name: Shards
+Release Date: Jul 2, 2026
+Price: Free to Play
+Genres: Action, Adventure, Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/4660650
+==================================================
+
+==================================================
+Name: Hollow Ground
+Release Date: Jul 2, 2026
+Price: $10.19 (-15%, was $11.99)
+Genres: Action
+Link: https://store.steampowered.com/app/3997920
+==================================================
+
