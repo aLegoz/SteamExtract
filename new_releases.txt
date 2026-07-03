@@ -37547,3 +37547,14 @@ Genres: Action
 Link: https://store.steampowered.com/app/4824310
 ==================================================
 
+
+--- Run: 2026-07-03 02:23:39 --- (1 new game(s) found)
+
+==================================================
+Name: Lunyatic Invaders
+Release Date: Jul 2, 2026
+Price: Free to Play
+Genres: Action, Free To Play
+Link: https://store.steampowered.com/app/4591270
+==================================================
+
