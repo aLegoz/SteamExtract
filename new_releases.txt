@@ -37904,3 +37904,94 @@ Genres: Adventure, Casual, Indie, Simulation
 Link: https://store.steampowered.com/app/4841780
 ==================================================
 
+
+--- Run: 2026-07-03 18:57:51 --- (11 new game(s) found)
+
+==================================================
+Name: American Revolutionary War
+Release Date: Jul 3, 2026
+Price: $39.95
+Genres: Simulation, Strategy
+Link: https://store.steampowered.com/app/4671050
+==================================================
+
+==================================================
+Name: Cicadia
+Release Date: Jul 3, 2026
+Price: Free to Play
+Genres: Action, Adventure, Indie, RPG, Free To Play
+Link: https://store.steampowered.com/app/4306650
+==================================================
+
+==================================================
+Name: The Laws of Probability
+Release Date: Coming soon
+Price: Free to Play
+Genres: Adventure, Indie, Free To Play
+Link: https://store.steampowered.com/app/4849960
+==================================================
+
+==================================================
+Name: Ian's Rocket
+Release Date: Jul 3, 2026
+Price: $24.99
+Genres: Adventure, Indie, Strategy
+Link: https://store.steampowered.com/app/4806210
+==================================================
+
+==================================================
+Name: Battle For Embolia
+Release Date: Jul 3, 2026
+Price: Free to Play
+Genres: Action, Massively Multiplayer, RPG, Free To Play
+Link: https://store.steampowered.com/app/3462790
+==================================================
+
+==================================================
+Name: Important People of History: Presidents - George Washington
+Release Date: Jul 3, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Adventure, Casual
+Link: https://store.steampowered.com/app/3721820
+==================================================
+
+==================================================
+Name: Special Request: Chapter 2
+Release Date: Jul 3, 2026
+Price: $9.59 (-20%, was $11.99)
+Genres: Indie
+Link: https://store.steampowered.com/app/4621990
+==================================================
+
+==================================================
+Name: Olga Doesn't Die
+Release Date: Jul 3, 2026
+Price: Free to Play
+Genres: Casual, Free To Play
+Link: https://store.steampowered.com/app/4436080
+==================================================
+
+==================================================
+Name: Tech Store & Repair Simulator
+Release Date: Jul 3, 2026
+Price: $2.39 (-40%, was $3.99)
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/4856190
+==================================================
+
+==================================================
+Name: Never Gives Up Her Dead
+Release Date: Jul 3, 2026
+Price: $11.99
+Genres: Adventure
+Link: https://store.steampowered.com/app/4815350
+==================================================
+
+==================================================
+Name: Damn Zombies
+Release Date: Jul 3, 2026
+Price: $6.00
+Genres: Action, Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/978280
+==================================================
+
