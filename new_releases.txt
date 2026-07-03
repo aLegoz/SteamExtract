@@ -37754,3 +37754,134 @@ Genres: Audio Production
 Link: https://store.steampowered.com/app/4801960
 ==================================================
 
+
+--- Run: 2026-07-03 15:47:22 --- (16 new game(s) found)
+
+==================================================
+Name: Ice Cream Man
+Release Date: Jul 3, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Adventure
+Link: https://store.steampowered.com/app/4634080
+==================================================
+
+==================================================
+Name: IDLE: Intergalactic Defense League Exterminators
+Release Date: Jul 3, 2026
+Price: $4.19 (-30%, was $5.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4486140
+==================================================
+
+==================================================
+Name: Lythium
+Release Date: Jul 3, 2026
+Price: $11.99 (-20%, was $14.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4016570
+==================================================
+
+==================================================
+Name: Brazzante
+Release Date: Jul 3, 2026
+Price: $1.79 (-40%, was $2.99)
+Genres: Casual, Strategy
+Link: https://store.steampowered.com/app/4305620
+==================================================
+
+==================================================
+Name: Operation Moon Walker
+Release Date: Jul 3, 2026
+Price: $1.99
+Genres: Action
+Link: https://store.steampowered.com/app/4480550
+==================================================
+
+==================================================
+Name: 100 Summer Cats
+Release Date: Jul 3, 2026
+Price: $1.19 (-40%, was $1.99)
+Genres: Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/4310730
+==================================================
+
+==================================================
+Name: Ninety Nine Dungeons
+Release Date: Jul 3, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Action, Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/4469500
+==================================================
+
+==================================================
+Name: Fascist
+Release Date: Jul 3, 2026
+Price: $2.50
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/4291890
+==================================================
+
+==================================================
+Name: The Mine Room
+Release Date: Jul 3, 2026
+Price: $5.39 (-10%, was $5.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/3802740
+==================================================
+
+==================================================
+Name: Mandate of Heaven : Dynasty Breakout Idle
+Release Date: Jul 3, 2026
+Price: $3.74 (-25%, was $4.99)
+Genres: Action, Casual
+Link: https://store.steampowered.com/app/4775240
+==================================================
+
+==================================================
+Name: Final Legal Move
+Release Date: Jul 3, 2026
+Price: $2.54 (-15%, was $2.99)
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/4709940
+==================================================
+
+==================================================
+Name: Hentai Clicker: Nazumi is streaming
+Release Date: Jul 3, 2026
+Price: $2.00 (-33%, was $2.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4854240
+==================================================
+
+==================================================
+Name: The Rise Of The Undead
+Release Date: Jul 3, 2026
+Price: $5.99
+Genres: Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/4855580
+==================================================
+
+==================================================
+Name: Strip Memory: Unlocked Desires
+Release Date: Jul 3, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Indie
+Link: https://store.steampowered.com/app/4627210
+==================================================
+
+==================================================
+Name: Hentai Tales: The Lewd Streamer Living Beside Me
+Release Date: Jul 2, 2026
+Price: $0.59 (-40%, was $0.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4786340
+==================================================
+
+==================================================
+Name: LOST IN LOST JAPAN
+Release Date: Jul 2, 2026
+Price: $2.99
+Genres: Action, Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4531750
+==================================================
+
