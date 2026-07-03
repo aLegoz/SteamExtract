@@ -37724,3 +37724,22 @@ Genres: Indie, RPG, Simulation, Strategy
 Link: https://store.steampowered.com/app/3871550
 ==================================================
 
+
+--- Run: 2026-07-03 11:58:08 --- (2 new game(s) found)
+
+==================================================
+Name: Hold My Hand (Or Let Go)
+Release Date: Coming soon
+Price: Free to Play
+Genres: Indie, Free To Play
+Link: https://store.steampowered.com/app/4845540
+==================================================
+
+==================================================
+Name: Selena's Charm 2: Enchanted Garden
+Release Date: Jul 3, 2026
+Price: Free to Play
+Genres: Casual, Free To Play
+Link: https://store.steampowered.com/app/4760660
+==================================================
+
