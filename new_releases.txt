@@ -37558,3 +37558,86 @@ Genres: Action, Free To Play
 Link: https://store.steampowered.com/app/4591270
 ==================================================
 
+
+--- Run: 2026-07-03 06:19:21 --- (10 new game(s) found)
+
+==================================================
+Name: Myth's and monster's
+Release Date: Jul 2, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: Adventure, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/4570060
+==================================================
+
+==================================================
+Name: Master Healer Kale with useless party
+Release Date: Jul 2, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/4634490
+==================================================
+
+==================================================
+Name: Idle Regenerator
+Release Date: Jul 2, 2026
+Price: $6.99 (-30%, was $9.99)
+Genres: Casual, Indie, RPG
+Link: https://store.steampowered.com/app/4855380
+==================================================
+
+==================================================
+Name: NULL DUN
+Release Date: Jul 2, 2026
+Price: $8.49 (-15%, was $9.99)
+Genres: Adventure, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4710190
+==================================================
+
+==================================================
+Name: UNDERGROUNDED
+Release Date: Jul 2, 2026
+Price: $17.99 (-10%, was $19.99)
+Genres: Adventure
+Link: https://store.steampowered.com/app/3076910
+==================================================
+
+==================================================
+Name: Three Kingdoms Classic
+Release Date: Jul 2, 2026
+Price: $10.39 (-20%, was $12.99)
+Genres: Simulation, Strategy
+Link: https://store.steampowered.com/app/4818580
+==================================================
+
+==================================================
+Name: DeadboySkeleton
+Release Date: Jul 2, 2026
+Price: $4.99
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4847800
+==================================================
+
+==================================================
+Name: Signal Zero
+Release Date: Jul 2, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Casual, Simulation
+Link: https://store.steampowered.com/app/4776760
+==================================================
+
+==================================================
+Name: Moe Mekuri Beauty and the Beast
+Release Date: Jul 2, 2026
+Price: $17.59 (-20%, was $21.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4779520
+==================================================
+
+==================================================
+Name: Pro Tukey Hunting
+Release Date: Jul 2, 2026
+Price: $9.99
+Genres: Simulation, Sports
+Link: https://store.steampowered.com/app/4854360
+==================================================
+
