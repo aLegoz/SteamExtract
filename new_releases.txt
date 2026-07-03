@@ -37995,3 +37995,46 @@ Genres: Action, Adventure, Casual, Indie
 Link: https://store.steampowered.com/app/978280
 ==================================================
 
+
+--- Run: 2026-07-03 21:53:47 --- (5 new game(s) found)
+
+==================================================
+Name: Bepe War
+Release Date: Jul 3, 2026
+Price: $8.00
+Genres: Action, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4798810
+==================================================
+
+==================================================
+Name: Secret Cats - Independence Day
+Release Date: Jul 3, 2026
+Price: $0.84 (-15%, was $0.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/4821350
+==================================================
+
+==================================================
+Name: Conqueror's Stage
+Release Date: Jul 3, 2026
+Price: $6.39 (-20%, was $7.99)
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/4084160
+==================================================
+
+==================================================
+Name: Snow Route
+Release Date: Jul 3, 2026
+Price: $5.39 (-40%, was $8.99)
+Genres: Casual, Indie, Racing
+Link: https://store.steampowered.com/app/4845500
+==================================================
+
+==================================================
+Name: Merlin Survivors
+Release Date: Jul 3, 2026
+Price: $2.99 (-25%, was $3.99)
+Genres: Action, Casual, Indie, RPG
+Link: https://store.steampowered.com/app/3938150
+==================================================
+
