@@ -37885,3 +37885,22 @@ Genres: Action, Adventure, Casual, Indie
 Link: https://store.steampowered.com/app/4531750
 ==================================================
 
+
+--- Run: 2026-07-03 17:09:20 --- (2 new game(s) found)
+
+==================================================
+Name: Marshmallow Story: in Marshmallow Village
+Release Date: Jul 3, 2026
+Price: Free to Play
+Genres: Adventure, RPG, Free To Play
+Link: https://store.steampowered.com/app/4828230
+==================================================
+
+==================================================
+Name: LIVORA
+Release Date: Jul 3, 2026
+Price: $11.69 (-10%, was $12.99)
+Genres: Adventure, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4841780
+==================================================
+
