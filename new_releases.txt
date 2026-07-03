@@ -37743,3 +37743,14 @@ Genres: Casual, Free To Play
 Link: https://store.steampowered.com/app/4760660
 ==================================================
 
+
+--- Run: 2026-07-03 13:54:15 --- (1 new game(s) found)
+
+==================================================
+Name: ABC Music Maker
+Release Date: Jul 3, 2026
+Price: $19.99
+Genres: Audio Production
+Link: https://store.steampowered.com/app/4801960
+==================================================
+
