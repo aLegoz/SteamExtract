@@ -38038,3 +38038,6 @@ Genres: Action, Casual, Indie, RPG
 Link: https://store.steampowered.com/app/3938150
 ==================================================
 
+
+--- Run: 2026-07-03 22:51:46 --- (0 new game(s) found)
+
