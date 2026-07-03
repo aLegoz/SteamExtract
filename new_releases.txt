@@ -38041,3 +38041,14 @@ Link: https://store.steampowered.com/app/3938150
 
 --- Run: 2026-07-03 22:51:46 --- (0 new game(s) found)
 
+
+--- Run: 2026-07-03 23:53:38 --- (1 new game(s) found)
+
+==================================================
+Name: Sign Off Affair
+Release Date: Jul 3, 2026
+Price: $4.19 (-40%, was $6.99)
+Genres: Adventure, Simulation
+Link: https://store.steampowered.com/app/4787490
+==================================================
+
