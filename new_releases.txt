@@ -38208,3 +38208,22 @@ Genres: Casual
 Link: https://store.steampowered.com/app/4755900
 ==================================================
 
+
+--- Run: 2026-07-04 11:59:44 --- (2 new game(s) found)
+
+==================================================
+Name: TravelRoute Studio
+Release Date: Jul 4, 2026
+Price: Free to Play
+Genres: Free To Play, Animation & Modeling, Photo Editing, Utilities, Video Production
+Link: https://store.steampowered.com/app/4409090
+==================================================
+
+==================================================
+Name: Syndeo-Complex
+Release Date: Jul 4, 2026
+Price: Free to Play
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/1988930
+==================================================
+
