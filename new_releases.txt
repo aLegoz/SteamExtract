@@ -38284,3 +38284,22 @@ Genres: Casual, Indie, Strategy, Free To Play
 Link: https://store.steampowered.com/app/4757640
 ==================================================
 
+
+--- Run: 2026-07-04 18:51:43 --- (2 new game(s) found)
+
+==================================================
+Name: RedDot
+Release Date: Jul 4, 2026
+Price: $5.99 (-40%, was $9.99)
+Genres: Utilities
+Link: https://store.steampowered.com/app/4326610
+==================================================
+
+==================================================
+Name: Random Fantasy Defense
+Release Date: Jul 4, 2026
+Price: $2.99
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4825610
+==================================================
+
