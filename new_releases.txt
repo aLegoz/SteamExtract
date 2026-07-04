@@ -38303,3 +38303,14 @@ Genres: Casual, Indie, Strategy
 Link: https://store.steampowered.com/app/4825610
 ==================================================
 
+
+--- Run: 2026-07-04 22:44:08 --- (1 new game(s) found)
+
+==================================================
+Name: Spirit of the Dome
+Release Date: Jul 4, 2026
+Price: $3.94 (-21%, was $4.99)
+Genres: Action, Casual, Strategy
+Link: https://store.steampowered.com/app/3384540
+==================================================
+
