@@ -38087,3 +38087,38 @@ Genres: Adventure, Casual, Indie
 Link: https://store.steampowered.com/app/4804430
 ==================================================
 
+
+--- Run: 2026-07-04 05:33:29 --- (4 new game(s) found)
+
+==================================================
+Name: Beat Pet
+Release Date: Jul 3, 2026
+Price: $0.90 (-10%, was $1.00)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4819850
+==================================================
+
+==================================================
+Name: Rescue Dogs vs Aliens Tower Defense
+Release Date: Jul 3, 2026
+Price: $6.99
+Genres: Casual, Strategy
+Link: https://store.steampowered.com/app/4797790
+==================================================
+
+==================================================
+Name: DRUMP SIMULATOR
+Release Date: Jul 3, 2026
+Price: $2.39 (-40%, was $3.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4557030
+==================================================
+
+==================================================
+Name: AR Basketball
+Release Date: Jul 3, 2026
+Price: $19.99
+Genres: Simulation, Sports, Strategy
+Link: https://store.steampowered.com/app/4794320
+==================================================
+
