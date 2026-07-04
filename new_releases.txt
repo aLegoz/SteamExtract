@@ -38314,3 +38314,22 @@ Genres: Action, Casual, Strategy
 Link: https://store.steampowered.com/app/3384540
 ==================================================
 
+
+--- Run: 2026-07-04 23:50:40 --- (2 new game(s) found)
+
+==================================================
+Name: The Incident
+Release Date: Jul 4, 2026
+Price: $3.19 (-20%, was $3.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4698340
+==================================================
+
+==================================================
+Name: Rootbound Enigma
+Release Date: Jul 4, 2026
+Price: $2.99
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4478740
+==================================================
+
