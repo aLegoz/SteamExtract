@@ -38265,3 +38265,22 @@ Genres: Casual
 Link: https://store.steampowered.com/app/4840120
 ==================================================
 
+
+--- Run: 2026-07-04 17:53:21 --- (2 new game(s) found)
+
+==================================================
+Name: 五行策(WuXing Card)
+Release Date: Jul 4, 2026
+Price: $2.39 (-40%, was $3.99)
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/4365090
+==================================================
+
+==================================================
+Name: JULPAE
+Release Date: Jul 4, 2026
+Price: Free to Play
+Genres: Casual, Indie, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4757640
+==================================================
+
