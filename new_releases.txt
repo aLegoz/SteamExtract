@@ -38122,3 +38122,54 @@ Genres: Simulation, Sports, Strategy
 Link: https://store.steampowered.com/app/4794320
 ==================================================
 
+
+--- Run: 2026-07-04 08:18:23 --- (6 new game(s) found)
+
+==================================================
+Name: Hot Dogs, Horseshoes & Hand Grenades
+Release Date: Jul 4, 2026
+Price: $19.99
+Genres: Action, Simulation
+Link: https://store.steampowered.com/app/450540
+==================================================
+
+==================================================
+Name: 简易日式麻将
+Release Date: Jul 4, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/4824410
+==================================================
+
+==================================================
+Name: SoundRelay
+Release Date: Jul 3, 2026
+Price: $4.99
+Genres: Casual, Audio Production, Utilities
+Link: https://store.steampowered.com/app/4800130
+==================================================
+
+==================================================
+Name: Ploy Co.
+Release Date: Jul 3, 2026
+Price: $4.99
+Genres: Casual
+Link: https://store.steampowered.com/app/4005740
+==================================================
+
+==================================================
+Name: OFS
+Release Date: Jul 3, 2026
+Price: $3.74 (-25%, was $4.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/548800
+==================================================
+
+==================================================
+Name: Purrfect Slide
+Release Date: Jul 3, 2026
+Price: $5.99 (-40%, was $9.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4834090
+==================================================
+
