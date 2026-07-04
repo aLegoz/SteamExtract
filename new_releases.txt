@@ -38173,3 +38173,38 @@ Genres: Casual, Indie
 Link: https://store.steampowered.com/app/4834090
 ==================================================
 
+
+--- Run: 2026-07-04 10:46:30 --- (4 new game(s) found)
+
+==================================================
+Name: For the Crown
+Release Date: Jul 4, 2026
+Price: $4.99 (-50%, was $9.99)
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/2191410
+==================================================
+
+==================================================
+Name: Visionaire Studio
+Release Date: Jul 4, 2026
+Price: Free to Play
+Genres: Adventure, Free To Play, Game Development
+Link: https://store.steampowered.com/app/4367370
+==================================================
+
+==================================================
+Name: Grandpa's Euchre
+Release Date: Jul 4, 2026
+Price: $2.99
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4864200
+==================================================
+
+==================================================
+Name: CHIPSTACK
+Release Date: Jul 3, 2026
+Price: $6.29 (-10%, was $6.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/4755900
+==================================================
+
