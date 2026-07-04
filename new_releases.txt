@@ -38227,3 +38227,30 @@ Genres: Action, Indie
 Link: https://store.steampowered.com/app/1988930
 ==================================================
 
+
+--- Run: 2026-07-04 13:26:25 --- (3 new game(s) found)
+
+==================================================
+Name: Brick Game
+Release Date: Jul 4, 2026
+Price: $11.99
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/1087090
+==================================================
+
+==================================================
+Name: Sex Passion and Lust
+Release Date: Jul 4, 2026
+Price: $14.99 (-25%, was $19.99)
+Genres: Action, Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/4840320
+==================================================
+
+==================================================
+Name: Last Guest at Sunset
+Release Date: Jul 3, 2026
+Price: $13.99
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4822430
+==================================================
+
