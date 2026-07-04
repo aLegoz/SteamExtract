@@ -38052,3 +38052,38 @@ Genres: Adventure, Simulation
 Link: https://store.steampowered.com/app/4787490
 ==================================================
 
+
+--- Run: 2026-07-04 01:43:01 --- (4 new game(s) found)
+
+==================================================
+Name: Crosshair King
+Release Date: Jul 3, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Utilities
+Link: https://store.steampowered.com/app/4765540
+==================================================
+
+==================================================
+Name: The Hollow Road: Prologue
+Release Date: Jul 3, 2026
+Price: $3.59 (-10%, was $3.99)
+Genres: Indie
+Link: https://store.steampowered.com/app/4668560
+==================================================
+
+==================================================
+Name: Hyper_Sea_5000
+Release Date: Jul 3, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/3164460
+==================================================
+
+==================================================
+Name: Re:Metamorphosis Candina
+Release Date: Jul 3, 2026
+Price: $2.39 (-20%, was $2.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4804430
+==================================================
+
