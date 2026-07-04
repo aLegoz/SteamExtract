@@ -38254,3 +38254,14 @@ Genres: Adventure, Casual, Indie
 Link: https://store.steampowered.com/app/4822430
 ==================================================
 
+
+--- Run: 2026-07-04 15:54:49 --- (1 new game(s) found)
+
+==================================================
+Name: Relic Restorer
+Release Date: Jul 4, 2026
+Price: $1.99
+Genres: Casual
+Link: https://store.steampowered.com/app/4840120
+==================================================
+
