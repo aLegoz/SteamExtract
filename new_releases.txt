@@ -38379,3 +38379,22 @@ Genres: Casual, Indie, Strategy
 Link: https://store.steampowered.com/app/4831720
 ==================================================
 
+
+--- Run: 2026-07-05 10:56:17 --- (2 new game(s) found)
+
+==================================================
+Name: Incarnation - Lifetimes
+Release Date: Jul 5, 2026
+Price: $2.99 (-40%, was $4.99)
+Genres: Strategy
+Link: https://store.steampowered.com/app/1831380
+==================================================
+
+==================================================
+Name: Yips!
+Release Date: Jul 5, 2026
+Price: $2.99
+Genres: Casual, Indie, Sports
+Link: https://store.steampowered.com/app/3059360
+==================================================
+
