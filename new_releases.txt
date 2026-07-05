@@ -38485,3 +38485,22 @@ Genres: RPG
 Link: https://store.steampowered.com/app/4377340
 ==================================================
 
+
+--- Run: 2026-07-05 21:47:18 --- (2 new game(s) found)
+
+==================================================
+Name: Pictures at an Exhibition
+Release Date: Jul 5, 2026
+Price: $7.99
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4854680
+==================================================
+
+==================================================
+Name: FishPond
+Release Date: Jul 5, 2026
+Price: $3.39 (-15%, was $3.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4317130
+==================================================
+
