@@ -38523,3 +38523,30 @@ Genres: Indie, Simulation
 Link: https://store.steampowered.com/app/4829070
 ==================================================
 
+
+--- Run: 2026-07-05 23:53:43 --- (3 new game(s) found)
+
+==================================================
+Name: Nyctophobia
+Release Date: Jul 5, 2026
+Price: $2.99
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4519490
+==================================================
+
+==================================================
+Name: Cig Walk
+Release Date: Jul 5, 2026
+Price: $3.39 (-15%, was $3.99)
+Genres: Adventure, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4160910
+==================================================
+
+==================================================
+Name: Bounce Ball Clicker
+Release Date: Jul 5, 2026
+Price: $3.19 (-20%, was $3.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4723380
+==================================================
+
