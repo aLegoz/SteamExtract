@@ -38504,3 +38504,22 @@ Genres: Casual, Indie, Simulation
 Link: https://store.steampowered.com/app/4317130
 ==================================================
 
+
+--- Run: 2026-07-05 22:46:41 --- (2 new game(s) found)
+
+==================================================
+Name: Solendara
+Release Date: Jul 5, 2026
+Price: $19.99
+Genres: Action, Indie, RPG
+Link: https://store.steampowered.com/app/2896750
+==================================================
+
+==================================================
+Name: Twelve Boxes
+Release Date: Jul 5, 2026
+Price: $1.50 (-10%, was $1.67)
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/4829070
+==================================================
+
