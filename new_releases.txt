@@ -38333,3 +38333,38 @@ Genres: Adventure, Indie
 Link: https://store.steampowered.com/app/4478740
 ==================================================
 
+
+--- Run: 2026-07-05 05:52:05 --- (4 new game(s) found)
+
+==================================================
+Name: An Adventure in Arabic
+Release Date: Jul 4, 2026
+Price: Free to Play
+Genres: Adventure, Indie, RPG, Free To Play
+Link: https://store.steampowered.com/app/4394260
+==================================================
+
+==================================================
+Name: The Pawn Broker
+Release Date: Jul 4, 2026
+Price: $7.19 (-10%, was $7.99)
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/4840300
+==================================================
+
+==================================================
+Name: Overlab
+Release Date: Jul 4, 2026
+Price: Free to Play
+Genres: Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/4858520
+==================================================
+
+==================================================
+Name: FOCUS
+Release Date: Jul 4, 2026
+Price: $3.39 (-15%, was $3.99)
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/4849010
+==================================================
+
