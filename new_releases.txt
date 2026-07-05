@@ -38428,3 +38428,30 @@ Genres: Casual, Indie
 Link: https://store.steampowered.com/app/4771430
 ==================================================
 
+
+--- Run: 2026-07-05 15:58:33 --- (3 new game(s) found)
+
+==================================================
+Name: Nin Ninja RESCUE MISSION
+Release Date: Jul 5, 2026
+Price: $1.79 (-10%, was $1.99)
+Genres: Action, Adventure, Casual, Indie, Racing, RPG
+Link: https://store.steampowered.com/app/4829230
+==================================================
+
+==================================================
+Name: Wizard Gold
+Release Date: Jul 5, 2026
+Price: $5.99
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/873260
+==================================================
+
+==================================================
+Name: The King's Game: Through the Veil
+Release Date: Jul 5, 2026
+Price: $6.99
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4590610
+==================================================
+
