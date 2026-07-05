@@ -38368,3 +38368,14 @@ Genres: Indie, Simulation
 Link: https://store.steampowered.com/app/4849010
 ==================================================
 
+
+--- Run: 2026-07-05 08:36:30 --- (1 new game(s) found)
+
+==================================================
+Name: City Cardz
+Release Date: Jul 5, 2026
+Price: $3.59 (-10%, was $3.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4831720
+==================================================
+
