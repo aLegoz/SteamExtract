@@ -38417,3 +38417,14 @@ Genres: Adventure, Indie, Simulation
 Link: https://store.steampowered.com/app/3997700
 ==================================================
 
+
+--- Run: 2026-07-05 14:23:08 --- (1 new game(s) found)
+
+==================================================
+Name: Pickel: The Mysterious Mine
+Release Date: Jul 5, 2026
+Price: $2.69 (-10%, was $2.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4771430
+==================================================
+
