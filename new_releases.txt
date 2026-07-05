@@ -38398,3 +38398,22 @@ Genres: Casual, Indie, Sports
 Link: https://store.steampowered.com/app/3059360
 ==================================================
 
+
+--- Run: 2026-07-05 12:09:18 --- (2 new game(s) found)
+
+==================================================
+Name: Master Fall
+Release Date: Jul 5, 2026
+Price: $7.99
+Genres: Indie
+Link: https://store.steampowered.com/app/4707290
+==================================================
+
+==================================================
+Name: Where Is Mommy
+Release Date: Jul 4, 2026
+Price: $4.19 (-30%, was $5.99)
+Genres: Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/3997700
+==================================================
+
