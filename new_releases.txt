@@ -38455,3 +38455,14 @@ Genres: Casual, Indie, Strategy
 Link: https://store.steampowered.com/app/4590610
 ==================================================
 
+
+--- Run: 2026-07-05 17:05:52 --- (1 new game(s) found)
+
+==================================================
+Name: 101 Dogs Hidden in New York
+Release Date: Jul 5, 2026
+Price: $1.19 (-40%, was $1.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4829180
+==================================================
+
