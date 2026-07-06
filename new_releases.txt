@@ -38859,3 +38859,14 @@ Genres: Action
 Link: https://store.steampowered.com/app/4277610
 ==================================================
 
+
+--- Run: 2026-07-06 22:54:07 --- (1 new game(s) found)
+
+==================================================
+Name: Pattaya Simulator
+Release Date: Jul 6, 2026
+Price: $7.64 (-15%, was $8.99)
+Genres: Action, Adventure, Indie, RPG, Simulation
+Link: https://store.steampowered.com/app/4086150
+==================================================
+
