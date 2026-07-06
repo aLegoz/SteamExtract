@@ -38797,3 +38797,46 @@ Genres: Casual, Indie
 Link: https://store.steampowered.com/app/4871640
 ==================================================
 
+
+--- Run: 2026-07-06 19:34:54 --- (5 new game(s) found)
+
+==================================================
+Name: Simulation 9
+Release Date: Jul 6, 2026
+Price: $8.39 (-40%, was $13.99)
+Genres: Adventure, Casual, Simulation
+Link: https://store.steampowered.com/app/4435420
+==================================================
+
+==================================================
+Name: The Last Tale Told: Spam
+Release Date: Jul 6, 2026
+Price: $5.39 (-10%, was $5.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4133490
+==================================================
+
+==================================================
+Name: Cosmodrill
+Release Date: Jul 6, 2026
+Price: $9.99
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/3722660
+==================================================
+
+==================================================
+Name: INFLATION Inc.
+Release Date: Jul 6, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/3453040
+==================================================
+
+==================================================
+Name: Another Slop Game
+Release Date: Jul 6, 2026
+Price: $3.36 (-10%, was $3.74)
+Genres: Adventure, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4853490
+==================================================
+
