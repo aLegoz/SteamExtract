@@ -38569,3 +38569,38 @@ Genres: Action, Casual, Indie
 Link: https://store.steampowered.com/app/4479130
 ==================================================
 
+
+--- Run: 2026-07-06 06:15:52 --- (4 new game(s) found)
+
+==================================================
+Name: Sunken Dragon
+Release Date: Jul 5, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Indie, RPG
+Link: https://store.steampowered.com/app/3257760
+==================================================
+
+==================================================
+Name: I'm Making a Monster
+Release Date: Jul 5, 2026
+Price: $7.18 (-10%, was $7.98)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4047160
+==================================================
+
+==================================================
+Name: Schizophrenia: The Last Shift
+Release Date: Jul 5, 2026
+Price: $2.63 (-34%, was $3.99)
+Genres: Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/3119250
+==================================================
+
+==================================================
+Name: Idle Village
+Release Date: Jul 5, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/2684890
+==================================================
+
