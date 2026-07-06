@@ -38663,3 +38663,54 @@ Genres: Casual, Indie, RPG, Simulation, Strategy
 Link: https://store.steampowered.com/app/2757260
 ==================================================
 
+
+--- Run: 2026-07-06 14:51:46 --- (6 new game(s) found)
+
+==================================================
+Name: RushWord
+Release Date: Jul 6, 2026
+Price: $3.39 (-15%, was $3.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4033220
+==================================================
+
+==================================================
+Name: The Obsession
+Release Date: Jul 6, 2026
+Price: $2.99
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4249810
+==================================================
+
+==================================================
+Name: Marianara Deep
+Release Date: Jul 6, 2026
+Price: Free to Play
+Genres: Action, Indie, Free To Play
+Link: https://store.steampowered.com/app/4660660
+==================================================
+
+==================================================
+Name: Clusterbug
+Release Date: Jul 6, 2026
+Price: Free to Play
+Genres: Action, Adventure, Indie, Free To Play
+Link: https://store.steampowered.com/app/3367910
+==================================================
+
+==================================================
+Name: Herb's Homegrown Havoc
+Release Date: Jul 6, 2026
+Price: $2.39 (-20%, was $2.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/3566760
+==================================================
+
+==================================================
+Name: Obey the Rules: Forest
+Release Date: Jul 6, 2026
+Price: $1.49 (-25%, was $1.99)
+Genres: Indie
+Link: https://store.steampowered.com/app/4571030
+==================================================
+
