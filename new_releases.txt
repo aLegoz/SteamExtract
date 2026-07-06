@@ -38714,3 +38714,86 @@ Genres: Indie
 Link: https://store.steampowered.com/app/4571030
 ==================================================
 
+
+--- Run: 2026-07-06 17:36:07 --- (10 new game(s) found)
+
+==================================================
+Name: Esports Manager 2026
+Release Date: Jul 6, 2026
+Price: $15.99 (-20%, was $19.99)
+Genres: Indie, Simulation, Sports, Strategy
+Link: https://store.steampowered.com/app/2749950
+==================================================
+
+==================================================
+Name: Gorotsuki Paradise
+Release Date: Jul 6, 2026
+Price: Free to Play
+Genres: Strategy, Free To Play
+Link: https://store.steampowered.com/app/4246340
+==================================================
+
+==================================================
+Name: Kamikaze Survivors
+Release Date: Jul 6, 2026
+Price: $7.49 (-25%, was $9.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4412950
+==================================================
+
+==================================================
+Name: Idle DeepMiner
+Release Date: Jul 6, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4529100
+==================================================
+
+==================================================
+Name: Audictrl
+Release Date: Jul 6, 2026
+Price: $2.99
+Genres: Utilities
+Link: https://store.steampowered.com/app/4822820
+==================================================
+
+==================================================
+Name: Mandala
+Release Date: Jul 6, 2026
+Price: $1.19 (-40%, was $1.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4293770
+==================================================
+
+==================================================
+Name: Pogo Panic
+Release Date: Jul 6, 2026
+Price: $2.39 (-40%, was $3.99)
+Genres: Adventure, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/3902930
+==================================================
+
+==================================================
+Name: Evercrown
+Release Date: Jul 6, 2026
+Price: $6.74 (-10%, was $7.49)
+Genres: Adventure, RPG, Strategy
+Link: https://store.steampowered.com/app/4306760
+==================================================
+
+==================================================
+Name: JAMBREDREK: PURE DETECTIVE
+Release Date: Jul 6, 2026
+Price: $2.25
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/4804440
+==================================================
+
+==================================================
+Name: Ore Shatterer
+Release Date: Jul 6, 2026
+Price: $0.89 (-10%, was $0.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4871640
+==================================================
+
