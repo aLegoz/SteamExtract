@@ -38840,3 +38840,22 @@ Genres: Adventure, Casual, Indie, Simulation
 Link: https://store.steampowered.com/app/4853490
 ==================================================
 
+
+--- Run: 2026-07-06 21:18:05 --- (2 new game(s) found)
+
+==================================================
+Name: Iron Circus × INDIEPOCALYPSE Game Jam
+Release Date: Jul 6, 2026
+Price: $8.49 (-15%, was $9.99)
+Genres: Action, Adventure, Casual, Indie, RPG, Simulation
+Link: https://store.steampowered.com/app/3892320
+==================================================
+
+==================================================
+Name: Canyon Raid
+Release Date: Jul 6, 2026
+Price: $4.99
+Genres: Action
+Link: https://store.steampowered.com/app/4277610
+==================================================
+
