@@ -38550,3 +38550,22 @@ Genres: Casual, Indie, Strategy
 Link: https://store.steampowered.com/app/4723380
 ==================================================
 
+
+--- Run: 2026-07-06 01:53:49 --- (2 new game(s) found)
+
+==================================================
+Name: World: 23806
+Release Date: Jul 5, 2026
+Price: $6.99
+Genres: Adventure, RPG, Simulation, Strategy
+Link: https://store.steampowered.com/app/4527270
+==================================================
+
+==================================================
+Name: Reveal Ball Pit: Defeated by Tentacles
+Release Date: Jul 5, 2026
+Price: $2.99 (-40%, was $4.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4479130
+==================================================
+
