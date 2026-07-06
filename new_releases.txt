@@ -38604,3 +38604,62 @@ Genres: Casual
 Link: https://store.steampowered.com/app/2684890
 ==================================================
 
+
+--- Run: 2026-07-06 11:19:48 --- (7 new game(s) found)
+
+==================================================
+Name: Skyfire Embers
+Release Date: Jul 6, 2026
+Price: Free to Play
+Genres: Action, Adventure, Indie, Free To Play
+Link: https://store.steampowered.com/app/4660680
+==================================================
+
+==================================================
+Name: Nightclub Empire
+Release Date: Jul 6, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4813570
+==================================================
+
+==================================================
+Name: ShapesFoundry
+Release Date: Jul 6, 2026
+Price: $24.99
+Genres: Design & Illustration, Utilities
+Link: https://store.steampowered.com/app/4851520
+==================================================
+
+==================================================
+Name: Thunder Infinity
+Release Date: Jul 6, 2026
+Price: $11.40
+Genres: Action
+Link: https://store.steampowered.com/app/4667980
+==================================================
+
+==================================================
+Name: Touhou - Kira's Fangame Collection
+Release Date: Jul 6, 2026
+Price: Free to Play
+Genres: Action, Adventure, Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/4761030
+==================================================
+
+==================================================
+Name: XeGrader plus
+Release Date: Jul 6, 2026
+Price: $17.99 (-10%, was $19.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/4323520
+==================================================
+
+==================================================
+Name: Three Kingdoms : Restoration of Han
+Release Date: Jul 5, 2026
+Price: $11.69 (-10%, was $12.99)
+Genres: Casual, Indie, RPG, Simulation, Strategy
+Link: https://store.steampowered.com/app/2757260
+==================================================
+
