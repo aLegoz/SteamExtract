@@ -39189,3 +39189,70 @@ Genres: Adventure, Indie
 Link: https://store.steampowered.com/app/3515060
 ==================================================
 
+
+--- Run: 2026-07-07 18:54:07 --- (8 new game(s) found)
+
+==================================================
+Name: Drunk Dad vs Family
+Release Date: Jul 7, 2026
+Price: $2.59 (-35%, was $3.99)
+Genres: Action, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/3706280
+==================================================
+
+==================================================
+Name: 50 Years Classic
+Release Date: Jul 7, 2026
+Price: Free to Play
+Genres: Indie, Strategy, Free To Play
+Link: https://store.steampowered.com/app/3914980
+==================================================
+
+==================================================
+Name: Puzzles: Fish
+Release Date: Jul 7, 2026
+Price: $0.59 (-40%, was $0.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4727270
+==================================================
+
+==================================================
+Name: Enigmo
+Release Date: Jul 7, 2026
+Price: $9.99
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/562770
+==================================================
+
+==================================================
+Name: Puzzles: Space Cats
+Release Date: Jul 7, 2026
+Price: $0.59 (-40%, was $0.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4727280
+==================================================
+
+==================================================
+Name: Chief of the Valley
+Release Date: Jul 7, 2026
+Price: $12.99
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4787290
+==================================================
+
+==================================================
+Name: City Girl: Heartbeat Sea Breeze
+Release Date: Jul 7, 2026
+Price: $1.59 (-20%, was $1.99)
+Genres: Casual, RPG
+Link: https://store.steampowered.com/app/3996680
+==================================================
+
+==================================================
+Name: Aéro: speedrun labyrinthe
+Release Date: Jul 7, 2026
+Price: $4.99
+Genres: Adventure, Indie, Strategy
+Link: https://store.steampowered.com/app/4856850
+==================================================
+
