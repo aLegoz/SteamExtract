@@ -38870,3 +38870,30 @@ Genres: Action, Adventure, Indie, RPG, Simulation
 Link: https://store.steampowered.com/app/4086150
 ==================================================
 
+
+--- Run: 2026-07-07 01:57:36 --- (3 new game(s) found)
+
+==================================================
+Name: galaksia online
+Release Date: Jul 6, 2026
+Price: $1.59 (-20%, was $1.99)
+Genres: Adventure, Casual, Indie, Massively Multiplayer, RPG, Strategy
+Link: https://store.steampowered.com/app/4789820
+==================================================
+
+==================================================
+Name: Venomous Dalliances 💚
+Release Date: Jul 6, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Action, Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4170130
+==================================================
+
+==================================================
+Name: Injury Time Lovers
+Release Date: Jul 6, 2026
+Price: $4.19 (-40%, was $6.99)
+Genres: Adventure, Simulation
+Link: https://store.steampowered.com/app/4793920
+==================================================
+
