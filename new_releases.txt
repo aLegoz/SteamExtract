@@ -38964,3 +38964,70 @@ Genres: Action, Indie
 Link: https://store.steampowered.com/app/4531740
 ==================================================
 
+
+--- Run: 2026-07-07 10:16:23 --- (8 new game(s) found)
+
+==================================================
+Name: operation
+Release Date: Jul 7, 2026
+Price: Free to Play
+Genres: Action, Adventure, Indie, Free To Play
+Link: https://store.steampowered.com/app/4868590
+==================================================
+
+==================================================
+Name: Fugaz
+Release Date: Jul 7, 2026
+Price: $5.39 (-10%, was $5.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4389170
+==================================================
+
+==================================================
+Name: DOI: Defense Shooter
+Release Date: Jul 7, 2026
+Price: Free to Play
+Genres: Action, Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/4829530
+==================================================
+
+==================================================
+Name: Down The Stairs: The Game
+Release Date: Jul 7, 2026
+Price: $9.89 (-10%, was $10.99)
+Genres: Casual, Indie, Racing, Simulation, Sports
+Link: https://store.steampowered.com/app/4810930
+==================================================
+
+==================================================
+Name: Khaldun: Text Based Strategy
+Release Date: Jul 6, 2026
+Price: $2.99 (-40%, was $4.99)
+Genres: Adventure, Indie, RPG, Simulation, Strategy
+Link: https://store.steampowered.com/app/4539870
+==================================================
+
+==================================================
+Name: Heavy Wake
+Release Date: Jul 6, 2026
+Price: $1.79 (-10%, was $1.99)
+Genres: Adventure, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/4235660
+==================================================
+
+==================================================
+Name: PROJECT: OJISAN
+Release Date: Jul 6, 2026
+Price: $1.59 (-20%, was $1.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4588010
+==================================================
+
+==================================================
+Name: Tiny Frontier
+Release Date: Jul 6, 2026
+Price: $3.59 (-40%, was $5.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4133940
+==================================================
+
