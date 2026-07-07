@@ -39342,3 +39342,14 @@ Genres: Casual, Sports, Strategy
 Link: https://store.steampowered.com/app/4101270
 ==================================================
 
+
+--- Run: 2026-07-07 23:43:20 --- (1 new game(s) found)
+
+==================================================
+Name: NTE: Neverness to Everness
+Release Date: Jul 7, 2026
+Price: Free to Play
+Genres: Action, Adventure, RPG, Free To Play
+Link: https://store.steampowered.com/app/4508340
+==================================================
+
