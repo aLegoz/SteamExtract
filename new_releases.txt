@@ -39031,3 +39031,78 @@ Genres: Action, Casual, Indie
 Link: https://store.steampowered.com/app/4133940
 ==================================================
 
+
+--- Run: 2026-07-07 13:09:02 --- (9 new game(s) found)
+
+==================================================
+Name: The Hollow House
+Release Date: Jul 7, 2026
+Price: Free to Play
+Genres: Indie, Free To Play
+Link: https://store.steampowered.com/app/4851270
+==================================================
+
+==================================================
+Name: Legacy of the Ark: The Long Awakening
+Release Date: Jul 7, 2026
+Price: Free to Play
+Genres: Casual, Indie, Simulation, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4871420
+==================================================
+
+==================================================
+Name: Hentai Succubus Puzzle
+Release Date: Jul 7, 2026
+Price: Free to Play
+Genres: Casual, Free To Play
+Link: https://store.steampowered.com/app/4844800
+==================================================
+
+==================================================
+Name: Hentai Puzzle: Reika
+Release Date: Jul 7, 2026
+Price: $2.00 (-33%, was $2.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4826450
+==================================================
+
+==================================================
+Name: OUTWORKS
+Release Date: Jul 7, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4859790
+==================================================
+
+==================================================
+Name: Throne of Trials
+Release Date: Jul 7, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: RPG
+Link: https://store.steampowered.com/app/4844330
+==================================================
+
+==================================================
+Name: Arsica: Echoes of Ars
+Release Date: Jul 7, 2026
+Price: $9.89 (-10%, was $10.99)
+Genres: Action, Adventure, Casual, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/4874010
+==================================================
+
+==================================================
+Name: Burger Maker
+Release Date: Jul 7, 2026
+Price: $1.60 (-20%, was $2.00)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4872590
+==================================================
+
+==================================================
+Name: Thirteen: Risk & Rogue
+Release Date: Jul 6, 2026
+Price: $5.09 (-15%, was $5.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4853960
+==================================================
+
