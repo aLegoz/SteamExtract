@@ -39256,3 +39256,22 @@ Genres: Adventure, Indie, Strategy
 Link: https://store.steampowered.com/app/4856850
 ==================================================
 
+
+--- Run: 2026-07-07 20:42:43 --- (2 new game(s) found)
+
+==================================================
+Name: Flamel's Requiem
+Release Date: Jul 7, 2026
+Price: Free to Play
+Genres: Adventure, Indie, Free To Play
+Link: https://store.steampowered.com/app/4611050
+==================================================
+
+==================================================
+Name: MindPrompt: Party Games with AI
+Release Date: Jul 7, 2026
+Price: Free to Play
+Genres: Casual, Massively Multiplayer, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4397070
+==================================================
+
