@@ -38897,3 +38897,70 @@ Genres: Adventure, Simulation
 Link: https://store.steampowered.com/app/4793920
 ==================================================
 
+
+--- Run: 2026-07-07 06:03:06 --- (8 new game(s) found)
+
+==================================================
+Name: DEMON SIEGE
+Release Date: Jul 6, 2026
+Price: $2.24 (-25%, was $2.99)
+Genres: Action
+Link: https://store.steampowered.com/app/4724650
+==================================================
+
+==================================================
+Name: Monster Breeder
+Release Date: Jul 6, 2026
+Price: Free to Play
+Genres: Casual, Simulation, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4827240
+==================================================
+
+==================================================
+Name: Silicon Scars
+Release Date: Jul 6, 2026
+Price: $10.34 (-31%, was $14.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/2627350
+==================================================
+
+==================================================
+Name: Moonlight Peaks
+Release Date: Jul 6, 2026
+Price: $29.74 (-15%, was $34.99)
+Genres: Casual, Indie, RPG, Simulation
+Link: https://store.steampowered.com/app/2209900
+==================================================
+
+==================================================
+Name: Truck Maxxing
+Release Date: Jul 6, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Action, Casual, Indie, Racing
+Link: https://store.steampowered.com/app/4742610
+==================================================
+
+==================================================
+Name: Bahast
+Release Date: Jul 6, 2026
+Price: $4.99
+Genres: Indie, RPG, Simulation, Strategy
+Link: https://store.steampowered.com/app/4769520
+==================================================
+
+==================================================
+Name: YEET! The Elite
+Release Date: Jul 6, 2026
+Price: $2.69 (-10%, was $2.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4726020
+==================================================
+
+==================================================
+Name: Solar Defiance
+Release Date: Jul 6, 2026
+Price: $4.99
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4531740
+==================================================
+
