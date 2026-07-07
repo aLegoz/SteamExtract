@@ -39275,3 +39275,70 @@ Genres: Casual, Massively Multiplayer, Strategy, Free To Play
 Link: https://store.steampowered.com/app/4397070
 ==================================================
 
+
+--- Run: 2026-07-07 22:02:57 --- (8 new game(s) found)
+
+==================================================
+Name: Stinky Cat
+Release Date: Jul 7, 2026
+Price: $3.59 (-10%, was $3.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4279050
+==================================================
+
+==================================================
+Name: NotifyXR
+Release Date: Jul 7, 2026
+Price: $6.79 (-15%, was $7.99)
+Genres: Indie, Simulation, Utilities
+Link: https://store.steampowered.com/app/4781770
+==================================================
+
+==================================================
+Name: Deadly Warrior
+Release Date: Jul 7, 2026
+Price: $4.25 (-15%, was $5.00)
+Genres: Action, Indie, RPG
+Link: https://store.steampowered.com/app/4848340
+==================================================
+
+==================================================
+Name: Demon Protocol
+Release Date: Jul 7, 2026
+Price: $2.99
+Genres: Action
+Link: https://store.steampowered.com/app/4798960
+==================================================
+
+==================================================
+Name: Poolar Bear
+Release Date: Jul 7, 2026
+Price: $2.54 (-15%, was $2.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/3990210
+==================================================
+
+==================================================
+Name: Gems are Mine, Slashes are Yours: Blood & Blessing
+Release Date: Jul 7, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4794570
+==================================================
+
+==================================================
+Name: Your Price, Your Honor.
+Release Date: Jul 7, 2026
+Price: $1.79 (-40%, was $2.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4282880
+==================================================
+
+==================================================
+Name: Just Pool
+Release Date: Jul 7, 2026
+Price: $2.69 (-10%, was $2.99)
+Genres: Casual, Sports, Strategy
+Link: https://store.steampowered.com/app/4101270
+==================================================
+
