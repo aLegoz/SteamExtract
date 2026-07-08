@@ -39407,3 +39407,38 @@ Genres: Action, Simulation
 Link: https://store.steampowered.com/app/4899790
 ==================================================
 
+
+--- Run: 2026-07-08 12:11:19 --- (4 new game(s) found)
+
+==================================================
+Name: CluDoku
+Release Date: Jul 8, 2026
+Price: $2.99 (-40%, was $4.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4860070
+==================================================
+
+==================================================
+Name: Prison of Lies
+Release Date: Jul 8, 2026
+Price: Free to Play
+Genres: Adventure, Free To Play
+Link: https://store.steampowered.com/app/3041280
+==================================================
+
+==================================================
+Name: 3DMurderMystery TheAshenYou
+Release Date: Jul 7, 2026
+Price: $17.09 (-10%, was $18.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/3821830
+==================================================
+
+==================================================
+Name: Mushroom farm
+Release Date: Jul 7, 2026
+Price: $2.09 (-30%, was $2.99)
+Genres: Casual, Simulation, Strategy
+Link: https://store.steampowered.com/app/4817530
+==================================================
+
