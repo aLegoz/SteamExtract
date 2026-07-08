@@ -39601,3 +39601,22 @@ Genres: Adventure, Casual, Simulation
 Link: https://store.steampowered.com/app/4809120
 ==================================================
 
+
+--- Run: 2026-07-08 22:55:06 --- (2 new game(s) found)
+
+==================================================
+Name: shark
+Release Date: Jul 8, 2026
+Price: $1.19 (-40%, was $1.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4875720
+==================================================
+
+==================================================
+Name: Caterpillar King
+Release Date: Jul 8, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/3916610
+==================================================
+
