@@ -39353,3 +39353,46 @@ Genres: Action, Adventure, RPG, Free To Play
 Link: https://store.steampowered.com/app/4508340
 ==================================================
 
+
+--- Run: 2026-07-08 04:55:31 --- (5 new game(s) found)
+
+==================================================
+Name: Robo Rig
+Release Date: Jul 7, 2026
+Price: Free to Play
+Genres: Action, Indie, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4655610
+==================================================
+
+==================================================
+Name: Magical Girl: Final Pink Star
+Release Date: Jul 7, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4297450
+==================================================
+
+==================================================
+Name: Trump Ballroom Blitz
+Release Date: Jul 7, 2026
+Price: Free to Play
+Genres: Casual, Indie, Simulation, Free To Play
+Link: https://store.steampowered.com/app/4443070
+==================================================
+
+==================================================
+Name: Spire of Legends
+Release Date: Jul 7, 2026
+Price: $4.99
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/4856250
+==================================================
+
+==================================================
+Name: Geo Defense
+Release Date: Jul 7, 2026
+Price: $0.59 (-40%, was $0.99)
+Genres: Casual, Strategy
+Link: https://store.steampowered.com/app/4417490
+==================================================
+
