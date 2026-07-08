@@ -39620,3 +39620,14 @@ Genres: Indie, Strategy
 Link: https://store.steampowered.com/app/3916610
 ==================================================
 
+
+--- Run: 2026-07-08 23:57:42 --- (1 new game(s) found)
+
+==================================================
+Name: Labyrinth of Whiskers
+Release Date: Jul 8, 2026
+Price: $3.49 (-30%, was $4.99)
+Genres: Adventure, Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4540610
+==================================================
+
