@@ -39552,3 +39552,30 @@ Genres: Adventure, Indie, RPG, Strategy
 Link: https://store.steampowered.com/app/4093240
 ==================================================
 
+
+--- Run: 2026-07-08 19:01:50 --- (3 new game(s) found)
+
+==================================================
+Name: Bardo
+Release Date: Jul 8, 2026
+Price: Free to Play
+Genres: Casual, RPG, Free To Play
+Link: https://store.steampowered.com/app/4773260
+==================================================
+
+==================================================
+Name: Somnus Corporation
+Release Date: Jul 8, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/4576570
+==================================================
+
+==================================================
+Name: Heatspire
+Release Date: Jul 8, 2026
+Price: $9.99
+Genres: Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/4330950
+==================================================
+
