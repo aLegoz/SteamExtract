@@ -39442,3 +39442,78 @@ Genres: Casual, Simulation, Strategy
 Link: https://store.steampowered.com/app/4817530
 ==================================================
 
+
+--- Run: 2026-07-08 15:06:00 --- (9 new game(s) found)
+
+==================================================
+Name: Beghost
+Release Date: Jul 8, 2026
+Price: $2.69 (-10%, was $2.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/3957810
+==================================================
+
+==================================================
+Name: Plantify
+Release Date: Jul 8, 2026
+Price: Free to Play
+Genres: Casual, Indie, Simulation, Free To Play
+Link: https://store.steampowered.com/app/4856990
+==================================================
+
+==================================================
+Name: Pocket Pond
+Release Date: Jul 8, 2026
+Price: $2.44 (-30%, was $3.49)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4851300
+==================================================
+
+==================================================
+Name: Ars Et Anima
+Release Date: Jul 8, 2026
+Price: Free to Play
+Genres: Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/4656420
+==================================================
+
+==================================================
+Name: Tower of Void
+Release Date: Jul 8, 2026
+Price: $0.89 (-10%, was $0.99)
+Genres: Adventure, Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4798820
+==================================================
+
+==================================================
+Name: Surplus Value Simulator
+Release Date: Jul 8, 2026
+Price: $1.99
+Genres: Indie, RPG, Simulation
+Link: https://store.steampowered.com/app/4773850
+==================================================
+
+==================================================
+Name: clear cherry ice.
+Release Date: Jul 8, 2026
+Price: $12.03 (-14%, was $13.99)
+Genres: Simulation
+Link: https://store.steampowered.com/app/4855490
+==================================================
+
+==================================================
+Name: Unpaired Socks
+Release Date: Jul 7, 2026
+Price: $3.30
+Genres: Casual
+Link: https://store.steampowered.com/app/4345460
+==================================================
+
+==================================================
+Name: plink
+Release Date: Jul 7, 2026
+Price: $3.39 (-15%, was $3.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4851600
+==================================================
+
