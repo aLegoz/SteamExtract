@@ -39579,3 +39579,14 @@ Genres: Indie, RPG, Strategy
 Link: https://store.steampowered.com/app/4330950
 ==================================================
 
+
+--- Run: 2026-07-08 20:53:03 --- (1 new game(s) found)
+
+==================================================
+Name: Tales from the Other Side: Beneath the Roots
+Release Date: Jul 8, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Indie
+Link: https://store.steampowered.com/app/4601840
+==================================================
+
