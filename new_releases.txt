@@ -39517,3 +39517,38 @@ Genres: Casual, Indie, Strategy
 Link: https://store.steampowered.com/app/4851600
 ==================================================
 
+
+--- Run: 2026-07-08 17:15:59 --- (4 new game(s) found)
+
+==================================================
+Name: The Adventures Of Hooman
+Release Date: Jul 8, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4457130
+==================================================
+
+==================================================
+Name: Forest Lookout
+Release Date: Jul 8, 2026
+Price: $3.99
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/4767420
+==================================================
+
+==================================================
+Name: Sauve le Shérif !
+Release Date: Jul 8, 2026
+Price: Free to Play
+Genres: Action, Indie, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4760110
+==================================================
+
+==================================================
+Name: Tokyo Valkyries
+Release Date: Jul 8, 2026
+Price: $20.69 (-10%, was $22.99)
+Genres: Adventure, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/4093240
+==================================================
+
