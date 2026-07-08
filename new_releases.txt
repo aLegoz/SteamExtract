@@ -39396,3 +39396,14 @@ Genres: Casual, Strategy
 Link: https://store.steampowered.com/app/4417490
 ==================================================
 
+
+--- Run: 2026-07-08 07:21:35 --- (1 new game(s) found)
+
+==================================================
+Name: Neuro Hunter
+Release Date: Jul 7, 2026
+Price: $6.74 (-25%, was $8.99)
+Genres: Action, Simulation
+Link: https://store.steampowered.com/app/4899790
+==================================================
+
