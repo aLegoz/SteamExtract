@@ -39760,3 +39760,46 @@ Genres: Casual, Indie, Simulation
 Link: https://store.steampowered.com/app/4774490
 ==================================================
 
+
+--- Run: 2026-07-09 13:40:48 --- (5 new game(s) found)
+
+==================================================
+Name: Architect of War
+Release Date: Jul 9, 2026
+Price: $11.89 (-15%, was $13.99)
+Genres: Action, Indie, Strategy
+Link: https://store.steampowered.com/app/4634940
+==================================================
+
+==================================================
+Name: HouseWarming
+Release Date: Jul 9, 2026
+Price: $5.94 (-15%, was $6.99)
+Genres: Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/4589040
+==================================================
+
+==================================================
+Name: Backyard Baseball
+Release Date: Jul 9, 2026
+Price: $39.99
+Genres: Action, Adventure, Casual, Indie, RPG, Simulation, Sports
+Link: https://store.steampowered.com/app/3935020
+==================================================
+
+==================================================
+Name: Maggot
+Release Date: Jul 9, 2026
+Price: $1.00
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4692030
+==================================================
+
+==================================================
+Name: RxB - Cyber security management game
+Release Date: Jul 8, 2026
+Price: $6.79 (-15%, was $7.99)
+Genres: Simulation, Strategy
+Link: https://store.steampowered.com/app/4199030
+==================================================
+
