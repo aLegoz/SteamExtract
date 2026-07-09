@@ -40057,3 +40057,110 @@ Genres: Indie, Simulation, Sports, Strategy
 Link: https://store.steampowered.com/app/4862400
 ==================================================
 
+
+--- Run: 2026-07-09 20:41:03 --- (13 new game(s) found)
+
+==================================================
+Name: Corgi Survivor
+Release Date: Jul 9, 2026
+Price: $3.59 (-40%, was $5.99)
+Genres: Action, Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4483200
+==================================================
+
+==================================================
+Name: Dice Rogues
+Release Date: Jul 9, 2026
+Price: $4.32 (-20%, was $5.40)
+Genres: Casual, Strategy
+Link: https://store.steampowered.com/app/4140190
+==================================================
+
+==================================================
+Name: A Game About Leading A Crowds
+Release Date: Jul 9, 2026
+Price: $4.49 (-25%, was $5.99)
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4806800
+==================================================
+
+==================================================
+Name: Mora's Cat Scratcher PLUS
+Release Date: Jul 9, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4866810
+==================================================
+
+==================================================
+Name: Skulls Skulls Skulls by Daniel da Silva
+Release Date: Jul 9, 2026
+Price: $1.59 (-20%, was $1.99)
+Genres: Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/4825510
+==================================================
+
+==================================================
+Name: ALEK
+Release Date: Jul 9, 2026
+Price: $8.49 (-15%, was $9.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/1511740
+==================================================
+
+==================================================
+Name: EGO
+Release Date: Jul 9, 2026
+Price: $7.19 (-10%, was $7.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/3692680
+==================================================
+
+==================================================
+Name: Bottom Squad
+Release Date: Jul 9, 2026
+Price: $4.79 (-20%, was $5.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4068360
+==================================================
+
+==================================================
+Name: Gray Trading
+Release Date: Jul 9, 2026
+Price: $3.19 (-20%, was $3.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4596160
+==================================================
+
+==================================================
+Name: Sweet Running
+Release Date: Jul 9, 2026
+Price: $0.89 (-10%, was $0.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4571590
+==================================================
+
+==================================================
+Name: Idle Hands
+Release Date: Jul 9, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/4867060
+==================================================
+
+==================================================
+Name: Dark Hollow RPG
+Release Date: Jul 9, 2026
+Price: $1.79 (-40%, was $2.99)
+Genres: Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/4867550
+==================================================
+
+==================================================
+Name: FLESHBREAK
+Release Date: Jul 9, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Indie
+Link: https://store.steampowered.com/app/4175650
+==================================================
+
