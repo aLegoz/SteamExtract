@@ -39918,3 +39918,142 @@ Genres: Action, Casual, Indie
 Link: https://store.steampowered.com/app/4868710
 ==================================================
 
+
+--- Run: 2026-07-09 18:45:09 --- (17 new game(s) found)
+
+==================================================
+Name: GAMEBORO
+Release Date: Jul 9, 2026
+Price: Free to Play
+Genres: Indie, Strategy, Free To Play, Education, Utilities
+Link: https://store.steampowered.com/app/3832100
+==================================================
+
+==================================================
+Name: Critical Load
+Release Date: Jul 9, 2026
+Price: $4.19 (-40%, was $6.99)
+Genres: Adventure, Simulation
+Link: https://store.steampowered.com/app/4804750
+==================================================
+
+==================================================
+Name: EA SPORTS™ College Football 27
+Release Date: Jul 9, 2026
+Price: $69.99
+Genres: Simulation, Sports
+Link: https://store.steampowered.com/app/4032350
+==================================================
+
+==================================================
+Name: Polytropos: A Tactical Odyssey
+Release Date: Jul 9, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/3227320
+==================================================
+
+==================================================
+Name: Weird Water World
+Release Date: Jul 9, 2026
+Price: $3.99
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4534300
+==================================================
+
+==================================================
+Name: Evil Thing
+Release Date: Jul 9, 2026
+Price: $3.50 (-10%, was $3.89)
+Genres: Adventure, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/4373160
+==================================================
+
+==================================================
+Name: Cursed Companions
+Release Date: Jul 9, 2026
+Price: $6.29 (-30%, was $8.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/3265230
+==================================================
+
+==================================================
+Name: Vape Store Miami: Prologue
+Release Date: Jul 9, 2026
+Price: Free to Play
+Genres: Action, Casual, Simulation, Free To Play
+Link: https://store.steampowered.com/app/4849630
+==================================================
+
+==================================================
+Name: ELEVATOR: AVICI
+Release Date: Jul 9, 2026
+Price: $1.59 (-20%, was $1.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4790520
+==================================================
+
+==================================================
+Name: Cyber Psychosis
+Release Date: Jul 9, 2026
+Price: $3.19 (-20%, was $3.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/1349930
+==================================================
+
+==================================================
+Name: Our Wonderland
+Release Date: Jul 9, 2026
+Price: Free to Play
+Genres: Adventure, Casual, Indie, Simulation, Free To Play
+Link: https://store.steampowered.com/app/4329100
+==================================================
+
+==================================================
+Name: Cozy Tide
+Release Date: Jul 9, 2026
+Price: $3.59 (-10%, was $3.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4809010
+==================================================
+
+==================================================
+Name: Prince of Vibe Code
+Release Date: Jul 9, 2026
+Price: $1.79 (-40%, was $2.99)
+Genres: Casual, Simulation, Strategy
+Link: https://store.steampowered.com/app/4820270
+==================================================
+
+==================================================
+Name: Mesmalie
+Release Date: Jul 9, 2026
+Price: $7.64 (-15%, was $8.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/3534790
+==================================================
+
+==================================================
+Name: SonderSoft Soccer: Monkeys VS Robots!
+Release Date: Jul 9, 2026
+Price: Free to Play
+Genres: Simulation, Sports, Free To Play
+Link: https://store.steampowered.com/app/4806090
+==================================================
+
+==================================================
+Name: Capybara Bingo
+Release Date: Jul 9, 2026
+Price: $2.99 (-25%, was $3.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/4668040
+==================================================
+
+==================================================
+Name: Sim: World Cup Manager
+Release Date: Jul 9, 2026
+Price: $7.49 (-25%, was $9.99)
+Genres: Indie, Simulation, Sports, Strategy
+Link: https://store.steampowered.com/app/4862400
+==================================================
+
