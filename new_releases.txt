@@ -39666,3 +39666,38 @@ Genres: Action, Casual, Indie, RPG, Simulation, Sports
 Link: https://store.steampowered.com/app/4637560
 ==================================================
 
+
+--- Run: 2026-07-09 06:42:14 --- (4 new game(s) found)
+
+==================================================
+Name: Zerion: Infinite Space
+Release Date: Jul 8, 2026
+Price: Free to Play
+Genres: Action, Indie, Massively Multiplayer, RPG, Simulation, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4787300
+==================================================
+
+==================================================
+Name: AI NOVEL GENERATION
+Release Date: Jul 8, 2026
+Price: $3.59 (-10%, was $3.99)
+Genres: Casual, Strategy, Utilities
+Link: https://store.steampowered.com/app/3800920
+==================================================
+
+==================================================
+Name: Veritas Tales: Witch of the Dark Castle
+Release Date: Jul 8, 2026
+Price: $15.29 (-10%, was $16.99)
+Genres: Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/4508570
+==================================================
+
+==================================================
+Name: Make it! Shaved Ice
+Release Date: Jul 8, 2026
+Price: $4.96 (-29%, was $6.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4834080
+==================================================
+
