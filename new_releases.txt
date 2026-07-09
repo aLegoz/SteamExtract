@@ -40164,3 +40164,30 @@ Genres: Indie
 Link: https://store.steampowered.com/app/4175650
 ==================================================
 
+
+--- Run: 2026-07-09 23:56:16 --- (3 new game(s) found)
+
+==================================================
+Name: Carrot Catcher
+Release Date: Jul 9, 2026
+Price: $4.79 (-20%, was $5.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/3186990
+==================================================
+
+==================================================
+Name: Goblin Solitaire
+Release Date: Jul 9, 2026
+Price: $1.59 (-20%, was $1.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4854700
+==================================================
+
+==================================================
+Name: Echoes of Aincrad
+Release Date: Jul 9, 2026
+Price: $69.99
+Genres: Action, RPG
+Link: https://store.steampowered.com/app/2244210
+==================================================
+
