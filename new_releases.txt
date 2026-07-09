@@ -39631,3 +39631,38 @@ Genres: Adventure, Casual, Indie, Strategy
 Link: https://store.steampowered.com/app/4540610
 ==================================================
 
+
+--- Run: 2026-07-09 02:29:05 --- (4 new game(s) found)
+
+==================================================
+Name: Pun-ishment
+Release Date: Jul 8, 2026
+Price: $5.99 (-40%, was $9.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/4781720
+==================================================
+
+==================================================
+Name: Safe Haven Repair Station
+Release Date: Jul 8, 2026
+Price: Free to Play
+Genres: Casual, Indie, RPG, Simulation, Free To Play
+Link: https://store.steampowered.com/app/4581510
+==================================================
+
+==================================================
+Name: Mine of my Mind
+Release Date: Jul 8, 2026
+Price: $2.79 (-30%, was $3.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/4260190
+==================================================
+
+==================================================
+Name: BleepWare Incrementals
+Release Date: Jul 8, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Action, Casual, Indie, RPG, Simulation, Sports
+Link: https://store.steampowered.com/app/4637560
+==================================================
+
