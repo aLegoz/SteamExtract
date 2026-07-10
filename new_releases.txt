@@ -40191,3 +40191,38 @@ Genres: Action, RPG
 Link: https://store.steampowered.com/app/2244210
 ==================================================
 
+
+--- Run: 2026-07-10 01:57:47 --- (4 new game(s) found)
+
+==================================================
+Name: Little Slime and the Crown
+Release Date: Jul 9, 2026
+Price: $1.59 (-20%, was $1.99)
+Genres: Indie
+Link: https://store.steampowered.com/app/4781620
+==================================================
+
+==================================================
+Name: Escape from Umbra
+Release Date: Jul 9, 2026
+Price: $9.89 (-10%, was $10.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/4830970
+==================================================
+
+==================================================
+Name: Gyro
+Release Date: Jul 9, 2026
+Price: $10.00
+Genres: Action, Adventure, Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4822290
+==================================================
+
+==================================================
+Name: Hollowforge
+Release Date: Jul 9, 2026
+Price: $3.74 (-25%, was $4.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/3281810
+==================================================
+
