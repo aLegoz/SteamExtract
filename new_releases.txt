@@ -40504,3 +40504,78 @@ Genres: Casual, Simulation
 Link: https://store.steampowered.com/app/4871750
 ==================================================
 
+
+--- Run: 2026-07-10 12:17:21 --- (9 new game(s) found)
+
+==================================================
+Name: Ultimate Guess Game
+Release Date: Jul 10, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4864750
+==================================================
+
+==================================================
+Name: EULA ~2026 Human Creativity Report~
+Release Date: Jul 10, 2026
+Price: $6.87 (-14%, was $7.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4517370
+==================================================
+
+==================================================
+Name: NO DOUBT
+Release Date: Jul 10, 2026
+Price: Free to Play
+Genres: Casual, Indie, Racing, RPG, Simulation, Free To Play
+Link: https://store.steampowered.com/app/4826160
+==================================================
+
+==================================================
+Name: Mile Zero Anomaly
+Release Date: Jul 10, 2026
+Price: Free to Play
+Genres: Adventure, Free To Play
+Link: https://store.steampowered.com/app/4640060
+==================================================
+
+==================================================
+Name: Dreamy Golden Snow
+Release Date: Jul 10, 2026
+Price: $2.24 (-10%, was $2.49)
+Genres: Casual, Indie, RPG, Simulation
+Link: https://store.steampowered.com/app/3863840
+==================================================
+
+==================================================
+Name: Verdantis
+Release Date: Jul 10, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4853620
+==================================================
+
+==================================================
+Name: FlyHigh
+Release Date: Jul 10, 2026
+Price: $4.99
+Genres: Action, Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4326690
+==================================================
+
+==================================================
+Name: Heart of a Hero - Chapter 1
+Release Date: Jul 10, 2026
+Price: $12.99
+Genres: Casual, RPG
+Link: https://store.steampowered.com/app/4753930
+==================================================
+
+==================================================
+Name: Walrus Fly
+Release Date: Jul 9, 2026
+Price: $1.79 (-10%, was $1.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/3967710
+==================================================
+
