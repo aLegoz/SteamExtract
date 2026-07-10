@@ -40972,3 +40972,22 @@ Genres: Indie, Racing
 Link: https://store.steampowered.com/app/2194480
 ==================================================
 
+
+--- Run: 2026-07-10 20:57:23 --- (2 new game(s) found)
+
+==================================================
+Name: Mushroots
+Release Date: Jul 10, 2026
+Price: Free to Play
+Genres: Strategy, Free To Play
+Link: https://store.steampowered.com/app/2372400
+==================================================
+
+==================================================
+Name: Project Trash
+Release Date: Jul 10, 2026
+Price: Free to Play
+Genres: Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/4798760
+==================================================
+
