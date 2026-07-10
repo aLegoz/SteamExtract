@@ -40226,3 +40226,110 @@ Genres: Action, Indie
 Link: https://store.steampowered.com/app/3281810
 ==================================================
 
+
+--- Run: 2026-07-10 05:59:20 --- (13 new game(s) found)
+
+==================================================
+Name: Diamond-Die
+Release Date: Jul 9, 2026
+Price: $1.49 (-25%, was $1.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/4821520
+==================================================
+
+==================================================
+Name: 十米爆爽超变
+Release Date: Jul 9, 2026
+Price: Free to Play
+Genres: Action, Adventure, Massively Multiplayer, RPG, Free To Play
+Link: https://store.steampowered.com/app/4740460
+==================================================
+
+==================================================
+Name: Palworld
+Release Date: Jul 9, 2026
+Price: $20.99 (-30%, was $29.99)
+Genres: Action, Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/1623730
+==================================================
+
+==================================================
+Name: 8AM: The Subway
+Release Date: Jul 9, 2026
+Price: $3.59 (-10%, was $3.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4111600
+==================================================
+
+==================================================
+Name: Jigokuraku: BATTLE IN HELL'S PARADISE
+Release Date: Jul 9, 2026
+Price: Free to Play
+Genres: RPG
+Link: https://store.steampowered.com/app/4375120
+==================================================
+
+==================================================
+Name: Be Missed and Remembered: The Letter from Mayoiga
+Release Date: Jul 9, 2026
+Price: $16.19 (-10%, was $17.99)
+Genres: Adventure, Casual
+Link: https://store.steampowered.com/app/4042330
+==================================================
+
+==================================================
+Name: Paper Baseball
+Release Date: Jul 9, 2026
+Price: Free to Play
+Genres: Casual, Indie, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4827680
+==================================================
+
+==================================================
+Name: Dark Reaper Shoots! 2
+Release Date: Jul 9, 2026
+Price: $3.18 (-40%, was $5.31)
+Genres: Action, Casual, Indie, RPG
+Link: https://store.steampowered.com/app/4345150
+==================================================
+
+==================================================
+Name: Operation Darkside DX
+Release Date: Jul 9, 2026
+Price: $8.09 (-10%, was $8.99)
+Genres: Adventure, RPG, Strategy
+Link: https://store.steampowered.com/app/2962400
+==================================================
+
+==================================================
+Name: Ghost Exorcist
+Release Date: Jul 9, 2026
+Price: $2.39 (-20%, was $2.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4868110
+==================================================
+
+==================================================
+Name: Evergarden
+Release Date: Jul 9, 2026
+Price: $3.59 (-10%, was $3.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4542060
+==================================================
+
+==================================================
+Name: Sweet Dance
+Release Date: Jul 9, 2026
+Price: Free to Play
+Genres: Action, Casual, Massively Multiplayer, RPG, Simulation, Free To Play
+Link: https://store.steampowered.com/app/4560290
+==================================================
+
+==================================================
+Name: Tetrogue
+Release Date: Jul 9, 2026
+Price: $1.79 (-40%, was $2.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4871260
+==================================================
+
