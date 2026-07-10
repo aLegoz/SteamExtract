@@ -40710,3 +40710,166 @@ Genres: Indie, Simulation, Strategy
 Link: https://store.steampowered.com/app/4624100
 ==================================================
 
+
+--- Run: 2026-07-10 17:39:20 --- (20 new game(s) found)
+
+==================================================
+Name: Game Compressor
+Release Date: Jul 10, 2026
+Price: $5.99
+Genres: Utilities
+Link: https://store.steampowered.com/app/4339880
+==================================================
+
+==================================================
+Name: Stick Scholars
+Release Date: Jul 10, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Strategy
+Link: https://store.steampowered.com/app/4458310
+==================================================
+
+==================================================
+Name: Tired
+Release Date: Jul 10, 2026
+Price: $9.67 (-12%, was $10.99)
+Genres: Casual, Racing, Sports
+Link: https://store.steampowered.com/app/2880600
+==================================================
+
+==================================================
+Name: Fantasy World / 幻想世界
+Release Date: Jul 10, 2026
+Price: $17.99 (-10%, was $19.99)
+Genres: Simulation, Strategy
+Link: https://store.steampowered.com/app/4212170
+==================================================
+
+==================================================
+Name: SmarterWaysProductions: Andromeda
+Release Date: Jul 10, 2026
+Price: Free to Play
+Genres: Free To Play, Utilities
+Link: https://store.steampowered.com/app/4056090
+==================================================
+
+==================================================
+Name: INSANIO
+Release Date: Jul 10, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/4177650
+==================================================
+
+==================================================
+Name: SILK 2.0
+Release Date: Jul 10, 2026
+Price: Free to Play
+Genres: Adventure, Casual, Indie, Simulation, Free To Play
+Link: https://store.steampowered.com/app/4735530
+==================================================
+
+==================================================
+Name: Cool Game Pack
+Release Date: Jul 10, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/3600760
+==================================================
+
+==================================================
+Name: Harvester vs. Zombies
+Release Date: Jul 10, 2026
+Price: $9.59 (-20%, was $11.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4643440
+==================================================
+
+==================================================
+Name: Cozy Finds
+Release Date: Jul 10, 2026
+Price: $2.00 (-33%, was $2.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4685830
+==================================================
+
+==================================================
+Name: Imagine We Were Human
+Release Date: Jul 10, 2026
+Price: $8.99 (-25%, was $11.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4260590
+==================================================
+
+==================================================
+Name: Rat Race
+Release Date: Jul 10, 2026
+Price: Free to Play
+Genres: Indie, Free To Play
+Link: https://store.steampowered.com/app/4551110
+==================================================
+
+==================================================
+Name: Shipyard of Theseus
+Release Date: Jul 10, 2026
+Price: Free to Play
+Genres: Adventure, Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/4362560
+==================================================
+
+==================================================
+Name: SCP
+Release Date: Jul 10, 2026
+Price: $6.69 (-33%, was $9.99)
+Genres: Action, Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/2745670
+==================================================
+
+==================================================
+Name: Quantum Void
+Release Date: Jul 10, 2026
+Price: $9.59 (-20%, was $11.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/2710650
+==================================================
+
+==================================================
+Name: Sandfall: Rock Smash
+Release Date: Jul 10, 2026
+Price: $3.74 (-25%, was $4.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4412010
+==================================================
+
+==================================================
+Name: Dream Corps
+Release Date: Jul 10, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4197920
+==================================================
+
+==================================================
+Name: Dig for TCG Cards With Your Friends
+Release Date: Jul 10, 2026
+Price: $4.75 (-32%, was $6.99)
+Genres: Simulation
+Link: https://store.steampowered.com/app/4854180
+==================================================
+
+==================================================
+Name: Rahasya
+Release Date: Jul 10, 2026
+Price: $7.69 (-30%, was $10.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/4280830
+==================================================
+
+==================================================
+Name: 101 Cats in Brussels
+Release Date: Jul 10, 2026
+Price: $1.19 (-40%, was $1.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4829200
+==================================================
+
