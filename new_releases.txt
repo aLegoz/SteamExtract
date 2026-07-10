@@ -40579,3 +40579,134 @@ Genres: Casual, Indie
 Link: https://store.steampowered.com/app/3967710
 ==================================================
 
+
+--- Run: 2026-07-10 15:25:00 --- (16 new game(s) found)
+
+==================================================
+Name: GaebongAllStar
+Release Date: Jul 10, 2026
+Price: $0.99
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/3406920
+==================================================
+
+==================================================
+Name: Arcane Ascent
+Release Date: Jul 10, 2026
+Price: $11.99 (-20%, was $14.99)
+Genres: Adventure, Casual, Indie, RPG
+Link: https://store.steampowered.com/app/3205630
+==================================================
+
+==================================================
+Name: Ascent Of Eternity
+Release Date: Jul 10, 2026
+Price: $7.10
+Genres: Action, Indie, RPG
+Link: https://store.steampowered.com/app/3613130
+==================================================
+
+==================================================
+Name: Quarantine Market Simulator
+Release Date: Jul 10, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/4386340
+==================================================
+
+==================================================
+Name: Warehouse 30
+Release Date: Jul 10, 2026
+Price: $5.59 (-30%, was $7.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4454840
+==================================================
+
+==================================================
+Name: Unwoven
+Release Date: Jul 10, 2026
+Price: Free to Play
+Genres: Action, Free To Play
+Link: https://store.steampowered.com/app/4551090
+==================================================
+
+==================================================
+Name: Life & Shadow: Celestial Call - Prologue
+Release Date: Jul 10, 2026
+Price: Free to Play
+Genres: Adventure, Indie, Simulation, Free To Play
+Link: https://store.steampowered.com/app/4492080
+==================================================
+
+==================================================
+Name: Mothkeep
+Release Date: Jul 10, 2026
+Price: $4.99
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/3920300
+==================================================
+
+==================================================
+Name: Veilscripture AI
+Release Date: Jul 10, 2026
+Price: $35.99 (-10%, was $39.99)
+Genres: RPG, Utilities
+Link: https://store.steampowered.com/app/3955290
+==================================================
+
+==================================================
+Name: Queen's Gamble
+Release Date: Jul 10, 2026
+Price: $8.83 (-32%, was $12.99)
+Genres: Adventure, Casual, Indie, RPG
+Link: https://store.steampowered.com/app/4707200
+==================================================
+
+==================================================
+Name: Bravest Coconut
+Release Date: Jul 10, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Action, Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/2913190
+==================================================
+
+==================================================
+Name: 16叠谋杀之谜
+Release Date: Jul 10, 2026
+Price: $1.77 (-11%, was $1.99)
+Genres: Adventure, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/4655470
+==================================================
+
+==================================================
+Name: 100 Hidden Cats Stream Live
+Release Date: Jul 10, 2026
+Price: $2.79 (-30%, was $3.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4675010
+==================================================
+
+==================================================
+Name: The Fiancée - Paths of Corruption
+Release Date: Jul 10, 2026
+Price: $6.79 (-15%, was $7.99)
+Genres: Simulation
+Link: https://store.steampowered.com/app/4150890
+==================================================
+
+==================================================
+Name: Hentai Clicker: Moena is streaming
+Release Date: Jul 10, 2026
+Price: $2.00 (-33%, was $2.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4870150
+==================================================
+
+==================================================
+Name: Smoke Town
+Release Date: Jul 10, 2026
+Price: $4.79 (-20%, was $5.99)
+Genres: Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4624100
+==================================================
+
