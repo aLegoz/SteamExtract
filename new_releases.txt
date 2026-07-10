@@ -40873,3 +40873,102 @@ Genres: Casual, Indie
 Link: https://store.steampowered.com/app/4829200
 ==================================================
 
+
+--- Run: 2026-07-10 19:12:34 --- (12 new game(s) found)
+
+==================================================
+Name: Machinefall
+Release Date: Jul 10, 2026
+Price: $12.74 (-15%, was $14.99)
+Genres: Strategy
+Link: https://store.steampowered.com/app/3213120
+==================================================
+
+==================================================
+Name: Step Lightly
+Release Date: Jul 10, 2026
+Price: Free to Play
+Genres: Indie, Free To Play
+Link: https://store.steampowered.com/app/4764810
+==================================================
+
+==================================================
+Name: Shrapnel Sentinel
+Release Date: Jul 10, 2026
+Price: $7.19 (-40%, was $11.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/3922610
+==================================================
+
+==================================================
+Name: Evil Spirit Hunter
+Release Date: Jul 10, 2026
+Price: $5.09 (-15%, was $5.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/3367100
+==================================================
+
+==================================================
+Name: PinRogue
+Release Date: Jul 10, 2026
+Price: $5.99 (-25%, was $7.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4465650
+==================================================
+
+==================================================
+Name: Anbar
+Release Date: Jul 10, 2026
+Price: Free to Play
+Genres: Sports, Free To Play
+Link: https://store.steampowered.com/app/4351590
+==================================================
+
+==================================================
+Name: Sushi Delivery Co.
+Release Date: Jul 10, 2026
+Price: $3.59 (-10%, was $3.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4825620
+==================================================
+
+==================================================
+Name: GrimVein
+Release Date: Jul 10, 2026
+Price: $7.19 (-10%, was $7.99)
+Genres: Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/4870520
+==================================================
+
+==================================================
+Name: Geo Grinder
+Release Date: Jul 10, 2026
+Price: $2.70 (-10%, was $3.00)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4606030
+==================================================
+
+==================================================
+Name: ONLYFAPPER FEMBOYS 2
+Release Date: Jul 10, 2026
+Price: $7.64 (-15%, was $8.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4777020
+==================================================
+
+==================================================
+Name: BoxBox
+Release Date: Jul 10, 2026
+Price: $4.50
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4836160
+==================================================
+
+==================================================
+Name: Explosive Track - Crazy Action Arcade Racing
+Release Date: Jul 10, 2026
+Price: $10.79 (-10%, was $11.99)
+Genres: Indie, Racing
+Link: https://store.steampowered.com/app/2194480
+==================================================
+
