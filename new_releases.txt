@@ -41082,3 +41082,22 @@ Genres: Casual, Indie
 Link: https://store.steampowered.com/app/4809410
 ==================================================
 
+
+--- Run: 2026-07-10 22:47:53 --- (2 new game(s) found)
+
+==================================================
+Name: Waifu Discovered 3: Cyberpunk Fantasy
+Release Date: Jul 10, 2026
+Price: $5.94 (-15%, was $6.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/3607040
+==================================================
+
+==================================================
+Name: Hentai Age Gym
+Release Date: Jul 10, 2026
+Price: $0.79 (-20%, was $0.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4843730
+==================================================
+
