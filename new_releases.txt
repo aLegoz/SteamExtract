@@ -41449,3 +41449,30 @@ Genres: Action
 Link: https://store.steampowered.com/app/3723580
 ==================================================
 
+
+--- Run: 2026-07-11 23:40:37 --- (3 new game(s) found)
+
+==================================================
+Name: Angels Fall First
+Release Date: Jul 11, 2026
+Price: $16.19 (-10%, was $17.99)
+Genres: Action, Indie, Simulation
+Link: https://store.steampowered.com/app/367270
+==================================================
+
+==================================================
+Name: Health Audit Simulator
+Release Date: Jul 11, 2026
+Price: $10.99
+Genres: Simulation
+Link: https://store.steampowered.com/app/4336300
+==================================================
+
+==================================================
+Name: Forever Virgin Simulator
+Release Date: Jul 11, 2026
+Price: $0.89 (-10%, was $0.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4630060
+==================================================
+
