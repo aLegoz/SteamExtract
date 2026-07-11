@@ -41101,3 +41101,70 @@ Genres: Casual, Indie
 Link: https://store.steampowered.com/app/4843730
 ==================================================
 
+
+--- Run: 2026-07-11 01:21:27 --- (8 new game(s) found)
+
+==================================================
+Name: You.Tapes
+Release Date: Jul 10, 2026
+Price: $3.99
+Genres: Action, Adventure, Strategy
+Link: https://store.steampowered.com/app/4824530
+==================================================
+
+==================================================
+Name: HYPERFIST
+Release Date: Jul 10, 2026
+Price: Free to Play
+Genres: Action, Free To Play
+Link: https://store.steampowered.com/app/3689210
+==================================================
+
+==================================================
+Name: HiveBreak
+Release Date: Jul 10, 2026
+Price: $3.99
+Genres: Action, Casual
+Link: https://store.steampowered.com/app/4858120
+==================================================
+
+==================================================
+Name: FitBlocks～Wooden block puzzle～
+Release Date: Jul 10, 2026
+Price: $4.99
+Genres: Casual
+Link: https://store.steampowered.com/app/4850850
+==================================================
+
+==================================================
+Name: Escape This
+Release Date: Jul 10, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4705520
+==================================================
+
+==================================================
+Name: Wet Dream Succubus
+Release Date: Jul 10, 2026
+Price: $4.99
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4846190
+==================================================
+
+==================================================
+Name: SideDrop
+Release Date: Jul 10, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4422940
+==================================================
+
+==================================================
+Name: No Escape
+Release Date: Jul 10, 2026
+Price: $3.99
+Genres: Indie
+Link: https://store.steampowered.com/app/4825020
+==================================================
+
