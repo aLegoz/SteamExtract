@@ -41395,3 +41395,22 @@ Link: https://store.steampowered.com/app/4799110
 
 --- Run: 2026-07-11 17:43:27 --- (0 new game(s) found)
 
+
+--- Run: 2026-07-11 19:56:56 --- (2 new game(s) found)
+
+==================================================
+Name: Diagram Awesome
+Release Date: Jul 11, 2026
+Price: $11.19 (-30%, was $15.99)
+Genres: Design & Illustration, Photo Editing, Video Production, Web Publishing
+Link: https://store.steampowered.com/app/3983240
+==================================================
+
+==================================================
+Name: Word Scramble
+Release Date: Jul 10, 2026
+Price: $4.99
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4852900
+==================================================
+
