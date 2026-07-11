@@ -41365,3 +41365,30 @@ Genres: Indie, RPG
 Link: https://store.steampowered.com/app/4839770
 ==================================================
 
+
+--- Run: 2026-07-11 16:39:40 --- (3 new game(s) found)
+
+==================================================
+Name: Brandon's Semiconductor Simulator
+Release Date: Jul 11, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Education
+Link: https://store.steampowered.com/app/4864110
+==================================================
+
+==================================================
+Name: Hentai Tales: 7 Days Cycle
+Release Date: Jul 11, 2026
+Price: $0.59 (-40%, was $0.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4751360
+==================================================
+
+==================================================
+Name: Clubbed Seal
+Release Date: Jul 11, 2026
+Price: $2.99 (-40%, was $4.99)
+Genres: Action, Casual
+Link: https://store.steampowered.com/app/4799110
+==================================================
+
