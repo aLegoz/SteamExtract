@@ -41219,3 +41219,22 @@ Genres: Simulation, Strategy
 Link: https://store.steampowered.com/app/4333240
 ==================================================
 
+
+--- Run: 2026-07-11 07:03:32 --- (2 new game(s) found)
+
+==================================================
+Name: Isekai x Isekai
+Release Date: Jul 10, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Casual, Indie, RPG
+Link: https://store.steampowered.com/app/4542860
+==================================================
+
+==================================================
+Name: The Long Drift
+Release Date: Jul 10, 2026
+Price: $3.99
+Genres: Adventure, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4289180
+==================================================
+
