@@ -41273,3 +41273,30 @@ Genres: Casual, Indie
 Link: https://store.steampowered.com/app/4294400
 ==================================================
 
+
+--- Run: 2026-07-11 10:50:52 --- (3 new game(s) found)
+
+==================================================
+Name: LostEcho
+Release Date: Jul 10, 2026
+Price: $1.99
+Genres: Adventure, RPG
+Link: https://store.steampowered.com/app/4812230
+==================================================
+
+==================================================
+Name: 180°
+Release Date: Jul 10, 2026
+Price: $2.88 (-10%, was $3.20)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4566690
+==================================================
+
+==================================================
+Name: Soothe
+Release Date: Jul 10, 2026
+Price: $1.99
+Genres: Casual
+Link: https://store.steampowered.com/app/4675330
+==================================================
+
