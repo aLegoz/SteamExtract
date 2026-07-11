@@ -41354,3 +41354,14 @@ Genres: Adventure, Casual, Simulation
 Link: https://store.steampowered.com/app/4761320
 ==================================================
 
+
+--- Run: 2026-07-11 15:41:58 --- (1 new game(s) found)
+
+==================================================
+Name: Abyrith
+Release Date: Jul 11, 2026
+Price: $4.99
+Genres: Indie, RPG
+Link: https://store.steampowered.com/app/4839770
+==================================================
+
