@@ -41414,3 +41414,38 @@ Genres: Casual, Indie
 Link: https://store.steampowered.com/app/4852900
 ==================================================
 
+
+--- Run: 2026-07-11 20:39:58 --- (4 new game(s) found)
+
+==================================================
+Name: Tri City Monsters
+Release Date: Jul 11, 2026
+Price: $24.99
+Genres: Indie
+Link: https://store.steampowered.com/app/2414410
+==================================================
+
+==================================================
+Name: Hentai Flesh
+Release Date: Jul 11, 2026
+Price: $1.59 (-20%, was $1.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4660300
+==================================================
+
+==================================================
+Name: Calculus of Rot
+Release Date: Jul 11, 2026
+Price: $2.99 (-40%, was $4.99)
+Genres: Adventure
+Link: https://store.steampowered.com/app/4799150
+==================================================
+
+==================================================
+Name: Ascension of the Dead
+Release Date: Jul 10, 2026
+Price: $4.99
+Genres: Action
+Link: https://store.steampowered.com/app/3723580
+==================================================
+
