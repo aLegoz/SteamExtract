@@ -41476,3 +41476,22 @@ Genres: Casual, Indie, Simulation
 Link: https://store.steampowered.com/app/4630060
 ==================================================
 
+
+--- Run: 2026-07-12 01:23:04 --- (2 new game(s) found)
+
+==================================================
+Name: Zombie Queen
+Release Date: Jul 11, 2026
+Price: $10.00
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4811410
+==================================================
+
+==================================================
+Name: Galaxy Defenders (Classic TD)
+Release Date: Jul 11, 2026
+Price: $0.99
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/3807420
+==================================================
+
