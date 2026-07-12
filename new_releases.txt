@@ -41595,3 +41595,22 @@ Genres: Casual, RPG, Strategy
 Link: https://store.steampowered.com/app/4826250
 ==================================================
 
+
+--- Run: 2026-07-12 14:20:37 --- (2 new game(s) found)
+
+==================================================
+Name: Ocean Rush
+Release Date: Jul 12, 2026
+Price: $0.59 (-40%, was $0.99)
+Genres: Adventure, Casual, Indie, Sports
+Link: https://store.steampowered.com/app/4885620
+==================================================
+
+==================================================
+Name: AeroBird
+Release Date: Jul 11, 2026
+Price: $0.59 (-40%, was $0.99)
+Genres: Adventure, Casual, Indie, Sports
+Link: https://store.steampowered.com/app/4872540
+==================================================
+
