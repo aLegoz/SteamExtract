@@ -41649,3 +41649,14 @@ Genres: Adventure, Indie
 Link: https://store.steampowered.com/app/4828690
 ==================================================
 
+
+--- Run: 2026-07-12 16:41:35 --- (1 new game(s) found)
+
+==================================================
+Name: The Living Graveyard
+Release Date: Jul 12, 2026
+Price: $5.99 (-40%, was $9.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4822800
+==================================================
+
