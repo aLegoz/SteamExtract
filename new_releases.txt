@@ -41568,3 +41568,30 @@ Genres: Casual, Indie
 Link: https://store.steampowered.com/app/4886100
 ==================================================
 
+
+--- Run: 2026-07-12 12:48:40 --- (3 new game(s) found)
+
+==================================================
+Name: Pore Cleaning Simulator
+Release Date: Jul 12, 2026
+Price: $0.69 (-30%, was $0.99)
+Genres: Action, Indie, Simulation
+Link: https://store.steampowered.com/app/4876150
+==================================================
+
+==================================================
+Name: 人生记事簿：Life Memoirs
+Release Date: Jul 11, 2026
+Price: $3.19 (-20%, was $3.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4798150
+==================================================
+
+==================================================
+Name: Ashen Crown
+Release Date: Jul 11, 2026
+Price: $5.39 (-10%, was $5.99)
+Genres: Casual, RPG, Strategy
+Link: https://store.steampowered.com/app/4826250
+==================================================
+
