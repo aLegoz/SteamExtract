@@ -41698,3 +41698,14 @@ Genres: Action, Casual, Indie, RPG
 Link: https://store.steampowered.com/app/4834200
 ==================================================
 
+
+--- Run: 2026-07-12 22:35:20 --- (1 new game(s) found)
+
+==================================================
+Name: Kvga
+Release Date: Jul 12, 2026
+Price: $6.79 (-15%, was $7.99)
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/4474500
+==================================================
+
