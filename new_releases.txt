@@ -41557,3 +41557,14 @@ Genres: Action, Adventure
 Link: https://store.steampowered.com/app/4863520
 ==================================================
 
+
+--- Run: 2026-07-12 11:02:02 --- (1 new game(s) found)
+
+==================================================
+Name: 魔法少女甜心3D Magical Girl Sweetheart 3D
+Release Date: Jul 12, 2026
+Price: $0.79 (-20%, was $0.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4886100
+==================================================
+
