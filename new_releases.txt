@@ -41679,3 +41679,22 @@ Genres: Indie, Strategy
 Link: https://store.steampowered.com/app/4271750
 ==================================================
 
+
+--- Run: 2026-07-12 21:36:45 --- (2 new game(s) found)
+
+==================================================
+Name: Fu-Fu-Chan -way up!-
+Release Date: Jul 12, 2026
+Price: $5.99 (-40%, was $9.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4568980
+==================================================
+
+==================================================
+Name: Village Survivors
+Release Date: Jul 12, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Action, Casual, Indie, RPG
+Link: https://store.steampowered.com/app/4834200
+==================================================
+
