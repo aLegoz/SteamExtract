@@ -41495,3 +41495,46 @@ Genres: Casual, Indie, Strategy
 Link: https://store.steampowered.com/app/3807420
 ==================================================
 
+
+--- Run: 2026-07-12 05:13:11 --- (5 new game(s) found)
+
+==================================================
+Name: Qwerty's Quickies
+Release Date: Jul 11, 2026
+Price: $7.49 (-25%, was $9.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4859360
+==================================================
+
+==================================================
+Name: Haggle simulator
+Release Date: Jul 11, 2026
+Price: $1.79 (-10%, was $1.99)
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4376780
+==================================================
+
+==================================================
+Name: Blobbin
+Release Date: Jul 11, 2026
+Price: $2.54 (-15%, was $2.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4736050
+==================================================
+
+==================================================
+Name: The Dungeon Persists
+Release Date: Jul 11, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/4819560
+==================================================
+
+==================================================
+Name: Diagnosis: Room 101
+Release Date: Jul 11, 2026
+Price: $2.49
+Genres: Action, Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4877160
+==================================================
+
