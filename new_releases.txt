@@ -41660,3 +41660,22 @@ Genres: Casual, Indie
 Link: https://store.steampowered.com/app/4822800
 ==================================================
 
+
+--- Run: 2026-07-12 18:44:33 --- (2 new game(s) found)
+
+==================================================
+Name: Almost A Ghost
+Release Date: Jul 12, 2026
+Price: $6.39 (-20%, was $7.99)
+Genres: Adventure, Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4349660
+==================================================
+
+==================================================
+Name: Octal: Of Course They Are Linked
+Release Date: Jul 12, 2026
+Price: $5.00
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/4271750
+==================================================
+
