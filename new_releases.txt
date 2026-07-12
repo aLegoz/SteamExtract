@@ -41614,3 +41614,38 @@ Genres: Adventure, Casual, Indie, Sports
 Link: https://store.steampowered.com/app/4872540
 ==================================================
 
+
+--- Run: 2026-07-12 15:46:04 --- (4 new game(s) found)
+
+==================================================
+Name: Booox
+Release Date: Jul 12, 2026
+Price: $3.19 (-20%, was $3.99)
+Genres: Action, Indie, Strategy
+Link: https://store.steampowered.com/app/4549870
+==================================================
+
+==================================================
+Name: Swordless
+Release Date: Jul 12, 2026
+Price: $3.19 (-20%, was $3.99)
+Genres: Action, Indie, Strategy
+Link: https://store.steampowered.com/app/4451820
+==================================================
+
+==================================================
+Name: BAFF C
+Release Date: Jul 12, 2026
+Price: $1.19 (-40%, was $1.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4895370
+==================================================
+
+==================================================
+Name: ELYSIUM : Blue Den Mansion
+Release Date: Jul 12, 2026
+Price: $1.99
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4828690
+==================================================
+
