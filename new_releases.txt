@@ -41709,3 +41709,14 @@ Genres: Indie, Strategy
 Link: https://store.steampowered.com/app/4474500
 ==================================================
 
+
+--- Run: 2026-07-12 23:40:18 --- (1 new game(s) found)
+
+==================================================
+Name: Custom Pinball
+Release Date: Jul 12, 2026
+Price: $3.99
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4838900
+==================================================
+
