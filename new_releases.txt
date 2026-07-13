@@ -41720,3 +41720,38 @@ Genres: Action, Casual, Indie
 Link: https://store.steampowered.com/app/4838900
 ==================================================
 
+
+--- Run: 2026-07-13 01:24:13 --- (4 new game(s) found)
+
+==================================================
+Name: ORPHEUS: TO HELL AND BACK
+Release Date: Jul 12, 2026
+Price: $2.99
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/4145130
+==================================================
+
+==================================================
+Name: Artesnaut
+Release Date: Jul 12, 2026
+Price: Free to Play
+Genres: Indie, RPG, Simulation, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4485620
+==================================================
+
+==================================================
+Name: EchoLink: Recursion
+Release Date: Jul 12, 2026
+Price: $6.29 (-10%, was $6.99)
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4474430
+==================================================
+
+==================================================
+Name: Doomsday Tryst
+Release Date: Jul 12, 2026
+Price: $4.19 (-40%, was $6.99)
+Genres: Adventure, Simulation
+Link: https://store.steampowered.com/app/4809570
+==================================================
+
