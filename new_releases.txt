@@ -41790,3 +41790,102 @@ Genres: Simulation, Strategy
 Link: https://store.steampowered.com/app/3072500
 ==================================================
 
+
+--- Run: 2026-07-13 08:41:54 --- (12 new game(s) found)
+
+==================================================
+Name: Kill The Nova
+Release Date: Jul 13, 2026
+Price: $6.29 (-10%, was $6.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4542800
+==================================================
+
+==================================================
+Name: OctoMech Survivors
+Release Date: Jul 13, 2026
+Price: $3.59 (-10%, was $3.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4803650
+==================================================
+
+==================================================
+Name: Zombie City Together
+Release Date: Jul 13, 2026
+Price: $0.59 (-40%, was $0.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4888720
+==================================================
+
+==================================================
+Name: Fart Fighter
+Release Date: Jul 13, 2026
+Price: $1.99
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4876280
+==================================================
+
+==================================================
+Name: Ascend to ZERO
+Release Date: Jul 13, 2026
+Price: $9.59 (-20%, was $11.99)
+Genres: Action, RPG, Strategy
+Link: https://store.steampowered.com/app/2697940
+==================================================
+
+==================================================
+Name: Soulforge Lost Path
+Release Date: Jul 12, 2026
+Price: $8.09 (-10%, was $8.99)
+Genres: Action, Casual, RPG, Strategy
+Link: https://store.steampowered.com/app/3839250
+==================================================
+
+==================================================
+Name: Tidy Up: Spaceship
+Release Date: Jul 12, 2026
+Price: Free to Play
+Genres: Casual, Indie, Simulation, Free To Play
+Link: https://store.steampowered.com/app/4882280
+==================================================
+
+==================================================
+Name: Save the President : Trust Issues
+Release Date: Jul 12, 2026
+Price: $4.99
+Genres: Casual
+Link: https://store.steampowered.com/app/4336960
+==================================================
+
+==================================================
+Name: Carpet Cleaning Simulator
+Release Date: Jul 12, 2026
+Price: $5.59 (-20%, was $6.99)
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/4634560
+==================================================
+
+==================================================
+Name: Drident
+Release Date: Jul 12, 2026
+Price: $3.19 (-20%, was $3.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/4806100
+==================================================
+
+==================================================
+Name: MetalMuters
+Release Date: Jul 12, 2026
+Price: $2.99 (-25%, was $3.99)
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/4287050
+==================================================
+
+==================================================
+Name: Purrrfect Spa
+Release Date: Jul 12, 2026
+Price: $3.59 (-10%, was $3.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/3755850
+==================================================
+
