@@ -42015,3 +42015,110 @@ Genres: Adventure, Casual, Indie, Simulation
 Link: https://store.steampowered.com/app/3810680
 ==================================================
 
+
+--- Run: 2026-07-13 16:22:48 --- (13 new game(s) found)
+
+==================================================
+Name: Roulette Dungeon
+Release Date: Jul 13, 2026
+Price: $7.91 (-12%, was $8.99)
+Genres: Action, Adventure, Casual, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/3399930
+==================================================
+
+==================================================
+Name: Runix: Pinball Roguelike
+Release Date: Jul 13, 2026
+Price: $14.39 (-10%, was $15.99)
+Genres: Action, Casual, Indie, RPG
+Link: https://store.steampowered.com/app/3617290
+==================================================
+
+==================================================
+Name: Active Soccer 3
+Release Date: Jul 13, 2026
+Price: $13.49 (-10%, was $14.99)
+Genres: Sports
+Link: https://store.steampowered.com/app/2187300
+==================================================
+
+==================================================
+Name: Skeptikos
+Release Date: Jul 13, 2026
+Price: $8.09 (-10%, was $8.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4631130
+==================================================
+
+==================================================
+Name: City Bus Simulator 2026
+Release Date: Jul 13, 2026
+Price: $9.59 (-20%, was $11.99)
+Genres: Indie, RPG, Simulation
+Link: https://store.steampowered.com/app/2860240
+==================================================
+
+==================================================
+Name: Mahjong Kawuxing
+Release Date: Jul 13, 2026
+Price: $5.94 (-15%, was $6.99)
+Genres: Casual, Strategy
+Link: https://store.steampowered.com/app/4566560
+==================================================
+
+==================================================
+Name: OmniSeed
+Release Date: Jul 13, 2026
+Price: $2.12 (-15%, was $2.50)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4401850
+==================================================
+
+==================================================
+Name: Fluffy Summer
+Release Date: Jul 13, 2026
+Price: $1.79 (-10%, was $1.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/4514820
+==================================================
+
+==================================================
+Name: Sky Recoil
+Release Date: Jul 13, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4659950
+==================================================
+
+==================================================
+Name: Lazy Kickers
+Release Date: Jul 13, 2026
+Price: $2.24 (-25%, was $2.99)
+Genres: Casual, Indie, Sports
+Link: https://store.steampowered.com/app/4613890
+==================================================
+
+==================================================
+Name: Gummy Invaders
+Release Date: Jul 13, 2026
+Price: $2.69 (-10%, was $2.99)
+Genres: Casual, Simulation
+Link: https://store.steampowered.com/app/4412710
+==================================================
+
+==================================================
+Name: Aether Keepers
+Release Date: Jul 13, 2026
+Price: $2.69 (-10%, was $2.99)
+Genres: Casual, Indie, RPG, Simulation, Strategy
+Link: https://store.steampowered.com/app/4412720
+==================================================
+
+==================================================
+Name: Your Waifu
+Release Date: Jul 13, 2026
+Price: $0.69 (-30%, was $0.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/4636720
+==================================================
+
