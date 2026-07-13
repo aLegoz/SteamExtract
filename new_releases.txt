@@ -41980,3 +41980,38 @@ Genres: Casual, Indie
 Link: https://store.steampowered.com/app/4830500
 ==================================================
 
+
+--- Run: 2026-07-13 13:56:57 --- (4 new game(s) found)
+
+==================================================
+Name: Childmare
+Release Date: Jul 13, 2026
+Price: $3.87 (-32%, was $5.70)
+Genres: Action, Adventure
+Link: https://store.steampowered.com/app/4831750
+==================================================
+
+==================================================
+Name: Playing Prague
+Release Date: Jul 13, 2026
+Price: Free to Play
+Genres: Casual, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4729310
+==================================================
+
+==================================================
+Name: Forensics: Crime Scene Detective
+Release Date: Jul 13, 2026
+Price: $19.99 (-20%, was $24.99)
+Genres: Simulation
+Link: https://store.steampowered.com/app/3765010
+==================================================
+
+==================================================
+Name: The Sweet Spot
+Release Date: Jul 13, 2026
+Price: $6.29 (-10%, was $6.99)
+Genres: Adventure, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/3810680
+==================================================
+
