@@ -41755,3 +41755,38 @@ Genres: Adventure, Simulation
 Link: https://store.steampowered.com/app/4809570
 ==================================================
 
+
+--- Run: 2026-07-13 05:22:03 --- (4 new game(s) found)
+
+==================================================
+Name: Neko Station
+Release Date: Jul 12, 2026
+Price: $5.59 (-20%, was $6.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4141710
+==================================================
+
+==================================================
+Name: Seabell Supper
+Release Date: Jul 12, 2026
+Price: $3.74 (-25%, was $4.99)
+Genres: Casual, Indie, RPG, Simulation
+Link: https://store.steampowered.com/app/4435470
+==================================================
+
+==================================================
+Name: Healthy Competition
+Release Date: Jul 12, 2026
+Price: $1.99
+Genres: Action
+Link: https://store.steampowered.com/app/3575530
+==================================================
+
+==================================================
+Name: Cog Foo
+Release Date: Jul 12, 2026
+Price: $18.99
+Genres: Simulation, Strategy
+Link: https://store.steampowered.com/app/3072500
+==================================================
+
