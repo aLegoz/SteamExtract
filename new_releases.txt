@@ -42344,3 +42344,30 @@ Genres: Casual, Indie
 Link: https://store.steampowered.com/app/4502210
 ==================================================
 
+
+--- Run: 2026-07-13 21:41:55 --- (3 new game(s) found)
+
+==================================================
+Name: Skillbound
+Release Date: Jul 13, 2026
+Price: $1.99
+Genres: Action, Casual, Indie, RPG
+Link: https://store.steampowered.com/app/4844380
+==================================================
+
+==================================================
+Name: Metamancer
+Release Date: Jul 13, 2026
+Price: $9.89 (-34%, was $14.99)
+Genres: Action, RPG
+Link: https://store.steampowered.com/app/3886130
+==================================================
+
+==================================================
+Name: Stackflow
+Release Date: Jul 13, 2026
+Price: $5.24 (-25%, was $6.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/3908810
+==================================================
+
