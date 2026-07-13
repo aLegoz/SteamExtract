@@ -41889,3 +41889,94 @@ Genres: Casual, Indie
 Link: https://store.steampowered.com/app/3755850
 ==================================================
 
+
+--- Run: 2026-07-13 11:48:16 --- (11 new game(s) found)
+
+==================================================
+Name: Areteion
+Release Date: Jul 13, 2026
+Price: $17.99 (-10%, was $19.99)
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/4097640
+==================================================
+
+==================================================
+Name: GeoFlag
+Release Date: Jul 13, 2026
+Price: $6.79 (-15%, was $7.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4628800
+==================================================
+
+==================================================
+Name: Werewolf Twins 👹
+Release Date: Jul 13, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Adventure, Casual, Indie, RPG
+Link: https://store.steampowered.com/app/4199810
+==================================================
+
+==================================================
+Name: Dayscream
+Release Date: Jul 13, 2026
+Price: Free to Play
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/1300790
+==================================================
+
+==================================================
+Name: Volt Deck
+Release Date: Jul 13, 2026
+Price: $6.39 (-20%, was $7.99)
+Genres: Indie
+Link: https://store.steampowered.com/app/4465730
+==================================================
+
+==================================================
+Name: The Meat Factory
+Release Date: Jul 13, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/1812510
+==================================================
+
+==================================================
+Name: Imperial Ambitions
+Release Date: Jul 13, 2026
+Price: $17.99 (-10%, was $19.99)
+Genres: Simulation, Strategy
+Link: https://store.steampowered.com/app/2219390
+==================================================
+
+==================================================
+Name: Mysarium: Cozy Lo-fi Terrarium
+Release Date: Jul 13, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4156770
+==================================================
+
+==================================================
+Name: 13 MASCA
+Release Date: Jul 13, 2026
+Price: $11.30 (-13%, was $12.99)
+Genres: Simulation
+Link: https://store.steampowered.com/app/4615780
+==================================================
+
+==================================================
+Name: 701病房
+Release Date: Jul 12, 2026
+Price: $3.99
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4723460
+==================================================
+
+==================================================
+Name: Finding Cats
+Release Date: Jul 12, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4830500
+==================================================
+
