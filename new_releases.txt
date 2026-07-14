@@ -42990,3 +42990,38 @@ Genres: Indie, Simulation
 Link: https://store.steampowered.com/app/4316540
 ==================================================
 
+
+--- Run: 2026-07-14 20:02:09 --- (4 new game(s) found)
+
+==================================================
+Name: 幻域 Fantasy Domain
+Release Date: Jul 14, 2026
+Price: $4.19 (-40%, was $6.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/4579210
+==================================================
+
+==================================================
+Name: The Evening Custodian
+Release Date: Jul 14, 2026
+Price: $4.99
+Genres: Action
+Link: https://store.steampowered.com/app/4852330
+==================================================
+
+==================================================
+Name: Source aged like fine wine: ballad of jets
+Release Date: Jul 14, 2026
+Price: Free to Play
+Genres: Casual, Free To Play
+Link: https://store.steampowered.com/app/4851060
+==================================================
+
+==================================================
+Name: Young Homer: A Storyteller's Odyssey
+Release Date: Jul 14, 2026
+Price: Free to Play
+Genres: Adventure, Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/4852710
+==================================================
+
