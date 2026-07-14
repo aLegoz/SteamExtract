@@ -42693,3 +42693,38 @@ Genres: Casual, Indie, Simulation
 Link: https://store.steampowered.com/app/4593080
 ==================================================
 
+
+--- Run: 2026-07-14 13:00:53 --- (4 new game(s) found)
+
+==================================================
+Name: TowerLine
+Release Date: Jul 14, 2026
+Price: $6.39 (-20%, was $7.99)
+Genres: Simulation, Strategy
+Link: https://store.steampowered.com/app/3818850
+==================================================
+
+==================================================
+Name: Figryne Cast Studio Engine
+Release Date: Jul 14, 2026
+Price: $40.49 (-10%, was $44.99)
+Genres: Animation & Modeling, Audio Production, Video Production
+Link: https://store.steampowered.com/app/4750580
+==================================================
+
+==================================================
+Name: Halu - The Fish
+Release Date: Jul 14, 2026
+Price: $5.39 (-10%, was $5.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4236810
+==================================================
+
+==================================================
+Name: Urban Strife
+Release Date: Jul 14, 2026
+Price: $24.49 (-30%, was $34.99)
+Genres: Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/710230
+==================================================
+
