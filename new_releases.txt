@@ -42559,3 +42559,86 @@ Genres: Action, Adventure, Indie, Free To Play
 Link: https://store.steampowered.com/app/4361100
 ==================================================
 
+
+--- Run: 2026-07-14 09:43:27 --- (10 new game(s) found)
+
+==================================================
+Name: Aspectless One
+Release Date: Jul 14, 2026
+Price: $5.39 (-10%, was $5.99)
+Genres: Action, Indie, RPG
+Link: https://store.steampowered.com/app/4741210
+==================================================
+
+==================================================
+Name: Material Maker
+Release Date: Jul 14, 2026
+Price: $13.49 (-10%, was $14.99)
+Genres: Indie, Design & Illustration, Game Development
+Link: https://store.steampowered.com/app/4110830
+==================================================
+
+==================================================
+Name: ChronoRewind: The Great Ritual
+Release Date: Jul 14, 2026
+Price: Free to Play
+Genres: Indie, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4769770
+==================================================
+
+==================================================
+Name: Zigdig
+Release Date: Jul 14, 2026
+Price: $4.99
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4364590
+==================================================
+
+==================================================
+Name: Mesh Storm
+Release Date: Jul 14, 2026
+Price: Free to Play
+Genres: Action, Free To Play
+Link: https://store.steampowered.com/app/4799530
+==================================================
+
+==================================================
+Name: A Simpler World
+Release Date: Jul 14, 2026
+Price: $6.29 (-10%, was $6.99)
+Genres: Casual, Simulation
+Link: https://store.steampowered.com/app/2243890
+==================================================
+
+==================================================
+Name: Warena
+Release Date: Jul 14, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/4331100
+==================================================
+
+==================================================
+Name: Naked Interrogation Simulator
+Release Date: Jul 14, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Casual, RPG
+Link: https://store.steampowered.com/app/3436350
+==================================================
+
+==================================================
+Name: Creepy Support
+Release Date: Jul 14, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/3685900
+==================================================
+
+==================================================
+Name: Ambitious Road
+Release Date: Jul 13, 2026
+Price: $14.39 (-20%, was $17.99)
+Genres: Simulation, Strategy
+Link: https://store.steampowered.com/app/4429120
+==================================================
+
