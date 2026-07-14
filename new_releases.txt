@@ -43087,3 +43087,62 @@ Genres: Casual, Indie
 Link: https://store.steampowered.com/app/4615010
 ==================================================
 
+
+--- Run: 2026-07-14 23:39:42 --- (7 new game(s) found)
+
+==================================================
+Name: RSVP
+Release Date: Jul 14, 2026
+Price: $3.75 (-25%, was $5.00)
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/4812140
+==================================================
+
+==================================================
+Name: iMic - Voice Changer
+Release Date: Jul 14, 2026
+Price: $48.39 (-12%, was $54.99)
+Genres: Audio Production, Utilities, Video Production
+Link: https://store.steampowered.com/app/4620140
+==================================================
+
+==================================================
+Name: 検品作業
+Release Date: Jul 14, 2026
+Price: $0.84 (-15%, was $0.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4113370
+==================================================
+
+==================================================
+Name: Stories Best Left Untold
+Release Date: Jul 14, 2026
+Price: $2.99 (-40%, was $4.99)
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/4858060
+==================================================
+
+==================================================
+Name: Multi Auto Clicker
+Release Date: Jul 14, 2026
+Price: $1.69 (-15%, was $1.99)
+Genres: Utilities
+Link: https://store.steampowered.com/app/4775730
+==================================================
+
+==================================================
+Name: Hollow Orbit
+Release Date: Jul 14, 2026
+Price: $5.99 (-25%, was $7.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4864280
+==================================================
+
+==================================================
+Name: Valor 1944
+Release Date: Jul 14, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Action
+Link: https://store.steampowered.com/app/4519680
+==================================================
+
