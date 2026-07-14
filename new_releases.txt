@@ -42875,3 +42875,118 @@ Genres: Strategy
 Link: https://store.steampowered.com/app/4898150
 ==================================================
 
+
+--- Run: 2026-07-14 18:01:18 --- (14 new game(s) found)
+
+==================================================
+Name: The Infinite Grimoire
+Release Date: Jul 14, 2026
+Price: Free to Play
+Genres: Casual, Indie, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4544940
+==================================================
+
+==================================================
+Name: Disarray
+Release Date: Jul 14, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Action, Adventure, Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/2596900
+==================================================
+
+==================================================
+Name: Hollow Signal
+Release Date: Jul 14, 2026
+Price: Free to Play
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4841030
+==================================================
+
+==================================================
+Name: [Stories to Tell] The Stoneville Incident
+Release Date: Jul 14, 2026
+Price: Free to Play
+Genres: Indie, Simulation, Free To Play
+Link: https://store.steampowered.com/app/4835250
+==================================================
+
+==================================================
+Name: Disease
+Release Date: Jul 14, 2026
+Price: $3.59 (-10%, was $3.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4579890
+==================================================
+
+==================================================
+Name: Chesscent
+Release Date: Jul 14, 2026
+Price: $7.19 (-10%, was $7.99)
+Genres: Casual, Strategy
+Link: https://store.steampowered.com/app/4273380
+==================================================
+
+==================================================
+Name: Sweet Tea Tycoon
+Release Date: Jul 14, 2026
+Price: Free to Play
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4463070
+==================================================
+
+==================================================
+Name: I Know a Spot
+Release Date: Jul 14, 2026
+Price: $6.79 (-15%, was $7.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/4207100
+==================================================
+
+==================================================
+Name: Blueprint: EV
+Release Date: Jul 14, 2026
+Price: $7.19 (-10%, was $7.99)
+Genres: Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4659610
+==================================================
+
+==================================================
+Name: Nevergrind
+Release Date: Jul 14, 2026
+Price: $12.99
+Genres: Casual, Indie, RPG
+Link: https://store.steampowered.com/app/948820
+==================================================
+
+==================================================
+Name: Scary Cave Diving
+Release Date: Jul 14, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/4211620
+==================================================
+
+==================================================
+Name: Celestial Return
+Release Date: Jul 14, 2026
+Price: $11.99 (-20%, was $14.99)
+Genres: Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/2704090
+==================================================
+
+==================================================
+Name: NETBREAK
+Release Date: Jul 14, 2026
+Price: $6.99
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/4514320
+==================================================
+
+==================================================
+Name: The Anomaly Department
+Release Date: Jul 14, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/4316540
+==================================================
+
