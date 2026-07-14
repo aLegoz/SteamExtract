@@ -42642,3 +42642,54 @@ Genres: Simulation, Strategy
 Link: https://store.steampowered.com/app/4429120
 ==================================================
 
+
+--- Run: 2026-07-14 11:15:06 --- (6 new game(s) found)
+
+==================================================
+Name: 蝶々反乱
+Release Date: Jul 14, 2026
+Price: $0.79 (-20%, was $0.99)
+Genres: Action
+Link: https://store.steampowered.com/app/4841000
+==================================================
+
+==================================================
+Name: The Crimson Maid
+Release Date: Jul 14, 2026
+Price: $13.49 (-10%, was $14.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/2695260
+==================================================
+
+==================================================
+Name: Vellar
+Release Date: Jul 14, 2026
+Price: $9.34 (-15%, was $10.99)
+Genres: Action, Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/4616160
+==================================================
+
+==================================================
+Name: BIOTONE.
+Release Date: Jul 14, 2026
+Price: $2.99
+Genres: Casual
+Link: https://store.steampowered.com/app/4741530
+==================================================
+
+==================================================
+Name: Pengo Friendo
+Release Date: Jul 14, 2026
+Price: Free to Play
+Genres: Simulation, Free To Play
+Link: https://store.steampowered.com/app/4170280
+==================================================
+
+==================================================
+Name: 你屁股
+Release Date: Jul 13, 2026
+Price: $0.89 (-10%, was $0.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4593080
+==================================================
+
