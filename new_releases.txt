@@ -43025,3 +43025,54 @@ Genres: Adventure, Casual, Indie, Free To Play
 Link: https://store.steampowered.com/app/4852710
 ==================================================
 
+
+--- Run: 2026-07-14 21:43:52 --- (6 new game(s) found)
+
+==================================================
+Name: Dragons Die
+Release Date: Jul 14, 2026
+Price: $4.99
+Genres: Strategy
+Link: https://store.steampowered.com/app/4693930
+==================================================
+
+==================================================
+Name: LazyLegions
+Release Date: Jul 14, 2026
+Price: $2.69 (-10%, was $2.99)
+Genres: Casual, Indie, RPG
+Link: https://store.steampowered.com/app/3853410
+==================================================
+
+==================================================
+Name: Keeb Quest: Typing Battles
+Release Date: Jul 14, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4617640
+==================================================
+
+==================================================
+Name: Idyll Isle
+Release Date: Jul 14, 2026
+Price: $3.19 (-20%, was $3.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4209160
+==================================================
+
+==================================================
+Name: Futa Hero
+Release Date: Jul 14, 2026
+Price: $4.99
+Genres: Action, Casual, Indie, RPG
+Link: https://store.steampowered.com/app/4327500
+==================================================
+
+==================================================
+Name: Seven Seas Jewels 2 Collector's Edition
+Release Date: Jul 14, 2026
+Price: $13.59 (-15%, was $15.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4664030
+==================================================
+
