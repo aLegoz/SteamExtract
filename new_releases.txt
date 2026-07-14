@@ -42422,3 +42422,22 @@ Genres: Action, Casual, RPG
 Link: https://store.steampowered.com/app/4562070
 ==================================================
 
+
+--- Run: 2026-07-14 01:13:40 --- (2 new game(s) found)
+
+==================================================
+Name: DiDiDiG
+Release Date: Jul 13, 2026
+Price: $8.09 (-10%, was $8.99)
+Genres: Action, Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4533370
+==================================================
+
+==================================================
+Name: Miner Survivor
+Release Date: Jul 13, 2026
+Price: $5.39 (-10%, was $5.99)
+Genres: Action, Adventure, Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4897540
+==================================================
+
