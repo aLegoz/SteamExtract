@@ -43076,3 +43076,14 @@ Genres: Adventure, Casual, Indie
 Link: https://store.steampowered.com/app/4664030
 ==================================================
 
+
+--- Run: 2026-07-14 22:43:30 --- (1 new game(s) found)
+
+==================================================
+Name: Kibble Cats
+Release Date: Jul 14, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4615010
+==================================================
+
