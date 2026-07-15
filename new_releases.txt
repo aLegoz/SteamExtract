@@ -43784,3 +43784,22 @@ Genres: Casual, Racing
 Link: https://store.steampowered.com/app/2002420
 ==================================================
 
+
+--- Run: 2026-07-15 21:57:24 --- (2 new game(s) found)
+
+==================================================
+Name: Beat Slicer
+Release Date: Jul 15, 2026
+Price: $2.99 (-40%, was $4.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/3659910
+==================================================
+
+==================================================
+Name: Mine to Cosmos
+Release Date: Jul 15, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4563580
+==================================================
+
