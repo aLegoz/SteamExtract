@@ -43580,3 +43580,102 @@ Genres: Action, Indie
 Link: https://store.steampowered.com/app/4857240
 ==================================================
 
+
+--- Run: 2026-07-15 17:01:59 --- (12 new game(s) found)
+
+==================================================
+Name: Sunlit remedy
+Release Date: Jul 15, 2026
+Price: Free to Play
+Genres: Indie, Free To Play
+Link: https://store.steampowered.com/app/4547770
+==================================================
+
+==================================================
+Name: CAUTION WET PAINT
+Release Date: Jul 15, 2026
+Price: $1.49 (-25%, was $1.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4827850
+==================================================
+
+==================================================
+Name: Sketchy's Contract
+Release Date: Jul 15, 2026
+Price: $8.09 (-10%, was $8.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/2823080
+==================================================
+
+==================================================
+Name: DVD Screensaver Simulator Rebirth Reimagined Definitive Reloaded Special Intergrade Ultimate HD Legacy Collection Remastered (2027 Edition)
+Release Date: Jul 15, 2026
+Price: Free to Play
+Genres: Casual, Indie, Simulation, Free To Play
+Link: https://store.steampowered.com/app/4840740
+==================================================
+
+==================================================
+Name: The Fishercat
+Release Date: Jul 15, 2026
+Price: $3.49 (-30%, was $4.99)
+Genres: Action, Casual
+Link: https://store.steampowered.com/app/4876770
+==================================================
+
+==================================================
+Name: Full Stride
+Release Date: Jul 15, 2026
+Price: $34.99
+Genres: Indie, Racing, Sports
+Link: https://store.steampowered.com/app/4181970
+==================================================
+
+==================================================
+Name: Teeto
+Release Date: Jul 15, 2026
+Price: $14.39 (-20%, was $17.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/2783370
+==================================================
+
+==================================================
+Name: eBaseball™: PRO SPIRIT
+Release Date: Mar 4, 2026
+Price: $59.99
+Genres: Action, Sports, Free To Play
+Link: https://store.steampowered.com/app/4128400
+==================================================
+
+==================================================
+Name: 70s-style Robot Anime Geppy-X
+Release Date: Jul 15, 2026
+Price: $35.99 (-10%, was $39.99)
+Genres: Action
+Link: https://store.steampowered.com/app/4120310
+==================================================
+
+==================================================
+Name: Tower Command
+Release Date: Jul 15, 2026
+Price: $7.19 (-20%, was $8.99)
+Genres: Action, Indie, Strategy
+Link: https://store.steampowered.com/app/3719660
+==================================================
+
+==================================================
+Name: Denshattack!
+Release Date: Jul 15, 2026
+Price: $17.99 (-10%, was $19.99)
+Genres: Action, Adventure
+Link: https://store.steampowered.com/app/2524850
+==================================================
+
+==================================================
+Name: Zero To Hero Idle
+Release Date: Jul 15, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Indie, RPG
+Link: https://store.steampowered.com/app/4414900
+==================================================
+
