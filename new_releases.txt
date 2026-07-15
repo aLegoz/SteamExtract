@@ -43773,3 +43773,14 @@ Genres: Action, Casual, Indie
 Link: https://store.steampowered.com/app/4821610
 ==================================================
 
+
+--- Run: 2026-07-15 20:58:41 --- (1 new game(s) found)
+
+==================================================
+Name: Caddywack
+Release Date: Jul 15, 2026
+Price: $10.19 (-15%, was $11.99)
+Genres: Casual, Racing
+Link: https://store.steampowered.com/app/2002420
+==================================================
+
