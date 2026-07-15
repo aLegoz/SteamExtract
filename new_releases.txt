@@ -43229,3 +43229,38 @@ Genres: Casual, Indie
 Link: https://store.steampowered.com/app/4863030
 ==================================================
 
+
+--- Run: 2026-07-15 07:04:16 --- (4 new game(s) found)
+
+==================================================
+Name: Galatria
+Release Date: Jul 14, 2026
+Price: $3.39 (-15%, was $3.99)
+Genres: Action, Casual
+Link: https://store.steampowered.com/app/4890720
+==================================================
+
+==================================================
+Name: Railway Dispatcher
+Release Date: Jul 14, 2026
+Price: $10.79 (-10%, was $11.99)
+Genres: Simulation
+Link: https://store.steampowered.com/app/4282480
+==================================================
+
+==================================================
+Name: Attack to Attack
+Release Date: Jul 14, 2026
+Price: $2.39 (-20%, was $2.99)
+Genres: Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/4707970
+==================================================
+
+==================================================
+Name: Meme Cards: Chaos Deck
+Release Date: Jul 14, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4430470
+==================================================
+
