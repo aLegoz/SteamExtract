@@ -43754,3 +43754,22 @@ Genres: Action, Casual
 Link: https://store.steampowered.com/app/4629740
 ==================================================
 
+
+--- Run: 2026-07-15 19:59:19 --- (2 new game(s) found)
+
+==================================================
+Name: Stratapath TD
+Release Date: Jul 15, 2026
+Price: $4.99
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/4112780
+==================================================
+
+==================================================
+Name: CerbCade
+Release Date: Jul 15, 2026
+Price: $9.99
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4821610
+==================================================
+
