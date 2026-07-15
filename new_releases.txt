@@ -43264,3 +43264,94 @@ Genres: Casual, Indie, Strategy
 Link: https://store.steampowered.com/app/4430470
 ==================================================
 
+
+--- Run: 2026-07-15 09:46:49 --- (11 new game(s) found)
+
+==================================================
+Name: DEATHLOOP 4 YOU
+Release Date: Jul 15, 2026
+Price: $5.91 (-20%, was $7.39)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4015010
+==================================================
+
+==================================================
+Name: Roll Together
+Release Date: Jul 15, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4397780
+==================================================
+
+==================================================
+Name: Marsmare: Alienation
+Release Date: Jul 15, 2026
+Price: $1.19 (-40%, was $1.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/1875120
+==================================================
+
+==================================================
+Name: 主角
+Release Date: Jul 15, 2026
+Price: $6.87 (-14%, was $7.99)
+Genres: Casual, Indie, RPG, Simulation, Strategy
+Link: https://store.steampowered.com/app/4234260
+==================================================
+
+==================================================
+Name: Lux Anima
+Release Date: Jul 15, 2026
+Price: $3.60 (-20%, was $4.50)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4443160
+==================================================
+
+==================================================
+Name: HAMISH
+Release Date: Jul 15, 2026
+Price: $10.79 (-10%, was $11.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/3983870
+==================================================
+
+==================================================
+Name: Pleasure Room - Haunted Apartment
+Release Date: Jul 14, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/3938800
+==================================================
+
+==================================================
+Name: Ascension: The Infinite Descent
+Release Date: Jul 14, 2026
+Price: $11.19 (-20%, was $13.99)
+Genres: Adventure, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/4541610
+==================================================
+
+==================================================
+Name: 致经济下行的我们
+Release Date: Jul 14, 2026
+Price: $5.99
+Genres: Casual, RPG, Simulation
+Link: https://store.steampowered.com/app/4591610
+==================================================
+
+==================================================
+Name: Survivor: Unknown Village
+Release Date: Jul 14, 2026
+Price: $2.09 (-30%, was $2.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4307630
+==================================================
+
+==================================================
+Name: WreckingBall
+Release Date: Jul 14, 2026
+Price: $0.99
+Genres: Casual, Sports
+Link: https://store.steampowered.com/app/4860390
+==================================================
+
