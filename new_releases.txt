@@ -43830,3 +43830,22 @@ Genres: Action
 Link: https://store.steampowered.com/app/4562060
 ==================================================
 
+
+--- Run: 2026-07-15 23:46:30 --- (2 new game(s) found)
+
+==================================================
+Name: Monochrome Echoes - black -
+Release Date: Jul 15, 2026
+Price: $15.99
+Genres: Indie, RPG
+Link: https://store.steampowered.com/app/3744950
+==================================================
+
+==================================================
+Name: Hakoniwa Base Ball
+Release Date: Coming soon
+Price: Free to Play
+Genres: Simulation, Sports, Strategy
+Link: https://store.steampowered.com/app/4799080
+==================================================
+
