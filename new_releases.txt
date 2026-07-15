@@ -43146,3 +43146,86 @@ Genres: Action
 Link: https://store.steampowered.com/app/4519680
 ==================================================
 
+
+--- Run: 2026-07-15 04:37:25 --- (10 new game(s) found)
+
+==================================================
+Name: Trainz Simulator World Tour
+Release Date: Jul 14, 2026
+Price: $39.99
+Genres: Simulation
+Link: https://store.steampowered.com/app/3998560
+==================================================
+
+==================================================
+Name: ShareNote Engine
+Release Date: Jul 14, 2026
+Price: Free to Play
+Genres: Strategy, Free To Play, Utilities
+Link: https://store.steampowered.com/app/4549560
+==================================================
+
+==================================================
+Name: Edd Skeleton VR
+Release Date: Jul 14, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/4389140
+==================================================
+
+==================================================
+Name: 新盗墓笔记（官方正版）
+Release Date: Jul 14, 2026
+Price: Free to Play
+Genres: Action, Adventure, Massively Multiplayer, RPG, Free To Play
+Link: https://store.steampowered.com/app/4676570
+==================================================
+
+==================================================
+Name: Backpack Dungeon
+Release Date: Jul 14, 2026
+Price: $3.19 (-20%, was $3.99)
+Genres: Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/4478640
+==================================================
+
+==================================================
+Name: Master of Balance
+Release Date: Jul 14, 2026
+Price: $7.19 (-20%, was $8.99)
+Genres: Adventure, Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/3583940
+==================================================
+
+==================================================
+Name: 洪荒进化 Hong Huang Evolution
+Release Date: Jul 14, 2026
+Price: $3.59 (-10%, was $3.99)
+Genres: Action, Casual, Indie, RPG
+Link: https://store.steampowered.com/app/4280780
+==================================================
+
+==================================================
+Name: 斗将
+Release Date: Jul 14, 2026
+Price: Free to Play
+Genres: Massively Multiplayer, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4793740
+==================================================
+
+==================================================
+Name: Silency: Cube 666
+Release Date: Jul 14, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4511960
+==================================================
+
+==================================================
+Name: Naomi’s End
+Release Date: Jul 14, 2026
+Price: $0.59 (-40%, was $0.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4863030
+==================================================
+
