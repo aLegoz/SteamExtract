@@ -43803,3 +43803,30 @@ Genres: Casual, Indie
 Link: https://store.steampowered.com/app/4563580
 ==================================================
 
+
+--- Run: 2026-07-15 22:53:20 --- (3 new game(s) found)
+
+==================================================
+Name: Dollar Desktop Pet
+Release Date: Jul 15, 2026
+Price: $2.00 (-33%, was $2.99)
+Genres: Utilities
+Link: https://store.steampowered.com/app/4872710
+==================================================
+
+==================================================
+Name: Egg-cremental
+Release Date: Jul 15, 2026
+Price: $3.59 (-20%, was $4.49)
+Genres: Casual, Simulation
+Link: https://store.steampowered.com/app/4865210
+==================================================
+
+==================================================
+Name: Nah, I'd Shotgun
+Release Date: Jul 15, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Action
+Link: https://store.steampowered.com/app/4562060
+==================================================
+
