@@ -43390,3 +43390,54 @@ Genres: Action, Adventure, Indie, RPG, Free To Play
 Link: https://store.steampowered.com/app/4801300
 ==================================================
 
+
+--- Run: 2026-07-15 13:04:17 --- (6 new game(s) found)
+
+==================================================
+Name: Lewd Cup
+Release Date: Jul 15, 2026
+Price: Free to Play
+Genres: Casual, Indie, Simulation, Sports, Free To Play
+Link: https://store.steampowered.com/app/4265260
+==================================================
+
+==================================================
+Name: Track Star
+Release Date: Jul 15, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Casual, Simulation, Sports
+Link: https://store.steampowered.com/app/4538830
+==================================================
+
+==================================================
+Name: Minimalist Desktop
+Release Date: Jul 15, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Indie, Utilities
+Link: https://store.steampowered.com/app/3937750
+==================================================
+
+==================================================
+Name: Peace Under His Roof
+Release Date: Jul 15, 2026
+Price: $2.69 (-10%, was $2.99)
+Genres: Indie
+Link: https://store.steampowered.com/app/4324840
+==================================================
+
+==================================================
+Name: Hypatia
+Release Date: Jul 15, 2026
+Price: $13.49 (-10%, was $14.99)
+Genres: Adventure, Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4651470
+==================================================
+
+==================================================
+Name: Hakimi Blaster - Hakimi Survivors
+Release Date: Jul 14, 2026
+Price: $0.60 (-40%, was $1.00)
+Genres: Action, Casual, Indie, RPG
+Link: https://store.steampowered.com/app/4060660
+==================================================
+
