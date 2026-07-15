@@ -43355,3 +43355,38 @@ Genres: Casual, Sports
 Link: https://store.steampowered.com/app/4860390
 ==================================================
 
+
+--- Run: 2026-07-15 11:18:42 --- (4 new game(s) found)
+
+==================================================
+Name: Vexbound
+Release Date: Coming soon
+Price: Free to Play
+Genres: Action, Adventure, Indie, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4891140
+==================================================
+
+==================================================
+Name: The Mound: Omen of Cthulhu
+Release Date: Jul 15, 2026
+Price: $23.99 (-20%, was $29.99)
+Genres: Action, Adventure
+Link: https://store.steampowered.com/app/2569760
+==================================================
+
+==================================================
+Name: What Surrounds Us
+Release Date: Jul 15, 2026
+Price: $10.39 (-20%, was $12.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4178950
+==================================================
+
+==================================================
+Name: Last Lumen Knight
+Release Date: Jul 15, 2026
+Price: Free to Play
+Genres: Action, Adventure, Indie, RPG, Free To Play
+Link: https://store.steampowered.com/app/4801300
+==================================================
+
