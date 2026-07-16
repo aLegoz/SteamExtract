@@ -44227,3 +44227,198 @@ Genres: Action, Indie, RPG, Simulation
 Link: https://store.steampowered.com/app/3808690
 ==================================================
 
+
+--- Run: 2026-07-16 15:24:11 --- (24 new game(s) found)
+
+==================================================
+Name: GROUND BRANCH
+Release Date: Aug 14, 2018
+Price: $23.99 (-20%, was $29.99)
+Genres: Action, Indie, Simulation, Early Access
+Link: https://store.steampowered.com/app/16900
+==================================================
+
+==================================================
+Name: Bunny Waifu
+Release Date: Jul 16, 2026
+Price: $2.09 (-30%, was $2.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4710120
+==================================================
+
+==================================================
+Name: Cheat Death
+Release Date: Jul 16, 2026
+Price: $9.87 (-24%, was $12.99)
+Genres: Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/3756340
+==================================================
+
+==================================================
+Name: Rocoumie and Bouquet
+Release Date: Jul 16, 2026
+Price: $3.49 (-30%, was $4.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4822660
+==================================================
+
+==================================================
+Name: BROKEN SOUL : Boss Rush
+Release Date: Jul 16, 2026
+Price: $9.74 (-25%, was $12.99)
+Genres: Action, Casual, Indie, RPG
+Link: https://store.steampowered.com/app/4424450
+==================================================
+
+==================================================
+Name: Neko Michi
+Release Date: Jul 16, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/4083580
+==================================================
+
+==================================================
+Name: Sweet Hamster Days
+Release Date: Jul 16, 2026
+Price: $16.19 (-10%, was $17.99)
+Genres: Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/4390720
+==================================================
+
+==================================================
+Name: Looking For Fael
+Release Date: Jul 16, 2026
+Price: $16.99 (-15%, was $19.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/2521170
+==================================================
+
+==================================================
+Name: Pimbolas
+Release Date: Jul 16, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: Casual, Indie, Sports
+Link: https://store.steampowered.com/app/3621200
+==================================================
+
+==================================================
+Name: Storebound
+Release Date: Jul 16, 2026
+Price: $6.39 (-20%, was $7.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/3417410
+==================================================
+
+==================================================
+Name: Biomechanical Toy (QUByte Classics)
+Release Date: Jul 16, 2026
+Price: $8.49 (-15%, was $9.99)
+Genres: Action, Adventure
+Link: https://store.steampowered.com/app/4448040
+==================================================
+
+==================================================
+Name: The NOexistenceN of Lilith
+Release Date: Jul 16, 2026
+Price: $1.79 (-10%, was $1.99)
+Genres: Casual, Indie, RPG, Simulation
+Link: https://store.steampowered.com/app/4643090
+==================================================
+
+==================================================
+Name: Fixer Undercover
+Release Date: Jul 16, 2026
+Price: $16.19 (-10%, was $17.99)
+Genres: Adventure, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/3102370
+==================================================
+
+==================================================
+Name: DAICE
+Release Date: Jul 16, 2026
+Price: $13.49 (-10%, was $14.99)
+Genres: Strategy
+Link: https://store.steampowered.com/app/4422430
+==================================================
+
+==================================================
+Name: Moss: The Forgotten Relic 
+Release Date: Jul 16, 2026
+Price: $17.99 (-10%, was $19.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/3914860
+==================================================
+
+==================================================
+Name: Guess The Sound
+Release Date: Jul 16, 2026
+Price: $1.61 (-10%, was $1.79)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4408180
+==================================================
+
+==================================================
+Name: Honeymoon Waifu
+Release Date: Jul 16, 2026
+Price: $1.79 (-40%, was $2.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4594290
+==================================================
+
+==================================================
+Name: Happy's Humble Burger Cult
+Release Date: Jul 16, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: Action, Indie, Simulation
+Link: https://store.steampowered.com/app/3453910
+==================================================
+
+==================================================
+Name: CARDED: Groups to Glory
+Release Date: Jul 16, 2026
+Price: $11.99 (-20%, was $14.99)
+Genres: Casual, Indie, Sports, Strategy
+Link: https://store.steampowered.com/app/4785220
+==================================================
+
+==================================================
+Name: Frostrain 2
+Release Date: Jul 16, 2026
+Price: $8.79 (-20%, was $10.99)
+Genres: Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/3690490
+==================================================
+
+==================================================
+Name: Ore Factory Squad ⛏️
+Release Date: Jul 16, 2026
+Price: $9.74 (-25%, was $12.99)
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/4210580
+==================================================
+
+==================================================
+Name: Bitloop
+Release Date: Jul 16, 2026
+Price: $3.39 (-15%, was $3.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4808420
+==================================================
+
+==================================================
+Name: 鏡
+Release Date: Jul 16, 2026
+Price: $3.77
+Genres: Action
+Link: https://store.steampowered.com/app/4869740
+==================================================
+
+==================================================
+Name: Mystery Detective Adventure 2 Collector's Edition
+Release Date: Jul 16, 2026
+Price: $9.99
+Genres: Adventure, Casual
+Link: https://store.steampowered.com/app/4693270
+==================================================
+
