@@ -43876,3 +43876,110 @@ Genres: Indie, RPG, Strategy
 Link: https://store.steampowered.com/app/3371260
 ==================================================
 
+
+--- Run: 2026-07-16 04:47:56 --- (13 new game(s) found)
+
+==================================================
+Name: Cosmic Robots
+Release Date: Jul 15, 2026
+Price: $5.09 (-15%, was $5.99)
+Genres: Action, Casual, Simulation, Strategy
+Link: https://store.steampowered.com/app/4500660
+==================================================
+
+==================================================
+Name: Noise Canceler
+Release Date: Jul 15, 2026
+Price: $5.39 (-10%, was $5.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/3861800
+==================================================
+
+==================================================
+Name: Palm Farm: Idle Crops
+Release Date: Jul 15, 2026
+Price: $1.79 (-10%, was $1.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4593070
+==================================================
+
+==================================================
+Name: Samurai Conqueror
+Release Date: Jul 15, 2026
+Price: $11.89 (-15%, was $13.99)
+Genres: Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/3430910
+==================================================
+
+==================================================
+Name: MeowCraft
+Release Date: Jul 15, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Casual, Indie, RPG, Simulation, Strategy
+Link: https://store.steampowered.com/app/2481810
+==================================================
+
+==================================================
+Name: The Hidden Scrolls
+Release Date: Jul 15, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/3201830
+==================================================
+
+==================================================
+Name: 4D Intuition
+Release Date: Jul 15, 2026
+Price: $13.49 (-10%, was $14.99)
+Genres: Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/3635130
+==================================================
+
+==================================================
+Name: The Remnants
+Release Date: Jul 15, 2026
+Price: $6.99
+Genres: Adventure, Simulation
+Link: https://store.steampowered.com/app/4554390
+==================================================
+
+==================================================
+Name: My Life For Thee!
+Release Date: Jul 15, 2026
+Price: $9.59 (-20%, was $11.99)
+Genres: Adventure, RPG
+Link: https://store.steampowered.com/app/4013010
+==================================================
+
+==================================================
+Name: The Final Shuffle
+Release Date: Jul 15, 2026
+Price: $9.99
+Genres: Action, Adventure, Indie, Massively Multiplayer, RPG, Strategy
+Link: https://store.steampowered.com/app/4300740
+==================================================
+
+==================================================
+Name: CODEX vs SCIENCE (Not Talos Principles)
+Release Date: Jul 15, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4596000
+==================================================
+
+==================================================
+Name: Clout Chaser
+Release Date: Jul 15, 2026
+Price: $3.49 (-30%, was $4.99)
+Genres: Casual, Simulation, Strategy
+Link: https://store.steampowered.com/app/4178610
+==================================================
+
+==================================================
+Name: Donor Tryst
+Release Date: Jul 15, 2026
+Price: $4.19 (-40%, was $6.99)
+Genres: Adventure, Simulation
+Link: https://store.steampowered.com/app/4778280
+==================================================
+
