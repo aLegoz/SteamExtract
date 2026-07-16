@@ -44002,3 +44002,110 @@ Genres: Action, Indie
 Link: https://store.steampowered.com/app/4613170
 ==================================================
 
+
+--- Run: 2026-07-16 09:52:56 --- (13 new game(s) found)
+
+==================================================
+Name: Holonoptic
+Release Date: Jul 16, 2026
+Price: $14.96 (-25%, was $19.95)
+Genres: Indie, RPG, Simulation
+Link: https://store.steampowered.com/app/4305470
+==================================================
+
+==================================================
+Name: Ring Toss Legend
+Release Date: Jul 16, 2026
+Price: $2.21 (-21%, was $2.80)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4891410
+==================================================
+
+==================================================
+Name: Farlands
+Release Date: Jul 16, 2026
+Price: $12.59 (-30%, was $17.99)
+Genres: Casual, Indie, RPG, Simulation
+Link: https://store.steampowered.com/app/2252680
+==================================================
+
+==================================================
+Name: Find Cats 7 Art & Alchemy
+Release Date: Jul 16, 2026
+Price: $1.57 (-21%, was $1.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4834160
+==================================================
+
+==================================================
+Name: DUNGEON SLASHER
+Release Date: Jul 16, 2026
+Price: Free to Play
+Genres: Action, Adventure, Indie, Free To Play
+Link: https://store.steampowered.com/app/2712460
+==================================================
+
+==================================================
+Name: Cutesor - Cursor Studio
+Release Date: Jul 16, 2026
+Price: $3.92 (-20%, was $4.90)
+Genres: Design & Illustration
+Link: https://store.steampowered.com/app/4841520
+==================================================
+
+==================================================
+Name: EVIL Agribusiness Simulator
+Release Date: Jul 16, 2026
+Price: $4.99
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4832790
+==================================================
+
+==================================================
+Name: KOOO TO JUMP!
+Release Date: Jul 16, 2026
+Price: $8.09 (-10%, was $8.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4237400
+==================================================
+
+==================================================
+Name: Virus X
+Release Date: Jul 15, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Action, Adventure, Indie, Strategy
+Link: https://store.steampowered.com/app/4558950
+==================================================
+
+==================================================
+Name: KYOTO XANADU -the Blooming Phantom-
+Release Date: Jul 15, 2026
+Price: $54.99
+Genres: Action, RPG
+Link: https://store.steampowered.com/app/4449410
+==================================================
+
+==================================================
+Name: Asymptote
+Release Date: Jul 15, 2026
+Price: $3.74 (-25%, was $4.99)
+Genres: Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/4670130
+==================================================
+
+==================================================
+Name: Hundred Tribulations
+Release Date: Jul 15, 2026
+Price: $6.29 (-10%, was $6.99)
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/4810840
+==================================================
+
+==================================================
+Name: Sudoku Haven
+Release Date: Jul 15, 2026
+Price: $2.99 (-40%, was $4.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4896210
+==================================================
+
