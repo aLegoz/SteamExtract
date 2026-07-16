@@ -44639,3 +44639,22 @@ Genres: Casual, Simulation
 Link: https://store.steampowered.com/app/4870970
 ==================================================
 
+
+--- Run: 2026-07-16 20:42:12 --- (2 new game(s) found)
+
+==================================================
+Name: EverDark
+Release Date: Jul 16, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Action, RPG, Strategy
+Link: https://store.steampowered.com/app/4715200
+==================================================
+
+==================================================
+Name: Garden Eternal
+Release Date: Jul 16, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4737050
+==================================================
+
