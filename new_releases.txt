@@ -43849,3 +43849,30 @@ Genres: Simulation, Sports, Strategy
 Link: https://store.steampowered.com/app/4799080
 ==================================================
 
+
+--- Run: 2026-07-16 01:19:52 --- (3 new game(s) found)
+
+==================================================
+Name: Knaights
+Release Date: Jul 15, 2026
+Price: $10.04 (-33%, was $14.99)
+Genres: Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/4776920
+==================================================
+
+==================================================
+Name: 斗笠江湖
+Release Date: Jul 15, 2026
+Price: Free to Play
+Genres: Action, RPG, Free To Play
+Link: https://store.steampowered.com/app/4654940
+==================================================
+
+==================================================
+Name: Requiem of Reuinis
+Release Date: Jul 15, 2026
+Price: $10.19 (-15%, was $11.99)
+Genres: Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/3371260
+==================================================
+
