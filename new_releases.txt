@@ -44473,3 +44473,110 @@ Genres: Action, Adventure, Indie
 Link: https://store.steampowered.com/app/4855760
 ==================================================
 
+
+--- Run: 2026-07-16 18:06:28 --- (13 new game(s) found)
+
+==================================================
+Name: GOLIATH
+Release Date: Jul 16, 2026
+Price: $3.99
+Genres: Action
+Link: https://store.steampowered.com/app/4685570
+==================================================
+
+==================================================
+Name: Rail Estate
+Release Date: Jul 16, 2026
+Price: $6.39 (-20%, was $7.99)
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/3762240
+==================================================
+
+==================================================
+Name: Diggin
+Release Date: Jul 16, 2026
+Price: $4.89 (-30%, was $6.99)
+Genres: Adventure, Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4157430
+==================================================
+
+==================================================
+Name: Kitty Burger
+Release Date: Jul 16, 2026
+Price: $8.79 (-20%, was $10.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4119270
+==================================================
+
+==================================================
+Name: Valeria: The Last Heir
+Release Date: Jul 16, 2026
+Price: $3.15 (-10%, was $3.50)
+Genres: Adventure
+Link: https://store.steampowered.com/app/4596940
+==================================================
+
+==================================================
+Name: Sextates Manager
+Release Date: Jul 16, 2026
+Price: $8.49 (-15%, was $9.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4617060
+==================================================
+
+==================================================
+Name: Fire Boy
+Release Date: Jul 16, 2026
+Price: $5.59 (-20%, was $6.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/1539050
+==================================================
+
+==================================================
+Name: Ghost Keeper
+Release Date: Jul 16, 2026
+Price: $7.79 (-40%, was $12.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/2708880
+==================================================
+
+==================================================
+Name: K-pop Idol Stories: Road to Debut
+Release Date: Jul 16, 2026
+Price: $15.99 (-20%, was $19.99)
+Genres: Casual, Indie, RPG, Simulation
+Link: https://store.steampowered.com/app/1662160
+==================================================
+
+==================================================
+Name: Petunia's Purgatory
+Release Date: Jul 16, 2026
+Price: $5.59 (-20%, was $6.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4009450
+==================================================
+
+==================================================
+Name: Hold the Core
+Release Date: Jul 16, 2026
+Price: $5.94 (-15%, was $6.99)
+Genres: Action, Indie, Strategy
+Link: https://store.steampowered.com/app/4101150
+==================================================
+
+==================================================
+Name: Coffee Craze
+Release Date: Jul 16, 2026
+Price: $3.59 (-10%, was $3.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4873390
+==================================================
+
+==================================================
+Name: 妖怪ドックで体の不安を解消したい鍵山雛たち！！
+Release Date: Jul 16, 2026
+Price: $6.29 (-10%, was $6.99)
+Genres: Adventure
+Link: https://store.steampowered.com/app/4805170
+==================================================
+
