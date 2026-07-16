@@ -44658,3 +44658,22 @@ Genres: Casual, Indie
 Link: https://store.steampowered.com/app/4737050
 ==================================================
 
+
+--- Run: 2026-07-16 21:52:58 --- (2 new game(s) found)
+
+==================================================
+Name: The Lure
+Release Date: Jul 16, 2026
+Price: Free to Play
+Genres: Adventure, Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/4852580
+==================================================
+
+==================================================
+Name: Debris Zone
+Release Date: Jul 16, 2026
+Price: Free to Play
+Genres: Action, Casual, RPG, Free To Play
+Link: https://store.steampowered.com/app/4898540
+==================================================
+
