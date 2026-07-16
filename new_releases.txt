@@ -44580,3 +44580,62 @@ Genres: Adventure
 Link: https://store.steampowered.com/app/4805170
 ==================================================
 
+
+--- Run: 2026-07-16 19:53:51 --- (7 new game(s) found)
+
+==================================================
+Name: Letalis
+Release Date: Jul 16, 2026
+Price: $10.49 (-30%, was $14.99)
+Genres: RPG
+Link: https://store.steampowered.com/app/2396200
+==================================================
+
+==================================================
+Name: Until Done
+Release Date: Jul 16, 2026
+Price: $2.99
+Genres: Adventure, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4887750
+==================================================
+
+==================================================
+Name: Universal Harvest: Incremental
+Release Date: Jul 16, 2026
+Price: $3.59 (-40%, was $5.99)
+Genres: Action, Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4779010
+==================================================
+
+==================================================
+Name: MOBU
+Release Date: Jul 16, 2026
+Price: $5.39 (-10%, was $5.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4404580
+==================================================
+
+==================================================
+Name: Album3D
+Release Date: Jul 16, 2026
+Price: $12.74 (-15%, was $14.99)
+Genres: Adventure, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4316670
+==================================================
+
+==================================================
+Name: Meta Ghost: Breaking Show
+Release Date: Jul 16, 2026
+Price: $12.59 (-30%, was $17.99)
+Genres: Action, Indie, RPG
+Link: https://store.steampowered.com/app/2507980
+==================================================
+
+==================================================
+Name: Rustbound
+Release Date: Jul 16, 2026
+Price: $13.49 (-10%, was $14.99)
+Genres: Casual, Simulation
+Link: https://store.steampowered.com/app/4870970
+==================================================
+
