@@ -44422,3 +44422,54 @@ Genres: Adventure, Casual
 Link: https://store.steampowered.com/app/4693270
 ==================================================
 
+
+--- Run: 2026-07-16 16:59:47 --- (6 new game(s) found)
+
+==================================================
+Name: The Mermaid Mask
+Release Date: Jul 16, 2026
+Price: $17.99 (-10%, was $19.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/1696770
+==================================================
+
+==================================================
+Name: Wreck Runners
+Release Date: Jul 16, 2026
+Price: $9.99
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/1473960
+==================================================
+
+==================================================
+Name: Welcome to the Game III
+Release Date: Jul 16, 2026
+Price: $17.99 (-10%, was $19.99)
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/3869850
+==================================================
+
+==================================================
+Name: Dead Weight
+Release Date: Jul 16, 2026
+Price: $9.74 (-25%, was $12.99)
+Genres: Adventure, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/2646720
+==================================================
+
+==================================================
+Name: Heave Ho 2
+Release Date: Jul 16, 2026
+Price: $9.99
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/2802740
+==================================================
+
+==================================================
+Name: Tung Tung Tung Survival
+Release Date: Jul 16, 2026
+Price: $1.19 (-40%, was $1.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/4855760
+==================================================
+
