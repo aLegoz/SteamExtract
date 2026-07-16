@@ -43983,3 +43983,22 @@ Genres: Adventure, Simulation
 Link: https://store.steampowered.com/app/4778280
 ==================================================
 
+
+--- Run: 2026-07-16 07:13:06 --- (2 new game(s) found)
+
+==================================================
+Name: Vecchio Furioso
+Release Date: Jul 15, 2026
+Price: $10.20 (-15%, was $12.00)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4524580
+==================================================
+
+==================================================
+Name: InTheLake
+Release Date: Jul 15, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4613170
+==================================================
+
