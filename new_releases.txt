@@ -44677,3 +44677,30 @@ Genres: Action, Casual, RPG, Free To Play
 Link: https://store.steampowered.com/app/4898540
 ==================================================
 
+
+--- Run: 2026-07-16 22:44:56 --- (3 new game(s) found)
+
+==================================================
+Name: Tiny Circuits
+Release Date: Jul 16, 2026
+Price: $8.49 (-15%, was $9.99)
+Genres: Indie
+Link: https://store.steampowered.com/app/2709790
+==================================================
+
+==================================================
+Name: Fruitgeddon
+Release Date: Jul 16, 2026
+Price: $3.24 (-35%, was $4.99)
+Genres: Action
+Link: https://store.steampowered.com/app/3593020
+==================================================
+
+==================================================
+Name: Casino Casualty
+Release Date: Jul 16, 2026
+Price: $7.99
+Genres: Strategy
+Link: https://store.steampowered.com/app/4169590
+==================================================
+
