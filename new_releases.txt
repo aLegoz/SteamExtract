@@ -44873,3 +44873,22 @@ Genres: Action, Casual, Indie, RPG
 Link: https://store.steampowered.com/app/4190800
 ==================================================
 
+
+--- Run: 2026-07-17 07:07:37 --- (2 new game(s) found)
+
+==================================================
+Name: Pixel Texas Hold'em
+Release Date: Jul 16, 2026
+Price: Free to Play
+Genres: Casual, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4834490
+==================================================
+
+==================================================
+Name: 兵王
+Release Date: Jul 16, 2026
+Price: Free to Play
+Genres: Massively Multiplayer, Free To Play
+Link: https://store.steampowered.com/app/4291090
+==================================================
+
