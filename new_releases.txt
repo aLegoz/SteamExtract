@@ -45347,3 +45347,166 @@ Genres: Strategy
 Link: https://store.steampowered.com/app/4308320
 ==================================================
 
+
+--- Run: 2026-07-17 17:55:40 --- (20 new game(s) found)
+
+==================================================
+Name: Dead Night Highway
+Release Date: Jul 17, 2026
+Price: $7.49 (-25%, was $9.99)
+Genres: RPG, Simulation, Strategy
+Link: https://store.steampowered.com/app/4614320
+==================================================
+
+==================================================
+Name: Animal Chameleon
+Release Date: Jul 17, 2026
+Price: $4.79 (-20%, was $5.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/4879850
+==================================================
+
+==================================================
+Name: Lost Stories
+Release Date: Jul 17, 2026
+Price: $7.99
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/4269570
+==================================================
+
+==================================================
+Name: Orbital Dispatch
+Release Date: Jul 17, 2026
+Price: $8.09 (-10%, was $8.99)
+Genres: Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4599580
+==================================================
+
+==================================================
+Name: DeskLayer
+Release Date: Jul 17, 2026
+Price: $8.49 (-15%, was $9.99)
+Genres: Animation & Modeling, Design & Illustration, Utilities
+Link: https://store.steampowered.com/app/4823730
+==================================================
+
+==================================================
+Name: Subway Builder
+Release Date: Jul 17, 2026
+Price: $29.99 (-25%, was $39.99)
+Genres: Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4039140
+==================================================
+
+==================================================
+Name: Touhou: Beyond Gensokyo
+Release Date: Jul 17, 2026
+Price: $8.49 (-15%, was $9.99)
+Genres: Adventure, Casual
+Link: https://store.steampowered.com/app/4489700
+==================================================
+
+==================================================
+Name: Dragon Dragon Fire Fire Deluxe
+Release Date: Jul 17, 2026
+Price: $4.20 (-15%, was $4.95)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4177670
+==================================================
+
+==================================================
+Name: A Foreign World
+Release Date: Jul 17, 2026
+Price: $9.99 (-50%, was $19.99)
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/2174320
+==================================================
+
+==================================================
+Name: Banker Simulator
+Release Date: Jul 17, 2026
+Price: $8.39 (-30%, was $11.99)
+Genres: Casual, Simulation
+Link: https://store.steampowered.com/app/3393240
+==================================================
+
+==================================================
+Name: Desktop Explorer
+Release Date: Jul 17, 2026
+Price: $16.19 (-10%, was $17.99)
+Genres: Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/2527160
+==================================================
+
+==================================================
+Name: Keypress Express
+Release Date: Jul 17, 2026
+Price: Free to Play
+Genres: Free To Play
+Link: https://store.steampowered.com/app/4816900
+==================================================
+
+==================================================
+Name: Grapple Bear
+Release Date: Jul 17, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Adventure, Indie, Racing
+Link: https://store.steampowered.com/app/4151550
+==================================================
+
+==================================================
+Name: Tavern Legends
+Release Date: Jul 17, 2026
+Price: $21.24 (-15%, was $24.99)
+Genres: Casual, Indie, RPG, Simulation
+Link: https://store.steampowered.com/app/3160880
+==================================================
+
+==================================================
+Name: Citadel Zero
+Release Date: Jul 17, 2026
+Price: Free to Play
+Genres: Indie, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4889540
+==================================================
+
+==================================================
+Name: Database Detective: Minor Crimes Division
+Release Date: Jul 17, 2026
+Price: $12.74 (-15%, was $14.99)
+Genres: Indie
+Link: https://store.steampowered.com/app/3950130
+==================================================
+
+==================================================
+Name: DigWorld
+Release Date: Jul 17, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Adventure, Casual
+Link: https://store.steampowered.com/app/4567230
+==================================================
+
+==================================================
+Name: Bango Bingo
+Release Date: Jul 17, 2026
+Price: $3.49 (-30%, was $4.99)
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4893020
+==================================================
+
+==================================================
+Name: Aetherial
+Release Date: Jul 17, 2026
+Price: $1.79 (-10%, was $1.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/1966390
+==================================================
+
+==================================================
+Name: The Hydrangea Line
+Release Date: Jul 17, 2026
+Price: $1.69 (-15%, was $1.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4899660
+==================================================
+
