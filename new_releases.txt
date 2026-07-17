@@ -45545,3 +45545,54 @@ Genres: Adventure, Indie, Simulation
 Link: https://store.steampowered.com/app/3417490
 ==================================================
 
+
+--- Run: 2026-07-17 19:56:04 --- (6 new game(s) found)
+
+==================================================
+Name: Brainrotting
+Release Date: Jul 17, 2026
+Price: $2.39 (-20%, was $2.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4484320
+==================================================
+
+==================================================
+Name: Mech Shop
+Release Date: Jul 17, 2026
+Price: $8.49 (-15%, was $9.99)
+Genres: Indie
+Link: https://store.steampowered.com/app/3418250
+==================================================
+
+==================================================
+Name: Declutterer
+Release Date: Jul 17, 2026
+Price: $4.79 (-40%, was $7.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/4526770
+==================================================
+
+==================================================
+Name: Milf Street
+Release Date: Jul 17, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/4234470
+==================================================
+
+==================================================
+Name: Mysis: The Return
+Release Date: Jul 17, 2026
+Price: $1.99
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/4881210
+==================================================
+
+==================================================
+Name: Rain Station Z
+Release Date: Jul 17, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/4781990
+==================================================
+
