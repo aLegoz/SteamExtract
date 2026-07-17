@@ -45248,3 +45248,102 @@ Genres: Indie, Simulation
 Link: https://store.steampowered.com/app/4859030
 ==================================================
 
+
+--- Run: 2026-07-17 16:06:27 --- (12 new game(s) found)
+
+==================================================
+Name: Sheep Move Together
+Release Date: Jul 17, 2026
+Price: $2.99 (-40%, was $4.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4805840
+==================================================
+
+==================================================
+Name: Between These Two
+Release Date: Jul 17, 2026
+Price: $6.79 (-15%, was $7.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4057320
+==================================================
+
+==================================================
+Name: slimes!
+Release Date: Jul 17, 2026
+Price: $2.99
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4623260
+==================================================
+
+==================================================
+Name: 福报镖局
+Release Date: Jul 17, 2026
+Price: $3.59 (-10%, was $3.99)
+Genres: Action, Casual, Indie, RPG, Simulation, Strategy
+Link: https://store.steampowered.com/app/4227420
+==================================================
+
+==================================================
+Name: Leap Of Faith
+Release Date: Jul 17, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/3628800
+==================================================
+
+==================================================
+Name: Bolsheviktion 2: Yurovsky's Revenge
+Release Date: Jul 17, 2026
+Price: $8.89 (-10%, was $9.88)
+Genres: Action
+Link: https://store.steampowered.com/app/4828450
+==================================================
+
+==================================================
+Name: CD Market - Music Label Sim
+Release Date: Jul 17, 2026
+Price: $14.99 (-25%, was $19.99)
+Genres: Simulation, Strategy
+Link: https://store.steampowered.com/app/4622330
+==================================================
+
+==================================================
+Name: Pixel Darts: From Pub to Glory
+Release Date: Jul 17, 2026
+Price: $6.29 (-10%, was $6.99)
+Genres: Casual, Indie, Simulation, Sports
+Link: https://store.steampowered.com/app/4712560
+==================================================
+
+==================================================
+Name: SIGILLVM: RESONANCE
+Release Date: Jul 17, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/3221720
+==================================================
+
+==================================================
+Name: Knock It Over, Again?
+Release Date: Jul 17, 2026
+Price: $3.19 (-20%, was $3.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4438470
+==================================================
+
+==================================================
+Name: Saving Bumblebrook
+Release Date: Jul 17, 2026
+Price: $8.99
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4796780
+==================================================
+
+==================================================
+Name: K-CHESS OMEGA
+Release Date: Jul 17, 2026
+Price: $4.99
+Genres: Strategy
+Link: https://store.steampowered.com/app/4308320
+==================================================
+
