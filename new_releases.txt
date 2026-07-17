@@ -45510,3 +45510,38 @@ Genres: Casual, Indie
 Link: https://store.steampowered.com/app/4899660
 ==================================================
 
+
+--- Run: 2026-07-17 18:49:22 --- (4 new game(s) found)
+
+==================================================
+Name: Fogpiercer
+Release Date: Jul 17, 2026
+Price: $14.99 (-25%, was $19.99)
+Genres: RPG, Strategy
+Link: https://store.steampowered.com/app/3219010
+==================================================
+
+==================================================
+Name: Behind the Screen
+Release Date: Jul 17, 2026
+Price: $1.59 (-20%, was $1.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4876320
+==================================================
+
+==================================================
+Name: Mow My World
+Release Date: Jul 17, 2026
+Price: Free to Play
+Genres: Casual, Indie, Simulation, Free To Play
+Link: https://store.steampowered.com/app/4889740
+==================================================
+
+==================================================
+Name: With Eyes Closed - Season 2
+Release Date: Jul 17, 2026
+Price: $11.69 (-10%, was $12.99)
+Genres: Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/3417490
+==================================================
+
