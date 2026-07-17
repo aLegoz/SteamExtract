@@ -45596,3 +45596,14 @@ Genres: Action, Adventure, Indie
 Link: https://store.steampowered.com/app/4781990
 ==================================================
 
+
+--- Run: 2026-07-17 21:39:06 --- (1 new game(s) found)
+
+==================================================
+Name: Lured In
+Release Date: Jul 17, 2026
+Price: $6.39 (-20%, was $7.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4178020
+==================================================
+
