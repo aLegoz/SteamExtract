@@ -44707,3 +44707,22 @@ Link: https://store.steampowered.com/app/4169590
 
 --- Run: 2026-07-16 23:45:19 --- (0 new game(s) found)
 
+
+--- Run: 2026-07-17 01:23:23 --- (2 new game(s) found)
+
+==================================================
+Name: Go-Go Town!
+Release Date: Jul 16, 2026
+Price: $20.99 (-25%, was $27.99)
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/2195120
+==================================================
+
+==================================================
+Name: Pizza Shop Simulator
+Release Date: Jul 16, 2026
+Price: $2.24 (-25%, was $2.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/3720070
+==================================================
+
