@@ -45607,3 +45607,54 @@ Genres: Casual, Indie, Simulation
 Link: https://store.steampowered.com/app/4178020
 ==================================================
 
+
+--- Run: 2026-07-17 22:36:50 --- (6 new game(s) found)
+
+==================================================
+Name: HOT HOLES
+Release Date: Jul 17, 2026
+Price: $2.39 (-40%, was $3.99)
+Genres: Action, Adventure, Casual, Indie, RPG, Simulation, Sports, Strategy
+Link: https://store.steampowered.com/app/4864540
+==================================================
+
+==================================================
+Name: SEX SECRET
+Release Date: Jul 17, 2026
+Price: $3.99
+Genres: Action, Adventure, Casual, Indie, RPG, Simulation, Sports, Strategy
+Link: https://store.steampowered.com/app/4877390
+==================================================
+
+==================================================
+Name: Terraforming Titans
+Release Date: Jul 17, 2026
+Price: $5.00
+Genres: Simulation
+Link: https://store.steampowered.com/app/4864000
+==================================================
+
+==================================================
+Name: Lobsterpunk
+Release Date: Jul 17, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/3414920
+==================================================
+
+==================================================
+Name: Lepidarium
+Release Date: Jul 17, 2026
+Price: $6.39 (-20%, was $7.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4335540
+==================================================
+
+==================================================
+Name: WARPED
+Release Date: Jul 17, 2026
+Price: $4.99
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4841370
+==================================================
+
