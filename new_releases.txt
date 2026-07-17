@@ -45015,3 +45015,86 @@ Genres: Education, Utilities
 Link: https://store.steampowered.com/app/4884700
 ==================================================
 
+
+--- Run: 2026-07-17 11:12:21 --- (10 new game(s) found)
+
+==================================================
+Name: Retro Soccer
+Release Date: Jul 17, 2026
+Price: $6.29 (-10%, was $6.99)
+Genres: Sports
+Link: https://store.steampowered.com/app/3346740
+==================================================
+
+==================================================
+Name: Stuck In Luck
+Release Date: Jul 17, 2026
+Price: $7.99
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/3863850
+==================================================
+
+==================================================
+Name: Huntervania
+Release Date: Jul 17, 2026
+Price: $7.19 (-40%, was $11.99)
+Genres: Action, RPG
+Link: https://store.steampowered.com/app/4608410
+==================================================
+
+==================================================
+Name: Alistella's Alchemy Lab
+Release Date: Jul 17, 2026
+Price: $11.99 (-20%, was $14.99)
+Genres: Indie, RPG
+Link: https://store.steampowered.com/app/3404810
+==================================================
+
+==================================================
+Name: Tactical Roulette
+Release Date: Jul 17, 2026
+Price: $2.54 (-15%, was $2.99)
+Genres: Strategy
+Link: https://store.steampowered.com/app/4605730
+==================================================
+
+==================================================
+Name: MoukeyRun
+Release Date: Jul 17, 2026
+Price: $35.69 (-15%, was $41.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/4901360
+==================================================
+
+==================================================
+Name: Neon Protocol: Nightdome
+Release Date: Jul 17, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Casual, Indie, RPG
+Link: https://store.steampowered.com/app/4847520
+==================================================
+
+==================================================
+Name: Word Puzzle Master
+Release Date: Jul 16, 2026
+Price: $1.66 (-33%, was $2.49)
+Genres: Casual
+Link: https://store.steampowered.com/app/4859540
+==================================================
+
+==================================================
+Name: BEACONFALL
+Release Date: Jul 16, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Strategy
+Link: https://store.steampowered.com/app/4481530
+==================================================
+
+==================================================
+Name: Hentai Tales: Shrine Maiden's Juicy Fruits
+Release Date: Jul 16, 2026
+Price: $0.59 (-40%, was $0.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4786210
+==================================================
+
