@@ -45149,3 +45149,102 @@ Genres: Adventure, Casual, Indie, Simulation
 Link: https://store.steampowered.com/app/2099090
 ==================================================
 
+
+--- Run: 2026-07-17 14:26:53 --- (12 new game(s) found)
+
+==================================================
+Name: Last Alive
+Release Date: Jul 17, 2026
+Price: $6.29 (-10%, was $6.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4559220
+==================================================
+
+==================================================
+Name: The Ministry for Anomaly Observation
+Release Date: Jul 17, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4696610
+==================================================
+
+==================================================
+Name: Pet the Cat
+Release Date: Jul 17, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4605210
+==================================================
+
+==================================================
+Name: What Awaits, Aleksey?
+Release Date: Jul 17, 2026
+Price: $14.39 (-10%, was $15.99)
+Genres: Indie
+Link: https://store.steampowered.com/app/2913610
+==================================================
+
+==================================================
+Name: Desktop Reptiles
+Release Date: Jul 17, 2026
+Price: $6.36 (-15%, was $7.49)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4699700
+==================================================
+
+==================================================
+Name: On the Hunt
+Release Date: Jul 17, 2026
+Price: $24.99
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/1653800
+==================================================
+
+==================================================
+Name: Dinerz: Prologue
+Release Date: Jul 17, 2026
+Price: Free to Play
+Genres: Casual, Indie, Simulation, Free To Play
+Link: https://store.steampowered.com/app/4768040
+==================================================
+
+==================================================
+Name: LarsGadiel
+Release Date: Jul 17, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Action, Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/4341810
+==================================================
+
+==================================================
+Name: Metro Architect
+Release Date: Jul 17, 2026
+Price: $7.92 (-20%, was $9.90)
+Genres: Simulation
+Link: https://store.steampowered.com/app/4733420
+==================================================
+
+==================================================
+Name: Flame Up
+Release Date: Jul 17, 2026
+Price: $2.39 (-20%, was $2.99)
+Genres: Action, Casual, Indie, Sports
+Link: https://store.steampowered.com/app/4536730
+==================================================
+
+==================================================
+Name: Malware Tycoon
+Release Date: Jul 17, 2026
+Price: $8.49 (-15%, was $9.99)
+Genres: Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/3280080
+==================================================
+
+==================================================
+Name: Doesn't this tunnel go on forever?
+Release Date: Jul 17, 2026
+Price: $3.59 (-10%, was $3.99)
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/4859030
+==================================================
+
