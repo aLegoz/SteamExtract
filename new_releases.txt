@@ -45658,3 +45658,14 @@ Genres: Action, Indie
 Link: https://store.steampowered.com/app/4841370
 ==================================================
 
+
+--- Run: 2026-07-17 23:39:56 --- (1 new game(s) found)
+
+==================================================
+Name: Cult of Shadows
+Release Date: Jul 17, 2026
+Price: $14.99
+Genres: Action, Indie, RPG
+Link: https://store.steampowered.com/app/3936450
+==================================================
+
