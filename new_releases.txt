@@ -44892,3 +44892,126 @@ Genres: Massively Multiplayer, Free To Play
 Link: https://store.steampowered.com/app/4291090
 ==================================================
 
+
+--- Run: 2026-07-17 09:43:49 --- (15 new game(s) found)
+
+==================================================
+Name: BeeTD
+Release Date: Jul 17, 2026
+Price: $7.19 (-20%, was $8.99)
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/4306270
+==================================================
+
+==================================================
+Name: It's Chopping Time!
+Release Date: Jul 17, 2026
+Price: $4.97 (-17%, was $5.99)
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4272270
+==================================================
+
+==================================================
+Name: Game of Rebirth
+Release Date: Jul 17, 2026
+Price: $11.69 (-10%, was $12.99)
+Genres: Action, Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/3565290
+==================================================
+
+==================================================
+Name: Don’t Tell Anyone, Okay? - NSFW Stream
+Release Date: Jul 17, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4785670
+==================================================
+
+==================================================
+Name: By My Side
+Release Date: Jul 17, 2026
+Price: $14.99
+Genres: Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/4859700
+==================================================
+
+==================================================
+Name: Orbit: Last Shot
+Release Date: Jul 17, 2026
+Price: Free to Play
+Genres: Strategy
+Link: https://store.steampowered.com/app/4703700
+==================================================
+
+==================================================
+Name: Mobsteria: Rise
+Release Date: Jul 17, 2026
+Price: Free to Play
+Genres: Casual, Indie, Simulation, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4886810
+==================================================
+
+==================================================
+Name: Touhou: Divine Land -Majesty in Game-
+Release Date: Jul 17, 2026
+Price: $13.49 (-10%, was $14.99)
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/3406890
+==================================================
+
+==================================================
+Name: VOS: First Faiths
+Release Date: Jul 17, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Indie
+Link: https://store.steampowered.com/app/4832460
+==================================================
+
+==================================================
+Name: FixForce
+Release Date: Jul 17, 2026
+Price: $7.99
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/3933150
+==================================================
+
+==================================================
+Name: Please One More Block
+Release Date: Jul 17, 2026
+Price: $0.89 (-10%, was $0.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4132980
+==================================================
+
+==================================================
+Name: Class of '09: Puzzle Showdown
+Release Date: Jul 17, 2026
+Price: $19.99
+Genres: Casual
+Link: https://store.steampowered.com/app/3861730
+==================================================
+
+==================================================
+Name: Mallow & The Street of the Fallen
+Release Date: Jul 16, 2026
+Price: $6.39 (-20%, was $7.99)
+Genres: Adventure
+Link: https://store.steampowered.com/app/4050550
+==================================================
+
+==================================================
+Name: Absolute Legend
+Release Date: Jul 16, 2026
+Price: $6.29 (-10%, was $6.99)
+Genres: Casual, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/4899040
+==================================================
+
+==================================================
+Name: Scroll Hold VR
+Release Date: Jul 16, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Education, Utilities
+Link: https://store.steampowered.com/app/4884700
+==================================================
+
