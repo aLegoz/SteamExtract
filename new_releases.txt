@@ -45902,3 +45902,22 @@ Genres: Adventure, Casual, Indie, RPG, Simulation
 Link: https://store.steampowered.com/app/4821980
 ==================================================
 
+
+--- Run: 2026-07-18 22:35:40 --- (2 new game(s) found)
+
+==================================================
+Name: Crash Position
+Release Date: Jul 18, 2026
+Price: $4.19 (-40%, was $6.99)
+Genres: Adventure, Simulation
+Link: https://store.steampowered.com/app/4819490
+==================================================
+
+==================================================
+Name: Pixel Q (Your Personal AI Agent)
+Release Date: Jul 18, 2026
+Price: $15.99
+Genres: Audio Production, Design & Illustration, Education, Software Training, Utilities
+Link: https://store.steampowered.com/app/4736530
+==================================================
+
