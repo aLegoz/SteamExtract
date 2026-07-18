@@ -45883,3 +45883,22 @@ Genres: Action, Casual, Indie
 Link: https://store.steampowered.com/app/4656180
 ==================================================
 
+
+--- Run: 2026-07-18 19:56:45 --- (2 new game(s) found)
+
+==================================================
+Name: 夏まつり零
+Release Date: Jul 18, 2026
+Price: $3.18 (-40%, was $5.30)
+Genres: Adventure, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4856670
+==================================================
+
+==================================================
+Name: The Guest
+Release Date: Jul 18, 2026
+Price: $1.80
+Genres: Adventure, Casual, Indie, RPG, Simulation
+Link: https://store.steampowered.com/app/4821980
+==================================================
+
