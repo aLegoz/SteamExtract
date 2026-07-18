@@ -45761,3 +45761,22 @@ Genres: Action, Casual, Indie
 Link: https://store.steampowered.com/app/1959020
 ==================================================
 
+
+--- Run: 2026-07-18 10:06:34 --- (2 new game(s) found)
+
+==================================================
+Name: Close Call Extreme
+Release Date: Jul 18, 2026
+Price: $3.59 (-10%, was $3.99)
+Genres: Action, Casual, Indie, Racing, Sports
+Link: https://store.steampowered.com/app/752530
+==================================================
+
+==================================================
+Name: Breadwalk
+Release Date: Jul 17, 2026
+Price: Free to Play
+Genres: Adventure, Free To Play
+Link: https://store.steampowered.com/app/4860480
+==================================================
+
