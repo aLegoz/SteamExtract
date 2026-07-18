@@ -45921,3 +45921,14 @@ Genres: Audio Production, Design & Illustration, Education, Software Training, U
 Link: https://store.steampowered.com/app/4736530
 ==================================================
 
+
+--- Run: 2026-07-18 23:39:54 --- (1 new game(s) found)
+
+==================================================
+Name: Disconnect 2
+Release Date: Jul 18, 2026
+Price: $4.19 (-40%, was $6.99)
+Genres: Action, Adventure, Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/3428870
+==================================================
+
