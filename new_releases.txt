@@ -45872,3 +45872,14 @@ Genres: Casual, Indie, RPG, Simulation, Strategy, Free To Play
 Link: https://store.steampowered.com/app/3426430
 ==================================================
 
+
+--- Run: 2026-07-18 17:44:22 --- (1 new game(s) found)
+
+==================================================
+Name: Again. Faster!
+Release Date: Jul 18, 2026
+Price: $5.94 (-15%, was $6.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4656180
+==================================================
+
