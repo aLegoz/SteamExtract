@@ -45780,3 +45780,22 @@ Genres: Adventure, Free To Play
 Link: https://store.steampowered.com/app/4860480
 ==================================================
 
+
+--- Run: 2026-07-18 11:41:44 --- (2 new game(s) found)
+
+==================================================
+Name: Awakeness: YALDA Night
+Release Date: Jul 18, 2026
+Price: Free to Play
+Genres: Action, Adventure, Indie, Free To Play
+Link: https://store.steampowered.com/app/4277200
+==================================================
+
+==================================================
+Name: Hentai Nectar
+Release Date: Jul 17, 2026
+Price: $2.09 (-30%, was $2.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4685790
+==================================================
+
