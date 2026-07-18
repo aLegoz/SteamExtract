@@ -45723,3 +45723,30 @@ Genres: Action, Casual, Indie
 Link: https://store.steampowered.com/app/2965020
 ==================================================
 
+
+--- Run: 2026-07-18 06:51:07 --- (3 new game(s) found)
+
+==================================================
+Name: Pleasure Inquisitor ~Knight Lillia's Sweet Surrender~
+Release Date: Jul 17, 2026
+Price: $11.99 (-40%, was $19.99)
+Genres: Simulation
+Link: https://store.steampowered.com/app/4847680
+==================================================
+
+==================================================
+Name: HOOK
+Release Date: Jul 17, 2026
+Price: $4.99
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4731310
+==================================================
+
+==================================================
+Name: 末日货轮：Doomsday Cargo Ship
+Release Date: Jul 17, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Adventure, RPG
+Link: https://store.steampowered.com/app/4169410
+==================================================
+
