@@ -45669,3 +45669,22 @@ Genres: Action, Indie, RPG
 Link: https://store.steampowered.com/app/3936450
 ==================================================
 
+
+--- Run: 2026-07-18 01:15:18 --- (2 new game(s) found)
+
+==================================================
+Name: Knights vs Aliens
+Release Date: Jul 17, 2026
+Price: Free to Play
+Genres: Action, Casual, Indie, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4805390
+==================================================
+
+==================================================
+Name: Vanya Online - Idle MMORPG
+Release Date: Jul 17, 2026
+Price: Free to Play
+Genres: Casual, Indie, Massively Multiplayer, RPG, Free To Play
+Link: https://store.steampowered.com/app/4866960
+==================================================
+
