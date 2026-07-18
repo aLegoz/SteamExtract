@@ -45818,3 +45818,38 @@ Genres: Utilities
 Link: https://store.steampowered.com/app/4902050
 ==================================================
 
+
+--- Run: 2026-07-18 14:13:07 --- (4 new game(s) found)
+
+==================================================
+Name: Dice Carnival
+Release Date: Jul 18, 2026
+Price: $4.79 (-20%, was $5.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4414210
+==================================================
+
+==================================================
+Name: walk
+Release Date: Jul 18, 2026
+Price: $1.59 (-20%, was $1.99)
+Genres: Adventure, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4563880
+==================================================
+
+==================================================
+Name: Cozy Radiation Cleaner
+Release Date: Jul 18, 2026
+Price: $2.44 (-30%, was $3.49)
+Genres: Adventure, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4782520
+==================================================
+
+==================================================
+Name: 仙门守护者
+Release Date: Jul 17, 2026
+Price: $2.79 (-30%, was $3.99)
+Genres: Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/4868150
+==================================================
+
