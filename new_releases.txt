@@ -45750,3 +45750,14 @@ Genres: Adventure, RPG
 Link: https://store.steampowered.com/app/4169410
 ==================================================
 
+
+--- Run: 2026-07-18 08:29:13 --- (1 new game(s) found)
+
+==================================================
+Name: ERODE
+Release Date: Jul 17, 2026
+Price: $1.11 (-26%, was $1.49)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/1959020
+==================================================
+
