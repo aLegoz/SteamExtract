@@ -45853,3 +45853,22 @@ Genres: Indie, RPG, Strategy
 Link: https://store.steampowered.com/app/4868150
 ==================================================
 
+
+--- Run: 2026-07-18 16:41:13 --- (2 new game(s) found)
+
+==================================================
+Name: Deep Reach
+Release Date: Jul 18, 2026
+Price: $2.80
+Genres: Adventure, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4772840
+==================================================
+
+==================================================
+Name: LOVE Hotel Simulator 🏩
+Release Date: Jul 18, 2026
+Price: $9.29 (-38%, was $14.99)
+Genres: Casual, Indie, RPG, Simulation, Strategy, Free To Play
+Link: https://store.steampowered.com/app/3426430
+==================================================
+
