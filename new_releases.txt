@@ -45688,3 +45688,38 @@ Genres: Casual, Indie, Massively Multiplayer, RPG, Free To Play
 Link: https://store.steampowered.com/app/4866960
 ==================================================
 
+
+--- Run: 2026-07-18 04:35:30 --- (4 new game(s) found)
+
+==================================================
+Name: World Tree Ranch: Elven Legacy
+Release Date: Jul 17, 2026
+Price: $15.29 (-10%, was $16.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/3586450
+==================================================
+
+==================================================
+Name: 三国：谋定天下
+Release Date: Jul 17, 2026
+Price: Free to Play
+Genres: Massively Multiplayer, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4542640
+==================================================
+
+==================================================
+Name: Hentai World Health
+Release Date: Jul 17, 2026
+Price: $0.79 (-20%, was $0.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4893840
+==================================================
+
+==================================================
+Name: Cat Climbing
+Release Date: Jul 17, 2026
+Price: $3.59 (-40%, was $5.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/2965020
+==================================================
+
