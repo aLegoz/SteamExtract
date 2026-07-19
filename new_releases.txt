@@ -46086,3 +46086,14 @@ Genres: Action, Casual, Indie
 Link: https://store.steampowered.com/app/3101700
 ==================================================
 
+
+--- Run: 2026-07-19 15:43:17 --- (1 new game(s) found)
+
+==================================================
+Name: DarkRay
+Release Date: Jul 19, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/4358430
+==================================================
+
