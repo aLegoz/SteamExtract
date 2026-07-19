@@ -46040,3 +46040,22 @@ Genres: Adventure, Free To Play
 Link: https://store.steampowered.com/app/4843580
 ==================================================
 
+
+--- Run: 2026-07-19 12:45:31 --- (2 new game(s) found)
+
+==================================================
+Name: Hyper Hitmans
+Release Date: Jul 19, 2026
+Price: Free to Play
+Genres: Action, Indie, Free To Play
+Link: https://store.steampowered.com/app/4849920
+==================================================
+
+==================================================
+Name: 0N35H07
+Release Date: Jul 18, 2026
+Price: Free to Play
+Genres: Action, Indie, Massively Multiplayer, Free To Play
+Link: https://store.steampowered.com/app/4881310
+==================================================
+
