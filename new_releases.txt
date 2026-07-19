@@ -46018,3 +46018,14 @@ Genres: Action, Adventure, Indie, Massively Multiplayer, Sports, Strategy
 Link: https://store.steampowered.com/app/3834290
 ==================================================
 
+
+--- Run: 2026-07-19 09:41:27 --- (1 new game(s) found)
+
+==================================================
+Name: Jaws of Hell
+Release Date: Jul 18, 2026
+Price: $8.99 (-40%, was $14.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/915680
+==================================================
+
