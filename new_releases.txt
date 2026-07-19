@@ -45932,3 +45932,78 @@ Genres: Action, Adventure, Casual, Indie, Strategy
 Link: https://store.steampowered.com/app/3428870
 ==================================================
 
+
+--- Run: 2026-07-19 04:58:03 --- (9 new game(s) found)
+
+==================================================
+Name: The Hust Banhmi | Bánh Mì Bách Khoa
+Release Date: Jul 18, 2026
+Price: $3.99
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4530780
+==================================================
+
+==================================================
+Name: When We Had Wings
+Release Date: Jul 18, 2026
+Price: Free to Play
+Genres: Adventure, Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/4706610
+==================================================
+
+==================================================
+Name: Chessferatu
+Release Date: Jul 18, 2026
+Price: $14.99 (-25%, was $19.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/4862920
+==================================================
+
+==================================================
+Name: Desk Kanojo
+Release Date: Jul 18, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4745780
+==================================================
+
+==================================================
+Name: Cryptr
+Release Date: Jul 18, 2026
+Price: $7.99
+Genres: Action, Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/1972360
+==================================================
+
+==================================================
+Name: Furry Adventure 3 - Big Boobas!
+Release Date: Jul 18, 2026
+Price: $3.39 (-15%, was $3.99)
+Genres: Adventure, Casual, Indie, RPG, Simulation
+Link: https://store.steampowered.com/app/4789860
+==================================================
+
+==================================================
+Name: Don't Stop Bullying me, Beastgirls!
+Release Date: Jul 18, 2026
+Price: $0.59 (-40%, was $0.99)
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/4907970
+==================================================
+
+==================================================
+Name: Race the Planet
+Release Date: Jul 18, 2026
+Price: $3.19 (-20%, was $3.99)
+Genres: Indie, Racing
+Link: https://store.steampowered.com/app/4303210
+==================================================
+
+==================================================
+Name: Jelly Worms
+Release Date: Jul 17, 2026
+Price: Free to Play
+Genres: Action, Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/4824650
+==================================================
+
