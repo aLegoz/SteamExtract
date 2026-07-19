@@ -46007,3 +46007,14 @@ Genres: Action, Casual, Indie, Free To Play
 Link: https://store.steampowered.com/app/4824650
 ==================================================
 
+
+--- Run: 2026-07-19 07:23:58 --- (1 new game(s) found)
+
+==================================================
+Name: ESTRELLAS MECANICAS - La gran chispa Tournament
+Release Date: Jul 18, 2026
+Price: $4.99
+Genres: Action, Adventure, Indie, Massively Multiplayer, Sports, Strategy
+Link: https://store.steampowered.com/app/3834290
+==================================================
+
