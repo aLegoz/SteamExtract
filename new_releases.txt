@@ -46029,3 +46029,14 @@ Genres: Action, Adventure, Indie
 Link: https://store.steampowered.com/app/915680
 ==================================================
 
+
+--- Run: 2026-07-19 11:01:31 --- (1 new game(s) found)
+
+==================================================
+Name: Gone Exploring
+Release Date: Jul 19, 2026
+Price: Free to Play
+Genres: Adventure, Free To Play
+Link: https://store.steampowered.com/app/4843580
+==================================================
+
