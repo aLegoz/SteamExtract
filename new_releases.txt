@@ -46108,3 +46108,30 @@ Genres: RPG
 Link: https://store.steampowered.com/app/4858420
 ==================================================
 
+
+--- Run: 2026-07-19 21:39:14 --- (3 new game(s) found)
+
+==================================================
+Name: GeneLoot
+Release Date: Jul 19, 2026
+Price: $3.59 (-10%, was $3.99)
+Genres: Indie, RPG
+Link: https://store.steampowered.com/app/4670720
+==================================================
+
+==================================================
+Name: Project:Taco
+Release Date: Coming soon
+Price: Free to Play
+Genres: Adventure, Casual, Indie, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4657390
+==================================================
+
+==================================================
+Name: 100 Swamp Cats
+Release Date: Jul 19, 2026
+Price: $1.59 (-20%, was $1.99)
+Genres: Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/4516150
+==================================================
+
