@@ -46135,3 +46135,14 @@ Genres: Casual, Indie, Free To Play
 Link: https://store.steampowered.com/app/4516150
 ==================================================
 
+
+--- Run: 2026-07-19 23:43:57 --- (1 new game(s) found)
+
+==================================================
+Name: The Wackytown Game
+Release Date: Jul 19, 2026
+Price: Free to Play
+Genres: Action, Free To Play
+Link: https://store.steampowered.com/app/4775340
+==================================================
+
