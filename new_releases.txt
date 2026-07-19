@@ -46059,3 +46059,30 @@ Genres: Action, Indie, Massively Multiplayer, Free To Play
 Link: https://store.steampowered.com/app/4881310
 ==================================================
 
+
+--- Run: 2026-07-19 14:17:47 --- (3 new game(s) found)
+
+==================================================
+Name: Funge
+Release Date: Jul 19, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4794980
+==================================================
+
+==================================================
+Name: Whisker Tales
+Release Date: Jul 19, 2026
+Price: $2.79 (-30%, was $3.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4848950
+==================================================
+
+==================================================
+Name: Ops
+Release Date: Jul 19, 2026
+Price: $1.99
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/3101700
+==================================================
+
