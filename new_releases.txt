@@ -46173,3 +46173,78 @@ Genres: Utilities
 Link: https://store.steampowered.com/app/4020640
 ==================================================
 
+
+--- Run: 2026-07-20 05:26:29 --- (9 new game(s) found)
+
+==================================================
+Name: Aerolicious
+Release Date: Jul 19, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Casual, Simulation
+Link: https://store.steampowered.com/app/4774170
+==================================================
+
+==================================================
+Name: Dominion Of The Forgotten
+Release Date: Jul 19, 2026
+Price: $17.99 (-10%, was $19.99)
+Genres: Action, Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/3825860
+==================================================
+
+==================================================
+Name: Textvas
+Release Date: Jul 19, 2026
+Price: $19.99
+Genres: Indie, Animation & Modeling, Audio Production, Design & Illustration, Education, Utilities, Video Production, Game Development
+Link: https://store.steampowered.com/app/4671340
+==================================================
+
+==================================================
+Name: Grind 'Em All
+Release Date: Jul 19, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/4676380
+==================================================
+
+==================================================
+Name: NinFit
+Release Date: Jul 19, 2026
+Price: Free to Play
+Genres: Action, Casual, Indie, Sports, Free To Play
+Link: https://store.steampowered.com/app/4704350
+==================================================
+
+==================================================
+Name: Scorched Dominion
+Release Date: Jul 19, 2026
+Price: $8.09 (-10%, was $8.99)
+Genres: Strategy
+Link: https://store.steampowered.com/app/4846240
+==================================================
+
+==================================================
+Name: Uchi No Heya!
+Release Date: Jul 19, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: Casual, Indie, Simulation, Sports
+Link: https://store.steampowered.com/app/4717870
+==================================================
+
+==================================================
+Name: FootBall Card Battle
+Release Date: Jul 19, 2026
+Price: $3.99
+Genres: Indie, Simulation, Sports, Strategy
+Link: https://store.steampowered.com/app/4834710
+==================================================
+
+==================================================
+Name: The DeadLine
+Release Date: Jul 19, 2026
+Price: $2.10 (-30%, was $3.00)
+Genres: Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/4074680
+==================================================
+
