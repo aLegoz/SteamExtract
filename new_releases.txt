@@ -46457,3 +46457,94 @@ Genres: Action
 Link: https://store.steampowered.com/app/4682980
 ==================================================
 
+
+--- Run: 2026-07-20 15:42:51 --- (11 new game(s) found)
+
+==================================================
+Name: Raccoons to Riches
+Release Date: Jul 20, 2026
+Price: $10.99
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/3778620
+==================================================
+
+==================================================
+Name: LichXCoven
+Release Date: Jul 20, 2026
+Price: $7.19 (-10%, was $7.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4456780
+==================================================
+
+==================================================
+Name: Voxel Shooter
+Release Date: Jul 20, 2026
+Price: $8.49 (-15%, was $9.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4579660
+==================================================
+
+==================================================
+Name: Pixel Orbit
+Release Date: Jul 20, 2026
+Price: $3.99
+Genres: Action, Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4261870
+==================================================
+
+==================================================
+Name: The Life and Suffering of Prince Jerian
+Release Date: Jul 20, 2026
+Price: $21.24 (-15%, was $24.99)
+Genres: Indie, RPG
+Link: https://store.steampowered.com/app/2936290
+==================================================
+
+==================================================
+Name: Advent: Dawn
+Release Date: Jul 20, 2026
+Price: $13.59 (-20%, was $16.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/3820260
+==================================================
+
+==================================================
+Name: Camp Hollow
+Release Date: Jul 20, 2026
+Price: $5.39 (-10%, was $5.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/4301120
+==================================================
+
+==================================================
+Name: Cup and Counter: Coffee Shop Simulator
+Release Date: Jul 20, 2026
+Price: $12.74 (-15%, was $14.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4453300
+==================================================
+
+==================================================
+Name: Dopamine Racing
+Release Date: Jul 20, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Casual, Indie, Racing, Simulation, Sports, Strategy
+Link: https://store.steampowered.com/app/4532310
+==================================================
+
+==================================================
+Name: The Living Atlas: A Fantasy Chronicler
+Release Date: Jul 20, 2026
+Price: $1.99
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4872250
+==================================================
+
+==================================================
+Name: Minerrr
+Release Date: Jul 20, 2026
+Price: $2.69 (-10%, was $2.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4600350
+==================================================
+
