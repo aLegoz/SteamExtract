@@ -46248,3 +46248,78 @@ Genres: Indie, RPG, Strategy
 Link: https://store.steampowered.com/app/4074680
 ==================================================
 
+
+--- Run: 2026-07-20 08:33:37 --- (9 new game(s) found)
+
+==================================================
+Name: Delvegg
+Release Date: Jul 20, 2026
+Price: $5.59 (-20%, was $6.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4869070
+==================================================
+
+==================================================
+Name: 俺が球審だ！Sharp-Eyed Umpire Simulator
+Release Date: Jul 20, 2026
+Price: $3.99
+Genres: Casual, Sports
+Link: https://store.steampowered.com/app/4813340
+==================================================
+
+==================================================
+Name: Ant King: 2015–2025
+Release Date: Jul 20, 2026
+Price: $4.99
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4910700
+==================================================
+
+==================================================
+Name: Against Wokou Frontline
+Release Date: Jul 19, 2026
+Price: $5.39 (-10%, was $5.99)
+Genres: Adventure, Indie, Strategy
+Link: https://store.steampowered.com/app/4256560
+==================================================
+
+==================================================
+Name: DOMIIINO
+Release Date: Jul 19, 2026
+Price: $1.79 (-10%, was $1.99)
+Genres: Action
+Link: https://store.steampowered.com/app/4826320
+==================================================
+
+==================================================
+Name: Love Craft | Deep Sea Groom
+Release Date: Jul 19, 2026
+Price: $1.99
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4455730
+==================================================
+
+==================================================
+Name: Solitaire - Complete Collection
+Release Date: Jul 19, 2026
+Price: $14.99
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/2399980
+==================================================
+
+==================================================
+Name: Pno：琴音
+Release Date: Jul 19, 2026
+Price: $3.99
+Genres: Simulation, Audio Production
+Link: https://store.steampowered.com/app/4840570
+==================================================
+
+==================================================
+Name: Squavity
+Release Date: Jul 19, 2026
+Price: $2.24
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/3989490
+==================================================
+
