@@ -46808,3 +46808,22 @@ Link: https://store.steampowered.com/app/4917030
 
 --- Run: 2026-07-20 21:56:30 --- (0 new game(s) found)
 
+
+--- Run: 2026-07-20 23:44:31 --- (2 new game(s) found)
+
+==================================================
+Name: WinHack 95
+Release Date: Jul 20, 2026
+Price: $3.99
+Genres: Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4669350
+==================================================
+
+==================================================
+Name: Conquer for Glory
+Release Date: Jul 20, 2026
+Price: $1.49
+Genres: Action, Strategy
+Link: https://store.steampowered.com/app/4854320
+==================================================
+
