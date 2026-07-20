@@ -46146,3 +46146,30 @@ Genres: Action, Free To Play
 Link: https://store.steampowered.com/app/4775340
 ==================================================
 
+
+--- Run: 2026-07-20 01:24:42 --- (3 new game(s) found)
+
+==================================================
+Name: Forestress Shade
+Release Date: Jul 19, 2026
+Price: Free to Play
+Genres: Strategy, Free To Play
+Link: https://store.steampowered.com/app/4578760
+==================================================
+
+==================================================
+Name: Sill Sticks
+Release Date: Jul 19, 2026
+Price: Free to Play
+Genres: Casual, Indie, Simulation, Free To Play
+Link: https://store.steampowered.com/app/4861510
+==================================================
+
+==================================================
+Name: Dock Doctor
+Release Date: Jul 19, 2026
+Price: $8.99
+Genres: Utilities
+Link: https://store.steampowered.com/app/4020640
+==================================================
+
