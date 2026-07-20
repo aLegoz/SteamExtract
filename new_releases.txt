@@ -46323,3 +46323,62 @@ Genres: Action, Indie
 Link: https://store.steampowered.com/app/3989490
 ==================================================
 
+
+--- Run: 2026-07-20 11:32:48 --- (7 new game(s) found)
+
+==================================================
+Name: A Game of D.I.C.E.
+Release Date: Jul 20, 2026
+Price: $1.79 (-40%, was $2.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/3853970
+==================================================
+
+==================================================
+Name: MASUKU
+Release Date: Jul 20, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4401050
+==================================================
+
+==================================================
+Name: Cat 3
+Release Date: Jul 20, 2026
+Price: $2.69 (-10%, was $2.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4884830
+==================================================
+
+==================================================
+Name: Stratego® Online
+Release Date: Jul 20, 2026
+Price: $10.19 (-15%, was $11.99)
+Genres: Strategy
+Link: https://store.steampowered.com/app/2660420
+==================================================
+
+==================================================
+Name: Hydro Chicks
+Release Date: Jul 20, 2026
+Price: $7.19 (-10%, was $7.99)
+Genres: Action, Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/4743640
+==================================================
+
+==================================================
+Name: Private Matters
+Release Date: Jul 19, 2026
+Price: $1.79 (-40%, was $2.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/4633020
+==================================================
+
+==================================================
+Name: ARALSK 7
+Release Date: Jul 19, 2026
+Price: $3.59 (-40%, was $5.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/4404970
+==================================================
+
