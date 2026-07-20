@@ -46548,3 +46548,118 @@ Genres: Casual, Indie
 Link: https://store.steampowered.com/app/4600350
 ==================================================
 
+
+--- Run: 2026-07-20 17:15:01 --- (14 new game(s) found)
+
+==================================================
+Name: MythGotchi
+Release Date: Jul 20, 2026
+Price: $7.49 (-25%, was $9.99)
+Genres: Adventure, Casual, RPG, Simulation
+Link: https://store.steampowered.com/app/4513090
+==================================================
+
+==================================================
+Name: At Night : Freakshow
+Release Date: Jul 20, 2026
+Price: $7.11 (-11%, was $7.99)
+Genres: Adventure, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4730500
+==================================================
+
+==================================================
+Name: The Thing That Happened
+Release Date: Jul 20, 2026
+Price: $22.99
+Genres: Action, Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/2906500
+==================================================
+
+==================================================
+Name: PomoExpress
+Release Date: Jul 20, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Casual, Indie, Utilities
+Link: https://store.steampowered.com/app/3848970
+==================================================
+
+==================================================
+Name: Incremental Infinity
+Release Date: Jul 20, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Casual, Strategy
+Link: https://store.steampowered.com/app/4210010
+==================================================
+
+==================================================
+Name: Frogrammer
+Release Date: Jul 20, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/3584240
+==================================================
+
+==================================================
+Name: Ritter & Rotwein
+Release Date: Jul 20, 2026
+Price: $9.99 (-20%, was $12.49)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/2994200
+==================================================
+
+==================================================
+Name: Mad Merchant
+Release Date: Jul 20, 2026
+Price: $4.49 (-25%, was $5.99)
+Genres: Action, Adventure, Indie, Strategy
+Link: https://store.steampowered.com/app/4665920
+==================================================
+
+==================================================
+Name: Wiseman: No More Breakups
+Release Date: Jul 20, 2026
+Price: $1.79 (-10%, was $1.99)
+Genres: Action, Casual, Indie, RPG
+Link: https://store.steampowered.com/app/4664920
+==================================================
+
+==================================================
+Name: Brawl Squad X: Battle Arena
+Release Date: Jul 20, 2026
+Price: $11.19 (-20%, was $13.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/3326100
+==================================================
+
+==================================================
+Name: Meowgic
+Release Date: Jul 20, 2026
+Price: $4.95 (-38%, was $7.99)
+Genres: Action, Adventure
+Link: https://store.steampowered.com/app/4252290
+==================================================
+
+==================================================
+Name: The Door at the End of the Hall
+Release Date: Jul 20, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Adventure, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4405240
+==================================================
+
+==================================================
+Name: Mine Cart Operator
+Release Date: Jul 20, 2026
+Price: $1.99
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/3997420
+==================================================
+
+==================================================
+Name: Decline
+Release Date: Jul 20, 2026
+Price: $3.59 (-10%, was $3.99)
+Genres: Indie
+Link: https://store.steampowered.com/app/4749870
+==================================================
+
