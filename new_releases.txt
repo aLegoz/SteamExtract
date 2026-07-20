@@ -46738,3 +46738,70 @@ Genres: Casual, Indie, Strategy
 Link: https://store.steampowered.com/app/4236430
 ==================================================
 
+
+--- Run: 2026-07-20 20:57:51 --- (8 new game(s) found)
+
+==================================================
+Name: 言灵
+Release Date: Jul 20, 2026
+Price: Free to Play
+Genres: Casual, Indie, Free To Play, Utilities
+Link: https://store.steampowered.com/app/3913460
+==================================================
+
+==================================================
+Name: NOVASWARM
+Release Date: Jul 20, 2026
+Price: $1.79 (-10%, was $1.99)
+Genres: Action, Adventure, Simulation
+Link: https://store.steampowered.com/app/4909080
+==================================================
+
+==================================================
+Name: TERMies Duels
+Release Date: Jul 20, 2026
+Price: $1.99
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4914460
+==================================================
+
+==================================================
+Name: Empire at Risk
+Release Date: Jul 20, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/4273390
+==================================================
+
+==================================================
+Name: Nine Skies
+Release Date: Jul 20, 2026
+Price: $3.99
+Genres: Action, Casual, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/4117890
+==================================================
+
+==================================================
+Name: Celebrity Memory - 12in12 Game 1
+Release Date: Jul 20, 2026
+Price: $1.99
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4859260
+==================================================
+
+==================================================
+Name: Don't Play Their Game
+Release Date: Jul 20, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Indie
+Link: https://store.steampowered.com/app/4912930
+==================================================
+
+==================================================
+Name: Idle Turrets Pixel Defense
+Release Date: Jul 20, 2026
+Price: $6.79 (-15%, was $7.99)
+Genres: Indie, RPG, Simulation
+Link: https://store.steampowered.com/app/4917030
+==================================================
+
