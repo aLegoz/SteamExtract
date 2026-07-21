@@ -46929,3 +46929,62 @@ Genres: Casual, Indie
 Link: https://store.steampowered.com/app/2880640
 ==================================================
 
+
+--- Run: 2026-07-21 10:11:25 --- (7 new game(s) found)
+
+==================================================
+Name: The King Got Too Much Gold
+Release Date: Jul 21, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Indie
+Link: https://store.steampowered.com/app/4839430
+==================================================
+
+==================================================
+Name: Cheminots
+Release Date: Jul 21, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Adventure, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4899300
+==================================================
+
+==================================================
+Name: Fading Echo
+Release Date: Jul 21, 2026
+Price: $17.99 (-10%, was $19.99)
+Genres: Action, Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/2467880
+==================================================
+
+==================================================
+Name: FragMiner
+Release Date: Jul 21, 2026
+Price: $3.19 (-20%, was $3.99)
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4568910
+==================================================
+
+==================================================
+Name: Scoundrel: Deck Crawler
+Release Date: Jul 21, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/4635600
+==================================================
+
+==================================================
+Name: Ofuda Placement Service
+Release Date: Jul 21, 2026
+Price: $4.79 (-20%, was $5.99)
+Genres: Action, Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4904130
+==================================================
+
+==================================================
+Name: Deep Sea Idle: Infinity Abyss
+Release Date: Jul 20, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Action, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4402510
+==================================================
+
