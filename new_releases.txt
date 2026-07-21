@@ -47483,3 +47483,14 @@ Genres: Casual, Indie, RPG, Simulation
 Link: https://store.steampowered.com/app/4899210
 ==================================================
 
+
+--- Run: 2026-07-21 22:42:25 --- (1 new game(s) found)
+
+==================================================
+Name: Manifest Maiden
+Release Date: Jul 21, 2026
+Price: $3.99
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4276670
+==================================================
+
