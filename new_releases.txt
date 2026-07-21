@@ -47360,3 +47360,126 @@ Genres: Casual
 Link: https://store.steampowered.com/app/4718830
 ==================================================
 
+
+--- Run: 2026-07-21 20:11:02 --- (15 new game(s) found)
+
+==================================================
+Name: End of Blackjack
+Release Date: Jul 21, 2026
+Price: $3.39 (-15%, was $3.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/3884650
+==================================================
+
+==================================================
+Name: International Memes
+Release Date: Jul 21, 2026
+Price: $0.69 (-30%, was $0.99)
+Genres: Action, Adventure, Casual, Indie, RPG
+Link: https://store.steampowered.com/app/4873050
+==================================================
+
+==================================================
+Name: Incrempire
+Release Date: Jul 21, 2026
+Price: $5.99 (-25%, was $7.99)
+Genres: Action, Casual, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/4301300
+==================================================
+
+==================================================
+Name: From Devil's Womb
+Release Date: Jul 21, 2026
+Price: $5.59 (-20%, was $6.99)
+Genres: Action, Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/4282810
+==================================================
+
+==================================================
+Name: QuietCorner
+Release Date: Jul 21, 2026
+Price: $7.19 (-20%, was $8.99)
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/4882320
+==================================================
+
+==================================================
+Name: NEKOHERO
+Release Date: Jul 21, 2026
+Price: $4.79 (-20%, was $5.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4844970
+==================================================
+
+==================================================
+Name: Majestria: Incremental Survival
+Release Date: Jul 21, 2026
+Price: $3.59 (-40%, was $5.99)
+Genres: Action, Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4779000
+==================================================
+
+==================================================
+Name: Reptilarium
+Release Date: Jul 21, 2026
+Price: $4.79 (-40%, was $7.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4388810
+==================================================
+
+==================================================
+Name: NIGHTMIST
+Release Date: Jul 21, 2026
+Price: $6.59 (-40%, was $10.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/4703870
+==================================================
+
+==================================================
+Name: Only Good Babysitters Go To Heaven
+Release Date: Jul 21, 2026
+Price: $5.39 (-10%, was $5.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4344730
+==================================================
+
+==================================================
+Name: CosmoFab
+Release Date: Jul 21, 2026
+Price: $12.74 (-15%, was $14.99)
+Genres: Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4776540
+==================================================
+
+==================================================
+Name: Forge Maiden
+Release Date: Jul 21, 2026
+Price: $1.59 (-20%, was $1.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4790650
+==================================================
+
+==================================================
+Name: Trenchcoat Adventurer Vol 1 : Gone Rogue
+Release Date: Jul 21, 2026
+Price: $16.99 (-15%, was $19.99)
+Genres: RPG
+Link: https://store.steampowered.com/app/4883780
+==================================================
+
+==================================================
+Name: CARNEVALE: Blades in the Crowd
+Release Date: Jul 21, 2026
+Price: $6.29 (-10%, was $6.99)
+Genres: Action, Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4918690
+==================================================
+
+==================================================
+Name: Please Proceed To The Dungeon
+Release Date: Jul 21, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Casual, Indie, RPG, Simulation
+Link: https://store.steampowered.com/app/4899210
+==================================================
+
