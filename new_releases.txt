@@ -47162,3 +47162,78 @@ Genres: Simulation
 Link: https://store.steampowered.com/app/4908920
 ==================================================
 
+
+--- Run: 2026-07-21 16:12:38 --- (9 new game(s) found)
+
+==================================================
+Name: Forsaken Rules
+Release Date: Jul 21, 2026
+Price: Free to Play
+Genres: Action, Indie, Free To Play
+Link: https://store.steampowered.com/app/4858720
+==================================================
+
+==================================================
+Name: Silver Blade of Gods' End
+Release Date: Jul 21, 2026
+Price: $11.89 (-15%, was $13.99)
+Genres: Indie, RPG, Simulation
+Link: https://store.steampowered.com/app/2988490
+==================================================
+
+==================================================
+Name: ClassWarfare
+Release Date: Jul 21, 2026
+Price: Free to Play
+Genres: Action, Adventure, Casual, Indie, RPG, Free To Play
+Link: https://store.steampowered.com/app/4930820
+==================================================
+
+==================================================
+Name: Scarlet Deer Inn
+Release Date: Jul 21, 2026
+Price: $17.99 (-10%, was $19.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/1553260
+==================================================
+
+==================================================
+Name: Break, Then Upgrade
+Release Date: Jul 21, 2026
+Price: Free to Play
+Genres: Casual, Free To Play
+Link: https://store.steampowered.com/app/3795990
+==================================================
+
+==================================================
+Name: Samurai: Ronin's Path
+Release Date: Jul 21, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Action
+Link: https://store.steampowered.com/app/1208170
+==================================================
+
+==================================================
+Name: Fat File Finder
+Release Date: Jul 21, 2026
+Price: $6.99
+Genres: Utilities
+Link: https://store.steampowered.com/app/4889020
+==================================================
+
+==================================================
+Name: Prime Prism
+Release Date: Jul 21, 2026
+Price: $11.04 (-15%, was $12.99)
+Genres: Indie
+Link: https://store.steampowered.com/app/4364970
+==================================================
+
+==================================================
+Name: WANDERLAND
+Release Date: Jul 21, 2026
+Price: Free to Play
+Genres: Adventure, Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/4916060
+==================================================
+
