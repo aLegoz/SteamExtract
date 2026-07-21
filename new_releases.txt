@@ -46894,3 +46894,38 @@ Genres: Casual, Indie, Simulation
 Link: https://store.steampowered.com/app/4874340
 ==================================================
 
+
+--- Run: 2026-07-21 07:26:41 --- (4 new game(s) found)
+
+==================================================
+Name: BreakDespair2D
+Release Date: Jul 20, 2026
+Price: $2.75 (-15%, was $3.24)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4704170
+==================================================
+
+==================================================
+Name: Deserted Island Where Desire Blossoms
+Release Date: Jul 20, 2026
+Price: $5.39 (-10%, was $5.99)
+Genres: Adventure, RPG, Simulation
+Link: https://store.steampowered.com/app/4436820
+==================================================
+
+==================================================
+Name: FISH KISSER
+Release Date: Jul 20, 2026
+Price: Free to Play
+Genres: Casual, Indie, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4541290
+==================================================
+
+==================================================
+Name: Egg Chef
+Release Date: Jul 20, 2026
+Price: $2.69 (-10%, was $2.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/2880640
+==================================================
+
