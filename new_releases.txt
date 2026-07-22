@@ -47553,3 +47553,38 @@ Genres: Casual, Indie
 Link: https://store.steampowered.com/app/3821280
 ==================================================
 
+
+--- Run: 2026-07-22 07:28:01 --- (4 new game(s) found)
+
+==================================================
+Name: Periapsis: Gravity Slingshot
+Release Date: Jul 21, 2026
+Price: $4.89 (-30%, was $6.99)
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4520400
+==================================================
+
+==================================================
+Name: Brainrot Fight
+Release Date: Jul 21, 2026
+Price: $4.99
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4867700
+==================================================
+
+==================================================
+Name: The Gray-Crowned Reincarnate
+Release Date: Jul 21, 2026
+Price: $2.99 (-40%, was $4.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4914640
+==================================================
+
+==================================================
+Name: Floor404
+Release Date: Jul 21, 2026
+Price: Free to Play
+Genres: Indie, Free To Play
+Link: https://store.steampowered.com/app/4882720
+==================================================
+
