@@ -47864,3 +47864,78 @@ Genres: Casual, Indie, Simulation
 Link: https://store.steampowered.com/app/4588520
 ==================================================
 
+
+--- Run: 2026-07-22 17:59:53 --- (9 new game(s) found)
+
+==================================================
+Name: Good Night,mare
+Release Date: Jul 22, 2026
+Price: Free to Play
+Genres: Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/4905680
+==================================================
+
+==================================================
+Name: Monke Brain
+Release Date: Jul 22, 2026
+Price: $0.99
+Genres: Strategy
+Link: https://store.steampowered.com/app/4744730
+==================================================
+
+==================================================
+Name: Scales of Silence
+Release Date: Jul 22, 2026
+Price: $2.99 (-40%, was $4.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4489580
+==================================================
+
+==================================================
+Name: Whalefall
+Release Date: Jul 22, 2026
+Price: Free to Play
+Genres: Action, Adventure, Indie, Free To Play
+Link: https://store.steampowered.com/app/4489380
+==================================================
+
+==================================================
+Name: Wild West Miner Simulator: First Gun
+Release Date: Jul 22, 2026
+Price: Free to Play
+Genres: Indie, Simulation, Free To Play
+Link: https://store.steampowered.com/app/4779820
+==================================================
+
+==================================================
+Name: Stickman Adventure
+Release Date: Jul 22, 2026
+Price: Free to Play
+Genres: Adventure, Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/4924380
+==================================================
+
+==================================================
+Name: Gurei
+Release Date: Jul 22, 2026
+Price: $14.39 (-10%, was $15.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/2191280
+==================================================
+
+==================================================
+Name: Snack Smasher
+Release Date: Jul 22, 2026
+Price: $4.03 (-15%, was $4.75)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4418770
+==================================================
+
+==================================================
+Name: Pebble For A Queen
+Release Date: Jul 22, 2026
+Price: $5.59 (-20%, was $6.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4915590
+==================================================
+
