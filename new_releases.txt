@@ -48041,3 +48041,46 @@ Genres: Casual, Free To Play
 Link: https://store.steampowered.com/app/4749380
 ==================================================
 
+
+--- Run: 2026-07-22 21:53:31 --- (5 new game(s) found)
+
+==================================================
+Name: The Midnight Biohazard
+Release Date: Jul 22, 2026
+Price: $2.79 (-30%, was $3.99)
+Genres: Action, Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/3714300
+==================================================
+
+==================================================
+Name: Recoupling
+Release Date: Jul 22, 2026
+Price: $4.19 (-40%, was $6.99)
+Genres: Adventure, Simulation
+Link: https://store.steampowered.com/app/4815190
+==================================================
+
+==================================================
+Name: Sweet Land Survival
+Release Date: Jul 22, 2026
+Price: $1.79 (-40%, was $2.99)
+Genres: Action, Adventure, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4646460
+==================================================
+
+==================================================
+Name: Word Quest
+Release Date: Jul 22, 2026
+Price: $1.99
+Genres: Casual
+Link: https://store.steampowered.com/app/4815000
+==================================================
+
+==================================================
+Name: Innocent Depths:The Dungeon Sweeper
+Release Date: Jul 22, 2026
+Price: $9.99
+Genres: Adventure, Casual, Indie, RPG
+Link: https://store.steampowered.com/app/4635070
+==================================================
+
