@@ -48022,3 +48022,22 @@ Genres: Simulation, Strategy
 Link: https://store.steampowered.com/app/4809420
 ==================================================
 
+
+--- Run: 2026-07-22 20:52:19 --- (2 new game(s) found)
+
+==================================================
+Name: Relive the Fear - Perfect Neighbor
+Release Date: Jul 22, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4678950
+==================================================
+
+==================================================
+Name: Echoed
+Release Date: Jul 22, 2026
+Price: Free to Play
+Genres: Casual, Free To Play
+Link: https://store.steampowered.com/app/4749380
+==================================================
+
