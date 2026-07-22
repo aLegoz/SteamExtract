@@ -47939,3 +47939,86 @@ Genres: Adventure, Casual, Indie
 Link: https://store.steampowered.com/app/4915590
 ==================================================
 
+
+--- Run: 2026-07-22 19:18:37 --- (10 new game(s) found)
+
+==================================================
+Name: RailRogue
+Release Date: Jul 23, 2026
+Price: $10.49 (-30%, was $14.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4810320
+==================================================
+
+==================================================
+Name: ​Hands Off the Priest! My Creditor is a Telepathic Pervert
+Release Date: Jul 22, 2026
+Price: $14.38 (-10%, was $15.98)
+Genres: Casual, Simulation
+Link: https://store.steampowered.com/app/4754770
+==================================================
+
+==================================================
+Name: Planticulture
+Release Date: Jul 22, 2026
+Price: $7.65 (-10%, was $8.50)
+Genres: Casual, Simulation
+Link: https://store.steampowered.com/app/3905750
+==================================================
+
+==================================================
+Name: Cosmic Roll
+Release Date: Jul 22, 2026
+Price: Free to Play
+Genres: Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/4883120
+==================================================
+
+==================================================
+Name: 7743
+Release Date: Jul 22, 2026
+Price: $3.99
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4842550
+==================================================
+
+==================================================
+Name: Infinite Scroll: Smooth Mouse Scrolling
+Release Date: Jul 22, 2026
+Price: $6.39 (-20%, was $7.99)
+Genres: Casual, Utilities
+Link: https://store.steampowered.com/app/4885390
+==================================================
+
+==================================================
+Name: Wake the Beacon
+Release Date: Jul 22, 2026
+Price: $2.99 (-40%, was $4.99)
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4650570
+==================================================
+
+==================================================
+Name: One More Spin
+Release Date: Jul 22, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/4277290
+==================================================
+
+==================================================
+Name: Hillforts
+Release Date: Jul 22, 2026
+Price: $7.19 (-10%, was $7.99)
+Genres: Strategy
+Link: https://store.steampowered.com/app/4597030
+==================================================
+
+==================================================
+Name: Road To The White House
+Release Date: Jul 22, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Simulation, Strategy
+Link: https://store.steampowered.com/app/4809420
+==================================================
+
