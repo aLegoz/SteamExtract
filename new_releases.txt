@@ -47639,3 +47639,46 @@ Genres: Adventure, Indie
 Link: https://store.steampowered.com/app/1699710
 ==================================================
 
+
+--- Run: 2026-07-22 12:19:25 --- (5 new game(s) found)
+
+==================================================
+Name: Blast'N Bounty
+Release Date: Jul 22, 2026
+Price: $4.99
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4570770
+==================================================
+
+==================================================
+Name: FutaPunk 🌚
+Release Date: Jul 22, 2026
+Price: $4.97 (-17%, was $5.99)
+Genres: Action, Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4774990
+==================================================
+
+==================================================
+Name: Random Isles
+Release Date: Jul 22, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Adventure, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/4341590
+==================================================
+
+==================================================
+Name: Race Town: Kids and Toddlers Car Racing Game
+Release Date: Jul 22, 2026
+Price: $10.79 (-10%, was $11.99)
+Genres: Indie, Racing
+Link: https://store.steampowered.com/app/4860730
+==================================================
+
+==================================================
+Name: Baramon: Gotta Fu*k 'em All
+Release Date: Jul 22, 2026
+Price: $17.99 (-10%, was $19.99)
+Genres: Adventure, Casual, Simulation
+Link: https://store.steampowered.com/app/3106470
+==================================================
+
