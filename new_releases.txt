@@ -47588,3 +47588,54 @@ Genres: Indie, Free To Play
 Link: https://store.steampowered.com/app/4882720
 ==================================================
 
+
+--- Run: 2026-07-22 10:11:23 --- (6 new game(s) found)
+
+==================================================
+Name: MonsterGuest
+Release Date: Jul 22, 2026
+Price: $1.79 (-40%, was $2.99)
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/4356090
+==================================================
+
+==================================================
+Name: Force Escape
+Release Date: Jul 22, 2026
+Price: $2.99
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4783490
+==================================================
+
+==================================================
+Name: A Game About Penguins: First Catch
+Release Date: Jul 22, 2026
+Price: Free to Play
+Genres: Adventure, Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/3617840
+==================================================
+
+==================================================
+Name: Love is a Demon
+Release Date: Jul 22, 2026
+Price: $6.79 (-15%, was $7.99)
+Genres: Adventure, Casual
+Link: https://store.steampowered.com/app/3530240
+==================================================
+
+==================================================
+Name: Pickochet
+Release Date: Jul 22, 2026
+Price: $4.19 (-30%, was $5.99)
+Genres: Casual, Simulation
+Link: https://store.steampowered.com/app/4275920
+==================================================
+
+==================================================
+Name: The Dream Of A Cockspur
+Release Date: Jul 22, 2026
+Price: $6.29 (-10%, was $6.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/1699710
+==================================================
+
