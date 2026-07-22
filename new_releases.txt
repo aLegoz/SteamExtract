@@ -47701,3 +47701,166 @@ Genres: Action, Simulation
 Link: https://store.steampowered.com/app/4864560
 ==================================================
 
+
+--- Run: 2026-07-22 16:12:29 --- (20 new game(s) found)
+
+==================================================
+Name: Defy The Abyss
+Release Date: Jul 22, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Action
+Link: https://store.steampowered.com/app/3084880
+==================================================
+
+==================================================
+Name: Reapers Reception
+Release Date: Jul 22, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4020290
+==================================================
+
+==================================================
+Name: Souls Inferno
+Release Date: Jul 22, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/4642650
+==================================================
+
+==================================================
+Name: Valkyrie Tune: Synthesis of Souls
+Release Date: Jul 22, 2026
+Price: $22.49 (-10%, was $24.99)
+Genres: Adventure
+Link: https://store.steampowered.com/app/4211810
+==================================================
+
+==================================================
+Name: Staffer Retro : A Supernatural Mystery Quest
+Release Date: Jul 22, 2026
+Price: $22.49 (-10%, was $24.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/3837350
+==================================================
+
+==================================================
+Name: Gearplexed
+Release Date: Jul 22, 2026
+Price: $17.99 (-10%, was $19.99)
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4292020
+==================================================
+
+==================================================
+Name: Tower of Dreams
+Release Date: Jul 22, 2026
+Price: $6.39 (-20%, was $7.99)
+Genres: Action
+Link: https://store.steampowered.com/app/2597470
+==================================================
+
+==================================================
+Name: Nightmare Frontier
+Release Date: Jul 22, 2026
+Price: $24.99
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/3310950
+==================================================
+
+==================================================
+Name: Succubus Futanari
+Release Date: Jul 22, 2026
+Price: $7.64 (-15%, was $8.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4804690
+==================================================
+
+==================================================
+Name: Shift At Midnight
+Release Date: Jul 22, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/3722330
+==================================================
+
+==================================================
+Name: A Firm Handshake
+Release Date: Jul 22, 2026
+Price: $2.99
+Genres: Indie
+Link: https://store.steampowered.com/app/4783330
+==================================================
+
+==================================================
+Name: onRails
+Release Date: Jul 22, 2026
+Price: $34.99
+Genres: Indie, Racing, Simulation, Sports, Education, Utilities
+Link: https://store.steampowered.com/app/4710320
+==================================================
+
+==================================================
+Name: PuzzleVerse
+Release Date: Jul 22, 2026
+Price: $7.19 (-10%, was $7.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4869320
+==================================================
+
+==================================================
+Name: Jenny the Witch
+Release Date: Jul 22, 2026
+Price: $5.99 (-25%, was $7.99)
+Genres: Action
+Link: https://store.steampowered.com/app/4180990
+==================================================
+
+==================================================
+Name: LIFTED
+Release Date: Jul 22, 2026
+Price: $17.99 (-10%, was $19.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/2184020
+==================================================
+
+==================================================
+Name: boingo
+Release Date: Jul 22, 2026
+Price: $1.69 (-15%, was $1.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/4140540
+==================================================
+
+==================================================
+Name: Kingdom Chronicle
+Release Date: Jul 22, 2026
+Price: $5.99
+Genres: Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4855560
+==================================================
+
+==================================================
+Name: the epic and amazing adventure of gleepglorrpgilliandoohiggintilliousMMDCCXXXIX the adventure where gleepglorrpgilliandoohiggintilliousMMDCCXXXIX lives and becomes king gleepglorrpgilliandoohiggintilliousMMDCCXXXIX
+Release Date: Jul 22, 2026
+Price: $0.99
+Genres: Indie
+Link: https://store.steampowered.com/app/4881410
+==================================================
+
+==================================================
+Name: Hex Harmony
+Release Date: Jul 22, 2026
+Price: $9.99
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4491420
+==================================================
+
+==================================================
+Name: Athletes Student For Living
+Release Date: Jul 22, 2026
+Price: $10.79 (-10%, was $11.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4588520
+==================================================
+
