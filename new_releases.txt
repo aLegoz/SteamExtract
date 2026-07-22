@@ -47682,3 +47682,22 @@ Genres: Adventure, Casual, Simulation
 Link: https://store.steampowered.com/app/3106470
 ==================================================
 
+
+--- Run: 2026-07-22 14:52:11 --- (2 new game(s) found)
+
+==================================================
+Name: Lost in Tandem
+Release Date: Jul 22, 2026
+Price: $13.49 (-10%, was $14.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/3846580
+==================================================
+
+==================================================
+Name: SCRIBBLE HUNT
+Release Date: Jul 22, 2026
+Price: $3.19 (-20%, was $3.99)
+Genres: Action, Simulation
+Link: https://store.steampowered.com/app/4864560
+==================================================
+
