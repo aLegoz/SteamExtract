@@ -48084,3 +48084,14 @@ Genres: Adventure, Casual, Indie, RPG
 Link: https://store.steampowered.com/app/4635070
 ==================================================
 
+
+--- Run: 2026-07-22 22:50:14 --- (1 new game(s) found)
+
+==================================================
+Name: Rawbugs
+Release Date: Coming soon
+Price: Free to Play
+Genres: Casual, Simulation, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4910140
+==================================================
+
