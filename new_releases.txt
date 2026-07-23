@@ -48658,3 +48658,166 @@ Genres: Action, RPG
 Link: https://store.steampowered.com/app/4402250
 ==================================================
 
+
+--- Run: 2026-07-23 20:06:13 --- (20 new game(s) found)
+
+==================================================
+Name: Compile & Defend
+Release Date: Jul 23, 2026
+Price: $11.89 (-15%, was $13.99)
+Genres: Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4915240
+==================================================
+
+==================================================
+Name: They Came for Blood
+Release Date: Jul 23, 2026
+Price: $7.19 (-10%, was $7.99)
+Genres: Casual, Simulation
+Link: https://store.steampowered.com/app/4405550
+==================================================
+
+==================================================
+Name: AVILION forever
+Release Date: Jul 23, 2026
+Price: $6.29 (-10%, was $6.99)
+Genres: Adventure, Indie, RPG, Simulation
+Link: https://store.steampowered.com/app/4133930
+==================================================
+
+==================================================
+Name: Gem Rush Devil's Realm
+Release Date: Jul 23, 2026
+Price: $1.99
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4657900
+==================================================
+
+==================================================
+Name: High Times - Dating/Cooking Sim
+Release Date: Jul 23, 2026
+Price: $17.99 (-10%, was $19.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/2251220
+==================================================
+
+==================================================
+Name: Endless Tower Survivors
+Release Date: Jul 23, 2026
+Price: $2.54 (-15%, was $2.99)
+Genres: Action, Indie, Strategy
+Link: https://store.steampowered.com/app/4516320
+==================================================
+
+==================================================
+Name: Doomsday Diner
+Release Date: Jul 23, 2026
+Price: $8.49 (-15%, was $9.99)
+Genres: Casual, Simulation
+Link: https://store.steampowered.com/app/3846290
+==================================================
+
+==================================================
+Name: Switch the Darkness
+Release Date: Jul 23, 2026
+Price: $3.39 (-15%, was $3.99)
+Genres: Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/4157330
+==================================================
+
+==================================================
+Name: Dev Life: Tap & Code
+Release Date: Jul 23, 2026
+Price: $2.54 (-15%, was $2.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4665550
+==================================================
+
+==================================================
+Name: Gamble: Hard Exit
+Release Date: Jul 23, 2026
+Price: $3.89 (-35%, was $5.99)
+Genres: Adventure, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4379940
+==================================================
+
+==================================================
+Name: Stellar Protocol
+Release Date: Jul 23, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4776600
+==================================================
+
+==================================================
+Name: Harvest Dice Profit
+Release Date: Jul 23, 2026
+Price: $2.09 (-30%, was $2.99)
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4583230
+==================================================
+
+==================================================
+Name: THE DEEPEST CASTLE
+Release Date: Jul 23, 2026
+Price: $5.75 (-10%, was $6.39)
+Genres: Action, Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/4702000
+==================================================
+
+==================================================
+Name: Hentai Furry Wolfy 2
+Release Date: Jul 23, 2026
+Price: $0.64 (-35%, was $0.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4853930
+==================================================
+
+==================================================
+Name: DAWN CAR
+Release Date: Jul 23, 2026
+Price: $12.74 (-15%, was $14.99)
+Genres: Action, Indie, Racing
+Link: https://store.steampowered.com/app/4065160
+==================================================
+
+==================================================
+Name: Under His Eyes
+Release Date: Jul 23, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/3938380
+==================================================
+
+==================================================
+Name: dice'n'sphere
+Release Date: Jul 23, 2026
+Price: $3.74 (-25%, was $4.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/4088080
+==================================================
+
+==================================================
+Name: KEBAB CLICKER: El Imperio del Dürüm
+Release Date: Jul 23, 2026
+Price: $1.79 (-10%, was $1.99)
+Genres: Indie
+Link: https://store.steampowered.com/app/4862750
+==================================================
+
+==================================================
+Name: Amelia's Escape
+Release Date: Jul 23, 2026
+Price: $14.99
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/3263090
+==================================================
+
+==================================================
+Name: Cornhole Hero
+Release Date: Jul 23, 2026
+Price: $3.59 (-10%, was $3.99)
+Genres: Indie, Sports
+Link: https://store.steampowered.com/app/4562110
+==================================================
+
