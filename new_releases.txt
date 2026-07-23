@@ -48130,3 +48130,22 @@ Genres: Action, Casual, Strategy
 Link: https://store.steampowered.com/app/3104670
 ==================================================
 
+
+--- Run: 2026-07-23 01:26:41 --- (2 new game(s) found)
+
+==================================================
+Name: Memory of Memorie : A Chill Story
+Release Date: Jul 22, 2026
+Price: $10.79 (-10%, was $11.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4337440
+==================================================
+
+==================================================
+Name: Hopping Girl Kohane EX
+Release Date: Jul 22, 2026
+Price: $22.49 (-10%, was $24.99)
+Genres: Action, Casual, Indie, Sports
+Link: https://store.steampowered.com/app/3150180
+==================================================
+
