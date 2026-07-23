@@ -48859,3 +48859,30 @@ Genres: Adventure
 Link: https://store.steampowered.com/app/4884440
 ==================================================
 
+
+--- Run: 2026-07-23 23:46:22 --- (3 new game(s) found)
+
+==================================================
+Name: Astro Raiders
+Release Date: Jul 23, 2026
+Price: $8.99 (-40%, was $14.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4641740
+==================================================
+
+==================================================
+Name: Bobble Shop Simulator
+Release Date: Jul 23, 2026
+Price: $5.62 (-25%, was $7.50)
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/4069170
+==================================================
+
+==================================================
+Name: Zyrcon
+Release Date: Jul 23, 2026
+Price: $1.69 (-15%, was $1.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4823000
+==================================================
+
