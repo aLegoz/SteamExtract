@@ -48347,3 +48347,62 @@ Genres: Adventure, Casual, Indie
 Link: https://store.steampowered.com/app/4797730
 ==================================================
 
+
+--- Run: 2026-07-23 10:56:09 --- (7 new game(s) found)
+
+==================================================
+Name: Car Sales Simulator
+Release Date: Jul 23, 2026
+Price: $10.79 (-10%, was $11.99)
+Genres: Simulation
+Link: https://store.steampowered.com/app/4414590
+==================================================
+
+==================================================
+Name: Market Empire Simulator
+Release Date: Jul 23, 2026
+Price: $1.24 (-75%, was $4.99)
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/3163840
+==================================================
+
+==================================================
+Name: Club Soko
+Release Date: Jul 23, 2026
+Price: $11.19 (-20%, was $13.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/3346410
+==================================================
+
+==================================================
+Name: XiuXian Idle Cultivation
+Release Date: Jul 23, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Adventure, Casual, Indie, RPG, Simulation
+Link: https://store.steampowered.com/app/4866160
+==================================================
+
+==================================================
+Name: Sail Girl
+Release Date: Jul 23, 2026
+Price: Free to Play
+Genres: Action, Adventure, Casual, RPG, Free To Play
+Link: https://store.steampowered.com/app/3957240
+==================================================
+
+==================================================
+Name: Reefling: A Cozy Desktop Aquarium
+Release Date: Jul 22, 2026
+Price: $3.59 (-10%, was $3.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4889950
+==================================================
+
+==================================================
+Name: Koko's Cafe
+Release Date: Jul 22, 2026
+Price: $5.94 (-15%, was $6.99)
+Genres: Adventure, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/3394800
+==================================================
+
