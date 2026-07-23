@@ -48149,3 +48149,118 @@ Genres: Action, Casual, Indie, Sports
 Link: https://store.steampowered.com/app/3150180
 ==================================================
 
+
+--- Run: 2026-07-23 05:12:56 --- (14 new game(s) found)
+
+==================================================
+Name: Atomcraft
+Release Date: Jul 22, 2026
+Price: $11.99 (-20%, was $14.99)
+Genres: Action, Adventure, Indie, RPG, Simulation
+Link: https://store.steampowered.com/app/2803490
+==================================================
+
+==================================================
+Name: 玄中记
+Release Date: Jul 22, 2026
+Price: Free to Play
+Genres: Action, Adventure, Casual, Massively Multiplayer, RPG, Free To Play
+Link: https://store.steampowered.com/app/4571290
+==================================================
+
+==================================================
+Name: DragonSword : Awakening
+Release Date: Jul 22, 2026
+Price: $29.99
+Genres: Action, Adventure, RPG
+Link: https://store.steampowered.com/app/4570720
+==================================================
+
+==================================================
+Name: Hard Edge - War Zone
+Release Date: Jul 22, 2026
+Price: $14.39 (-10%, was $15.99)
+Genres: Strategy
+Link: https://store.steampowered.com/app/4612870
+==================================================
+
+==================================================
+Name: Queen's Blade Re:Build
+Release Date: Jul 22, 2026
+Price: $24.99 (-10%, was $27.77)
+Genres: Action, Indie, Strategy
+Link: https://store.steampowered.com/app/3938540
+==================================================
+
+==================================================
+Name: Fish to Cats: Catch & Feed
+Release Date: Jul 22, 2026
+Price: $2.69 (-10%, was $2.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4051900
+==================================================
+
+==================================================
+Name: Pass the Fear
+Release Date: Jul 22, 2026
+Price: $17.09 (-10%, was $18.99)
+Genres: Action, Adventure, Casual, Indie, RPG, Simulation, Strategy
+Link: https://store.steampowered.com/app/3561220
+==================================================
+
+==================================================
+Name: Ella's Nightmare
+Release Date: Jul 22, 2026
+Price: $3.59 (-10%, was $3.99)
+Genres: Indie
+Link: https://store.steampowered.com/app/4253590
+==================================================
+
+==================================================
+Name: Shadow Boxing
+Release Date: Jul 22, 2026
+Price: $3.00
+Genres: Indie, Sports
+Link: https://store.steampowered.com/app/4923890
+==================================================
+
+==================================================
+Name: Dryad
+Release Date: Jul 22, 2026
+Price: $5.95 (-15%, was $7.00)
+Genres: Adventure, Indie, Strategy
+Link: https://store.steampowered.com/app/1223820
+==================================================
+
+==================================================
+Name: Calculator - Desktop Mate Widgets
+Release Date: Jul 22, 2026
+Price: Free to Play
+Genres: Free To Play, Animation & Modeling, Utilities
+Link: https://store.steampowered.com/app/4791250
+==================================================
+
+==================================================
+Name: Nightmare Raid: Blood Card Storm
+Release Date: Jul 22, 2026
+Price: $3.59 (-40%, was $5.99)
+Genres: Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/4771890
+==================================================
+
+==================================================
+Name: hololive Dreams
+Release Date: Jul 22, 2026
+Price: Free to Play
+Genres: Action, Adventure, RPG, Free To Play
+Link: https://store.steampowered.com/app/4282500
+==================================================
+
+==================================================
+Name: Rubinite
+Release Date: Jul 22, 2026
+Price: $17.99 (-10%, was $19.99)
+Genres: Action, Indie, RPG
+Link: https://store.steampowered.com/app/1845250
+==================================================
+
