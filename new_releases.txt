@@ -48821,3 +48821,22 @@ Genres: Indie, Sports
 Link: https://store.steampowered.com/app/4562110
 ==================================================
 
+
+--- Run: 2026-07-23 21:53:47 --- (2 new game(s) found)
+
+==================================================
+Name: One Rainy Night
+Release Date: Jul 23, 2026
+Price: $19.99
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/1530190
+==================================================
+
+==================================================
+Name: Pixel Puppy Adventure
+Release Date: Jul 23, 2026
+Price: Free to Play
+Genres: Casual, Indie, Massively Multiplayer, RPG, Free To Play
+Link: https://store.steampowered.com/app/4451830
+==================================================
+
