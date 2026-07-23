@@ -48607,3 +48607,54 @@ Genres: Strategy
 Link: https://store.steampowered.com/app/3761760
 ==================================================
 
+
+--- Run: 2026-07-23 18:05:14 --- (6 new game(s) found)
+
+==================================================
+Name: Dinoblade
+Release Date: Jul 23, 2026
+Price: $17.99 (-10%, was $19.99)
+Genres: Action, Indie, RPG
+Link: https://store.steampowered.com/app/3440070
+==================================================
+
+==================================================
+Name: Echoes From Ciudadela
+Release Date: Jul 23, 2026
+Price: $14.39 (-10%, was $15.99)
+Genres: Adventure, Casual
+Link: https://store.steampowered.com/app/4019790
+==================================================
+
+==================================================
+Name: Dodo Duckie
+Release Date: Jul 23, 2026
+Price: $9.59 (-20%, was $11.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/3358170
+==================================================
+
+==================================================
+Name: One More Delve
+Release Date: Jul 23, 2026
+Price: $10.91 (-22%, was $13.99)
+Genres: Action, Adventure, Casual, Indie, RPG
+Link: https://store.steampowered.com/app/3847110
+==================================================
+
+==================================================
+Name: Helix: Descent N Ascent
+Release Date: Jul 23, 2026
+Price: $13.49 (-10%, was $14.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/2736370
+==================================================
+
+==================================================
+Name: Disgaea Mayhem
+Release Date: Jul 23, 2026
+Price: $59.99
+Genres: Action, RPG
+Link: https://store.steampowered.com/app/4402250
+==================================================
+
