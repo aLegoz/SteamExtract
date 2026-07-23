@@ -48840,3 +48840,22 @@ Genres: Casual, Indie, Massively Multiplayer, RPG, Free To Play
 Link: https://store.steampowered.com/app/4451830
 ==================================================
 
+
+--- Run: 2026-07-23 22:43:59 --- (2 new game(s) found)
+
+==================================================
+Name: Supermarket Simulator: Idle Tycoon Clicker
+Release Date: Jul 23, 2026
+Price: $0.84 (-15%, was $0.99)
+Genres: Adventure, Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4260680
+==================================================
+
+==================================================
+Name: Scary Stories: Grotesque
+Release Date: Jul 23, 2026
+Price: $3.59 (-10%, was $3.99)
+Genres: Adventure
+Link: https://store.steampowered.com/app/4884440
+==================================================
+
