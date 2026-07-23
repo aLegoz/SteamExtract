@@ -48500,3 +48500,110 @@ Genres: Casual, Indie, Strategy
 Link: https://store.steampowered.com/app/2778530
 ==================================================
 
+
+--- Run: 2026-07-23 16:24:45 --- (13 new game(s) found)
+
+==================================================
+Name: Viral Reload EX
+Release Date: Jul 23, 2026
+Price: $7.49 (-25%, was $9.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/2096020
+==================================================
+
+==================================================
+Name: Dino Jump Deluxe
+Release Date: Jul 23, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4534270
+==================================================
+
+==================================================
+Name: Professional Chef
+Release Date: Jul 23, 2026
+Price: Free to Play
+Genres: Casual, Indie, Simulation, Free To Play
+Link: https://store.steampowered.com/app/4291130
+==================================================
+
+==================================================
+Name: Pixelwave Off
+Release Date: Jul 23, 2026
+Price: Free to Play
+Genres: Adventure, Indie, Free To Play
+Link: https://store.steampowered.com/app/4339240
+==================================================
+
+==================================================
+Name: The Lonely Miner
+Release Date: Jul 23, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/4483680
+==================================================
+
+==================================================
+Name: Tormentum II
+Release Date: Jul 23, 2026
+Price: $16.99 (-15%, was $19.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/931060
+==================================================
+
+==================================================
+Name: Worlds Upon The Wind
+Release Date: Jul 23, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/3640430
+==================================================
+
+==================================================
+Name: Dewdrop Dynasty
+Release Date: Jul 23, 2026
+Price: $19.99
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/1444080
+==================================================
+
+==================================================
+Name: Desire Empire
+Release Date: Jul 23, 2026
+Price: Free to Play
+Genres: Adventure, Casual, RPG, Free To Play
+Link: https://store.steampowered.com/app/4651940
+==================================================
+
+==================================================
+Name: Coin Tavern
+Release Date: Jul 23, 2026
+Price: $8.49 (-15%, was $9.99)
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4358310
+==================================================
+
+==================================================
+Name: Sunny Labyrinths
+Release Date: Jul 23, 2026
+Price: $2.69 (-10%, was $2.99)
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/4823780
+==================================================
+
+==================================================
+Name: The Demon King: Harem
+Release Date: Jul 23, 2026
+Price: $4.99
+Genres: RPG
+Link: https://store.steampowered.com/app/4629490
+==================================================
+
+==================================================
+Name: 梦境物语
+Release Date: Jul 23, 2026
+Price: $3.59 (-40%, was $5.99)
+Genres: Strategy
+Link: https://store.steampowered.com/app/3761760
+==================================================
+
