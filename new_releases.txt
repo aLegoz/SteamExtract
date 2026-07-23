@@ -48449,3 +48449,54 @@ Genres: Casual
 Link: https://store.steampowered.com/app/4918290
 ==================================================
 
+
+--- Run: 2026-07-23 14:58:58 --- (6 new game(s) found)
+
+==================================================
+Name: LUNA: Obscura
+Release Date: Jul 23, 2026
+Price: $6.88 (-15%, was $8.10)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/3674110
+==================================================
+
+==================================================
+Name: Avatar Legends: The Fighting Game
+Release Date: Jul 23, 2026
+Price: $29.99
+Genres: Action
+Link: https://store.steampowered.com/app/2424420
+==================================================
+
+==================================================
+Name: Avatar Legends: The Fighting Game
+Release Date: Jul 23, 2026
+Price: $29.99
+Genres: Action
+Link: https://store.steampowered.com/app/2424420
+==================================================
+
+==================================================
+Name: Joe Adventure
+Release Date: Jul 23, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Action, Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/3749960
+==================================================
+
+==================================================
+Name: Void Future: Hacking Protocol
+Release Date: Jul 23, 2026
+Price: $12.74 (-15%, was $14.99)
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/3478560
+==================================================
+
+==================================================
+Name: Battle Echoes
+Release Date: Jul 22, 2026
+Price: $5.59 (-20%, was $6.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/2778530
+==================================================
+
