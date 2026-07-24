@@ -49285,3 +49285,158 @@ Genres: Action
 Link: https://store.steampowered.com/app/3978390
 ==================================================
 
+
+--- Run: 2026-07-24 14:41:28 --- (19 new game(s) found)
+
+==================================================
+Name: The Night Walk
+Release Date: Jul 24, 2026
+Price: Free to Play
+Genres: Indie, Free To Play
+Link: https://store.steampowered.com/app/4584530
+==================================================
+
+==================================================
+Name: Catio Simulator
+Release Date: Jul 24, 2026
+Price: $4.79 (-20%, was $5.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/3814540
+==================================================
+
+==================================================
+Name: Check-In Chaos
+Release Date: Jul 24, 2026
+Price: $3.89 (-40%, was $6.49)
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/4912570
+==================================================
+
+==================================================
+Name: Manggou
+Release Date: Jul 24, 2026
+Price: $3.51 (-12%, was $3.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/4045180
+==================================================
+
+==================================================
+Name: Theocide
+Release Date: Jul 24, 2026
+Price: Free to Play
+Genres: Indie, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4921570
+==================================================
+
+==================================================
+Name: YuanQi : 元氣
+Release Date: Jul 24, 2026
+Price: Free to Play
+Genres: Action, Adventure, Casual, Indie, RPG, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4802410
+==================================================
+
+==================================================
+Name: Tulip Season
+Release Date: Jul 24, 2026
+Price: $4.79 (-20%, was $5.99)
+Genres: Casual, Indie, RPG, Simulation
+Link: https://store.steampowered.com/app/4067890
+==================================================
+
+==================================================
+Name: level test
+Release Date: Jul 24, 2026
+Price: $0.99
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4851180
+==================================================
+
+==================================================
+Name: Fusion Core: Black Hole
+Release Date: Jul 24, 2026
+Price: $5.39 (-10%, was $5.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4525590
+==================================================
+
+==================================================
+Name: TAOLU
+Release Date: Jul 24, 2026
+Price: $5.99
+Genres: Action, Casual, Indie, Simulation, Sports
+Link: https://store.steampowered.com/app/2025820
+==================================================
+
+==================================================
+Name: Lust Solitaire: Horny Cards
+Release Date: Jul 24, 2026
+Price: Free to Play
+Genres: Casual, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4467550
+==================================================
+
+==================================================
+Name: Mall Together
+Release Date: Jul 24, 2026
+Price: $10.79 (-10%, was $11.99)
+Genres: Casual, Simulation
+Link: https://store.steampowered.com/app/4668890
+==================================================
+
+==================================================
+Name: A Mystic Journey With : Crystalia
+Release Date: Jul 24, 2026
+Price: $2.99
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4901950
+==================================================
+
+==================================================
+Name: A Lucky Hunt With : Rissa
+Release Date: Jul 24, 2026
+Price: $2.99
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4890280
+==================================================
+
+==================================================
+Name: Aster Pebble and the Case of Bad Bureaucracy
+Release Date: Jul 24, 2026
+Price: $5.94 (-15%, was $6.99)
+Genres: Adventure, Casual
+Link: https://store.steampowered.com/app/4233520
+==================================================
+
+==================================================
+Name: Poker FC
+Release Date: Jul 24, 2026
+Price: $9.09 (-30%, was $12.99)
+Genres: Casual, Simulation, Sports, Strategy
+Link: https://store.steampowered.com/app/4913430
+==================================================
+
+==================================================
+Name: Dice & Dare : A Push-Your-Luck Casino-Style Dice Roguelike
+Release Date: Jul 24, 2026
+Price: $5.39 (-10%, was $5.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4927140
+==================================================
+
+==================================================
+Name: RoboDeal Simulator
+Release Date: Jul 24, 2026
+Price: $3.59 (-10%, was $3.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4088760
+==================================================
+
+==================================================
+Name: Sudoku Atlas
+Release Date: Jul 24, 2026
+Price: $4.99
+Genres: Casual
+Link: https://store.steampowered.com/app/4931410
+==================================================
+
