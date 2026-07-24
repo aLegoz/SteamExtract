@@ -49611,3 +49611,94 @@ Genres: Action, Adventure
 Link: https://store.steampowered.com/app/4757050
 ==================================================
 
+
+--- Run: 2026-07-24 20:08:23 --- (11 new game(s) found)
+
+==================================================
+Name: BACKROOMS ANOMALY
+Release Date: Jul 24, 2026
+Price: $4.89 (-30%, was $6.99)
+Genres: Adventure, Simulation
+Link: https://store.steampowered.com/app/3451970
+==================================================
+
+==================================================
+Name: no fox season
+Release Date: Jul 24, 2026
+Price: $2.99 (-25%, was $3.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/3759670
+==================================================
+
+==================================================
+Name: Breach Protocol
+Release Date: Jul 24, 2026
+Price: $12.74 (-15%, was $14.99)
+Genres: Action, RPG
+Link: https://store.steampowered.com/app/4557910
+==================================================
+
+==================================================
+Name: Infinitevania
+Release Date: Jul 24, 2026
+Price: $12.74 (-15%, was $14.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/1983620
+==================================================
+
+==================================================
+Name: Gigils: Chomp Together
+Release Date: Jul 24, 2026
+Price: $7.19 (-10%, was $7.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/3643790
+==================================================
+
+==================================================
+Name: Hard Count
+Release Date: Jul 24, 2026
+Price: $6.29 (-10%, was $6.99)
+Genres: Sports
+Link: https://store.steampowered.com/app/4431330
+==================================================
+
+==================================================
+Name: Scrap Mechanic
+Release Date: Jul 24, 2026
+Price: $28.99
+Genres: Action, Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/387990
+==================================================
+
+==================================================
+Name: Nebulis Entity
+Release Date: Jul 24, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4068440
+==================================================
+
+==================================================
+Name: Phantom Floor
+Release Date: Jul 24, 2026
+Price: $6.79 (-15%, was $7.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/3752110
+==================================================
+
+==================================================
+Name: Robo Miner: Remastered
+Release Date: Jul 24, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/3856550
+==================================================
+
+==================================================
+Name: My Fitness Waifu: Hentai Puzzle
+Release Date: Jul 24, 2026
+Price: $1.19 (-40%, was $1.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/4905270
+==================================================
+
