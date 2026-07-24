@@ -49052,3 +49052,70 @@ Genres: Casual, Indie
 Link: https://store.steampowered.com/app/4618290
 ==================================================
 
+
+--- Run: 2026-07-24 07:26:58 --- (8 new game(s) found)
+
+==================================================
+Name: 宗门最后的长老
+Release Date: Jul 24, 2026
+Price: $1.97 (-34%, was $2.99)
+Genres: Casual, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/4898630
+==================================================
+
+==================================================
+Name: The Alley
+Release Date: Jul 23, 2026
+Price: $8.09 (-10%, was $8.99)
+Genres: Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/4181410
+==================================================
+
+==================================================
+Name: Limitless Survivor
+Release Date: Jul 23, 2026
+Price: $3.19 (-20%, was $3.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4438540
+==================================================
+
+==================================================
+Name: The Purple Forest Ritual
+Release Date: Jul 23, 2026
+Price: $5.09 (-15%, was $5.99)
+Genres: Action
+Link: https://store.steampowered.com/app/4299940
+==================================================
+
+==================================================
+Name: Mammon’s Wager
+Release Date: Jul 23, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4528300
+==================================================
+
+==================================================
+Name: quietd
+Release Date: Jul 23, 2026
+Price: $2.69 (-10%, was $2.99)
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/4887520
+==================================================
+
+==================================================
+Name: This Station: The Escape
+Release Date: Jul 23, 2026
+Price: $4.99
+Genres: Adventure, Indie, Strategy
+Link: https://store.steampowered.com/app/4293330
+==================================================
+
+==================================================
+Name: AfterClerk
+Release Date: Jul 23, 2026
+Price: $5.24 (-25%, was $6.99)
+Genres: Adventure, Indie, RPG, Simulation
+Link: https://store.steampowered.com/app/4877140
+==================================================
+
