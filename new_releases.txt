@@ -49761,3 +49761,14 @@ Genres: Adventure, Casual, Indie
 Link: https://store.steampowered.com/app/4834920
 ==================================================
 
+
+--- Run: 2026-07-24 23:52:04 --- (1 new game(s) found)
+
+==================================================
+Name: Box Office Mayhem: Theatre Tycoon
+Release Date: Jul 24, 2026
+Price: $10.79 (-10%, was $11.99)
+Genres: Simulation, Strategy
+Link: https://store.steampowered.com/app/4572730
+==================================================
+
