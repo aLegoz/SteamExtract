@@ -48937,3 +48937,118 @@ Genres: Action, Adventure, Casual, Indie, Simulation, Strategy
 Link: https://store.steampowered.com/app/4877240
 ==================================================
 
+
+--- Run: 2026-07-24 04:57:40 --- (14 new game(s) found)
+
+==================================================
+Name: The Dungeon of Lulu Farea: Rebirth
+Release Date: Jul 23, 2026
+Price: $9.59 (-20%, was $11.99)
+Genres: Adventure, RPG
+Link: https://store.steampowered.com/app/4353640
+==================================================
+
+==================================================
+Name: Ashbound Expanse
+Release Date: Jul 23, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/3384360
+==================================================
+
+==================================================
+Name: Abyss Kitchen
+Release Date: Jul 23, 2026
+Price: $10.79 (-10%, was $11.99)
+Genres: Action, Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/3508910
+==================================================
+
+==================================================
+Name: 我的美味丈夫 My Tasty Husband
+Release Date: Jul 23, 2026
+Price: $6.39 (-20%, was $7.99)
+Genres: Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/4214320
+==================================================
+
+==================================================
+Name: 侠影录
+Release Date: Jul 23, 2026
+Price: $13.49 (-10%, was $14.99)
+Genres: Action, Indie, RPG
+Link: https://store.steampowered.com/app/3863760
+==================================================
+
+==================================================
+Name: Godfall: Embers
+Release Date: Jul 23, 2026
+Price: Free to Play
+Genres: Action, Adventure, Casual, Massively Multiplayer, RPG, Simulation, Free To Play
+Link: https://store.steampowered.com/app/4810250
+==================================================
+
+==================================================
+Name: Maid Life SS
+Release Date: Jul 23, 2026
+Price: $6.29 (-10%, was $6.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/3192260
+==================================================
+
+==================================================
+Name: Sinheritance
+Release Date: Jul 23, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4736640
+==================================================
+
+==================================================
+Name: Elven Friends
+Release Date: Jul 23, 2026
+Price: $5.59 (-20%, was $6.99)
+Genres: Casual, RPG
+Link: https://store.steampowered.com/app/4546270
+==================================================
+
+==================================================
+Name: Conqueror's Blade: Three Kingdoms
+Release Date: Jul 23, 2026
+Price: Free to Play
+Genres: Action, Massively Multiplayer, RPG, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4651220
+==================================================
+
+==================================================
+Name: 1.80战神微变
+Release Date: Jul 23, 2026
+Price: Free to Play
+Genres: Action, Adventure, Massively Multiplayer, RPG, Free To Play
+Link: https://store.steampowered.com/app/4714000
+==================================================
+
+==================================================
+Name: Gym Rat Simulator
+Release Date: Jul 23, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Simulation
+Link: https://store.steampowered.com/app/4438370
+==================================================
+
+==================================================
+Name: Gambetto
+Release Date: Jul 23, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Strategy
+Link: https://store.steampowered.com/app/2672840
+==================================================
+
+==================================================
+Name: Sweet Time
+Release Date: Jul 23, 2026
+Price: $0.89 (-10%, was $0.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4618290
+==================================================
+
