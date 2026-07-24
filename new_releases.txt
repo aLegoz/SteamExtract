@@ -49119,3 +49119,70 @@ Genres: Adventure, Indie, RPG, Simulation
 Link: https://store.steampowered.com/app/4877140
 ==================================================
 
+
+--- Run: 2026-07-24 10:04:16 --- (8 new game(s) found)
+
+==================================================
+Name: Lust and Agony in Netori:The Ritual of Despair
+Release Date: Jul 24, 2026
+Price: $11.69 (-10%, was $12.99)
+Genres: Casual, Indie, RPG
+Link: https://store.steampowered.com/app/4375760
+==================================================
+
+==================================================
+Name: Boba Cafe Simulator
+Release Date: Jul 24, 2026
+Price: $10.39 (-35%, was $15.99)
+Genres: Casual, RPG, Simulation
+Link: https://store.steampowered.com/app/3683770
+==================================================
+
+==================================================
+Name: Hex Clash - The Fractured Combs
+Release Date: Jul 24, 2026
+Price: $1.19 (-40%, was $1.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4895290
+==================================================
+
+==================================================
+Name: ePaperCraft SHIRYU
+Release Date: Jul 24, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Design & Illustration, Education, Utilities
+Link: https://store.steampowered.com/app/4912480
+==================================================
+
+==================================================
+Name: Razor Trail Survivors
+Release Date: Jul 24, 2026
+Price: Free to Play
+Genres: Indie, RPG, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4902550
+==================================================
+
+==================================================
+Name: 3D Print Designer
+Release Date: Jul 23, 2026
+Price: $15.00
+Genres: Animation & Modeling, Design & Illustration, Utilities
+Link: https://store.steampowered.com/app/4873160
+==================================================
+
+==================================================
+Name: 黑山羊BlackGoat
+Release Date: Jul 23, 2026
+Price: $8.09 (-10%, was $8.99)
+Genres: Adventure, Casual, Indie, RPG
+Link: https://store.steampowered.com/app/3685370
+==================================================
+
+==================================================
+Name: Furry Adventure 2
+Release Date: Jul 23, 2026
+Price: $3.39 (-15%, was $3.99)
+Genres: Casual, Indie, RPG
+Link: https://store.steampowered.com/app/4787680
+==================================================
+
