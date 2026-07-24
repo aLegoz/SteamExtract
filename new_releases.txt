@@ -49440,3 +49440,174 @@ Genres: Casual
 Link: https://store.steampowered.com/app/4931410
 ==================================================
 
+
+--- Run: 2026-07-24 18:09:25 --- (21 new game(s) found)
+
+==================================================
+Name: Organize my Shop
+Release Date: Jul 24, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4751340
+==================================================
+
+==================================================
+Name: Your Furry Mother
+Release Date: Jul 24, 2026
+Price: $0.59 (-40%, was $0.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/4828550
+==================================================
+
+==================================================
+Name: Once Upon a Throne of Thorns
+Release Date: Jul 24, 2026
+Price: $13.49 (-10%, was $14.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4192830
+==================================================
+
+==================================================
+Name: Arctic Shift: Fuel Station
+Release Date: Jul 24, 2026
+Price: $12.59 (-10%, was $13.99)
+Genres: Simulation
+Link: https://store.steampowered.com/app/4371450
+==================================================
+
+==================================================
+Name: Dice Gun Commando
+Release Date: Jul 24, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Action, Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4537600
+==================================================
+
+==================================================
+Name: Ready or Not - The Deadline is coming!
+Release Date: Jul 24, 2026
+Price: $16.99 (-15%, was $19.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/2370530
+==================================================
+
+==================================================
+Name: ZAVOD: Conveyor Logic
+Release Date: Jul 24, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/1437200
+==================================================
+
+==================================================
+Name: Goof Off
+Release Date: Jul 24, 2026
+Price: $5.99 (-40%, was $9.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4718030
+==================================================
+
+==================================================
+Name: MA 2 – President Simulator
+Release Date: Jul 24, 2026
+Price: $8.49 (-15%, was $9.99)
+Genres: Action, Adventure, Casual, Indie, RPG, Simulation, Strategy
+Link: https://store.steampowered.com/app/4109480
+==================================================
+
+==================================================
+Name: Canvas of Thoughts
+Release Date: Jul 24, 2026
+Price: $11.04 (-15%, was $12.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4348770
+==================================================
+
+==================================================
+Name: Cosmic Mart
+Release Date: Jul 24, 2026
+Price: $3.39 (-15%, was $3.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/4885590
+==================================================
+
+==================================================
+Name: 夏至未来
+Release Date: Jul 24, 2026
+Price: Free to Play
+Genres: Adventure, Free To Play
+Link: https://store.steampowered.com/app/4911200
+==================================================
+
+==================================================
+Name: Maze 95 Ultimate
+Release Date: Jul 24, 2026
+Price: $2.69 (-10%, was $2.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4320330
+==================================================
+
+==================================================
+Name: Codename CURE II
+Release Date: Jul 24, 2026
+Price: Free to Play
+Genres: Action, Indie, Free To Play
+Link: https://store.steampowered.com/app/2810210
+==================================================
+
+==================================================
+Name: City States: Medieval
+Release Date: Jul 24, 2026
+Price: $15.99 (-20%, was $19.99)
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/4066390
+==================================================
+
+==================================================
+Name: Horse Craft
+Release Date: Jul 24, 2026
+Price: $1.79 (-40%, was $2.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4436780
+==================================================
+
+==================================================
+Name: Hold'em Fold'em Poker
+Release Date: Jul 24, 2026
+Price: $2.54 (-15%, was $2.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4685090
+==================================================
+
+==================================================
+Name: The Endless Hallway
+Release Date: Jul 24, 2026
+Price: $2.24 (-25%, was $2.99)
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/4917280
+==================================================
+
+==================================================
+Name: Huntin' Buddies
+Release Date: Jul 24, 2026
+Price: $6.39 (-20%, was $7.99)
+Genres: Action
+Link: https://store.steampowered.com/app/4383880
+==================================================
+
+==================================================
+Name: Bookbinding – Dark Cozy Sim
+Release Date: Jul 24, 2026
+Price: $9.74 (-25%, was $12.99)
+Genres: Simulation
+Link: https://store.steampowered.com/app/3555780
+==================================================
+
+==================================================
+Name: Zelash: Dash and Slash
+Release Date: Jul 24, 2026
+Price: $5.99
+Genres: Action, Adventure
+Link: https://store.steampowered.com/app/4757050
+==================================================
+
