@@ -49969,3 +49969,14 @@ Genres: Action, Indie
 Link: https://store.steampowered.com/app/4296520
 ==================================================
 
+
+--- Run: 2026-07-25 16:42:00 --- (1 new game(s) found)
+
+==================================================
+Name: Jack Bonecroft 4
+Release Date: Jul 25, 2026
+Price: $12.99
+Genres: Action, Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/4730350
+==================================================
+
