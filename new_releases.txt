@@ -49904,3 +49904,14 @@ Genres: Action, Adventure, Indie
 Link: https://store.steampowered.com/app/4150340
 ==================================================
 
+
+--- Run: 2026-07-25 10:59:01 --- (1 new game(s) found)
+
+==================================================
+Name: Nothing To Declare
+Release Date: Jul 25, 2026
+Price: $6.99 (-30%, was $9.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/3894850
+==================================================
+
