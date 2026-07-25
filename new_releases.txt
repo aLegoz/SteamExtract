@@ -49958,3 +49958,14 @@ Genres: Casual, Indie
 Link: https://store.steampowered.com/app/4892140
 ==================================================
 
+
+--- Run: 2026-07-25 15:53:42 --- (1 new game(s) found)
+
+==================================================
+Name: STEEL HEAVEN
+Release Date: Jul 25, 2026
+Price: $2.99 (-25%, was $3.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4296520
+==================================================
+
