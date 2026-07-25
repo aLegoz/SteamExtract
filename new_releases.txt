@@ -49850,3 +49850,14 @@ Genres: Casual, Indie, Strategy
 Link: https://store.steampowered.com/app/4203260
 ==================================================
 
+
+--- Run: 2026-07-25 07:07:20 --- (1 new game(s) found)
+
+==================================================
+Name: Curse of The Lineage
+Release Date: Jul 24, 2026
+Price: $5.00
+Genres: Action, Adventure, Indie, Strategy
+Link: https://store.steampowered.com/app/4039190
+==================================================
+
