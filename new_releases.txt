@@ -49861,3 +49861,46 @@ Genres: Action, Adventure, Indie, Strategy
 Link: https://store.steampowered.com/app/4039190
 ==================================================
 
+
+--- Run: 2026-07-25 09:24:16 --- (5 new game(s) found)
+
+==================================================
+Name: 天平游戏1:抉择
+Release Date: Jul 25, 2026
+Price: $6.29 (-10%, was $6.99)
+Genres: Adventure, Casual, Indie, RPG, Simulation
+Link: https://store.steampowered.com/app/4699920
+==================================================
+
+==================================================
+Name: Starfall Command
+Release Date: Jul 25, 2026
+Price: $2.99
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4890090
+==================================================
+
+==================================================
+Name: Sneaky Fishy
+Release Date: Jul 25, 2026
+Price: $3.49 (-30%, was $4.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4582530
+==================================================
+
+==================================================
+Name: SurfaBeam - Projection Mapping
+Release Date: Jul 24, 2026
+Price: Free to Play
+Genres: Free To Play, Audio Production, Design & Illustration, Utilities, Video Production
+Link: https://store.steampowered.com/app/4617300
+==================================================
+
+==================================================
+Name: Astray: Zero
+Release Date: Jul 24, 2026
+Price: $0.69 (-30%, was $0.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/4150340
+==================================================
+
