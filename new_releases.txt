@@ -49980,3 +49980,30 @@ Genres: Action, Adventure, Indie, RPG
 Link: https://store.steampowered.com/app/4730350
 ==================================================
 
+
+--- Run: 2026-07-25 18:45:41 --- (3 new game(s) found)
+
+==================================================
+Name: VORTEX-G: Anti-Gravity Racing & Track Editor
+Release Date: Jul 25, 2026
+Price: $12.99
+Genres: Racing
+Link: https://store.steampowered.com/app/4570010
+==================================================
+
+==================================================
+Name: 100 Dragon Cats
+Release Date: Jul 25, 2026
+Price: $1.49 (-25%, was $1.99)
+Genres: Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/4383080
+==================================================
+
+==================================================
+Name: Second Dreamer
+Release Date: Jul 24, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/1992650
+==================================================
+
