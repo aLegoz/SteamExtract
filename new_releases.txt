@@ -50018,3 +50018,22 @@ Genres: Casual, Indie, Strategy, Free To Play
 Link: https://store.steampowered.com/app/4921930
 ==================================================
 
+
+--- Run: 2026-07-25 21:41:25 --- (2 new game(s) found)
+
+==================================================
+Name: 4 Power Marble Race Manager
+Release Date: Jul 25, 2026
+Price: $3.39 (-15%, was $3.99)
+Genres: Indie, Simulation, Sports, Strategy
+Link: https://store.steampowered.com/app/4601340
+==================================================
+
+==================================================
+Name: Till The Light
+Release Date: Jul 24, 2026
+Price: $4.99
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4913930
+==================================================
+
