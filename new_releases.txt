@@ -50007,3 +50007,14 @@ Genres: Adventure, Indie, Simulation
 Link: https://store.steampowered.com/app/1992650
 ==================================================
 
+
+--- Run: 2026-07-25 20:03:05 --- (1 new game(s) found)
+
+==================================================
+Name: No Final Night: Protect The Sponk Can
+Release Date: Jul 25, 2026
+Price: Free to Play
+Genres: Casual, Indie, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4921930
+==================================================
+
