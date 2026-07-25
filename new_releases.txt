@@ -49823,3 +49823,30 @@ Genres: Casual
 Link: https://store.steampowered.com/app/4554050
 ==================================================
 
+
+--- Run: 2026-07-25 04:52:57 --- (3 new game(s) found)
+
+==================================================
+Name: B-Prison Unchain
+Release Date: Jul 24, 2026
+Price: $7.19 (-20%, was $8.99)
+Genres: Adventure, RPG
+Link: https://store.steampowered.com/app/4395030
+==================================================
+
+==================================================
+Name: PorBor
+Release Date: Jul 24, 2026
+Price: $10.00
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/3755100
+==================================================
+
+==================================================
+Name: LouveSystems' Realms
+Release Date: Jul 24, 2026
+Price: $12.99
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4203260
+==================================================
+
