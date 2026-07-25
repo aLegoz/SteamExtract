@@ -49772,3 +49772,54 @@ Genres: Simulation, Strategy
 Link: https://store.steampowered.com/app/4572730
 ==================================================
 
+
+--- Run: 2026-07-25 01:23:48 --- (6 new game(s) found)
+
+==================================================
+Name: Steel Crawlers
+Release Date: Jul 24, 2026
+Price: $4.99
+Genres: Action, Casual
+Link: https://store.steampowered.com/app/4653890
+==================================================
+
+==================================================
+Name: Hotel Infinity
+Release Date: Jul 24, 2026
+Price: $2.09 (-30%, was $2.99)
+Genres: Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/4893300
+==================================================
+
+==================================================
+Name: Strata the Cube
+Release Date: Jul 24, 2026
+Price: $1.39 (-30%, was $1.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4897450
+==================================================
+
+==================================================
+Name: MoonScape
+Release Date: Jul 24, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4927290
+==================================================
+
+==================================================
+Name: Be Human...Or Die Trying
+Release Date: Jul 24, 2026
+Price: $4.79 (-20%, was $5.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/2814400
+==================================================
+
+==================================================
+Name: A Game About Making Numbers Go Up
+Release Date: Jul 24, 2026
+Price: $2.09 (-30%, was $2.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/4554050
+==================================================
+
