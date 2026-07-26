@@ -50210,3 +50210,22 @@ Genres: Action, Adventure, Casual, Indie, Free To Play
 Link: https://store.steampowered.com/app/4887360
 ==================================================
 
+
+--- Run: 2026-07-26 17:51:43 --- (2 new game(s) found)
+
+==================================================
+Name: MMDEngine
+Release Date: Jul 26, 2026
+Price: Free to Play
+Genres: Action, Casual, Indie, RPG, Simulation, Free To Play, Animation & Modeling, Design & Illustration
+Link: https://store.steampowered.com/app/2241940
+==================================================
+
+==================================================
+Name: Suika Game Planet
+Release Date: Jul 26, 2026
+Price: $2.99
+Genres: Casual
+Link: https://store.steampowered.com/app/4650440
+==================================================
+
