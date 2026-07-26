@@ -50064,3 +50064,22 @@ Genres: Action, Casual
 Link: https://store.steampowered.com/app/4608690
 ==================================================
 
+
+--- Run: 2026-07-26 05:17:46 --- (2 new game(s) found)
+
+==================================================
+Name: PACOSTEP
+Release Date: Jul 25, 2026
+Price: $6.99
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/3602710
+==================================================
+
+==================================================
+Name: PAY WITH TIME
+Release Date: Jul 25, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Casual, Indie, RPG, Simulation, Strategy
+Link: https://store.steampowered.com/app/4914890
+==================================================
+
