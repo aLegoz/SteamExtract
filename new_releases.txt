@@ -50183,3 +50183,30 @@ Genres: Action
 Link: https://store.steampowered.com/app/4895240
 ==================================================
 
+
+--- Run: 2026-07-26 16:43:07 --- (3 new game(s) found)
+
+==================================================
+Name: Nullogram Blind with horns
+Release Date: Jul 26, 2026
+Price: Free to Play
+Genres: Adventure, Indie, Free To Play
+Link: https://store.steampowered.com/app/4224980
+==================================================
+
+==================================================
+Name: Suika Game
+Release Date: Jul 26, 2026
+Price: $2.99
+Genres: Casual
+Link: https://store.steampowered.com/app/4572790
+==================================================
+
+==================================================
+Name: erdetspill
+Release Date: Jul 26, 2026
+Price: Free to Play
+Genres: Action, Adventure, Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/4887360
+==================================================
+
