@@ -50037,3 +50037,30 @@ Genres: Adventure, Indie
 Link: https://store.steampowered.com/app/4913930
 ==================================================
 
+
+--- Run: 2026-07-26 01:26:26 --- (3 new game(s) found)
+
+==================================================
+Name: Piano High Score
+Release Date: Jul 25, 2026
+Price: $4.99
+Genres: Casual, Simulation
+Link: https://store.steampowered.com/app/4378860
+==================================================
+
+==================================================
+Name: Yield to the Abyss
+Release Date: Jul 25, 2026
+Price: $4.19 (-40%, was $6.99)
+Genres: Adventure, Simulation
+Link: https://store.steampowered.com/app/4824150
+==================================================
+
+==================================================
+Name: Birds
+Release Date: Jul 25, 2026
+Price: $4.20 (-16%, was $5.00)
+Genres: Action, Casual
+Link: https://store.steampowered.com/app/4608690
+==================================================
+
