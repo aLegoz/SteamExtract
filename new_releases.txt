@@ -50267,3 +50267,30 @@ Genres: Indie, Simulation, Sports
 Link: https://store.steampowered.com/app/4312110
 ==================================================
 
+
+--- Run: 2026-07-26 23:49:37 --- (3 new game(s) found)
+
+==================================================
+Name: Escape from Vacov
+Release Date: Jul 26, 2026
+Price: $0.59 (-40%, was $0.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4467410
+==================================================
+
+==================================================
+Name: What Happened to Squad 7
+Release Date: Jul 26, 2026
+Price: $1.99
+Genres: Indie
+Link: https://store.steampowered.com/app/4454880
+==================================================
+
+==================================================
+Name: Feierabend Poker
+Release Date: Jul 26, 2026
+Price: $1.99
+Genres: Casual, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/4897770
+==================================================
+
