@@ -50148,3 +50148,38 @@ Genres: Adventure, Casual, Indie, Strategy, Free To Play
 Link: https://store.steampowered.com/app/3810540
 ==================================================
 
+
+--- Run: 2026-07-26 14:21:30 --- (4 new game(s) found)
+
+==================================================
+Name: Conglomerate Illegitimate Daughter Serves Hero
+Release Date: Jul 26, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: RPG
+Link: https://store.steampowered.com/app/4856940
+==================================================
+
+==================================================
+Name: NOVAE: Last Light
+Release Date: Jul 26, 2026
+Price: $5.09 (-15%, was $5.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4923640
+==================================================
+
+==================================================
+Name: DISPATCHED
+Release Date: Jul 26, 2026
+Price: $5.09 (-15%, was $5.99)
+Genres: Action, Adventure, Indie, Strategy
+Link: https://store.steampowered.com/app/4543060
+==================================================
+
+==================================================
+Name: Bunnyhoppers
+Release Date: Jul 26, 2026
+Price: $4.99
+Genres: Action
+Link: https://store.steampowered.com/app/4895240
+==================================================
+
