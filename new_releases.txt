@@ -50137,3 +50137,14 @@ Genres: Casual, Indie, Strategy
 Link: https://store.steampowered.com/app/4567580
 ==================================================
 
+
+--- Run: 2026-07-26 11:52:15 --- (1 new game(s) found)
+
+==================================================
+Name: Clicker Ore
+Release Date: Jul 26, 2026
+Price: Free to Play
+Genres: Adventure, Casual, Indie, Strategy, Free To Play
+Link: https://store.steampowered.com/app/3810540
+==================================================
+
