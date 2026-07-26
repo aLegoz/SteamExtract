@@ -50110,3 +50110,30 @@ Genres: Action, Adventure, Casual, RPG
 Link: https://store.steampowered.com/app/3848460
 ==================================================
 
+
+--- Run: 2026-07-26 10:26:22 --- (3 new game(s) found)
+
+==================================================
+Name: Oath of Steel
+Release Date: Jul 26, 2026
+Price: $18.99
+Genres: Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/4808530
+==================================================
+
+==================================================
+Name: The Grade 5B Case Files
+Release Date: Jul 26, 2026
+Price: Free to Play
+Genres: Adventure, Indie, RPG, Free To Play
+Link: https://store.steampowered.com/app/4278010
+==================================================
+
+==================================================
+Name: Locostation
+Release Date: Jul 25, 2026
+Price: $2.69 (-10%, was $2.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4567580
+==================================================
+
