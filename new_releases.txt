@@ -50229,3 +50229,22 @@ Genres: Casual
 Link: https://store.steampowered.com/app/4650440
 ==================================================
 
+
+--- Run: 2026-07-26 18:51:47 --- (2 new game(s) found)
+
+==================================================
+Name: Citadels - Shadow City
+Release Date: Jul 26, 2026
+Price: $2.79 (-30%, was $3.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4911010
+==================================================
+
+==================================================
+Name: Level Down
+Release Date: Jul 26, 2026
+Price: Free to Play
+Genres: Action, Adventure, Free To Play
+Link: https://store.steampowered.com/app/2966910
+==================================================
+
