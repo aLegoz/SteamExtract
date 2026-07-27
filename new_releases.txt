@@ -50294,3 +50294,54 @@ Genres: Casual, Indie, RPG, Strategy
 Link: https://store.steampowered.com/app/4897770
 ==================================================
 
+
+--- Run: 2026-07-27 05:36:01 --- (6 new game(s) found)
+
+==================================================
+Name: Tiny Birdtopia
+Release Date: Jul 26, 2026
+Price: $5.39 (-40%, was $8.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/3839360
+==================================================
+
+==================================================
+Name: Cyber Village 2200
+Release Date: Jul 26, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/3941930
+==================================================
+
+==================================================
+Name: Desktop Overlays
+Release Date: Jul 26, 2026
+Price: $2.39 (-20%, was $2.99)
+Genres: Utilities, Web Publishing
+Link: https://store.steampowered.com/app/4849660
+==================================================
+
+==================================================
+Name: CUEQUENCE
+Release Date: Jul 26, 2026
+Price: $5.99
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4848480
+==================================================
+
+==================================================
+Name: GodWright
+Release Date: Jul 26, 2026
+Price: $3.74 (-25%, was $4.99)
+Genres: Casual, Simulation
+Link: https://store.steampowered.com/app/4884560
+==================================================
+
+==================================================
+Name: Clairval
+Release Date: Jul 26, 2026
+Price: $1.19 (-40%, was $1.99)
+Genres: Casual, Indie, Massively Multiplayer, Strategy
+Link: https://store.steampowered.com/app/4791400
+==================================================
+
