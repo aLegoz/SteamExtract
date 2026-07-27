@@ -50345,3 +50345,94 @@ Genres: Casual, Indie, Massively Multiplayer, Strategy
 Link: https://store.steampowered.com/app/4791400
 ==================================================
 
+
+--- Run: 2026-07-27 09:22:15 --- (11 new game(s) found)
+
+==================================================
+Name: Kinny and the Cosmic Cauldron
+Release Date: Jul 27, 2026
+Price: $9.74 (-25%, was $12.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/3330210
+==================================================
+
+==================================================
+Name: Royal Goldenbeak and the Curse of Snowy Island
+Release Date: Jul 27, 2026
+Price: $7.99
+Genres: Action, Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/3390770
+==================================================
+
+==================================================
+Name: Infinite Ruins
+Release Date: Jul 27, 2026
+Price: $5.39 (-10%, was $5.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4317900
+==================================================
+
+==================================================
+Name: I'm Just a Wall
+Release Date: Jul 27, 2026
+Price: $3.39 (-15%, was $3.99)
+Genres: Action, Casual, Indie, Massively Multiplayer
+Link: https://store.steampowered.com/app/4938440
+==================================================
+
+==================================================
+Name: 天天斗地主
+Release Date: Jul 27, 2026
+Price: Free to Play
+Genres: Casual, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4903450
+==================================================
+
+==================================================
+Name: Unsent
+Release Date: Jul 27, 2026
+Price: $0.99
+Genres: Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/4830090
+==================================================
+
+==================================================
+Name: The Political Simulator
+Release Date: Jul 27, 2026
+Price: $9.09 (-30%, was $12.99)
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4942350
+==================================================
+
+==================================================
+Name: Water Drop Brick Breaker
+Release Date: Jul 27, 2026
+Price: Free to Play
+Genres: Casual, Free To Play
+Link: https://store.steampowered.com/app/4467920
+==================================================
+
+==================================================
+Name: Slippery
+Release Date: Jul 27, 2026
+Price: Free to Play
+Genres: Adventure, Indie, Free To Play
+Link: https://store.steampowered.com/app/4890480
+==================================================
+
+==================================================
+Name: Block Wars: Falling Duel
+Release Date: Jul 26, 2026
+Price: Free to Play
+Genres: Casual, Indie, Massively Multiplayer, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4430500
+==================================================
+
+==================================================
+Name: Bounce Forever
+Release Date: Jul 26, 2026
+Price: $8.09 (-10%, was $8.99)
+Genres: Action, Casual, Simulation
+Link: https://store.steampowered.com/app/4424080
+==================================================
+
