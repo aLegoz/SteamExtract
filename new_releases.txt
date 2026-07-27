@@ -50883,3 +50883,14 @@ Genres: Casual, Indie, Simulation
 Link: https://store.steampowered.com/app/4080870
 ==================================================
 
+
+--- Run: 2026-07-27 22:04:04 --- (1 new game(s) found)
+
+==================================================
+Name: Mothiary
+Release Date: Jul 27, 2026
+Price: $4.79 (-20%, was $5.99)
+Genres: Casual, Simulation
+Link: https://store.steampowered.com/app/4187740
+==================================================
+
