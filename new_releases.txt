@@ -50789,3 +50789,38 @@ Genres: Indie, RPG, Strategy
 Link: https://store.steampowered.com/app/4785610
 ==================================================
 
+
+--- Run: 2026-07-27 19:06:55 --- (4 new game(s) found)
+
+==================================================
+Name: Viking Vending
+Release Date: Jul 27, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/4644050
+==================================================
+
+==================================================
+Name: Eyedle
+Release Date: Jul 27, 2026
+Price: $3.19 (-20%, was $3.99)
+Genres: Indie
+Link: https://store.steampowered.com/app/4912850
+==================================================
+
+==================================================
+Name: VectaGuard
+Release Date: Jul 27, 2026
+Price: $11.04 (-15%, was $12.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/2892200
+==================================================
+
+==================================================
+Name: Project Deep Nexus
+Release Date: Jul 27, 2026
+Price: Free to Play
+Genres: Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/4887740
+==================================================
+
