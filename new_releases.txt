@@ -50503,3 +50503,102 @@ Genres: Adventure, Indie, RPG, Strategy
 Link: https://store.steampowered.com/app/4030760
 ==================================================
 
+
+--- Run: 2026-07-27 15:34:30 --- (12 new game(s) found)
+
+==================================================
+Name: Road Diner Simulator: Prologue
+Release Date: Jul 27, 2026
+Price: Free to Play
+Genres: Casual, Indie, Simulation, Free To Play
+Link: https://store.steampowered.com/app/3199870
+==================================================
+
+==================================================
+Name: Skills & Raids
+Release Date: Jul 27, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: RPG
+Link: https://store.steampowered.com/app/4401370
+==================================================
+
+==================================================
+Name: Fire On Fight : Online Multiplayer Shooter
+Release Date: Jul 27, 2026
+Price: $10.49 (-30%, was $14.99)
+Genres: Action, Indie, Massively Multiplayer
+Link: https://store.steampowered.com/app/1092050
+==================================================
+
+==================================================
+Name: Null Root
+Release Date: Jul 27, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Action
+Link: https://store.steampowered.com/app/4512830
+==================================================
+
+==================================================
+Name: The Fall of Zorata
+Release Date: Jul 27, 2026
+Price: Free to Play
+Genres: Adventure, Indie, RPG, Free To Play
+Link: https://store.steampowered.com/app/4915810
+==================================================
+
+==================================================
+Name: Last Hope: Zombie Autobattler
+Release Date: Jul 27, 2026
+Price: $3.99
+Genres: Action, Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4882970
+==================================================
+
+==================================================
+Name: ExPEDite
+Release Date: Jul 27, 2026
+Price: Free to Play
+Genres: Free To Play, Education
+Link: https://store.steampowered.com/app/4857500
+==================================================
+
+==================================================
+Name: No Socks RPG
+Release Date: Jul 27, 2026
+Price: $9.99
+Genres: Adventure, Casual, RPG
+Link: https://store.steampowered.com/app/4929970
+==================================================
+
+==================================================
+Name: Capybara Pizza Cafe
+Release Date: Jul 27, 2026
+Price: $5.59 (-20%, was $6.99)
+Genres: Simulation
+Link: https://store.steampowered.com/app/4302450
+==================================================
+
+==================================================
+Name: Necromancer Idle: The Endless Drain
+Release Date: Jul 27, 2026
+Price: $3.99
+Genres: Casual, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/4936120
+==================================================
+
+==================================================
+Name: おかあさん
+Release Date: Jul 27, 2026
+Price: $0.79 (-20%, was $0.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4930640
+==================================================
+
+==================================================
+Name: Ragnarok: The New World
+Release Date: Jul 26, 2026
+Price: Free to Play
+Genres: Action, Adventure, Massively Multiplayer, RPG, Free To Play
+Link: https://store.steampowered.com/app/4212480
+==================================================
+
