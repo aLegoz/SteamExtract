@@ -50602,3 +50602,190 @@ Genres: Action, Adventure, Massively Multiplayer, RPG, Free To Play
 Link: https://store.steampowered.com/app/4212480
 ==================================================
 
+
+--- Run: 2026-07-27 17:27:23 --- (23 new game(s) found)
+
+==================================================
+Name: OFFICE KEEPER
+Release Date: Jul 27, 2026
+Price: $2.24 (-25%, was $2.99)
+Genres: Action, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4341450
+==================================================
+
+==================================================
+Name: StormBonk
+Release Date: Jul 27, 2026
+Price: $4.49 (-25%, was $5.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4233270
+==================================================
+
+==================================================
+Name: Ariokan - create your cards, break the Meta
+Release Date: Jul 27, 2026
+Price: $26.99 (-10%, was $29.99)
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/3833620
+==================================================
+
+==================================================
+Name: Kioskeria: Summer Breeze!
+Release Date: Jul 27, 2026
+Price: $8.79 (-20%, was $10.99)
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/3966540
+==================================================
+
+==================================================
+Name: Storytime Cats - A Day At The Park
+Release Date: Jul 27, 2026
+Price: $1.79 (-10%, was $1.99)
+Genres: Adventure, Casual
+Link: https://store.steampowered.com/app/4329240
+==================================================
+
+==================================================
+Name: Moon Crashers
+Release Date: Jul 27, 2026
+Price: $4.79 (-40%, was $7.99)
+Genres: Adventure, Casual
+Link: https://store.steampowered.com/app/4203270
+==================================================
+
+==================================================
+Name: Moon Miner
+Release Date: Jul 27, 2026
+Price: $3.59 (-40%, was $5.99)
+Genres: Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/4901910
+==================================================
+
+==================================================
+Name: Spheroll
+Release Date: Jul 27, 2026
+Price: $0.79 (-20%, was $0.99)
+Genres: Indie
+Link: https://store.steampowered.com/app/4575870
+==================================================
+
+==================================================
+Name: Tile Trials
+Release Date: Jul 27, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Strategy
+Link: https://store.steampowered.com/app/2901380
+==================================================
+
+==================================================
+Name: D.R.A.F.​T. VR
+Release Date: Jul 27, 2026
+Price: $13.49 (-10%, was $14.99)
+Genres: Utilities
+Link: https://store.steampowered.com/app/4641690
+==================================================
+
+==================================================
+Name: Alice's Night at the Mansion
+Release Date: Jul 27, 2026
+Price: $4.99
+Genres: Adventure
+Link: https://store.steampowered.com/app/4792980
+==================================================
+
+==================================================
+Name: Streetlight Syndicate
+Release Date: Jul 27, 2026
+Price: $5.59 (-20%, was $6.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4058190
+==================================================
+
+==================================================
+Name: Broken Reality 2000
+Release Date: Jul 27, 2026
+Price: $13.49 (-10%, was $14.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/2133850
+==================================================
+
+==================================================
+Name: Graphite
+Release Date: Jul 27, 2026
+Price: $7.19 (-20%, was $8.99)
+Genres: Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/3080560
+==================================================
+
+==================================================
+Name: Dwarf Delve
+Release Date: Jul 27, 2026
+Price: $10.39 (-20%, was $12.99)
+Genres: Action, Adventure, Casual, Indie, RPG
+Link: https://store.steampowered.com/app/2237320
+==================================================
+
+==================================================
+Name: Office Leveling
+Release Date: Jul 27, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4434520
+==================================================
+
+==================================================
+Name: Ducks in Disguise
+Release Date: Jul 27, 2026
+Price: $1.59 (-20%, was $1.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4492260
+==================================================
+
+==================================================
+Name: Plum Road Tea Dream
+Release Date: Jul 27, 2026
+Price: $8.49 (-15%, was $9.99)
+Genres: Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/3206340
+==================================================
+
+==================================================
+Name: Forsaken Realms: Vahrin's Call
+Release Date: Jul 27, 2026
+Price: $31.49 (-10%, was $34.99)
+Genres: Action, Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/951770
+==================================================
+
+==================================================
+Name: Endacopia
+Release Date: Jul 27, 2026
+Price: $14.85 (-10%, was $16.50)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/2684630
+==================================================
+
+==================================================
+Name: Orbital
+Release Date: Jul 27, 2026
+Price: $6.29 (-10%, was $6.99)
+Genres: Action, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/3891880
+==================================================
+
+==================================================
+Name: BEHIND THE WALLS
+Release Date: Jul 27, 2026
+Price: $4.00
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/4845430
+==================================================
+
+==================================================
+Name: Descent of Yomi
+Release Date: Jul 27, 2026
+Price: $4.99
+Genres: Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/4785610
+==================================================
+
