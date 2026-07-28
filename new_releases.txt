@@ -51516,3 +51516,38 @@ Genres: Indie, RPG
 Link: https://store.steampowered.com/app/2467200
 ==================================================
 
+
+--- Run: 2026-07-28 21:54:19 --- (4 new game(s) found)
+
+==================================================
+Name: Spellsy
+Release Date: Jul 28, 2026
+Price: $4.79 (-20%, was $5.99)
+Genres: Indie
+Link: https://store.steampowered.com/app/4171910
+==================================================
+
+==================================================
+Name: Open Interest
+Release Date: Jul 28, 2026
+Price: $4.19 (-40%, was $6.99)
+Genres: Adventure, Simulation
+Link: https://store.steampowered.com/app/4833670
+==================================================
+
+==================================================
+Name: My Beeloved: A Bee Dating Sim
+Release Date: Jul 28, 2026
+Price: $4.79 (-20%, was $5.99)
+Genres: Adventure, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/3083020
+==================================================
+
+==================================================
+Name: Nulla Via
+Release Date: Jul 28, 2026
+Price: $10.19 (-15%, was $11.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/4253240
+==================================================
+
