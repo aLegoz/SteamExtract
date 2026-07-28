@@ -51473,3 +51473,46 @@ Genres: Casual, Indie
 Link: https://store.steampowered.com/app/4916250
 ==================================================
 
+
+--- Run: 2026-07-28 20:55:53 --- (5 new game(s) found)
+
+==================================================
+Name: Proton & Electron
+Release Date: Jul 28, 2026
+Price: $7.19 (-10%, was $7.99)
+Genres: Action, Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/3334360
+==================================================
+
+==================================================
+Name: Island Beekeeper
+Release Date: Jul 28, 2026
+Price: $8.99 (-25%, was $11.99)
+Genres: Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/3968160
+==================================================
+
+==================================================
+Name: Snugfang
+Release Date: Jul 28, 2026
+Price: Free to Play
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4878610
+==================================================
+
+==================================================
+Name: Dog of Wisdom
+Release Date: Jul 28, 2026
+Price: $2.99 (-25%, was $3.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/4632530
+==================================================
+
+==================================================
+Name: Realms and Ruins: Abencor
+Release Date: Jul 28, 2026
+Price: $9.95 (-17%, was $11.99)
+Genres: Indie, RPG
+Link: https://store.steampowered.com/app/2467200
+==================================================
+
