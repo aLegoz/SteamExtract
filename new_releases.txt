@@ -51160,3 +51160,46 @@ Genres: Action, Casual, Indie
 Link: https://store.steampowered.com/app/4458930
 ==================================================
 
+
+--- Run: 2026-07-28 15:09:08 --- (5 new game(s) found)
+
+==================================================
+Name: Sir, We Have an Orc Problem
+Release Date: Jul 28, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4594150
+==================================================
+
+==================================================
+Name: Quack or Die
+Release Date: Jul 28, 2026
+Price: $5.99
+Genres: Action, Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4899720
+==================================================
+
+==================================================
+Name: Nib
+Release Date: Jul 28, 2026
+Price: $2.39 (-20%, was $2.99)
+Genres: Utilities
+Link: https://store.steampowered.com/app/4942140
+==================================================
+
+==================================================
+Name: frozen desire
+Release Date: Jul 28, 2026
+Price: $1.99
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4938760
+==================================================
+
+==================================================
+Name: Augmented Fear
+Release Date: Jul 28, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/3122790
+==================================================
+
