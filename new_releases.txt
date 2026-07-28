@@ -51042,3 +51042,54 @@ Genres: Adventure, Indie
 Link: https://store.steampowered.com/app/4834880
 ==================================================
 
+
+--- Run: 2026-07-28 10:19:51 --- (6 new game(s) found)
+
+==================================================
+Name: The Kuon Island Nursery Rhyme Murders: Case Notes
+Release Date: Jul 28, 2026
+Price: $7.19 (-10%, was $7.99)
+Genres: Indie
+Link: https://store.steampowered.com/app/4729160
+==================================================
+
+==================================================
+Name: Pantheon: Yaratılış Alevi
+Release Date: Jul 28, 2026
+Price: Free to Play
+Genres: Adventure, RPG, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4621650
+==================================================
+
+==================================================
+Name: Echoes Of Formation
+Release Date: Jul 28, 2026
+Price: $6.99
+Genres: Casual, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/4725090
+==================================================
+
+==================================================
+Name: E-Shop Tycoon
+Release Date: Jul 28, 2026
+Price: $9.09 (-35%, was $13.99)
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4249850
+==================================================
+
+==================================================
+Name: Paironix
+Release Date: Jul 27, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4826690
+==================================================
+
+==================================================
+Name: Chronicles of Ella: Whispers of Mythrillis
+Release Date: Jul 27, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/3897000
+==================================================
+
