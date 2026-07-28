@@ -50937,3 +50937,14 @@ Genres: Adventure, Indie, Strategy
 Link: https://store.steampowered.com/app/4908340
 ==================================================
 
+
+--- Run: 2026-07-28 01:18:51 --- (1 new game(s) found)
+
+==================================================
+Name: Zen World
+Release Date: Jul 27, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/1485650
+==================================================
+
