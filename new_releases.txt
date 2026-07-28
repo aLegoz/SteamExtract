@@ -50948,3 +50948,62 @@ Genres: Casual, Indie, Strategy
 Link: https://store.steampowered.com/app/1485650
 ==================================================
 
+
+--- Run: 2026-07-28 04:51:08 --- (7 new game(s) found)
+
+==================================================
+Name: Saved by the Coupon
+Release Date: Jul 27, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4154440
+==================================================
+
+==================================================
+Name: 主公請躺好
+Release Date: Jul 27, 2026
+Price: Free to Play
+Genres: Casual, RPG, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4639770
+==================================================
+
+==================================================
+Name: Secret Dice
+Release Date: Jul 27, 2026
+Price: $4.99
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4667910
+==================================================
+
+==================================================
+Name: Hamster, Eat, Run
+Release Date: Jul 27, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4259520
+==================================================
+
+==================================================
+Name: Slot & Dungeons
+Release Date: Jul 27, 2026
+Price: $6.29 (-30%, was $8.99)
+Genres: Casual, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/3160090
+==================================================
+
+==================================================
+Name: Dungeon Tactics: Idle, Incremental, Autobattler
+Release Date: Jul 27, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Indie
+Link: https://store.steampowered.com/app/4194860
+==================================================
+
+==================================================
+Name: Academy of Samsara
+Release Date: Jul 27, 2026
+Price: $12.99
+Genres: Indie, RPG
+Link: https://store.steampowered.com/app/4429960
+==================================================
+
