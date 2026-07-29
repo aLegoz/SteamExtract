@@ -51562,3 +51562,46 @@ Genres: Action, Indie, RPG
 Link: https://store.steampowered.com/app/4547440
 ==================================================
 
+
+--- Run: 2026-07-29 04:56:07 --- (5 new game(s) found)
+
+==================================================
+Name: Lunarium
+Release Date: Jul 28, 2026
+Price: $16.19 (-10%, was $17.99)
+Genres: Action, Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/2939790
+==================================================
+
+==================================================
+Name: Last Spaceship
+Release Date: Jul 28, 2026
+Price: $7.64 (-15%, was $8.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/3920780
+==================================================
+
+==================================================
+Name: Fast Forward
+Release Date: Jul 28, 2026
+Price: $3.74 (-25%, was $4.99)
+Genres: Action, Casual, Indie, Racing
+Link: https://store.steampowered.com/app/2338670
+==================================================
+
+==================================================
+Name: Florida Man Court
+Release Date: Jul 28, 2026
+Price: $4.79 (-40%, was $7.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4857340
+==================================================
+
+==================================================
+Name: Spectrum Defense
+Release Date: Jul 28, 2026
+Price: Free to Play
+Genres: Indie, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4808240
+==================================================
+
