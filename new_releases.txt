@@ -52125,3 +52125,22 @@ Genres: Adventure, Casual, Indie, Simulation, Strategy
 Link: https://store.steampowered.com/app/4751750
 ==================================================
 
+
+--- Run: 2026-07-29 22:45:07 --- (2 new game(s) found)
+
+==================================================
+Name: Sophical
+Release Date: Jul 29, 2026
+Price: $4.99
+Genres: Adventure
+Link: https://store.steampowered.com/app/4950070
+==================================================
+
+==================================================
+Name: Room 0
+Release Date: Jul 29, 2026
+Price: Free to Play
+Genres: Action, Adventure, Indie, Free To Play
+Link: https://store.steampowered.com/app/4877260
+==================================================
+
