@@ -52144,3 +52144,38 @@ Genres: Action, Adventure, Indie, Free To Play
 Link: https://store.steampowered.com/app/4877260
 ==================================================
 
+
+--- Run: 2026-07-29 23:50:53 --- (4 new game(s) found)
+
+==================================================
+Name: SEX Dreams at the Motel
+Release Date: Jul 29, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Simulation
+Link: https://store.steampowered.com/app/4939160
+==================================================
+
+==================================================
+Name: Senseless Cooking
+Release Date: Jul 29, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4900420
+==================================================
+
+==================================================
+Name: Batya in the Building: 10 Years Later
+Release Date: Jul 29, 2026
+Price: $1.69 (-15%, was $1.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/2836670
+==================================================
+
+==================================================
+Name: Wimple and Habit
+Release Date: Jul 29, 2026
+Price: $6.79 (-15%, was $7.99)
+Genres: Adventure, Casual
+Link: https://store.steampowered.com/app/4846570
+==================================================
+
