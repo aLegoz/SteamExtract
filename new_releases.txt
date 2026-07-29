@@ -51825,3 +51825,110 @@ Genres: Indie, Simulation, Strategy
 Link: https://store.steampowered.com/app/4803740
 ==================================================
 
+
+--- Run: 2026-07-29 17:01:33 --- (13 new game(s) found)
+
+==================================================
+Name: Grid Grind
+Release Date: Jul 29, 2026
+Price: $3.74 (-25%, was $4.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4430440
+==================================================
+
+==================================================
+Name: Joy Malignant
+Release Date: Jul 29, 2026
+Price: $7.64 (-15%, was $8.99)
+Genres: Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/4608380
+==================================================
+
+==================================================
+Name: Village in the Shade
+Release Date: Jul 29, 2026
+Price: $49.99
+Genres: Adventure, Simulation
+Link: https://store.steampowered.com/app/3934250
+==================================================
+
+==================================================
+Name: The Prince of Tennis Doki Doki Survival ~eternal passion! Tie break ♡ game~
+Release Date: Jul 29, 2026
+Price: $49.99
+Genres: Adventure
+Link: https://store.steampowered.com/app/3907380
+==================================================
+
+==================================================
+Name: Culdcept The First
+Release Date: Jul 29, 2026
+Price: $26.99 (-10%, was $29.99)
+Genres: Strategy
+Link: https://store.steampowered.com/app/3825600
+==================================================
+
+==================================================
+Name: The Prince of Tennis Sweet School Festival ~♡-40 and more...~
+Release Date: Jul 29, 2026
+Price: $49.99
+Genres: Adventure
+Link: https://store.steampowered.com/app/3907350
+==================================================
+
+==================================================
+Name: Market Chain 98
+Release Date: Jul 29, 2026
+Price: $5.94 (-15%, was $6.99)
+Genres: Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4754740
+==================================================
+
+==================================================
+Name: Archon Soul
+Release Date: Jul 29, 2026
+Price: $9.79 (-30%, was $13.99)
+Genres: Strategy
+Link: https://store.steampowered.com/app/4252700
+==================================================
+
+==================================================
+Name: P vs NP: Proof by Combat
+Release Date: Jul 29, 2026
+Price: $4.99
+Genres: Casual
+Link: https://store.steampowered.com/app/4761900
+==================================================
+
+==================================================
+Name: Fishbait
+Release Date: Jul 29, 2026
+Price: Free to Play
+Genres: Casual, Strategy, Free To Play
+Link: https://store.steampowered.com/app/2001860
+==================================================
+
+==================================================
+Name: EXSTETRA
+Release Date: Jul 29, 2026
+Price: $19.99 (-20%, was $24.99)
+Genres: RPG
+Link: https://store.steampowered.com/app/4251710
+==================================================
+
+==================================================
+Name: 《比特尔特岛：与她们共度的日常》
+Release Date: Jul 29, 2026
+Price: $3.19 (-20%, was $3.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4304520
+==================================================
+
+==================================================
+Name: Vquarium
+Release Date: Jul 29, 2026
+Price: $5.39 (-10%, was $5.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4042840
+==================================================
+
