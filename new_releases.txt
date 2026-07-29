@@ -51551,3 +51551,14 @@ Genres: Action, Adventure, Indie
 Link: https://store.steampowered.com/app/4253240
 ==================================================
 
+
+--- Run: 2026-07-29 01:20:31 --- (1 new game(s) found)
+
+==================================================
+Name: A Knight of Lothen
+Release Date: Jul 28, 2026
+Price: $6.79 (-15%, was $7.99)
+Genres: Action, Indie, RPG
+Link: https://store.steampowered.com/app/4547440
+==================================================
+
