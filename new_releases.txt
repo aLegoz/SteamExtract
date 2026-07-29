@@ -51605,3 +51605,38 @@ Genres: Indie, Strategy, Free To Play
 Link: https://store.steampowered.com/app/4808240
 ==================================================
 
+
+--- Run: 2026-07-29 07:37:08 --- (4 new game(s) found)
+
+==================================================
+Name: Let's Farm Together
+Release Date: Jul 29, 2026
+Price: $0.59 (-40%, was $0.99)
+Genres: Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/4945600
+==================================================
+
+==================================================
+Name: Nibble Quest
+Release Date: Jul 28, 2026
+Price: $4.99
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4941330
+==================================================
+
+==================================================
+Name: IDLE_DIRECTIVE
+Release Date: Jul 28, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4599710
+==================================================
+
+==================================================
+Name: Fill the Fridge!
+Release Date: Jul 28, 2026
+Price: $9.99
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4388560
+==================================================
+
