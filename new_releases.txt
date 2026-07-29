@@ -51707,3 +51707,38 @@ Genres: Adventure, Casual, Indie, Simulation
 Link: https://store.steampowered.com/app/4872330
 ==================================================
 
+
+--- Run: 2026-07-29 12:53:18 --- (4 new game(s) found)
+
+==================================================
+Name: Cue Room
+Release Date: Jul 29, 2026
+Price: $0.97 (-35%, was $1.50)
+Genres: Casual, Indie, Simulation, Sports
+Link: https://store.steampowered.com/app/4400270
+==================================================
+
+==================================================
+Name: Retail Rivals
+Release Date: Jul 29, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4617230
+==================================================
+
+==================================================
+Name: PhiloDeka
+Release Date: Jul 29, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/3248110
+==================================================
+
+==================================================
+Name: Minimalist Circuit
+Release Date: Jul 29, 2026
+Price: $0.59 (-40%, was $0.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4643910
+==================================================
+
