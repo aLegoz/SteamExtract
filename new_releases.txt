@@ -52039,3 +52039,14 @@ Genres: Action, Indie
 Link: https://store.steampowered.com/app/2210220
 ==================================================
 
+
+--- Run: 2026-07-29 20:05:55 --- (1 new game(s) found)
+
+==================================================
+Name: MUTEIGHT
+Release Date: Jul 29, 2026
+Price: $2.54 (-15%, was $2.99)
+Genres: Action, Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/4446400
+==================================================
+
