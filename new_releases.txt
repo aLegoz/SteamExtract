@@ -51640,3 +51640,70 @@ Genres: Casual, Indie, Strategy
 Link: https://store.steampowered.com/app/4388560
 ==================================================
 
+
+--- Run: 2026-07-29 10:25:31 --- (8 new game(s) found)
+
+==================================================
+Name: Miriam's Potion Journal
+Release Date: Jul 29, 2026
+Price: $7.19 (-20%, was $8.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4711170
+==================================================
+
+==================================================
+Name: DEBRISVERSE
+Release Date: Jul 29, 2026
+Price: $3.59 (-10%, was $3.99)
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4433730
+==================================================
+
+==================================================
+Name: SnekromancY
+Release Date: Jul 29, 2026
+Price: $4.97 (-17%, was $5.99)
+Genres: Action, Indie, Strategy
+Link: https://store.steampowered.com/app/4314770
+==================================================
+
+==================================================
+Name: Ugoku Sushi Bar
+Release Date: Jul 29, 2026
+Price: $9.74 (-25%, was $12.99)
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/3938640
+==================================================
+
+==================================================
+Name: DarkMytholoqy:Lucy
+Release Date: Jul 29, 2026
+Price: $2.09 (-30%, was $2.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4832500
+==================================================
+
+==================================================
+Name: Mega Minesweeper
+Release Date: Jul 29, 2026
+Price: $3.49 (-30%, was $4.99)
+Genres: Casual, Strategy
+Link: https://store.steampowered.com/app/4906540
+==================================================
+
+==================================================
+Name: WALLOP
+Release Date: Jul 28, 2026
+Price: $5.00
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4910280
+==================================================
+
+==================================================
+Name: Hotel The Memory
+Release Date: Jul 28, 2026
+Price: $3.19 (-20%, was $3.99)
+Genres: Adventure, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4872330
+==================================================
+
