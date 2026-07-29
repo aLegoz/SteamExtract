@@ -51742,3 +51742,86 @@ Genres: Casual, Indie
 Link: https://store.steampowered.com/app/4643910
 ==================================================
 
+
+--- Run: 2026-07-29 15:02:36 --- (10 new game(s) found)
+
+==================================================
+Name: Monslice
+Release Date: Jul 29, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4146260
+==================================================
+
+==================================================
+Name: Osta
+Release Date: Jul 29, 2026
+Price: $13.99
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/3997240
+==================================================
+
+==================================================
+Name: Devils Due
+Release Date: Jul 29, 2026
+Price: Free to Play
+Genres: Indie, Simulation, Strategy, Free To Play
+Link: https://store.steampowered.com/app/3907520
+==================================================
+
+==================================================
+Name: Case Solved: The London Files
+Release Date: Jul 29, 2026
+Price: $8.49 (-15%, was $9.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4127360
+==================================================
+
+==================================================
+Name: Interactive Gun Range
+Release Date: Jul 29, 2026
+Price: Free to Play
+Genres: Simulation, Free To Play
+Link: https://store.steampowered.com/app/2398210
+==================================================
+
+==================================================
+Name: Slimelon
+Release Date: Jul 29, 2026
+Price: $3.39 (-15%, was $3.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/2945410
+==================================================
+
+==================================================
+Name: Desire On Tap
+Release Date: Jul 29, 2026
+Price: $9.99
+Genres: Casual, Simulation
+Link: https://store.steampowered.com/app/4860990
+==================================================
+
+==================================================
+Name: Below, Rusted Gods
+Release Date: Jul 29, 2026
+Price: $7.19 (-10%, was $7.99)
+Genres: Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/2895680
+==================================================
+
+==================================================
+Name: Truck-kun is Supporting Me from Another World?!
+Release Date: Jul 29, 2026
+Price: $15.99 (-20%, was $19.99)
+Genres: Indie, Racing
+Link: https://store.steampowered.com/app/3642010
+==================================================
+
+==================================================
+Name: Hansa Forever
+Release Date: Jul 29, 2026
+Price: $2.00
+Genres: Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4803740
+==================================================
+
