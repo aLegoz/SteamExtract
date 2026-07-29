@@ -51932,3 +51932,110 @@ Genres: Casual, Indie, Simulation
 Link: https://store.steampowered.com/app/4042840
 ==================================================
 
+
+--- Run: 2026-07-29 18:50:12 --- (13 new game(s) found)
+
+==================================================
+Name: Solitaire Deck
+Release Date: Jul 29, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/4136730
+==================================================
+
+==================================================
+Name: Mischief Moves In
+Release Date: Jul 29, 2026
+Price: $16.99 (-15%, was $19.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/3982520
+==================================================
+
+==================================================
+Name: Keyboard Warrior
+Release Date: Jul 29, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4344210
+==================================================
+
+==================================================
+Name: Wizard Tournament
+Release Date: Jul 29, 2026
+Price: $6.29 (-30%, was $8.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4917740
+==================================================
+
+==================================================
+Name: Scuttle
+Release Date: Jul 29, 2026
+Price: $6.29 (-10%, was $6.99)
+Genres: Action
+Link: https://store.steampowered.com/app/2766810
+==================================================
+
+==================================================
+Name: Hydra Heli 2
+Release Date: Jul 29, 2026
+Price: $6.29 (-10%, was $6.99)
+Genres: Action, Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4241690
+==================================================
+
+==================================================
+Name: Crescent Creek: Survival Horror
+Release Date: Jul 29, 2026
+Price: $9.99
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4581040
+==================================================
+
+==================================================
+Name: Bills Must Be Paid
+Release Date: Jul 29, 2026
+Price: $4.89 (-30%, was $6.99)
+Genres: Action, Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4421010
+==================================================
+
+==================================================
+Name: Company of Heroes 3: Final Stand
+Release Date: Jul 29, 2026
+Price: $26.99 (-10%, was $29.99)
+Genres: Action, Strategy
+Link: https://store.steampowered.com/app/4836540
+==================================================
+
+==================================================
+Name: Clicker Complex: Vira’s Private Stream
+Release Date: Jul 29, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4516310
+==================================================
+
+==================================================
+Name: Dante's RUMBA
+Release Date: Jul 29, 2026
+Price: $5.39 (-10%, was $5.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/3634020
+==================================================
+
+==================================================
+Name: Tank Tower Defense  坦克塔防
+Release Date: Jul 29, 2026
+Price: $3.99
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4847750
+==================================================
+
+==================================================
+Name: Outfield
+Release Date: Jul 29, 2026
+Price: $5.40 (-10%, was $6.00)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/2210220
+==================================================
+
