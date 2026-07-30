@@ -52281,3 +52281,70 @@ Genres: Indie
 Link: https://store.steampowered.com/app/4905390
 ==================================================
 
+
+--- Run: 2026-07-30 07:25:06 --- (8 new game(s) found)
+
+==================================================
+Name: Bob Run
+Release Date: Jul 29, 2026
+Price: $2.54 (-15%, was $2.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4383980
+==================================================
+
+==================================================
+Name: CipherMind
+Release Date: Jul 29, 2026
+Price: $7.99
+Genres: Adventure, Casual
+Link: https://store.steampowered.com/app/3733860
+==================================================
+
+==================================================
+Name: Town Master
+Release Date: Jul 29, 2026
+Price: Free to Play
+Genres: Casual, Indie, Simulation, Free To Play
+Link: https://store.steampowered.com/app/4848440
+==================================================
+
+==================================================
+Name: Hyper Warfare
+Release Date: Jul 29, 2026
+Price: Free to Play
+Genres: Action, Free To Play
+Link: https://store.steampowered.com/app/4683090
+==================================================
+
+==================================================
+Name: Water Margin Online
+Release Date: Jul 29, 2026
+Price: Free to Play
+Genres: Massively Multiplayer, RPG, Free To Play
+Link: https://store.steampowered.com/app/4808310
+==================================================
+
+==================================================
+Name: Seventh Mansion: The First Escape
+Release Date: Jul 29, 2026
+Price: $2.39 (-20%, was $2.99)
+Genres: Adventure
+Link: https://store.steampowered.com/app/4624310
+==================================================
+
+==================================================
+Name: ソドミーファタール
+Release Date: Jul 29, 2026
+Price: $6.99
+Genres: Simulation
+Link: https://store.steampowered.com/app/4541650
+==================================================
+
+==================================================
+Name: Gritrunner
+Release Date: Jul 29, 2026
+Price: $6.79 (-15%, was $7.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4710670
+==================================================
+
