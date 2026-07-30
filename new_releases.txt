@@ -52902,3 +52902,46 @@ Genres: Action, Adventure, Indie, RPG
 Link: https://store.steampowered.com/app/4851650
 ==================================================
 
+
+--- Run: 2026-07-30 21:56:06 --- (5 new game(s) found)
+
+==================================================
+Name: Agent Sherine: Dancing Fox
+Release Date: Jul 30, 2026
+Price: $13.59 (-20%, was $16.99)
+Genres: Adventure
+Link: https://store.steampowered.com/app/3910920
+==================================================
+
+==================================================
+Name: Welcome to the Sharehouse! ~ domestic life with three cute girls~
+Release Date: Jul 30, 2026
+Price: $13.49 (-10%, was $14.99)
+Genres: Adventure, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/3496340
+==================================================
+
+==================================================
+Name: Random Dragons
+Release Date: Jul 30, 2026
+Price: $6.29 (-10%, was $6.99)
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/4362510
+==================================================
+
+==================================================
+Name: Terminal Warfare
+Release Date: Jul 30, 2026
+Price: $9.34 (-15%, was $10.99)
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/4812060
+==================================================
+
+==================================================
+Name: Boli
+Release Date: Jul 30, 2026
+Price: $3.59 (-10%, was $3.99)
+Genres: RPG
+Link: https://store.steampowered.com/app/4104700
+==================================================
+
