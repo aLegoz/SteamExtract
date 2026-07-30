@@ -52450,3 +52450,126 @@ Genres: Casual, Indie
 Link: https://store.steampowered.com/app/4313730
 ==================================================
 
+
+--- Run: 2026-07-30 14:59:20 --- (15 new game(s) found)
+
+==================================================
+Name: Hex Core
+Release Date: Jul 30, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Action, Casual, Simulation, Strategy
+Link: https://store.steampowered.com/app/4478560
+==================================================
+
+==================================================
+Name: Swing Rush
+Release Date: Jul 30, 2026
+Price: Free to Play
+Genres: Indie, Racing, Simulation, Sports, Free To Play
+Link: https://store.steampowered.com/app/4871650
+==================================================
+
+==================================================
+Name: Mycubium
+Release Date: Jul 30, 2026
+Price: $8.49 (-15%, was $9.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/3859270
+==================================================
+
+==================================================
+Name: Hardware Simulator - Prologue
+Release Date: Jul 30, 2026
+Price: Free to Play
+Genres: Indie, Simulation, Free To Play
+Link: https://store.steampowered.com/app/4865160
+==================================================
+
+==================================================
+Name: Mimicry!
+Release Date: Jul 30, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4137450
+==================================================
+
+==================================================
+Name: Forgotten Playland: Party Edition
+Release Date: Jul 30, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/3840260
+==================================================
+
+==================================================
+Name: Rita
+Release Date: Jul 30, 2026
+Price: $13.49 (-10%, was $14.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/2984850
+==================================================
+
+==================================================
+Name: SENARA: The Sacrament
+Release Date: Jul 30, 2026
+Price: $17.99
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/3915120
+==================================================
+
+==================================================
+Name: Greedy Spin: Reel Roguelike
+Release Date: Jul 30, 2026
+Price: $6.39 (-20%, was $7.99)
+Genres: Strategy
+Link: https://store.steampowered.com/app/4529660
+==================================================
+
+==================================================
+Name: Truxton Extreme
+Release Date: Jul 30, 2026
+Price: $24.99
+Genres: Action
+Link: https://store.steampowered.com/app/3323490
+==================================================
+
+==================================================
+Name: Senatus
+Release Date: Jul 30, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/4094470
+==================================================
+
+==================================================
+Name: Luck of the Draw
+Release Date: Jul 30, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Strategy
+Link: https://store.steampowered.com/app/4802350
+==================================================
+
+==================================================
+Name: Cyberpunk Brothel 🤖
+Release Date: Jul 30, 2026
+Price: $4.97 (-17%, was $5.99)
+Genres: Action, Adventure, Casual, Simulation
+Link: https://store.steampowered.com/app/4771970
+==================================================
+
+==================================================
+Name: SURVEILLANCE DUTY: Twisted Sight
+Release Date: Jul 30, 2026
+Price: $6.39 (-20%, was $7.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/3771770
+==================================================
+
+==================================================
+Name: Noun Town: Learn & Chill
+Release Date: Jul 30, 2026
+Price: $2.99 (-40%, was $4.99)
+Genres: Adventure, Casual, Simulation
+Link: https://store.steampowered.com/app/4809790
+==================================================
+
