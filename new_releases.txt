@@ -52996,3 +52996,30 @@ Genres: Indie, Simulation
 Link: https://store.steampowered.com/app/4951010
 ==================================================
 
+
+--- Run: 2026-07-30 23:51:27 --- (3 new game(s) found)
+
+==================================================
+Name: The Relic: First Guardian
+Release Date: Jul 30, 2026
+Price: $49.99
+Genres: Action, Adventure, RPG
+Link: https://store.steampowered.com/app/2827820
+==================================================
+
+==================================================
+Name: Card Homestead
+Release Date: Jul 30, 2026
+Price: $6.29 (-10%, was $6.99)
+Genres: Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4358460
+==================================================
+
+==================================================
+Name: Defense Of Fort Burton
+Release Date: Jul 30, 2026
+Price: $4.99
+Genres: Action, Indie, RPG
+Link: https://store.steampowered.com/app/3183790
+==================================================
+
