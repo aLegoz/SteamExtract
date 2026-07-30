@@ -52190,3 +52190,94 @@ Genres: Casual, Indie
 Link: https://store.steampowered.com/app/4087770
 ==================================================
 
+
+--- Run: 2026-07-30 04:44:22 --- (11 new game(s) found)
+
+==================================================
+Name: My Dating Empire
+Release Date: Jul 29, 2026
+Price: $11.04 (-15%, was $12.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4320160
+==================================================
+
+==================================================
+Name: CREATION OF THE GODS: Rebellion at Five Passes
+Release Date: Jul 29, 2026
+Price: $12.74 (-15%, was $14.99)
+Genres: Adventure, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/3908250
+==================================================
+
+==================================================
+Name: Dramatic Road : the origin of wind
+Release Date: Jul 29, 2026
+Price: $11.19 (-20%, was $13.99)
+Genres: Indie, RPG, Simulation, Strategy
+Link: https://store.steampowered.com/app/2309730
+==================================================
+
+==================================================
+Name: Edge of Destruction
+Release Date: Jul 29, 2026
+Price: $3.74 (-25%, was $4.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/4090720
+==================================================
+
+==================================================
+Name: The 109th Hero
+Release Date: Jul 29, 2026
+Price: $6.79 (-15%, was $7.99)
+Genres: Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/3914030
+==================================================
+
+==================================================
+Name: Star Dice
+Release Date: Jul 29, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/4018280
+==================================================
+
+==================================================
+Name: Lily Fantasia
+Release Date: Jul 29, 2026
+Price: $13.49 (-10%, was $14.99)
+Genres: Indie, RPG
+Link: https://store.steampowered.com/app/2527300
+==================================================
+
+==================================================
+Name: Crazy Coin Poker
+Release Date: Jul 29, 2026
+Price: $3.19 (-20%, was $3.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4176570
+==================================================
+
+==================================================
+Name: Hachishakusama | 八尺様がいた夏休み
+Release Date: Jul 29, 2026
+Price: $5.95 (-20%, was $7.44)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4689420
+==================================================
+
+==================================================
+Name: Echoes of Egypt
+Release Date: Jul 29, 2026
+Price: $4.99
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/2972370
+==================================================
+
+==================================================
+Name: RavenVeil
+Release Date: Jul 29, 2026
+Price: $5.99
+Genres: Indie
+Link: https://store.steampowered.com/app/4905390
+==================================================
+
