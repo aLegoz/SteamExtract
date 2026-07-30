@@ -52407,3 +52407,46 @@ Genres: Casual, Indie
 Link: https://store.steampowered.com/app/4402810
 ==================================================
 
+
+--- Run: 2026-07-30 12:20:46 --- (5 new game(s) found)
+
+==================================================
+Name: Ludus: A Gladiator Story
+Release Date: Jul 30, 2026
+Price: $8.09 (-10%, was $8.99)
+Genres: Adventure, Indie, RPG, Simulation
+Link: https://store.steampowered.com/app/4893350
+==================================================
+
+==================================================
+Name: Diggy Diggy Mole
+Release Date: Jul 30, 2026
+Price: $9.73
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/4861150
+==================================================
+
+==================================================
+Name: Elementis TD
+Release Date: Jul 30, 2026
+Price: $5.59 (-20%, was $6.99)
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/4916440
+==================================================
+
+==================================================
+Name: UnDo
+Release Date: Jul 30, 2026
+Price: Free to Play
+Genres: Adventure, Indie, Free To Play
+Link: https://store.steampowered.com/app/4542700
+==================================================
+
+==================================================
+Name: Fishful Days
+Release Date: Jul 30, 2026
+Price: $3.59 (-10%, was $3.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4313730
+==================================================
+
