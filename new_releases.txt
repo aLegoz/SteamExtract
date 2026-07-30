@@ -52945,3 +52945,54 @@ Genres: RPG
 Link: https://store.steampowered.com/app/4104700
 ==================================================
 
+
+--- Run: 2026-07-30 22:55:34 --- (6 new game(s) found)
+
+==================================================
+Name: Blackwood Lodge: The Siblings
+Release Date: Jul 30, 2026
+Price: $5.99
+Genres: Indie, RPG
+Link: https://store.steampowered.com/app/4745440
+==================================================
+
+==================================================
+Name: What's Heaven For?
+Release Date: Jul 30, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4747440
+==================================================
+
+==================================================
+Name: Natalie & Soldiers
+Release Date: Jul 30, 2026
+Price: $7.64 (-15%, was $8.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/3978260
+==================================================
+
+==================================================
+Name: Goodnight, Sun
+Release Date: Jul 30, 2026
+Price: $5.09 (-15%, was $5.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4845480
+==================================================
+
+==================================================
+Name: TREASURE ISLAND: The Crimson Legacy
+Release Date: Jul 30, 2026
+Price: $5.19 (-35%, was $7.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4931920
+==================================================
+
+==================================================
+Name: How to Summon a Dommy Mommy Sleep Paralysis Demon
+Release Date: Jul 30, 2026
+Price: $2.99 (-40%, was $4.99)
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/4951010
+==================================================
+
