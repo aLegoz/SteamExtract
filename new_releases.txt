@@ -52688,3 +52688,190 @@ Genres: Action, Indie
 Link: https://store.steampowered.com/app/3632670
 ==================================================
 
+
+--- Run: 2026-07-30 18:08:18 --- (23 new game(s) found)
+
+==================================================
+Name: 落境：未知记忆
+Release Date: Jul 30, 2026
+Price: $1.99
+Genres: Casual
+Link: https://store.steampowered.com/app/4840890
+==================================================
+
+==================================================
+Name: Legacy of Sail
+Release Date: Jul 30, 2026
+Price: $10.79 (-10%, was $11.99)
+Genres: Simulation, Strategy
+Link: https://store.steampowered.com/app/4420440
+==================================================
+
+==================================================
+Name: PlanetMars3D: Spirit Mission
+Release Date: Jul 30, 2026
+Price: $3.39 (-15%, was $3.99)
+Genres: Adventure, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4638300
+==================================================
+
+==================================================
+Name: Typomagical
+Release Date: Jul 30, 2026
+Price: $8.49 (-15%, was $9.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/3816290
+==================================================
+
+==================================================
+Name: WARSHIFT 2
+Release Date: Jul 30, 2026
+Price: $14.99 (-25%, was $19.99)
+Genres: Action, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/3522360
+==================================================
+
+==================================================
+Name: Zentris
+Release Date: Jul 30, 2026
+Price: $5.00
+Genres: Casual
+Link: https://store.steampowered.com/app/4653950
+==================================================
+
+==================================================
+Name: Laptop Architect
+Release Date: Jul 30, 2026
+Price: $7.19 (-20%, was $8.99)
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/4621900
+==================================================
+
+==================================================
+Name: Zoominoes
+Release Date: Jul 30, 2026
+Price: $12.74 (-15%, was $14.99)
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/3282420
+==================================================
+
+==================================================
+Name: Sponge Break
+Release Date: Jul 30, 2026
+Price: $7.99
+Genres: Action, Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/2657560
+==================================================
+
+==================================================
+Name: Hentai Maid Shira
+Release Date: Jul 30, 2026
+Price: Free to Play
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4856330
+==================================================
+
+==================================================
+Name: KlikBee
+Release Date: Jul 30, 2026
+Price: $3.19 (-20%, was $3.99)
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4523270
+==================================================
+
+==================================================
+Name: WATERPUNK
+Release Date: Jul 30, 2026
+Price: $7.64 (-15%, was $8.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/3859430
+==================================================
+
+==================================================
+Name: Para-Dox
+Release Date: Jul 30, 2026
+Price: $4.99
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4772480
+==================================================
+
+==================================================
+Name: Skyformer
+Release Date: Jul 30, 2026
+Price: $9.74 (-35%, was $14.99)
+Genres: Adventure, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/2305210
+==================================================
+
+==================================================
+Name: Don't Go Duck
+Release Date: Jul 30, 2026
+Price: Free to Play
+Genres: Adventure, Casual, Free To Play
+Link: https://store.steampowered.com/app/4931390
+==================================================
+
+==================================================
+Name: Line Tower Wars
+Release Date: Jul 30, 2026
+Price: Free to Play
+Genres: Strategy, Free To Play
+Link: https://store.steampowered.com/app/4954340
+==================================================
+
+==================================================
+Name: Boreal Tenebrae Act 0: Sundowning
+Release Date: Jul 30, 2026
+Price: $5.99
+Genres: Adventure
+Link: https://store.steampowered.com/app/4222910
+==================================================
+
+==================================================
+Name: MineGeon: Renegades
+Release Date: Jul 30, 2026
+Price: $16.99 (-15%, was $19.99)
+Genres: Action, Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/3227240
+==================================================
+
+==================================================
+Name: ULTIDARK
+Release Date: Jul 30, 2026
+Price: Free to Play
+Genres: Adventure, Indie, Free To Play
+Link: https://store.steampowered.com/app/4826380
+==================================================
+
+==================================================
+Name: Vision Quest: A New Ascent
+Release Date: Jul 30, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/4142020
+==================================================
+
+==================================================
+Name: Leafy Corner
+Release Date: Jul 30, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/3558600
+==================================================
+
+==================================================
+Name: Bobble and the Tri-Crystal
+Release Date: Jul 30, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4077920
+==================================================
+
+==================================================
+Name: Sheva
+Release Date: Jul 30, 2026
+Price: $5.24 (-25%, was $6.99)
+Genres: Action, Indie, Strategy
+Link: https://store.steampowered.com/app/3337620
+==================================================
+
