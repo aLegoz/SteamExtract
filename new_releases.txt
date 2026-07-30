@@ -52348,3 +52348,62 @@ Genres: Action, Indie
 Link: https://store.steampowered.com/app/4710670
 ==================================================
 
+
+--- Run: 2026-07-30 10:08:46 --- (7 new game(s) found)
+
+==================================================
+Name: Hyperstacks
+Release Date: Jul 30, 2026
+Price: $16.99 (-15%, was $19.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/1046760
+==================================================
+
+==================================================
+Name: EXODIUM Part 1
+Release Date: Jul 30, 2026
+Price: $5.80 (-17%, was $6.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/2272720
+==================================================
+
+==================================================
+Name: Astro Burn
+Release Date: Jul 30, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: Action, Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/3810660
+==================================================
+
+==================================================
+Name: GameControllerMouse
+Release Date: Jul 30, 2026
+Price: $2.79 (-30%, was $3.99)
+Genres: Utilities
+Link: https://store.steampowered.com/app/4890420
+==================================================
+
+==================================================
+Name: Forgotten Isle
+Release Date: Jul 30, 2026
+Price: $2.09 (-30%, was $2.99)
+Genres: Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/4847300
+==================================================
+
+==================================================
+Name: House of Anomalies
+Release Date: Jul 29, 2026
+Price: $6.79 (-15%, was $7.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/4568640
+==================================================
+
+==================================================
+Name: INCREDECK
+Release Date: Jul 29, 2026
+Price: $1.99
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4402810
+==================================================
+
