@@ -52573,3 +52573,118 @@ Genres: Adventure, Casual, Simulation
 Link: https://store.steampowered.com/app/4809790
 ==================================================
 
+
+--- Run: 2026-07-30 16:24:33 --- (14 new game(s) found)
+
+==================================================
+Name: Runaway Dog
+Release Date: Jul 30, 2026
+Price: $3.59 (-10%, was $3.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4726540
+==================================================
+
+==================================================
+Name: The Silver Crow
+Release Date: Jul 30, 2026
+Price: $5.94 (-15%, was $6.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4618590
+==================================================
+
+==================================================
+Name: Buttons Up! 2
+Release Date: Jul 30, 2026
+Price: $2.99 (-25%, was $3.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4708040
+==================================================
+
+==================================================
+Name: Midnight Moments
+Release Date: Jul 30, 2026
+Price: $2.69 (-10%, was $2.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/4666090
+==================================================
+
+==================================================
+Name: Turnip Mountain
+Release Date: Jul 30, 2026
+Price: $8.39 (-20%, was $10.49)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/2138410
+==================================================
+
+==================================================
+Name: The Organ Woman | 臓器女
+Release Date: Jul 30, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/4746060
+==================================================
+
+==================================================
+Name: Kusan: City of Wolves
+Release Date: Jul 30, 2026
+Price: $11.99 (-20%, was $14.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/1714510
+==================================================
+
+==================================================
+Name: Help me Cats
+Release Date: Jul 30, 2026
+Price: $3.19 (-20%, was $3.99)
+Genres: Adventure
+Link: https://store.steampowered.com/app/4040170
+==================================================
+
+==================================================
+Name: Bloody Grids
+Release Date: Jul 30, 2026
+Price: $7.19 (-10%, was $7.99)
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/4571080
+==================================================
+
+==================================================
+Name: Spanking Exorcist
+Release Date: Jul 30, 2026
+Price: $5.39 (-10%, was $5.99)
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/4819370
+==================================================
+
+==================================================
+Name: Machine Party
+Release Date: Jul 30, 2026
+Price: $6.79 (-15%, was $7.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4108000
+==================================================
+
+==================================================
+Name: How Many Dudes?
+Release Date: Jul 30, 2026
+Price: $9.74 (-35%, was $14.99)
+Genres: Casual, Indie, Strategy, Free To Play
+Link: https://store.steampowered.com/app/3934270
+==================================================
+
+==================================================
+Name: Signy & Mino: Against All Gods
+Release Date: Jul 30, 2026
+Price: $13.59 (-20%, was $16.99)
+Genres: RPG
+Link: https://store.steampowered.com/app/2379160
+==================================================
+
+==================================================
+Name: Mechaconda
+Release Date: Jul 30, 2026
+Price: $6.79 (-15%, was $7.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/3632670
+==================================================
+
