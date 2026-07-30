@@ -52875,3 +52875,30 @@ Genres: Action, Indie, Strategy
 Link: https://store.steampowered.com/app/3337620
 ==================================================
 
+
+--- Run: 2026-07-30 20:09:36 --- (3 new game(s) found)
+
+==================================================
+Name: Between Love & Uprising: A Cheaters Dating Simulator
+Release Date: Jul 30, 2026
+Price: $16.99 (-15%, was $19.99)
+Genres: Adventure, Casual, Simulation
+Link: https://store.steampowered.com/app/4029590
+==================================================
+
+==================================================
+Name: ProjeVerse
+Release Date: Jul 30, 2026
+Price: Free to Play
+Genres: Casual, Free To Play, Design & Illustration, Utilities, Game Development
+Link: https://store.steampowered.com/app/4929430
+==================================================
+
+==================================================
+Name: DamnedSchool
+Release Date: Jul 30, 2026
+Price: $13.99
+Genres: Action, Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/4851650
+==================================================
+
