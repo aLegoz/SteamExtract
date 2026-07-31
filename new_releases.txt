@@ -53852,3 +53852,38 @@ Genres: Action, Casual, Indie
 Link: https://store.steampowered.com/app/3775060
 ==================================================
 
+
+--- Run: 2026-07-31 19:03:20 --- (4 new game(s) found)
+
+==================================================
+Name: Knockout Battle
+Release Date: Jul 31, 2026
+Price: $2.99 (-40%, was $4.99)
+Genres: Action, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/3347950
+==================================================
+
+==================================================
+Name: Defrag Incremental
+Release Date: Jul 31, 2026
+Price: $3.19 (-20%, was $3.99)
+Genres: Indie
+Link: https://store.steampowered.com/app/4286660
+==================================================
+
+==================================================
+Name: Pitchforks & Paragraphs
+Release Date: Jul 31, 2026
+Price: $2.99 (-25%, was $3.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4857990
+==================================================
+
+==================================================
+Name: VASTWAKE
+Release Date: Jul 31, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Adventure, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4922480
+==================================================
+
