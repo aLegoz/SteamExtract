@@ -53542,3 +53542,166 @@ Genres: Casual, Indie
 Link: https://store.steampowered.com/app/4930620
 ==================================================
 
+
+--- Run: 2026-07-31 15:52:45 --- (20 new game(s) found)
+
+==================================================
+Name: LURRUNA - The Island of Towering Automatons
+Release Date: Jul 31, 2026
+Price: $9.99
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4315900
+==================================================
+
+==================================================
+Name: Corsair Cove
+Release Date: Jul 31, 2026
+Price: $29.99 (-25%, was $39.99)
+Genres: Simulation, Strategy
+Link: https://store.steampowered.com/app/1368140
+==================================================
+
+==================================================
+Name: Litterbox League
+Release Date: Jul 31, 2026
+Price: $9.74 (-35%, was $14.99)
+Genres: Action, Casual, Indie, Sports
+Link: https://store.steampowered.com/app/1411640
+==================================================
+
+==================================================
+Name: Waterpark Simulator
+Release Date: Jul 31, 2026
+Price: $10.39 (-20%, was $12.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/3293260
+==================================================
+
+==================================================
+Name: Cat or Potat
+Release Date: Jul 31, 2026
+Price: $1.74 (-30%, was $2.49)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4734780
+==================================================
+
+==================================================
+Name: SPELLCAST
+Release Date: Jul 31, 2026
+Price: $10.99
+Genres: Strategy
+Link: https://store.steampowered.com/app/3821120
+==================================================
+
+==================================================
+Name: Welcome to Victorville
+Release Date: Jul 31, 2026
+Price: Free to Play
+Genres: Adventure, Free To Play
+Link: https://store.steampowered.com/app/4755610
+==================================================
+
+==================================================
+Name: Don’t Pull Me!
+Release Date: Jul 31, 2026
+Price: $4.99
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4423110
+==================================================
+
+==================================================
+Name: Zero Hour Night
+Release Date: Jul 31, 2026
+Price: Free to Play
+Genres: Adventure, Free To Play
+Link: https://store.steampowered.com/app/4724610
+==================================================
+
+==================================================
+Name: Mr. President
+Release Date: Jul 31, 2026
+Price: $19.99 (-20%, was $24.99)
+Genres: RPG, Simulation, Strategy
+Link: https://store.steampowered.com/app/3333670
+==================================================
+
+==================================================
+Name: 捉鸡
+Release Date: Jul 31, 2026
+Price: $1.19 (-40%, was $1.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/4951350
+==================================================
+
+==================================================
+Name: Parcel Pals
+Release Date: Jul 31, 2026
+Price: $7.19 (-10%, was $7.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/3960910
+==================================================
+
+==================================================
+Name: Skill Cheater
+Release Date: Jul 31, 2026
+Price: $2.69 (-10%, was $2.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4646780
+==================================================
+
+==================================================
+Name: BeeWitched
+Release Date: Jul 31, 2026
+Price: Free to Play
+Genres: Casual, Indie, Simulation, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4811560
+==================================================
+
+==================================================
+Name: Alarm112: Fire Unit
+Release Date: Jul 31, 2026
+Price: $13.19 (-12%, was $14.99)
+Genres: Simulation, Strategy
+Link: https://store.steampowered.com/app/4735640
+==================================================
+
+==================================================
+Name: Alpha Star
+Release Date: Jul 31, 2026
+Price: $4.99
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4668130
+==================================================
+
+==================================================
+Name: Hentai Age Workplace
+Release Date: Jul 31, 2026
+Price: $0.79 (-20%, was $0.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4932860
+==================================================
+
+==================================================
+Name: Zero Pixel Dawn
+Release Date: Jul 31, 2026
+Price: $1.79 (-40%, was $2.99)
+Genres: Action
+Link: https://store.steampowered.com/app/3797770
+==================================================
+
+==================================================
+Name: Spreadsheet Survivors
+Release Date: Jul 31, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Action, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4764640
+==================================================
+
+==================================================
+Name: Asterogue
+Release Date: Jul 31, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4427000
+==================================================
+
