@@ -54000,3 +54000,14 @@ Link: https://store.steampowered.com/app/4787910
 
 --- Run: 2026-07-31 22:47:37 --- (0 new game(s) found)
 
+
+--- Run: 2026-07-31 23:50:13 --- (1 new game(s) found)
+
+==================================================
+Name: Dinofurie | The Dinosaur's Battle Royale
+Release Date: Jul 31, 2026
+Price: Free to Play
+Genres: Action, Adventure, Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4756740
+==================================================
+
