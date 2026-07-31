@@ -53149,3 +53149,206 @@ Genres: Action, Casual, Indie
 Link: https://store.steampowered.com/app/4496330
 ==================================================
 
+
+--- Run: 2026-07-31 08:28:59 --- (25 new game(s) found)
+
+==================================================
+Name: Erotic Clicker
+Release Date: Jul 31, 2026
+Price: $4.79 (-20%, was $5.99)
+Genres: Casual, Indie, RPG
+Link: https://store.steampowered.com/app/4595400
+==================================================
+
+==================================================
+Name: Manga Club Advisor wants to support Saeki Sasara
+Release Date: Jul 31, 2026
+Price: $10.79 (-10%, was $11.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4295960
+==================================================
+
+==================================================
+Name: LUNAR
+Release Date: Jul 31, 2026
+Price: $2.54 (-15%, was $2.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/4804180
+==================================================
+
+==================================================
+Name: Medieval Market Simulator
+Release Date: Jul 31, 2026
+Price: $8.99
+Genres: Casual, Simulation
+Link: https://store.steampowered.com/app/4416980
+==================================================
+
+==================================================
+Name: Party Quiz
+Release Date: Jul 31, 2026
+Price: $11.99
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/2024070
+==================================================
+
+==================================================
+Name: Lofi Cozy Room
+Release Date: Jul 31, 2026
+Price: $13.49 (-10%, was $14.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4621450
+==================================================
+
+==================================================
+Name: Electronic Woodfish
+Release Date: Jul 31, 2026
+Price: Free to Play
+Genres: Indie, Free To Play
+Link: https://store.steampowered.com/app/4790970
+==================================================
+
+==================================================
+Name: The Farm of the Living
+Release Date: Jul 31, 2026
+Price: $3.59 (-10%, was $3.99)
+Genres: Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/4856500
+==================================================
+
+==================================================
+Name: Drone Core Command
+Release Date: Jul 31, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4783860
+==================================================
+
+==================================================
+Name: Sephiria
+Release Date: Jul 31, 2026
+Price: $8.99 (-40%, was $14.99)
+Genres: Action, Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/2436940
+==================================================
+
+==================================================
+Name: Hell o’ Halo
+Release Date: Jul 31, 2026
+Price: Free to Play
+Genres: Casual, Indie, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4911380
+==================================================
+
+==================================================
+Name: Dear Magical Girls
+Release Date: Jul 31, 2026
+Price: Free to Play
+Genres: Indie, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4914610
+==================================================
+
+==================================================
+Name: Pot's On!
+Release Date: Jul 31, 2026
+Price: Free to Play
+Genres: Casual, Indie, Simulation, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4914600
+==================================================
+
+==================================================
+Name: A.D.D. (Anomaly Detection Department)
+Release Date: Jul 31, 2026
+Price: Free to Play
+Genres: Simulation, Free To Play
+Link: https://store.steampowered.com/app/4914590
+==================================================
+
+==================================================
+Name: Lockey
+Release Date: Coming soon
+Price: Free to Play
+Genres: Action, Indie, Free To Play
+Link: https://store.steampowered.com/app/4911360
+==================================================
+
+==================================================
+Name: UNLOAD
+Release Date: Jul 31, 2026
+Price: Free to Play
+Genres: Action, Indie, Free To Play
+Link: https://store.steampowered.com/app/4911370
+==================================================
+
+==================================================
+Name: ON&OFF
+Release Date: Jul 31, 2026
+Price: Free to Play
+Genres: Indie, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4914570
+==================================================
+
+==================================================
+Name: Camino
+Release Date: Jul 30, 2026
+Price: Free to Play
+Genres: Action, Adventure, Indie, Free To Play
+Link: https://store.steampowered.com/app/3359940
+==================================================
+
+==================================================
+Name: The Stone Ship
+Release Date: Jul 30, 2026
+Price: Free to Play
+Genres: Adventure, Indie, Free To Play
+Link: https://store.steampowered.com/app/4263220
+==================================================
+
+==================================================
+Name: Wonderland
+Release Date: Jul 30, 2026
+Price: $7.19 (-10%, was $7.99)
+Genres: Casual, Indie, RPG, Simulation, Strategy
+Link: https://store.steampowered.com/app/3928980
+==================================================
+
+==================================================
+Name: Laundromat Anomaly
+Release Date: Jul 30, 2026
+Price: $3.49 (-30%, was $4.99)
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/4880890
+==================================================
+
+==================================================
+Name: Board Poker
+Release Date: Jul 30, 2026
+Price: Free to Play
+Genres: Casual, Indie, Simulation, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4814430
+==================================================
+
+==================================================
+Name: Catastrophic
+Release Date: Jul 30, 2026
+Price: $4.99
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4748010
+==================================================
+
+==================================================
+Name: DEFLEKT
+Release Date: Jul 30, 2026
+Price: $4.99
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4923520
+==================================================
+
+==================================================
+Name: Twerk Simulator
+Release Date: Jul 30, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4932610
+==================================================
+
