@@ -53887,3 +53887,30 @@ Genres: Adventure, Casual, Indie, Simulation
 Link: https://store.steampowered.com/app/4922480
 ==================================================
 
+
+--- Run: 2026-07-31 20:49:57 --- (3 new game(s) found)
+
+==================================================
+Name: Security Simulator: Nightshift
+Release Date: Jul 31, 2026
+Price: $4.79 (-40%, was $7.99)
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/3055550
+==================================================
+
+==================================================
+Name: Fisher Idle
+Release Date: Jul 31, 2026
+Price: $1.79 (-10%, was $1.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/3449840
+==================================================
+
+==================================================
+Name: OrbitalCrash
+Release Date: Jul 31, 2026
+Price: Free to Play
+Genres: Action, Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/2932480
+==================================================
+
