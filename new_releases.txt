@@ -53459,3 +53459,86 @@ Genres: Adventure, Indie
 Link: https://store.steampowered.com/app/4713810
 ==================================================
 
+
+--- Run: 2026-07-31 13:25:37 --- (10 new game(s) found)
+
+==================================================
+Name: Starship Crafter - Prologue
+Release Date: Jul 31, 2026
+Price: Free to Play
+Genres: Indie, Simulation, Free To Play
+Link: https://store.steampowered.com/app/4768360
+==================================================
+
+==================================================
+Name: Project Glitch
+Release Date: Jul 31, 2026
+Price: Free to Play
+Genres: Action, Adventure, RPG, Free To Play
+Link: https://store.steampowered.com/app/4749070
+==================================================
+
+==================================================
+Name: Papa
+Release Date: Jul 31, 2026
+Price: $3.99
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4830580
+==================================================
+
+==================================================
+Name: わたしをそとにつれてって
+Release Date: Jul 31, 2026
+Price: Free to Play
+Genres: Adventure, Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/4879010
+==================================================
+
+==================================================
+Name: Seeding The Wasteland
+Release Date: Jul 31, 2026
+Price: $8.99 (-25%, was $11.99)
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/4444510
+==================================================
+
+==================================================
+Name: Durak
+Release Date: Jul 31, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Casual, Strategy
+Link: https://store.steampowered.com/app/4951050
+==================================================
+
+==================================================
+Name: Prophecy of Vul
+Release Date: Jul 31, 2026
+Price: $5.59 (-30%, was $7.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4346000
+==================================================
+
+==================================================
+Name: DR. VIOLET'S NIGHT OFF
+Release Date: Jul 31, 2026
+Price: $0.89 (-10%, was $0.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4925710
+==================================================
+
+==================================================
+Name: Retro Puzzles - Eviva L'arte
+Release Date: Jul 31, 2026
+Price: $7.49 (-25%, was $9.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4434710
+==================================================
+
+==================================================
+Name: Hentai Clicker: Vanilla
+Release Date: Jul 31, 2026
+Price: $2.00 (-33%, was $2.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4930620
+==================================================
+
