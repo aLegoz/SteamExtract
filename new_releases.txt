@@ -54399,3 +54399,46 @@ Genres: Action, Casual
 Link: https://store.steampowered.com/app/4961970
 ==================================================
 
+
+--- Run: 2026-08-01 21:41:42 --- (5 new game(s) found)
+
+==================================================
+Name: Frebbventure Alliance
+Release Date: Aug 1, 2026
+Price: $13.99
+Genres: Action
+Link: https://store.steampowered.com/app/3670260
+==================================================
+
+==================================================
+Name: Cover Story
+Release Date: Aug 1, 2026
+Price: $4.19 (-40%, was $6.99)
+Genres: Adventure, Simulation
+Link: https://store.steampowered.com/app/4828740
+==================================================
+
+==================================================
+Name: Emerald Flower
+Release Date: Aug 1, 2026
+Price: $0.59 (-40%, was $0.99)
+Genres: Action, Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/4380750
+==================================================
+
+==================================================
+Name: Lordress
+Release Date: Aug 1, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Indie, RPG
+Link: https://store.steampowered.com/app/4457040
+==================================================
+
+==================================================
+Name: CATS BLOCKS: HOT SPRINGS
+Release Date: Aug 1, 2026
+Price: $2.39 (-20%, was $2.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4366150
+==================================================
+
