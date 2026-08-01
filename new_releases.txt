@@ -54315,3 +54315,30 @@ Genres: Design & Illustration, Utilities
 Link: https://store.steampowered.com/app/4902040
 ==================================================
 
+
+--- Run: 2026-08-01 16:44:06 --- (3 new game(s) found)
+
+==================================================
+Name: 101 Dogs Hidden in Paris
+Release Date: Aug 1, 2026
+Price: $1.19 (-40%, was $1.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4949810
+==================================================
+
+==================================================
+Name: Hamsterballin'
+Release Date: Aug 1, 2026
+Price: Free to Play
+Genres: Racing, Free To Play
+Link: https://store.steampowered.com/app/4319370
+==================================================
+
+==================================================
+Name: Cell Survivor
+Release Date: Jul 31, 2026
+Price: $3.99
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4868910
+==================================================
+
