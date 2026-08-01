@@ -54011,3 +54011,78 @@ Genres: Action, Adventure, Casual, Indie, Strategy
 Link: https://store.steampowered.com/app/4756740
 ==================================================
 
+
+--- Run: 2026-08-01 01:28:18 --- (9 new game(s) found)
+
+==================================================
+Name: Cotimero
+Release Date: Jul 31, 2026
+Price: $0.59 (-40%, was $0.99)
+Genres: Adventure, Casual, Indie, RPG
+Link: https://store.steampowered.com/app/4710550
+==================================================
+
+==================================================
+Name: IKANDY
+Release Date: Jul 31, 2026
+Price: Free to Play
+Genres: Animation & Modeling, Audio Production, Utilities, Video Production
+Link: https://store.steampowered.com/app/4813240
+==================================================
+
+==================================================
+Name: Moshcave
+Release Date: Jul 31, 2026
+Price: $0.59 (-40%, was $0.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/1838600
+==================================================
+
+==================================================
+Name: Helen Keller Simulator
+Release Date: Jul 31, 2026
+Price: $2.24 (-25%, was $2.99)
+Genres: Simulation
+Link: https://store.steampowered.com/app/3287230
+==================================================
+
+==================================================
+Name: You Must Remember
+Release Date: Jul 31, 2026
+Price: $7.20 (-10%, was $8.00)
+Genres: Indie
+Link: https://store.steampowered.com/app/4809860
+==================================================
+
+==================================================
+Name: Pistols at Dawn
+Release Date: Jul 31, 2026
+Price: $4.49
+Genres: Strategy
+Link: https://store.steampowered.com/app/4866340
+==================================================
+
+==================================================
+Name: Karaoke Chameleon
+Release Date: Jul 31, 2026
+Price: $3.95
+Genres: Action, Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/3277580
+==================================================
+
+==================================================
+Name: Appalachian Onslaught
+Release Date: Jul 31, 2026
+Price: $3.19 (-20%, was $3.99)
+Genres: Action, Indie, Strategy
+Link: https://store.steampowered.com/app/4404480
+==================================================
+
+==================================================
+Name: SOULMINE
+Release Date: Jul 31, 2026
+Price: $4.99
+Genres: Indie
+Link: https://store.steampowered.com/app/4765780
+==================================================
+
