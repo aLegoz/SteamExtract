@@ -54272,3 +54272,46 @@ Genres: Action
 Link: https://store.steampowered.com/app/4836070
 ==================================================
 
+
+--- Run: 2026-08-01 15:49:38 --- (5 new game(s) found)
+
+==================================================
+Name: Bounce Arena Simulator
+Release Date: Aug 1, 2026
+Price: $2.00
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4817450
+==================================================
+
+==================================================
+Name: NOMSTERS
+Release Date: Aug 1, 2026
+Price: $4.79 (-20%, was $5.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4943550
+==================================================
+
+==================================================
+Name: 10-Man Idle
+Release Date: Aug 1, 2026
+Price: $4.99
+Genres: Casual, Indie, RPG, Simulation
+Link: https://store.steampowered.com/app/4303480
+==================================================
+
+==================================================
+Name: Shuttle Strike
+Release Date: Aug 1, 2026
+Price: $3.49 (-30%, was $4.99)
+Genres: Action, Casual, Indie, Sports
+Link: https://store.steampowered.com/app/4863100
+==================================================
+
+==================================================
+Name: My Digital Diary
+Release Date: Aug 1, 2026
+Price: $2.99 (-40%, was $4.99)
+Genres: Design & Illustration, Utilities
+Link: https://store.steampowered.com/app/4902040
+==================================================
+
