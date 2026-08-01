@@ -54261,3 +54261,14 @@ Genres: Indie
 Link: https://store.steampowered.com/app/4191020
 ==================================================
 
+
+--- Run: 2026-08-01 14:19:10 --- (1 new game(s) found)
+
+==================================================
+Name: Ghosts of Tabor : LEGACY
+Release Date: Aug 1, 2026
+Price: $10.04 (-33%, was $14.99)
+Genres: Action
+Link: https://store.steampowered.com/app/4836070
+==================================================
+
