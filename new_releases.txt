@@ -54145,3 +54145,22 @@ Genres: Casual, Indie
 Link: https://store.steampowered.com/app/4611280
 ==================================================
 
+
+--- Run: 2026-08-01 07:58:07 --- (2 new game(s) found)
+
+==================================================
+Name: BOT.vinnik Chess: USSR vs the World
+Release Date: Jul 31, 2026
+Price: $1.69 (-15%, was $1.99)
+Genres: Strategy
+Link: https://store.steampowered.com/app/4263370
+==================================================
+
+==================================================
+Name: Dungeon Dash - Tales of the Necromancer
+Release Date: Jul 31, 2026
+Price: Free to Play
+Genres: Action, Indie, RPG, Free To Play
+Link: https://store.steampowered.com/app/2300330
+==================================================
+
