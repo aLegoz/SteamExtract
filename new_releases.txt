@@ -54353,3 +54353,38 @@ Genres: Casual, RPG, Simulation
 Link: https://store.steampowered.com/app/4533730
 ==================================================
 
+
+--- Run: 2026-08-01 18:49:01 --- (4 new game(s) found)
+
+==================================================
+Name: Way of the Wind
+Release Date: Aug 1, 2026
+Price: $2.24 (-25%, was $2.99)
+Genres: RPG, Simulation
+Link: https://store.steampowered.com/app/4841560
+==================================================
+
+==================================================
+Name: Avoidvania
+Release Date: Aug 1, 2026
+Price: Free to Play
+Genres: Adventure, Indie, Free To Play
+Link: https://store.steampowered.com/app/1375440
+==================================================
+
+==================================================
+Name: Droned
+Release Date: Aug 1, 2026
+Price: $1.19 (-40%, was $1.99)
+Genres: Action, Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/1712720
+==================================================
+
+==================================================
+Name: 100 Undersea Cats
+Release Date: Aug 1, 2026
+Price: $1.49 (-25%, was $1.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4383070
+==================================================
+
