@@ -54164,3 +54164,30 @@ Genres: Action, Indie, RPG, Free To Play
 Link: https://store.steampowered.com/app/2300330
 ==================================================
 
+
+--- Run: 2026-08-01 09:53:42 --- (3 new game(s) found)
+
+==================================================
+Name: Daiying Slingshot
+Release Date: Jul 31, 2026
+Price: $7.99
+Genres: Casual
+Link: https://store.steampowered.com/app/4958760
+==================================================
+
+==================================================
+Name: Wartorn: A Visual Novel of the Ukraine War
+Release Date: Jul 31, 2026
+Price: $2.99
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4932480
+==================================================
+
+==================================================
+Name: Koi Frenzy
+Release Date: Jul 31, 2026
+Price: $0.99
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4927100
+==================================================
+
