@@ -54086,3 +54086,62 @@ Genres: Indie
 Link: https://store.steampowered.com/app/4765780
 ==================================================
 
+
+--- Run: 2026-08-01 05:16:55 --- (7 new game(s) found)
+
+==================================================
+Name: NTR Hunter
+Release Date: Jul 31, 2026
+Price: $11.99 (-20%, was $14.99)
+Genres: RPG, Simulation
+Link: https://store.steampowered.com/app/4458730
+==================================================
+
+==================================================
+Name: Law of Demons
+Release Date: Jul 31, 2026
+Price: $9.09 (-30%, was $12.99)
+Genres: Action, Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/4247690
+==================================================
+
+==================================================
+Name: Dog Park
+Release Date: Jul 31, 2026
+Price: Free to Play
+Genres: Casual, Indie, Simulation, Free To Play
+Link: https://store.steampowered.com/app/4821510
+==================================================
+
+==================================================
+Name: LAST STAND Apocalypse
+Release Date: Jul 31, 2026
+Price: $16.19 (-10%, was $17.99)
+Genres: Action, Adventure, Indie, RPG, Simulation
+Link: https://store.steampowered.com/app/4423700
+==================================================
+
+==================================================
+Name: Schooled
+Release Date: Jul 31, 2026
+Price: $3.99
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4902420
+==================================================
+
+==================================================
+Name: The Unfamiliars
+Release Date: Jul 31, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/4505680
+==================================================
+
+==================================================
+Name: Devils Hand
+Release Date: Jul 31, 2026
+Price: $0.99
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4611280
+==================================================
+
