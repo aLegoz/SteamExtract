@@ -54624,3 +54624,14 @@ Genres: Casual, Indie, Strategy
 Link: https://store.steampowered.com/app/4833240
 ==================================================
 
+
+--- Run: 2026-08-02 20:03:20 --- (1 new game(s) found)
+
+==================================================
+Name: Apostle Paul and Money
+Release Date: Aug 1, 2026
+Price: Free to Play
+Genres: Casual, Free To Play
+Link: https://store.steampowered.com/app/4179360
+==================================================
+
