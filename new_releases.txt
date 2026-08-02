@@ -54532,3 +54532,38 @@ Genres: Indie, Racing
 Link: https://store.steampowered.com/app/4828620
 ==================================================
 
+
+--- Run: 2026-08-02 14:21:05 --- (4 new game(s) found)
+
+==================================================
+Name: Clickstellar
+Release Date: Aug 2, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/4946490
+==================================================
+
+==================================================
+Name: The Referee Committee
+Release Date: Aug 2, 2026
+Price: $6.29 (-10%, was $6.99)
+Genres: Indie, Simulation, Sports, Strategy
+Link: https://store.steampowered.com/app/4915370
+==================================================
+
+==================================================
+Name: Elven Desire Ladyboys
+Release Date: Aug 2, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Adventure, Casual, Indie, RPG, Simulation
+Link: https://store.steampowered.com/app/4954070
+==================================================
+
+==================================================
+Name: BAFF D
+Release Date: Aug 2, 2026
+Price: $1.19 (-40%, was $1.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4968440
+==================================================
+
