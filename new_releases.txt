@@ -54689,3 +54689,38 @@ Genres: Casual, Indie, Simulation
 Link: https://store.steampowered.com/app/4784930
 ==================================================
 
+
+--- Run: 2026-08-02 23:46:57 --- (4 new game(s) found)
+
+==================================================
+Name: Soul Scroll
+Release Date: Aug 2, 2026
+Price: Free to Play
+Genres: RPG, Simulation, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4314050
+==================================================
+
+==================================================
+Name: Endless Defense
+Release Date: Aug 2, 2026
+Price: $5.19 (-35%, was $7.99)
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/4816200
+==================================================
+
+==================================================
+Name: Mnema: The Fallen Remembered
+Release Date: Aug 2, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: RPG
+Link: https://store.steampowered.com/app/4959500
+==================================================
+
+==================================================
+Name: It Comes At Night
+Release Date: Aug 2, 2026
+Price: $4.89 (-30%, was $6.99)
+Genres: Action, Adventure
+Link: https://store.steampowered.com/app/4440080
+==================================================
+
