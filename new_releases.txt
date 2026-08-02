@@ -54605,3 +54605,22 @@ Genres: Adventure, Indie, RPG
 Link: https://store.steampowered.com/app/4575750
 ==================================================
 
+
+--- Run: 2026-08-02 17:49:56 --- (2 new game(s) found)
+
+==================================================
+Name: Neon Bullet
+Release Date: Aug 2, 2026
+Price: $1.19 (-40%, was $1.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4443810
+==================================================
+
+==================================================
+Name: Age of New Worlds
+Release Date: Aug 2, 2026
+Price: $2.79 (-30%, was $3.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4833240
+==================================================
+
