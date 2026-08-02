@@ -54635,3 +54635,46 @@ Genres: Casual, Free To Play
 Link: https://store.steampowered.com/app/4179360
 ==================================================
 
+
+--- Run: 2026-08-02 21:42:07 --- (5 new game(s) found)
+
+==================================================
+Name: ACE Ninja Path
+Release Date: Aug 2, 2026
+Price: Free to Play
+Genres: Action, Adventure, RPG, Free To Play
+Link: https://store.steampowered.com/app/4483260
+==================================================
+
+==================================================
+Name: DeepDig: Together
+Release Date: Aug 2, 2026
+Price: $4.99
+Genres: Action, Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/3039180
+==================================================
+
+==================================================
+Name: Exipelago
+Release Date: Aug 2, 2026
+Price: $24.99
+Genres: Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/1948540
+==================================================
+
+==================================================
+Name: 我是校长
+Release Date: Aug 2, 2026
+Price: $14.99
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/4916300
+==================================================
+
+==================================================
+Name: CRYING SCREAMING 3: JEREMY'S ENEMIES
+Release Date: Aug 2, 2026
+Price: $3.34 (-33%, was $4.99)
+Genres: Action
+Link: https://store.steampowered.com/app/4818650
+==================================================
+
