@@ -54521,3 +54521,14 @@ Genres: Casual, Indie
 Link: https://store.steampowered.com/app/4699240
 ==================================================
 
+
+--- Run: 2026-08-02 12:51:55 --- (1 new game(s) found)
+
+==================================================
+Name: Invincible Magnet Warrior
+Release Date: Aug 2, 2026
+Price: $0.59 (-40%, was $0.99)
+Genres: Indie, Racing
+Link: https://store.steampowered.com/app/4828620
+==================================================
+
