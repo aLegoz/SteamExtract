@@ -54678,3 +54678,14 @@ Genres: Action
 Link: https://store.steampowered.com/app/4818650
 ==================================================
 
+
+--- Run: 2026-08-02 22:42:45 --- (1 new game(s) found)
+
+==================================================
+Name: Princess Waifu
+Release Date: Aug 2, 2026
+Price: $2.06 (-31%, was $2.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4784930
+==================================================
+
