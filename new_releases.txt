@@ -54567,3 +54567,14 @@ Genres: Casual, Indie
 Link: https://store.steampowered.com/app/4968440
 ==================================================
 
+
+--- Run: 2026-08-02 15:49:44 --- (1 new game(s) found)
+
+==================================================
+Name: Rookspell
+Release Date: Aug 2, 2026
+Price: $6.79 (-15%, was $7.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4886540
+==================================================
+
