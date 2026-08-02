@@ -54578,3 +54578,30 @@ Genres: Casual, Indie, Strategy
 Link: https://store.steampowered.com/app/4886540
 ==================================================
 
+
+--- Run: 2026-08-02 16:43:08 --- (3 new game(s) found)
+
+==================================================
+Name: Guardian Heart
+Release Date: Aug 2, 2026
+Price: $2.39 (-20%, was $2.99)
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/4927750
+==================================================
+
+==================================================
+Name: Retro Flight Simulator 2026
+Release Date: Aug 2, 2026
+Price: $8.49 (-15%, was $9.99)
+Genres: Simulation
+Link: https://store.steampowered.com/app/4946580
+==================================================
+
+==================================================
+Name: The Iron and the Oath
+Release Date: Aug 2, 2026
+Price: $6.29 (-10%, was $6.99)
+Genres: Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/4575750
+==================================================
+
