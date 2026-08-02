@@ -54464,3 +54464,22 @@ Genres: Casual, Indie, Strategy
 Link: https://store.steampowered.com/app/4790300
 ==================================================
 
+
+--- Run: 2026-08-02 05:13:27 --- (2 new game(s) found)
+
+==================================================
+Name: ScreenSaver Idle
+Release Date: Aug 1, 2026
+Price: $3.14 (-30%, was $4.49)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4621410
+==================================================
+
+==================================================
+Name: TRAUMAHACK
+Release Date: Aug 1, 2026
+Price: $5.99
+Genres: Indie
+Link: https://store.steampowered.com/app/4694660
+==================================================
+
