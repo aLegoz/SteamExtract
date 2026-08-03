@@ -55134,3 +55134,110 @@ Genres: Indie, RPG
 Link: https://store.steampowered.com/app/4676770
 ==================================================
 
+
+--- Run: 2026-08-03 19:14:51 --- (13 new game(s) found)
+
+==================================================
+Name: webcam strained
+Release Date: Aug 3, 2026
+Price: $0.59 (-40%, was $0.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4920190
+==================================================
+
+==================================================
+Name: Hopping Out
+Release Date: Aug 3, 2026
+Price: $7.19 (-10%, was $7.99)
+Genres: Indie
+Link: https://store.steampowered.com/app/4297110
+==================================================
+
+==================================================
+Name: Tidal Nexus Online
+Release Date: Aug 3, 2026
+Price: Free to Play
+Genres: Action, Indie, Massively Multiplayer, RPG, Free To Play
+Link: https://store.steampowered.com/app/2937310
+==================================================
+
+==================================================
+Name: Warped Reality
+Release Date: Aug 3, 2026
+Price: $12.74 (-15%, was $14.99)
+Genres: Action, Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/604030
+==================================================
+
+==================================================
+Name: Yamasen-Chan's Hermit Home Designer+
+Release Date: Aug 3, 2026
+Price: $4.99
+Genres: Casual
+Link: https://store.steampowered.com/app/4539420
+==================================================
+
+==================================================
+Name: EClone Station
+Release Date: Aug 3, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4753280
+==================================================
+
+==================================================
+Name: White Ward
+Release Date: Aug 3, 2026
+Price: $1.97 (-34%, was $2.99)
+Genres: Indie
+Link: https://store.steampowered.com/app/4516830
+==================================================
+
+==================================================
+Name: Project: AFTERSHOCK
+Release Date: Aug 3, 2026
+Price: $0.99 (-50%, was $1.99)
+Genres: Action, Adventure, Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4230350
+==================================================
+
+==================================================
+Name: HARDPOINT
+Release Date: Aug 3, 2026
+Price: Free to Play
+Genres: Action, Indie, Free To Play
+Link: https://store.steampowered.com/app/3733820
+==================================================
+
+==================================================
+Name: Ostranauts
+Release Date: Aug 3, 2026
+Price: $15.99 (-20%, was $19.99)
+Genres: Indie, RPG, Simulation
+Link: https://store.steampowered.com/app/1022980
+==================================================
+
+==================================================
+Name: Meridian
+Release Date: Aug 3, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Indie, RPG
+Link: https://store.steampowered.com/app/4920590
+==================================================
+
+==================================================
+Name: Swarm Bunker: Lust Defense
+Release Date: Aug 3, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Action, Strategy
+Link: https://store.steampowered.com/app/4403260
+==================================================
+
+==================================================
+Name: Moe Mekuri Beauty and the Beast 2
+Release Date: Aug 3, 2026
+Price: $17.59 (-20%, was $21.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4850770
+==================================================
+
