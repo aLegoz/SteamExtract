@@ -55035,3 +55035,102 @@ Genres: Adventure, Casual
 Link: https://store.steampowered.com/app/4811910
 ==================================================
 
+
+--- Run: 2026-08-03 17:46:27 --- (12 new game(s) found)
+
+==================================================
+Name: Retrowave 2
+Release Date: Aug 3, 2026
+Price: $3.74 (-25%, was $4.99)
+Genres: Action, Casual, Indie, Racing, Simulation
+Link: https://store.steampowered.com/app/3331000
+==================================================
+
+==================================================
+Name: Flats Full of Cats
+Release Date: Aug 3, 2026
+Price: Free to Play
+Genres: Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/4098230
+==================================================
+
+==================================================
+Name: Dispel Dark
+Release Date: Aug 3, 2026
+Price: $1.80 (-10%, was $2.00)
+Genres: Indie
+Link: https://store.steampowered.com/app/4487490
+==================================================
+
+==================================================
+Name: Hell Deck
+Release Date: Aug 3, 2026
+Price: $1.00
+Genres: Strategy
+Link: https://store.steampowered.com/app/4843210
+==================================================
+
+==================================================
+Name: Who Am I Next? : Animals
+Release Date: Aug 3, 2026
+Price: $1.00
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4838680
+==================================================
+
+==================================================
+Name: DOGENSTEIN
+Release Date: Aug 3, 2026
+Price: $2.99 (-40%, was $4.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/3096230
+==================================================
+
+==================================================
+Name: Escape from the Black Monolith
+Release Date: Aug 3, 2026
+Price: Free to Play
+Genres: Action, Indie, Free To Play
+Link: https://store.steampowered.com/app/4191860
+==================================================
+
+==================================================
+Name: Hidden Turtle Puzzle
+Release Date: Aug 3, 2026
+Price: $7.19 (-10%, was $7.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4631670
+==================================================
+
+==================================================
+Name: Cell #31
+Release Date: Aug 3, 2026
+Price: $2.54 (-15%, was $2.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4742970
+==================================================
+
+==================================================
+Name: HELLSPRINT
+Release Date: Aug 3, 2026
+Price: $6.66
+Genres: Action, Racing
+Link: https://store.steampowered.com/app/3711160
+==================================================
+
+==================================================
+Name: Kriegspiel Manager
+Release Date: Aug 3, 2026
+Price: Free to Play
+Genres: Free To Play
+Link: https://store.steampowered.com/app/4527190
+==================================================
+
+==================================================
+Name: DmonMaster
+Release Date: Aug 3, 2026
+Price: $8.88
+Genres: Indie, RPG
+Link: https://store.steampowered.com/app/4676770
+==================================================
+
