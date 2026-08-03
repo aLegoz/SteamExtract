@@ -55241,3 +55241,38 @@ Genres: Casual, Indie
 Link: https://store.steampowered.com/app/4850770
 ==================================================
 
+
+--- Run: 2026-08-03 20:51:51 --- (4 new game(s) found)
+
+==================================================
+Name: The Slopstar 2: Slop Wars
+Release Date: Aug 3, 2026
+Price: Free to Play
+Genres: Indie, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4495630
+==================================================
+
+==================================================
+Name: Pulslink
+Release Date: Aug 3, 2026
+Price: $6.29 (-10%, was $6.99)
+Genres: Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4515950
+==================================================
+
+==================================================
+Name: Logic Foundry
+Release Date: Aug 3, 2026
+Price: $9.99
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4931430
+==================================================
+
+==================================================
+Name: Shell of the coward
+Release Date: Aug 3, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: RPG
+Link: https://store.steampowered.com/app/3964350
+==================================================
+
