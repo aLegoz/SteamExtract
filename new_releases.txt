@@ -54735,3 +54735,30 @@ Genres: Adventure, Indie
 Link: https://store.steampowered.com/app/2957350
 ==================================================
 
+
+--- Run: 2026-08-03 05:26:32 --- (3 new game(s) found)
+
+==================================================
+Name: My Merry May with be
+Release Date: Aug 2, 2026
+Price: $31.99 (-20%, was $39.99)
+Genres: Adventure
+Link: https://store.steampowered.com/app/1955730
+==================================================
+
+==================================================
+Name: Garlic Ramen Shop Simulator
+Release Date: Aug 2, 2026
+Price: $5.99 (-40%, was $9.99)
+Genres: Simulation
+Link: https://store.steampowered.com/app/4525560
+==================================================
+
+==================================================
+Name: ZazaCut - Shorts & Clips Creator
+Release Date: Aug 2, 2026
+Price: $19.99
+Genres: Video Production
+Link: https://store.steampowered.com/app/4920510
+==================================================
+
