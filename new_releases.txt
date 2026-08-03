@@ -54724,3 +54724,14 @@ Genres: Action, Adventure
 Link: https://store.steampowered.com/app/4440080
 ==================================================
 
+
+--- Run: 2026-08-03 01:26:13 --- (1 new game(s) found)
+
+==================================================
+Name: Cyberpunk Inquisitor
+Release Date: Aug 2, 2026
+Price: $5.39 (-10%, was $5.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/2957350
+==================================================
+
