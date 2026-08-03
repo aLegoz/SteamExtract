@@ -54762,3 +54762,102 @@ Genres: Video Production
 Link: https://store.steampowered.com/app/4920510
 ==================================================
 
+
+--- Run: 2026-08-03 08:56:55 --- (12 new game(s) found)
+
+==================================================
+Name: Voracity
+Release Date: Aug 3, 2026
+Price: Free to Play
+Genres: Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/1962080
+==================================================
+
+==================================================
+Name: MoonCraft
+Release Date: Aug 3, 2026
+Price: $4.99
+Genres: Action, Adventure, Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4954590
+==================================================
+
+==================================================
+Name: Columbus
+Release Date: Aug 3, 2026
+Price: $0.84 (-15%, was $0.99)
+Genres: Casual, Indie, RPG
+Link: https://store.steampowered.com/app/4967530
+==================================================
+
+==================================================
+Name: Unemployed Nightmare Together
+Release Date: Aug 3, 2026
+Price: $0.49 (-51%, was $0.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4945580
+==================================================
+
+==================================================
+Name: Robin Hood: Sherwood Valley
+Release Date: Aug 3, 2026
+Price: $9.99
+Genres: Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/4792610
+==================================================
+
+==================================================
+Name: Soul Siblings
+Release Date: Aug 3, 2026
+Price: $5.99
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/4706800
+==================================================
+
+==================================================
+Name: Origin Story - Season 1
+Release Date: Aug 3, 2026
+Price: $12.99
+Genres: Action, Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/3942470
+==================================================
+
+==================================================
+Name: BeWHEELdering
+Release Date: Aug 2, 2026
+Price: $3.19 (-20%, was $3.99)
+Genres: Indie
+Link: https://store.steampowered.com/app/4913630
+==================================================
+
+==================================================
+Name: A Little Cove
+Release Date: Aug 2, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4886950
+==================================================
+
+==================================================
+Name: DottyBead闪闪拼豆
+Release Date: Aug 2, 2026
+Price: Free to Play
+Genres: Casual, Simulation, Free To Play
+Link: https://store.steampowered.com/app/4599500
+==================================================
+
+==================================================
+Name: Moonlight Duels
+Release Date: Aug 2, 2026
+Price: $2.99
+Genres: Indie
+Link: https://store.steampowered.com/app/4959620
+==================================================
+
+==================================================
+Name: Peasant Samurai ～ 百姓ノ持チタル国
+Release Date: Aug 2, 2026
+Price: $6.39 (-20%, was $7.99)
+Genres: Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4880700
+==================================================
+
