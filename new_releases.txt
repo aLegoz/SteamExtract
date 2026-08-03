@@ -55314,3 +55314,22 @@ Genres: Simulation
 Link: https://store.steampowered.com/app/4936190
 ==================================================
 
+
+--- Run: 2026-08-03 23:57:09 --- (2 new game(s) found)
+
+==================================================
+Name: BSG: Big Space Guns
+Release Date: Aug 3, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/3651470
+==================================================
+
+==================================================
+Name: FPS Creator
+Release Date: Aug 3, 2026
+Price: $9.99
+Genres: Game Development
+Link: https://store.steampowered.com/app/4787860
+==================================================
+
