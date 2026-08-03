@@ -55303,3 +55303,14 @@ Genres: Video Production
 Link: https://store.steampowered.com/app/4816770
 ==================================================
 
+
+--- Run: 2026-08-03 22:50:52 --- (1 new game(s) found)
+
+==================================================
+Name: The Outskirts
+Release Date: Aug 3, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Simulation
+Link: https://store.steampowered.com/app/4936190
+==================================================
+
