@@ -55276,3 +55276,30 @@ Genres: RPG
 Link: https://store.steampowered.com/app/3964350
 ==================================================
 
+
+--- Run: 2026-08-03 21:55:50 --- (3 new game(s) found)
+
+==================================================
+Name: Flies.
+Release Date: Aug 3, 2026
+Price: $2.99
+Genres: Casual
+Link: https://store.steampowered.com/app/4194520
+==================================================
+
+==================================================
+Name: NET.CRAWL
+Release Date: Aug 3, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/2958140
+==================================================
+
+==================================================
+Name: jumpcutGG
+Release Date: Aug 3, 2026
+Price: $7.91 (-34%, was $11.99)
+Genres: Video Production
+Link: https://store.steampowered.com/app/4816770
+==================================================
+
