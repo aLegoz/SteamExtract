@@ -55524,3 +55524,118 @@ Genres: Casual, Indie
 Link: https://store.steampowered.com/app/4969580
 ==================================================
 
+
+--- Run: 2026-08-04 17:27:18 --- (14 new game(s) found)
+
+==================================================
+Name: Pih 2
+Release Date: Aug 4, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: Action, Indie, Massively Multiplayer, Strategy
+Link: https://store.steampowered.com/app/4547970
+==================================================
+
+==================================================
+Name: Meet Me In The Well
+Release Date: Aug 4, 2026
+Price: $6.79 (-15%, was $7.99)
+Genres: Action
+Link: https://store.steampowered.com/app/4620430
+==================================================
+
+==================================================
+Name: Korea. IL-2 Series
+Release Date: Aug 4, 2026
+Price: $79.99
+Genres: Action, Simulation
+Link: https://store.steampowered.com/app/247970
+==================================================
+
+==================================================
+Name: Rogue Point
+Release Date: Aug 4, 2026
+Price: $9.99 (-50%, was $19.99)
+Genres: Action
+Link: https://store.steampowered.com/app/1843840
+==================================================
+
+==================================================
+Name: It Consumes
+Release Date: Aug 4, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: Action
+Link: https://store.steampowered.com/app/2371060
+==================================================
+
+==================================================
+Name: A Good Day Fishing
+Release Date: Aug 4, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/3649860
+==================================================
+
+==================================================
+Name: Bloodmoon Survivors
+Release Date: Aug 4, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Action, Adventure, Casual, Indie, RPG
+Link: https://store.steampowered.com/app/3115310
+==================================================
+
+==================================================
+Name: Broken In
+Release Date: Aug 4, 2026
+Price: $2.39 (-20%, was $2.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4815250
+==================================================
+
+==================================================
+Name: Holy Fire Bible Study
+Release Date: Aug 4, 2026
+Price: $6.99
+Genres: Indie, Education
+Link: https://store.steampowered.com/app/4805610
+==================================================
+
+==================================================
+Name: KUON YUU'S Case Files: Episode 1 – Nobunaga
+Release Date: Aug 4, 2026
+Price: $4.99
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4799010
+==================================================
+
+==================================================
+Name: Phantacall Realm
+Release Date: Aug 4, 2026
+Price: $5.09 (-15%, was $5.99)
+Genres: Adventure, Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4290250
+==================================================
+
+==================================================
+Name: Cats MiaoMiaoMiao~
+Release Date: Aug 4, 2026
+Price: $0.99
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4944570
+==================================================
+
+==================================================
+Name: Rune Log
+Release Date: Aug 4, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4903910
+==================================================
+
+==================================================
+Name: Loot Goblin
+Release Date: Aug 4, 2026
+Price: $3.59 (-40%, was $5.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4382860
+==================================================
+
