@@ -55333,3 +55333,14 @@ Genres: Game Development
 Link: https://store.steampowered.com/app/4787860
 ==================================================
 
+
+--- Run: 2026-08-04 01:52:13 --- (1 new game(s) found)
+
+==================================================
+Name: Beast of Reincarnation
+Release Date: Aug 3, 2026
+Price: $59.99
+Genres: Action, Adventure, RPG
+Link: https://store.steampowered.com/app/2001760
+==================================================
+
