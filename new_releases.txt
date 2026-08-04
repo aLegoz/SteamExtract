@@ -55457,3 +55457,70 @@ Genres: Adventure, Casual, RPG
 Link: https://store.steampowered.com/app/4754810
 ==================================================
 
+
+--- Run: 2026-08-04 15:13:47 --- (8 new game(s) found)
+
+==================================================
+Name: 2187
+Release Date: Aug 4, 2026
+Price: $2.12 (-15%, was $2.50)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4917720
+==================================================
+
+==================================================
+Name: Lovecraft Locker 2: Tentacle Breach
+Release Date: Aug 4, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Strategy
+Link: https://store.steampowered.com/app/3578980
+==================================================
+
+==================================================
+Name: HellSlave II: Judgment of the Archon
+Release Date: Aug 4, 2026
+Price: $16.99 (-15%, was $19.99)
+Genres: Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/3399900
+==================================================
+
+==================================================
+Name: Summer Party Slaughter
+Release Date: Aug 4, 2026
+Price: $0.99
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4920530
+==================================================
+
+==================================================
+Name: Big Walk
+Release Date: Aug 4, 2026
+Price: $14.99 (-25%, was $19.99)
+Genres: Adventure
+Link: https://store.steampowered.com/app/1478500
+==================================================
+
+==================================================
+Name: Hentai Puzzle: Emy
+Release Date: Aug 4, 2026
+Price: $2.00 (-33%, was $2.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4925760
+==================================================
+
+==================================================
+Name: Rouge's Flush
+Release Date: Aug 4, 2026
+Price: $6.79 (-15%, was $7.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4881390
+==================================================
+
+==================================================
+Name: Bubble Anima
+Release Date: Aug 3, 2026
+Price: $1.19 (-40%, was $1.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4969580
+==================================================
+
