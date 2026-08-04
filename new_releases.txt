@@ -55639,3 +55639,110 @@ Genres: Casual, Indie
 Link: https://store.steampowered.com/app/4382860
 ==================================================
 
+
+--- Run: 2026-08-04 19:15:51 --- (13 new game(s) found)
+
+==================================================
+Name: That Time I Got Reincarnated as a Tyrant God
+Release Date: Aug 4, 2026
+Price: $4.99
+Genres: Casual
+Link: https://store.steampowered.com/app/4676130
+==================================================
+
+==================================================
+Name: Readerpet
+Release Date: Coming soon
+Price: Free to Play
+Genres: Casual, Indie, Simulation, Free To Play
+Link: https://store.steampowered.com/app/4941910
+==================================================
+
+==================================================
+Name: Esoterika
+Release Date: Aug 4, 2026
+Price: $9.99
+Genres: Indie
+Link: https://store.steampowered.com/app/2755790
+==================================================
+
+==================================================
+Name: Slot Grind
+Release Date: Aug 4, 2026
+Price: $4.04 (-10%, was $4.49)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4619420
+==================================================
+
+==================================================
+Name: Millenium State: Path of Hegemony
+Release Date: Aug 4, 2026
+Price: $7.77
+Genres: Strategy
+Link: https://store.steampowered.com/app/4782370
+==================================================
+
+==================================================
+Name: Xeno Clip
+Release Date: Aug 4, 2026
+Price: $6.99
+Genres: Action, Adventure
+Link: https://store.steampowered.com/app/4950910
+==================================================
+
+==================================================
+Name: DISTURBING FEARS - Workplace
+Release Date: Aug 4, 2026
+Price: Free to Play
+Genres: Adventure, Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/4540090
+==================================================
+
+==================================================
+Name: Horingar: Darkside
+Release Date: Aug 4, 2026
+Price: $9.59 (-20%, was $11.99)
+Genres: RPG
+Link: https://store.steampowered.com/app/4106240
+==================================================
+
+==================================================
+Name: The Missing Rune
+Release Date: Aug 4, 2026
+Price: $6.39 (-20%, was $7.99)
+Genres: Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4785390
+==================================================
+
+==================================================
+Name: Rewinded
+Release Date: Aug 4, 2026
+Price: $2.69 (-10%, was $2.99)
+Genres: Indie
+Link: https://store.steampowered.com/app/4851580
+==================================================
+
+==================================================
+Name: 令和もぐんまのやぼう -あなたのまちも ぐんまけん-
+Release Date: Aug 4, 2026
+Price: $2.69 (-10%, was $2.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4886420
+==================================================
+
+==================================================
+Name: Spinning Scarecrow
+Release Date: Aug 4, 2026
+Price: $5.94 (-15%, was $6.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/3409660
+==================================================
+
+==================================================
+Name: Quantum Breach
+Release Date: Aug 4, 2026
+Price: $5.59 (-20%, was $6.99)
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/4078420
+==================================================
+
