@@ -55446,3 +55446,14 @@ Genres: Action, Indie
 Link: https://store.steampowered.com/app/4975090
 ==================================================
 
+
+--- Run: 2026-08-04 12:51:22 --- (1 new game(s) found)
+
+==================================================
+Name: Fabled Adventure
+Release Date: Aug 4, 2026
+Price: $2.99
+Genres: Adventure, Casual, RPG
+Link: https://store.steampowered.com/app/4754810
+==================================================
+
