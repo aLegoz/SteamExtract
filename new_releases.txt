@@ -55773,3 +55773,14 @@ Genres: Casual, Strategy
 Link: https://store.steampowered.com/app/4954470
 ==================================================
 
+
+--- Run: 2026-08-04 22:10:26 --- (1 new game(s) found)
+
+==================================================
+Name: Project File Library
+Release Date: Aug 4, 2026
+Price: Free to Play
+Genres: Simulation, Free To Play
+Link: https://store.steampowered.com/app/4944160
+==================================================
+
