@@ -55379,3 +55379,70 @@ Genres: Design & Illustration, Photo Editing, Software Training
 Link: https://store.steampowered.com/app/4953760
 ==================================================
 
+
+--- Run: 2026-08-04 10:24:51 --- (8 new game(s) found)
+
+==================================================
+Name: Outono Adventures
+Release Date: Coming soon
+Price: Free to Play
+Genres: Action, Adventure, Indie, Racing, Free To Play
+Link: https://store.steampowered.com/app/4980010
+==================================================
+
+==================================================
+Name: Recessive
+Release Date: Aug 4, 2026
+Price: $9.99
+Genres: Adventure, Casual, Simulation, Strategy
+Link: https://store.steampowered.com/app/4897700
+==================================================
+
+==================================================
+Name: Dangerous Diver
+Release Date: Aug 4, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Action
+Link: https://store.steampowered.com/app/4901970
+==================================================
+
+==================================================
+Name: Let's Catch the Variable!
+Release Date: Aug 4, 2026
+Price: $9.74 (-25%, was $12.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4908850
+==================================================
+
+==================================================
+Name: DEADLINE
+Release Date: Aug 4, 2026
+Price: $2.69 (-10%, was $2.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4968450
+==================================================
+
+==================================================
+Name: Usurper Reborn
+Release Date: Aug 4, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Action, Adventure, Casual, Indie, RPG
+Link: https://store.steampowered.com/app/4336570
+==================================================
+
+==================================================
+Name: Battle Marine Advance!
+Release Date: Aug 4, 2026
+Price: $0.99
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4975370
+==================================================
+
+==================================================
+Name: Shadow Princess
+Release Date: Aug 4, 2026
+Price: $0.99
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4975090
+==================================================
+
