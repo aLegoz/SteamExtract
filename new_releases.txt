@@ -55746,3 +55746,30 @@ Genres: Indie, Simulation
 Link: https://store.steampowered.com/app/4078420
 ==================================================
 
+
+--- Run: 2026-08-04 20:59:29 --- (3 new game(s) found)
+
+==================================================
+Name: Oharion
+Release Date: Aug 4, 2026
+Price: Free to Play
+Genres: Indie, Massively Multiplayer, RPG, Free To Play
+Link: https://store.steampowered.com/app/4739190
+==================================================
+
+==================================================
+Name: Petri Panic
+Release Date: Aug 4, 2026
+Price: $1.69 (-15%, was $1.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4896230
+==================================================
+
+==================================================
+Name: Just Cribbage
+Release Date: Aug 4, 2026
+Price: $6.99
+Genres: Casual, Strategy
+Link: https://store.steampowered.com/app/4954470
+==================================================
+
