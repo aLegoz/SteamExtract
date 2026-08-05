@@ -56529,3 +56529,22 @@ Genres: Casual
 Link: https://store.steampowered.com/app/4217920
 ==================================================
 
+
+--- Run: 2026-08-05 23:44:07 --- (2 new game(s) found)
+
+==================================================
+Name: PatriotMemoirs
+Release Date: Aug 5, 2026
+Price: $12.46 (-20%, was $15.58)
+Genres: Adventure, RPG, Simulation
+Link: https://store.steampowered.com/app/4108460
+==================================================
+
+==================================================
+Name: Room69
+Release Date: Aug 5, 2026
+Price: $5.09 (-15%, was $5.99)
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4926930
+==================================================
+
