@@ -56510,3 +56510,22 @@ Genres: Casual, Indie
 Link: https://store.steampowered.com/app/4332950
 ==================================================
 
+
+--- Run: 2026-08-05 22:02:54 --- (2 new game(s) found)
+
+==================================================
+Name: MISRECORDED
+Release Date: Aug 5, 2026
+Price: $3.43 (-14%, was $3.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4898740
+==================================================
+
+==================================================
+Name: Rogue Breaker
+Release Date: Aug 5, 2026
+Price: $6.99
+Genres: Casual
+Link: https://store.steampowered.com/app/4217920
+==================================================
+
