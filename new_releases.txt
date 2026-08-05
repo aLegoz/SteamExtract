@@ -56277,3 +56277,118 @@ Genres: Adventure, Indie, RPG, Strategy
 Link: https://store.steampowered.com/app/4973450
 ==================================================
 
+
+--- Run: 2026-08-05 17:16:04 --- (14 new game(s) found)
+
+==================================================
+Name: Cat Crisis
+Release Date: Aug 5, 2026
+Price: $1.97 (-34%, was $2.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/4743970
+==================================================
+
+==================================================
+Name: Cargo, Please!
+Release Date: Aug 5, 2026
+Price: $7.19 (-20%, was $8.99)
+Genres: Adventure, Casual, Indie, Racing, Simulation
+Link: https://store.steampowered.com/app/4160920
+==================================================
+
+==================================================
+Name: Fields of Mistria
+Release Date: Aug 5, 2026
+Price: $12.59 (-10%, was $13.99)
+Genres: Indie, RPG, Simulation
+Link: https://store.steampowered.com/app/2142790
+==================================================
+
+==================================================
+Name: Quarantine Zombies - Prologue
+Release Date: Aug 5, 2026
+Price: Free to Play
+Genres: Action, Adventure, Indie, Simulation, Free To Play
+Link: https://store.steampowered.com/app/4411570
+==================================================
+
+==================================================
+Name: Drag'N Dungeon
+Release Date: Aug 5, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: Indie, RPG
+Link: https://store.steampowered.com/app/3753150
+==================================================
+
+==================================================
+Name: Red Interior
+Release Date: Aug 5, 2026
+Price: Free to Play
+Genres: Action, Adventure, Indie, Free To Play
+Link: https://store.steampowered.com/app/4897690
+==================================================
+
+==================================================
+Name: Cleaning Up The Puzzle Gallery
+Release Date: Aug 5, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4927490
+==================================================
+
+==================================================
+Name: BrickSpace
+Release Date: Aug 5, 2026
+Price: $7.49
+Genres: Action, Casual
+Link: https://store.steampowered.com/app/4874390
+==================================================
+
+==================================================
+Name: Aooni2
+Release Date: Aug 5, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: Action, Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/4226580
+==================================================
+
+==================================================
+Name: Changeable Guardian ESTIQUE
+Release Date: Aug 5, 2026
+Price: $12.79 (-20%, was $15.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4078160
+==================================================
+
+==================================================
+Name: MapGod
+Release Date: Aug 5, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4922530
+==================================================
+
+==================================================
+Name: Road of Heart
+Release Date: Aug 5, 2026
+Price: $5.39 (-10%, was $5.99)
+Genres: Adventure, RPG
+Link: https://store.steampowered.com/app/4661640
+==================================================
+
+==================================================
+Name: Uncanny Tales: The Watcher
+Release Date: Aug 5, 2026
+Price: $5.59 (-20%, was $6.99)
+Genres: Adventure, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4217690
+==================================================
+
+==================================================
+Name: Pack my Order
+Release Date: Aug 5, 2026
+Price: $3.39 (-15%, was $3.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4388420
+==================================================
+
