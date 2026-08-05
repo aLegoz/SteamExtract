@@ -55881,3 +55881,54 @@ Genres: Adventure, Simulation
 Link: https://store.steampowered.com/app/4871670
 ==================================================
 
+
+--- Run: 2026-08-05 07:29:49 --- (6 new game(s) found)
+
+==================================================
+Name: Lust Story
+Release Date: Aug 4, 2026
+Price: $3.39 (-15%, was $3.99)
+Genres: Adventure
+Link: https://store.steampowered.com/app/4851740
+==================================================
+
+==================================================
+Name: Speedy Gun Savage
+Release Date: Aug 4, 2026
+Price: $1.99 (-80%, was $9.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/1530370
+==================================================
+
+==================================================
+Name: Launching to Stop the Enemy's Final Fleet
+Release Date: Aug 4, 2026
+Price: $6.59 (-40%, was $10.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4751020
+==================================================
+
+==================================================
+Name: That's Not My Mom
+Release Date: Aug 4, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Indie
+Link: https://store.steampowered.com/app/5000020
+==================================================
+
+==================================================
+Name: Transcendent
+Release Date: Aug 4, 2026
+Price: $6.39 (-20%, was $7.99)
+Genres: Action, RPG
+Link: https://store.steampowered.com/app/4817240
+==================================================
+
+==================================================
+Name: Sunny Spot Cat's ramble
+Release Date: Aug 4, 2026
+Price: $2.09 (-30%, was $2.99)
+Genres: Action, Casual
+Link: https://store.steampowered.com/app/4753530
+==================================================
+
