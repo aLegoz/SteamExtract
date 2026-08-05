@@ -55932,3 +55932,102 @@ Genres: Action, Casual
 Link: https://store.steampowered.com/app/4753530
 ==================================================
 
+
+--- Run: 2026-08-05 10:21:41 --- (12 new game(s) found)
+
+==================================================
+Name: Vealo - Clean Desktop
+Release Date: Aug 5, 2026
+Price: Free to Play
+Genres: Free To Play, Utilities
+Link: https://store.steampowered.com/app/4940750
+==================================================
+
+==================================================
+Name: TasteJump
+Release Date: Aug 5, 2026
+Price: $4.99
+Genres: Action, Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4962090
+==================================================
+
+==================================================
+Name: 樹世界：雲端庇護所
+Release Date: Aug 5, 2026
+Price: Free to Play
+Genres: Adventure, Casual, RPG, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4777900
+==================================================
+
+==================================================
+Name: Slotlocked
+Release Date: Aug 5, 2026
+Price: $3.19 (-20%, was $3.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4952440
+==================================================
+
+==================================================
+Name: Incremental Birds
+Release Date: Aug 5, 2026
+Price: $0.59 (-40%, was $0.99)
+Genres: Action, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4965770
+==================================================
+
+==================================================
+Name: Vessel
+Release Date: Aug 5, 2026
+Price: $5.94 (-15%, was $6.99)
+Genres: Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/3855650
+==================================================
+
+==================================================
+Name: corectl
+Release Date: Aug 5, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Strategy
+Link: https://store.steampowered.com/app/4963500
+==================================================
+
+==================================================
+Name: Glamour Kaleidoscope
+Release Date: Aug 5, 2026
+Price: $7.19 (-10%, was $7.99)
+Genres: Casual, RPG
+Link: https://store.steampowered.com/app/3436280
+==================================================
+
+==================================================
+Name: My Fav Chill Streamer Dies a Million Times｜ゆるゆる生配信する推しは100万回死ぬ
+Release Date: Aug 5, 2026
+Price: $31.49 (-10%, was $34.99)
+Genres: Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/3507880
+==================================================
+
+==================================================
+Name: World's Greatest Author
+Release Date: Aug 4, 2026
+Price: $6.79 (-15%, was $7.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/4414640
+==================================================
+
+==================================================
+Name: Dream City Fugitive
+Release Date: Aug 4, 2026
+Price: $5.99 (-25%, was $7.99)
+Genres: RPG
+Link: https://store.steampowered.com/app/4035530
+==================================================
+
+==================================================
+Name: Guild's Requiem
+Release Date: Aug 4, 2026
+Price: $13.49 (-10%, was $14.99)
+Genres: Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/4918900
+==================================================
+
