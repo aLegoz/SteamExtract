@@ -56031,3 +56031,62 @@ Genres: Indie, RPG, Strategy
 Link: https://store.steampowered.com/app/4918900
 ==================================================
 
+
+--- Run: 2026-08-05 12:30:25 --- (7 new game(s) found)
+
+==================================================
+Name: Waifu Potion
+Release Date: Aug 5, 2026
+Price: $2.06 (-31%, was $2.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4731120
+==================================================
+
+==================================================
+Name: 海边的忘川亭
+Release Date: Aug 5, 2026
+Price: $11.99
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4243220
+==================================================
+
+==================================================
+Name: World of Chaos
+Release Date: Aug 5, 2026
+Price: $9.59 (-20%, was $11.99)
+Genres: Action, Adventure, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/3718900
+==================================================
+
+==================================================
+Name: The Shadow Between Words
+Release Date: Aug 5, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4383990
+==================================================
+
+==================================================
+Name: Dawn Sanatorium
+Release Date: Aug 5, 2026
+Price: $2.99
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4979190
+==================================================
+
+==================================================
+Name: Jeremy, No!
+Release Date: Aug 5, 2026
+Price: $3.99
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4077720
+==================================================
+
+==================================================
+Name: Sweetie Candy Maze: Crimson Strawberry
+Release Date: Aug 5, 2026
+Price: $1.19 (-40%, was $1.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4978360
+==================================================
+
