@@ -56483,3 +56483,30 @@ Genres: Action, Racing
 Link: https://store.steampowered.com/app/4520550
 ==================================================
 
+
+--- Run: 2026-08-05 20:53:46 --- (3 new game(s) found)
+
+==================================================
+Name: Typing Show
+Release Date: Aug 5, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4953710
+==================================================
+
+==================================================
+Name: Asteroid M-12
+Release Date: Aug 5, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4411770
+==================================================
+
+==================================================
+Name: Eye X Eye
+Release Date: Aug 5, 2026
+Price: $1.49
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4332950
+==================================================
+
