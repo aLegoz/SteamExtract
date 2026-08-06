@@ -56661,3 +56661,86 @@ Genres: Action, Casual, Indie, Racing, Sports
 Link: https://store.steampowered.com/app/4960110
 ==================================================
 
+
+--- Run: 2026-08-06 10:23:07 --- (10 new game(s) found)
+
+==================================================
+Name: Football Fictional World Simulator
+Release Date: Aug 6, 2026
+Price: $13.49 (-10%, was $14.99)
+Genres: Simulation, Sports, Strategy
+Link: https://store.steampowered.com/app/4985140
+==================================================
+
+==================================================
+Name: Fury of the Axe
+Release Date: Aug 6, 2026
+Price: $9.99
+Genres: Action, Adventure, RPG
+Link: https://store.steampowered.com/app/4692890
+==================================================
+
+==================================================
+Name: Connie and the Essence of Chaos
+Release Date: Aug 6, 2026
+Price: $17.99 (-10%, was $19.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/2958210
+==================================================
+
+==================================================
+Name: Axion Racer
+Release Date: Aug 6, 2026
+Price: $12.74 (-15%, was $14.99)
+Genres: Racing
+Link: https://store.steampowered.com/app/4924800
+==================================================
+
+==================================================
+Name: Dopamine Eggs
+Release Date: Aug 6, 2026
+Price: $6.99
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4967270
+==================================================
+
+==================================================
+Name: Summoner's Gambit
+Release Date: Aug 6, 2026
+Price: $7.19 (-10%, was $7.99)
+Genres: Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/3570110
+==================================================
+
+==================================================
+Name: Doloc Town
+Release Date: Aug 5, 2026
+Price: $15.99 (-20%, was $19.99)
+Genres: Adventure, Casual, Indie, RPG, Simulation
+Link: https://store.steampowered.com/app/2285550
+==================================================
+
+==================================================
+Name: ALPARGUN
+Release Date: Aug 5, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4954660
+==================================================
+
+==================================================
+Name: Black Saint: Goku
+Release Date: Aug 5, 2026
+Price: $2.79 (-30%, was $3.99)
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/4832440
+==================================================
+
+==================================================
+Name: Take That Hill
+Release Date: Aug 5, 2026
+Price: $17.99 (-10%, was $19.99)
+Genres: Simulation, Strategy
+Link: https://store.steampowered.com/app/4530210
+==================================================
+
