@@ -56618,3 +56618,46 @@ Genres: Casual, Indie, Simulation
 Link: https://store.steampowered.com/app/4959910
 ==================================================
 
+
+--- Run: 2026-08-06 07:30:08 --- (5 new game(s) found)
+
+==================================================
+Name: Dere Quintet
+Release Date: Aug 5, 2026
+Price: Free to Play
+Genres: Casual, RPG, Free To Play
+Link: https://store.steampowered.com/app/4776130
+==================================================
+
+==================================================
+Name: Nexfall
+Release Date: Aug 5, 2026
+Price: $6.29 (-10%, was $6.99)
+Genres: Action, Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4754960
+==================================================
+
+==================================================
+Name: Derby Heroines: Run, Bet, Win!
+Release Date: Aug 5, 2026
+Price: $13.49 (-10%, was $14.99)
+Genres: Action, Casual, Indie, Racing, Simulation, Sports
+Link: https://store.steampowered.com/app/4940330
+==================================================
+
+==================================================
+Name: Super Boxing Day
+Release Date: Aug 5, 2026
+Price: $10.00
+Genres: Casual, Simulation, Sports
+Link: https://store.steampowered.com/app/4431660
+==================================================
+
+==================================================
+Name: Blast Off! Summer Showdown
+Release Date: Aug 5, 2026
+Price: $5.99 (-25%, was $7.99)
+Genres: Action, Casual, Indie, Racing, Sports
+Link: https://store.steampowered.com/app/4960110
+==================================================
+
