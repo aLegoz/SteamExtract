@@ -56878,3 +56878,230 @@ Genres: RPG
 Link: https://store.steampowered.com/app/4932420
 ==================================================
 
+
+--- Run: 2026-08-06 23:47:07 --- (28 new game(s) found)
+
+==================================================
+Name: Rekindled
+Release Date: Aug 6, 2026
+Price: Free to Play
+Genres: Action, Free To Play
+Link: https://store.steampowered.com/app/4926530
+==================================================
+
+==================================================
+Name: 虚日无常
+Release Date: Aug 6, 2026
+Price: Free to Play
+Genres: Adventure, Indie, RPG, Free To Play
+Link: https://store.steampowered.com/app/4835020
+==================================================
+
+==================================================
+Name: SLANT
+Release Date: Aug 6, 2026
+Price: $3.49 (-30%, was $4.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4875090
+==================================================
+
+==================================================
+Name: Heroes of the Triangle: Mask Rush
+Release Date: Aug 6, 2026
+Price: $5.09 (-15%, was $5.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/3709180
+==================================================
+
+==================================================
+Name: Impartial
+Release Date: Aug 6, 2026
+Price: $10.99
+Genres: Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/3420000
+==================================================
+
+==================================================
+Name: Monster Garden: Monster Girls Labyrinth
+Release Date: Aug 6, 2026
+Price: $17.03 (-10%, was $18.93)
+Genres: Indie, RPG
+Link: https://store.steampowered.com/app/4815890
+==================================================
+
+==================================================
+Name: BloodSpire
+Release Date: Aug 6, 2026
+Price: $0.99
+Genres: Action, Casual
+Link: https://store.steampowered.com/app/4918790
+==================================================
+
+==================================================
+Name: SlimeHold
+Release Date: Aug 6, 2026
+Price: $7.99
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4934320
+==================================================
+
+==================================================
+Name: Watch The Edge Honey!
+Release Date: Aug 6, 2026
+Price: $5.09 (-15%, was $5.99)
+Genres: Adventure
+Link: https://store.steampowered.com/app/4932350
+==================================================
+
+==================================================
+Name: Amaranth Source Online
+Release Date: Aug 6, 2026
+Price: $20.00
+Genres: Adventure, Indie, Massively Multiplayer, RPG
+Link: https://store.steampowered.com/app/3356870
+==================================================
+
+==================================================
+Name: Avoid Mushrooms
+Release Date: Aug 6, 2026
+Price: Free to Play
+Genres: Adventure, Free To Play
+Link: https://store.steampowered.com/app/4925090
+==================================================
+
+==================================================
+Name: Pick Ball
+Release Date: Aug 6, 2026
+Price: $2.24 (-10%, was $2.49)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4763080
+==================================================
+
+==================================================
+Name: I Missed the Apocalypse
+Release Date: Aug 6, 2026
+Price: Free to Play
+Genres: Action, Indie, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4901850
+==================================================
+
+==================================================
+Name: Rest In Paws
+Release Date: Aug 6, 2026
+Price: Free to Play
+Genres: Adventure, Casual, Free To Play
+Link: https://store.steampowered.com/app/3706450
+==================================================
+
+==================================================
+Name: KUBB
+Release Date: Aug 6, 2026
+Price: $5.40 (-10%, was $6.00)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4609980
+==================================================
+
+==================================================
+Name: Capy Castaway
+Release Date: Aug 6, 2026
+Price: $17.99 (-10%, was $19.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/2890240
+==================================================
+
+==================================================
+Name: Mind Inc
+Release Date: Aug 6, 2026
+Price: $3.19 (-20%, was $3.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/3797990
+==================================================
+
+==================================================
+Name: Sweet Church
+Release Date: Aug 6, 2026
+Price: $0.89 (-10%, was $0.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4677040
+==================================================
+
+==================================================
+Name: Approximately Up
+Release Date: Aug 6, 2026
+Price: $19.99 (-20%, was $24.99)
+Genres: Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/3904850
+==================================================
+
+==================================================
+Name: Deadliest Pigeon
+Release Date: Aug 6, 2026
+Price: $4.89 (-30%, was $6.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/3687790
+==================================================
+
+==================================================
+Name: Spiritstead
+Release Date: Aug 6, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/3501540
+==================================================
+
+==================================================
+Name: 100 Toy Cats
+Release Date: Aug 6, 2026
+Price: $1.39 (-30%, was $1.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4310670
+==================================================
+
+==================================================
+Name: Space Detective 14
+Release Date: Aug 6, 2026
+Price: $2.99 (-40%, was $4.99)
+Genres: Adventure
+Link: https://store.steampowered.com/app/4987040
+==================================================
+
+==================================================
+Name: Blackdoor
+Release Date: Aug 6, 2026
+Price: $9.74 (-25%, was $12.99)
+Genres: Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4562430
+==================================================
+
+==================================================
+Name: Sovereign Tower
+Release Date: Aug 6, 2026
+Price: $16.99 (-15%, was $19.99)
+Genres: Indie, RPG
+Link: https://store.steampowered.com/app/4113940
+==================================================
+
+==================================================
+Name: The Skin Stapler
+Release Date: Aug 6, 2026
+Price: $11.99 (-20%, was $14.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4310610
+==================================================
+
+==================================================
+Name: Star Haul Tycoon
+Release Date: Aug 6, 2026
+Price: $7.49 (-25%, was $9.99)
+Genres: Casual, Simulation, Strategy
+Link: https://store.steampowered.com/app/3568280
+==================================================
+
+==================================================
+Name: Galaxor
+Release Date: Aug 6, 2026
+Price: Free to Play
+Genres: Massively Multiplayer, Simulation, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4884390
+==================================================
+
