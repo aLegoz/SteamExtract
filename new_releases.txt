@@ -56827,3 +56827,54 @@ Genres: Action, Casual
 Link: https://store.steampowered.com/app/4848110
 ==================================================
 
+
+--- Run: 2026-08-06 15:03:57 --- (6 new game(s) found)
+
+==================================================
+Name: Obsessed Lucy
+Release Date: Aug 6, 2026
+Price: $3.59 (-10%, was $3.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/3995190
+==================================================
+
+==================================================
+Name: BONEREADER
+Release Date: Aug 6, 2026
+Price: $4.99
+Genres: Strategy
+Link: https://store.steampowered.com/app/4240080
+==================================================
+
+==================================================
+Name: MEKAKUSHI-SAN
+Release Date: Aug 6, 2026
+Price: $2.39 (-20%, was $2.99)
+Genres: Adventure
+Link: https://store.steampowered.com/app/4919310
+==================================================
+
+==================================================
+Name: Fantasy Network
+Release Date: Aug 6, 2026
+Price: $12.74 (-15%, was $14.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/1492100
+==================================================
+
+==================================================
+Name: CastleOn
+Release Date: Aug 6, 2026
+Price: $5.98 (-35%, was $9.20)
+Genres: Simulation, Strategy
+Link: https://store.steampowered.com/app/3638920
+==================================================
+
+==================================================
+Name: Psi/Clash Rumble!!
+Release Date: Aug 6, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: RPG
+Link: https://store.steampowered.com/app/4932420
+==================================================
+
