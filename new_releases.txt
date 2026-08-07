@@ -57945,3 +57945,22 @@ Link: https://store.steampowered.com/app/4888170
 
 --- Run: 2026-08-07 22:22:37 --- (0 new game(s) found)
 
+
+--- Run: 2026-08-07 23:22:05 --- (2 new game(s) found)
+
+==================================================
+Name: Cape Warrior
+Release Date: Aug 7, 2026
+Price: $1.79 (-40%, was $2.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/4991980
+==================================================
+
+==================================================
+Name: PS Maker
+Release Date: Aug 7, 2026
+Price: $35.99 (-20%, was $44.99)
+Genres: Adventure, Indie, RPG, Design & Illustration, Education, Game Development
+Link: https://store.steampowered.com/app/4823590
+==================================================
+
