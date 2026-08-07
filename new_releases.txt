@@ -57188,3 +57188,70 @@ Genres: Casual, Indie, Strategy
 Link: https://store.steampowered.com/app/4934040
 ==================================================
 
+
+--- Run: 2026-08-07 04:23:45 --- (8 new game(s) found)
+
+==================================================
+Name: SPACE DASHER
+Release Date: Aug 6, 2026
+Price: Free to Play
+Genres: Action, Free To Play
+Link: https://store.steampowered.com/app/4885310
+==================================================
+
+==================================================
+Name: Marie's Adventure
+Release Date: Aug 6, 2026
+Price: $15.00
+Genres: Adventure, Indie, RPG, Simulation
+Link: https://store.steampowered.com/app/4819360
+==================================================
+
+==================================================
+Name: Hololive Fantasy Battle
+Release Date: Aug 6, 2026
+Price: $9.75 (-25%, was $13.00)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4003770
+==================================================
+
+==================================================
+Name: Clinical Waifu
+Release Date: Aug 6, 2026
+Price: $2.06 (-31%, was $2.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4699350
+==================================================
+
+==================================================
+Name: We, Junk Artists
+Release Date: Aug 6, 2026
+Price: $8.49 (-15%, was $9.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/3470550
+==================================================
+
+==================================================
+Name: Cellar Keeper
+Release Date: Aug 6, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4935510
+==================================================
+
+==================================================
+Name: Innocent Assault SS
+Release Date: Aug 6, 2026
+Price: $9.89 (-10%, was $10.99)
+Genres: Action, Adventure
+Link: https://store.steampowered.com/app/4265410
+==================================================
+
+==================================================
+Name: LiLM: Living language model
+Release Date: Aug 6, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4953630
+==================================================
+
