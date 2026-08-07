@@ -57105,3 +57105,86 @@ Genres: Massively Multiplayer, Simulation, Strategy, Free To Play
 Link: https://store.steampowered.com/app/4884390
 ==================================================
 
+
+--- Run: 2026-08-07 01:58:59 --- (10 new game(s) found)
+
+==================================================
+Name: Tiana's Fishing Diary
+Release Date: Aug 6, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/4122170
+==================================================
+
+==================================================
+Name: 战法道传奇
+Release Date: Aug 6, 2026
+Price: Free to Play
+Genres: Action, Adventure, Massively Multiplayer, RPG, Free To Play
+Link: https://store.steampowered.com/app/4757840
+==================================================
+
+==================================================
+Name: Penbeat
+Release Date: Aug 6, 2026
+Price: $5.39 (-10%, was $5.99)
+Genres: Audio Production, Design & Illustration
+Link: https://store.steampowered.com/app/4851400
+==================================================
+
+==================================================
+Name: EMIT:Embrace Beyond Time
+Release Date: Aug 6, 2026
+Price: $8.09 (-10%, was $8.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4890150
+==================================================
+
+==================================================
+Name: One Stroke Hunter
+Release Date: Aug 6, 2026
+Price: Free to Play
+Genres: Casual, Indie, RPG, Free To Play
+Link: https://store.steampowered.com/app/4843070
+==================================================
+
+==================================================
+Name: 4am
+Release Date: Aug 6, 2026
+Price: $3.24 (-35%, was $4.99)
+Genres: Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/4963870
+==================================================
+
+==================================================
+Name: Built From Nothing
+Release Date: Aug 6, 2026
+Price: $9.89 (-10%, was $10.99)
+Genres: Simulation
+Link: https://store.steampowered.com/app/4956790
+==================================================
+
+==================================================
+Name: Madhearts
+Release Date: Aug 6, 2026
+Price: Free to Play
+Genres: Action, Casual, Indie, Strategy, Free To Play
+Link: https://store.steampowered.com/app/2937240
+==================================================
+
+==================================================
+Name: Grim Axiom
+Release Date: Aug 6, 2026
+Price: $7.19 (-10%, was $7.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/3882150
+==================================================
+
+==================================================
+Name: Hentai Furry Lioness
+Release Date: Aug 6, 2026
+Price: $0.69 (-30%, was $0.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4934040
+==================================================
+
