@@ -57883,3 +57883,62 @@ Genres: Free To Play, Utilities
 Link: https://store.steampowered.com/app/4681190
 ==================================================
 
+
+--- Run: 2026-08-07 21:26:26 --- (7 new game(s) found)
+
+==================================================
+Name: The Prince's Keeper
+Release Date: Aug 7, 2026
+Price: Free to Play
+Genres: Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/4810540
+==================================================
+
+==================================================
+Name: Grizzy and the Lemmings - Crazy Party
+Release Date: Aug 7, 2026
+Price: $39.99
+Genres: Action, Casual
+Link: https://store.steampowered.com/app/4706880
+==================================================
+
+==================================================
+Name: Don't Knock Again, Sabrina!
+Release Date: Aug 7, 2026
+Price: $4.79 (-40%, was $7.99)
+Genres: Simulation
+Link: https://store.steampowered.com/app/4862450
+==================================================
+
+==================================================
+Name: Arcade Mogul
+Release Date: Aug 7, 2026
+Price: $8.49 (-15%, was $9.99)
+Genres: Simulation
+Link: https://store.steampowered.com/app/4953950
+==================================================
+
+==================================================
+Name: John Fox
+Release Date: Aug 7, 2026
+Price: $5.59 (-20%, was $6.99)
+Genres: Action, Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/2859080
+==================================================
+
+==================================================
+Name: Nakkash: A Miniature Adventure
+Release Date: Aug 7, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Action, Adventure, Casual, Indie, RPG, Simulation
+Link: https://store.steampowered.com/app/4399870
+==================================================
+
+==================================================
+Name: Your Young Mother: NSFW PUZZLE
+Release Date: Aug 7, 2026
+Price: $3.94 (-21%, was $4.99)
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4888170
+==================================================
+
