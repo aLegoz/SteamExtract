@@ -57435,3 +57435,86 @@ Genres: Strategy
 Link: https://store.steampowered.com/app/4911260
 ==================================================
 
+
+--- Run: 2026-08-07 12:35:15 --- (10 new game(s) found)
+
+==================================================
+Name: Could You Be a Gal Master?
+Release Date: Aug 7, 2026
+Price: $1.39 (-30%, was $1.99)
+Genres: RPG
+Link: https://store.steampowered.com/app/4513880
+==================================================
+
+==================================================
+Name: Rock Paper Scissors Mayhem
+Release Date: Aug 7, 2026
+Price: $2.99
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4425670
+==================================================
+
+==================================================
+Name: Tide Of Tactics
+Release Date: Aug 7, 2026
+Price: $13.49 (-10%, was $14.99)
+Genres: Strategy
+Link: https://store.steampowered.com/app/4005630
+==================================================
+
+==================================================
+Name: OKUGAFUCHI Shopping Arcade
+Release Date: Aug 7, 2026
+Price: $10.20 (-15%, was $12.00)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/3232860
+==================================================
+
+==================================================
+Name: Toy Shop Tidy Up
+Release Date: Aug 7, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Casual, Simulation
+Link: https://store.steampowered.com/app/4914830
+==================================================
+
+==================================================
+Name: Minky
+Release Date: Aug 7, 2026
+Price: $1.73 (-13%, was $1.99)
+Genres: Action, Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4992400
+==================================================
+
+==================================================
+Name: Soul•Last Bastion
+Release Date: Aug 7, 2026
+Price: $4.54 (-35%, was $6.99)
+Genres: Action, Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/3607810
+==================================================
+
+==================================================
+Name: Hentai Tales: Lewd Creatures
+Release Date: Aug 7, 2026
+Price: $0.59 (-40%, was $0.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4801580
+==================================================
+
+==================================================
+Name: Sad Virus Tokyo
+Release Date: Aug 7, 2026
+Price: $0.59 (-40%, was $0.99)
+Genres: Adventure, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4992270
+==================================================
+
+==================================================
+Name: Dark of the Depths
+Release Date: Aug 6, 2026
+Price: $2.99 (-40%, was $4.99)
+Genres: Simulation
+Link: https://store.steampowered.com/app/3382750
+==================================================
+
