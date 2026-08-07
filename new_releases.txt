@@ -57735,3 +57735,30 @@ Genres: Action, Casual, Indie
 Link: https://store.steampowered.com/app/4894840
 ==================================================
 
+
+--- Run: 2026-08-07 17:38:02 --- (3 new game(s) found)
+
+==================================================
+Name: Lucky Shot
+Release Date: Aug 7, 2026
+Price: $9.74 (-25%, was $12.99)
+Genres: Action, Indie, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4092940
+==================================================
+
+==================================================
+Name: Shield Operator
+Release Date: Aug 7, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Action, Simulation, Strategy
+Link: https://store.steampowered.com/app/4929650
+==================================================
+
+==================================================
+Name: Harem vs Zombies
+Release Date: Aug 7, 2026
+Price: $6.29 (-10%, was $6.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4031460
+==================================================
+
