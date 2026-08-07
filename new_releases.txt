@@ -57593,3 +57593,78 @@ Genres: Casual, Indie, Simulation, Sports
 Link: https://store.steampowered.com/app/4993050
 ==================================================
 
+
+--- Run: 2026-08-07 15:41:27 --- (9 new game(s) found)
+
+==================================================
+Name: Pets Therapy - Desktop Pets
+Release Date: Aug 7, 2026
+Price: $12.99
+Genres: Indie, Utilities
+Link: https://store.steampowered.com/app/4769020
+==================================================
+
+==================================================
+Name: Caramellia
+Release Date: Aug 7, 2026
+Price: $19.99
+Genres: Adventure, Casual, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/4920880
+==================================================
+
+==================================================
+Name: Kings Origin
+Release Date: Aug 7, 2026
+Price: $6.79 (-15%, was $7.99)
+Genres: Indie, RPG, Simulation, Strategy
+Link: https://store.steampowered.com/app/2907320
+==================================================
+
+==================================================
+Name: The Ocean Between Us
+Release Date: Aug 7, 2026
+Price: $1.79 (-40%, was $2.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4931260
+==================================================
+
+==================================================
+Name: The Castle of Dr. Hoot
+Release Date: Aug 7, 2026
+Price: $4.99
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/4723300
+==================================================
+
+==================================================
+Name: Shy Cats Hidden Orchestra 2 - The Return
+Release Date: Aug 7, 2026
+Price: $5.27 (-12%, was $5.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/3434720
+==================================================
+
+==================================================
+Name: LIGHT IT
+Release Date: Aug 7, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4951480
+==================================================
+
+==================================================
+Name: Hentai Clicker: Summer is streaming
+Release Date: Aug 7, 2026
+Price: $2.00 (-33%, was $2.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4935010
+==================================================
+
+==================================================
+Name: Baba Knows
+Release Date: Aug 7, 2026
+Price: $2.99
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4990660
+==================================================
+
