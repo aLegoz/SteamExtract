@@ -57365,3 +57365,62 @@ Genres: Casual, Strategy
 Link: https://store.steampowered.com/app/4875250
 ==================================================
 
+
+--- Run: 2026-08-07 09:47:19 --- (7 new game(s) found)
+
+==================================================
+Name: Drazy and the Puppets JB
+Release Date: Aug 7, 2026
+Price: $2.39 (-20%, was $2.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/4969340
+==================================================
+
+==================================================
+Name: Platformer Helmet
+Release Date: Aug 7, 2026
+Price: $0.99
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/2520240
+==================================================
+
+==================================================
+Name: Smelly Bubbles
+Release Date: Aug 7, 2026
+Price: Free to Play
+Genres: Casual, Free To Play
+Link: https://store.steampowered.com/app/4955890
+==================================================
+
+==================================================
+Name: 中国式地雷女
+Release Date: Aug 7, 2026
+Price: $6.79 (-15%, was $7.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/3782080
+==================================================
+
+==================================================
+Name: Project Neon
+Release Date: Aug 7, 2026
+Price: $19.99
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/3362800
+==================================================
+
+==================================================
+Name: Human Farm : Investigation :
+Release Date: Aug 7, 2026
+Price: $11.69 (-10%, was $12.99)
+Genres: Casual, Indie, RPG
+Link: https://store.steampowered.com/app/3953160
+==================================================
+
+==================================================
+Name: Clappy Cheeks: Lust and Magic
+Release Date: Aug 6, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Adventure, Casual
+Link: https://store.steampowered.com/app/3732100
+==================================================
+
