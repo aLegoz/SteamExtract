@@ -57298,3 +57298,70 @@ Genres: Photo Editing
 Link: https://store.steampowered.com/app/4246140
 ==================================================
 
+
+--- Run: 2026-08-07 08:03:41 --- (8 new game(s) found)
+
+==================================================
+Name: Worship Demon
+Release Date: Aug 7, 2026
+Price: $6.29 (-10%, was $6.99)
+Genres: Action, Adventure, Casual, Indie, RPG
+Link: https://store.steampowered.com/app/4172180
+==================================================
+
+==================================================
+Name: Chrome Fist
+Release Date: Aug 7, 2026
+Price: $6.29 (-10%, was $6.99)
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/4617480
+==================================================
+
+==================================================
+Name: MARODIS2
+Release Date: Aug 7, 2026
+Price: $4.79 (-20%, was $5.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4988530
+==================================================
+
+==================================================
+Name: Simple Voice Changer
+Release Date: Aug 7, 2026
+Price: $11.99 (-20%, was $14.99)
+Genres: Indie, Utilities
+Link: https://store.steampowered.com/app/4989960
+==================================================
+
+==================================================
+Name: Hearse Hero
+Release Date: Aug 6, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Action, Casual, Indie, Racing
+Link: https://store.steampowered.com/app/4159710
+==================================================
+
+==================================================
+Name: Cozy Cat Match
+Release Date: Aug 6, 2026
+Price: Free to Play
+Genres: Casual, Free To Play
+Link: https://store.steampowered.com/app/4898360
+==================================================
+
+==================================================
+Name: The Dare
+Release Date: Aug 6, 2026
+Price: $4.99
+Genres: Action, Indie, RPG
+Link: https://store.steampowered.com/app/4428150
+==================================================
+
+==================================================
+Name: Mindscape
+Release Date: Aug 6, 2026
+Price: $2.39 (-20%, was $2.99)
+Genres: Casual, Strategy
+Link: https://store.steampowered.com/app/4875250
+==================================================
+
