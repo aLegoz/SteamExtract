@@ -57853,3 +57853,14 @@ Genres: Casual, Indie
 Link: https://store.steampowered.com/app/4959080
 ==================================================
 
+
+--- Run: 2026-08-07 19:41:36 --- (1 new game(s) found)
+
+==================================================
+Name: Bobbitz
+Release Date: Aug 7, 2026
+Price: $5.39 (-10%, was $5.99)
+Genres: Adventure, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4792630
+==================================================
+
