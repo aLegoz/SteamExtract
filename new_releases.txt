@@ -57762,3 +57762,94 @@ Genres: Casual, Indie
 Link: https://store.steampowered.com/app/4031460
 ==================================================
 
+
+--- Run: 2026-08-07 18:36:03 --- (11 new game(s) found)
+
+==================================================
+Name: Stellar Odyssey
+Release Date: Coming soon
+Price: Free to Play
+Genres: Casual, Indie, Massively Multiplayer, RPG, Free To Play
+Link: https://store.steampowered.com/app/4629900
+==================================================
+
+==================================================
+Name: Shard Cycle
+Release Date: Aug 7, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Casual, Simulation
+Link: https://store.steampowered.com/app/4564230
+==================================================
+
+==================================================
+Name: Milk Can Clicker
+Release Date: Aug 7, 2026
+Price: $2.99
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4898140
+==================================================
+
+==================================================
+Name: Gemblades
+Release Date: Aug 7, 2026
+Price: $4.79 (-40%, was $7.99)
+Genres: Strategy
+Link: https://store.steampowered.com/app/3165590
+==================================================
+
+==================================================
+Name: Overstimulacrum
+Release Date: Aug 7, 2026
+Price: Free to Play
+Genres: Indie, Simulation, Free To Play
+Link: https://store.steampowered.com/app/4761210
+==================================================
+
+==================================================
+Name: Miseria
+Release Date: Aug 7, 2026
+Price: $7.19 (-10%, was $7.99)
+Genres: Casual, Indie, RPG, Simulation
+Link: https://store.steampowered.com/app/4563870
+==================================================
+
+==================================================
+Name: DEAD BEFORE WORK: THE COMMUTE
+Release Date: Aug 7, 2026
+Price: $8.49 (-15%, was $9.99)
+Genres: Action, Casual
+Link: https://store.steampowered.com/app/4142180
+==================================================
+
+==================================================
+Name: Tower Defence: Back to the roots 2
+Release Date: Aug 7, 2026
+Price: $5.09 (-15%, was $5.99)
+Genres: Strategy
+Link: https://store.steampowered.com/app/4741830
+==================================================
+
+==================================================
+Name: Miranza Futebol Clube
+Release Date: Aug 7, 2026
+Price: $2.99
+Genres: Simulation
+Link: https://store.steampowered.com/app/4913530
+==================================================
+
+==================================================
+Name: Pixel Harvest
+Release Date: Aug 7, 2026
+Price: $1.00
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4918320
+==================================================
+
+==================================================
+Name: COMMAND MONSTER
+Release Date: Aug 7, 2026
+Price: $0.84 (-15%, was $0.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4959080
+==================================================
+
