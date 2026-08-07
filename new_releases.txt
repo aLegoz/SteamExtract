@@ -57518,3 +57518,78 @@ Genres: Simulation
 Link: https://store.steampowered.com/app/3382750
 ==================================================
 
+
+--- Run: 2026-08-07 14:03:09 --- (9 new game(s) found)
+
+==================================================
+Name: Shapes: The Tower Defense Game
+Release Date: Aug 7, 2026
+Price: $5.19 (-35%, was $7.99)
+Genres: Action, Indie, Strategy
+Link: https://store.steampowered.com/app/4923140
+==================================================
+
+==================================================
+Name: Cats of Light
+Release Date: Coming soon
+Price: $3.39 (-15%, was $3.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/4669380
+==================================================
+
+==================================================
+Name: No Need for Flowers
+Release Date: Aug 7, 2026
+Price: $14.99
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/3337840
+==================================================
+
+==================================================
+Name: Chop Chop Inc.
+Release Date: Aug 7, 2026
+Price: $12.99
+Genres: Adventure
+Link: https://store.steampowered.com/app/4369130
+==================================================
+
+==================================================
+Name: Crownborne
+Release Date: Aug 7, 2026
+Price: $7.19 (-40%, was $11.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/4675850
+==================================================
+
+==================================================
+Name: Lowmoor Idle RPG: An Adventurer's Chronicle
+Release Date: Aug 7, 2026
+Price: Free to Play
+Genres: RPG, Simulation, Free To Play
+Link: https://store.steampowered.com/app/4977360
+==================================================
+
+==================================================
+Name: Tetro Battle
+Release Date: Aug 7, 2026
+Price: $4.99
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/3599150
+==================================================
+
+==================================================
+Name: Journeybound Idle
+Release Date: Aug 7, 2026
+Price: $11.04 (-15%, was $12.99)
+Genres: Adventure, Casual, Indie, RPG
+Link: https://store.steampowered.com/app/4946460
+==================================================
+
+==================================================
+Name: Mini Soccer Manager
+Release Date: Aug 7, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Casual, Indie, Simulation, Sports
+Link: https://store.steampowered.com/app/4993050
+==================================================
+
