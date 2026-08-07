@@ -57864,3 +57864,22 @@ Genres: Adventure, Casual, Indie, Simulation
 Link: https://store.steampowered.com/app/4792630
 ==================================================
 
+
+--- Run: 2026-08-07 20:26:16 --- (2 new game(s) found)
+
+==================================================
+Name: Dragonhold
+Release Date: Aug 7, 2026
+Price: $11.99 (-40%, was $19.99)
+Genres: Action, Adventure, RPG
+Link: https://store.steampowered.com/app/1510330
+==================================================
+
+==================================================
+Name: AAR Labs
+Release Date: Coming soon
+Price: Free to Play
+Genres: Free To Play, Utilities
+Link: https://store.steampowered.com/app/4681190
+==================================================
+
