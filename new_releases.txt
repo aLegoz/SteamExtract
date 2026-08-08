@@ -58176,3 +58176,14 @@ Genres: Action, Adventure, Indie
 Link: https://store.steampowered.com/app/4858810
 ==================================================
 
+
+--- Run: 2026-08-08 16:17:01 --- (1 new game(s) found)
+
+==================================================
+Name: RE:DREAM
+Release Date: Aug 8, 2026
+Price: Free to Play
+Genres: Indie, Simulation, Free To Play
+Link: https://store.steampowered.com/app/4964240
+==================================================
+
