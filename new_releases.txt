@@ -57999,3 +57999,30 @@ Genres: Casual, Indie
 Link: https://store.steampowered.com/app/4970250
 ==================================================
 
+
+--- Run: 2026-08-08 02:47:15 --- (3 new game(s) found)
+
+==================================================
+Name: Lilim Clicker
+Release Date: Aug 7, 2026
+Price: $6.39 (-20%, was $7.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/4071500
+==================================================
+
+==================================================
+Name: Deflect
+Release Date: Aug 7, 2026
+Price: $4.99
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4914740
+==================================================
+
+==================================================
+Name: 成语消消乐
+Release Date: Aug 7, 2026
+Price: $0.89 (-10%, was $0.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/4982020
+==================================================
+
