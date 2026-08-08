@@ -58165,3 +58165,14 @@ Genres: Casual, Simulation
 Link: https://store.steampowered.com/app/4657570
 ==================================================
 
+
+--- Run: 2026-08-08 15:16:43 --- (1 new game(s) found)
+
+==================================================
+Name: MegaDope 2D
+Release Date: Aug 7, 2026
+Price: $4.99
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/4858810
+==================================================
+
