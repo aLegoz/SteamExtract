@@ -58146,3 +58146,22 @@ Genres: Action, Indie, Racing, Simulation
 Link: https://store.steampowered.com/app/3682550
 ==================================================
 
+
+--- Run: 2026-08-08 14:20:56 --- (2 new game(s) found)
+
+==================================================
+Name: Grand Cru: The Wine Maker
+Release Date: Aug 8, 2026
+Price: $11.99
+Genres: Simulation, Strategy
+Link: https://store.steampowered.com/app/4451370
+==================================================
+
+==================================================
+Name: SEXOPHOBIA 🔞
+Release Date: Aug 8, 2026
+Price: $9.29 (-38%, was $14.99)
+Genres: Casual, Simulation
+Link: https://store.steampowered.com/app/4657570
+==================================================
+
