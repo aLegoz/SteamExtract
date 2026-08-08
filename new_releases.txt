@@ -58113,3 +58113,14 @@ Genres: Action, Adventure, Indie, Simulation
 Link: https://store.steampowered.com/app/1465260
 ==================================================
 
+
+--- Run: 2026-08-08 09:24:59 --- (1 new game(s) found)
+
+==================================================
+Name: Trippy Plains
+Release Date: Aug 8, 2026
+Price: $11.69 (-10%, was $12.99)
+Genres: Simulation
+Link: https://store.steampowered.com/app/4866640
+==================================================
+
