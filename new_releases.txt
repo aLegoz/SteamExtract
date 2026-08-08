@@ -58206,3 +58206,14 @@ Genres: Casual, Indie
 Link: https://store.steampowered.com/app/4943170
 ==================================================
 
+
+--- Run: 2026-08-08 20:14:33 --- (1 new game(s) found)
+
+==================================================
+Name: Pight
+Release Date: Aug 8, 2026
+Price: $3.19 (-20%, was $3.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/2682270
+==================================================
+
