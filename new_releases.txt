@@ -58217,3 +58217,14 @@ Genres: Casual, Indie
 Link: https://store.steampowered.com/app/2682270
 ==================================================
 
+
+--- Run: 2026-08-08 22:14:50 --- (1 new game(s) found)
+
+==================================================
+Name: Crosshair Ultra
+Release Date: Aug 8, 2026
+Price: Free to Play
+Genres: Free To Play, Utilities
+Link: https://store.steampowered.com/app/4956760
+==================================================
+
