@@ -58187,3 +58187,22 @@ Genres: Indie, Simulation, Free To Play
 Link: https://store.steampowered.com/app/4964240
 ==================================================
 
+
+--- Run: 2026-08-08 18:18:56 --- (2 new game(s) found)
+
+==================================================
+Name: Not a bug
+Release Date: Aug 8, 2026
+Price: $5.99 (-40%, was $9.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/4876190
+==================================================
+
+==================================================
+Name: Catetris
+Release Date: Aug 8, 2026
+Price: $5.99 (-40%, was $9.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4943170
+==================================================
+
