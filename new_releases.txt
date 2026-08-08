@@ -58026,3 +58026,22 @@ Genres: Casual
 Link: https://store.steampowered.com/app/4982020
 ==================================================
 
+
+--- Run: 2026-08-08 04:01:18 --- (2 new game(s) found)
+
+==================================================
+Name: Comet Dudes
+Release Date: Aug 7, 2026
+Price: Free to Play
+Genres: Action, Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/4960190
+==================================================
+
+==================================================
+Name: Alice and the Devil's Prison
+Release Date: Aug 7, 2026
+Price: $12.59 (-10%, was $13.99)
+Genres: Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/4145350
+==================================================
+
