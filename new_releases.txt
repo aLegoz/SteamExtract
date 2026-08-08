@@ -58072,3 +58072,14 @@ Genres: Adventure, Simulation
 Link: https://store.steampowered.com/app/4875600
 ==================================================
 
+
+--- Run: 2026-08-08 06:29:59 --- (1 new game(s) found)
+
+==================================================
+Name: 天亮之后
+Release Date: Aug 7, 2026
+Price: $5.09 (-15%, was $5.99)
+Genres: Indie
+Link: https://store.steampowered.com/app/4838500
+==================================================
+
