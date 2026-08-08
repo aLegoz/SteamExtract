@@ -58094,3 +58094,22 @@ Genres: Adventure
 Link: https://store.steampowered.com/app/3389490
 ==================================================
 
+
+--- Run: 2026-08-08 08:24:56 --- (2 new game(s) found)
+
+==================================================
+Name: 日本地図 都市パズル
+Release Date: Aug 8, 2026
+Price: $8.99
+Genres: Casual
+Link: https://store.steampowered.com/app/4966740
+==================================================
+
+==================================================
+Name: Cyberpunk SFX
+Release Date: Aug 8, 2026
+Price: $1.49 (-85%, was $9.99)
+Genres: Action, Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/1465260
+==================================================
+
