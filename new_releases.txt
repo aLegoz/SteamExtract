@@ -58045,3 +58045,30 @@ Genres: Adventure, Indie, Simulation
 Link: https://store.steampowered.com/app/4145350
 ==================================================
 
+
+--- Run: 2026-08-08 05:32:59 --- (3 new game(s) found)
+
+==================================================
+Name: Tailbreak
+Release Date: Aug 7, 2026
+Price: $18.74 (-25%, was $24.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/4685470
+==================================================
+
+==================================================
+Name: Terra Physics & Money
+Release Date: Aug 7, 2026
+Price: $5.39 (-10%, was $5.99)
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4983940
+==================================================
+
+==================================================
+Name: Selection Bias
+Release Date: Aug 7, 2026
+Price: $4.19 (-40%, was $6.99)
+Genres: Adventure, Simulation
+Link: https://store.steampowered.com/app/4875600
+==================================================
+
