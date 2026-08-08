@@ -58135,3 +58135,14 @@ Genres: Adventure, Indie, Simulation
 Link: https://store.steampowered.com/app/4961730
 ==================================================
 
+
+--- Run: 2026-08-08 13:35:57 --- (1 new game(s) found)
+
+==================================================
+Name: Birb Game
+Release Date: Aug 8, 2026
+Price: $3.74 (-25%, was $4.99)
+Genres: Action, Indie, Racing, Simulation
+Link: https://store.steampowered.com/app/3682550
+==================================================
+
