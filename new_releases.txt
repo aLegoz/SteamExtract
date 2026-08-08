@@ -58124,3 +58124,14 @@ Genres: Simulation
 Link: https://store.steampowered.com/app/4866640
 ==================================================
 
+
+--- Run: 2026-08-08 10:18:42 --- (1 new game(s) found)
+
+==================================================
+Name: Accident Investigator Simulator: Black Box
+Release Date: Aug 8, 2026
+Price: $12.59 (-10%, was $13.99)
+Genres: Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/4961730
+==================================================
+
