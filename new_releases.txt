@@ -58228,3 +58228,14 @@ Genres: Free To Play, Utilities
 Link: https://store.steampowered.com/app/4956760
 ==================================================
 
+
+--- Run: 2026-08-09 02:55:01 --- (1 new game(s) found)
+
+==================================================
+Name: Super Smash Asteroids
+Release Date: Aug 8, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/2310260
+==================================================
+
