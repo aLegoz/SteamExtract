@@ -58378,3 +58378,14 @@ Genres: Casual, Indie
 Link: https://store.steampowered.com/app/4326430
 ==================================================
 
+
+--- Run: 2026-08-09 22:16:53 --- (1 new game(s) found)
+
+==================================================
+Name: Case of 1980
+Release Date: August 2026
+Price: $3.49 (-30%, was $4.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4914110
+==================================================
+
