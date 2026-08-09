@@ -58250,3 +58250,22 @@ Genres: RPG
 Link: https://store.steampowered.com/app/3644170
 ==================================================
 
+
+--- Run: 2026-08-09 08:27:09 --- (2 new game(s) found)
+
+==================================================
+Name: Graveyard Shift
+Release Date: Aug 9, 2026
+Price: Free to Play
+Genres: Adventure, Indie, Strategy
+Link: https://store.steampowered.com/app/1650820
+==================================================
+
+==================================================
+Name: FocusBond
+Release Date: Aug 9, 2026
+Price: $6.39 (-20%, was $7.99)
+Genres: Indie, Utilities
+Link: https://store.steampowered.com/app/3905230
+==================================================
+
