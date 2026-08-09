@@ -58318,3 +58318,14 @@ Genres: Action, Indie
 Link: https://store.steampowered.com/app/4980680
 ==================================================
 
+
+--- Run: 2026-08-09 12:22:35 --- (1 new game(s) found)
+
+==================================================
+Name: Void Miner
+Release Date: Aug 9, 2026
+Price: $4.99
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4091470
+==================================================
+
