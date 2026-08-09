@@ -58329,3 +58329,22 @@ Genres: Casual, Indie, Simulation
 Link: https://store.steampowered.com/app/4091470
 ==================================================
 
+
+--- Run: 2026-08-09 15:18:39 --- (2 new game(s) found)
+
+==================================================
+Name: The Black Lily Blooms in Her Eyes
+Release Date: Aug 9, 2026
+Price: Free to Play
+Genres: Adventure, Indie, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4851510
+==================================================
+
+==================================================
+Name: zunda8
+Release Date: Aug 9, 2026
+Price: Free to Play
+Genres: Action, Simulation, Free To Play
+Link: https://store.steampowered.com/app/4542500
+==================================================
+
