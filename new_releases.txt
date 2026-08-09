@@ -58239,3 +58239,14 @@ Genres: Action, Indie
 Link: https://store.steampowered.com/app/2310260
 ==================================================
 
+
+--- Run: 2026-08-09 04:07:31 --- (1 new game(s) found)
+
+==================================================
+Name: Shirohebi and The Tower of Mercy
+Release Date: Aug 7, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: RPG
+Link: https://store.steampowered.com/app/3644170
+==================================================
+
