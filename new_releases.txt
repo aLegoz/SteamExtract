@@ -58389,3 +58389,30 @@ Genres: Adventure, Indie
 Link: https://store.steampowered.com/app/4914110
 ==================================================
 
+
+--- Run: 2026-08-09 23:18:09 --- (3 new game(s) found)
+
+==================================================
+Name: Immortal Generals
+Release Date: Aug 9, 2026
+Price: $7.99
+Genres: Action, Indie, Massively Multiplayer, Strategy
+Link: https://store.steampowered.com/app/4739690
+==================================================
+
+==================================================
+Name: Bara Coloring Book
+Release Date: Aug 9, 2026
+Price: $1.99
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4544570
+==================================================
+
+==================================================
+Name: The Dungeon Of Horror
+Release Date: Aug 9, 2026
+Price: $13.49 (-10%, was $14.99)
+Genres: Adventure, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/4102050
+==================================================
+
