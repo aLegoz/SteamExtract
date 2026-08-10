@@ -58863,3 +58863,22 @@ Genres: Adventure, Casual, Indie, Simulation
 Link: https://store.steampowered.com/app/4873610
 ==================================================
 
+
+--- Run: 2026-08-10 21:29:37 --- (2 new game(s) found)
+
+==================================================
+Name: TUSSLE WORKS
+Release Date: Aug 10, 2026
+Price: Free to Play
+Genres: Casual, Indie, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4965940
+==================================================
+
+==================================================
+Name: Father Forgets
+Release Date: Aug 10, 2026
+Price: $0.84 (-15%, was $0.99)
+Genres: Indie
+Link: https://store.steampowered.com/app/4503250
+==================================================
+
