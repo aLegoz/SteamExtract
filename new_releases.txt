@@ -58473,3 +58473,54 @@ Genres: Action, Adventure, Indie
 Link: https://store.steampowered.com/app/4990600
 ==================================================
 
+
+--- Run: 2026-08-10 09:04:04 --- (6 new game(s) found)
+
+==================================================
+Name: Dark Succubus
+Release Date: Aug 10, 2026
+Price: $5.94 (-15%, was $6.99)
+Genres: Action, Racing
+Link: https://store.steampowered.com/app/3732310
+==================================================
+
+==================================================
+Name: A Game About Penguins
+Release Date: Aug 10, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Adventure, Casual, Indie, Sports
+Link: https://store.steampowered.com/app/4061800
+==================================================
+
+==================================================
+Name: Wrestling Classics: Olde Timey Pro Wrestling
+Release Date: Aug 10, 2026
+Price: $3.39 (-15%, was $3.99)
+Genres: Sports
+Link: https://store.steampowered.com/app/2074820
+==================================================
+
+==================================================
+Name: Ajnabee - The Unknown
+Release Date: Aug 10, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4259690
+==================================================
+
+==================================================
+Name: DISCIPLINE
+Release Date: Aug 9, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4951900
+==================================================
+
+==================================================
+Name: Witness the Dark - Episode 1 - Bloody Burger
+Release Date: Aug 9, 2026
+Price: $8.99
+Genres: Indie
+Link: https://store.steampowered.com/app/411090
+==================================================
+
