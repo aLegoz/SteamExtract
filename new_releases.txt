@@ -58882,3 +58882,30 @@ Genres: Indie
 Link: https://store.steampowered.com/app/4503250
 ==================================================
 
+
+--- Run: 2026-08-10 22:23:37 --- (3 new game(s) found)
+
+==================================================
+Name: The Sculptor
+Release Date: Aug 10, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Adventure
+Link: https://store.steampowered.com/app/4187850
+==================================================
+
+==================================================
+Name: Touch of Madness
+Release Date: Aug 10, 2026
+Price: $3.19 (-20%, was $3.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/3820860
+==================================================
+
+==================================================
+Name: Blind Rage
+Release Date: Aug 10, 2026
+Price: Free to Play
+Genres: Action, Adventure, Indie, Free To Play
+Link: https://store.steampowered.com/app/4251330
+==================================================
+
