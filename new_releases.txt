@@ -58454,3 +58454,22 @@ Genres: Indie, RPG, Simulation, Strategy
 Link: https://store.steampowered.com/app/4142610
 ==================================================
 
+
+--- Run: 2026-08-10 07:03:47 --- (2 new game(s) found)
+
+==================================================
+Name: Bit Breaker
+Release Date: Aug 9, 2026
+Price: $2.39 (-40%, was $3.99)
+Genres: Action, Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4190000
+==================================================
+
+==================================================
+Name: Blackforest
+Release Date: Aug 9, 2026
+Price: $7.19 (-10%, was $7.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/4990600
+==================================================
+
