@@ -58551,3 +58551,46 @@ Genres: Action, Indie
 Link: https://store.steampowered.com/app/4289340
 ==================================================
 
+
+--- Run: 2026-08-10 11:39:35 --- (5 new game(s) found)
+
+==================================================
+Name: Michi-Suji Puzzle: Michi Connect
+Release Date: Aug 10, 2026
+Price: $3.39 (-15%, was $3.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4443340
+==================================================
+
+==================================================
+Name: BookStore Simulator
+Release Date: Aug 10, 2026
+Price: $5.99 (-25%, was $7.99)
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/4247730
+==================================================
+
+==================================================
+Name: Crisis Capital
+Release Date: Aug 10, 2026
+Price: $7.19 (-10%, was $7.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4457410
+==================================================
+
+==================================================
+Name: Mission: Clear Space
+Release Date: Aug 10, 2026
+Price: $9.99
+Genres: Action, Casual
+Link: https://store.steampowered.com/app/4625160
+==================================================
+
+==================================================
+Name: Enchanting Memory
+Release Date: Aug 10, 2026
+Price: $6.29 (-10%, was $6.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/4966950
+==================================================
+
