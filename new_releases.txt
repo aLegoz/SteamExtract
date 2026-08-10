@@ -58691,3 +58691,30 @@ Genres: Simulation, Strategy
 Link: https://store.steampowered.com/app/4812710
 ==================================================
 
+
+--- Run: 2026-08-10 16:39:41 --- (3 new game(s) found)
+
+==================================================
+Name: Homeostasis
+Release Date: Aug 10, 2026
+Price: $8.99
+Genres: Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/3748480
+==================================================
+
+==================================================
+Name: Realmbound Frontier
+Release Date: Aug 10, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Casual, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/4988340
+==================================================
+
+==================================================
+Name: RUNT
+Release Date: Aug 10, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4141350
+==================================================
+
