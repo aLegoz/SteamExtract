@@ -58443,3 +58443,14 @@ Genres: Action, Adventure, Casual
 Link: https://store.steampowered.com/app/4678810
 ==================================================
 
+
+--- Run: 2026-08-10 05:13:46 --- (1 new game(s) found)
+
+==================================================
+Name: Clan and Crown
+Release Date: Aug 9, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Indie, RPG, Simulation, Strategy
+Link: https://store.steampowered.com/app/4142610
+==================================================
+
