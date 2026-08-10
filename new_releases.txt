@@ -58809,3 +58809,14 @@ Genres: Indie, Simulation
 Link: https://store.steampowered.com/app/3049700
 ==================================================
 
+
+--- Run: 2026-08-10 18:39:02 --- (1 new game(s) found)
+
+==================================================
+Name: Bottle Cracks
+Release Date: Aug 10, 2026
+Price: $6.39 (-20%, was $7.99)
+Genres: Action, Casual
+Link: https://store.steampowered.com/app/3982830
+==================================================
+
