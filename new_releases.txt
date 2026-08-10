@@ -58594,3 +58594,30 @@ Genres: Casual
 Link: https://store.steampowered.com/app/4966950
 ==================================================
 
+
+--- Run: 2026-08-10 12:38:50 --- (3 new game(s) found)
+
+==================================================
+Name: Knytt Classic
+Release Date: Aug 10, 2026
+Price: Free to Play
+Genres: Adventure, Indie, Free To Play
+Link: https://store.steampowered.com/app/2656050
+==================================================
+
+==================================================
+Name: Rocket Rush
+Release Date: Aug 10, 2026
+Price: Free to Play
+Genres: Action, Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/4948890
+==================================================
+
+==================================================
+Name: Backpack Boy
+Release Date: Aug 10, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Indie
+Link: https://store.steampowered.com/app/2875150
+==================================================
+
