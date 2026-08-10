@@ -58621,3 +58621,14 @@ Genres: Indie
 Link: https://store.steampowered.com/app/2875150
 ==================================================
 
+
+--- Run: 2026-08-10 14:09:38 --- (1 new game(s) found)
+
+==================================================
+Name: Hole Is Mine
+Release Date: Aug 10, 2026
+Price: $7.19 (-10%, was $7.99)
+Genres: Adventure, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4508020
+==================================================
+
