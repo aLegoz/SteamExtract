@@ -58632,3 +58632,62 @@ Genres: Adventure, Casual, Indie, Simulation
 Link: https://store.steampowered.com/app/4508020
 ==================================================
 
+
+--- Run: 2026-08-10 15:46:21 --- (7 new game(s) found)
+
+==================================================
+Name: Dead Broke
+Release Date: Aug 10, 2026
+Price: Free to Play
+Genres: Action, Indie, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4963970
+==================================================
+
+==================================================
+Name: MEGAKO☆PUNCH!
+Release Date: Aug 10, 2026
+Price: $3.39 (-15%, was $3.99)
+Genres: Strategy
+Link: https://store.steampowered.com/app/4574890
+==================================================
+
+==================================================
+Name: PhotoBricks
+Release Date: Aug 10, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4539910
+==================================================
+
+==================================================
+Name: The Lady with the Dog
+Release Date: Aug 10, 2026
+Price: $3.49 (-30%, was $4.99)
+Genres: Adventure, Casual
+Link: https://store.steampowered.com/app/4895940
+==================================================
+
+==================================================
+Name: Horse Magnifier: The Full Horse
+Release Date: Aug 10, 2026
+Price: $2.69 (-10%, was $2.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/4585340
+==================================================
+
+==================================================
+Name: Rescue Team: Phantom Crisis
+Release Date: Aug 10, 2026
+Price: $5.94 (-15%, was $6.99)
+Genres: Adventure, Casual, Strategy
+Link: https://store.steampowered.com/app/4933690
+==================================================
+
+==================================================
+Name: Cyber Pinball
+Release Date: Aug 10, 2026
+Price: $4.46 (-33%, was $6.66)
+Genres: Simulation, Strategy
+Link: https://store.steampowered.com/app/4812710
+==================================================
+
