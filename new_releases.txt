@@ -59595,3 +59595,14 @@ Genres: Adventure, Indie, RPG, Strategy
 Link: https://store.steampowered.com/app/4315550
 ==================================================
 
+
+--- Run: 2026-08-11 22:28:42 --- (1 new game(s) found)
+
+==================================================
+Name: King’s Well
+Release Date: Aug 11, 2026
+Price: $11.99 (-20%, was $14.99)
+Genres: Strategy
+Link: https://store.steampowered.com/app/4332200
+==================================================
+
