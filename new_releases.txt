@@ -59522,3 +59522,22 @@ Genres: Indie, Simulation
 Link: https://store.steampowered.com/app/4597620
 ==================================================
 
+
+--- Run: 2026-08-11 19:52:08 --- (2 new game(s) found)
+
+==================================================
+Name: BattleTabs
+Release Date: Aug 11, 2026
+Price: Free to Play
+Genres: Casual, Indie, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4457520
+==================================================
+
+==================================================
+Name: NTR CORE
+Release Date: Aug 11, 2026
+Price: $9.99
+Genres: Adventure, Casual, Simulation
+Link: https://store.steampowered.com/app/4187050
+==================================================
+
