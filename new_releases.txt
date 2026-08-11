@@ -59141,3 +59141,46 @@ Genres: Casual, Simulation, Strategy, Free To Play
 Link: https://store.steampowered.com/app/4972200
 ==================================================
 
+
+--- Run: 2026-08-11 11:35:27 --- (5 new game(s) found)
+
+==================================================
+Name: Rule or Fall
+Release Date: Aug 11, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Adventure, Casual, Indie, RPG, Simulation, Strategy
+Link: https://store.steampowered.com/app/4902790
+==================================================
+
+==================================================
+Name: Hentai Puzzle: Sunny
+Release Date: Aug 11, 2026
+Price: $2.00 (-33%, was $2.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4939360
+==================================================
+
+==================================================
+Name: Hamedori Hacker
+Release Date: Aug 11, 2026
+Price: $7.79 (-40%, was $12.99)
+Genres: Simulation
+Link: https://store.steampowered.com/app/4956640
+==================================================
+
+==================================================
+Name: Masterpiece, Let Me In.
+Release Date: Aug 10, 2026
+Price: $5.99 (-40%, was $9.99)
+Genres: Simulation, Strategy
+Link: https://store.steampowered.com/app/4988690
+==================================================
+
+==================================================
+Name: They Draw Monsters
+Release Date: Aug 10, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4912520
+==================================================
+
