@@ -59606,3 +59606,14 @@ Genres: Strategy
 Link: https://store.steampowered.com/app/4332200
 ==================================================
 
+
+--- Run: 2026-08-11 23:26:39 --- (1 new game(s) found)
+
+==================================================
+Name: Academy: Become a Hero
+Release Date: Aug 11, 2026
+Price: $9.99
+Genres: Action, Indie, Racing
+Link: https://store.steampowered.com/app/2411170
+==================================================
+
