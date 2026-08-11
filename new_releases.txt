@@ -59114,3 +59114,30 @@ Genres: Action, Adventure, Indie
 Link: https://store.steampowered.com/app/5001460
 ==================================================
 
+
+--- Run: 2026-08-11 10:39:27 --- (3 new game(s) found)
+
+==================================================
+Name: 像素单词农场
+Release Date: Aug 11, 2026
+Price: $3.59 (-10%, was $3.99)
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4986120
+==================================================
+
+==================================================
+Name: Tower Realm
+Release Date: Aug 11, 2026
+Price: $3.39 (-15%, was $3.99)
+Genres: Adventure, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/4550370
+==================================================
+
+==================================================
+Name: Electrical Leak
+Release Date: Aug 11, 2026
+Price: Free to Play
+Genres: Casual, Simulation, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4972200
+==================================================
+
