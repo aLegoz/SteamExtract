@@ -58985,3 +58985,54 @@ Genres: Casual, Indie, Strategy
 Link: https://store.steampowered.com/app/4942900
 ==================================================
 
+
+--- Run: 2026-08-11 05:44:32 --- (6 new game(s) found)
+
+==================================================
+Name: FishFishFishFishFish
+Release Date: Aug 10, 2026
+Price: $3.99
+Genres: Indie
+Link: https://store.steampowered.com/app/4878240
+==================================================
+
+==================================================
+Name: Rooster Booster 3D
+Release Date: Aug 10, 2026
+Price: $2.99
+Genres: Action
+Link: https://store.steampowered.com/app/4846230
+==================================================
+
+==================================================
+Name: Wicked Little Witch 小小坏女巫
+Release Date: Aug 10, 2026
+Price: $3.59 (-10%, was $3.99)
+Genres: Action, Adventure, Casual
+Link: https://store.steampowered.com/app/3809920
+==================================================
+
+==================================================
+Name: CutBench: AI Gameplay Clip Maker
+Release Date: Aug 10, 2026
+Price: $34.99
+Genres: Indie, Utilities, Video Production
+Link: https://store.steampowered.com/app/4797490
+==================================================
+
+==================================================
+Name: Gob Loggin'
+Release Date: Aug 10, 2026
+Price: $4.99
+Genres: Casual, Indie, Racing
+Link: https://store.steampowered.com/app/4858980
+==================================================
+
+==================================================
+Name: First Date
+Release Date: Aug 10, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Indie
+Link: https://store.steampowered.com/app/4951690
+==================================================
+
