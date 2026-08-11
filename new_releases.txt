@@ -58936,3 +58936,6 @@ Genres: Adventure, Simulation
 Link: https://store.steampowered.com/app/4852460
 ==================================================
 
+
+--- Run: 2026-08-11 00:45:14 --- (0 new game(s) found)
+
