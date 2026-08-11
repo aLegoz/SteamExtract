@@ -59184,3 +59184,14 @@ Genres: Action, Casual, Indie
 Link: https://store.steampowered.com/app/4912520
 ==================================================
 
+
+--- Run: 2026-08-11 12:36:00 --- (1 new game(s) found)
+
+==================================================
+Name: Meat Grinder: Hotdog Simulator
+Release Date: Aug 11, 2026
+Price: $7.19 (-10%, was $7.99)
+Genres: Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/3994680
+==================================================
+
