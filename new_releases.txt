@@ -59036,3 +59036,46 @@ Genres: Indie
 Link: https://store.steampowered.com/app/4951690
 ==================================================
 
+
+--- Run: 2026-08-11 08:00:29 --- (5 new game(s) found)
+
+==================================================
+Name: The Spirit of Twelve
+Release Date: Aug 10, 2026
+Price: $12.74 (-15%, was $14.99)
+Genres: Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/497320
+==================================================
+
+==================================================
+Name: Golden Hand
+Release Date: Aug 10, 2026
+Price: $8.99
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/2847620
+==================================================
+
+==================================================
+Name: Astrophobia
+Release Date: Aug 10, 2026
+Price: $2.69 (-10%, was $2.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4476070
+==================================================
+
+==================================================
+Name: Bjois
+Release Date: Aug 10, 2026
+Price: $7.99
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4821530
+==================================================
+
+==================================================
+Name: Hexhorde
+Release Date: Aug 10, 2026
+Price: $7.99
+Genres: Action, Casual, Indie, RPG
+Link: https://store.steampowered.com/app/4930750
+==================================================
+
