@@ -59404,3 +59404,102 @@ Genres: Casual, Simulation, Strategy
 Link: https://store.steampowered.com/app/4548050
 ==================================================
 
+
+--- Run: 2026-08-11 17:45:57 --- (12 new game(s) found)
+
+==================================================
+Name: Void Salvage
+Release Date: Aug 11, 2026
+Price: $5.94 (-15%, was $6.99)
+Genres: Action, Adventure, Casual, Indie, RPG, Simulation, Strategy
+Link: https://store.steampowered.com/app/4377950
+==================================================
+
+==================================================
+Name: Shelves and Sorcery: Tidy Up the Enchanted Shop
+Release Date: Aug 11, 2026
+Price: $4.79 (-20%, was $5.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/3614130
+==================================================
+
+==================================================
+Name: Sneaky Clean
+Release Date: Aug 11, 2026
+Price: $4.89 (-30%, was $6.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4360140
+==================================================
+
+==================================================
+Name: Mexican Train
+Release Date: Aug 11, 2026
+Price: $4.79 (-20%, was $5.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4513000
+==================================================
+
+==================================================
+Name: Omen
+Release Date: Aug 11, 2026
+Price: $10.79 (-10%, was $11.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/2859970
+==================================================
+
+==================================================
+Name: Cursor Charm
+Release Date: Aug 11, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Casual, Indie, Simulation, Utilities
+Link: https://store.steampowered.com/app/4633300
+==================================================
+
+==================================================
+Name: Eon Empires
+Release Date: Aug 11, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/4468190
+==================================================
+
+==================================================
+Name: Yo Skater
+Release Date: Aug 11, 2026
+Price: $4.89 (-30%, was $6.99)
+Genres: Indie
+Link: https://store.steampowered.com/app/4685840
+==================================================
+
+==================================================
+Name: Tiny Monster Haven
+Release Date: Aug 11, 2026
+Price: $7.19 (-10%, was $7.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/3669020
+==================================================
+
+==================================================
+Name: Orius SOmbréa RPG
+Release Date: Aug 11, 2026
+Price: $2.99
+Genres: Adventure, Casual, Indie, RPG, Simulation
+Link: https://store.steampowered.com/app/4109030
+==================================================
+
+==================================================
+Name: The Unclosed Case
+Release Date: Aug 11, 2026
+Price: $7.19 (-10%, was $7.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4341950
+==================================================
+
+==================================================
+Name: Hentai Academy: The Professor's Secret
+Release Date: Aug 11, 2026
+Price: $6.99 (-30%, was $9.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4838980
+==================================================
+
