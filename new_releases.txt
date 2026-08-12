@@ -60248,3 +60248,54 @@ Genres: Casual, Indie, Simulation
 Link: https://store.steampowered.com/app/4985210
 ==================================================
 
+
+--- Run: 2026-08-12 19:54:17 --- (6 new game(s) found)
+
+==================================================
+Name: AI2U: With You 'Til The End
+Release Date: Aug 12, 2026
+Price: $10.49 (-30%, was $14.99)
+Genres: Adventure, Casual, Indie, RPG, Simulation
+Link: https://store.steampowered.com/app/2880730
+==================================================
+
+==================================================
+Name: Frost-Buried Truth
+Release Date: Aug 12, 2026
+Price: $8.79 (-20%, was $10.99)
+Genres: Action, Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/4825420
+==================================================
+
+==================================================
+Name: TOOSIN : 투신
+Release Date: Aug 12, 2026
+Price: $5.99 (-40%, was $9.99)
+Genres: Action, Indie, RPG
+Link: https://store.steampowered.com/app/4635530
+==================================================
+
+==================================================
+Name: Vaulted Valor
+Release Date: Aug 12, 2026
+Price: $12.74 (-15%, was $14.99)
+Genres: Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/3417600
+==================================================
+
+==================================================
+Name: Touch Me II
+Release Date: Aug 12, 2026
+Price: $2.95 (-26%, was $3.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/4760960
+==================================================
+
+==================================================
+Name: Red Tape Rampage
+Release Date: Aug 12, 2026
+Price: $3.59 (-10%, was $3.99)
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/3878620
+==================================================
+
