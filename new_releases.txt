@@ -60205,3 +60205,46 @@ Genres: Action, Adventure, Casual, Indie, Strategy
 Link: https://store.steampowered.com/app/3004390
 ==================================================
 
+
+--- Run: 2026-08-12 18:43:40 --- (5 new game(s) found)
+
+==================================================
+Name: Tileweaver
+Release Date: Aug 12, 2026
+Price: $10.79 (-10%, was $11.99)
+Genres: Adventure, Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4006200
+==================================================
+
+==================================================
+Name: Potato Simulato: Together
+Release Date: Aug 12, 2026
+Price: $3.74 (-25%, was $4.99)
+Genres: Action, Adventure, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4567510
+==================================================
+
+==================================================
+Name: Author Sim
+Release Date: Aug 12, 2026
+Price: $8.09 (-10%, was $8.99)
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4168210
+==================================================
+
+==================================================
+Name: G.O.D. Global Orbital Defense
+Release Date: Aug 12, 2026
+Price: $9.99
+Genres: Action, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4763670
+==================================================
+
+==================================================
+Name: Storehand
+Release Date: Aug 12, 2026
+Price: $4.94 (-10%, was $5.49)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4985210
+==================================================
+
