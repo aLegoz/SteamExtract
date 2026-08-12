@@ -60318,3 +60318,46 @@ Genres: Indie, Simulation, Strategy
 Link: https://store.steampowered.com/app/4705650
 ==================================================
 
+
+--- Run: 2026-08-12 21:32:10 --- (5 new game(s) found)
+
+==================================================
+Name: Chainsaw
+Release Date: Aug 12, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Indie, RPG
+Link: https://store.steampowered.com/app/4246300
+==================================================
+
+==================================================
+Name: Vanguard - Idle Auto Battler
+Release Date: Aug 12, 2026
+Price: $2.69 (-10%, was $2.99)
+Genres: Action, Casual
+Link: https://store.steampowered.com/app/4519820
+==================================================
+
+==================================================
+Name: Cold Bloom
+Release Date: Aug 12, 2026
+Price: $6.67 (-25%, was $8.90)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4954790
+==================================================
+
+==================================================
+Name: SUDOKU IT
+Release Date: Aug 12, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5006820
+==================================================
+
+==================================================
+Name: Beauty video Player
+Release Date: Aug 12, 2026
+Price: $3.49 (-30%, was $4.99)
+Genres: Utilities, Video Production
+Link: https://store.steampowered.com/app/4946950
+==================================================
+
