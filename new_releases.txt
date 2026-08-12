@@ -59862,3 +59862,22 @@ Genres: Utilities
 Link: https://store.steampowered.com/app/4973590
 ==================================================
 
+
+--- Run: 2026-08-12 11:36:47 --- (2 new game(s) found)
+
+==================================================
+Name: Weed Supermarket Simulator
+Release Date: Aug 12, 2026
+Price: $11.24 (-25%, was $14.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4156580
+==================================================
+
+==================================================
+Name: mhas dungeon sweeper
+Release Date: Aug 12, 2026
+Price: $2.54 (-15%, was $2.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4565490
+==================================================
+
