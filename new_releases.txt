@@ -59770,3 +59770,14 @@ Genres: Casual, Indie, RPG
 Link: https://store.steampowered.com/app/4809100
 ==================================================
 
+
+--- Run: 2026-08-12 07:02:51 --- (1 new game(s) found)
+
+==================================================
+Name: Big Bad Pharma
+Release Date: Aug 11, 2026
+Price: $6.29 (-10%, was $6.99)
+Genres: Simulation
+Link: https://store.steampowered.com/app/4953610
+==================================================
+
