@@ -60071,3 +60071,62 @@ Genres: Action
 Link: https://store.steampowered.com/app/3335510
 ==================================================
 
+
+--- Run: 2026-08-12 16:43:11 --- (7 new game(s) found)
+
+==================================================
+Name: System Breakdown
+Release Date: Aug 12, 2026
+Price: $8.09 (-10%, was $8.99)
+Genres: Action, Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/3300050
+==================================================
+
+==================================================
+Name: Star Chef Simulator
+Release Date: Aug 12, 2026
+Price: $11.89 (-15%, was $13.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/2956720
+==================================================
+
+==================================================
+Name: IGNOBLE
+Release Date: Aug 12, 2026
+Price: $5.94 (-15%, was $6.99)
+Genres: Action, Adventure, Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4216180
+==================================================
+
+==================================================
+Name: Boil Cabbage Make Soup
+Release Date: Aug 12, 2026
+Price: $2.99 (-25%, was $3.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4585070
+==================================================
+
+==================================================
+Name: Agefield High: Rock the School
+Release Date: Aug 12, 2026
+Price: $26.99 (-10%, was $29.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/3562580
+==================================================
+
+==================================================
+Name: Konekomi Castle
+Release Date: Aug 12, 2026
+Price: $9.89 (-10%, was $10.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/3812300
+==================================================
+
+==================================================
+Name: Grainhold
+Release Date: Aug 12, 2026
+Price: $11.04 (-15%, was $12.99)
+Genres: Adventure, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/4208000
+==================================================
+
