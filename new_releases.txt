@@ -59652,3 +59652,102 @@ Genres: Casual, Indie, Simulation, Strategy
 Link: https://store.steampowered.com/app/4949030
 ==================================================
 
+
+--- Run: 2026-08-12 03:16:20 --- (12 new game(s) found)
+
+==================================================
+Name: TASMON: Taskbar Monsters
+Release Date: Coming soon
+Price: Free to Play
+Genres: Casual, RPG, Free To Play
+Link: https://store.steampowered.com/app/4985540
+==================================================
+
+==================================================
+Name: SWEYET(etc.)
+Release Date: Aug 11, 2026
+Price: $7.49 (-25%, was $9.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/3063200
+==================================================
+
+==================================================
+Name: 三國鼎立Online Remastered
+Release Date: Aug 11, 2026
+Price: Free to Play
+Genres: Massively Multiplayer, Free To Play
+Link: https://store.steampowered.com/app/4770830
+==================================================
+
+==================================================
+Name: Underwater DuO
+Release Date: Aug 11, 2026
+Price: $3.39 (-15%, was $3.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/3736310
+==================================================
+
+==================================================
+Name: MINERALS: Deep Core Mining
+Release Date: Aug 11, 2026
+Price: $5.94 (-15%, was $6.99)
+Genres: Action, Adventure, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4639040
+==================================================
+
+==================================================
+Name: Transformation Tycoon
+Release Date: Aug 11, 2026
+Price: Free to Play
+Genres: Indie, Simulation, Free To Play
+Link: https://store.steampowered.com/app/1799850
+==================================================
+
+==================================================
+Name: FULL BET  - FIGHTING CASINO -
+Release Date: Aug 11, 2026
+Price: $16.99 (-15%, was $19.99)
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/2941500
+==================================================
+
+==================================================
+Name: Cowgirl Maid Milk Cafe
+Release Date: Aug 11, 2026
+Price: $11.99 (-20%, was $14.99)
+Genres: Casual, Indie, RPG, Simulation, Strategy
+Link: https://store.steampowered.com/app/3832710
+==================================================
+
+==================================================
+Name: Hariti
+Release Date: Aug 11, 2026
+Price: $6.29 (-10%, was $6.99)
+Genres: Adventure, Casual, Indie, RPG, Simulation
+Link: https://store.steampowered.com/app/4018740
+==================================================
+
+==================================================
+Name: Roguelike Bricks
+Release Date: Aug 11, 2026
+Price: $1.79 (-10%, was $1.99)
+Genres: Casual, RPG, Strategy
+Link: https://store.steampowered.com/app/5000470
+==================================================
+
+==================================================
+Name: Skyliners
+Release Date: Aug 11, 2026
+Price: $2.99 (-25%, was $3.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4957430
+==================================================
+
+==================================================
+Name: The Watch Post
+Release Date: Aug 11, 2026
+Price: $2.24 (-25%, was $2.99)
+Genres: Adventure
+Link: https://store.steampowered.com/app/4969570
+==================================================
+
