@@ -59751,3 +59751,22 @@ Genres: Adventure
 Link: https://store.steampowered.com/app/4969570
 ==================================================
 
+
+--- Run: 2026-08-12 05:21:25 --- (2 new game(s) found)
+
+==================================================
+Name: 世界杯   无名小国的夺冠之路
+Release Date: Aug 11, 2026
+Price: $1.99
+Genres: Simulation, Sports, Strategy
+Link: https://store.steampowered.com/app/4906860
+==================================================
+
+==================================================
+Name: Heartbeat Impact
+Release Date: Aug 11, 2026
+Price: $3.59 (-10%, was $3.99)
+Genres: Casual, Indie, RPG
+Link: https://store.steampowered.com/app/4809100
+==================================================
+
