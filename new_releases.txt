@@ -59617,3 +59617,38 @@ Genres: Action, Indie, Racing
 Link: https://store.steampowered.com/app/2411170
 ==================================================
 
+
+--- Run: 2026-08-12 00:53:20 --- (4 new game(s) found)
+
+==================================================
+Name: Matter MazeBall: Element Trials
+Release Date: Aug 11, 2026
+Price: $6.99
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4946500
+==================================================
+
+==================================================
+Name: My Fox Tomboy
+Release Date: Aug 11, 2026
+Price: $5.00
+Genres: Indie
+Link: https://store.steampowered.com/app/4838630
+==================================================
+
+==================================================
+Name: Curling Stars
+Release Date: Aug 11, 2026
+Price: $7.99
+Genres: Indie, Simulation, Sports
+Link: https://store.steampowered.com/app/4946470
+==================================================
+
+==================================================
+Name: OurClicker
+Release Date: Aug 11, 2026
+Price: $3.05 (-15%, was $3.59)
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4949030
+==================================================
+
