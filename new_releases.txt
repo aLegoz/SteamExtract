@@ -59881,3 +59881,38 @@ Genres: Casual, Indie, Strategy
 Link: https://store.steampowered.com/app/4565490
 ==================================================
 
+
+--- Run: 2026-08-12 12:38:58 --- (4 new game(s) found)
+
+==================================================
+Name: Palm Sugar: A Village Story
+Release Date: Aug 12, 2026
+Price: $5.94 (-15%, was $6.99)
+Genres: Indie, RPG
+Link: https://store.steampowered.com/app/2778220
+==================================================
+
+==================================================
+Name: Tough Cat
+Release Date: Aug 12, 2026
+Price: $3.19 (-20%, was $3.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4911030
+==================================================
+
+==================================================
+Name: Security 51
+Release Date: Aug 12, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/4246860
+==================================================
+
+==================================================
+Name: The Merchant's Eden
+Release Date: Aug 12, 2026
+Price: $7.91 (-12%, was $8.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/3829280
+==================================================
+
