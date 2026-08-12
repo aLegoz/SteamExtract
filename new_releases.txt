@@ -60361,3 +60361,30 @@ Genres: Utilities, Video Production
 Link: https://store.steampowered.com/app/4946950
 ==================================================
 
+
+--- Run: 2026-08-12 23:27:25 --- (3 new game(s) found)
+
+==================================================
+Name: Alien Hunt
+Release Date: Aug 12, 2026
+Price: $0.59 (-40%, was $0.99)
+Genres: Action, Indie, Strategy
+Link: https://store.steampowered.com/app/4786660
+==================================================
+
+==================================================
+Name: Pro Jank Footy
+Release Date: Aug 12, 2026
+Price: $13.49 (-10%, was $14.99)
+Genres: Action, Casual, Indie, Sports
+Link: https://store.steampowered.com/app/3621330
+==================================================
+
+==================================================
+Name: Protocol Omega: Resist and Survive
+Release Date: Aug 12, 2026
+Price: $4.99
+Genres: Action, Indie, RPG
+Link: https://store.steampowered.com/app/4557920
+==================================================
+
