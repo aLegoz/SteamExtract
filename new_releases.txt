@@ -59832,3 +59832,22 @@ Genres: Adventure, Casual, RPG
 Link: https://store.steampowered.com/app/4622110
 ==================================================
 
+
+--- Run: 2026-08-12 09:54:50 --- (2 new game(s) found)
+
+==================================================
+Name: Rage Bait
+Release Date: Aug 12, 2026
+Price: $8.49 (-15%, was $9.99)
+Genres: Adventure, RPG, Simulation
+Link: https://store.steampowered.com/app/4200520
+==================================================
+
+==================================================
+Name: A Short & Simple Pixel Love Story
+Release Date: Aug 11, 2026
+Price: $2.99 (-25%, was $3.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4903420
+==================================================
+
