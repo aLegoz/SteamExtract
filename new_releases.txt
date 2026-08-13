@@ -60399,3 +60399,46 @@ Genres: Action, Casual, Indie, RPG
 Link: https://store.steampowered.com/app/4380760
 ==================================================
 
+
+--- Run: 2026-08-13 03:20:45 --- (5 new game(s) found)
+
+==================================================
+Name: Circuit Stance
+Release Date: Aug 12, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/3180830
+==================================================
+
+==================================================
+Name: Path of Idle: Old Gods Rising
+Release Date: Aug 12, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Adventure, Casual, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/4243990
+==================================================
+
+==================================================
+Name: The Three Kingdoms of Shadows: Xuzhou
+Release Date: Aug 12, 2026
+Price: $6.29 (-10%, was $6.99)
+Genres: Adventure, RPG, Simulation, Strategy
+Link: https://store.steampowered.com/app/3155310
+==================================================
+
+==================================================
+Name: S.O.L School Of Labyrinth
+Release Date: Aug 12, 2026
+Price: $5.99
+Genres: RPG
+Link: https://store.steampowered.com/app/4736830
+==================================================
+
+==================================================
+Name: Eye of the Incubus
+Release Date: Aug 12, 2026
+Price: $11.99 (-20%, was $14.99)
+Genres: Adventure
+Link: https://store.steampowered.com/app/3397100
+==================================================
+
