@@ -60442,3 +60442,22 @@ Genres: Adventure
 Link: https://store.steampowered.com/app/3397100
 ==================================================
 
+
+--- Run: 2026-08-13 05:25:13 --- (2 new game(s) found)
+
+==================================================
+Name: Area Survivors
+Release Date: Aug 12, 2026
+Price: $3.60 (-10%, was $4.00)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4980380
+==================================================
+
+==================================================
+Name: Dinotica
+Release Date: Aug 12, 2026
+Price: $13.49 (-25%, was $17.99)
+Genres: Adventure, Casual, Indie, RPG, Simulation, Strategy
+Link: https://store.steampowered.com/app/3336520
+==================================================
+
