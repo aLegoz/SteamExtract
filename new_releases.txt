@@ -61099,3 +61099,30 @@ Genres: Casual, Indie, Strategy
 Link: https://store.steampowered.com/app/4898950
 ==================================================
 
+
+--- Run: 2026-08-13 19:48:58 --- (3 new game(s) found)
+
+==================================================
+Name: 30 Days On Ship: Castaway – The First Days
+Release Date: Aug 13, 2026
+Price: Free to Play
+Genres: Action, Adventure, Casual, Indie, Simulation, Free To Play
+Link: https://store.steampowered.com/app/4866180
+==================================================
+
+==================================================
+Name: The Box of Fear
+Release Date: Aug 13, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/3881960
+==================================================
+
+==================================================
+Name: Dominocalypse
+Release Date: Aug 13, 2026
+Price: $9.95 (-17%, was $11.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4245340
+==================================================
+
