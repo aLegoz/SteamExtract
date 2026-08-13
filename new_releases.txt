@@ -61220,3 +61220,14 @@ Genres: Casual, Simulation
 Link: https://store.steampowered.com/app/4555850
 ==================================================
 
+
+--- Run: 2026-08-13 23:28:45 --- (1 new game(s) found)
+
+==================================================
+Name: Color Block Escape
+Release Date: Aug 13, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4904840
+==================================================
+
