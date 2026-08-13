@@ -60595,3 +60595,14 @@ Genres: Action, Casual, Indie
 Link: https://store.steampowered.com/app/4355080
 ==================================================
 
+
+--- Run: 2026-08-13 10:04:44 --- (1 new game(s) found)
+
+==================================================
+Name: Amlebic
+Release Date: Aug 13, 2026
+Price: $6.65 (-20%, was $8.32)
+Genres: Casual, Strategy
+Link: https://store.steampowered.com/app/4719460
+==================================================
+
