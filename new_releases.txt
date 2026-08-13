@@ -60606,3 +60606,86 @@ Genres: Casual, Strategy
 Link: https://store.steampowered.com/app/4719460
 ==================================================
 
+
+--- Run: 2026-08-13 11:37:09 --- (10 new game(s) found)
+
+==================================================
+Name: Servant of the Lake
+Release Date: Aug 13, 2026
+Price: $5.99 (-25%, was $7.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/3636770
+==================================================
+
+==================================================
+Name: Spear of the Sky
+Release Date: Aug 13, 2026
+Price: Free to Play
+Genres: Action, Indie, Free To Play
+Link: https://store.steampowered.com/app/4642840
+==================================================
+
+==================================================
+Name: Cropia
+Release Date: Aug 13, 2026
+Price: $10.49 (-30%, was $14.99)
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/3714180
+==================================================
+
+==================================================
+Name: soulstation
+Release Date: Aug 13, 2026
+Price: $8.00
+Genres: Indie
+Link: https://store.steampowered.com/app/4370460
+==================================================
+
+==================================================
+Name: 纵横麻将 Matrix Mahjong
+Release Date: Aug 13, 2026
+Price: $8.49 (-15%, was $9.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/3967760
+==================================================
+
+==================================================
+Name: Dream House Cleaning
+Release Date: Aug 13, 2026
+Price: $3.19 (-20%, was $3.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4860340
+==================================================
+
+==================================================
+Name: Omni Growth
+Release Date: Aug 13, 2026
+Price: $1.39 (-30%, was $1.99)
+Genres: Action, Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/5013790
+==================================================
+
+==================================================
+Name: Stained Glass
+Release Date: Aug 13, 2026
+Price: $8.99 (-40%, was $14.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4843510
+==================================================
+
+==================================================
+Name: Terrol
+Release Date: Aug 13, 2026
+Price: $4.99
+Genres: Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/3865430
+==================================================
+
+==================================================
+Name: Help My Wife Fall in Love NTR
+Release Date: Aug 12, 2026
+Price: $9.99
+Genres: Action, Adventure, Casual, Indie, RPG, Simulation, Strategy
+Link: https://store.steampowered.com/app/4902090
+==================================================
+
