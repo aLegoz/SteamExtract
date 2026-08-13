@@ -61126,3 +61126,30 @@ Genres: Casual, Indie, Strategy
 Link: https://store.steampowered.com/app/4245340
 ==================================================
 
+
+--- Run: 2026-08-13 20:27:34 --- (3 new game(s) found)
+
+==================================================
+Name: Dinosaur
+Release Date: Aug 13, 2026
+Price: $18.40 (-20%, was $23.00)
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/3294300
+==================================================
+
+==================================================
+Name: Hentai Elf Elaria
+Release Date: Aug 13, 2026
+Price: $0.64 (-35%, was $0.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4924770
+==================================================
+
+==================================================
+Name: Puzzles Boars
+Release Date: Aug 13, 2026
+Price: $0.59 (-40%, was $0.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4936720
+==================================================
+
