@@ -61016,3 +61016,86 @@ Genres: Action, Adventure, Indie
 Link: https://store.steampowered.com/app/1173100
 ==================================================
 
+
+--- Run: 2026-08-13 18:44:25 --- (10 new game(s) found)
+
+==================================================
+Name: Clawed
+Release Date: Aug 13, 2026
+Price: $17.99 (-10%, was $19.99)
+Genres: Action, Adventure
+Link: https://store.steampowered.com/app/3394840
+==================================================
+
+==================================================
+Name: EA SPORTS™ Madden NFL 27
+Release Date: Aug 13, 2026
+Price: $69.99
+Genres: Simulation, Sports, Strategy
+Link: https://store.steampowered.com/app/3940610
+==================================================
+
+==================================================
+Name: 100FRIENDS
+Release Date: Aug 13, 2026
+Price: $5.99 (-40%, was $9.99)
+Genres: Casual, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/4214610
+==================================================
+
+==================================================
+Name: Blackjack Roulette
+Release Date: Aug 13, 2026
+Price: $2.99 (-40%, was $4.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/3930450
+==================================================
+
+==================================================
+Name: Kingdoms vs Zombies
+Release Date: Aug 13, 2026
+Price: $6.39 (-20%, was $7.99)
+Genres: Action, Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4799450
+==================================================
+
+==================================================
+Name: Witchblood
+Release Date: Aug 13, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: Indie
+Link: https://store.steampowered.com/app/3358340
+==================================================
+
+==================================================
+Name: Sex Hill
+Release Date: Aug 13, 2026
+Price: $9.22 (-10%, was $10.25)
+Genres: Indie
+Link: https://store.steampowered.com/app/3656530
+==================================================
+
+==================================================
+Name: Storm Horse Simulator
+Release Date: Aug 13, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/3826170
+==================================================
+
+==================================================
+Name: Suika Pets
+Release Date: Aug 13, 2026
+Price: $2.39 (-40%, was $3.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/2822300
+==================================================
+
+==================================================
+Name: Dead End: Escape Your Fears
+Release Date: Aug 13, 2026
+Price: $17.99 (-10%, was $19.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4898950
+==================================================
+
