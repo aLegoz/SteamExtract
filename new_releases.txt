@@ -60689,3 +60689,14 @@ Genres: Action, Adventure, Casual, Indie, RPG, Simulation, Strategy
 Link: https://store.steampowered.com/app/4902090
 ==================================================
 
+
+--- Run: 2026-08-13 12:39:40 --- (1 new game(s) found)
+
+==================================================
+Name: Emergency Room Simulator
+Release Date: Aug 13, 2026
+Price: $19.99 (-20%, was $24.99)
+Genres: Simulation
+Link: https://store.steampowered.com/app/2438110
+==================================================
+
