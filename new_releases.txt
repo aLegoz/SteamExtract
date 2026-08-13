@@ -60922,3 +60922,46 @@ Genres: Action, Sports
 Link: https://store.steampowered.com/app/4929930
 ==================================================
 
+
+--- Run: 2026-08-13 16:42:07 --- (5 new game(s) found)
+
+==================================================
+Name: Karma Keepers
+Release Date: Aug 13, 2026
+Price: $2.99 (-40%, was $4.99)
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/3979140
+==================================================
+
+==================================================
+Name: Memoirium
+Release Date: Aug 13, 2026
+Price: $13.49 (-10%, was $14.99)
+Genres: Action, Indie, RPG
+Link: https://store.steampowered.com/app/3294440
+==================================================
+
+==================================================
+Name: Hell Let Loose: Vietnam
+Release Date: Aug 13, 2026
+Price: $39.99
+Genres: Action, Massively Multiplayer, Simulation, Strategy
+Link: https://store.steampowered.com/app/3079210
+==================================================
+
+==================================================
+Name: Future Knight
+Release Date: Aug 13, 2026
+Price: $13.49 (-10%, was $14.99)
+Genres: Action, Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4235410
+==================================================
+
+==================================================
+Name: Grit Shot
+Release Date: Aug 13, 2026
+Price: $5.94 (-15%, was $6.99)
+Genres: Indie, Simulation, Sports, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4446370
+==================================================
+
