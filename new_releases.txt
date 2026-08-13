@@ -60512,3 +60512,86 @@ Genres: Strategy
 Link: https://store.steampowered.com/app/4948610
 ==================================================
 
+
+--- Run: 2026-08-13 08:59:52 --- (10 new game(s) found)
+
+==================================================
+Name: Purr in Bloom
+Release Date: Aug 13, 2026
+Price: $2.54 (-15%, was $2.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4966840
+==================================================
+
+==================================================
+Name: Spacewar
+Release Date: Aug 13, 2026
+Price: $2.39 (-20%, was $2.99)
+Genres: Action, Indie, Simulation
+Link: https://store.steampowered.com/app/4989790
+==================================================
+
+==================================================
+Name: Hentai Senpai: Pirates! 2
+Release Date: Aug 13, 2026
+Price: $3.59 (-10%, was $3.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4846100
+==================================================
+
+==================================================
+Name: Demon Queen's Hero Act
+Release Date: Aug 13, 2026
+Price: Free to Play
+Genres: Free To Play
+Link: https://store.steampowered.com/app/4986930
+==================================================
+
+==================================================
+Name: Dense Forest
+Release Date: Aug 13, 2026
+Price: $1.79 (-40%, was $2.99)
+Genres: Indie, RPG
+Link: https://store.steampowered.com/app/4843300
+==================================================
+
+==================================================
+Name: Archomni 2: Mondus Maxima
+Release Date: Aug 13, 2026
+Price: $15.08 (-20%, was $18.85)
+Genres: Strategy
+Link: https://store.steampowered.com/app/4967010
+==================================================
+
+==================================================
+Name: VanySlash
+Release Date: Aug 13, 2026
+Price: $16.19 (-10%, was $17.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/2871010
+==================================================
+
+==================================================
+Name: Black Gold - Shining Town
+Release Date: Aug 13, 2026
+Price: $12.59 (-10%, was $13.99)
+Genres: Casual, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/4228690
+==================================================
+
+==================================================
+Name: Knell
+Release Date: Aug 12, 2026
+Price: $4.99
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4952430
+==================================================
+
+==================================================
+Name: Kaboomania
+Release Date: Aug 12, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4355080
+==================================================
+
