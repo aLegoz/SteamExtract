@@ -60759,3 +60759,166 @@ Genres: Action
 Link: https://store.steampowered.com/app/1758950
 ==================================================
 
+
+--- Run: 2026-08-13 15:46:02 --- (20 new game(s) found)
+
+==================================================
+Name: Creepshow
+Release Date: Aug 13, 2026
+Price: $11.99 (-20%, was $14.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/3462650
+==================================================
+
+==================================================
+Name: Dead Stop - No Vacancy
+Release Date: Aug 13, 2026
+Price: $6.29 (-10%, was $6.99)
+Genres: Adventure
+Link: https://store.steampowered.com/app/4396440
+==================================================
+
+==================================================
+Name: Nudist Escape:Nude Fishing
+Release Date: Aug 13, 2026
+Price: $4.79 (-20%, was $5.99)
+Genres: Action, Indie, Simulation, Sports
+Link: https://store.steampowered.com/app/4803190
+==================================================
+
+==================================================
+Name: Ledgerbound
+Release Date: Aug 13, 2026
+Price: $26.99 (-10%, was $29.99)
+Genres: RPG, Strategy
+Link: https://store.steampowered.com/app/3315060
+==================================================
+
+==================================================
+Name: Low-Budget Repairs
+Release Date: Aug 13, 2026
+Price: $14.99 (-25%, was $19.99)
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/3167920
+==================================================
+
+==================================================
+Name: Choice of Life: Floors
+Release Date: Aug 13, 2026
+Price: $5.39 (-10%, was $5.99)
+Genres: Adventure, Casual, Indie, RPG, Simulation
+Link: https://store.steampowered.com/app/4227090
+==================================================
+
+==================================================
+Name: Stack Mates
+Release Date: Aug 13, 2026
+Price: $3.19 (-20%, was $3.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4702200
+==================================================
+
+==================================================
+Name: Skatesterre
+Release Date: Aug 13, 2026
+Price: $13.49 (-10%, was $14.99)
+Genres: Action, Indie, Simulation, Sports
+Link: https://store.steampowered.com/app/4224220
+==================================================
+
+==================================================
+Name: Plungeez
+Release Date: Aug 13, 2026
+Price: $8.49 (-15%, was $9.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/3069080
+==================================================
+
+==================================================
+Name: Anvillage
+Release Date: Aug 13, 2026
+Price: $0.79 (-20%, was $0.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/2026300
+==================================================
+
+==================================================
+Name: Ashes of Paradise: Aetherion
+Release Date: Aug 13, 2026
+Price: $1.79 (-40%, was $2.99)
+Genres: Action, Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/4119580
+==================================================
+
+==================================================
+Name: Sort Them Ducks
+Release Date: Aug 13, 2026
+Price: $5.39 (-10%, was $5.99)
+Genres: Casual, Simulation
+Link: https://store.steampowered.com/app/4992070
+==================================================
+
+==================================================
+Name: THE CANON OF BALLS
+Release Date: Aug 13, 2026
+Price: $3.39 (-15%, was $3.99)
+Genres: Action, Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/3962460
+==================================================
+
+==================================================
+Name: Tower Of Wishes 5: Indonesia
+Release Date: Aug 13, 2026
+Price: $12.74 (-15%, was $14.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/4809760
+==================================================
+
+==================================================
+Name: Bunnimon
+Release Date: Aug 13, 2026
+Price: $8.03 (-33%, was $11.99)
+Genres: Action, Adventure
+Link: https://store.steampowered.com/app/3711610
+==================================================
+
+==================================================
+Name: Legend of Shawy Cat: Mafia Prepack
+Release Date: Aug 13, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Action, Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/3960830
+==================================================
+
+==================================================
+Name: A Night With: Dark-Elf
+Release Date: Aug 13, 2026
+Price: $3.99
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4415350
+==================================================
+
+==================================================
+Name: Hentai Mature Femboy
+Release Date: Aug 13, 2026
+Price: $4.79 (-20%, was $5.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4943410
+==================================================
+
+==================================================
+Name: miniquest
+Release Date: Aug 13, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: RPG
+Link: https://store.steampowered.com/app/4669800
+==================================================
+
+==================================================
+Name: Silly Soccer Mini-Game: Dribble Master
+Release Date: Aug 13, 2026
+Price: $1.59 (-20%, was $1.99)
+Genres: Action, Sports
+Link: https://store.steampowered.com/app/4929930
+==================================================
+
