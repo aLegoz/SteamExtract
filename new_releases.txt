@@ -60965,3 +60965,54 @@ Genres: Indie, Simulation, Sports, Strategy, Free To Play
 Link: https://store.steampowered.com/app/4446370
 ==================================================
 
+
+--- Run: 2026-08-13 17:47:17 --- (6 new game(s) found)
+
+==================================================
+Name: Endless Tactics: Trial Run
+Release Date: Aug 13, 2026
+Price: Free to Play
+Genres: Indie, Strategy, Free To Play
+Link: https://store.steampowered.com/app/3884790
+==================================================
+
+==================================================
+Name: Baby Kings
+Release Date: Aug 13, 2026
+Price: $4.89 (-30%, was $6.99)
+Genres: Action, Casual
+Link: https://store.steampowered.com/app/3670180
+==================================================
+
+==================================================
+Name: Scratch the Ticket
+Release Date: Aug 13, 2026
+Price: $6.99 (-30%, was $9.99)
+Genres: Casual, Indie, Simulation, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4626940
+==================================================
+
+==================================================
+Name: Flock of the Seraphim
+Release Date: Aug 13, 2026
+Price: $7.49 (-25%, was $9.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4290680
+==================================================
+
+==================================================
+Name: Wild Blue Skies
+Release Date: Aug 13, 2026
+Price: $14.99
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/1921490
+==================================================
+
+==================================================
+Name: Choppa: Rescue Rivals
+Release Date: Aug 13, 2026
+Price: $12.74 (-15%, was $14.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/1173100
+==================================================
+
