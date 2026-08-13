@@ -60388,3 +60388,14 @@ Genres: Action, Indie, RPG
 Link: https://store.steampowered.com/app/4557920
 ==================================================
 
+
+--- Run: 2026-08-13 00:54:39 --- (1 new game(s) found)
+
+==================================================
+Name: Custom Image Survivors
+Release Date: Aug 12, 2026
+Price: $3.59 (-10%, was $3.99)
+Genres: Action, Casual, Indie, RPG
+Link: https://store.steampowered.com/app/4380760
+==================================================
+
