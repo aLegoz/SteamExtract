@@ -61397,3 +61397,22 @@ Genres: Casual, Indie
 Link: https://store.steampowered.com/app/5001510
 ==================================================
 
+
+--- Run: 2026-08-14 05:22:23 --- (2 new game(s) found)
+
+==================================================
+Name: Element Idle
+Release Date: Aug 13, 2026
+Price: Free to Play
+Genres: Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/4906020
+==================================================
+
+==================================================
+Name: Dream about yoU
+Release Date: Aug 13, 2026
+Price: $6.39 (-20%, was $7.99)
+Genres: Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/4129770
+==================================================
+
