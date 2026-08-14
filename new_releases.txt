@@ -61936,3 +61936,110 @@ Genres: Action, Casual, Indie, Simulation, Strategy
 Link: https://store.steampowered.com/app/4480370
 ==================================================
 
+
+--- Run: 2026-08-14 16:37:49 --- (13 new game(s) found)
+
+==================================================
+Name: Tank Brigade
+Release Date: Aug 14, 2026
+Price: $9.99
+Genres: Action, Indie, Simulation
+Link: https://store.steampowered.com/app/3785500
+==================================================
+
+==================================================
+Name: Pegfinity
+Release Date: Aug 14, 2026
+Price: $4.89 (-30%, was $6.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/3947040
+==================================================
+
+==================================================
+Name: Garbage King
+Release Date: Aug 14, 2026
+Price: $2.72 (-15%, was $3.20)
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/4681490
+==================================================
+
+==================================================
+Name: Astral Blitz
+Release Date: Aug 14, 2026
+Price: $5.99
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4235790
+==================================================
+
+==================================================
+Name: Game in Picture
+Release Date: Aug 14, 2026
+Price: $5.94 (-15%, was $6.99)
+Genres: Utilities
+Link: https://store.steampowered.com/app/4465640
+==================================================
+
+==================================================
+Name: Shippin
+Release Date: Aug 14, 2026
+Price: $6.79 (-15%, was $7.99)
+Genres: Adventure, Casual
+Link: https://store.steampowered.com/app/3334100
+==================================================
+
+==================================================
+Name: Dino Party
+Release Date: Aug 14, 2026
+Price: $9.59 (-20%, was $11.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/1939390
+==================================================
+
+==================================================
+Name: Commander Clash
+Release Date: Aug 14, 2026
+Price: $1.79 (-40%, was $2.99)
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/4251590
+==================================================
+
+==================================================
+Name: PizzaBoy
+Release Date: Aug 14, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/2238400
+==================================================
+
+==================================================
+Name: KABUKI FIRE: DOJO
+Release Date: Aug 14, 2026
+Price: $2.69 (-10%, was $2.99)
+Genres: Action
+Link: https://store.steampowered.com/app/4978630
+==================================================
+
+==================================================
+Name: The Heart Of Delly
+Release Date: Aug 14, 2026
+Price: Free to Play
+Genres: Adventure, Indie, Free To Play
+Link: https://store.steampowered.com/app/4582300
+==================================================
+
+==================================================
+Name: Legacy of Defense
+Release Date: Aug 14, 2026
+Price: $4.79 (-40%, was $7.99)
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/3135200
+==================================================
+
+==================================================
+Name: Parking in Tight Spaces
+Release Date: Aug 14, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/4265570
+==================================================
+
