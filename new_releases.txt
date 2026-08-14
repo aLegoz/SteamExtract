@@ -62156,3 +62156,14 @@ Genres: Indie, RPG
 Link: https://store.steampowered.com/app/3094990
 ==================================================
 
+
+--- Run: 2026-08-14 20:19:14 --- (1 new game(s) found)
+
+==================================================
+Name: Aphrodisiac 2
+Release Date: Aug 14, 2026
+Price: $4.79 (-40%, was $7.99)
+Genres: Adventure, RPG
+Link: https://store.steampowered.com/app/4556040
+==================================================
+
