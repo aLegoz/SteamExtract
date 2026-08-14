@@ -61628,3 +61628,46 @@ Genres: Casual, Indie, Simulation
 Link: https://store.steampowered.com/app/4950470
 ==================================================
 
+
+--- Run: 2026-08-14 11:34:28 --- (5 new game(s) found)
+
+==================================================
+Name: Robot In Kitchen
+Release Date: Coming soon
+Price: Free to Play
+Genres: Casual, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4733280
+==================================================
+
+==================================================
+Name: Rogue Eclipse
+Release Date: Aug 14, 2026
+Price: $17.99 (-10%, was $19.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/782260
+==================================================
+
+==================================================
+Name: Ruins of Dawn
+Release Date: Aug 14, 2026
+Price: $7.99
+Genres: Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/4364910
+==================================================
+
+==================================================
+Name: Zankoi's Chronicles
+Release Date: Aug 14, 2026
+Price: $12.74 (-15%, was $14.99)
+Genres: Action, Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/2458370
+==================================================
+
+==================================================
+Name: Lootbound
+Release Date: Aug 14, 2026
+Price: $9.74 (-35%, was $14.99)
+Genres: Adventure, Casual, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/3091140
+==================================================
+
