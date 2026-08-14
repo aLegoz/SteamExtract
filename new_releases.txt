@@ -62167,3 +62167,70 @@ Genres: Adventure, RPG
 Link: https://store.steampowered.com/app/4556040
 ==================================================
 
+
+--- Run: 2026-08-14 21:13:30 --- (8 new game(s) found)
+
+==================================================
+Name: Konbini Cleanup
+Release Date: Aug 14, 2026
+Price: $5.39 (-10%, was $5.99)
+Genres: Casual, Simulation
+Link: https://store.steampowered.com/app/4951190
+==================================================
+
+==================================================
+Name: My Fly
+Release Date: Aug 14, 2026
+Price: $29.99
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/3517820
+==================================================
+
+==================================================
+Name: Invisible Archery
+Release Date: Aug 14, 2026
+Price: $4.99
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4891020
+==================================================
+
+==================================================
+Name: Trickster: The Fool's Wager
+Release Date: Aug 14, 2026
+Price: $4.99
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4783340
+==================================================
+
+==================================================
+Name: Grey Market
+Release Date: Aug 14, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Indie
+Link: https://store.steampowered.com/app/5016500
+==================================================
+
+==================================================
+Name: Shogun's Stand
+Release Date: Aug 14, 2026
+Price: $4.99
+Genres: Action, Strategy
+Link: https://store.steampowered.com/app/4464180
+==================================================
+
+==================================================
+Name: I Blasphemed a God and Got Reincarnated in Another World
+Release Date: Aug 14, 2026
+Price: $7.99
+Genres: Adventure
+Link: https://store.steampowered.com/app/4813470
+==================================================
+
+==================================================
+Name: The Crystal Atelier
+Release Date: Aug 14, 2026
+Price: $6.39 (-20%, was $7.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4880370
+==================================================
+
