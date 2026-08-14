@@ -61671,3 +61671,110 @@ Genres: Adventure, Casual, Indie, RPG, Strategy
 Link: https://store.steampowered.com/app/3091140
 ==================================================
 
+
+--- Run: 2026-08-14 12:35:51 --- (13 new game(s) found)
+
+==================================================
+Name: Basil & Za'atar
+Release Date: Aug 14, 2026
+Price: Free to Play
+Genres: Adventure, Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/4969220
+==================================================
+
+==================================================
+Name: TV Archive: Tidy Up Together
+Release Date: Aug 14, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4934370
+==================================================
+
+==================================================
+Name: Mafia Queens
+Release Date: Aug 14, 2026
+Price: Free to Play
+Genres: Casual
+Link: https://store.steampowered.com/app/4193390
+==================================================
+
+==================================================
+Name: Pegs X Stickers
+Release Date: Aug 14, 2026
+Price: $4.97 (-17%, was $5.99)
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/4403010
+==================================================
+
+==================================================
+Name: outpost4
+Release Date: Aug 14, 2026
+Price: $3.19 (-20%, was $3.99)
+Genres: Casual, Strategy
+Link: https://store.steampowered.com/app/4271680
+==================================================
+
+==================================================
+Name: Clickendo
+Release Date: Aug 14, 2026
+Price: $3.59 (-10%, was $3.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5014940
+==================================================
+
+==================================================
+Name: I.T. Never Ends
+Release Date: Aug 14, 2026
+Price: $11.69 (-10%, was $12.99)
+Genres: Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/4225400
+==================================================
+
+==================================================
+Name: Go West Together
+Release Date: Aug 14, 2026
+Price: $6.29 (-10%, was $6.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4964030
+==================================================
+
+==================================================
+Name: Earth’s Last Defense Idle Fleet
+Release Date: Aug 14, 2026
+Price: $2.99
+Genres: Action, Adventure, Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4726800
+==================================================
+
+==================================================
+Name: The Safe Job
+Release Date: Aug 14, 2026
+Price: $1.99
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5011170
+==================================================
+
+==================================================
+Name: Pixel Airport Tycoon 3D
+Release Date: Aug 14, 2026
+Price: $17.99 (-10%, was $19.99)
+Genres: Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/5016220
+==================================================
+
+==================================================
+Name: Eerie Night - Escape from the Funfair - Collector's Edition
+Release Date: Aug 14, 2026
+Price: $19.99
+Genres: Adventure, Casual
+Link: https://store.steampowered.com/app/4813400
+==================================================
+
+==================================================
+Name: Crownhold
+Release Date: Aug 14, 2026
+Price: $12.99
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/5013680
+==================================================
+
