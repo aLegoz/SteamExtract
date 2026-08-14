@@ -62245,3 +62245,38 @@ Genres: Casual, Simulation, Free To Play
 Link: https://store.steampowered.com/app/3617890
 ==================================================
 
+
+--- Run: 2026-08-14 23:09:51 --- (4 new game(s) found)
+
+==================================================
+Name: Hentai World Travel
+Release Date: Aug 14, 2026
+Price: $0.79 (-20%, was $0.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4991490
+==================================================
+
+==================================================
+Name: Brass Rebellion
+Release Date: Aug 14, 2026
+Price: Free to Play
+Genres: Action, Indie, Free To Play
+Link: https://store.steampowered.com/app/4979270
+==================================================
+
+==================================================
+Name: Nitz's Debt
+Release Date: Aug 14, 2026
+Price: $8.69
+Genres: Action, Adventure
+Link: https://store.steampowered.com/app/4754980
+==================================================
+
+==================================================
+Name: Unusual Tales: After Bark
+Release Date: Aug 14, 2026
+Price: $6.29 (-10%, was $6.99)
+Genres: Action, Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/4516880
+==================================================
+
