@@ -62234,3 +62234,14 @@ Genres: Casual, Indie, Simulation
 Link: https://store.steampowered.com/app/4880370
 ==================================================
 
+
+--- Run: 2026-08-14 22:09:58 --- (1 new game(s) found)
+
+==================================================
+Name: Typing With Ghostie
+Release Date: Aug 14, 2026
+Price: Free to Play
+Genres: Casual, Simulation, Free To Play
+Link: https://store.steampowered.com/app/3617890
+==================================================
+
