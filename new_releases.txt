@@ -62137,3 +62137,22 @@ Genres: Animation & Modeling
 Link: https://store.steampowered.com/app/4874230
 ==================================================
 
+
+--- Run: 2026-08-14 19:40:05 --- (2 new game(s) found)
+
+==================================================
+Name: A Sea of Grey & Green
+Release Date: Aug 14, 2026
+Price: $5.39 (-10%, was $5.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/3544610
+==================================================
+
+==================================================
+Name: Wish Creatures
+Release Date: Aug 14, 2026
+Price: $4.99
+Genres: Indie, RPG
+Link: https://store.steampowered.com/app/3094990
+==================================================
+
