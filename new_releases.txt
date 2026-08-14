@@ -61231,3 +61231,46 @@ Genres: Casual, Indie, Strategy
 Link: https://store.steampowered.com/app/4904840
 ==================================================
 
+
+--- Run: 2026-08-14 00:54:11 --- (5 new game(s) found)
+
+==================================================
+Name: GunZ: The Duel
+Release Date: Aug 13, 2026
+Price: Free to Play
+Genres: Action, Casual, Free To Play
+Link: https://store.steampowered.com/app/3139440
+==================================================
+
+==================================================
+Name: Lost Chronology
+Release Date: Aug 13, 2026
+Price: $8.99 (-40%, was $14.99)
+Genres: Action, Adventure, Indie, Strategy
+Link: https://store.steampowered.com/app/4268250
+==================================================
+
+==================================================
+Name: Hellbridge
+Release Date: Aug 13, 2026
+Price: $8.49 (-15%, was $9.99)
+Genres: Action
+Link: https://store.steampowered.com/app/4435760
+==================================================
+
+==================================================
+Name: Pin Money
+Release Date: Aug 13, 2026
+Price: $5.59 (-20%, was $6.99)
+Genres: Casual, Indie, Simulation, Sports
+Link: https://store.steampowered.com/app/4622790
+==================================================
+
+==================================================
+Name: Sweet Window
+Release Date: Aug 13, 2026
+Price: $0.89 (-10%, was $0.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4703610
+==================================================
+
