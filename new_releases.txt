@@ -61274,3 +61274,126 @@ Genres: Casual, Indie
 Link: https://store.steampowered.com/app/4703610
 ==================================================
 
+
+--- Run: 2026-08-14 03:18:31 --- (15 new game(s) found)
+
+==================================================
+Name: The Corrupted
+Release Date: Coming soon
+Price: Free to Play
+Genres: Action, Adventure, Free To Play
+Link: https://store.steampowered.com/app/4141900
+==================================================
+
+==================================================
+Name: Evil School
+Release Date: Aug 13, 2026
+Price: $7.19 (-10%, was $7.99)
+Genres: Adventure, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/3818020
+==================================================
+
+==================================================
+Name: PLATONICA SPACE
+Release Date: Aug 13, 2026
+Price: $8.29 (-17%, was $9.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/3846480
+==================================================
+
+==================================================
+Name: Warden of the Sunken Keep
+Release Date: Aug 13, 2026
+Price: $4.99
+Genres: Adventure, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/4971240
+==================================================
+
+==================================================
+Name: Blood Moon Duel
+Release Date: Aug 13, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4850870
+==================================================
+
+==================================================
+Name: Shadow of Juarez
+Release Date: Aug 13, 2026
+Price: $3.39 (-15%, was $3.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4133840
+==================================================
+
+==================================================
+Name: Tahoe Joe
+Release Date: Coming soon
+Price: Free to Play
+Genres: Adventure, Indie, Free To Play
+Link: https://store.steampowered.com/app/4568110
+==================================================
+
+==================================================
+Name: 不心动才有鬼
+Release Date: Aug 13, 2026
+Price: $6.29 (-10%, was $6.99)
+Genres: Adventure, Indie, RPG, Simulation, Strategy
+Link: https://store.steampowered.com/app/4855450
+==================================================
+
+==================================================
+Name: Starcalibur
+Release Date: Aug 13, 2026
+Price: $3.74 (-25%, was $4.99)
+Genres: Action, Simulation
+Link: https://store.steampowered.com/app/5074790
+==================================================
+
+==================================================
+Name: 田游族谱
+Release Date: Aug 13, 2026
+Price: $1.65
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4885890
+==================================================
+
+==================================================
+Name: Snowed Under | 雪葬
+Release Date: Aug 13, 2026
+Price: $7.19 (-10%, was $7.99)
+Genres: Indie
+Link: https://store.steampowered.com/app/4938200
+==================================================
+
+==================================================
+Name: Astrobuilder
+Release Date: Aug 13, 2026
+Price: $10.49 (-30%, was $14.99)
+Genres: Simulation
+Link: https://store.steampowered.com/app/3105960
+==================================================
+
+==================================================
+Name: Selfie Worm
+Release Date: Aug 13, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4333980
+==================================================
+
+==================================================
+Name: Pop Star Life
+Release Date: Aug 13, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Casual, Indie, RPG, Simulation
+Link: https://store.steampowered.com/app/4825210
+==================================================
+
+==================================================
+Name: SHKSHK
+Release Date: Aug 13, 2026
+Price: $3.49 (-30%, was $4.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5001510
+==================================================
+
