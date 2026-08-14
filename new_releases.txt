@@ -61778,3 +61778,54 @@ Genres: Casual, Indie, Strategy
 Link: https://store.steampowered.com/app/5013680
 ==================================================
 
+
+--- Run: 2026-08-14 14:05:58 --- (6 new game(s) found)
+
+==================================================
+Name: Endless TD
+Release Date: Aug 14, 2026
+Price: $4.99
+Genres: Action, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/3831700
+==================================================
+
+==================================================
+Name: DODGE-AND-RUN!
+Release Date: Aug 14, 2026
+Price: $1.79 (-10%, was $1.99)
+Genres: Action, Adventure, Casual, Indie, Racing
+Link: https://store.steampowered.com/app/3816710
+==================================================
+
+==================================================
+Name: Italian Pizza Simulator
+Release Date: Aug 14, 2026
+Price: $9.74 (-25%, was $12.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4002450
+==================================================
+
+==================================================
+Name: Get Off My Garden
+Release Date: Aug 14, 2026
+Price: Free to Play
+Genres: Action, Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/5007150
+==================================================
+
+==================================================
+Name: Nothing to See Here
+Release Date: Aug 14, 2026
+Price: $4.49 (-25%, was $5.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4884050
+==================================================
+
+==================================================
+Name: Smile Town
+Release Date: Aug 14, 2026
+Price: $0.99
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4450030
+==================================================
+
