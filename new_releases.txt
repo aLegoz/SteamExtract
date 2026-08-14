@@ -61550,3 +61550,22 @@ Genres: Simulation, Sports, Strategy
 Link: https://store.steampowered.com/app/4986110
 ==================================================
 
+
+--- Run: 2026-08-14 09:49:04 --- (2 new game(s) found)
+
+==================================================
+Name: Video Poker by Pokerist
+Release Date: Aug 14, 2026
+Price: Free to Play
+Genres: Casual, Massively Multiplayer, Simulation, Sports, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4355310
+==================================================
+
+==================================================
+Name: Midnight Gas Station
+Release Date: Aug 14, 2026
+Price: $1.19 (-40%, was $1.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4645340
+==================================================
+
