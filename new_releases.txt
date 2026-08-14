@@ -61443,3 +61443,110 @@ Genres: Casual, Indie, Simulation
 Link: https://store.steampowered.com/app/5000850
 ==================================================
 
+
+--- Run: 2026-08-14 08:55:35 --- (13 new game(s) found)
+
+==================================================
+Name: Fallen Adventurer Anna
+Release Date: Aug 14, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Adventure, Casual, Indie, RPG
+Link: https://store.steampowered.com/app/4307360
+==================================================
+
+==================================================
+Name: Rebirth Pub
+Release Date: Aug 14, 2026
+Price: $16.19 (-10%, was $17.99)
+Genres: Adventure, RPG, Simulation
+Link: https://store.steampowered.com/app/3236900
+==================================================
+
+==================================================
+Name: Valentine in Bitterness
+Release Date: Aug 14, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/3999750
+==================================================
+
+==================================================
+Name: Blue Sign
+Release Date: Aug 14, 2026
+Price: Free to Play
+Genres: Adventure, Indie, Simulation, Free To Play
+Link: https://store.steampowered.com/app/4911340
+==================================================
+
+==================================================
+Name: The Ancient Caverns
+Release Date: Aug 14, 2026
+Price: $9.99
+Genres: Action, Indie, RPG
+Link: https://store.steampowered.com/app/4977130
+==================================================
+
+==================================================
+Name: HR Department of Love
+Release Date: Aug 14, 2026
+Price: $11.69 (-10%, was $12.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4207080
+==================================================
+
+==================================================
+Name: Fluff'n'Roll
+Release Date: Aug 14, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Action, Indie, Racing
+Link: https://store.steampowered.com/app/3321020
+==================================================
+
+==================================================
+Name: Chinese Street Food Legend
+Release Date: Aug 14, 2026
+Price: $3.59 (-10%, was $3.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/3584920
+==================================================
+
+==================================================
+Name: SURA: Shattered Star
+Release Date: Aug 14, 2026
+Price: Free to Play
+Genres: Action, Adventure, Indie, Free To Play
+Link: https://store.steampowered.com/app/4914580
+==================================================
+
+==================================================
+Name: heXtreaming:Deep
+Release Date: Aug 14, 2026
+Price: $12.59 (-10%, was $13.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/2106050
+==================================================
+
+==================================================
+Name: No Results Found
+Release Date: Aug 14, 2026
+Price: Free to Play
+Genres: Adventure, Casual, Indie, Simulation, Free To Play
+Link: https://store.steampowered.com/app/4911390
+==================================================
+
+==================================================
+Name: Kiss And Cry：我的女友脑子有问题
+Release Date: Aug 13, 2026
+Price: Free to Play
+Genres: Indie, RPG, Free To Play
+Link: https://store.steampowered.com/app/4054420
+==================================================
+
+==================================================
+Name: Aussie Rules Legend
+Release Date: Aug 13, 2026
+Price: $14.99
+Genres: Simulation, Sports, Strategy
+Link: https://store.steampowered.com/app/4986110
+==================================================
+
