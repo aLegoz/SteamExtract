@@ -62118,3 +62118,22 @@ Genres: Adventure, Indie, Sports
 Link: https://store.steampowered.com/app/4761070
 ==================================================
 
+
+--- Run: 2026-08-14 18:37:32 --- (2 new game(s) found)
+
+==================================================
+Name: Kingdom Contracts Tower Defense Incremental
+Release Date: Aug 14, 2026
+Price: $2.99 (-40%, was $4.99)
+Genres: Casual, Strategy
+Link: https://store.steampowered.com/app/4467960
+==================================================
+
+==================================================
+Name: Callipeg Studio
+Release Date: Aug 14, 2026
+Price: $29.99
+Genres: Animation & Modeling
+Link: https://store.steampowered.com/app/4874230
+==================================================
+
