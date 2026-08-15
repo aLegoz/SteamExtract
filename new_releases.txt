@@ -62280,3 +62280,30 @@ Genres: Action, Adventure, Indie, RPG
 Link: https://store.steampowered.com/app/4516880
 ==================================================
 
+
+--- Run: 2026-08-15 00:30:48 --- (3 new game(s) found)
+
+==================================================
+Name: Eden - World Builder
+Release Date: Aug 14, 2026
+Price: $1.99
+Genres: Adventure, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5004190
+==================================================
+
+==================================================
+Name: Don’t Talk to Strangers
+Release Date: Aug 14, 2026
+Price: $2.69 (-10%, was $2.99)
+Genres: Adventure, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4979520
+==================================================
+
+==================================================
+Name: Star Quest
+Release Date: Aug 14, 2026
+Price: $149.99
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4717860
+==================================================
+
