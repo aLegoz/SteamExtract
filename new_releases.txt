@@ -62507,3 +62507,14 @@ Genres: Casual, Indie
 Link: https://store.steampowered.com/app/3248200
 ==================================================
 
+
+--- Run: 2026-08-15 11:08:30 --- (1 new game(s) found)
+
+==================================================
+Name: The Fabricator
+Release Date: Aug 15, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4987740
+==================================================
+
