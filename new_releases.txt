@@ -62599,3 +62599,30 @@ Genres: Casual, Indie
 Link: https://store.steampowered.com/app/4936740
 ==================================================
 
+
+--- Run: 2026-08-15 16:09:21 --- (3 new game(s) found)
+
+==================================================
+Name: Angel Told Me
+Release Date: Aug 15, 2026
+Price: $11.04 (-15%, was $12.99)
+Genres: Action, Indie, RPG
+Link: https://store.steampowered.com/app/4970270
+==================================================
+
+==================================================
+Name: VN Engine 2D
+Release Date: Aug 15, 2026
+Price: Free to Play
+Genres: Free To Play, Design & Illustration, Utilities, Web Publishing, Game Development
+Link: https://store.steampowered.com/app/4712050
+==================================================
+
+==================================================
+Name: Monster Girls: You Can't Say No 🔞
+Release Date: Aug 15, 2026
+Price: $9.29 (-38%, was $14.99)
+Genres: Adventure, Casual, Simulation
+Link: https://store.steampowered.com/app/4588700
+==================================================
+
