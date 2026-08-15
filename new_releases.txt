@@ -62469,3 +62469,22 @@ Genres: Action, Adventure, Casual, Indie, Free To Play
 Link: https://store.steampowered.com/app/4976890
 ==================================================
 
+
+--- Run: 2026-08-15 09:14:07 --- (2 new game(s) found)
+
+==================================================
+Name: Ruthless Returns
+Release Date: Aug 15, 2026
+Price: Free to Play
+Genres: Casual, Indie, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4958640
+==================================================
+
+==================================================
+Name: Cosmo in Tarot: Tarot Study Simulator
+Release Date: Aug 14, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4958720
+==================================================
+
