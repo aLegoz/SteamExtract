@@ -62396,3 +62396,30 @@ Genres: Adventure
 Link: https://store.steampowered.com/app/4322230
 ==================================================
 
+
+--- Run: 2026-08-15 05:14:01 --- (3 new game(s) found)
+
+==================================================
+Name: Sands of Skullcreek
+Release Date: Aug 14, 2026
+Price: Free to Play
+Genres: Action, Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/2566840
+==================================================
+
+==================================================
+Name: VisApex
+Release Date: Aug 14, 2026
+Price: $24.99
+Genres: Simulation, Utilities
+Link: https://store.steampowered.com/app/4854520
+==================================================
+
+==================================================
+Name: Chronicles of Clams Island
+Release Date: Aug 14, 2026
+Price: $9.59 (-20%, was $11.99)
+Genres: Adventure, RPG
+Link: https://store.steampowered.com/app/4395020
+==================================================
+
