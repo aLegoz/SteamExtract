@@ -62588,3 +62588,14 @@ Genres: Casual, Simulation, Strategy
 Link: https://store.steampowered.com/app/4787190
 ==================================================
 
+
+--- Run: 2026-08-15 15:08:26 --- (1 new game(s) found)
+
+==================================================
+Name: Puzzles Frogs
+Release Date: Aug 15, 2026
+Price: $0.59 (-40%, was $0.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4936740
+==================================================
+
