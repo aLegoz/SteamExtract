@@ -62667,3 +62667,14 @@ Genres: Casual, Indie
 Link: https://store.steampowered.com/app/4949840
 ==================================================
 
+
+--- Run: 2026-08-15 22:07:57 --- (1 new game(s) found)
+
+==================================================
+Name: Bear With Me: The Pizza Chronicles (Prequel)
+Release Date: Aug 15, 2026
+Price: Free to Play
+Genres: Adventure, Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/4913420
+==================================================
+
