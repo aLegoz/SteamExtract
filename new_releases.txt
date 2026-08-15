@@ -62678,3 +62678,14 @@ Genres: Adventure, Casual, Indie, Free To Play
 Link: https://store.steampowered.com/app/4913420
 ==================================================
 
+
+--- Run: 2026-08-15 23:08:54 --- (1 new game(s) found)
+
+==================================================
+Name: Max Diceman
+Release Date: Aug 15, 2026
+Price: $1.99
+Genres: Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/4816620
+==================================================
+
