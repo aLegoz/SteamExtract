@@ -62423,3 +62423,22 @@ Genres: Adventure, RPG
 Link: https://store.steampowered.com/app/4395020
 ==================================================
 
+
+--- Run: 2026-08-15 06:16:20 --- (2 new game(s) found)
+
+==================================================
+Name: Super Rhythm Fit
+Release Date: Aug 14, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Casual, Indie, Simulation, Sports
+Link: https://store.steampowered.com/app/4279200
+==================================================
+
+==================================================
+Name: Grey Prince
+Release Date: Aug 14, 2026
+Price: $4.99
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4956600
+==================================================
+
