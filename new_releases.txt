@@ -62656,3 +62656,14 @@ Genres: Action, Indie, Strategy
 Link: https://store.steampowered.com/app/2825270
 ==================================================
 
+
+--- Run: 2026-08-15 21:09:04 --- (1 new game(s) found)
+
+==================================================
+Name: Hidden Pets: 101 Cats in Athens
+Release Date: Aug 15, 2026
+Price: $0.59 (-40%, was $0.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4949840
+==================================================
+
