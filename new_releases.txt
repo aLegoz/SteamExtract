@@ -62377,3 +62377,22 @@ Genres: Adventure, Indie, RPG
 Link: https://store.steampowered.com/app/4973770
 ==================================================
 
+
+--- Run: 2026-08-15 04:17:37 --- (2 new game(s) found)
+
+==================================================
+Name: Sister Other Paranoia
+Release Date: Aug 14, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4240150
+==================================================
+
+==================================================
+Name: Trick × Trick
+Release Date: Aug 14, 2026
+Price: $10.39 (-20%, was $12.99)
+Genres: Adventure
+Link: https://store.steampowered.com/app/4322230
+==================================================
+
