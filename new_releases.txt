@@ -62334,3 +62334,46 @@ Genres: Casual, Indie, Simulation, Sports, Strategy
 Link: https://store.steampowered.com/app/2733000
 ==================================================
 
+
+--- Run: 2026-08-15 03:28:04 --- (5 new game(s) found)
+
+==================================================
+Name: Bratki
+Release Date: Aug 14, 2026
+Price: $4.49 (-25%, was $5.99)
+Genres: RPG, Simulation, Strategy
+Link: https://store.steampowered.com/app/4359170
+==================================================
+
+==================================================
+Name: Sealed
+Release Date: Coming soon
+Price: Free to Play
+Genres: Action, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4960260
+==================================================
+
+==================================================
+Name: I Was a Failed Day Trader Who Lost Everything, But After Being Reincarnated in Another World, My Textbook Technical Analysis Actually Works and Now I'm the Richest Man in the Kingdom!?
+Release Date: Aug 14, 2026
+Price: $2.69 (-10%, was $2.99)
+Genres: Indie
+Link: https://store.steampowered.com/app/4981130
+==================================================
+
+==================================================
+Name: Thirty Years War
+Release Date: Aug 14, 2026
+Price: $39.95
+Genres: Simulation, Strategy
+Link: https://store.steampowered.com/app/4706650
+==================================================
+
+==================================================
+Name: Elf-Goblin United Front
+Release Date: Aug 14, 2026
+Price: $7.99
+Genres: Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/4973770
+==================================================
+
