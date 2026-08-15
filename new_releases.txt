@@ -62637,3 +62637,22 @@ Genres: Simulation
 Link: https://store.steampowered.com/app/3767620
 ==================================================
 
+
+--- Run: 2026-08-15 18:10:33 --- (2 new game(s) found)
+
+==================================================
+Name: Libera Nos a Malo
+Release Date: Aug 15, 2026
+Price: $1.99
+Genres: Action, Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/4902060
+==================================================
+
+==================================================
+Name: Zombolion
+Release Date: Aug 15, 2026
+Price: $3.99
+Genres: Action, Indie, Strategy
+Link: https://store.steampowered.com/app/2825270
+==================================================
+
