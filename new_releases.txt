@@ -62577,3 +62577,14 @@ Genres: Action, Casual, Indie
 Link: https://store.steampowered.com/app/5008510
 ==================================================
 
+
+--- Run: 2026-08-15 14:10:06 --- (1 new game(s) found)
+
+==================================================
+Name: The Legend of Mala Tokmachka
+Release Date: Aug 15, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Casual, Simulation, Strategy
+Link: https://store.steampowered.com/app/4787190
+==================================================
+
