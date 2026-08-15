@@ -62626,3 +62626,14 @@ Genres: Adventure, Casual, Simulation
 Link: https://store.steampowered.com/app/4588700
 ==================================================
 
+
+--- Run: 2026-08-15 17:09:47 --- (1 new game(s) found)
+
+==================================================
+Name: Harvest Yuuka
+Release Date: Aug 15, 2026
+Price: $22.49 (-10%, was $24.99)
+Genres: Simulation
+Link: https://store.steampowered.com/app/3767620
+==================================================
+
