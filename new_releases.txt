@@ -62488,3 +62488,22 @@ Genres: Casual, Indie, Simulation
 Link: https://store.steampowered.com/app/4958720
 ==================================================
 
+
+--- Run: 2026-08-15 10:09:51 --- (2 new game(s) found)
+
+==================================================
+Name: Keyboard Warrior: Type to Destroy
+Release Date: Aug 15, 2026
+Price: $1.59 (-20%, was $1.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4595820
+==================================================
+
+==================================================
+Name: Witchpop
+Release Date: Aug 15, 2026
+Price: $8.50
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/3248200
+==================================================
+
