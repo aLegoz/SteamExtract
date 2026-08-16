@@ -62749,3 +62749,30 @@ Genres: Action, Casual, Indie
 Link: https://store.steampowered.com/app/4883890
 ==================================================
 
+
+--- Run: 2026-08-16 08:13:53 --- (3 new game(s) found)
+
+==================================================
+Name: Kaleidos
+Release Date: Aug 16, 2026
+Price: $7.19 (-10%, was $7.99)
+Genres: Design & Illustration
+Link: https://store.steampowered.com/app/4936470
+==================================================
+
+==================================================
+Name: Brainrot Autobattler
+Release Date: Aug 15, 2026
+Price: $2.99 (-25%, was $3.99)
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/4765580
+==================================================
+
+==================================================
+Name: Folding Dungeon
+Release Date: Aug 15, 2026
+Price: Free to Play
+Genres: Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/4576650
+==================================================
+
