@@ -62912,3 +62912,14 @@ Genres: Adventure, Indie, Simulation
 Link: https://store.steampowered.com/app/3831170
 ==================================================
 
+
+--- Run: 2026-08-16 22:07:55 --- (1 new game(s) found)
+
+==================================================
+Name: Dave's Questions
+Release Date: Coming soon
+Price: Free to Play
+Genres: Casual, Free To Play
+Link: https://store.steampowered.com/app/4484750
+==================================================
+
