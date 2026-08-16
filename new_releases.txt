@@ -62689,3 +62689,22 @@ Genres: Adventure, Indie, RPG
 Link: https://store.steampowered.com/app/4816620
 ==================================================
 
+
+--- Run: 2026-08-16 02:13:34 --- (2 new game(s) found)
+
+==================================================
+Name: One Day To Live
+Release Date: Aug 15, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Action
+Link: https://store.steampowered.com/app/4206840
+==================================================
+
+==================================================
+Name: 3D Printer Manager
+Release Date: Aug 15, 2026
+Price: Free to Play
+Genres: Casual, Indie, Simulation, Free To Play
+Link: https://store.steampowered.com/app/2498780
+==================================================
+
