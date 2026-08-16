@@ -62730,3 +62730,22 @@ Genres: Indie, RPG, Simulation, Sports, Strategy
 Link: https://store.steampowered.com/app/4977910
 ==================================================
 
+
+--- Run: 2026-08-16 06:18:16 --- (2 new game(s) found)
+
+==================================================
+Name: Chicken_Run
+Release Date: Aug 15, 2026
+Price: Free to Play
+Genres: Action, Adventure, Indie, Free To Play
+Link: https://store.steampowered.com/app/4901590
+==================================================
+
+==================================================
+Name: Octo Armada
+Release Date: Aug 15, 2026
+Price: $1.79 (-10%, was $1.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4883890
+==================================================
+
