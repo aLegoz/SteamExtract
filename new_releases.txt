@@ -62844,3 +62844,14 @@ Genres: Casual, Indie, Free To Play
 Link: https://store.steampowered.com/app/4855430
 ==================================================
 
+
+--- Run: 2026-08-16 15:09:06 --- (1 new game(s) found)
+
+==================================================
+Name: Sweet Clockwork
+Release Date: Aug 16, 2026
+Price: $12.59 (-10%, was $13.99)
+Genres: Adventure, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/3756930
+==================================================
+
