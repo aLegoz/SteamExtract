@@ -62708,3 +62708,14 @@ Genres: Casual, Indie, Simulation, Free To Play
 Link: https://store.steampowered.com/app/2498780
 ==================================================
 
+
+--- Run: 2026-08-16 03:36:51 --- (1 new game(s) found)
+
+==================================================
+Name: Century’s End Awakening
+Release Date: Aug 15, 2026
+Price: $3.74 (-25%, was $4.99)
+Genres: Adventure, Casual, Indie, RPG, Simulation, Strategy
+Link: https://store.steampowered.com/app/4659330
+==================================================
+
