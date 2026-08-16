@@ -62885,3 +62885,30 @@ Genres: RPG
 Link: https://store.steampowered.com/app/4748510
 ==================================================
 
+
+--- Run: 2026-08-16 21:08:24 --- (3 new game(s) found)
+
+==================================================
+Name: Lunch Break Dodgeball
+Release Date: Aug 16, 2026
+Price: $7.47 (-17%, was $9.00)
+Genres: Action, Indie, Sports
+Link: https://store.steampowered.com/app/4968140
+==================================================
+
+==================================================
+Name: The Leather Maker
+Release Date: Aug 16, 2026
+Price: Free to Play
+Genres: Adventure, Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/4805820
+==================================================
+
+==================================================
+Name: Eggscape
+Release Date: Aug 16, 2026
+Price: $5.99
+Genres: Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/3831170
+==================================================
+
