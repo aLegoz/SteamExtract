@@ -62776,3 +62776,30 @@ Genres: Casual, Indie, Free To Play
 Link: https://store.steampowered.com/app/4576650
 ==================================================
 
+
+--- Run: 2026-08-16 09:15:19 --- (3 new game(s) found)
+
+==================================================
+Name: KuKu's Cinema
+Release Date: Aug 16, 2026
+Price: Free to Play
+Genres: Casual, Free To Play
+Link: https://store.steampowered.com/app/4370970
+==================================================
+
+==================================================
+Name: Peganomics
+Release Date: Aug 16, 2026
+Price: $2.09 (-30%, was $2.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/3824090
+==================================================
+
+==================================================
+Name: Dream Defender
+Release Date: Aug 15, 2026
+Price: $7.99
+Genres: Action, Adventure, Casual, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/4737040
+==================================================
+
