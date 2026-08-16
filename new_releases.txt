@@ -62814,3 +62814,22 @@ Genres: Action, Casual, Strategy, Free To Play
 Link: https://store.steampowered.com/app/3269340
 ==================================================
 
+
+--- Run: 2026-08-16 12:13:53 --- (2 new game(s) found)
+
+==================================================
+Name: Internet Survivor Survivors
+Release Date: Aug 16, 2026
+Price: $12.74 (-15%, was $14.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4625810
+==================================================
+
+==================================================
+Name: Karma Kingdom
+Release Date: Aug 16, 2026
+Price: Free to Play
+Genres: Indie, RPG, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4831310
+==================================================
+
