@@ -62833,3 +62833,14 @@ Genres: Indie, RPG, Strategy, Free To Play
 Link: https://store.steampowered.com/app/4831310
 ==================================================
 
+
+--- Run: 2026-08-16 13:21:54 --- (1 new game(s) found)
+
+==================================================
+Name: Mahjong Encyclopedia
+Release Date: Aug 16, 2026
+Price: Free to Play
+Genres: Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/4855430
+==================================================
+
