@@ -62803,3 +62803,14 @@ Genres: Action, Adventure, Casual, Indie, RPG, Strategy
 Link: https://store.steampowered.com/app/4737040
 ==================================================
 
+
+--- Run: 2026-08-16 10:10:34 --- (1 new game(s) found)
+
+==================================================
+Name: Horus: Desert Survivor
+Release Date: 2026
+Price: Free to Play
+Genres: Action, Casual, Strategy, Free To Play
+Link: https://store.steampowered.com/app/3269340
+==================================================
+
