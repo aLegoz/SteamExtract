@@ -62855,3 +62855,22 @@ Genres: Adventure, Casual, Indie, Simulation
 Link: https://store.steampowered.com/app/3756930
 ==================================================
 
+
+--- Run: 2026-08-16 16:09:33 --- (2 new game(s) found)
+
+==================================================
+Name: SOVA NA SKAKALKE
+Release Date: Aug 16, 2026
+Price: $2.24 (-25%, was $2.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4947950
+==================================================
+
+==================================================
+Name: 5hit Rocket
+Release Date: Aug 15, 2026
+Price: $3.99
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/4674430
+==================================================
+
