@@ -62719,3 +62719,14 @@ Genres: Adventure, Casual, Indie, RPG, Simulation, Strategy
 Link: https://store.steampowered.com/app/4659330
 ==================================================
 
+
+--- Run: 2026-08-16 04:23:08 --- (1 new game(s) found)
+
+==================================================
+Name: Cosmic Crossover
+Release Date: Aug 15, 2026
+Price: $4.49 (-25%, was $5.99)
+Genres: Indie, RPG, Simulation, Sports, Strategy
+Link: https://store.steampowered.com/app/4977910
+==================================================
+
