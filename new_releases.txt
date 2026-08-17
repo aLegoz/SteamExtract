@@ -63034,3 +63034,22 @@ Genres: Action, Adventure
 Link: https://store.steampowered.com/app/2698100
 ==================================================
 
+
+--- Run: 2026-08-17 08:28:23 --- (2 new game(s) found)
+
+==================================================
+Name: Echoes of the Deep : Incremental Endless Miner
+Release Date: Aug 17, 2026
+Price: $6.12 (-10%, was $6.80)
+Genres: Action, Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4781450
+==================================================
+
+==================================================
+Name: Yokai Legends
+Release Date: Aug 16, 2026
+Price: Free to Play
+Genres: Adventure, Casual, RPG, Free To Play
+Link: https://store.steampowered.com/app/4514600
+==================================================
+
