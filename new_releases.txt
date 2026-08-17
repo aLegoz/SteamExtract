@@ -62991,3 +62991,46 @@ Genres: Indie
 Link: https://store.steampowered.com/app/4935320
 ==================================================
 
+
+--- Run: 2026-08-17 06:28:03 --- (5 new game(s) found)
+
+==================================================
+Name: GameOverd
+Release Date: Aug 16, 2026
+Price: $1.99
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/5015990
+==================================================
+
+==================================================
+Name: 东方
+Release Date: Aug 16, 2026
+Price: $2.99
+Genres: RPG, Simulation
+Link: https://store.steampowered.com/app/4576040
+==================================================
+
+==================================================
+Name: Desktop Grass
+Release Date: Aug 16, 2026
+Price: $1.50
+Genres: Casual, Simulation
+Link: https://store.steampowered.com/app/4971830
+==================================================
+
+==================================================
+Name: Is That a Human Organ?
+Release Date: Aug 16, 2026
+Price: $1.59 (-20%, was $1.99)
+Genres: Adventure, Indie, RPG, Simulation
+Link: https://store.steampowered.com/app/5014260
+==================================================
+
+==================================================
+Name: STEAM TRIGGER
+Release Date: Aug 16, 2026
+Price: $13.49 (-10%, was $14.99)
+Genres: Action, Adventure
+Link: https://store.steampowered.com/app/2698100
+==================================================
+
