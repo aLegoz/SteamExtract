@@ -62942,3 +62942,22 @@ Genres: Action, Casual, Indie
 Link: https://store.steampowered.com/app/4880670
 ==================================================
 
+
+--- Run: 2026-08-17 03:38:01 --- (2 new game(s) found)
+
+==================================================
+Name: 演义三国
+Release Date: Aug 16, 2026
+Price: $6.99 (-30%, was $9.99)
+Genres: Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/4382980
+==================================================
+
+==================================================
+Name: My Gym Adventure!
+Release Date: Aug 16, 2026
+Price: $3.19 (-20%, was $3.99)
+Genres: Adventure, Casual, Indie, Simulation, Sports
+Link: https://store.steampowered.com/app/4867230
+==================================================
+
