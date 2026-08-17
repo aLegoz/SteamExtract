@@ -63504,3 +63504,38 @@ Genres: Casual, Indie
 Link: https://store.steampowered.com/app/4755080
 ==================================================
 
+
+--- Run: 2026-08-17 19:18:48 --- (4 new game(s) found)
+
+==================================================
+Name: Wanjie: Cycle of Oblivion
+Release Date: Aug 17, 2026
+Price: $3.59 (-40%, was $5.99)
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/5022780
+==================================================
+
+==================================================
+Name: Mothership Down
+Release Date: Aug 17, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4211540
+==================================================
+
+==================================================
+Name: Megaris
+Release Date: Aug 17, 2026
+Price: Free to Play
+Genres: Casual, Indie, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4483990
+==================================================
+
+==================================================
+Name: GUTTED: Infested Crypts
+Release Date: Aug 17, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Action, Adventure
+Link: https://store.steampowered.com/app/4677280
+==================================================
+
