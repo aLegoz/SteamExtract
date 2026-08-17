@@ -63115,3 +63115,38 @@ Genres: Action, Adventure, Indie, Free To Play
 Link: https://store.steampowered.com/app/4686010
 ==================================================
 
+
+--- Run: 2026-08-17 12:17:33 --- (4 new game(s) found)
+
+==================================================
+Name: Dual Cat: Max
+Release Date: Aug 17, 2026
+Price: $3.19 (-20%, was $3.99)
+Genres: Action, Adventure, Indie, Strategy
+Link: https://store.steampowered.com/app/3147720
+==================================================
+
+==================================================
+Name: Worm In Rotating Land
+Release Date: Aug 17, 2026
+Price: $1.79 (-40%, was $2.99)
+Genres: Adventure, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5026560
+==================================================
+
+==================================================
+Name: Asobutsuri
+Release Date: Aug 17, 2026
+Price: $1.60 (-20%, was $2.00)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4981470
+==================================================
+
+==================================================
+Name: Crown&Sword
+Release Date: Aug 16, 2026
+Price: $3.59 (-10%, was $3.99)
+Genres: Action, Adventure, Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4831290
+==================================================
+
