@@ -62980,3 +62980,14 @@ Genres: Adventure, Free To Play
 Link: https://store.steampowered.com/app/4511010
 ==================================================
 
+
+--- Run: 2026-08-17 05:24:11 --- (1 new game(s) found)
+
+==================================================
+Name: MODIFY
+Release Date: Aug 16, 2026
+Price: $10.99
+Genres: Indie
+Link: https://store.steampowered.com/app/4935320
+==================================================
+
