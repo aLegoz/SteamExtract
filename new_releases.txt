@@ -63338,3 +63338,46 @@ Genres: Simulation
 Link: https://store.steampowered.com/app/5033040
 ==================================================
 
+
+--- Run: 2026-08-17 17:15:14 --- (5 new game(s) found)
+
+==================================================
+Name: Platon³
+Release Date: Aug 17, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/4595310
+==================================================
+
+==================================================
+Name: Gulugulu
+Release Date: Aug 17, 2026
+Price: $1.99
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4956830
+==================================================
+
+==================================================
+Name: The Eternal Woods
+Release Date: Aug 17, 2026
+Price: $2.39 (-20%, was $2.99)
+Genres: Action, Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4509630
+==================================================
+
+==================================================
+Name: Cosmic Crusher
+Release Date: Aug 17, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Action, Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4432790
+==================================================
+
+==================================================
+Name: Robugs
+Release Date: Aug 17, 2026
+Price: $5.94 (-15%, was $6.99)
+Genres: Strategy
+Link: https://store.steampowered.com/app/3784200
+==================================================
+
