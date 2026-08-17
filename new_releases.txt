@@ -63150,3 +63150,38 @@ Genres: Action, Adventure, Casual, Indie, Strategy
 Link: https://store.steampowered.com/app/4831290
 ==================================================
 
+
+--- Run: 2026-08-17 13:30:24 --- (4 new game(s) found)
+
+==================================================
+Name: Battle Of Plans
+Release Date: Coming soon
+Price: Free to Play
+Genres: Casual, Indie, Strategy, Free To Play
+Link: https://store.steampowered.com/app/5019600
+==================================================
+
+==================================================
+Name: Farmer and Ghost
+Release Date: Aug 17, 2026
+Price: $7.99
+Genres: Action, Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/4980280
+==================================================
+
+==================================================
+Name: BLOODLETTER
+Release Date: Aug 17, 2026
+Price: $10.06 (-35%, was $15.49)
+Genres: Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/3493400
+==================================================
+
+==================================================
+Name: 10 Beautiful Postcards
+Release Date: Aug 17, 2026
+Price: $6.29 (-10%, was $6.99)
+Genres: Adventure
+Link: https://store.steampowered.com/app/4916370
+==================================================
+
