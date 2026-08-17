@@ -62923,3 +62923,22 @@ Genres: Casual, Free To Play
 Link: https://store.steampowered.com/app/4484750
 ==================================================
 
+
+--- Run: 2026-08-17 00:30:04 --- (2 new game(s) found)
+
+==================================================
+Name: Off-Label
+Release Date: Aug 16, 2026
+Price: $4.19 (-40%, was $6.99)
+Genres: Adventure, Simulation
+Link: https://store.steampowered.com/app/4844810
+==================================================
+
+==================================================
+Name: PuruPuru: Pull It Along
+Release Date: Aug 16, 2026
+Price: $5.99
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4880670
+==================================================
+
