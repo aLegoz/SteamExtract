@@ -63053,3 +63053,46 @@ Genres: Adventure, Casual, RPG, Free To Play
 Link: https://store.steampowered.com/app/4514600
 ==================================================
 
+
+--- Run: 2026-08-17 09:27:32 --- (5 new game(s) found)
+
+==================================================
+Name: Farewells clicker
+Release Date: Aug 17, 2026
+Price: $5.86 (-15%, was $6.90)
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4264950
+==================================================
+
+==================================================
+Name: Crownhold
+Release Date: Aug 17, 2026
+Price: $5.94 (-15%, was $6.99)
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/4579940
+==================================================
+
+==================================================
+Name: Balls Up
+Release Date: Aug 16, 2026
+Price: $10.99
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/3483330
+==================================================
+
+==================================================
+Name: Moon and Away
+Release Date: Aug 16, 2026
+Price: $1.69 (-15%, was $1.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/3124200
+==================================================
+
+==================================================
+Name: Onmyoji: Soul Legend
+Release Date: Aug 16, 2026
+Price: $9.99
+Genres: Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/4851970
+==================================================
+
