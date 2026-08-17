@@ -62961,3 +62961,22 @@ Genres: Adventure, Casual, Indie, Simulation, Sports
 Link: https://store.steampowered.com/app/4867230
 ==================================================
 
+
+--- Run: 2026-08-17 04:29:12 --- (2 new game(s) found)
+
+==================================================
+Name: Cat Meow-tilation
+Release Date: Aug 16, 2026
+Price: Free to Play
+Genres: Casual, Free To Play
+Link: https://store.steampowered.com/app/4511020
+==================================================
+
+==================================================
+Name: Apple Faces Up
+Release Date: Aug 16, 2026
+Price: Free to Play
+Genres: Adventure, Free To Play
+Link: https://store.steampowered.com/app/4511010
+==================================================
+
