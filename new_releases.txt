@@ -63539,3 +63539,14 @@ Genres: Action, Adventure
 Link: https://store.steampowered.com/app/4677280
 ==================================================
 
+
+--- Run: 2026-08-17 20:12:21 --- (1 new game(s) found)
+
+==================================================
+Name: Draft Day Sports: College Football 27
+Release Date: Aug 17, 2026
+Price: $35.99 (-10%, was $39.99)
+Genres: Indie, Simulation, Sports, Strategy
+Link: https://store.steampowered.com/app/4730840
+==================================================
+
