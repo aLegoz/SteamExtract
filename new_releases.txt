@@ -63601,3 +63601,22 @@ Genres: Adventure
 Link: https://store.steampowered.com/app/5019730
 ==================================================
 
+
+--- Run: 2026-08-17 22:11:01 --- (2 new game(s) found)
+
+==================================================
+Name: Tap To Travel
+Release Date: Aug 17, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4854670
+==================================================
+
+==================================================
+Name: Little Sim World
+Release Date: Aug 17, 2026
+Price: $10.79 (-40%, was $17.99)
+Genres: Adventure, Casual, Indie, RPG, Simulation
+Link: https://store.steampowered.com/app/1429880
+==================================================
+
