@@ -63381,3 +63381,126 @@ Genres: Strategy
 Link: https://store.steampowered.com/app/3784200
 ==================================================
 
+
+--- Run: 2026-08-17 18:19:48 --- (15 new game(s) found)
+
+==================================================
+Name: Vice Vision Runner
+Release Date: Aug 17, 2026
+Price: $3.19 (-20%, was $3.99)
+Genres: Action, Adventure, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/3807750
+==================================================
+
+==================================================
+Name: Planet Harvester: Incremental Odyssey
+Release Date: Aug 17, 2026
+Price: $5.39 (-10%, was $5.99)
+Genres: Casual, Simulation
+Link: https://store.steampowered.com/app/4448490
+==================================================
+
+==================================================
+Name: My Toxic Darling
+Release Date: Aug 17, 2026
+Price: $4.99
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/4753380
+==================================================
+
+==================================================
+Name: Spectacular Team: Assemble
+Release Date: Aug 17, 2026
+Price: $6.79 (-15%, was $7.99)
+Genres: Action, Indie, Simulation
+Link: https://store.steampowered.com/app/3203170
+==================================================
+
+==================================================
+Name: Working Class Monsters
+Release Date: Aug 17, 2026
+Price: $5.04 (-10%, was $5.60)
+Genres: Casual, Simulation, Strategy
+Link: https://store.steampowered.com/app/4086870
+==================================================
+
+==================================================
+Name: Void Pachinko
+Release Date: Aug 17, 2026
+Price: $5.59 (-20%, was $6.99)
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4077060
+==================================================
+
+==================================================
+Name: RHYTHMKILL
+Release Date: Aug 17, 2026
+Price: $6.99 (-30%, was $9.99)
+Genres: Action, Adventure
+Link: https://store.steampowered.com/app/3667050
+==================================================
+
+==================================================
+Name: Rag Doll - Fun Fighting with Physics
+Release Date: Aug 17, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/3441370
+==================================================
+
+==================================================
+Name: Balls & Gamble
+Release Date: Aug 17, 2026
+Price: $3.49 (-30%, was $4.99)
+Genres: Casual, Strategy
+Link: https://store.steampowered.com/app/4380770
+==================================================
+
+==================================================
+Name: Beat Vector
+Release Date: Aug 17, 2026
+Price: $10.19 (-15%, was $11.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4395510
+==================================================
+
+==================================================
+Name: Buster Breaks Out
+Release Date: Aug 17, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4251540
+==================================================
+
+==================================================
+Name: Trauma playground
+Release Date: Aug 17, 2026
+Price: $3.19 (-20%, was $3.99)
+Genres: Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/4213510
+==================================================
+
+==================================================
+Name: Crab And Cycle - Broken World
+Release Date: Aug 17, 2026
+Price: $1.80 (-10%, was $2.00)
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/2401490
+==================================================
+
+==================================================
+Name: Provoron
+Release Date: Aug 17, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Adventure, Casual, Indie, RPG
+Link: https://store.steampowered.com/app/2495730
+==================================================
+
+==================================================
+Name: Peg Cascade
+Release Date: Aug 17, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4755080
+==================================================
+
