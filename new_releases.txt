@@ -63295,3 +63295,46 @@ Genres: Action
 Link: https://store.steampowered.com/app/4780010
 ==================================================
 
+
+--- Run: 2026-08-17 16:12:18 --- (5 new game(s) found)
+
+==================================================
+Name: Epic Naval Battle Simulator
+Release Date: Aug 17, 2026
+Price: $9.99
+Genres: Action, Adventure, Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/2146100
+==================================================
+
+==================================================
+Name: Water Gun Cat
+Release Date: Aug 17, 2026
+Price: $2.99 (-25%, was $3.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4676330
+==================================================
+
+==================================================
+Name: ploink
+Release Date: Aug 17, 2026
+Price: $11.69 (-10%, was $12.99)
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/3929350
+==================================================
+
+==================================================
+Name: Excremental Game
+Release Date: Aug 17, 2026
+Price: $5.39 (-10%, was $5.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4268200
+==================================================
+
+==================================================
+Name: Machi Gurashi
+Release Date: Aug 17, 2026
+Price: $5.99 (-25%, was $7.99)
+Genres: Simulation
+Link: https://store.steampowered.com/app/5033040
+==================================================
+
