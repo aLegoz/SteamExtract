@@ -63620,3 +63620,14 @@ Genres: Adventure, Casual, Indie, RPG, Simulation
 Link: https://store.steampowered.com/app/1429880
 ==================================================
 
+
+--- Run: 2026-08-17 23:10:52 --- (1 new game(s) found)
+
+==================================================
+Name: Yipe! V - Attack of Idle Hands
+Release Date: Aug 17, 2026
+Price: $5.94 (-15%, was $6.99)
+Genres: Adventure, Casual, RPG
+Link: https://store.steampowered.com/app/4900320
+==================================================
+
