@@ -63550,3 +63550,54 @@ Genres: Indie, Simulation, Sports, Strategy
 Link: https://store.steampowered.com/app/4730840
 ==================================================
 
+
+--- Run: 2026-08-17 21:14:12 --- (6 new game(s) found)
+
+==================================================
+Name: Poggers 2 - A-Maze-Thing
+Release Date: Aug 17, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/2073870
+==================================================
+
+==================================================
+Name: Fleetfall - Galaxy Domination
+Release Date: Aug 17, 2026
+Price: $4.79 (-20%, was $5.99)
+Genres: Action, Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4933760
+==================================================
+
+==================================================
+Name: Orbit One
+Release Date: Aug 17, 2026
+Price: $14.99
+Genres: Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4681670
+==================================================
+
+==================================================
+Name: Ballmancy
+Release Date: Aug 17, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Action
+Link: https://store.steampowered.com/app/4521330
+==================================================
+
+==================================================
+Name: ARCWATT: Power Empire
+Release Date: Aug 17, 2026
+Price: $7.64 (-15%, was $8.99)
+Genres: Simulation, Strategy
+Link: https://store.steampowered.com/app/4661270
+==================================================
+
+==================================================
+Name: Just boring
+Release Date: Aug 17, 2026
+Price: $1.59 (-20%, was $1.99)
+Genres: Adventure
+Link: https://store.steampowered.com/app/5019730
+==================================================
+
