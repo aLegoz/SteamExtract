@@ -63220,3 +63220,78 @@ Genres: Simulation
 Link: https://store.steampowered.com/app/3503710
 ==================================================
 
+
+--- Run: 2026-08-17 15:13:38 --- (9 new game(s) found)
+
+==================================================
+Name: The Pale Mimic
+Release Date: Aug 17, 2026
+Price: $6.79 (-15%, was $7.99)
+Genres: Action, Adventure
+Link: https://store.steampowered.com/app/4415740
+==================================================
+
+==================================================
+Name: Budget Renovation Simulator
+Release Date: Aug 17, 2026
+Price: $4.79 (-40%, was $7.99)
+Genres: Casual, Indie, RPG, Simulation
+Link: https://store.steampowered.com/app/4561110
+==================================================
+
+==================================================
+Name: FEED IT
+Release Date: Aug 17, 2026
+Price: $5.39 (-10%, was $5.99)
+Genres: Indie
+Link: https://store.steampowered.com/app/4370990
+==================================================
+
+==================================================
+Name: Tukoni: Forest Keepers
+Release Date: Aug 17, 2026
+Price: $7.49 (-25%, was $9.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/2933200
+==================================================
+
+==================================================
+Name: Cursed Ciddy
+Release Date: Aug 17, 2026
+Price: $8.50
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/4841070
+==================================================
+
+==================================================
+Name: Schizm
+Release Date: Aug 17, 2026
+Price: $2.99 (-40%, was $4.99)
+Genres: Action, Adventure, Casual, Indie, RPG
+Link: https://store.steampowered.com/app/4913400
+==================================================
+
+==================================================
+Name: Lurk in Abyss
+Release Date: Aug 17, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Indie
+Link: https://store.steampowered.com/app/4421160
+==================================================
+
+==================================================
+Name: SunWars
+Release Date: Aug 17, 2026
+Price: $6.69 (-33%, was $9.99)
+Genres: Strategy
+Link: https://store.steampowered.com/app/4319170
+==================================================
+
+==================================================
+Name: ScapeTime
+Release Date: Aug 16, 2026
+Price: $2.70 (-10%, was $3.00)
+Genres: Action
+Link: https://store.steampowered.com/app/4780010
+==================================================
+
