@@ -63096,3 +63096,22 @@ Genres: Indie, RPG, Strategy
 Link: https://store.steampowered.com/app/4851970
 ==================================================
 
+
+--- Run: 2026-08-17 10:18:55 --- (2 new game(s) found)
+
+==================================================
+Name: Percorso - The Retraced Steps
+Release Date: Aug 17, 2026
+Price: Free to Play
+Genres: Casual, Indie, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4683320
+==================================================
+
+==================================================
+Name: Fall Queen
+Release Date: Aug 17, 2026
+Price: Free to Play
+Genres: Action, Adventure, Indie, Free To Play
+Link: https://store.steampowered.com/app/4686010
+==================================================
+
