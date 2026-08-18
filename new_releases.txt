@@ -63988,3 +63988,102 @@ Genres: Action, Indie
 Link: https://store.steampowered.com/app/3224540
 ==================================================
 
+
+--- Run: 2026-08-18 16:16:58 --- (12 new game(s) found)
+
+==================================================
+Name: Escape The Hostel
+Release Date: Aug 18, 2026
+Price: $5.27 (-34%, was $7.99)
+Genres: Action, Adventure
+Link: https://store.steampowered.com/app/4837480
+==================================================
+
+==================================================
+Name: DDD: Demons Double Down
+Release Date: Aug 18, 2026
+Price: $5.09 (-15%, was $5.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4017050
+==================================================
+
+==================================================
+Name: Kinetether
+Release Date: Aug 18, 2026
+Price: Free to Play
+Genres: Adventure, Indie, Racing, Free To Play
+Link: https://store.steampowered.com/app/5027050
+==================================================
+
+==================================================
+Name: Stacey's Demise - A Prequel to I FORGOT TO TAKE THE CHICKEN OUT OF THE FREEZER
+Release Date: Aug 18, 2026
+Price: $3.99
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4949370
+==================================================
+
+==================================================
+Name: Exark
+Release Date: Aug 18, 2026
+Price: $13.49 (-10%, was $14.99)
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/3435610
+==================================================
+
+==================================================
+Name: Toll: The Ferryman's Ledger
+Release Date: Aug 18, 2026
+Price: $1.19 (-40%, was $1.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4990390
+==================================================
+
+==================================================
+Name: Super Bedrock Brawl
+Release Date: Aug 18, 2026
+Price: Free to Play
+Genres: Action, Indie, Free To Play
+Link: https://store.steampowered.com/app/4547380
+==================================================
+
+==================================================
+Name: Yakuza Rogue EX: Officer Ayukawa Hikaru
+Release Date: Aug 18, 2026
+Price: $11.69 (-10%, was $12.99)
+Genres: RPG, Simulation
+Link: https://store.steampowered.com/app/4706950
+==================================================
+
+==================================================
+Name: Hook Party Arena
+Release Date: Aug 18, 2026
+Price: $2.77
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4959190
+==================================================
+
+==================================================
+Name: Blind Spot
+Release Date: Aug 18, 2026
+Price: $1.99
+Genres: Indie
+Link: https://store.steampowered.com/app/4414530
+==================================================
+
+==================================================
+Name: Fallen Isekai
+Release Date: Aug 18, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: RPG, Strategy
+Link: https://store.steampowered.com/app/4812160
+==================================================
+
+==================================================
+Name: Hentai Puzzle: Sayuri
+Release Date: Aug 18, 2026
+Price: $2.00 (-33%, was $2.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4948370
+==================================================
+
