@@ -63753,3 +63753,14 @@ Genres: Indie
 Link: https://store.steampowered.com/app/4775760
 ==================================================
 
+
+--- Run: 2026-08-18 07:27:22 --- (1 new game(s) found)
+
+==================================================
+Name: Puzzles Stars
+Release Date: Aug 17, 2026
+Price: $1.19 (-40%, was $1.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4936760
+==================================================
+
