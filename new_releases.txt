@@ -63791,3 +63791,22 @@ Genres: Casual, Indie, Simulation, Sports, Strategy
 Link: https://store.steampowered.com/app/4979160
 ==================================================
 
+
+--- Run: 2026-08-18 09:19:30 --- (2 new game(s) found)
+
+==================================================
+Name: Intend System
+Release Date: Aug 18, 2026
+Price: $13.99 (-30%, was $19.99)
+Genres: Casual, Software Training, Utilities
+Link: https://store.steampowered.com/app/5024600
+==================================================
+
+==================================================
+Name: Farm Harvest
+Release Date: Aug 18, 2026
+Price: $0.99
+Genres: Adventure, Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4187420
+==================================================
+
