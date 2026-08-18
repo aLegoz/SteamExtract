@@ -64227,3 +64227,70 @@ Genres: Casual, Indie, Free To Play
 Link: https://store.steampowered.com/app/4516490
 ==================================================
 
+
+--- Run: 2026-08-18 21:11:40 --- (8 new game(s) found)
+
+==================================================
+Name: Funeral of Paradise - BL (Boys Love)
+Release Date: Aug 18, 2026
+Price: $5.99 (-25%, was $7.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4805080
+==================================================
+
+==================================================
+Name: Beyond Dark Castle
+Release Date: Aug 18, 2026
+Price: $9.99
+Genres: Action
+Link: https://store.steampowered.com/app/4706300
+==================================================
+
+==================================================
+Name: Dark Castle
+Release Date: Aug 18, 2026
+Price: $9.99
+Genres: Action
+Link: https://store.steampowered.com/app/4706290
+==================================================
+
+==================================================
+Name: GOD CANDLE
+Release Date: Aug 18, 2026
+Price: $8.49 (-15%, was $9.99)
+Genres: Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/5002930
+==================================================
+
+==================================================
+Name: October: Survivor's Guilt
+Release Date: Aug 18, 2026
+Price: $3.99
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/4909030
+==================================================
+
+==================================================
+Name: Doctrine: C.U.L.T.
+Release Date: Aug 18, 2026
+Price: $3.74 (-25%, was $4.99)
+Genres: Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/3722180
+==================================================
+
+==================================================
+Name: Literally Just A Rock
+Release Date: Aug 18, 2026
+Price: $0.99 (-40%, was $1.65)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/3083550
+==================================================
+
+==================================================
+Name: Drift Mania
+Release Date: Aug 18, 2026
+Price: $3.59 (-40%, was $5.99)
+Genres: Casual, Racing, Sports
+Link: https://store.steampowered.com/app/3929890
+==================================================
+
