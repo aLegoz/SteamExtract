@@ -63731,3 +63731,14 @@ Genres: Adventure, Indie, Strategy
 Link: https://store.steampowered.com/app/4000970
 ==================================================
 
+
+--- Run: 2026-08-18 05:18:12 --- (1 new game(s) found)
+
+==================================================
+Name: Project DeepWeb: Eternal Nightmare
+Release Date: Aug 17, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/3756870
+==================================================
+
