@@ -63742,3 +63742,14 @@ Genres: Adventure, Indie, Simulation
 Link: https://store.steampowered.com/app/3756870
 ==================================================
 
+
+--- Run: 2026-08-18 06:20:23 --- (1 new game(s) found)
+
+==================================================
+Name: Red Cap Adventure
+Release Date: Aug 17, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Indie
+Link: https://store.steampowered.com/app/4775760
+==================================================
+
