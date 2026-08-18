@@ -64087,3 +64087,70 @@ Genres: Casual, Indie
 Link: https://store.steampowered.com/app/4948370
 ==================================================
 
+
+--- Run: 2026-08-18 17:16:00 --- (8 new game(s) found)
+
+==================================================
+Name: Tiny Tape Store
+Release Date: Aug 18, 2026
+Price: $3.59 (-10%, was $3.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4604680
+==================================================
+
+==================================================
+Name: Corner King: Boxing Tycoon
+Release Date: Aug 18, 2026
+Price: $15.29 (-10%, was $16.99)
+Genres: Simulation, Sports, Strategy
+Link: https://store.steampowered.com/app/4259990
+==================================================
+
+==================================================
+Name: ANARIA: Reborn
+Release Date: Aug 18, 2026
+Price: $5.24 (-25%, was $6.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/3924150
+==================================================
+
+==================================================
+Name: PyxelAid
+Release Date: Aug 18, 2026
+Price: $14.99 (-25%, was $19.99)
+Genres: Indie, Design & Illustration, Utilities, Game Development
+Link: https://store.steampowered.com/app/4866670
+==================================================
+
+==================================================
+Name: HyperCore : Rhythm Bullet Hell
+Release Date: Aug 18, 2026
+Price: $16.99 (-15%, was $19.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/1112390
+==================================================
+
+==================================================
+Name: Finding Ruby: Hidden Object Adventure
+Release Date: Aug 18, 2026
+Price: $2.54 (-15%, was $2.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4836900
+==================================================
+
+==================================================
+Name: Twisted Tower
+Release Date: Aug 18, 2026
+Price: $13.49 (-10%, was $14.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/1575990
+==================================================
+
+==================================================
+Name: Army of Tentacles: (Not) A Cthulhu Dating Sim 10th Anniversary Edition
+Release Date: Aug 18, 2026
+Price: $7.99
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4231940
+==================================================
+
