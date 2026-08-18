@@ -64154,3 +64154,46 @@ Genres: Adventure, Casual, Indie
 Link: https://store.steampowered.com/app/4231940
 ==================================================
 
+
+--- Run: 2026-08-18 18:18:27 --- (5 new game(s) found)
+
+==================================================
+Name: Nullvein: Incremental Mining Evolution
+Release Date: Aug 18, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4659340
+==================================================
+
+==================================================
+Name: Wheelchair For Two
+Release Date: Aug 18, 2026
+Price: $3.99
+Genres: Adventure, Casual, Indie, Racing, Simulation, Sports
+Link: https://store.steampowered.com/app/4767110
+==================================================
+
+==================================================
+Name: Forts & Castles
+Release Date: Aug 18, 2026
+Price: Free to Play
+Genres: Casual, Indie, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4942090
+==================================================
+
+==================================================
+Name: Loot Dungeon
+Release Date: Aug 18, 2026
+Price: $6.29 (-10%, was $6.99)
+Genres: Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/4329670
+==================================================
+
+==================================================
+Name: The Sudoku Way
+Release Date: Aug 18, 2026
+Price: $5.94 (-15%, was $6.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/5025490
+==================================================
+
