@@ -63810,3 +63810,22 @@ Genres: Adventure, Casual, Indie, Strategy
 Link: https://store.steampowered.com/app/4187420
 ==================================================
 
+
+--- Run: 2026-08-18 10:15:09 --- (2 new game(s) found)
+
+==================================================
+Name: Bullet Spell
+Release Date: Aug 18, 2026
+Price: $9.89 (-10%, was $10.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4385440
+==================================================
+
+==================================================
+Name: The Sinking City 2
+Release Date: Aug 18, 2026
+Price: $49.99
+Genres: Action, Adventure
+Link: https://store.steampowered.com/app/2825860
+==================================================
+
