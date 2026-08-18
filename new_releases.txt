@@ -64294,3 +64294,14 @@ Genres: Casual, Racing, Sports
 Link: https://store.steampowered.com/app/3929890
 ==================================================
 
+
+--- Run: 2026-08-18 23:10:03 --- (1 new game(s) found)
+
+==================================================
+Name: RAZE
+Release Date: Aug 18, 2026
+Price: $9.99
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4279790
+==================================================
+
