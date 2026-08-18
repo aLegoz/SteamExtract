@@ -63875,3 +63875,30 @@ Genres: Casual
 Link: https://store.steampowered.com/app/1238510
 ==================================================
 
+
+--- Run: 2026-08-18 13:33:11 --- (3 new game(s) found)
+
+==================================================
+Name: JABB
+Release Date: Aug 18, 2026
+Price: Free to Play
+Genres: Action, Free To Play
+Link: https://store.steampowered.com/app/4188860
+==================================================
+
+==================================================
+Name: Starsand Island
+Release Date: Aug 18, 2026
+Price: $31.99 (-20%, was $39.99)
+Genres: Casual, Indie, RPG, Simulation
+Link: https://store.steampowered.com/app/2966320
+==================================================
+
+==================================================
+Name: DartPotato
+Release Date: Aug 18, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4999670
+==================================================
+
