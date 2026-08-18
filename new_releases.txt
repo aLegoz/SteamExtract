@@ -64216,3 +64216,14 @@ Genres: Strategy
 Link: https://store.steampowered.com/app/4884380
 ==================================================
 
+
+--- Run: 2026-08-18 20:09:37 --- (1 new game(s) found)
+
+==================================================
+Name: nudge
+Release Date: Coming soon
+Price: Free to Play
+Genres: Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/4516490
+==================================================
+
