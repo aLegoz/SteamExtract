@@ -63693,3 +63693,30 @@ Genres: Action
 Link: https://store.steampowered.com/app/4652920
 ==================================================
 
+
+--- Run: 2026-08-18 03:33:32 --- (3 new game(s) found)
+
+==================================================
+Name: The World Well: Blood of Caro
+Release Date: Aug 17, 2026
+Price: $10.79 (-10%, was $11.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/2648900
+==================================================
+
+==================================================
+Name: 光与影之恋 Chiaroscuro Lovers
+Release Date: Aug 17, 2026
+Price: $6.29 (-10%, was $6.99)
+Genres: Casual, Indie, RPG
+Link: https://store.steampowered.com/app/4412960
+==================================================
+
+==================================================
+Name: 元气桌面壁纸
+Release Date: Aug 17, 2026
+Price: Free to Play
+Genres: Action, Casual, Free To Play
+Link: https://store.steampowered.com/app/3864570
+==================================================
+
