@@ -63832,3 +63832,46 @@ Link: https://store.steampowered.com/app/2825860
 
 --- Run: 2026-08-18 11:13:41 --- (0 new game(s) found)
 
+
+--- Run: 2026-08-18 12:19:05 --- (5 new game(s) found)
+
+==================================================
+Name: Funeral Flowers Lament: Helena
+Release Date: Aug 18, 2026
+Price: $14.44 (-15%, was $16.99)
+Genres: Indie, RPG, Simulation, Strategy
+Link: https://store.steampowered.com/app/4390450
+==================================================
+
+==================================================
+Name: Néro & Sci ∫ Integral Edition
+Release Date: Aug 18, 2026
+Price: $11.99 (-20%, was $14.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/2928570
+==================================================
+
+==================================================
+Name: Ramen shiruu.
+Release Date: Aug 17, 2026
+Price: $12.99
+Genres: Simulation
+Link: https://store.steampowered.com/app/4827740
+==================================================
+
+==================================================
+Name: Speed Fall
+Release Date: Aug 17, 2026
+Price: $0.89 (-10%, was $0.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4898710
+==================================================
+
+==================================================
+Name: Retro Incremental
+Release Date: Aug 17, 2026
+Price: $4.99
+Genres: Casual
+Link: https://store.steampowered.com/app/1238510
+==================================================
+
