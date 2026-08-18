@@ -63945,3 +63945,46 @@ Genres: Casual, Indie, Strategy
 Link: https://store.steampowered.com/app/4417770
 ==================================================
 
+
+--- Run: 2026-08-18 15:18:57 --- (5 new game(s) found)
+
+==================================================
+Name: Dig to China Simulator
+Release Date: Aug 18, 2026
+Price: $1.92 (-40%, was $3.20)
+Genres: Action, Adventure, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4197640
+==================================================
+
+==================================================
+Name: Bug Bounty Hunter --Idle
+Release Date: Aug 18, 2026
+Price: $7.19 (-10%, was $7.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4942470
+==================================================
+
+==================================================
+Name: Oktopus Synthesizer Standalone
+Release Date: Aug 18, 2026
+Price: Free to Play
+Genres: Free To Play, Audio Production
+Link: https://store.steampowered.com/app/5024220
+==================================================
+
+==================================================
+Name: Stackmon
+Release Date: Aug 18, 2026
+Price: $11.89 (-15%, was $13.99)
+Genres: Adventure, Indie, Strategy
+Link: https://store.steampowered.com/app/3729550
+==================================================
+
+==================================================
+Name: VOIDFACE
+Release Date: Aug 18, 2026
+Price: $8.09 (-10%, was $8.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/3224540
+==================================================
+
