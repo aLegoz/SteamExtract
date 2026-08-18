@@ -63674,3 +63674,22 @@ Genres: Adventure, Indie
 Link: https://store.steampowered.com/app/3732030
 ==================================================
 
+
+--- Run: 2026-08-18 02:07:25 --- (2 new game(s) found)
+
+==================================================
+Name: Elemental Master: Heroes Assemble
+Release Date: Aug 17, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: Adventure, Casual, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/2598990
+==================================================
+
+==================================================
+Name: Squirterzz
+Release Date: Aug 17, 2026
+Price: $3.99
+Genres: Action
+Link: https://store.steampowered.com/app/4652920
+==================================================
+
