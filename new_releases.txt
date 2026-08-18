@@ -63631,3 +63631,46 @@ Genres: Adventure, Casual, RPG
 Link: https://store.steampowered.com/app/4900320
 ==================================================
 
+
+--- Run: 2026-08-18 00:30:09 --- (5 new game(s) found)
+
+==================================================
+Name: Voluntary Isolation
+Release Date: Aug 17, 2026
+Price: $6.99
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4746960
+==================================================
+
+==================================================
+Name: Anubis
+Release Date: Aug 17, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/3531650
+==================================================
+
+==================================================
+Name: Encroacher: Snakes
+Release Date: Aug 17, 2026
+Price: $2.99
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/3781530
+==================================================
+
+==================================================
+Name: Shady O'Grady's™ Rising Star (2007)
+Release Date: Aug 17, 2026
+Price: $2.99
+Genres: RPG, Simulation
+Link: https://store.steampowered.com/app/4991550
+==================================================
+
+==================================================
+Name: Palianytsia
+Release Date: Aug 17, 2026
+Price: $4.79 (-20%, was $5.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/3732030
+==================================================
+
