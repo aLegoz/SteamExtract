@@ -63720,3 +63720,14 @@ Genres: Action, Casual, Free To Play
 Link: https://store.steampowered.com/app/3864570
 ==================================================
 
+
+--- Run: 2026-08-18 04:22:30 --- (1 new game(s) found)
+
+==================================================
+Name: BALLSKIN
+Release Date: Aug 17, 2026
+Price: $2.69 (-10%, was $2.99)
+Genres: Adventure, Indie, Strategy
+Link: https://store.steampowered.com/app/4000970
+==================================================
+
