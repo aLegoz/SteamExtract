@@ -64197,3 +64197,22 @@ Genres: Casual
 Link: https://store.steampowered.com/app/5025490
 ==================================================
 
+
+--- Run: 2026-08-18 19:19:25 --- (2 new game(s) found)
+
+==================================================
+Name: Crown Chase
+Release Date: Aug 18, 2026
+Price: $6.99
+Genres: Casual, Indie, Racing
+Link: https://store.steampowered.com/app/5020920
+==================================================
+
+==================================================
+Name: The Goblins Tavern
+Release Date: Aug 18, 2026
+Price: $13.49 (-10%, was $14.99)
+Genres: Strategy
+Link: https://store.steampowered.com/app/4884380
+==================================================
+
