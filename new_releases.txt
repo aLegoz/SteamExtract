@@ -63902,3 +63902,46 @@ Genres: Action, Indie
 Link: https://store.steampowered.com/app/4999670
 ==================================================
 
+
+--- Run: 2026-08-18 14:20:21 --- (5 new game(s) found)
+
+==================================================
+Name: The Collection藏品
+Release Date: Coming soon
+Price: Free to Play
+Genres: RPG, Free To Play
+Link: https://store.steampowered.com/app/4794880
+==================================================
+
+==================================================
+Name: GRIT
+Release Date: Aug 18, 2026
+Price: $19.99
+Genres: Action
+Link: https://store.steampowered.com/app/738090
+==================================================
+
+==================================================
+Name: Jumbo Scooter
+Release Date: Aug 18, 2026
+Price: $5.00
+Genres: Indie, Simulation, Sports
+Link: https://store.steampowered.com/app/5029040
+==================================================
+
+==================================================
+Name: Food Samples Now Open
+Release Date: Aug 18, 2026
+Price: $3.99
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/3637310
+==================================================
+
+==================================================
+Name: Gambit's Escape
+Release Date: Aug 18, 2026
+Price: $2.99
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4417770
+==================================================
+
