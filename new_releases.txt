@@ -64399,3 +64399,62 @@ Genres: Action, Adventure, Casual, Indie, RPG
 Link: https://store.steampowered.com/app/4957260
 ==================================================
 
+
+--- Run: 2026-08-19 03:35:50 --- (7 new game(s) found)
+
+==================================================
+Name: Just Another Animal
+Release Date: Aug 18, 2026
+Price: $1.39 (-30%, was $1.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4991800
+==================================================
+
+==================================================
+Name: Plodding Recovery
+Release Date: Aug 18, 2026
+Price: $3.39 (-15%, was $3.99)
+Genres: Adventure, Simulation
+Link: https://store.steampowered.com/app/4532490
+==================================================
+
+==================================================
+Name: Tanach: A Journey Through the Hebrew Bible
+Release Date: Aug 18, 2026
+Price: $6.99
+Genres: Casual
+Link: https://store.steampowered.com/app/4984690
+==================================================
+
+==================================================
+Name: Battle Ranker in Another World
+Release Date: Aug 18, 2026
+Price: Free to Play
+Genres: RPG, Free To Play
+Link: https://store.steampowered.com/app/4821280
+==================================================
+
+==================================================
+Name: 南派盗墓传奇
+Release Date: Aug 18, 2026
+Price: Free to Play
+Genres: Action, Adventure, Massively Multiplayer, RPG, Free To Play
+Link: https://store.steampowered.com/app/4911220
+==================================================
+
+==================================================
+Name: Siege
+Release Date: Aug 18, 2026
+Price: Free to Play
+Genres: Strategy, Free To Play
+Link: https://store.steampowered.com/app/4926990
+==================================================
+
+==================================================
+Name: Escape the Grind
+Release Date: Aug 18, 2026
+Price: $12.99
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4663080
+==================================================
+
