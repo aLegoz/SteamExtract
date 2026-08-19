@@ -65071,3 +65071,14 @@ Genres: Casual, Indie, Simulation
 Link: https://store.steampowered.com/app/4960800
 ==================================================
 
+
+--- Run: 2026-08-19 23:11:44 --- (1 new game(s) found)
+
+==================================================
+Name: Furniture Fu
+Release Date: Aug 19, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/3645490
+==================================================
+
