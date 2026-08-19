@@ -64582,3 +64582,22 @@ Genres: Action, Indie, Strategy
 Link: https://store.steampowered.com/app/4279130
 ==================================================
 
+
+--- Run: 2026-08-19 11:13:18 --- (2 new game(s) found)
+
+==================================================
+Name: Strong-Willed Wife
+Release Date: Aug 19, 2026
+Price: $6.39 (-20%, was $7.99)
+Genres: Casual, RPG
+Link: https://store.steampowered.com/app/4376090
+==================================================
+
+==================================================
+Name: LaBlue Horror
+Release Date: Aug 19, 2026
+Price: $4.99
+Genres: Action, Adventure, Casual, Simulation
+Link: https://store.steampowered.com/app/4881950
+==================================================
+
