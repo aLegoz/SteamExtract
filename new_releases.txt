@@ -64987,3 +64987,14 @@ Genres: Adventure, Casual, Indie
 Link: https://store.steampowered.com/app/4905010
 ==================================================
 
+
+--- Run: 2026-08-19 19:16:01 --- (1 new game(s) found)
+
+==================================================
+Name: Manorism
+Release Date: Aug 19, 2026
+Price: Free to Play
+Genres: Adventure, Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/4176100
+==================================================
+
