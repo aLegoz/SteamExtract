@@ -64620,3 +64620,62 @@ Genres: Casual, Indie
 Link: https://store.steampowered.com/app/4999470
 ==================================================
 
+
+--- Run: 2026-08-19 13:35:02 --- (7 new game(s) found)
+
+==================================================
+Name: TIC-TAC: Twelve o'clock
+Release Date: Aug 19, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/1490020
+==================================================
+
+==================================================
+Name: Space Chickens
+Release Date: Aug 19, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4836390
+==================================================
+
+==================================================
+Name: Incident Archives - Flight 882
+Release Date: Aug 19, 2026
+Price: Free to Play
+Genres: Free To Play
+Link: https://store.steampowered.com/app/4625290
+==================================================
+
+==================================================
+Name: Linerunner
+Release Date: Aug 19, 2026
+Price: $6.29 (-10%, was $6.99)
+Genres: Racing
+Link: https://store.steampowered.com/app/4453060
+==================================================
+
+==================================================
+Name: Full Body Ratio VR
+Release Date: Aug 19, 2026
+Price: $13.49 (-10%, was $14.99)
+Genres: Utilities
+Link: https://store.steampowered.com/app/4869770
+==================================================
+
+==================================================
+Name: Cultivation Tower
+Release Date: Aug 19, 2026
+Price: $4.79 (-20%, was $5.99)
+Genres: Casual, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/5026010
+==================================================
+
+==================================================
+Name: Visual Novel: Beak and Claws
+Release Date: Aug 19, 2026
+Price: $0.69 (-30%, was $0.99)
+Genres: Action, Adventure, Casual, Indie, RPG
+Link: https://store.steampowered.com/app/5036310
+==================================================
+
