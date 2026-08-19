@@ -64601,3 +64601,22 @@ Genres: Action, Adventure, Casual, Simulation
 Link: https://store.steampowered.com/app/4881950
 ==================================================
 
+
+--- Run: 2026-08-19 12:18:35 --- (2 new game(s) found)
+
+==================================================
+Name: Ministry of Truth: False Memory
+Release Date: Aug 19, 2026
+Price: $4.89 (-30%, was $6.99)
+Genres: Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/3492150
+==================================================
+
+==================================================
+Name: Kubo
+Release Date: Aug 19, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4999470
+==================================================
+
