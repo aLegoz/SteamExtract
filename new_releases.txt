@@ -65009,3 +65009,54 @@ Genres: Casual, Indie, RPG
 Link: https://store.steampowered.com/app/4225890
 ==================================================
 
+
+--- Run: 2026-08-19 21:14:11 --- (6 new game(s) found)
+
+==================================================
+Name: Space Tales
+Release Date: Aug 19, 2026
+Price: $11.99 (-20%, was $14.99)
+Genres: Adventure, Indie, Strategy
+Link: https://store.steampowered.com/app/2457960
+==================================================
+
+==================================================
+Name: Tomato Dealer
+Release Date: Aug 19, 2026
+Price: $7.65 (-15%, was $9.00)
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/3914400
+==================================================
+
+==================================================
+Name: 100 Goblin Cats
+Release Date: Aug 19, 2026
+Price: $1.59 (-20%, was $1.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4310720
+==================================================
+
+==================================================
+Name: Alice in Wonderland: The Crown of Wishes
+Release Date: Aug 19, 2026
+Price: $5.99 (-25%, was $7.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/5021880
+==================================================
+
+==================================================
+Name: Tile & Tiny
+Release Date: Aug 19, 2026
+Price: $5.09 (-15%, was $5.99)
+Genres: Strategy
+Link: https://store.steampowered.com/app/4955800
+==================================================
+
+==================================================
+Name: RanaRangam: Where Chess Pieces Bleed
+Release Date: Aug 19, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Action, Indie, Strategy
+Link: https://store.steampowered.com/app/4615950
+==================================================
+
