@@ -64469,3 +64469,46 @@ Genres: Adventure
 Link: https://store.steampowered.com/app/4898520
 ==================================================
 
+
+--- Run: 2026-08-19 06:21:35 --- (5 new game(s) found)
+
+==================================================
+Name: DrawTheBlock
+Release Date: Aug 18, 2026
+Price: Free to Play
+Genres: Indie, Simulation, Free To Play
+Link: https://store.steampowered.com/app/4961600
+==================================================
+
+==================================================
+Name: LuluPaw
+Release Date: Aug 18, 2026
+Price: $0.79 (-20%, was $0.99)
+Genres: Casual, Free To Play
+Link: https://store.steampowered.com/app/4976750
+==================================================
+
+==================================================
+Name: Ice Coast Revival
+Release Date: Aug 18, 2026
+Price: $8.99
+Genres: Action, Casual, Simulation, Strategy
+Link: https://store.steampowered.com/app/4999040
+==================================================
+
+==================================================
+Name: Journey
+Release Date: Aug 18, 2026
+Price: $1.69 (-15%, was $1.99)
+Genres: Casual, Indie, RPG, Simulation, Strategy
+Link: https://store.steampowered.com/app/4550500
+==================================================
+
+==================================================
+Name: Polluted Flesh
+Release Date: Aug 18, 2026
+Price: Free to Play
+Genres: Action, Free To Play
+Link: https://store.steampowered.com/app/4877960
+==================================================
+
