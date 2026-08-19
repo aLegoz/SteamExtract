@@ -64555,3 +64555,30 @@ Genres: Adventure, Casual, Indie, RPG, Strategy
 Link: https://store.steampowered.com/app/4988410
 ==================================================
 
+
+--- Run: 2026-08-19 10:15:29 --- (3 new game(s) found)
+
+==================================================
+Name: 宠物街金鱼姬 Pet Street Story
+Release Date: Aug 19, 2026
+Price: $7.19 (-20%, was $8.99)
+Genres: Casual, RPG, Simulation
+Link: https://store.steampowered.com/app/2876050
+==================================================
+
+==================================================
+Name: Dreamcards
+Release Date: Aug 19, 2026
+Price: $8.49 (-15%, was $9.99)
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/3726730
+==================================================
+
+==================================================
+Name: Tower64
+Release Date: Aug 18, 2026
+Price: $6.29 (-10%, was $6.99)
+Genres: Action, Indie, Strategy
+Link: https://store.steampowered.com/app/4279130
+==================================================
+
