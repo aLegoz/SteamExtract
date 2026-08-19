@@ -64998,3 +64998,14 @@ Genres: Adventure, Casual, Indie, Free To Play
 Link: https://store.steampowered.com/app/4176100
 ==================================================
 
+
+--- Run: 2026-08-19 20:12:29 --- (1 new game(s) found)
+
+==================================================
+Name: Desktop Detective
+Release Date: Aug 19, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Casual, Indie, RPG
+Link: https://store.steampowered.com/app/4225890
+==================================================
+
