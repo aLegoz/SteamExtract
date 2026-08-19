@@ -64305,3 +64305,86 @@ Genres: Action, Indie
 Link: https://store.steampowered.com/app/4279790
 ==================================================
 
+
+--- Run: 2026-08-19 00:30:23 --- (10 new game(s) found)
+
+==================================================
+Name: Alien Siege: Earth
+Release Date: Aug 18, 2026
+Price: $1.20 (-40%, was $2.00)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4931700
+==================================================
+
+==================================================
+Name: GWIRO
+Release Date: Aug 18, 2026
+Price: $6.99
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/5000660
+==================================================
+
+==================================================
+Name: Wane’s
+Release Date: Aug 18, 2026
+Price: Free to Play
+Genres: Strategy, Free To Play
+Link: https://store.steampowered.com/app/4445000
+==================================================
+
+==================================================
+Name: Seamen Performance Overlay
+Release Date: Aug 18, 2026
+Price: Free to Play
+Genres: Indie, Free To Play, Utilities
+Link: https://store.steampowered.com/app/4666560
+==================================================
+
+==================================================
+Name: Swarm of the Sea
+Release Date: Aug 18, 2026
+Price: Free to Play
+Genres: Adventure, Free To Play
+Link: https://store.steampowered.com/app/4877170
+==================================================
+
+==================================================
+Name: This Is Golf
+Release Date: Aug 18, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Casual, Indie, Simulation, Sports, Strategy
+Link: https://store.steampowered.com/app/4450570
+==================================================
+
+==================================================
+Name: Wordforge: Silent Letters
+Release Date: Aug 18, 2026
+Price: Free to Play
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4378740
+==================================================
+
+==================================================
+Name: Idle Fisher
+Release Date: Aug 18, 2026
+Price: $1.79 (-10%, was $1.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4006420
+==================================================
+
+==================================================
+Name: Ero Puzzle Awakening
+Release Date: Aug 18, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/5037970
+==================================================
+
+==================================================
+Name: Cozy Drone
+Release Date: Aug 18, 2026
+Price: $2.09 (-30%, was $2.99)
+Genres: Action, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4950510
+==================================================
+
