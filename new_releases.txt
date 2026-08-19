@@ -64738,3 +64738,118 @@ Genres: Casual, Massively Multiplayer, Simulation, Sports, Strategy, Free To Pla
 Link: https://store.steampowered.com/app/4355330
 ==================================================
 
+
+--- Run: 2026-08-19 16:16:51 --- (14 new game(s) found)
+
+==================================================
+Name: Blood in the Panopticon
+Release Date: Aug 19, 2026
+Price: $11.04 (-15%, was $12.99)
+Genres: Action, Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/4109210
+==================================================
+
+==================================================
+Name: 春はあけぼの、我はバケモノ。 - Spring at Dawn, I Am a Monster.
+Release Date: Aug 19, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4644290
+==================================================
+
+==================================================
+Name: The Hidden Camp
+Release Date: Aug 19, 2026
+Price: $4.89 (-30%, was $6.99)
+Genres: Action, Adventure, Casual, Indie, Massively Multiplayer, RPG, Strategy
+Link: https://store.steampowered.com/app/4771610
+==================================================
+
+==================================================
+Name: Wild Ice
+Release Date: Aug 19, 2026
+Price: $16.99 (-15%, was $19.99)
+Genres: Action, Indie, Strategy
+Link: https://store.steampowered.com/app/1572260
+==================================================
+
+==================================================
+Name: T.W.I.R.L.
+Release Date: Aug 19, 2026
+Price: $5.39 (-10%, was $5.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4458840
+==================================================
+
+==================================================
+Name: WORD SHIFT
+Release Date: Aug 19, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4995530
+==================================================
+
+==================================================
+Name: Project P.I.T.T.
+Release Date: Aug 19, 2026
+Price: $8.49 (-15%, was $9.99)
+Genres: Action, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4026250
+==================================================
+
+==================================================
+Name: Rekindling
+Release Date: Aug 19, 2026
+Price: $19.99
+Genres: Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/661500
+==================================================
+
+==================================================
+Name: My Singing Monsters Karaoke
+Release Date: Aug 19, 2026
+Price: Free to Play
+Genres: Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/4633140
+==================================================
+
+==================================================
+Name: Crownrats
+Release Date: Aug 19, 2026
+Price: $5.59 (-20%, was $6.99)
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/4853740
+==================================================
+
+==================================================
+Name: The War Of Nalluer
+Release Date: Aug 19, 2026
+Price: $3.99
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4929320
+==================================================
+
+==================================================
+Name: Broken Pixel
+Release Date: Aug 19, 2026
+Price: $3.49 (-30%, was $4.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/4995400
+==================================================
+
+==================================================
+Name: Cannon Clicker
+Release Date: Aug 19, 2026
+Price: $5.09 (-15%, was $5.99)
+Genres: Action, Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4488300
+==================================================
+
+==================================================
+Name: Connections
+Release Date: Aug 19, 2026
+Price: $5.99
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4824950
+==================================================
+
