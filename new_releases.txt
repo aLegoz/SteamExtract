@@ -64388,3 +64388,14 @@ Genres: Action, Casual, Indie, Simulation
 Link: https://store.steampowered.com/app/4950510
 ==================================================
 
+
+--- Run: 2026-08-19 02:09:26 --- (1 new game(s) found)
+
+==================================================
+Name: The Return of Those Who Didn't Go
+Release Date: Aug 18, 2026
+Price: $6.90
+Genres: Action, Adventure, Casual, Indie, RPG
+Link: https://store.steampowered.com/app/4957260
+==================================================
+
