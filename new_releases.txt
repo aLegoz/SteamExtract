@@ -65060,3 +65060,14 @@ Genres: Action, Indie, Strategy
 Link: https://store.steampowered.com/app/4615950
 ==================================================
 
+
+--- Run: 2026-08-19 22:11:41 --- (1 new game(s) found)
+
+==================================================
+Name: NEVER HAPPENED
+Release Date: Aug 19, 2026
+Price: $3.19 (-20%, was $3.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4960800
+==================================================
+
