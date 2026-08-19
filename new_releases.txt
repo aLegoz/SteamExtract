@@ -64512,3 +64512,46 @@ Genres: Action, Free To Play
 Link: https://store.steampowered.com/app/4877960
 ==================================================
 
+
+--- Run: 2026-08-19 09:20:30 --- (5 new game(s) found)
+
+==================================================
+Name: Museum of Lost Dinosaurs
+Release Date: Aug 19, 2026
+Price: $29.99
+Genres: Casual, Simulation
+Link: https://store.steampowered.com/app/4970120
+==================================================
+
+==================================================
+Name: Puzzles Berrys
+Release Date: Aug 19, 2026
+Price: $1.19 (-40%, was $1.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4964900
+==================================================
+
+==================================================
+Name: Puzzles Bears
+Release Date: Aug 19, 2026
+Price: $1.19 (-40%, was $1.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4961860
+==================================================
+
+==================================================
+Name: Puzzles Birds
+Release Date: Aug 19, 2026
+Price: $1.19 (-40%, was $1.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4961820
+==================================================
+
+==================================================
+Name: Chasing Dream
+Release Date: Aug 19, 2026
+Price: $7.99
+Genres: Adventure, Casual, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/4988410
+==================================================
+
