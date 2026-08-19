@@ -64936,3 +64936,54 @@ Genres: Adventure, Casual
 Link: https://store.steampowered.com/app/4012810
 ==================================================
 
+
+--- Run: 2026-08-19 18:15:17 --- (6 new game(s) found)
+
+==================================================
+Name: Puzzles Evil Dogs
+Release Date: Aug 19, 2026
+Price: $1.19 (-40%, was $1.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4964880
+==================================================
+
+==================================================
+Name: Pizza House Simulator🍕
+Release Date: Aug 19, 2026
+Price: $9.74 (-25%, was $12.99)
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4132330
+==================================================
+
+==================================================
+Name: Still in the Fog
+Release Date: Aug 19, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/4510210
+==================================================
+
+==================================================
+Name: Holy Mole
+Release Date: Aug 19, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4924520
+==================================================
+
+==================================================
+Name: Wild Femboys
+Release Date: Aug 19, 2026
+Price: $7.64 (-15%, was $8.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4927300
+==================================================
+
+==================================================
+Name: Dean Archer Stories: The Missing Detective
+Release Date: Aug 19, 2026
+Price: $0.99
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4905010
+==================================================
+
