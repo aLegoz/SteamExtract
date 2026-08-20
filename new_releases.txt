@@ -65082,3 +65082,14 @@ Genres: Action, Casual, Indie
 Link: https://store.steampowered.com/app/3645490
 ==================================================
 
+
+--- Run: 2026-08-20 00:30:32 --- (1 new game(s) found)
+
+==================================================
+Name: Loss Limit
+Release Date: Aug 19, 2026
+Price: $4.19 (-40%, was $6.99)
+Genres: Adventure, Simulation
+Link: https://store.steampowered.com/app/4888860
+==================================================
+
