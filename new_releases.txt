@@ -65319,3 +65319,54 @@ Genres: Action, Casual, Indie
 Link: https://store.steampowered.com/app/2766910
 ==================================================
 
+
+--- Run: 2026-08-20 09:20:59 --- (6 new game(s) found)
+
+==================================================
+Name: Can Your Otaku Cabinet Grow a Beautiful Girl?
+Release Date: Aug 20, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Action, Adventure, Casual, Indie, RPG, Simulation
+Link: https://store.steampowered.com/app/4289150
+==================================================
+
+==================================================
+Name: KERF: Sawmill Tycoon
+Release Date: Aug 20, 2026
+Price: $7.09 (-29%, was $9.99)
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/5010520
+==================================================
+
+==================================================
+Name: The Walks We Used To Take
+Release Date: Aug 20, 2026
+Price: $5.39 (-10%, was $5.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4914820
+==================================================
+
+==================================================
+Name: TRAPZONE
+Release Date: Aug 19, 2026
+Price: $4.99
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4973210
+==================================================
+
+==================================================
+Name: 宽恕我（Show me mercy）
+Release Date: Aug 19, 2026
+Price: $6.15 (-12%, was $6.99)
+Genres: Adventure, Indie, RPG, Simulation, Strategy
+Link: https://store.steampowered.com/app/4840590
+==================================================
+
+==================================================
+Name: Surfing the Web With the Alien
+Release Date: Aug 19, 2026
+Price: $3.99
+Genres: Action, Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/4712850
+==================================================
+
