@@ -65917,3 +65917,22 @@ Genres: Indie, Simulation
 Link: https://store.steampowered.com/app/4747200
 ==================================================
 
+
+--- Run: 2026-08-20 20:14:35 --- (2 new game(s) found)
+
+==================================================
+Name: Lo-Fi Laundromat
+Release Date: Aug 20, 2026
+Price: $2.69 (-10%, was $2.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4796890
+==================================================
+
+==================================================
+Name: DrpDrv
+Release Date: Aug 20, 2026
+Price: $7.64 (-15%, was $8.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4967710
+==================================================
+
