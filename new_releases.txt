@@ -65284,3 +65284,38 @@ Genres: Indie, Strategy
 Link: https://store.steampowered.com/app/5032980
 ==================================================
 
+
+--- Run: 2026-08-20 08:22:06 --- (4 new game(s) found)
+
+==================================================
+Name: Selby
+Release Date: Aug 20, 2026
+Price: $2.79 (-30%, was $3.99)
+Genres: Utilities
+Link: https://store.steampowered.com/app/4892900
+==================================================
+
+==================================================
+Name: Daymark
+Release Date: Aug 20, 2026
+Price: $2.09 (-30%, was $2.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/4885010
+==================================================
+
+==================================================
+Name: Hedgehog's Dilemma
+Release Date: Aug 20, 2026
+Price: $7.99
+Genres: Indie, RPG
+Link: https://store.steampowered.com/app/3192120
+==================================================
+
+==================================================
+Name: PengPong
+Release Date: Aug 20, 2026
+Price: $11.69 (-10%, was $12.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/2766910
+==================================================
+
