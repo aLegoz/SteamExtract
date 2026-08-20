@@ -65641,3 +65641,38 @@ Genres: Casual, Simulation
 Link: https://store.steampowered.com/app/4902600
 ==================================================
 
+
+--- Run: 2026-08-20 15:21:39 --- (4 new game(s) found)
+
+==================================================
+Name: Good Person
+Release Date: Aug 20, 2026
+Price: $4.99
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/4823370
+==================================================
+
+==================================================
+Name: Puzzles Fishing
+Release Date: Aug 20, 2026
+Price: $1.19 (-40%, was $1.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4961790
+==================================================
+
+==================================================
+Name: Ironsand
+Release Date: Aug 20, 2026
+Price: $6.74 (-10%, was $7.49)
+Genres: Action, Adventure
+Link: https://store.steampowered.com/app/2454600
+==================================================
+
+==================================================
+Name: Left Not Right
+Release Date: Aug 20, 2026
+Price: $5.59 (-20%, was $6.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4671680
+==================================================
+
