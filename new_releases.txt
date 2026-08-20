@@ -65168,3 +65168,46 @@ Genres: Casual, Indie, Sports, Free To Play
 Link: https://store.steampowered.com/app/4560820
 ==================================================
 
+
+--- Run: 2026-08-20 03:35:45 --- (5 new game(s) found)
+
+==================================================
+Name: Hopeless Days
+Release Date: Aug 19, 2026
+Price: $5.99
+Genres: Action, Casual, Indie, RPG
+Link: https://store.steampowered.com/app/4099000
+==================================================
+
+==================================================
+Name: Rion's Taskbar Mine
+Release Date: Aug 19, 2026
+Price: $2.39 (-20%, was $2.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5029790
+==================================================
+
+==================================================
+Name: Rebind
+Release Date: Aug 19, 2026
+Price: $3.94 (-21%, was $4.99)
+Genres: Action, Adventure, Casual
+Link: https://store.steampowered.com/app/4492950
+==================================================
+
+==================================================
+Name: Peaceful Bug Catching Story
+Release Date: Aug 19, 2026
+Price: $9.35 (-22%, was $11.99)
+Genres: Action, Adventure, Casual, Indie, Sports
+Link: https://store.steampowered.com/app/4980890
+==================================================
+
+==================================================
+Name: 星天へ発つ日
+Release Date: Aug 19, 2026
+Price: $5.94 (-15%, was $6.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/3809340
+==================================================
+
