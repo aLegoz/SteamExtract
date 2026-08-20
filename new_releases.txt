@@ -65882,3 +65882,38 @@ Genres: Action
 Link: https://store.steampowered.com/app/3688650
 ==================================================
 
+
+--- Run: 2026-08-20 19:21:32 --- (4 new game(s) found)
+
+==================================================
+Name: how to kill a fly [ H2KAF ]
+Release Date: Aug 20, 2026
+Price: $8.49 (-15%, was $9.99)
+Genres: Adventure, Indie, RPG, Simulation
+Link: https://store.steampowered.com/app/4566700
+==================================================
+
+==================================================
+Name: Vice Signalling
+Release Date: Coming soon
+Price: Free to Play
+Genres: Adventure, Indie, Free To Play
+Link: https://store.steampowered.com/app/4836310
+==================================================
+
+==================================================
+Name: Vacation Cafe Simulator
+Release Date: Coming soon
+Price: $17.99 (-10%, was $19.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/3196440
+==================================================
+
+==================================================
+Name: Fedorable Life
+Release Date: Aug 20, 2026
+Price: $5.39 (-10%, was $5.99)
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/4747200
+==================================================
+
