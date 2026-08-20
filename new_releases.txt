@@ -65370,3 +65370,30 @@ Genres: Action, Adventure, Indie, Simulation
 Link: https://store.steampowered.com/app/4712850
 ==================================================
 
+
+--- Run: 2026-08-20 10:17:14 --- (3 new game(s) found)
+
+==================================================
+Name: TMR simulator
+Release Date: Coming soon
+Price: Free to Play
+Genres: RPG, Free To Play
+Link: https://store.steampowered.com/app/4945260
+==================================================
+
+==================================================
+Name: Nova Fleet
+Release Date: Aug 20, 2026
+Price: $2.54 (-15%, was $2.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4586750
+==================================================
+
+==================================================
+Name: Loop of Agony
+Release Date: Aug 20, 2026
+Price: $2.10 (-40%, was $3.50)
+Genres: Indie
+Link: https://store.steampowered.com/app/4950450
+==================================================
+
