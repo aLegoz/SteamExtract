@@ -65093,3 +65093,78 @@ Genres: Adventure, Simulation
 Link: https://store.steampowered.com/app/4888860
 ==================================================
 
+
+--- Run: 2026-08-20 02:09:01 --- (9 new game(s) found)
+
+==================================================
+Name: Visual Novel Transformer
+Release Date: Aug 19, 2026
+Price: $7.19 (-20%, was $8.99)
+Genres: Game Development
+Link: https://store.steampowered.com/app/5001290
+==================================================
+
+==================================================
+Name: PHANTOM TAG: MANIFEST
+Release Date: Aug 19, 2026
+Price: $11.99
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4894010
+==================================================
+
+==================================================
+Name: Arms Dealer
+Release Date: Aug 19, 2026
+Price: $5.99
+Genres: Simulation, Strategy
+Link: https://store.steampowered.com/app/4698270
+==================================================
+
+==================================================
+Name: Shao Song I
+Release Date: Aug 19, 2026
+Price: $11.99 (-20%, was $14.99)
+Genres: RPG, Simulation, Strategy
+Link: https://store.steampowered.com/app/4292950
+==================================================
+
+==================================================
+Name: LABYRINTHOS: The Depths Want You
+Release Date: Aug 19, 2026
+Price: $19.99 (-20%, was $24.99)
+Genres: RPG
+Link: https://store.steampowered.com/app/3883290
+==================================================
+
+==================================================
+Name: RefmusePaper
+Release Date: Aug 19, 2026
+Price: $3.19 (-20%, was $3.99)
+Genres: Design & Illustration, Utilities
+Link: https://store.steampowered.com/app/4729360
+==================================================
+
+==================================================
+Name: Spirited Line
+Release Date: Aug 19, 2026
+Price: $3.09 (-38%, was $4.99)
+Genres: Action, Adventure
+Link: https://store.steampowered.com/app/3826420
+==================================================
+
+==================================================
+Name: Aluminium City
+Release Date: Aug 19, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4501720
+==================================================
+
+==================================================
+Name: Beetle Sumo
+Release Date: Aug 19, 2026
+Price: Free to Play
+Genres: Casual, Indie, Sports, Free To Play
+Link: https://store.steampowered.com/app/4560820
+==================================================
+
