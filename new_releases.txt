@@ -65211,3 +65211,30 @@ Genres: Adventure, Indie
 Link: https://store.steampowered.com/app/3809340
 ==================================================
 
+
+--- Run: 2026-08-20 05:19:31 --- (3 new game(s) found)
+
+==================================================
+Name: With the Devilish Her…
+Release Date: Aug 19, 2026
+Price: $15.29 (-10%, was $16.99)
+Genres: Indie, RPG, Simulation
+Link: https://store.steampowered.com/app/4321510
+==================================================
+
+==================================================
+Name: Arcanum Collegium
+Release Date: Aug 19, 2026
+Price: $9.99
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/4926910
+==================================================
+
+==================================================
+Name: Detective Pig
+Release Date: Aug 19, 2026
+Price: $0.59 (-40%, was $0.99)
+Genres: Adventure, Indie, Strategy
+Link: https://store.steampowered.com/app/3952160
+==================================================
+
