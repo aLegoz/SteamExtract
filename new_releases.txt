@@ -65499,3 +65499,46 @@ Genres: Casual, Indie
 Link: https://store.steampowered.com/app/5015570
 ==================================================
 
+
+--- Run: 2026-08-20 13:36:40 --- (5 new game(s) found)
+
+==================================================
+Name: Mortal Shell II
+Release Date: Aug 20, 2026
+Price: $49.99
+Genres: Action, RPG
+Link: https://store.steampowered.com/app/2584270
+==================================================
+
+==================================================
+Name: Plinkomancy
+Release Date: Aug 20, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4006600
+==================================================
+
+==================================================
+Name: Meowmories
+Release Date: Aug 20, 2026
+Price: $4.19 (-30%, was $5.99)
+Genres: Action, Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4110900
+==================================================
+
+==================================================
+Name: Ground Zero Hero
+Release Date: Aug 20, 2026
+Price: $8.49 (-15%, was $9.99)
+Genres: Action, Adventure
+Link: https://store.steampowered.com/app/2570580
+==================================================
+
+==================================================
+Name: Risky Business
+Release Date: Aug 20, 2026
+Price: $5.86 (-15%, was $6.90)
+Genres: Adventure, Casual, Simulation
+Link: https://store.steampowered.com/app/4147190
+==================================================
+
