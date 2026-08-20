@@ -65238,3 +65238,22 @@ Genres: Adventure, Indie, Strategy
 Link: https://store.steampowered.com/app/3952160
 ==================================================
 
+
+--- Run: 2026-08-20 06:22:17 --- (2 new game(s) found)
+
+==================================================
+Name: Ghost Buster:Village
+Release Date: Aug 20, 2026
+Price: $7.19 (-10%, was $7.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/4354710
+==================================================
+
+==================================================
+Name: H3LLV3TE
+Release Date: Aug 19, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/4480320
+==================================================
+
