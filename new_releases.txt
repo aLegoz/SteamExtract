@@ -65424,3 +65424,78 @@ Genres: Action, Casual, Indie, RPG
 Link: https://store.steampowered.com/app/2163330
 ==================================================
 
+
+--- Run: 2026-08-20 12:21:05 --- (9 new game(s) found)
+
+==================================================
+Name: Gallipoli
+Release Date: Aug 20, 2026
+Price: $22.49 (-25%, was $29.99)
+Genres: Action, Indie, Massively Multiplayer, Simulation, Strategy
+Link: https://store.steampowered.com/app/3065940
+==================================================
+
+==================================================
+Name: Gallipoli
+Release Date: Aug 20, 2026
+Price: $22.49 (-25%, was $29.99)
+Genres: Action, Indie, Massively Multiplayer, Simulation, Strategy
+Link: https://store.steampowered.com/app/3065940
+==================================================
+
+==================================================
+Name: Gallipoli
+Release Date: Aug 20, 2026
+Price: $22.49 (-25%, was $29.99)
+Genres: Action, Indie, Massively Multiplayer, Simulation, Strategy
+Link: https://store.steampowered.com/app/3065940
+==================================================
+
+==================================================
+Name: The Seven Will Die
+Release Date: Coming soon
+Price: Free to Play
+Genres: Adventure, Free To Play
+Link: https://store.steampowered.com/app/4958580
+==================================================
+
+==================================================
+Name: Amata
+Release Date: Aug 20, 2026
+Price: $6.99 (-30%, was $9.99)
+Genres: Action, Adventure, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/1841160
+==================================================
+
+==================================================
+Name: Gallipoli
+Release Date: Aug 20, 2026
+Price: $22.49 (-25%, was $29.99)
+Genres: Action, Indie, Massively Multiplayer, Simulation, Strategy
+Link: https://store.steampowered.com/app/3065940
+==================================================
+
+==================================================
+Name: IIGG: Incremental Idle Goblin Game
+Release Date: Aug 20, 2026
+Price: $2.46 (-25%, was $3.29)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4630890
+==================================================
+
+==================================================
+Name: DylanBoat
+Release Date: Aug 20, 2026
+Price: $10.19 (-15%, was $11.99)
+Genres: Casual, Sports
+Link: https://store.steampowered.com/app/5009320
+==================================================
+
+==================================================
+Name: Lumber Tycoon Island
+Release Date: Aug 20, 2026
+Price: $5.99 (-40%, was $9.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5015570
+==================================================
+
