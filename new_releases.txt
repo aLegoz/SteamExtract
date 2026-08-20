@@ -65676,3 +65676,78 @@ Genres: Casual, Indie
 Link: https://store.steampowered.com/app/4671680
 ==================================================
 
+
+--- Run: 2026-08-20 16:19:26 --- (9 new game(s) found)
+
+==================================================
+Name: Puppergeist
+Release Date: Aug 20, 2026
+Price: $4.99
+Genres: Action, Adventure, Casual
+Link: https://store.steampowered.com/app/4029740
+==================================================
+
+==================================================
+Name: Frog Island
+Release Date: Aug 20, 2026
+Price: $7.19 (-10%, was $7.99)
+Genres: Indie, RPG, Simulation, Free To Play
+Link: https://store.steampowered.com/app/2332150
+==================================================
+
+==================================================
+Name: KOTAMON: My Sis Found A Super-Rare Card In Her Cereal Box, So I Became A Garbage Man To Find The Entire Collection And Earn $1,000,000
+Release Date: Aug 20, 2026
+Price: $5.59 (-20%, was $6.99)
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/4294490
+==================================================
+
+==================================================
+Name: Play Faster
+Release Date: Aug 20, 2026
+Price: $4.50 (-10%, was $5.00)
+Genres: Action, Indie, Racing
+Link: https://store.steampowered.com/app/4457560
+==================================================
+
+==================================================
+Name: Harpoon Arena
+Release Date: Aug 20, 2026
+Price: $4.97 (-17%, was $5.99)
+Genres: Action, Indie, Sports, Strategy, Free To Play
+Link: https://store.steampowered.com/app/3558770
+==================================================
+
+==================================================
+Name: Slime Soup
+Release Date: Aug 20, 2026
+Price: $3.49 (-30%, was $4.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4655800
+==================================================
+
+==================================================
+Name: Take Me to Your Leader
+Release Date: Aug 20, 2026
+Price: $5.39 (-10%, was $5.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4849930
+==================================================
+
+==================================================
+Name: The Stalked 3
+Release Date: Aug 20, 2026
+Price: $2.69 (-10%, was $2.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/3565980
+==================================================
+
+==================================================
+Name: Backrooms: The Deep Dark
+Release Date: Aug 20, 2026
+Price: $1.79 (-40%, was $2.99)
+Genres: Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/3587260
+==================================================
+
