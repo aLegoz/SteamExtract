@@ -65955,3 +65955,38 @@ Genres: Action, Free To Play
 Link: https://store.steampowered.com/app/4658110
 ==================================================
 
+
+--- Run: 2026-08-20 23:14:03 --- (4 new game(s) found)
+
+==================================================
+Name: Medieval Fantasy Blacksmith Shop
+Release Date: Aug 20, 2026
+Price: $0.59 (-40%, was $0.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5007970
+==================================================
+
+==================================================
+Name: Earth Simulator
+Release Date: Aug 20, 2026
+Price: $0.59 (-40%, was $0.99)
+Genres: Simulation, Strategy
+Link: https://store.steampowered.com/app/4932460
+==================================================
+
+==================================================
+Name: Friends Before Enemies
+Release Date: Aug 20, 2026
+Price: $4.99
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4987290
+==================================================
+
+==================================================
+Name: Autodelve
+Release Date: Aug 20, 2026
+Price: $1.69 (-15%, was $1.99)
+Genres: Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4971630
+==================================================
+
