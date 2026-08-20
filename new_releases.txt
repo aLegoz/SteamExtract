@@ -65257,3 +65257,30 @@ Genres: Action, Adventure, Indie
 Link: https://store.steampowered.com/app/4480320
 ==================================================
 
+
+--- Run: 2026-08-20 07:30:37 --- (3 new game(s) found)
+
+==================================================
+Name: Grim Trials
+Release Date: Aug 20, 2026
+Price: $16.19 (-10%, was $17.99)
+Genres: Action, Adventure, RPG
+Link: https://store.steampowered.com/app/2621930
+==================================================
+
+==================================================
+Name: Media Basket Manager
+Release Date: Aug 19, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Indie, Simulation, Sports, Strategy
+Link: https://store.steampowered.com/app/4924370
+==================================================
+
+==================================================
+Name: Light & Glory
+Release Date: Aug 19, 2026
+Price: $2.99
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/5032980
+==================================================
+
