@@ -65936,3 +65936,22 @@ Genres: Action, Indie
 Link: https://store.steampowered.com/app/4967710
 ==================================================
 
+
+--- Run: 2026-08-20 21:16:02 --- (2 new game(s) found)
+
+==================================================
+Name: Hentai Furry Dragony
+Release Date: Aug 20, 2026
+Price: $0.64 (-35%, was $0.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4854040
+==================================================
+
+==================================================
+Name: ArtificialOverthrow
+Release Date: Aug 20, 2026
+Price: Free to Play
+Genres: Action, Free To Play
+Link: https://store.steampowered.com/app/4658110
+==================================================
+
