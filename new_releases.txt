@@ -66881,3 +66881,46 @@ Genres: Action, Casual, Indie, Racing, Simulation, Sports, Free To Play
 Link: https://store.steampowered.com/app/4023240
 ==================================================
 
+
+--- Run: 2026-08-21 22:10:46 --- (5 new game(s) found)
+
+==================================================
+Name: Social Democracy: An Alternate History
+Release Date: Aug 21, 2026
+Price: Free to Play
+Genres: Casual, Indie, Simulation, Strategy, Free To Play
+Link: https://store.steampowered.com/app/3083910
+==================================================
+
+==================================================
+Name: SquareLife
+Release Date: Aug 21, 2026
+Price: Free to Play
+Genres: Casual, Indie, Simulation, Free To Play
+Link: https://store.steampowered.com/app/4866310
+==================================================
+
+==================================================
+Name: TOYS 18+
+Release Date: Aug 21, 2026
+Price: $2.39 (-40%, was $3.99)
+Genres: Action, Adventure, Casual, Indie, RPG, Simulation, Sports, Strategy
+Link: https://store.steampowered.com/app/5017470
+==================================================
+
+==================================================
+Name: OKTOFYBER
+Release Date: Aug 21, 2026
+Price: $13.49 (-10%, was $14.99)
+Genres: Simulation, Strategy
+Link: https://store.steampowered.com/app/4959590
+==================================================
+
+==================================================
+Name: AXIS
+Release Date: Aug 21, 2026
+Price: $3.99
+Genres: Casual
+Link: https://store.steampowered.com/app/4787090
+==================================================
+
