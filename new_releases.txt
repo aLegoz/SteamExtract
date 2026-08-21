@@ -66146,3 +66146,46 @@ Genres: Action, Adventure, Indie, Simulation, Sports, Strategy
 Link: https://store.steampowered.com/app/5016550
 ==================================================
 
+
+--- Run: 2026-08-21 06:22:34 --- (5 new game(s) found)
+
+==================================================
+Name: Blowing Off Steam
+Release Date: Aug 20, 2026
+Price: $5.00
+Genres: Action, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/4388150
+==================================================
+
+==================================================
+Name: Roll n' Bounce
+Release Date: Aug 20, 2026
+Price: Free to Play
+Genres: Action, Indie, Free To Play
+Link: https://store.steampowered.com/app/4379400
+==================================================
+
+==================================================
+Name: Hua Manlou
+Release Date: Aug 20, 2026
+Price: $9.34 (-15%, was $10.99)
+Genres: Casual, RPG, Simulation, Strategy
+Link: https://store.steampowered.com/app/3749320
+==================================================
+
+==================================================
+Name: Fish Slayer
+Release Date: Aug 20, 2026
+Price: $3.51 (-12%, was $3.99)
+Genres: Action, Casual, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/4542590
+==================================================
+
+==================================================
+Name: Hermes Library
+Release Date: Aug 20, 2026
+Price: $14.39 (-10%, was $15.99)
+Genres: Casual, Indie, RPG, Simulation
+Link: https://store.steampowered.com/app/3264440
+==================================================
+
