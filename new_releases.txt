@@ -66664,3 +66664,158 @@ Genres: Adventure, Casual, Indie, Free To Play
 Link: https://store.steampowered.com/app/4474850
 ==================================================
 
+
+--- Run: 2026-08-21 18:19:32 --- (19 new game(s) found)
+
+==================================================
+Name: Crystal Breaker Inc
+Release Date: Aug 21, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/4646020
+==================================================
+
+==================================================
+Name: Tail Recursion
+Release Date: Aug 21, 2026
+Price: $5.39 (-10%, was $5.99)
+Genres: Indie
+Link: https://store.steampowered.com/app/5027510
+==================================================
+
+==================================================
+Name: Call of Duty®: Modern Warfare® 4 - Beta
+Release Date: Aug 21, 2026
+Price: Free to Play
+Genres: Action
+Link: https://store.steampowered.com/app/4783780
+==================================================
+
+==================================================
+Name: Around The Core
+Release Date: Aug 21, 2026
+Price: $3.39 (-15%, was $3.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4300950
+==================================================
+
+==================================================
+Name: My Sexy Fairies
+Release Date: Aug 21, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Action, Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/4738000
+==================================================
+
+==================================================
+Name: Qq Media Studio
+Release Date: Aug 21, 2026
+Price: $17.99 (-10%, was $19.99)
+Genres: Audio Production, Design & Illustration, Education, Photo Editing, Utilities, Video Production
+Link: https://store.steampowered.com/app/5045770
+==================================================
+
+==================================================
+Name: The Sorting Bureau
+Release Date: Aug 21, 2026
+Price: $6.99 (-30%, was $9.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4120790
+==================================================
+
+==================================================
+Name: Negative Time
+Release Date: Aug 21, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4229150
+==================================================
+
+==================================================
+Name: BURIED BELOW
+Release Date: Aug 21, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/3651890
+==================================================
+
+==================================================
+Name: Loot Gobblin' Together
+Release Date: Aug 21, 2026
+Price: $6.79 (-15%, was $7.99)
+Genres: Action, Adventure
+Link: https://store.steampowered.com/app/4651490
+==================================================
+
+==================================================
+Name: VHOLUME
+Release Date: Aug 21, 2026
+Price: $7.20 (-10%, was $8.00)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4131730
+==================================================
+
+==================================================
+Name: CICADAMATA"
+Release Date: Aug 21, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/3817250
+==================================================
+
+==================================================
+Name: Harvest Deadline
+Release Date: Aug 21, 2026
+Price: $4.08 (-15%, was $4.80)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4898750
+==================================================
+
+==================================================
+Name: Moo Who?
+Release Date: Aug 21, 2026
+Price: $4.89 (-30%, was $6.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4948000
+==================================================
+
+==================================================
+Name: ARKADIANAX
+Release Date: Aug 21, 2026
+Price: $5.09 (-15%, was $5.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/1425360
+==================================================
+
+==================================================
+Name: NERMIUS
+Release Date: Aug 21, 2026
+Price: $3.00
+Genres: Action, Adventure, Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4584300
+==================================================
+
+==================================================
+Name: OOZEBORNE
+Release Date: Aug 21, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Action
+Link: https://store.steampowered.com/app/4633960
+==================================================
+
+==================================================
+Name: Watering The Plant Girl: ROOTS & REHYDRATED
+Release Date: Aug 21, 2026
+Price: $8.00
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4055120
+==================================================
+
+==================================================
+Name: Liminal Space Holiday
+Release Date: Aug 21, 2026
+Price: $2.39 (-20%, was $2.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/5041880
+==================================================
+
