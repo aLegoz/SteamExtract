@@ -66060,3 +66060,46 @@ Genres: Massively Multiplayer, RPG, Strategy, Free To Play
 Link: https://store.steampowered.com/app/3486430
 ==================================================
 
+
+--- Run: 2026-08-21 03:39:35 --- (5 new game(s) found)
+
+==================================================
+Name: Thousands of Heroes
+Release Date: Aug 20, 2026
+Price: $9.99
+Genres: Action, Indie, RPG
+Link: https://store.steampowered.com/app/2741790
+==================================================
+
+==================================================
+Name: 全网有点怪
+Release Date: Aug 20, 2026
+Price: $7.03 (-12%, was $7.99)
+Genres: Adventure, Casual, Indie, RPG, Simulation, Strategy
+Link: https://store.steampowered.com/app/4243330
+==================================================
+
+==================================================
+Name: Locked and Wagered: A Girlfriend at Stake
+Release Date: Aug 20, 2026
+Price: $6.29 (-10%, was $6.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/3192280
+==================================================
+
+==================================================
+Name: Baito Fight!!: Part-time Devil Hunter
+Release Date: Aug 20, 2026
+Price: $7.99
+Genres: Adventure, Casual, Indie, RPG, Simulation, Sports
+Link: https://store.steampowered.com/app/3852160
+==================================================
+
+==================================================
+Name: Stuff It!
+Release Date: Aug 20, 2026
+Price: $8.49 (-15%, was $9.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/4276740
+==================================================
+
