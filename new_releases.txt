@@ -65990,3 +65990,62 @@ Genres: Indie, Simulation, Strategy
 Link: https://store.steampowered.com/app/4971630
 ==================================================
 
+
+--- Run: 2026-08-21 00:33:18 --- (7 new game(s) found)
+
+==================================================
+Name: HYPER PRIMATE
+Release Date: Aug 20, 2026
+Price: $19.99
+Genres: Action, Indie, Free To Play
+Link: https://store.steampowered.com/app/2124360
+==================================================
+
+==================================================
+Name: Throne of Cards
+Release Date: Aug 20, 2026
+Price: $10.79 (-10%, was $11.99)
+Genres: Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4559060
+==================================================
+
+==================================================
+Name: IAH: INTERNET WAR
+Release Date: Aug 20, 2026
+Price: $17.99 (-10%, was $19.99)
+Genres: Action, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/304770
+==================================================
+
+==================================================
+Name: Harvest Hand
+Release Date: Aug 20, 2026
+Price: $3.59 (-10%, was $3.99)
+Genres: Casual, Strategy
+Link: https://store.steampowered.com/app/5015520
+==================================================
+
+==================================================
+Name: Mitobit
+Release Date: Aug 20, 2026
+Price: $2.00 (-33%, was $2.99)
+Genres: Action, Indie, Simulation
+Link: https://store.steampowered.com/app/3781890
+==================================================
+
+==================================================
+Name: Helmet
+Release Date: Aug 20, 2026
+Price: $4.99
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4893090
+==================================================
+
+==================================================
+Name: Sweet Elevator
+Release Date: Aug 20, 2026
+Price: $0.89 (-10%, was $0.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4729290
+==================================================
+
