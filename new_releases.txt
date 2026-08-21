@@ -66597,3 +66597,70 @@ Genres: Adventure, Casual, Indie
 Link: https://store.steampowered.com/app/5028460
 ==================================================
 
+
+--- Run: 2026-08-21 17:17:34 --- (8 new game(s) found)
+
+==================================================
+Name: Wobbly Paint: Animated Art
+Release Date: Aug 21, 2026
+Price: $2.99 (-40%, was $4.99)
+Genres: Animation & Modeling, Design & Illustration
+Link: https://store.steampowered.com/app/4902030
+==================================================
+
+==================================================
+Name: Pawbay: Cat Chaos
+Release Date: Aug 21, 2026
+Price: $11.99 (-40%, was $19.99)
+Genres: Action, Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4210300
+==================================================
+
+==================================================
+Name: Two-Dye
+Release Date: Aug 21, 2026
+Price: $5.59 (-20%, was $6.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4967390
+==================================================
+
+==================================================
+Name: Dungeon Tells
+Release Date: Aug 21, 2026
+Price: $4.79 (-40%, was $7.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/2708230
+==================================================
+
+==================================================
+Name: Tinturbo
+Release Date: Aug 21, 2026
+Price: Free to Play
+Genres: Racing, Free To Play
+Link: https://store.steampowered.com/app/4752020
+==================================================
+
+==================================================
+Name: 喵德行 Meowdness
+Release Date: Aug 21, 2026
+Price: Free to Play
+Genres: Action, Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/4822000
+==================================================
+
+==================================================
+Name: Friday Night
+Release Date: Aug 21, 2026
+Price: $3.59 (-10%, was $3.99)
+Genres: Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/3537620
+==================================================
+
+==================================================
+Name: DreamNet
+Release Date: Aug 21, 2026
+Price: Free to Play
+Genres: Adventure, Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/4474850
+==================================================
+
