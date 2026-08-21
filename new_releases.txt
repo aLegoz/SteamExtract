@@ -66329,3 +66329,30 @@ Genres: Casual, Indie, RPG, Strategy
 Link: https://store.steampowered.com/app/4962240
 ==================================================
 
+
+--- Run: 2026-08-21 12:20:05 --- (3 new game(s) found)
+
+==================================================
+Name: Print I Love U
+Release Date: Aug 21, 2026
+Price: $1.49
+Genres: Indie
+Link: https://store.steampowered.com/app/4796160
+==================================================
+
+==================================================
+Name: Light of Achmore
+Release Date: Aug 21, 2026
+Price: $2.99 (-40%, was $4.99)
+Genres: Adventure, Casual, Indie, RPG
+Link: https://store.steampowered.com/app/4146460
+==================================================
+
+==================================================
+Name: Glyphy - Achievement Guides and Tracker
+Release Date: Aug 21, 2026
+Price: $4.79 (-40%, was $7.99)
+Genres: Utilities
+Link: https://store.steampowered.com/app/5010480
+==================================================
+
