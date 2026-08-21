@@ -66846,3 +66846,38 @@ Genres: Adventure, Simulation
 Link: https://store.steampowered.com/app/4661900
 ==================================================
 
+
+--- Run: 2026-08-21 21:11:49 --- (4 new game(s) found)
+
+==================================================
+Name: Alice ou o Mundo?
+Release Date: Aug 21, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Adventure, RPG
+Link: https://store.steampowered.com/app/5015660
+==================================================
+
+==================================================
+Name: Galumb
+Release Date: Aug 21, 2026
+Price: $5.99 (-25%, was $7.99)
+Genres: Action, Adventure, Casual, Indie, Racing, Sports
+Link: https://store.steampowered.com/app/4945850
+==================================================
+
+==================================================
+Name: Hide and Squatch
+Release Date: Aug 21, 2026
+Price: $4.99
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/3680940
+==================================================
+
+==================================================
+Name: Skijoring
+Release Date: Aug 21, 2026
+Price: Free to Play
+Genres: Action, Casual, Indie, Racing, Simulation, Sports, Free To Play
+Link: https://store.steampowered.com/app/4023240
+==================================================
+
