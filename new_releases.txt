@@ -66819,3 +66819,30 @@ Genres: Adventure, Indie
 Link: https://store.steampowered.com/app/5041880
 ==================================================
 
+
+--- Run: 2026-08-21 20:11:21 --- (3 new game(s) found)
+
+==================================================
+Name: ScagJPT
+Release Date: Aug 21, 2026
+Price: $4.99
+Genres: Casual, Indie, Simulation, Utilities
+Link: https://store.steampowered.com/app/4721090
+==================================================
+
+==================================================
+Name: Brawlzerker
+Release Date: Aug 21, 2026
+Price: $2.99
+Genres: Action, Casual
+Link: https://store.steampowered.com/app/5018630
+==================================================
+
+==================================================
+Name: Sky Yacht - Waves of Desire
+Release Date: Aug 21, 2026
+Price: $8.49 (-15%, was $9.99)
+Genres: Adventure, Simulation
+Link: https://store.steampowered.com/app/4661900
+==================================================
+
