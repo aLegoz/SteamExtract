@@ -66310,3 +66310,22 @@ Genres: Adventure, Casual, Indie
 Link: https://store.steampowered.com/app/4773980
 ==================================================
 
+
+--- Run: 2026-08-21 11:14:45 --- (2 new game(s) found)
+
+==================================================
+Name: 1000 Princes: ChouChou Condo
+Release Date: Aug 21, 2026
+Price: Free to Play
+Genres: Indie, Simulation, Free To Play
+Link: https://store.steampowered.com/app/4846800
+==================================================
+
+==================================================
+Name: Idle Dimension Breaker
+Release Date: Aug 21, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Casual, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/4962240
+==================================================
+
