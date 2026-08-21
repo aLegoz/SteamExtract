@@ -66189,3 +66189,22 @@ Genres: Casual, Indie, RPG, Simulation
 Link: https://store.steampowered.com/app/3264440
 ==================================================
 
+
+--- Run: 2026-08-21 07:32:43 --- (2 new game(s) found)
+
+==================================================
+Name: Turning Box
+Release Date: Aug 20, 2026
+Price: Free to Play
+Genres: Casual, Indie, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4938570
+==================================================
+
+==================================================
+Name: Anomaly Operation
+Release Date: Aug 20, 2026
+Price: $5.59 (-20%, was $6.99)
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/4025060
+==================================================
+
