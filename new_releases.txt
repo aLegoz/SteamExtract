@@ -66049,3 +66049,14 @@ Genres: Casual, Indie
 Link: https://store.steampowered.com/app/4729290
 ==================================================
 
+
+--- Run: 2026-08-21 02:15:15 --- (1 new game(s) found)
+
+==================================================
+Name: 帝国：权杖与文明
+Release Date: Aug 20, 2026
+Price: Free to Play
+Genres: Massively Multiplayer, RPG, Strategy, Free To Play
+Link: https://store.steampowered.com/app/3486430
+==================================================
+
