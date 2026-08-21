@@ -66506,3 +66506,94 @@ Genres: Adventure, Casual, Indie, Simulation
 Link: https://store.steampowered.com/app/5014770
 ==================================================
 
+
+--- Run: 2026-08-21 16:17:38 --- (11 new game(s) found)
+
+==================================================
+Name: DeskCanvas
+Release Date: Aug 21, 2026
+Price: $5.99
+Genres: Indie, Utilities
+Link: https://store.steampowered.com/app/4889250
+==================================================
+
+==================================================
+Name: Simple Airline Sim
+Release Date: Aug 21, 2026
+Price: $5.59 (-30%, was $7.99)
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4833180
+==================================================
+
+==================================================
+Name: Aqua Scrap: Deep Clean
+Release Date: Aug 21, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4974760
+==================================================
+
+==================================================
+Name: Strange Zoo
+Release Date: Aug 21, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/4210110
+==================================================
+
+==================================================
+Name: Medic Mayhem
+Release Date: Aug 21, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Action, Casual, Indie, Racing
+Link: https://store.steampowered.com/app/3543300
+==================================================
+
+==================================================
+Name: NARROW HOLES
+Release Date: Aug 21, 2026
+Price: $2.39 (-40%, was $3.99)
+Genres: Adventure, Casual, Indie, RPG, Simulation, Sports
+Link: https://store.steampowered.com/app/4343900
+==================================================
+
+==================================================
+Name: Rollin' Ravioli
+Release Date: Aug 21, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Action, Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/4287100
+==================================================
+
+==================================================
+Name: Lamplight
+Release Date: Aug 21, 2026
+Price: Free to Play
+Genres: RPG, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4951430
+==================================================
+
+==================================================
+Name: Tanks: Total Destruction
+Release Date: Aug 21, 2026
+Price: $6.74 (-25%, was $8.99)
+Genres: Action
+Link: https://store.steampowered.com/app/4309500
+==================================================
+
+==================================================
+Name: The Expansion
+Release Date: Aug 21, 2026
+Price: $4.99
+Genres: Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/4939820
+==================================================
+
+==================================================
+Name: Museum Girls Fleet Maneuvers: The Dockhand
+Release Date: Aug 21, 2026
+Price: $4.99
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/5028460
+==================================================
+
