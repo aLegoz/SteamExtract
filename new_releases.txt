@@ -66208,3 +66208,62 @@ Genres: Indie, Simulation
 Link: https://store.steampowered.com/app/4025060
 ==================================================
 
+
+--- Run: 2026-08-21 08:23:55 --- (7 new game(s) found)
+
+==================================================
+Name: Four Lights
+Release Date: Aug 21, 2026
+Price: $36.96
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/2708150
+==================================================
+
+==================================================
+Name: Idle Castellan
+Release Date: Aug 21, 2026
+Price: $1.94 (-35%, was $2.99)
+Genres: Adventure, Indie, RPG, Simulation, Strategy
+Link: https://store.steampowered.com/app/5045180
+==================================================
+
+==================================================
+Name: Depraved!! Bunny Sex Life
+Release Date: Aug 21, 2026
+Price: $6.29 (-10%, was $6.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4282720
+==================================================
+
+==================================================
+Name: AI Pixel Battle
+Release Date: Aug 21, 2026
+Price: $7.19 (-10%, was $7.99)
+Genres: Simulation
+Link: https://store.steampowered.com/app/3994120
+==================================================
+
+==================================================
+Name: Erotic Fantasy Camp
+Release Date: Aug 21, 2026
+Price: $5.39 (-40%, was $8.99)
+Genres: Casual, Simulation
+Link: https://store.steampowered.com/app/4758370
+==================================================
+
+==================================================
+Name: DAWN ONE
+Release Date: Aug 21, 2026
+Price: $8.09 (-10%, was $8.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/2127340
+==================================================
+
+==================================================
+Name: Puzzle Loot
+Release Date: Aug 21, 2026
+Price: $8.99
+Genres: Casual, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/4960710
+==================================================
+
