@@ -66924,3 +66924,14 @@ Genres: Casual
 Link: https://store.steampowered.com/app/4787090
 ==================================================
 
+
+--- Run: 2026-08-21 23:11:34 --- (1 new game(s) found)
+
+==================================================
+Name: Solacinity
+Release Date: Aug 21, 2026
+Price: $4.99
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/3277860
+==================================================
+
