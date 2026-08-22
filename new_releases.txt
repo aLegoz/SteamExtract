@@ -67086,3 +67086,38 @@ Genres: Action, Casual, Indie, RPG
 Link: https://store.steampowered.com/app/4725140
 ==================================================
 
+
+--- Run: 2026-08-22 12:13:47 --- (4 new game(s) found)
+
+==================================================
+Name: Touhou Desktop Pet
+Release Date: Aug 22, 2026
+Price: $0.89 (-10%, was $0.99)
+Genres: Casual, Simulation
+Link: https://store.steampowered.com/app/4653120
+==================================================
+
+==================================================
+Name: The Down Below
+Release Date: Aug 22, 2026
+Price: $1.99
+Genres: Action, Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/2947300
+==================================================
+
+==================================================
+Name: Desktop Pal
+Release Date: Aug 22, 2026
+Price: $2.80 (-20%, was $3.50)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5007540
+==================================================
+
+==================================================
+Name: Forensh
+Release Date: Aug 21, 2026
+Price: $2.39 (-20%, was $2.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/4424650
+==================================================
+
