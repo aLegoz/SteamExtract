@@ -67075,3 +67075,14 @@ Genres: Casual, Indie, Strategy
 Link: https://store.steampowered.com/app/4932400
 ==================================================
 
+
+--- Run: 2026-08-22 09:15:15 --- (1 new game(s) found)
+
+==================================================
+Name: System Grid Crusher 
+Release Date: Aug 21, 2026
+Price: $2.99
+Genres: Action, Casual, Indie, RPG
+Link: https://store.steampowered.com/app/4725140
+==================================================
+
