@@ -67045,3 +67045,22 @@ Genres: Casual, Indie
 Link: https://store.steampowered.com/app/5016680
 ==================================================
 
+
+--- Run: 2026-08-22 05:15:17 --- (2 new game(s) found)
+
+==================================================
+Name: KurunMania: Spiral Drop
+Release Date: Aug 21, 2026
+Price: $2.54 (-15%, was $2.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5002080
+==================================================
+
+==================================================
+Name: Mado Marks
+Release Date: Aug 21, 2026
+Price: $2.39 (-20%, was $2.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4832290
+==================================================
+
