@@ -67170,3 +67170,30 @@ Genres: Action, Casual, Indie, RPG
 Link: https://store.steampowered.com/app/5050070
 ==================================================
 
+
+--- Run: 2026-08-22 19:13:23 --- (3 new game(s) found)
+
+==================================================
+Name: Ashes of Kardoria
+Release Date: Aug 22, 2026
+Price: $24.99
+Genres: Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/4315690
+==================================================
+
+==================================================
+Name: EZY Virtual TableTop Builder
+Release Date: Aug 21, 2026
+Price: $14.99 (-40%, was $24.99)
+Genres: RPG
+Link: https://store.steampowered.com/app/5013430
+==================================================
+
+==================================================
+Name: Beguiled Egress
+Release Date: Aug 21, 2026
+Price: $2.99
+Genres: Indie
+Link: https://store.steampowered.com/app/4836860
+==================================================
+
