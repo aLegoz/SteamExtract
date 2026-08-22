@@ -67216,3 +67216,30 @@ Genres: Adventure, Simulation
 Link: https://store.steampowered.com/app/4895530
 ==================================================
 
+
+--- Run: 2026-08-22 23:08:57 --- (3 new game(s) found)
+
+==================================================
+Name: Grim Reach Idle
+Release Date: Aug 22, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: RPG
+Link: https://store.steampowered.com/app/4915450
+==================================================
+
+==================================================
+Name: Best Friends
+Release Date: Aug 22, 2026
+Price: $19.99
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/3544480
+==================================================
+
+==================================================
+Name: Puzzles Flowers
+Release Date: Aug 22, 2026
+Price: $0.59 (-40%, was $0.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4961740
+==================================================
+
