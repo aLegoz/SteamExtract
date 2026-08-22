@@ -67132,3 +67132,14 @@ Genres: Casual, Indie, Simulation
 Link: https://store.steampowered.com/app/4997080
 ==================================================
 
+
+--- Run: 2026-08-22 16:09:01 --- (1 new game(s) found)
+
+==================================================
+Name: Strait of Hormuz Mini Arcade
+Release Date: Aug 22, 2026
+Price: $0.79 (-20%, was $0.99)
+Genres: Action
+Link: https://store.steampowered.com/app/5010210
+==================================================
+
