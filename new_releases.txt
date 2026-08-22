@@ -66935,3 +66935,54 @@ Genres: Action, Adventure, Indie
 Link: https://store.steampowered.com/app/3277860
 ==================================================
 
+
+--- Run: 2026-08-22 00:30:15 --- (6 new game(s) found)
+
+==================================================
+Name: Realms Of Wands
+Release Date: Aug 21, 2026
+Price: $12.59 (-10%, was $13.99)
+Genres: Action, RPG
+Link: https://store.steampowered.com/app/4989300
+==================================================
+
+==================================================
+Name: Empire Eleven 2026
+Release Date: Aug 21, 2026
+Price: $9.99
+Genres: Simulation, Sports, Strategy
+Link: https://store.steampowered.com/app/4502700
+==================================================
+
+==================================================
+Name: Pavlov Shack
+Release Date: Aug 21, 2026
+Price: $19.99
+Genres: Action
+Link: https://store.steampowered.com/app/3504270
+==================================================
+
+==================================================
+Name: Card Maker Simulator
+Release Date: Aug 21, 2026
+Price: $7.19 (-10%, was $7.99)
+Genres: Indie, RPG, Simulation
+Link: https://store.steampowered.com/app/4359910
+==================================================
+
+==================================================
+Name: Chickzilla
+Release Date: Aug 21, 2026
+Price: $1.79 (-40%, was $2.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4741750
+==================================================
+
+==================================================
+Name: Covid-26
+Release Date: Aug 21, 2026
+Price: $2.99
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/4825430
+==================================================
+
