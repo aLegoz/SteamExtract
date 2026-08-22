@@ -67197,3 +67197,22 @@ Genres: Indie
 Link: https://store.steampowered.com/app/4836860
 ==================================================
 
+
+--- Run: 2026-08-22 22:08:49 --- (2 new game(s) found)
+
+==================================================
+Name: Endless Descent
+Release Date: Aug 22, 2026
+Price: $15.00
+Genres: Action, Adventure, Casual, Indie, RPG
+Link: https://store.steampowered.com/app/3395860
+==================================================
+
+==================================================
+Name: Dirty Air
+Release Date: Aug 22, 2026
+Price: $4.19 (-40%, was $6.99)
+Genres: Adventure, Simulation
+Link: https://store.steampowered.com/app/4895530
+==================================================
+
