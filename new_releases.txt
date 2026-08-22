@@ -67064,3 +67064,14 @@ Genres: Adventure, Indie
 Link: https://store.steampowered.com/app/4832290
 ==================================================
 
+
+--- Run: 2026-08-22 07:21:14 --- (1 new game(s) found)
+
+==================================================
+Name: Meet Sudoku
+Release Date: Aug 21, 2026
+Price: $5.94 (-15%, was $6.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4932400
+==================================================
+
