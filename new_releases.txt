@@ -67324,3 +67324,14 @@ Genres: Action, Adventure, Casual, Indie, RPG
 Link: https://store.steampowered.com/app/4354550
 ==================================================
 
+
+--- Run: 2026-08-23 10:10:46 --- (1 new game(s) found)
+
+==================================================
+Name: K-jihacheol
+Release Date: Aug 22, 2026
+Price: $5.39 (-10%, was $5.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5015810
+==================================================
+
