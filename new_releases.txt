@@ -67395,3 +67395,14 @@ Genres: Action, Adventure, Casual, Indie, Strategy
 Link: https://store.steampowered.com/app/4870060
 ==================================================
 
+
+--- Run: 2026-08-23 18:10:56 --- (1 new game(s) found)
+
+==================================================
+Name: Truth Universally Acknowledged - Silver Heart
+Release Date: Aug 23, 2026
+Price: $5.39 (-10%, was $5.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4951300
+==================================================
+
