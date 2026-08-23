@@ -67354,3 +67354,14 @@ Genres: Casual, Indie, Simulation, Strategy
 Link: https://store.steampowered.com/app/4922330
 ==================================================
 
+
+--- Run: 2026-08-23 14:11:23 --- (1 new game(s) found)
+
+==================================================
+Name: OPEN FOR BUSINESS: Game & Movie Store Simulator
+Release Date: Aug 23, 2026
+Price: $3.89 (-35%, was $5.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/3919690
+==================================================
+
