@@ -67335,3 +67335,22 @@ Genres: Casual, Indie
 Link: https://store.steampowered.com/app/5015810
 ==================================================
 
+
+--- Run: 2026-08-23 12:14:29 --- (2 new game(s) found)
+
+==================================================
+Name: The Long Drive Badland
+Release Date: Aug 23, 2026
+Price: $3.19 (-80%, was $15.99)
+Genres: Action, Adventure, Indie, Racing, RPG, Simulation, Sports, Strategy
+Link: https://store.steampowered.com/app/4478680
+==================================================
+
+==================================================
+Name: Casino Legends
+Release Date: Aug 23, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4922330
+==================================================
+
