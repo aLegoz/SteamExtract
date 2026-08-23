@@ -67406,3 +67406,14 @@ Genres: Casual, Indie
 Link: https://store.steampowered.com/app/4951300
 ==================================================
 
+
+--- Run: 2026-08-23 20:08:18 --- (1 new game(s) found)
+
+==================================================
+Name: Digline
+Release Date: Aug 23, 2026
+Price: $6.99
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4607290
+==================================================
+
