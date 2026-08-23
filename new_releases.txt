@@ -67286,3 +67286,30 @@ Genres: Simulation, Sports, Strategy
 Link: https://store.steampowered.com/app/4795830
 ==================================================
 
+
+--- Run: 2026-08-23 07:22:54 --- (3 new game(s) found)
+
+==================================================
+Name: Seleto's in Puzzle Land
+Release Date: Aug 22, 2026
+Price: $5.99
+Genres: Action
+Link: https://store.steampowered.com/app/4959140
+==================================================
+
+==================================================
+Name: Trailkeeper
+Release Date: Aug 22, 2026
+Price: $1.99
+Genres: Strategy
+Link: https://store.steampowered.com/app/4699380
+==================================================
+
+==================================================
+Name: StorySmith
+Release Date: Aug 21, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Action, Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/4921700
+==================================================
+
