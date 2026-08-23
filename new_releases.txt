@@ -67417,3 +67417,14 @@ Genres: Casual, Indie
 Link: https://store.steampowered.com/app/4607290
 ==================================================
 
+
+--- Run: 2026-08-23 21:09:26 --- (1 new game(s) found)
+
+==================================================
+Name: Puzzles Colors
+Release Date: Aug 23, 2026
+Price: $1.19 (-40%, was $1.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4961800
+==================================================
+
