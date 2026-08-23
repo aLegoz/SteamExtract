@@ -67313,3 +67313,14 @@ Genres: Action, Adventure, Indie, RPG
 Link: https://store.steampowered.com/app/4921700
 ==================================================
 
+
+--- Run: 2026-08-23 09:15:22 --- (1 new game(s) found)
+
+==================================================
+Name: GwenBlade Witcheresque
+Release Date: Aug 23, 2026
+Price: $3.00 (-40%, was $5.00)
+Genres: Action, Adventure, Casual, Indie, RPG
+Link: https://store.steampowered.com/app/4354550
+==================================================
+
