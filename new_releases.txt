@@ -67365,3 +67365,22 @@ Genres: Casual, Indie, Simulation
 Link: https://store.steampowered.com/app/3919690
 ==================================================
 
+
+--- Run: 2026-08-23 16:10:17 --- (2 new game(s) found)
+
+==================================================
+Name: The Keeper's Path
+Release Date: Aug 23, 2026
+Price: $4.99
+Genres: Indie, RPG, Simulation
+Link: https://store.steampowered.com/app/4927900
+==================================================
+
+==================================================
+Name: Tao
+Release Date: Aug 22, 2026
+Price: Free to Play
+Genres: Casual, Indie, Free To Play, Education, Utilities
+Link: https://store.steampowered.com/app/4396670
+==================================================
+
