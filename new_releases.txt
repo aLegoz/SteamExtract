@@ -67384,3 +67384,14 @@ Genres: Casual, Indie, Free To Play, Education, Utilities
 Link: https://store.steampowered.com/app/4396670
 ==================================================
 
+
+--- Run: 2026-08-23 17:10:34 --- (1 new game(s) found)
+
+==================================================
+Name: Garden Defence
+Release Date: Aug 22, 2026
+Price: $3.39 (-15%, was $3.99)
+Genres: Action, Adventure, Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4870060
+==================================================
+
