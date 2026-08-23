@@ -67428,3 +67428,22 @@ Genres: Casual, Indie
 Link: https://store.steampowered.com/app/4961800
 ==================================================
 
+
+--- Run: 2026-08-23 23:09:02 --- (2 new game(s) found)
+
+==================================================
+Name: OverlayGG: Game Guide Overlay
+Release Date: Aug 23, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Education, Utilities
+Link: https://store.steampowered.com/app/4747010
+==================================================
+
+==================================================
+Name: Cybersquare Madness
+Release Date: Aug 23, 2026
+Price: $5.39 (-10%, was $5.99)
+Genres: Action, Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4538030
+==================================================
+
