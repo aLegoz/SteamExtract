@@ -67634,3 +67634,62 @@ Genres: Action, Adventure, Casual, Indie, RPG
 Link: https://store.steampowered.com/app/5053370
 ==================================================
 
+
+--- Run: 2026-08-24 13:40:06 --- (7 new game(s) found)
+
+==================================================
+Name: Tridan
+Release Date: Aug 24, 2026
+Price: $2.54 (-15%, was $2.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4823350
+==================================================
+
+==================================================
+Name: Cycletex: Retro Texture Tool
+Release Date: Aug 24, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Animation & Modeling, Design & Illustration, Photo Editing, Utilities, Game Development
+Link: https://store.steampowered.com/app/5054040
+==================================================
+
+==================================================
+Name: Fruit Swipe Match 3
+Release Date: Aug 24, 2026
+Price: Free to Play
+Genres: Casual, Free To Play
+Link: https://store.steampowered.com/app/5053560
+==================================================
+
+==================================================
+Name: The Dream Office
+Release Date: Aug 24, 2026
+Price: $9.99
+Genres: Adventure, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/2510970
+==================================================
+
+==================================================
+Name: Shelve the Potions!
+Release Date: Aug 24, 2026
+Price: $5.39 (-10%, was $5.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4928820
+==================================================
+
+==================================================
+Name: Ultrapool
+Release Date: Aug 24, 2026
+Price: $9.59 (-20%, was $11.99)
+Genres: Casual, Indie, Sports, Strategy
+Link: https://store.steampowered.com/app/4195110
+==================================================
+
+==================================================
+Name: Off Grid
+Release Date: Aug 24, 2026
+Price: $2.99
+Genres: Casual, Strategy
+Link: https://store.steampowered.com/app/4856170
+==================================================
+
