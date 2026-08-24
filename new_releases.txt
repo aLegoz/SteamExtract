@@ -67458,3 +67458,14 @@ Genres: Action
 Link: https://store.steampowered.com/app/4745980
 ==================================================
 
+
+--- Run: 2026-08-24 02:14:21 --- (1 new game(s) found)
+
+==================================================
+Name: Word Cubes
+Release Date: Aug 22, 2026
+Price: $4.99
+Genres: Casual, Strategy
+Link: https://store.steampowered.com/app/4984900
+==================================================
+
