@@ -67615,3 +67615,22 @@ Genres: Adventure, Casual, Indie
 Link: https://store.steampowered.com/app/4764260
 ==================================================
 
+
+--- Run: 2026-08-24 12:20:59 --- (2 new game(s) found)
+
+==================================================
+Name: Guardians Of Restoration
+Release Date: Aug 24, 2026
+Price: $7.19 (-20%, was $8.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/3092280
+==================================================
+
+==================================================
+Name: Visual Novel: Boomer on a Date
+Release Date: Aug 24, 2026
+Price: $0.69 (-30%, was $0.99)
+Genres: Action, Adventure, Casual, Indie, RPG
+Link: https://store.steampowered.com/app/5053370
+==================================================
+
