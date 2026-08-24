@@ -68031,3 +68031,22 @@ Genres: Action, Indie, Strategy
 Link: https://store.steampowered.com/app/4597000
 ==================================================
 
+
+--- Run: 2026-08-24 22:12:48 --- (2 new game(s) found)
+
+==================================================
+Name: No One Prays in Ovruch
+Release Date: Aug 24, 2026
+Price: $3.95 (-28%, was $5.49)
+Genres: Indie
+Link: https://store.steampowered.com/app/5026670
+==================================================
+
+==================================================
+Name: ZapStick
+Release Date: Aug 24, 2026
+Price: $2.69 (-10%, was $2.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4545340
+==================================================
+
