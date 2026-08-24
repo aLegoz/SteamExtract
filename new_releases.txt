@@ -67523,3 +67523,38 @@ Genres: RPG, Free To Play
 Link: https://store.steampowered.com/app/4747380
 ==================================================
 
+
+--- Run: 2026-08-24 06:31:51 --- (4 new game(s) found)
+
+==================================================
+Name: Backyard Paintball
+Release Date: Aug 23, 2026
+Price: Free to Play
+Genres: Action, Free To Play
+Link: https://store.steampowered.com/app/3509670
+==================================================
+
+==================================================
+Name: Ironvale
+Release Date: Aug 23, 2026
+Price: $2.99
+Genres: Action, Adventure, Casual, RPG
+Link: https://store.steampowered.com/app/4720080
+==================================================
+
+==================================================
+Name: Doggo on Strike
+Release Date: Aug 23, 2026
+Price: $2.99
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4989590
+==================================================
+
+==================================================
+Name: Breachline
+Release Date: Aug 23, 2026
+Price: $6.99
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/4886460
+==================================================
+
