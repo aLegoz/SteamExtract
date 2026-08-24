@@ -67988,3 +67988,46 @@ Genres: Action, Indie, Free To Play
 Link: https://store.steampowered.com/app/4440710
 ==================================================
 
+
+--- Run: 2026-08-24 21:16:57 --- (5 new game(s) found)
+
+==================================================
+Name: Farmous
+Release Date: Aug 24, 2026
+Price: $4.79 (-20%, was $5.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4992330
+==================================================
+
+==================================================
+Name: No Final Run
+Release Date: Aug 24, 2026
+Price: $8.99
+Genres: Action, Adventure
+Link: https://store.steampowered.com/app/4341610
+==================================================
+
+==================================================
+Name: Company is watching
+Release Date: Aug 24, 2026
+Price: $5.24 (-25%, was $6.99)
+Genres: Adventure, Simulation
+Link: https://store.steampowered.com/app/4431090
+==================================================
+
+==================================================
+Name: America Against Ants
+Release Date: Aug 24, 2026
+Price: $13.49 (-10%, was $14.99)
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/3629860
+==================================================
+
+==================================================
+Name: Dwarven Rails
+Release Date: Aug 24, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: Action, Indie, Strategy
+Link: https://store.steampowered.com/app/4597000
+==================================================
+
