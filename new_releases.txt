@@ -67926,3 +67926,54 @@ Genres: Adventure, Indie
 Link: https://store.steampowered.com/app/3978240
 ==================================================
 
+
+--- Run: 2026-08-24 18:21:13 --- (6 new game(s) found)
+
+==================================================
+Name: Blasterbug: Last Bug Standing! 
+Release Date: Aug 24, 2026
+Price: Free to Play
+Genres: Action, Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/3069340
+==================================================
+
+==================================================
+Name: Last Signal
+Release Date: Aug 24, 2026
+Price: $2.54 (-15%, was $2.99)
+Genres: Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/4336320
+==================================================
+
+==================================================
+Name: 100 for Justice
+Release Date: Aug 24, 2026
+Price: $5.39 (-10%, was $5.99)
+Genres: Indie, RPG, Simulation, Strategy
+Link: https://store.steampowered.com/app/4657550
+==================================================
+
+==================================================
+Name: The Last Road
+Release Date: Aug 24, 2026
+Price: $8.99
+Genres: Casual, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/4163120
+==================================================
+
+==================================================
+Name: 8 Ball Pool: Play Together
+Release Date: Aug 24, 2026
+Price: $4.79 (-20%, was $5.99)
+Genres: Indie, Simulation, Sports
+Link: https://store.steampowered.com/app/4501430
+==================================================
+
+==================================================
+Name: Color Blocks
+Release Date: Aug 24, 2026
+Price: $4.99
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4796400
+==================================================
+
