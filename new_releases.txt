@@ -67469,3 +67469,46 @@ Genres: Casual, Strategy
 Link: https://store.steampowered.com/app/4984900
 ==================================================
 
+
+--- Run: 2026-08-24 03:42:18 --- (5 new game(s) found)
+
+==================================================
+Name: スマートフォン
+Release Date: Aug 23, 2026
+Price: $2.54 (-15%, was $2.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4937120
+==================================================
+
+==================================================
+Name: Last Fiefdom
+Release Date: Aug 23, 2026
+Price: Free to Play
+Genres: Massively Multiplayer, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4938410
+==================================================
+
+==================================================
+Name: Idle Demon Lord
+Release Date: Aug 23, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Adventure, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/4932620
+==================================================
+
+==================================================
+Name: AFTERLIGHT: The Apartment
+Release Date: Aug 23, 2026
+Price: $3.99
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4986740
+==================================================
+
+==================================================
+Name: Puzzles Hamster
+Release Date: Aug 23, 2026
+Price: $0.59 (-40%, was $0.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4961770
+==================================================
+
