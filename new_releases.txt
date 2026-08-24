@@ -67596,3 +67596,22 @@ Genres: Casual, Indie
 Link: https://store.steampowered.com/app/3196850
 ==================================================
 
+
+--- Run: 2026-08-24 11:16:08 --- (2 new game(s) found)
+
+==================================================
+Name: 西西弗斯放置（Sisyphus Idle）
+Release Date: Aug 24, 2026
+Price: $2.69 (-10%, was $2.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/5048740
+==================================================
+
+==================================================
+Name: Summer of Love ☮️
+Release Date: Aug 24, 2026
+Price: $4.97 (-17%, was $5.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4764260
+==================================================
+
