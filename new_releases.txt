@@ -67569,3 +67569,30 @@ Genres: Adventure, Casual, Indie
 Link: https://store.steampowered.com/app/4955990
 ==================================================
 
+
+--- Run: 2026-08-24 08:33:15 --- (3 new game(s) found)
+
+==================================================
+Name: 莫待无花空折枝：做题家的 Git 重启日志
+Release Date: Aug 24, 2026
+Price: $2.07 (-17%, was $2.50)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4972160
+==================================================
+
+==================================================
+Name: Every Step Counts
+Release Date: Aug 23, 2026
+Price: $5.39 (-10%, was $5.99)
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4143750
+==================================================
+
+==================================================
+Name: Travellin Cats in USA
+Release Date: Aug 23, 2026
+Price: $3.59 (-10%, was $3.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/3196850
+==================================================
+
