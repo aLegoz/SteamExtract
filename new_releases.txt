@@ -67512,3 +67512,14 @@ Genres: Casual, Indie
 Link: https://store.steampowered.com/app/4961770
 ==================================================
 
+
+--- Run: 2026-08-24 04:33:08 --- (1 new game(s) found)
+
+==================================================
+Name: The Library on the Lake
+Release Date: Coming soon
+Price: Free to Play
+Genres: RPG, Free To Play
+Link: https://store.steampowered.com/app/4747380
+==================================================
+
