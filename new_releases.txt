@@ -67447,3 +67447,14 @@ Genres: Action, Casual, Indie, Strategy
 Link: https://store.steampowered.com/app/4538030
 ==================================================
 
+
+--- Run: 2026-08-24 00:31:49 --- (1 new game(s) found)
+
+==================================================
+Name: Cow
+Release Date: Aug 23, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Action
+Link: https://store.steampowered.com/app/4745980
+==================================================
+
