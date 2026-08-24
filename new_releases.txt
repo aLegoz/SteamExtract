@@ -67558,3 +67558,14 @@ Genres: Indie, Strategy
 Link: https://store.steampowered.com/app/4886460
 ==================================================
 
+
+--- Run: 2026-08-24 07:47:30 --- (1 new game(s) found)
+
+==================================================
+Name: The Brothers Karamazov
+Release Date: Aug 23, 2026
+Price: $7.64 (-15%, was $8.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4955990
+==================================================
+
