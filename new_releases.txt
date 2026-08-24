@@ -67819,3 +67819,110 @@ Genres: Casual, Indie, Simulation
 Link: https://store.steampowered.com/app/4451200
 ==================================================
 
+
+--- Run: 2026-08-24 17:20:42 --- (13 new game(s) found)
+
+==================================================
+Name: HR Hell
+Release Date: Aug 24, 2026
+Price: $2.99 (-25%, was $3.99)
+Genres: Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4993060
+==================================================
+
+==================================================
+Name: Goaldeck
+Release Date: Aug 24, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Strategy
+Link: https://store.steampowered.com/app/4638590
+==================================================
+
+==================================================
+Name: Ecrazeus Castle
+Release Date: Aug 24, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Action, Indie, RPG
+Link: https://store.steampowered.com/app/4106270
+==================================================
+
+==================================================
+Name: Traveler Stories: Journeys of Real People
+Release Date: Aug 24, 2026
+Price: $11.04 (-15%, was $12.99)
+Genres: Adventure, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/3975150
+==================================================
+
+==================================================
+Name: Overtrick
+Release Date: Aug 24, 2026
+Price: $6.39 (-20%, was $7.99)
+Genres: Strategy
+Link: https://store.steampowered.com/app/4101290
+==================================================
+
+==================================================
+Name: Money for Girls: Amortized
+Release Date: Aug 24, 2026
+Price: $13.50 (-10%, was $15.00)
+Genres: Indie, RPG
+Link: https://store.steampowered.com/app/4833450
+==================================================
+
+==================================================
+Name: New Home
+Release Date: Aug 24, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4992860
+==================================================
+
+==================================================
+Name: Din's Champion
+Release Date: Aug 24, 2026
+Price: $15.99 (-20%, was $19.99)
+Genres: Action, Indie, RPG
+Link: https://store.steampowered.com/app/2880010
+==================================================
+
+==================================================
+Name: Purrrifiers: Cleaning Chaos (Play for Free with Friend's Pass)
+Release Date: Aug 24, 2026
+Price: $9.09 (-30%, was $12.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/2117430
+==================================================
+
+==================================================
+Name: Peg Champ
+Release Date: Aug 24, 2026
+Price: $6.79 (-15%, was $7.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/4936660
+==================================================
+
+==================================================
+Name: Volkolak: The Will of Gods
+Release Date: Aug 24, 2026
+Price: $11.19 (-30%, was $15.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/2499040
+==================================================
+
+==================================================
+Name: Iron Blight
+Release Date: Aug 24, 2026
+Price: $9.99 (-20%, was $12.49)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4001350
+==================================================
+
+==================================================
+Name: Wordless Forest
+Release Date: Aug 24, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/3978240
+==================================================
+
