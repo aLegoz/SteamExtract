@@ -67977,3 +67977,14 @@ Genres: Casual, Indie
 Link: https://store.steampowered.com/app/4796400
 ==================================================
 
+
+--- Run: 2026-08-24 20:15:41 --- (1 new game(s) found)
+
+==================================================
+Name: Banana Republic
+Release Date: Aug 24, 2026
+Price: Free to Play
+Genres: Action, Indie, Free To Play
+Link: https://store.steampowered.com/app/4440710
+==================================================
+
