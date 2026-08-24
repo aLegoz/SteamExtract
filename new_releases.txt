@@ -67752,3 +67752,70 @@ Genres: Animation & Modeling
 Link: https://store.steampowered.com/app/4932810
 ==================================================
 
+
+--- Run: 2026-08-24 16:21:16 --- (8 new game(s) found)
+
+==================================================
+Name: Smashing Bottles
+Release Date: Aug 24, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4637870
+==================================================
+
+==================================================
+Name: Trade the Crash
+Release Date: Aug 24, 2026
+Price: Free to Play
+Genres: Indie, Simulation, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4794660
+==================================================
+
+==================================================
+Name: Bar After Bar
+Release Date: Aug 24, 2026
+Price: $4.96 (-29%, was $6.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4596010
+==================================================
+
+==================================================
+Name: Nerd Simulator
+Release Date: Aug 24, 2026
+Price: $5.59 (-30%, was $7.99)
+Genres: Adventure, Casual, Indie, RPG, Simulation
+Link: https://store.steampowered.com/app/3128220
+==================================================
+
+==================================================
+Name: Loot Frog
+Release Date: Aug 24, 2026
+Price: $5.85 (-15%, was $6.89)
+Genres: Action, Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4294860
+==================================================
+
+==================================================
+Name: Killer Chase
+Release Date: Aug 24, 2026
+Price: $1.59 (-20%, was $1.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4545720
+==================================================
+
+==================================================
+Name: Magic Mess: Restore Order to the Wizard's Tower!
+Release Date: Aug 24, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5012990
+==================================================
+
+==================================================
+Name: The New Beginning: A Surprise Visit
+Release Date: Aug 24, 2026
+Price: $3.39 (-15%, was $3.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4451200
+==================================================
+
