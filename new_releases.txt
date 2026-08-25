@@ -68266,3 +68266,46 @@ Genres: Indie, RPG, Simulation
 Link: https://store.steampowered.com/app/4539530
 ==================================================
 
+
+--- Run: 2026-08-25 12:21:37 --- (5 new game(s) found)
+
+==================================================
+Name: Trygn's Pixel;Gate
+Release Date: Aug 25, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Animation & Modeling, Design & Illustration, Photo Editing, Game Development
+Link: https://store.steampowered.com/app/5052320
+==================================================
+
+==================================================
+Name: ASTRAL COURT DX
+Release Date: Aug 25, 2026
+Price: Free to Play
+Genres: Action, Indie, Free To Play
+Link: https://store.steampowered.com/app/4568830
+==================================================
+
+==================================================
+Name: Hero:number fight
+Release Date: Aug 25, 2026
+Price: $1.23 (-17%, was $1.49)
+Genres: Casual, Strategy
+Link: https://store.steampowered.com/app/4947390
+==================================================
+
+==================================================
+Name: Bacteria Buster
+Release Date: Aug 25, 2026
+Price: $1.79 (-40%, was $2.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5013860
+==================================================
+
+==================================================
+Name: Furry Panty Collector
+Release Date: Aug 25, 2026
+Price: $1.69 (-15%, was $1.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5018010
+==================================================
+
