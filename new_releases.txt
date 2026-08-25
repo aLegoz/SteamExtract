@@ -68647,3 +68647,14 @@ Genres: Utilities
 Link: https://store.steampowered.com/app/3116010
 ==================================================
 
+
+--- Run: 2026-08-25 20:14:19 --- (1 new game(s) found)
+
+==================================================
+Name: Yapori Soccer
+Release Date: Aug 25, 2026
+Price: Free to Play
+Genres: Casual, Indie, Sports, Free To Play
+Link: https://store.steampowered.com/app/5017990
+==================================================
+
