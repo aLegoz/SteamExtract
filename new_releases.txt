@@ -68212,3 +68212,38 @@ Genres: Action, Adventure, Casual, Indie
 Link: https://store.steampowered.com/app/4154510
 ==================================================
 
+
+--- Run: 2026-08-25 10:19:08 --- (4 new game(s) found)
+
+==================================================
+Name: The Case of the Golden Night Apartment
+Release Date: Aug 25, 2026
+Price: $8.49 (-15%, was $9.99)
+Genres: Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/4143220
+==================================================
+
+==================================================
+Name: Crypto Simulator
+Release Date: Aug 25, 2026
+Price: $3.49 (-30%, was $4.99)
+Genres: Casual, Indie, RPG, Simulation, Strategy
+Link: https://store.steampowered.com/app/5038730
+==================================================
+
+==================================================
+Name: Ling House: Echoes Within
+Release Date: Aug 25, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4046370
+==================================================
+
+==================================================
+Name: TORIGAME
+Release Date: Aug 24, 2026
+Price: $0.99
+Genres: Action, Casual
+Link: https://store.steampowered.com/app/4727220
+==================================================
+
