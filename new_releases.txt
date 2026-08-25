@@ -68139,3 +68139,38 @@ Genres: Action, Indie, Strategy
 Link: https://store.steampowered.com/app/5052150
 ==================================================
 
+
+--- Run: 2026-08-25 06:22:55 --- (4 new game(s) found)
+
+==================================================
+Name: ROCKET SCIENCE
+Release Date: Aug 24, 2026
+Price: $9.99
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4977610
+==================================================
+
+==================================================
+Name: Tsugunohi -The Thread That Beckons to Heaven-
+Release Date: Aug 24, 2026
+Price: $3.39 (-15%, was $3.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4830660
+==================================================
+
+==================================================
+Name: Honoiro no Jikou 穗色时光
+Release Date: Aug 24, 2026
+Price: $19.99
+Genres: Casual, RPG, Strategy
+Link: https://store.steampowered.com/app/4926100
+==================================================
+
+==================================================
+Name: A Border With No End
+Release Date: Aug 24, 2026
+Price: $5.39 (-10%, was $5.99)
+Genres: Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/5008790
+==================================================
+
