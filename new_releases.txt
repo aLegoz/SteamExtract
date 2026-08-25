@@ -68193,3 +68193,22 @@ Genres: Strategy
 Link: https://store.steampowered.com/app/4804380
 ==================================================
 
+
+--- Run: 2026-08-25 09:22:29 --- (2 new game(s) found)
+
+==================================================
+Name: Milfylicious: The Heat Rises
+Release Date: Aug 25, 2026
+Price: $15.99
+Genres: RPG
+Link: https://store.steampowered.com/app/4925260
+==================================================
+
+==================================================
+Name: How Asian Parents went to School
+Release Date: Aug 25, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Action, Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4154510
+==================================================
+
