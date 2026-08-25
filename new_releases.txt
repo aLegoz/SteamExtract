@@ -68309,3 +68309,54 @@ Genres: Casual, Indie
 Link: https://store.steampowered.com/app/5018010
 ==================================================
 
+
+--- Run: 2026-08-25 13:38:35 --- (6 new game(s) found)
+
+==================================================
+Name: Deep Space Treasure
+Release Date: Aug 25, 2026
+Price: $9.99
+Genres: Adventure, Casual, RPG, Simulation, Strategy
+Link: https://store.steampowered.com/app/4903540
+==================================================
+
+==================================================
+Name: Apidya' Special
+Release Date: Aug 25, 2026
+Price: $17.99 (-10%, was $19.99)
+Genres: Action
+Link: https://store.steampowered.com/app/3956980
+==================================================
+
+==================================================
+Name: Kingsfall:Chess
+Release Date: Aug 25, 2026
+Price: $12.74 (-15%, was $14.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4259640
+==================================================
+
+==================================================
+Name: Puzzles Patterns
+Release Date: Aug 25, 2026
+Price: $0.59 (-40%, was $0.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5007860
+==================================================
+
+==================================================
+Name: Hapunan
+Release Date: Aug 25, 2026
+Price: $3.59 (-10%, was $3.99)
+Genres: Indie
+Link: https://store.steampowered.com/app/4750540
+==================================================
+
+==================================================
+Name: Sokogram
+Release Date: Aug 25, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4054100
+==================================================
+
