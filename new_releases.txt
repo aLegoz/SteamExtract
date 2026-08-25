@@ -68247,3 +68247,22 @@ Genres: Action, Casual
 Link: https://store.steampowered.com/app/4727220
 ==================================================
 
+
+--- Run: 2026-08-25 11:15:00 --- (2 new game(s) found)
+
+==================================================
+Name: Koikata: How Our Love Grows
+Release Date: Aug 25, 2026
+Price: $23.99 (-20%, was $29.99)
+Genres: Adventure, Casual
+Link: https://store.steampowered.com/app/4242040
+==================================================
+
+==================================================
+Name: Snap the Cat
+Release Date: Aug 25, 2026
+Price: $4.89 (-30%, was $6.99)
+Genres: Indie, RPG, Simulation
+Link: https://store.steampowered.com/app/4539530
+==================================================
+
