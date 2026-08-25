@@ -68050,3 +68050,46 @@ Genres: Action, Casual, Indie
 Link: https://store.steampowered.com/app/4545340
 ==================================================
 
+
+--- Run: 2026-08-25 00:31:36 --- (5 new game(s) found)
+
+==================================================
+Name: Descendants of the Dragon
+Release Date: Aug 24, 2026
+Price: $0.59 (-40%, was $0.99)
+Genres: Action, Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4499760
+==================================================
+
+==================================================
+Name: Olinda Fighters
+Release Date: Aug 24, 2026
+Price: $7.99
+Genres: Action, Casual, Indie, Sports
+Link: https://store.steampowered.com/app/3618600
+==================================================
+
+==================================================
+Name: DARKLING
+Release Date: Aug 24, 2026
+Price: $1.79 (-10%, was $1.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4835190
+==================================================
+
+==================================================
+Name: Unicorn Is Out Kissing
+Release Date: Aug 24, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Adventure
+Link: https://store.steampowered.com/app/4902510
+==================================================
+
+==================================================
+Name: Snake Extended
+Release Date: Aug 24, 2026
+Price: $1.80 (-10%, was $2.00)
+Genres: Action, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4895140
+==================================================
+
