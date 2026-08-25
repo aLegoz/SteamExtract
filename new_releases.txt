@@ -68438,3 +68438,54 @@ Genres: Action
 Link: https://store.steampowered.com/app/4993410
 ==================================================
 
+
+--- Run: 2026-08-25 17:21:09 --- (6 new game(s) found)
+
+==================================================
+Name: Temptation's Price - Episode 1
+Release Date: Aug 25, 2026
+Price: $9.99
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4660980
+==================================================
+
+==================================================
+Name: Funguys Swarm
+Release Date: Aug 25, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: Action
+Link: https://store.steampowered.com/app/3371770
+==================================================
+
+==================================================
+Name: Eruption Imminent - Season 1
+Release Date: Aug 25, 2026
+Price: $12.59 (-10%, was $13.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4307450
+==================================================
+
+==================================================
+Name: Blood Dungeon
+Release Date: Aug 25, 2026
+Price: $8.49 (-15%, was $9.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/2431080
+==================================================
+
+==================================================
+Name: Inseco
+Release Date: Aug 25, 2026
+Price: $8.49 (-15%, was $9.99)
+Genres: Adventure
+Link: https://store.steampowered.com/app/2908160
+==================================================
+
+==================================================
+Name: Microsoft Flight Simulator (2020) 40th Anniversary Edition
+Release Date: Aug 25, 2026
+Price: $20.99 (-65%, was $59.99)
+Genres: Simulation
+Link: https://store.steampowered.com/app/1250410
+==================================================
+
