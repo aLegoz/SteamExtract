@@ -68620,3 +68620,30 @@ Genres: Action, Indie
 Link: https://store.steampowered.com/app/4998490
 ==================================================
 
+
+--- Run: 2026-08-25 19:21:05 --- (3 new game(s) found)
+
+==================================================
+Name: Tatlone
+Release Date: Aug 25, 2026
+Price: $6.99
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/4928310
+==================================================
+
+==================================================
+Name: krizgame
+Release Date: Aug 25, 2026
+Price: Free to Play
+Genres: Adventure, Indie, Free To Play
+Link: https://store.steampowered.com/app/4859340
+==================================================
+
+==================================================
+Name: Twitch Integrated Throwing System
+Release Date: Aug 25, 2026
+Price: $16.99 (-15%, was $19.99)
+Genres: Utilities
+Link: https://store.steampowered.com/app/3116010
+==================================================
+
