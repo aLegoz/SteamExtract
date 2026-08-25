@@ -68403,3 +68403,38 @@ Genres: Casual, Indie
 Link: https://store.steampowered.com/app/4954440
 ==================================================
 
+
+--- Run: 2026-08-25 15:31:09 --- (4 new game(s) found)
+
+==================================================
+Name: Twisted Party
+Release Date: Aug 25, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4332910
+==================================================
+
+==================================================
+Name: Aliens: Fireteam Elite 2
+Release Date: Aug 25, 2026
+Price: $49.99
+Genres: Action
+Link: https://store.steampowered.com/app/3448650
+==================================================
+
+==================================================
+Name: Blob of Ink
+Release Date: Aug 25, 2026
+Price: $3.39 (-15%, was $3.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4900980
+==================================================
+
+==================================================
+Name: Victory's Grave: Airborne
+Release Date: Aug 25, 2026
+Price: $4.99
+Genres: Action
+Link: https://store.steampowered.com/app/4993410
+==================================================
+
