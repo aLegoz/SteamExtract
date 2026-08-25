@@ -68701,3 +68701,38 @@ Genres: Indie, Strategy
 Link: https://store.steampowered.com/app/4307400
 ==================================================
 
+
+--- Run: 2026-08-25 22:12:59 --- (4 new game(s) found)
+
+==================================================
+Name: Corners Arena
+Release Date: Aug 25, 2026
+Price: $3.75 (-25%, was $5.00)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4989020
+==================================================
+
+==================================================
+Name: Box Knight
+Release Date: Aug 25, 2026
+Price: $12.74 (-15%, was $14.99)
+Genres: Action, Indie, RPG
+Link: https://store.steampowered.com/app/1678650
+==================================================
+
+==================================================
+Name: Silent Waters
+Release Date: Aug 25, 2026
+Price: $4.49 (-25%, was $5.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/4027610
+==================================================
+
+==================================================
+Name: Heroes Of Might And Magic III
+Release Date: Aug 25, 2026
+Price: $9.99
+Genres: Strategy
+Link: https://store.steampowered.com/app/4921760
+==================================================
+
