@@ -68093,3 +68093,22 @@ Genres: Action, Casual, Indie, Simulation
 Link: https://store.steampowered.com/app/4895140
 ==================================================
 
+
+--- Run: 2026-08-25 02:10:16 --- (2 new game(s) found)
+
+==================================================
+Name: Chuck Bonesteel & The Alien Apocalypse
+Release Date: Aug 24, 2026
+Price: $4.99
+Genres: Action
+Link: https://store.steampowered.com/app/3098780
+==================================================
+
+==================================================
+Name: Finish The Dishes!
+Release Date: Aug 24, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Action, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4866520
+==================================================
+
