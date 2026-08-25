@@ -68658,3 +68658,46 @@ Genres: Casual, Indie, Sports, Free To Play
 Link: https://store.steampowered.com/app/5017990
 ==================================================
 
+
+--- Run: 2026-08-25 21:15:22 --- (5 new game(s) found)
+
+==================================================
+Name: Holey Ship
+Release Date: Aug 25, 2026
+Price: $6.29 (-10%, was $6.99)
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/4475470
+==================================================
+
+==================================================
+Name: BARD'S FAULT
+Release Date: Aug 25, 2026
+Price: $8.49 (-15%, was $9.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/3195470
+==================================================
+
+==================================================
+Name: Desktop & Dungeon
+Release Date: Aug 25, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Casual, RPG
+Link: https://store.steampowered.com/app/4970590
+==================================================
+
+==================================================
+Name: Ride It!
+Release Date: Aug 25, 2026
+Price: $2.52 (-10%, was $2.80)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4814510
+==================================================
+
+==================================================
+Name: Gold Coast Gambits: Boca Raton & Palm Beach
+Release Date: Aug 25, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/4307400
+==================================================
+
