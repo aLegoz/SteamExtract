@@ -68112,3 +68112,30 @@ Genres: Action, Casual, Indie, Simulation
 Link: https://store.steampowered.com/app/4866520
 ==================================================
 
+
+--- Run: 2026-08-25 03:37:22 --- (3 new game(s) found)
+
+==================================================
+Name: Base Station Sync
+Release Date: Aug 24, 2026
+Price: $2.99 (-40%, was $4.99)
+Genres: Utilities
+Link: https://store.steampowered.com/app/4989130
+==================================================
+
+==================================================
+Name: CityExplorer
+Release Date: Aug 24, 2026
+Price: $4.79 (-40%, was $7.99)
+Genres: Action, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4911410
+==================================================
+
+==================================================
+Name: They Come In Boxes
+Release Date: Aug 24, 2026
+Price: $5.99
+Genres: Action, Indie, Strategy
+Link: https://store.steampowered.com/app/5052150
+==================================================
+
