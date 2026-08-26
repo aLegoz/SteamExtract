@@ -69111,3 +69111,54 @@ Genres: Action, Adventure, Casual, Indie, Simulation
 Link: https://store.steampowered.com/app/5066410
 ==================================================
 
+
+--- Run: 2026-08-26 13:43:24 --- (6 new game(s) found)
+
+==================================================
+Name: Fractured Worlds
+Release Date: Aug 26, 2026
+Price: $20.69 (-10%, was $22.99)
+Genres: Action, RPG
+Link: https://store.steampowered.com/app/1879860
+==================================================
+
+==================================================
+Name: Click the Button
+Release Date: Aug 26, 2026
+Price: $3.39 (-15%, was $3.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/3946950
+==================================================
+
+==================================================
+Name: Tilky Engine
+Release Date: Aug 26, 2026
+Price: Free to Play
+Genres: Free To Play, Design & Illustration, Utilities, Game Development
+Link: https://store.steampowered.com/app/4956400
+==================================================
+
+==================================================
+Name: Zone Sweeper
+Release Date: Aug 26, 2026
+Price: Free to Play
+Genres: Casual, Indie, RPG, Free To Play
+Link: https://store.steampowered.com/app/4959960
+==================================================
+
+==================================================
+Name: Bloom Cats
+Release Date: Aug 26, 2026
+Price: $1.99
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4967970
+==================================================
+
+==================================================
+Name: Puzzles Reptiles
+Release Date: Aug 26, 2026
+Price: $1.19 (-40%, was $1.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4936780
+==================================================
+
