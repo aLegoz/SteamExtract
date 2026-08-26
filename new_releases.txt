@@ -68766,3 +68766,14 @@ Genres: Adventure, Indie, RPG
 Link: https://store.steampowered.com/app/4507910
 ==================================================
 
+
+--- Run: 2026-08-26 02:16:22 --- (1 new game(s) found)
+
+==================================================
+Name: INvent
+Release Date: Aug 25, 2026
+Price: $5.09 (-15%, was $5.99)
+Genres: Indie
+Link: https://store.steampowered.com/app/5062450
+==================================================
+
