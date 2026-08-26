@@ -69189,3 +69189,78 @@ Genres: Adventure, Casual, Indie, RPG, Simulation, Strategy, Free To Play
 Link: https://store.steampowered.com/app/4958080
 ==================================================
 
+
+--- Run: 2026-08-26 16:07:46 --- (9 new game(s) found)
+
+==================================================
+Name: Idle Fleet
+Release Date: Aug 26, 2026
+Price: $2.79 (-30%, was $3.99)
+Genres: Casual, Indie, Massively Multiplayer, RPG, Simulation
+Link: https://store.steampowered.com/app/4939470
+==================================================
+
+==================================================
+Name: Water You Doing?
+Release Date: Aug 26, 2026
+Price: $5.99 (-25%, was $7.99)
+Genres: Action, Adventure
+Link: https://store.steampowered.com/app/4429930
+==================================================
+
+==================================================
+Name: Fell & Sell
+Release Date: Aug 26, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Action, RPG, Simulation
+Link: https://store.steampowered.com/app/4627110
+==================================================
+
+==================================================
+Name: BRIGANDINE ABYSS
+Release Date: Aug 26, 2026
+Price: $49.99
+Genres: Simulation, Strategy
+Link: https://store.steampowered.com/app/3211430
+==================================================
+
+==================================================
+Name: Optasia: The Last Visit
+Release Date: Aug 26, 2026
+Price: $5.99
+Genres: Adventure, Casual
+Link: https://store.steampowered.com/app/4018570
+==================================================
+
+==================================================
+Name: GHOSTFLIPPERS
+Release Date: Aug 26, 2026
+Price: $9.89 (-34%, was $14.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/4631500
+==================================================
+
+==================================================
+Name: Night Rolls Cozy Store
+Release Date: Aug 26, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/965190
+==================================================
+
+==================================================
+Name: Police Officer
+Release Date: Aug 26, 2026
+Price: $9.95 (-17%, was $11.99)
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/4281060
+==================================================
+
+==================================================
+Name: Endless Silent Night
+Release Date: Aug 26, 2026
+Price: $17.99 (-10%, was $19.99)
+Genres: Adventure
+Link: https://store.steampowered.com/app/4703320
+==================================================
+
