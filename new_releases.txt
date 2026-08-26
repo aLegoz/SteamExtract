@@ -69014,3 +69014,22 @@ Genres: Indie, Education, Utilities
 Link: https://store.steampowered.com/app/4981260
 ==================================================
 
+
+--- Run: 2026-08-26 10:22:12 --- (2 new game(s) found)
+
+==================================================
+Name: TomoBuddy
+Release Date: Aug 26, 2026
+Price: $4.99
+Genres: Casual, Simulation
+Link: https://store.steampowered.com/app/4981910
+==================================================
+
+==================================================
+Name: The 1% Club World Challenge
+Release Date: Aug 26, 2026
+Price: $9.99
+Genres: Casual
+Link: https://store.steampowered.com/app/4461210
+==================================================
+
