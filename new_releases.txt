@@ -68858,3 +68858,22 @@ Genres: Action, Adventure, Indie, Massively Multiplayer, Simulation, Strategy, F
 Link: https://store.steampowered.com/app/5007590
 ==================================================
 
+
+--- Run: 2026-08-26 06:24:55 --- (2 new game(s) found)
+
+==================================================
+Name: Astral Archive
+Release Date: Aug 25, 2026
+Price: $2.69 (-10%, was $2.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4636840
+==================================================
+
+==================================================
+Name: Cane Gatto Stivali
+Release Date: Aug 25, 2026
+Price: $1.79 (-10%, was $1.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/4934670
+==================================================
+
