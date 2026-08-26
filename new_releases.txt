@@ -68812,3 +68812,22 @@ Genres: Adventure, Simulation
 Link: https://store.steampowered.com/app/4901210
 ==================================================
 
+
+--- Run: 2026-08-26 04:27:35 --- (2 new game(s) found)
+
+==================================================
+Name: a dead astronaut in space
+Release Date: Aug 25, 2026
+Price: $0.89 (-10%, was $0.99)
+Genres: Casual, Indie, RPG, Simulation
+Link: https://store.steampowered.com/app/5026730
+==================================================
+
+==================================================
+Name: Hentiles
+Release Date: Aug 25, 2026
+Price: $0.89 (-10%, was $0.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5050960
+==================================================
+
