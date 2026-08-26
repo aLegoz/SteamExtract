@@ -69052,3 +69052,62 @@ Genres: Casual, Indie
 Link: https://store.steampowered.com/app/3376500
 ==================================================
 
+
+--- Run: 2026-08-26 12:23:18 --- (7 new game(s) found)
+
+==================================================
+Name: Shadow Dungeon
+Release Date: Aug 26, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Action, Adventure, RPG
+Link: https://store.steampowered.com/app/4423580
+==================================================
+
+==================================================
+Name: Axis Football 2027
+Release Date: Aug 26, 2026
+Price: $19.99
+Genres: Indie, Simulation, Sports, Strategy
+Link: https://store.steampowered.com/app/5026790
+==================================================
+
+==================================================
+Name: BRICK - One Block at a Time
+Release Date: Aug 26, 2026
+Price: Free to Play
+Genres: Action, Free To Play
+Link: https://store.steampowered.com/app/5042570
+==================================================
+
+==================================================
+Name: A Game About Shooting Ducks
+Release Date: Aug 26, 2026
+Price: $5.94 (-15%, was $6.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4858190
+==================================================
+
+==================================================
+Name: Futa Succubus Slay!
+Release Date: Aug 26, 2026
+Price: $12.99
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/4526440
+==================================================
+
+==================================================
+Name: Makarov Physics Suite
+Release Date: Aug 26, 2026
+Price: $19.99 (-20%, was $24.99)
+Genres: Casual, Indie, Simulation, Education
+Link: https://store.steampowered.com/app/4861360
+==================================================
+
+==================================================
+Name: CapyCam
+Release Date: Aug 26, 2026
+Price: $1.19 (-40%, was $1.99)
+Genres: Action, Adventure, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5066410
+==================================================
+
