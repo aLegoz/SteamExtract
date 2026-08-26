@@ -68971,3 +68971,46 @@ Genres: Action, Casual, Indie
 Link: https://store.steampowered.com/app/4607780
 ==================================================
 
+
+--- Run: 2026-08-26 09:28:04 --- (5 new game(s) found)
+
+==================================================
+Name: Everything Must Fall
+Release Date: Aug 26, 2026
+Price: $3.74 (-25%, was $4.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/623800
+==================================================
+
+==================================================
+Name: Pickle Pete
+Release Date: Aug 26, 2026
+Price: $4.95 (-38%, was $7.99)
+Genres: Action, Casual, RPG
+Link: https://store.steampowered.com/app/3963030
+==================================================
+
+==================================================
+Name: Gem Party
+Release Date: Aug 26, 2026
+Price: Free to Play
+Genres: Action, Casual, Indie, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4459610
+==================================================
+
+==================================================
+Name: Nocto And The Ray Of Light
+Release Date: Aug 26, 2026
+Price: $8.39 (-40%, was $13.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/4440400
+==================================================
+
+==================================================
+Name: Art of Breathing
+Release Date: Aug 25, 2026
+Price: $5.59 (-20%, was $6.99)
+Genres: Indie, Education, Utilities
+Link: https://store.steampowered.com/app/4981260
+==================================================
+
