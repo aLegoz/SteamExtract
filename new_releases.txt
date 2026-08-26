@@ -69162,3 +69162,30 @@ Genres: Casual, Indie
 Link: https://store.steampowered.com/app/4936780
 ==================================================
 
+
+--- Run: 2026-08-26 14:32:05 --- (3 new game(s) found)
+
+==================================================
+Name: Now THAT'S a Big Dragon!
+Release Date: Aug 26, 2026
+Price: $5.59 (-20%, was $6.99)
+Genres: Action, Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/3834590
+==================================================
+
+==================================================
+Name: Barbarian
+Release Date: Aug 26, 2026
+Price: $6.49 (-35%, was $9.99)
+Genres: Action, Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/1475300
+==================================================
+
+==================================================
+Name: Homunculus: The Little One in the Flask
+Release Date: Aug 26, 2026
+Price: Free to Play
+Genres: Adventure, Casual, Indie, RPG, Simulation, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4958080
+==================================================
+
