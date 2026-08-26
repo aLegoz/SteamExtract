@@ -69033,3 +69033,22 @@ Genres: Casual
 Link: https://store.steampowered.com/app/4461210
 ==================================================
 
+
+--- Run: 2026-08-26 11:18:04 --- (2 new game(s) found)
+
+==================================================
+Name: 铜刀银剑
+Release Date: Aug 26, 2026
+Price: $7.59 (-18%, was $9.26)
+Genres: Adventure, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/3315770
+==================================================
+
+==================================================
+Name: Little Chef: Cozy Cooking
+Release Date: Aug 26, 2026
+Price: $7.99
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/3376500
+==================================================
+
