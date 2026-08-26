@@ -68831,3 +68831,30 @@ Genres: Casual, Indie
 Link: https://store.steampowered.com/app/5050960
 ==================================================
 
+
+--- Run: 2026-08-26 05:21:10 --- (3 new game(s) found)
+
+==================================================
+Name: おかゆにゅ～～む！R ~Okayunyumu！R~
+Release Date: Aug 25, 2026
+Price: $21.50
+Genres: Adventure
+Link: https://store.steampowered.com/app/4580450
+==================================================
+
+==================================================
+Name: A PhD Simulator - Publish & Perish
+Release Date: Aug 25, 2026
+Price: $7.99
+Genres: Casual, Indie, RPG, Simulation
+Link: https://store.steampowered.com/app/4970570
+==================================================
+
+==================================================
+Name: Abys Orbit
+Release Date: Aug 25, 2026
+Price: Free to Play
+Genres: Action, Adventure, Indie, Massively Multiplayer, Simulation, Strategy, Free To Play
+Link: https://store.steampowered.com/app/5007590
+==================================================
+
