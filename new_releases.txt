@@ -68904,3 +68904,70 @@ Genres: Action, Indie, RPG
 Link: https://store.steampowered.com/app/4258240
 ==================================================
 
+
+--- Run: 2026-08-26 08:27:59 --- (8 new game(s) found)
+
+==================================================
+Name: States of Power
+Release Date: Aug 26, 2026
+Price: $10.19 (-15%, was $11.99)
+Genres: Simulation, Strategy
+Link: https://store.steampowered.com/app/3126500
+==================================================
+
+==================================================
+Name: Truck Manager Australia
+Release Date: Aug 26, 2026
+Price: $19.99
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4299910
+==================================================
+
+==================================================
+Name: SHIROKUMA KING
+Release Date: Aug 26, 2026
+Price: Free to Play
+Genres: Casual, Indie, Simulation, Free To Play
+Link: https://store.steampowered.com/app/5073250
+==================================================
+
+==================================================
+Name: Goblins Can Conquer
+Release Date: Aug 26, 2026
+Price: $4.89 (-30%, was $6.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4404110
+==================================================
+
+==================================================
+Name: Quickie Takeout
+Release Date: Aug 26, 2026
+Price: $6.39 (-20%, was $7.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4928510
+==================================================
+
+==================================================
+Name: Poncik's Little Tragedy
+Release Date: Aug 26, 2026
+Price: Free to Play
+Genres: Adventure, Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/5070360
+==================================================
+
+==================================================
+Name: OUTERPLANE
+Release Date: Aug 26, 2026
+Price: Free to Play
+Genres: Action, RPG, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4247320
+==================================================
+
+==================================================
+Name: KESU-JI
+Release Date: Aug 26, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4607780
+==================================================
+
