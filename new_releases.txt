@@ -69264,3 +69264,134 @@ Genres: Adventure
 Link: https://store.steampowered.com/app/4703320
 ==================================================
 
+
+--- Run: 2026-08-26 18:46:05 --- (16 new game(s) found)
+
+==================================================
+Name: Embermaze: Descent
+Release Date: Aug 26, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/5013050
+==================================================
+
+==================================================
+Name: Tough Love Arena
+Release Date: Aug 26, 2026
+Price: $9.59 (-20%, was $11.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/1807330
+==================================================
+
+==================================================
+Name: Flyra: FPV Drone Simulator
+Release Date: Aug 26, 2026
+Price: $10.91 (-16%, was $12.99)
+Genres: Racing, Simulation
+Link: https://store.steampowered.com/app/4075900
+==================================================
+
+==================================================
+Name: SHINRAI Saku - Blooming Beyond Despair
+Release Date: Aug 26, 2026
+Price: $7.99
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/3941070
+==================================================
+
+==================================================
+Name: The Memory Library
+Release Date: Aug 26, 2026
+Price: $6.79 (-15%, was $7.99)
+Genres: Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/5057990
+==================================================
+
+==================================================
+Name: CQ: Calling Any Station
+Release Date: Aug 26, 2026
+Price: $5.09 (-15%, was $5.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5065740
+==================================================
+
+==================================================
+Name: Find My Frogs: Branches
+Release Date: Aug 26, 2026
+Price: $4.49 (-25%, was $5.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/3948760
+==================================================
+
+==================================================
+Name: Blood & Lineage
+Release Date: Aug 26, 2026
+Price: Free to Play
+Genres: Action, RPG, Free To Play
+Link: https://store.steampowered.com/app/4653740
+==================================================
+
+==================================================
+Name: Swordoria
+Release Date: Aug 26, 2026
+Price: Free to Play
+Genres: Casual, Indie, RPG, Free To Play
+Link: https://store.steampowered.com/app/4954490
+==================================================
+
+==================================================
+Name: Folk Emerging
+Release Date: Aug 26, 2026
+Price: $22.49 (-10%, was $24.99)
+Genres: Indie, RPG, Simulation, Strategy
+Link: https://store.steampowered.com/app/2275300
+==================================================
+
+==================================================
+Name: The Grand Slamboree
+Release Date: Aug 26, 2026
+Price: $7.64 (-15%, was $8.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4130860
+==================================================
+
+==================================================
+Name: Roots in the Sky - The Hand of Glory 2
+Release Date: Aug 26, 2026
+Price: $16.99 (-15%, was $19.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/2062380
+==================================================
+
+==================================================
+Name: Beanman Gets His Cool Back
+Release Date: Aug 26, 2026
+Price: Free to Play
+Genres: Adventure, Casual, Indie, RPG, Free To Play
+Link: https://store.steampowered.com/app/4863650
+==================================================
+
+==================================================
+Name: Femboy Dormmate
+Release Date: Aug 26, 2026
+Price: $7.64 (-15%, was $8.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4876120
+==================================================
+
+==================================================
+Name: Train Plus Japan Drive Western Japan Trains! Rapid Service Edition
+Release Date: Aug 26, 2026
+Price: $56.54 (-13%, was $64.99)
+Genres: Action, Casual, Racing, Simulation, Strategy
+Link: https://store.steampowered.com/app/4982590
+==================================================
+
+==================================================
+Name: Model Debut4
+Release Date: Aug 26, 2026
+Price: $35.99 (-10%, was $39.99)
+Genres: Simulation
+Link: https://store.steampowered.com/app/4588140
+==================================================
+
