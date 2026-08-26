@@ -68777,3 +68777,38 @@ Genres: Indie
 Link: https://store.steampowered.com/app/5062450
 ==================================================
 
+
+--- Run: 2026-08-26 03:42:01 --- (4 new game(s) found)
+
+==================================================
+Name: Express 404
+Release Date: Aug 25, 2026
+Price: $3.59 (-10%, was $3.99)
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/4329710
+==================================================
+
+==================================================
+Name: 少女的幻想乐园
+Release Date: Aug 25, 2026
+Price: $2.09 (-30%, was $2.99)
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/4503490
+==================================================
+
+==================================================
+Name: A Couple Nights At The Chud House
+Release Date: Aug 25, 2026
+Price: $0.99
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/5061820
+==================================================
+
+==================================================
+Name: Elective Affair
+Release Date: Aug 25, 2026
+Price: $4.19 (-40%, was $6.99)
+Genres: Adventure, Simulation
+Link: https://store.steampowered.com/app/4901210
+==================================================
+
