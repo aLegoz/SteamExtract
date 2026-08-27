@@ -69470,3 +69470,78 @@ Genres: Casual, Indie
 Link: https://store.steampowered.com/app/4941130
 ==================================================
 
+
+--- Run: 2026-08-27 02:20:15 --- (9 new game(s) found)
+
+==================================================
+Name: N in One Card: Klondike, Spider, FreeCell, Hearts & Blackjack
+Release Date: Aug 26, 2026
+Price: $12.99
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4984130
+==================================================
+
+==================================================
+Name: COCORO
+Release Date: Aug 26, 2026
+Price: $19.99 (-20%, was $24.99)
+Genres: Adventure, Casual
+Link: https://store.steampowered.com/app/4650950
+==================================================
+
+==================================================
+Name: DoDonPachi Resurrection Reignite
+Release Date: Aug 26, 2026
+Price: $22.49 (-10%, was $24.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4517190
+==================================================
+
+==================================================
+Name: 伴星VR
+Release Date: Aug 26, 2026
+Price: $0.99
+Genres: Casual, Simulation
+Link: https://store.steampowered.com/app/5011030
+==================================================
+
+==================================================
+Name: Lust Share House
+Release Date: Aug 26, 2026
+Price: $7.19 (-20%, was $8.99)
+Genres: Adventure, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4924510
+==================================================
+
+==================================================
+Name: The Lands of Hyberian
+Release Date: Aug 26, 2026
+Price: $4.99
+Genres: Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/2521480
+==================================================
+
+==================================================
+Name: The Magical girl Childhood friend lives Next Door
+Release Date: Aug 26, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Adventure, Simulation
+Link: https://store.steampowered.com/app/4950050
+==================================================
+
+==================================================
+Name: Instant Penetration!? Naked Island Hide and Seek Tournament
+Release Date: Aug 26, 2026
+Price: $12.00
+Genres: Action
+Link: https://store.steampowered.com/app/4999800
+==================================================
+
+==================================================
+Name: Typing Clash
+Release Date: Aug 26, 2026
+Price: $3.60 (-20%, was $4.50)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/3562030
+==================================================
+
