@@ -69732,3 +69732,198 @@ Genres: Casual, Indie, RPG, Strategy
 Link: https://store.steampowered.com/app/4223200
 ==================================================
 
+
+--- Run: 2026-08-27 23:18:28 --- (24 new game(s) found)
+
+==================================================
+Name: DeadTide
+Release Date: Aug 27, 2026
+Price: $1.99
+Genres: Action, Indie, RPG
+Link: https://store.steampowered.com/app/5008300
+==================================================
+
+==================================================
+Name: Bump Guardian
+Release Date: Aug 27, 2026
+Price: $4.79 (-20%, was $5.99)
+Genres: Casual, Simulation, Strategy
+Link: https://store.steampowered.com/app/4328670
+==================================================
+
+==================================================
+Name: Sound Syndicate
+Release Date: Aug 27, 2026
+Price: $19.00
+Genres: Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4928630
+==================================================
+
+==================================================
+Name: Voice2Action
+Release Date: Aug 27, 2026
+Price: Free to Play
+Genres: Free To Play, Utilities
+Link: https://store.steampowered.com/app/3983740
+==================================================
+
+==================================================
+Name: Nitrokill
+Release Date: Aug 27, 2026
+Price: $7.64 (-15%, was $8.99)
+Genres: Action, Indie, Racing
+Link: https://store.steampowered.com/app/4067580
+==================================================
+
+==================================================
+Name: Cryptogram
+Release Date: Aug 27, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/5001520
+==================================================
+
+==================================================
+Name: Can I Come In?
+Release Date: Aug 27, 2026
+Price: $3.99
+Genres: Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/4969200
+==================================================
+
+==================================================
+Name: Package Piles: Tidy Up The Warehouse!
+Release Date: Aug 27, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5050640
+==================================================
+
+==================================================
+Name: 123 Slaughter Me Street Retro
+Release Date: Aug 27, 2026
+Price: $2.99
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4365720
+==================================================
+
+==================================================
+Name: U TSU TSU TSU
+Release Date: Aug 27, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Adventure
+Link: https://store.steampowered.com/app/4423590
+==================================================
+
+==================================================
+Name: Meow Familiar World
+Release Date: Aug 27, 2026
+Price: $14.99
+Genres: Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/3980360
+==================================================
+
+==================================================
+Name: Pod's Itty Bitty Adventure
+Release Date: Aug 27, 2026
+Price: $5.00
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/4551640
+==================================================
+
+==================================================
+Name: Let's Find Cats Inside the Human Body
+Release Date: Aug 27, 2026
+Price: $1.79 (-10%, was $1.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4561610
+==================================================
+
+==================================================
+Name: Race Jam
+Release Date: Aug 27, 2026
+Price: $15.99 (-20%, was $19.99)
+Genres: Action, Racing, Sports
+Link: https://store.steampowered.com/app/3474450
+==================================================
+
+==================================================
+Name: Cyber Breaker
+Release Date: Aug 27, 2026
+Price: $6.29 (-10%, was $6.99)
+Genres: Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/3933080
+==================================================
+
+==================================================
+Name: Sweet Honey 2
+Release Date: Aug 27, 2026
+Price: $0.89 (-10%, was $0.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4748650
+==================================================
+
+==================================================
+Name: Fire Everything!
+Release Date: Aug 27, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Action
+Link: https://store.steampowered.com/app/4761110
+==================================================
+
+==================================================
+Name: Black Tower Enigma
+Release Date: Aug 27, 2026
+Price: $6.39 (-20%, was $7.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/3895720
+==================================================
+
+==================================================
+Name: Hentai Magic Helena
+Release Date: Aug 27, 2026
+Price: $0.64 (-35%, was $0.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4958200
+==================================================
+
+==================================================
+Name: The Blood Mage 2 by Daniel da Silva
+Release Date: Aug 27, 2026
+Price: $3.59 (-10%, was $3.99)
+Genres: Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/4644100
+==================================================
+
+==================================================
+Name: Chained Parkour Together
+Release Date: Aug 27, 2026
+Price: $0.49 (-51%, was $0.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/5068360
+==================================================
+
+==================================================
+Name: MetaHustle One
+Release Date: Aug 27, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Action
+Link: https://store.steampowered.com/app/4556780
+==================================================
+
+==================================================
+Name: Orb Breaker
+Release Date: Aug 27, 2026
+Price: $2.99 (-40%, was $4.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4261030
+==================================================
+
+==================================================
+Name: Just Keep Fishing
+Release Date: Aug 27, 2026
+Price: $4.89 (-30%, was $6.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4601160
+==================================================
+
