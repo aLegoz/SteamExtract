@@ -69545,3 +69545,190 @@ Genres: Casual, Indie, Strategy
 Link: https://store.steampowered.com/app/3562030
 ==================================================
 
+
+--- Run: 2026-08-27 13:14:19 --- (23 new game(s) found)
+
+==================================================
+Name: PlayIndex
+Release Date: Aug 27, 2026
+Price: $7.19 (-10%, was $7.99)
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4672510
+==================================================
+
+==================================================
+Name: FRESHIE SISTERS
+Release Date: Aug 27, 2026
+Price: $8.83 (-32%, was $12.99)
+Genres: Action, Adventure, Casual, Indie, RPG, Simulation
+Link: https://store.steampowered.com/app/4911470
+==================================================
+
+==================================================
+Name: SHRIMP GAME: OVERKRILL
+Release Date: Aug 27, 2026
+Price: $9.59 (-20%, was $11.99)
+Genres: Action, Indie, RPG
+Link: https://store.steampowered.com/app/2824880
+==================================================
+
+==================================================
+Name: Rabbit Claw Party
+Release Date: Aug 27, 2026
+Price: $1.79 (-10%, was $1.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4750930
+==================================================
+
+==================================================
+Name: Pandora Battle
+Release Date: Aug 27, 2026
+Price: $2.09 (-30%, was $2.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4972140
+==================================================
+
+==================================================
+Name: CRUSH IT ALL
+Release Date: Aug 27, 2026
+Price: $0.59 (-40%, was $0.99)
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/4911790
+==================================================
+
+==================================================
+Name: Mistbound City
+Release Date: Aug 27, 2026
+Price: Free to Play
+Genres: Adventure, Free To Play
+Link: https://store.steampowered.com/app/5051410
+==================================================
+
+==================================================
+Name: Animal Falling
+Release Date: Aug 27, 2026
+Price: $4.95 (-38%, was $7.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/2657140
+==================================================
+
+==================================================
+Name: Thoughtless
+Release Date: Aug 27, 2026
+Price: $5.80 (-27%, was $7.95)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4537550
+==================================================
+
+==================================================
+Name: The Old Flesh of Nuraga
+Release Date: Aug 27, 2026
+Price: $3.59 (-10%, was $3.99)
+Genres: Adventure
+Link: https://store.steampowered.com/app/4588930
+==================================================
+
+==================================================
+Name: My Party Is Grinding
+Release Date: Aug 27, 2026
+Price: Free to Play
+Genres: RPG, Free To Play
+Link: https://store.steampowered.com/app/4952980
+==================================================
+
+==================================================
+Name: WebCam: Behind The Screen
+Release Date: Aug 27, 2026
+Price: $13.49 (-10%, was $14.99)
+Genres: Casual, Indie, RPG, Simulation
+Link: https://store.steampowered.com/app/4341260
+==================================================
+
+==================================================
+Name: Question Roulette
+Release Date: Aug 27, 2026
+Price: $6.79 (-15%, was $7.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4246780
+==================================================
+
+==================================================
+Name: Reborn
+Release Date: Aug 27, 2026
+Price: $15.29 (-10%, was $16.99)
+Genres: Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/4338190
+==================================================
+
+==================================================
+Name: Planet Genesis 2
+Release Date: Aug 27, 2026
+Price: Free to Play
+Genres: Casual, Simulation, Free To Play
+Link: https://store.steampowered.com/app/5072730
+==================================================
+
+==================================================
+Name: Minenumbing
+Release Date: Aug 27, 2026
+Price: $3.49
+Genres: Action, Indie, Strategy
+Link: https://store.steampowered.com/app/5009520
+==================================================
+
+==================================================
+Name: Sketch Clash
+Release Date: Aug 27, 2026
+Price: $2.99
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/3999180
+==================================================
+
+==================================================
+Name: 捉迷藏 - Hide and Seek
+Release Date: Aug 27, 2026
+Price: Free to Play
+Genres: Adventure, Indie, RPG, Free To Play
+Link: https://store.steampowered.com/app/4672200
+==================================================
+
+==================================================
+Name: BOMBER-ANGEL BOMBRIEL -FOREVER THE KINGS-
+Release Date: Aug 27, 2026
+Price: $4.99
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/5074210
+==================================================
+
+==================================================
+Name: Lou's Lagoon
+Release Date: Aug 26, 2026
+Price: $22.49 (-10%, was $24.99)
+Genres: Adventure, Simulation
+Link: https://store.steampowered.com/app/2100020
+==================================================
+
+==================================================
+Name: Memory Brew: Tales of Underworld
+Release Date: Aug 26, 2026
+Price: $9.89 (-10%, was $10.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4489930
+==================================================
+
+==================================================
+Name: The Rich Die First
+Release Date: Aug 26, 2026
+Price: $2.99 (-40%, was $4.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4889620
+==================================================
+
+==================================================
+Name: Ars Mechanica
+Release Date: Aug 26, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Casual, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/4223200
+==================================================
+
