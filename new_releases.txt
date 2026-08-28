@@ -69927,3 +69927,230 @@ Genres: Casual, Indie
 Link: https://store.steampowered.com/app/4601160
 ==================================================
 
+
+--- Run: 2026-08-28 07:21:18 --- (28 new game(s) found)
+
+==================================================
+Name: Alice's Gaze
+Release Date: Aug 27, 2026
+Price: $3.59 (-10%, was $3.99)
+Genres: Casual, Indie, RPG, Simulation, Strategy
+Link: https://store.steampowered.com/app/4529120
+==================================================
+
+==================================================
+Name: The Too-Cute Girl Who Moved in Next Door
+Release Date: Aug 27, 2026
+Price: $18.69 (-15%, was $21.99)
+Genres: Simulation
+Link: https://store.steampowered.com/app/4483210
+==================================================
+
+==================================================
+Name: Catnip Wars
+Release Date: Aug 27, 2026
+Price: $9.99
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/5011800
+==================================================
+
+==================================================
+Name: Toby's Carrot Patch
+Release Date: Aug 27, 2026
+Price: Free to Play
+Genres: Casual, Indie, Simulation, Free To Play
+Link: https://store.steampowered.com/app/5009050
+==================================================
+
+==================================================
+Name: Island Off Outer Dancing
+Release Date: Aug 27, 2026
+Price: Free to Play
+Genres: Indie, Free To Play
+Link: https://store.steampowered.com/app/4584700
+==================================================
+
+==================================================
+Name: HexLight
+Release Date: Aug 27, 2026
+Price: $13.49 (-10%, was $14.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4899850
+==================================================
+
+==================================================
+Name: The Day of Revenge
+Release Date: Aug 27, 2026
+Price: $1.59 (-20%, was $1.99)
+Genres: Indie, RPG
+Link: https://store.steampowered.com/app/4849180
+==================================================
+
+==================================================
+Name: Last Breath 最后的气息
+Release Date: Aug 27, 2026
+Price: $6.29 (-10%, was $6.99)
+Genres: Action, Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/4298500
+==================================================
+
+==================================================
+Name: Drown in Yesterday's Sea
+Release Date: Aug 27, 2026
+Price: $1.59 (-20%, was $1.99)
+Genres: Indie, RPG
+Link: https://store.steampowered.com/app/4849190
+==================================================
+
+==================================================
+Name: GatoCat World Maker
+Release Date: Aug 27, 2026
+Price: $2.39 (-20%, was $2.99)
+Genres: Casual, Indie, Game Development
+Link: https://store.steampowered.com/app/4523410
+==================================================
+
+==================================================
+Name: 问道长歌
+Release Date: Aug 27, 2026
+Price: Free to Play
+Genres: Action, Adventure, Casual, Massively Multiplayer, RPG, Simulation, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4802070
+==================================================
+
+==================================================
+Name: TARO IS BACK
+Release Date: Aug 27, 2026
+Price: $9.00 (-40%, was $15.00)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4595220
+==================================================
+
+==================================================
+Name: Tap Dungeon
+Release Date: Aug 27, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/4676750
+==================================================
+
+==================================================
+Name: Soulreign
+Release Date: Aug 27, 2026
+Price: $7.99
+Genres: RPG, Strategy
+Link: https://store.steampowered.com/app/4748420
+==================================================
+
+==================================================
+Name: For Stella
+Release Date: Aug 27, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: Indie
+Link: https://store.steampowered.com/app/1142040
+==================================================
+
+==================================================
+Name: Bluff Roulette
+Release Date: Aug 27, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/3649710
+==================================================
+
+==================================================
+Name: 猎国沉默专属
+Release Date: Aug 27, 2026
+Price: Free to Play
+Genres: Action, Adventure, Massively Multiplayer, RPG, Free To Play
+Link: https://store.steampowered.com/app/4937570
+==================================================
+
+==================================================
+Name: Destined Notes : The Written Fate
+Release Date: Aug 27, 2026
+Price: $3.99
+Genres: Action, Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/3612730
+==================================================
+
+==================================================
+Name: Dungeons And Cat
+Release Date: Aug 27, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Action, Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/1526540
+==================================================
+
+==================================================
+Name: Tactical Annihilation
+Release Date: Aug 27, 2026
+Price: $12.79 (-20%, was $15.99)
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/3345550
+==================================================
+
+==================================================
+Name: Mall Rivals
+Release Date: Aug 27, 2026
+Price: $10.49 (-30%, was $14.99)
+Genres: Simulation
+Link: https://store.steampowered.com/app/4090330
+==================================================
+
+==================================================
+Name: Ghostly Simulator—— Your Neighboring Ghost Story Collection
+Release Date: Aug 27, 2026
+Price: Free to Play
+Genres: Casual, Indie, Simulation, Free To Play
+Link: https://store.steampowered.com/app/4587730
+==================================================
+
+==================================================
+Name: Slime Girl Smoothies Encore!
+Release Date: Aug 27, 2026
+Price: $16.99 (-15%, was $19.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/4132170
+==================================================
+
+==================================================
+Name: A Game About Scoring 1,000,000,000,000 Points
+Release Date: Aug 27, 2026
+Price: $4.99
+Genres: Casual, Indie, Sports
+Link: https://store.steampowered.com/app/5004940
+==================================================
+
+==================================================
+Name: Saga of Yurina
+Release Date: Aug 27, 2026
+Price: $4.99
+Genres: Action, Adventure, RPG
+Link: https://store.steampowered.com/app/3894600
+==================================================
+
+==================================================
+Name: PNR: Point of No return
+Release Date: Aug 27, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4733100
+==================================================
+
+==================================================
+Name: Mukmil
+Release Date: Aug 27, 2026
+Price: $5.50
+Genres: Adventure
+Link: https://store.steampowered.com/app/4875370
+==================================================
+
+==================================================
+Name: Business Defence
+Release Date: Aug 27, 2026
+Price: $7.19 (-10%, was $7.99)
+Genres: Action, Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4540010
+==================================================
+
