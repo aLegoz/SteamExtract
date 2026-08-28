@@ -70154,3 +70154,238 @@ Genres: Action, Casual, Indie, Strategy
 Link: https://store.steampowered.com/app/4540010
 ==================================================
 
+
+--- Run: 2026-08-28 19:42:20 --- (29 new game(s) found)
+
+==================================================
+Name: Carnage Mania
+Release Date: Aug 28, 2026
+Price: $7.49 (-25%, was $9.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/5071800
+==================================================
+
+==================================================
+Name: Daily War Online
+Release Date: Aug 28, 2026
+Price: $3.74 (-25%, was $4.99)
+Genres: Casual, Strategy
+Link: https://store.steampowered.com/app/4875450
+==================================================
+
+==================================================
+Name: Solipsistic
+Release Date: Aug 28, 2026
+Price: Free to Play
+Genres: Action, Adventure, Indie, Free To Play
+Link: https://store.steampowered.com/app/4819820
+==================================================
+
+==================================================
+Name: Mags and Body Bags
+Release Date: Aug 28, 2026
+Price: Free to Play
+Genres: Action, Free To Play
+Link: https://store.steampowered.com/app/3735690
+==================================================
+
+==================================================
+Name: Nekopedia: Find Her Tail
+Release Date: Aug 28, 2026
+Price: $2.39 (-20%, was $2.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/3905730
+==================================================
+
+==================================================
+Name: Minesweeper 3D
+Release Date: Aug 28, 2026
+Price: $29.99 (-40%, was $49.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5050720
+==================================================
+
+==================================================
+Name: Reborn Arena
+Release Date: Aug 28, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Action, Indie, Strategy
+Link: https://store.steampowered.com/app/4621340
+==================================================
+
+==================================================
+Name: Ventreville: A Cure for Sorrow
+Release Date: Aug 28, 2026
+Price: $9.99
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/2992580
+==================================================
+
+==================================================
+Name: Medieval Decklords
+Release Date: Aug 28, 2026
+Price: $6.79 (-15%, was $7.99)
+Genres: Casual, Simulation, Strategy
+Link: https://store.steampowered.com/app/4274210
+==================================================
+
+==================================================
+Name: Big Ambitions
+Release Date: Aug 28, 2026
+Price: $20.79 (-20%, was $25.99)
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/1331550
+==================================================
+
+==================================================
+Name: Eat the Rich: Greed Games
+Release Date: Aug 28, 2026
+Price: $7.19 (-10%, was $7.99)
+Genres: Action, Casual
+Link: https://store.steampowered.com/app/2234140
+==================================================
+
+==================================================
+Name: 20 Trials to Heaven
+Release Date: Aug 28, 2026
+Price: Free to Play
+Genres: Adventure, Indie, Free To Play
+Link: https://store.steampowered.com/app/5050280
+==================================================
+
+==================================================
+Name: House 2
+Release Date: Aug 28, 2026
+Price: $17.99 (-10%, was $19.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/2586440
+==================================================
+
+==================================================
+Name: Cats and Seek: Zoo
+Release Date: Aug 28, 2026
+Price: $1.79 (-10%, was $1.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/3992310
+==================================================
+
+==================================================
+Name: Alfred's Alien Abduction Adventure
+Release Date: Aug 28, 2026
+Price: $9.59 (-40%, was $15.99)
+Genres: Action, Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4065580
+==================================================
+
+==================================================
+Name: SEXY WASH PARADISE
+Release Date: Aug 28, 2026
+Price: $4.79 (-20%, was $5.99)
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/4879080
+==================================================
+
+==================================================
+Name: Trapped Out
+Release Date: Aug 28, 2026
+Price: $3.19 (-20%, was $3.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/3033430
+==================================================
+
+==================================================
+Name: Can I Take Your Order
+Release Date: Aug 28, 2026
+Price: $4.79 (-20%, was $5.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4580810
+==================================================
+
+==================================================
+Name: Undo My Seal, Senpai!
+Release Date: Aug 28, 2026
+Price: $0.69 (-30%, was $0.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4314490
+==================================================
+
+==================================================
+Name: Make Her Real
+Release Date: Aug 28, 2026
+Price: $2.39 (-20%, was $2.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/5049030
+==================================================
+
+==================================================
+Name: 上传器/Uploader
+Release Date: Aug 28, 2026
+Price: Free to Play
+Genres: Indie, RPG, Free To Play
+Link: https://store.steampowered.com/app/5024840
+==================================================
+
+==================================================
+Name: KLAST
+Release Date: Aug 28, 2026
+Price: $6.29 (-10%, was $6.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/5068020
+==================================================
+
+==================================================
+Name: CYCLE01
+Release Date: Aug 28, 2026
+Price: $5.59 (-20%, was $6.99)
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/4782770
+==================================================
+
+==================================================
+Name: Lost Hopes: Day of Betrayal
+Release Date: Aug 28, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Action, Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/5060030
+==================================================
+
+==================================================
+Name: Void Cargo: Equilibrium
+Release Date: Aug 28, 2026
+Price: $9.74 (-25%, was $12.99)
+Genres: Action, Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/4319290
+==================================================
+
+==================================================
+Name: OBITT Escape from the room
+Release Date: Aug 28, 2026
+Price: $3.19 (-20%, was $3.99)
+Genres: Action, Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4944800
+==================================================
+
+==================================================
+Name: Pharmacy Simulator: Big Pharma
+Release Date: Aug 28, 2026
+Price: $2.39 (-40%, was $3.99)
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/5040750
+==================================================
+
+==================================================
+Name: 100 Mushroom Cats
+Release Date: Aug 28, 2026
+Price: $1.59 (-20%, was $1.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4383050
+==================================================
+
+==================================================
+Name: Gosh Jam It
+Release Date: Aug 28, 2026
+Price: $7.99
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4788440
+==================================================
+
