@@ -70836,3 +70836,46 @@ Genres: Action, Adventure, Casual, Indie, RPG
 Link: https://store.steampowered.com/app/4995970
 ==================================================
 
+
+--- Run: 2026-08-29 22:52:25 --- (5 new game(s) found)
+
+==================================================
+Name: 2007
+Release Date: Aug 29, 2026
+Price: $9.99
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/2761160
+==================================================
+
+==================================================
+Name: Catch Flex
+Release Date: Aug 29, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Action, Casual, Indie, Sports
+Link: https://store.steampowered.com/app/3670810
+==================================================
+
+==================================================
+Name: Cover My Buns
+Release Date: Aug 29, 2026
+Price: $4.99
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4570250
+==================================================
+
+==================================================
+Name: Formic Fortress
+Release Date: Aug 29, 2026
+Price: $6.29 (-10%, was $6.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4687000
+==================================================
+
+==================================================
+Name: Coiled Silence
+Release Date: Aug 29, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/4829250
+==================================================
+
