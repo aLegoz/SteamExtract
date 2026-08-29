@@ -70809,3 +70809,30 @@ Genres: Adventure, Casual, Indie
 Link: https://store.steampowered.com/app/5001890
 ==================================================
 
+
+--- Run: 2026-08-29 20:17:31 --- (3 new game(s) found)
+
+==================================================
+Name: BoxR
+Release Date: Aug 29, 2026
+Price: $1.99
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/2385780
+==================================================
+
+==================================================
+Name: Shujaa
+Release Date: Aug 29, 2026
+Price: $3.59 (-10%, was $3.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/3909870
+==================================================
+
+==================================================
+Name: Exiles of the Dark Dungeon
+Release Date: Aug 29, 2026
+Price: $2.09 (-30%, was $2.99)
+Genres: Action, Adventure, Casual, Indie, RPG
+Link: https://store.steampowered.com/app/4995970
+==================================================
+
