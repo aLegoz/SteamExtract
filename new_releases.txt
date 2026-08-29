@@ -70389,3 +70389,198 @@ Genres: Action, Casual, Indie
 Link: https://store.steampowered.com/app/4788440
 ==================================================
 
+
+--- Run: 2026-08-29 02:32:17 --- (24 new game(s) found)
+
+==================================================
+Name: Case - قضية
+Release Date: Aug 28, 2026
+Price: $9.02
+Genres: Action, Adventure
+Link: https://store.steampowered.com/app/4944780
+==================================================
+
+==================================================
+Name: Hentai World Blue
+Release Date: Aug 28, 2026
+Price: $0.79 (-20%, was $0.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5053700
+==================================================
+
+==================================================
+Name: Where the Heart is: Season 2
+Release Date: Aug 28, 2026
+Price: $12.99
+Genres: Adventure, Casual, Indie, RPG, Simulation
+Link: https://store.steampowered.com/app/3345130
+==================================================
+
+==================================================
+Name: Bomb Farm
+Release Date: Aug 28, 2026
+Price: Free to Play
+Genres: Casual, Indie, Simulation, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4892010
+==================================================
+
+==================================================
+Name: Great Northern War
+Release Date: Aug 28, 2026
+Price: $39.95
+Genres: Simulation, Strategy
+Link: https://store.steampowered.com/app/4766090
+==================================================
+
+==================================================
+Name: Too Many Toys!
+Release Date: Aug 28, 2026
+Price: $5.09 (-15%, was $5.99)
+Genres: Casual, Simulation
+Link: https://store.steampowered.com/app/5028390
+==================================================
+
+==================================================
+Name: Kingdom Cumquest
+Release Date: Aug 28, 2026
+Price: $9.59 (-20%, was $11.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/4694960
+==================================================
+
+==================================================
+Name: Happy Endings
+Release Date: Aug 28, 2026
+Price: $5.94 (-15%, was $6.99)
+Genres: Simulation
+Link: https://store.steampowered.com/app/4689440
+==================================================
+
+==================================================
+Name: Warscape Alpha
+Release Date: Aug 28, 2026
+Price: $2.99
+Genres: Action
+Link: https://store.steampowered.com/app/4771870
+==================================================
+
+==================================================
+Name: Deep Haul
+Release Date: Aug 28, 2026
+Price: $10.00
+Genres: Casual, Simulation, Strategy
+Link: https://store.steampowered.com/app/4955500
+==================================================
+
+==================================================
+Name: COLD AISLE: Data Center Tycoon
+Release Date: Aug 28, 2026
+Price: $11.99
+Genres: Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/5036820
+==================================================
+
+==================================================
+Name: RunOut - Hothead Paws
+Release Date: Aug 28, 2026
+Price: $4.99
+Genres: Action, Casual, Indie, Racing
+Link: https://store.steampowered.com/app/2438120
+==================================================
+
+==================================================
+Name: Meow Box City
+Release Date: Aug 28, 2026
+Price: $5.99 (-25%, was $7.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4000850
+==================================================
+
+==================================================
+Name: RUVN Contest Reboot
+Release Date: Aug 28, 2026
+Price: Free to Play
+Genres: Adventure, Casual
+Link: https://store.steampowered.com/app/2718160
+==================================================
+
+==================================================
+Name: Puzzles Magic
+Release Date: Aug 28, 2026
+Price: $0.59 (-40%, was $0.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5007830
+==================================================
+
+==================================================
+Name: HOT FOOTS
+Release Date: Aug 28, 2026
+Price: $2.39 (-40%, was $3.99)
+Genres: Action, Adventure, Casual, Indie, RPG, Simulation, Sports, Strategy
+Link: https://store.steampowered.com/app/5017460
+==================================================
+
+==================================================
+Name: Puzzles Fruit
+Release Date: Aug 28, 2026
+Price: $0.59 (-40%, was $0.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4964790
+==================================================
+
+==================================================
+Name: Slick As The Devil
+Release Date: Aug 28, 2026
+Price: Free to Play
+Genres: Indie, Free To Play
+Link: https://store.steampowered.com/app/4431580
+==================================================
+
+==================================================
+Name: Divinum
+Release Date: Aug 28, 2026
+Price: $13.49 (-10%, was $14.99)
+Genres: Action, Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/1148130
+==================================================
+
+==================================================
+Name: Chronicles of the Fallen Realm
+Release Date: Aug 28, 2026
+Price: $1.97 (-34%, was $2.99)
+Genres: Indie, RPG
+Link: https://store.steampowered.com/app/4940280
+==================================================
+
+==================================================
+Name: Crude Hearts
+Release Date: Aug 28, 2026
+Price: $4.19 (-40%, was $6.99)
+Genres: Adventure, Simulation
+Link: https://store.steampowered.com/app/4741860
+==================================================
+
+==================================================
+Name: Wrathflame
+Release Date: Aug 28, 2026
+Price: $3.74 (-25%, was $4.99)
+Genres: Action
+Link: https://store.steampowered.com/app/4836470
+==================================================
+
+==================================================
+Name: Pliant
+Release Date: Aug 28, 2026
+Price: $2.99 (-40%, was $4.99)
+Genres: Adventure
+Link: https://store.steampowered.com/app/4777670
+==================================================
+
+==================================================
+Name: SPHERE ROLLER
+Release Date: Aug 28, 2026
+Price: $29.99 (-40%, was $49.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5010430
+==================================================
+
