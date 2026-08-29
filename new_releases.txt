@@ -70584,3 +70584,134 @@ Genres: Casual, Indie
 Link: https://store.steampowered.com/app/5010430
 ==================================================
 
+
+--- Run: 2026-08-29 09:28:37 --- (16 new game(s) found)
+
+==================================================
+Name: Fairysite
+Release Date: Aug 29, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/3467750
+==================================================
+
+==================================================
+Name: Lost Light
+Release Date: Aug 29, 2026
+Price: Free to Play
+Genres: Adventure, Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/5075970
+==================================================
+
+==================================================
+Name: 摆烂大学生会遇到废物神
+Release Date: Aug 29, 2026
+Price: $1.19 (-40%, was $1.99)
+Genres: Indie
+Link: https://store.steampowered.com/app/5040230
+==================================================
+
+==================================================
+Name: Chair Tai Chi
+Release Date: Aug 29, 2026
+Price: Free to Play
+Genres: Casual, Free To Play, Education
+Link: https://store.steampowered.com/app/5090360
+==================================================
+
+==================================================
+Name: Silicon Path
+Release Date: Aug 28, 2026
+Price: $6.79 (-15%, was $7.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/4489660
+==================================================
+
+==================================================
+Name: Basis Labs
+Release Date: Aug 28, 2026
+Price: Free to Play
+Genres: Indie, Free To Play
+Link: https://store.steampowered.com/app/3157090
+==================================================
+
+==================================================
+Name: Push and Pull
+Release Date: Aug 28, 2026
+Price: $3.19 (-20%, was $3.99)
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/4575420
+==================================================
+
+==================================================
+Name: Sidebar Starship
+Release Date: Aug 28, 2026
+Price: $3.39 (-15%, was $3.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/5005840
+==================================================
+
+==================================================
+Name: HARVEST ARCANA
+Release Date: Aug 28, 2026
+Price: $6.29 (-10%, was $6.99)
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/5039800
+==================================================
+
+==================================================
+Name: Backfools
+Release Date: Aug 28, 2026
+Price: $2.33 (-22%, was $2.99)
+Genres: Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/4822110
+==================================================
+
+==================================================
+Name: Imperial Knights
+Release Date: Aug 28, 2026
+Price: $11.99 (-20%, was $14.99)
+Genres: Adventure, Casual, RPG
+Link: https://store.steampowered.com/app/4353650
+==================================================
+
+==================================================
+Name: Tower of Gand
+Release Date: Aug 28, 2026
+Price: $4.79 (-20%, was $5.99)
+Genres: RPG
+Link: https://store.steampowered.com/app/4593160
+==================================================
+
+==================================================
+Name: Tame Me Hard!
+Release Date: Aug 28, 2026
+Price: $8.79 (-20%, was $10.99)
+Genres: Adventure, Casual, Indie, RPG
+Link: https://store.steampowered.com/app/4071430
+==================================================
+
+==================================================
+Name: Shnik
+Release Date: Aug 28, 2026
+Price: $3.99
+Genres: Casual
+Link: https://store.steampowered.com/app/4260500
+==================================================
+
+==================================================
+Name: Blackfall: Cyborgs Down
+Release Date: Aug 28, 2026
+Price: $12.74 (-15%, was $14.99)
+Genres: Action, Indie, Strategy
+Link: https://store.steampowered.com/app/4819940
+==================================================
+
+==================================================
+Name: Oh No! I’m Surrounded by Polygons!
+Release Date: Aug 28, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Action, Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4988380
+==================================================
+
