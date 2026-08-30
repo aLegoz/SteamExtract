@@ -70965,3 +70965,78 @@ Genres: Action, Adventure
 Link: https://store.steampowered.com/app/4983570
 ==================================================
 
+
+--- Run: 2026-08-30 11:26:30 --- (9 new game(s) found)
+
+==================================================
+Name: Just Open The Door
+Release Date: Aug 30, 2026
+Price: $4.99
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4424690
+==================================================
+
+==================================================
+Name: POSER
+Release Date: Aug 30, 2026
+Price: Free to Play
+Genres: Indie, Free To Play
+Link: https://store.steampowered.com/app/4763600
+==================================================
+
+==================================================
+Name: Grey Cloaks of Aron: The Sleeping Village
+Release Date: Aug 30, 2026
+Price: $0.84 (-15%, was $0.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/5077560
+==================================================
+
+==================================================
+Name: Meme Farm
+Release Date: Aug 29, 2026
+Price: $2.99
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4906780
+==================================================
+
+==================================================
+Name: Hyetyn: The Last Charge
+Release Date: Aug 29, 2026
+Price: Free to Play
+Genres: Indie, RPG, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4939350
+==================================================
+
+==================================================
+Name: LuLuLaLa
+Release Date: Aug 29, 2026
+Price: $7.99
+Genres: Action, Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/4812880
+==================================================
+
+==================================================
+Name: Bots to Mars
+Release Date: Aug 29, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4984980
+==================================================
+
+==================================================
+Name: Nav Singh's Stranded
+Release Date: Aug 29, 2026
+Price: $7.99
+Genres: Action, Casual
+Link: https://store.steampowered.com/app/4975060
+==================================================
+
+==================================================
+Name: Skullchef
+Release Date: Aug 29, 2026
+Price: $2.99 (-25%, was $3.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/4892720
+==================================================
+
