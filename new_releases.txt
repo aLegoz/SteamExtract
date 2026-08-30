@@ -71040,3 +71040,62 @@ Genres: Casual
 Link: https://store.steampowered.com/app/4892720
 ==================================================
 
+
+--- Run: 2026-08-30 15:35:51 --- (7 new game(s) found)
+
+==================================================
+Name: BALL BOY Simulator
+Release Date: Aug 30, 2026
+Price: $3.49 (-30%, was $4.99)
+Genres: Simulation
+Link: https://store.steampowered.com/app/4892800
+==================================================
+
+==================================================
+Name: Aim Clicker
+Release Date: Aug 30, 2026
+Price: Free to Play
+Genres: Action, Casual, Indie, Simulation, Free To Play
+Link: https://store.steampowered.com/app/5093280
+==================================================
+
+==================================================
+Name: Ghost of Kyiv
+Release Date: Aug 30, 2026
+Price: $1.22 (-40%, was $2.04)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/2022170
+==================================================
+
+==================================================
+Name: Adventure Honor
+Release Date: Aug 30, 2026
+Price: $4.79 (-20%, was $5.99)
+Genres: Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/4621920
+==================================================
+
+==================================================
+Name: Mox Modular
+Release Date: Aug 30, 2026
+Price: $2.00 (-20%, was $2.50)
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/4415170
+==================================================
+
+==================================================
+Name: Summon Stone
+Release Date: Aug 30, 2026
+Price: $3.18
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4022890
+==================================================
+
+==================================================
+Name: STO:REAM AI Voice Adventure
+Release Date: Aug 29, 2026
+Price: $8.09 (-10%, was $8.99)
+Genres: Adventure, RPG
+Link: https://store.steampowered.com/app/4872520
+==================================================
+
