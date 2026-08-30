@@ -70879,3 +70879,38 @@ Genres: Indie, Simulation
 Link: https://store.steampowered.com/app/4829250
 ==================================================
 
+
+--- Run: 2026-08-30 00:50:38 --- (4 new game(s) found)
+
+==================================================
+Name: In Search of Freedom
+Release Date: Aug 29, 2026
+Price: $9.89 (-10%, was $10.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/4119760
+==================================================
+
+==================================================
+Name: Hentai Senpai: Noir Vice
+Release Date: Aug 29, 2026
+Price: $3.59 (-10%, was $3.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4846090
+==================================================
+
+==================================================
+Name: Sanguis Amantis
+Release Date: Aug 29, 2026
+Price: Free to Play
+Genres: Casual, Free To Play
+Link: https://store.steampowered.com/app/5059110
+==================================================
+
+==================================================
+Name: Up Pole!
+Release Date: Aug 29, 2026
+Price: $2.99
+Genres: Casual, Indie, RPG
+Link: https://store.steampowered.com/app/4773480
+==================================================
+
