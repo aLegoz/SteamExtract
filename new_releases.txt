@@ -71099,3 +71099,38 @@ Genres: Adventure, RPG
 Link: https://store.steampowered.com/app/4872520
 ==================================================
 
+
+--- Run: 2026-08-30 18:53:26 --- (4 new game(s) found)
+
+==================================================
+Name: Planet Zombie
+Release Date: Aug 30, 2026
+Price: $8.99 (-40%, was $14.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4953800
+==================================================
+
+==================================================
+Name: BLACK STACK
+Release Date: Aug 30, 2026
+Price: $8.09 (-10%, was $8.99)
+Genres: Strategy
+Link: https://store.steampowered.com/app/4996780
+==================================================
+
+==================================================
+Name: I thought I knew you
+Release Date: Aug 30, 2026
+Price: $2.99 (-25%, was $3.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4825800
+==================================================
+
+==================================================
+Name: Fortune Factory
+Release Date: Aug 30, 2026
+Price: $7.50
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5053230
+==================================================
+
