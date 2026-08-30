@@ -70914,3 +70914,54 @@ Genres: Casual, Indie, RPG
 Link: https://store.steampowered.com/app/4773480
 ==================================================
 
+
+--- Run: 2026-08-30 06:00:17 --- (6 new game(s) found)
+
+==================================================
+Name: Scrap Snap
+Release Date: Aug 29, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4846790
+==================================================
+
+==================================================
+Name: Gyeonwoo's Love
+Release Date: Aug 29, 2026
+Price: $0.99
+Genres: Simulation
+Link: https://store.steampowered.com/app/5025320
+==================================================
+
+==================================================
+Name: 1 HP DUNGEON
+Release Date: Aug 29, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Action, Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4940570
+==================================================
+
+==================================================
+Name: Urbex: Lanky Woods
+Release Date: Aug 29, 2026
+Price: $1.39 (-30%, was $1.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4782830
+==================================================
+
+==================================================
+Name: Deepclaim
+Release Date: Aug 29, 2026
+Price: $4.96 (-29%, was $6.99)
+Genres: Adventure, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5013330
+==================================================
+
+==================================================
+Name: Death Paradise
+Release Date: Aug 29, 2026
+Price: $5.09 (-15%, was $5.99)
+Genres: Action, Adventure
+Link: https://store.steampowered.com/app/4983570
+==================================================
+
