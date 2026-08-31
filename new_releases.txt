@@ -71677,3 +71677,86 @@ Genres: Adventure, Casual, Indie
 Link: https://store.steampowered.com/app/4883190
 ==================================================
 
+
+--- Run: 2026-08-31 22:07:04 --- (10 new game(s) found)
+
+==================================================
+Name: Horny Asylum
+Release Date: Aug 31, 2026
+Price: $12.74 (-15%, was $14.99)
+Genres: Simulation
+Link: https://store.steampowered.com/app/4992990
+==================================================
+
+==================================================
+Name: Centuria Quest
+Release Date: Aug 31, 2026
+Price: $7.99
+Genres: Adventure, Casual, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/4836840
+==================================================
+
+==================================================
+Name: Judge SIM 2 Precedent
+Release Date: Aug 31, 2026
+Price: $9.89 (-10%, was $10.99)
+Genres: Adventure, Simulation, Strategy
+Link: https://store.steampowered.com/app/5084870
+==================================================
+
+==================================================
+Name: Wonders of Waldwea
+Release Date: Aug 31, 2026
+Price: Free to Play
+Genres: Casual, Indie, Simulation, Free To Play
+Link: https://store.steampowered.com/app/3797470
+==================================================
+
+==================================================
+Name: Minimon: Tiny Idle Tactics
+Release Date: Aug 31, 2026
+Price: $7.19 (-10%, was $7.99)
+Genres: Casual, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/4547080
+==================================================
+
+==================================================
+Name: Tavrik
+Release Date: Aug 31, 2026
+Price: $10.19 (-15%, was $11.99)
+Genres: Adventure, Strategy
+Link: https://store.steampowered.com/app/4482350
+==================================================
+
+==================================================
+Name: Fantasy Miner: Idle Depths
+Release Date: Aug 31, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4428430
+==================================================
+
+==================================================
+Name: Declare
+Release Date: Aug 31, 2026
+Price: $4.99
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/5043830
+==================================================
+
+==================================================
+Name: Sycamore End
+Release Date: Aug 31, 2026
+Price: $2.69 (-10%, was $2.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/5015510
+==================================================
+
+==================================================
+Name: The Dream Of Winning The Lottery
+Release Date: Aug 31, 2026
+Price: $1.59 (-20%, was $1.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5046060
+==================================================
+
