@@ -71271,3 +71271,174 @@ Genres: Action, Adventure, Indie, Simulation
 Link: https://store.steampowered.com/app/3160640
 ==================================================
 
+
+--- Run: 2026-08-31 10:11:25 --- (21 new game(s) found)
+
+==================================================
+Name: Maestro's Cold War 2
+Release Date: Aug 31, 2026
+Price: $11.69 (-10%, was $12.99)
+Genres: Simulation, Strategy
+Link: https://store.steampowered.com/app/3204120
+==================================================
+
+==================================================
+Name: BeatChip '95
+Release Date: Aug 31, 2026
+Price: $4.89 (-30%, was $6.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4250100
+==================================================
+
+==================================================
+Name: KnockOut Drive
+Release Date: Aug 31, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Action, Casual, Indie, Racing, Simulation, Sports
+Link: https://store.steampowered.com/app/2514570
+==================================================
+
+==================================================
+Name: Airport City Transport Manager
+Release Date: Aug 31, 2026
+Price: Free to Play
+Genres: Casual, Simulation, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4514800
+==================================================
+
+==================================================
+Name: The Hall That Devours
+Release Date: Aug 31, 2026
+Price: $0.59 (-40%, was $0.99)
+Genres: Indie
+Link: https://store.steampowered.com/app/5001620
+==================================================
+
+==================================================
+Name: Unsolved Case: Whispers of Elderwick Collector’s Edition
+Release Date: Aug 31, 2026
+Price: $15.99
+Genres: Adventure, Casual
+Link: https://store.steampowered.com/app/4253730
+==================================================
+
+==================================================
+Name: Algorithms
+Release Date: Aug 31, 2026
+Price: $8.49 (-15%, was $9.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5042050
+==================================================
+
+==================================================
+Name: Nellie's Nonograms
+Release Date: Aug 31, 2026
+Price: Free to Play
+Genres: Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/4863170
+==================================================
+
+==================================================
+Name: Lady Death Demonicron
+Release Date: Aug 31, 2026
+Price: $35.99 (-10%, was $39.99)
+Genres: Action, Adventure
+Link: https://store.steampowered.com/app/2954890
+==================================================
+
+==================================================
+Name: ZENONIA 1
+Release Date: Aug 31, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/4538960
+==================================================
+
+==================================================
+Name: The Wickers House
+Release Date: Aug 30, 2026
+Price: $4.99
+Genres: Indie
+Link: https://store.steampowered.com/app/4755380
+==================================================
+
+==================================================
+Name: Sticks & Strings
+Release Date: Aug 30, 2026
+Price: $2.99
+Genres: Action, Casual
+Link: https://store.steampowered.com/app/5091370
+==================================================
+
+==================================================
+Name: Ether Flow :: Focus, organize, and create.
+Release Date: Aug 30, 2026
+Price: $13.99
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5035800
+==================================================
+
+==================================================
+Name: North Bay Protocol
+Release Date: Aug 30, 2026
+Price: Free to Play
+Genres: Simulation, Strategy, Free To Play
+Link: https://store.steampowered.com/app/5042030
+==================================================
+
+==================================================
+Name: Nebulon
+Release Date: Aug 30, 2026
+Price: $1.69 (-15%, was $1.99)
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/4942320
+==================================================
+
+==================================================
+Name: Four Nights at Yuki's -Yotsuya no Yuki-
+Release Date: Aug 30, 2026
+Price: $8.39 (-30%, was $11.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/5063130
+==================================================
+
+==================================================
+Name: DeskBloom
+Release Date: Aug 30, 2026
+Price: $1.59 (-20%, was $1.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5086640
+==================================================
+
+==================================================
+Name: The Wraith Train: Illusory Domain
+Release Date: Aug 30, 2026
+Price: $3.59 (-10%, was $3.99)
+Genres: Adventure, Casual, Indie, RPG, Simulation, Strategy
+Link: https://store.steampowered.com/app/4920100
+==================================================
+
+==================================================
+Name: Survivors: Become an Immortal
+Release Date: Aug 30, 2026
+Price: $5.09 (-15%, was $5.99)
+Genres: Action, Casual, Indie, RPG
+Link: https://store.steampowered.com/app/4420090
+==================================================
+
+==================================================
+Name: 빈 칸을 채워줘#1 : 백지 위를 뒹구는 하얀 퍼즐들
+Release Date: Aug 30, 2026
+Price: $8.09 (-10%, was $8.99)
+Genres: Simulation
+Link: https://store.steampowered.com/app/5022480
+==================================================
+
+==================================================
+Name: 团子岛密语2
+Release Date: Aug 30, 2026
+Price: $4.89 (-30%, was $6.99)
+Genres: RPG
+Link: https://store.steampowered.com/app/4957920
+==================================================
+
