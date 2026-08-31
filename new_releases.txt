@@ -71220,3 +71220,54 @@ Genres: Casual, Indie
 Link: https://store.steampowered.com/app/4937890
 ==================================================
 
+
+--- Run: 2026-08-31 03:48:43 --- (6 new game(s) found)
+
+==================================================
+Name: Yakutori - Japanese screen capture translator
+Release Date: Aug 30, 2026
+Price: $4.95 (-38%, was $7.99)
+Genres: Education, Utilities
+Link: https://store.steampowered.com/app/5063990
+==================================================
+
+==================================================
+Name: Eros Memories: The Lewd Way to Save the World
+Release Date: Aug 30, 2026
+Price: $13.49 (-10%, was $14.99)
+Genres: Casual, Indie, RPG, Simulation
+Link: https://store.steampowered.com/app/4596050
+==================================================
+
+==================================================
+Name: Behind the Sword
+Release Date: Aug 30, 2026
+Price: $7.19 (-10%, was $7.99)
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/3415130
+==================================================
+
+==================================================
+Name: Hallowed Core
+Release Date: Aug 30, 2026
+Price: Free to Play
+Genres: Action, Adventure, Indie, RPG, Strategy, Free To Play
+Link: https://store.steampowered.com/app/3927600
+==================================================
+
+==================================================
+Name: 2D Or Not 2D
+Release Date: Aug 30, 2026
+Price: $2.67 (-33%, was $3.99)
+Genres: Action, Indie, RPG
+Link: https://store.steampowered.com/app/4955710
+==================================================
+
+==================================================
+Name: Don't Drop The Cake
+Release Date: Aug 30, 2026
+Price: $6.22 (-11%, was $6.99)
+Genres: Action, Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/3160640
+==================================================
+
