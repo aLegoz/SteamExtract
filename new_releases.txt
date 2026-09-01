@@ -71843,3 +71843,110 @@ Genres: Adventure, Simulation
 Link: https://store.steampowered.com/app/4903890
 ==================================================
 
+
+--- Run: 2026-09-01 06:54:07 --- (13 new game(s) found)
+
+==================================================
+Name: Dvor
+Release Date: Aug 31, 2026
+Price: $6.29 (-10%, was $6.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4881830
+==================================================
+
+==================================================
+Name: 空之歌：每当磁针再次振动，我便在此等待
+Release Date: Aug 31, 2026
+Price: Free to Play
+Genres: Adventure, Casual, Indie, RPG, Simulation, Free To Play
+Link: https://store.steampowered.com/app/3536120
+==================================================
+
+==================================================
+Name: In & Out
+Release Date: Aug 31, 2026
+Price: $3.49 (-30%, was $4.99)
+Genres: Indie
+Link: https://store.steampowered.com/app/4230140
+==================================================
+
+==================================================
+Name: Hire
+Release Date: Aug 31, 2026
+Price: Free to Play
+Genres: Indie, RPG, Simulation, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4827450
+==================================================
+
+==================================================
+Name: Nightroot
+Release Date: Aug 31, 2026
+Price: $5.99
+Genres: Adventure, Indie, Strategy
+Link: https://store.steampowered.com/app/5036900
+==================================================
+
+==================================================
+Name: Starwalker
+Release Date: Aug 31, 2026
+Price: $0.75 (-81%, was $3.99)
+Genres: RPG
+Link: https://store.steampowered.com/app/339820
+==================================================
+
+==================================================
+Name: QPopGirl
+Release Date: Aug 31, 2026
+Price: $4.99
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4157070
+==================================================
+
+==================================================
+Name: Adventure Land - The Code MMORPG
+Release Date: Aug 31, 2026
+Price: $14.99
+Genres: Indie, Massively Multiplayer, RPG, Simulation
+Link: https://store.steampowered.com/app/777150
+==================================================
+
+==================================================
+Name: Sail: Evolved Tides
+Release Date: Aug 31, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Action, Adventure, Indie, Strategy
+Link: https://store.steampowered.com/app/4718000
+==================================================
+
+==================================================
+Name: EggOS: Incremental Game Dev
+Release Date: Aug 31, 2026
+Price: $3.00
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4984770
+==================================================
+
+==================================================
+Name: Go Up
+Release Date: Aug 31, 2026
+Price: $4.99
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/2934520
+==================================================
+
+==================================================
+Name: Zingers
+Release Date: Aug 31, 2026
+Price: $7.19 (-10%, was $7.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5046290
+==================================================
+
+==================================================
+Name: Emberhaven
+Release Date: Aug 31, 2026
+Price: $16.99
+Genres: Action, Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/4612360
+==================================================
+
