@@ -72527,3 +72527,102 @@ Genres: Action, Adventure, Indie
 Link: https://store.steampowered.com/app/4522840
 ==================================================
 
+
+--- Run: 2026-09-01 22:53:05 --- (12 new game(s) found)
+
+==================================================
+Name: VoIPVault
+Release Date: Sep 1, 2026
+Price: $8.44 (-35%, was $12.99)
+Genres: Audio Production, Utilities
+Link: https://store.steampowered.com/app/5074570
+==================================================
+
+==================================================
+Name: Salt & Schooners
+Release Date: Sep 1, 2026
+Price: Free to Play
+Genres: Action, Adventure, Indie, Free To Play
+Link: https://store.steampowered.com/app/5067410
+==================================================
+
+==================================================
+Name: Hologram Engine
+Release Date: Sep 1, 2026
+Price: $6.39 (-20%, was $7.99)
+Genres: Casual, Design & Illustration, Utilities
+Link: https://store.steampowered.com/app/4814730
+==================================================
+
+==================================================
+Name: Safe Place
+Release Date: Sep 1, 2026
+Price: Free to Play
+Genres: Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/4827410
+==================================================
+
+==================================================
+Name: FUTASCOPE
+Release Date: Sep 1, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5047310
+==================================================
+
+==================================================
+Name: Thread Match Festival
+Release Date: Sep 1, 2026
+Price: $8.99
+Genres: Casual, Simulation, Strategy
+Link: https://store.steampowered.com/app/5047800
+==================================================
+
+==================================================
+Name: Plastic Men: War never changes
+Release Date: Sep 1, 2026
+Price: $6.29 (-10%, was $6.99)
+Genres: Action
+Link: https://store.steampowered.com/app/2260510
+==================================================
+
+==================================================
+Name: Papabile
+Release Date: Sep 1, 2026
+Price: Free to Play
+Genres: Indie, Simulation, Free To Play
+Link: https://store.steampowered.com/app/4826120
+==================================================
+
+==================================================
+Name: Curse of the Ancient Grimoire
+Release Date: Sep 1, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: RPG
+Link: https://store.steampowered.com/app/5041600
+==================================================
+
+==================================================
+Name: Fatberg
+Release Date: Sep 1, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/2977250
+==================================================
+
+==================================================
+Name: Landslip
+Release Date: Sep 1, 2026
+Price: $2.99 (-40%, was $4.99)
+Genres: Action, Casual, Indie, Racing, Sports
+Link: https://store.steampowered.com/app/3462870
+==================================================
+
+==================================================
+Name: Shardwatch Dominion
+Release Date: Sep 1, 2026
+Price: $1.79 (-40%, was $2.99)
+Genres: Strategy
+Link: https://store.steampowered.com/app/5041750
+==================================================
+
