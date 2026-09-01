@@ -72404,3 +72404,126 @@ Genres: Action, Adventure, Casual, Indie
 Link: https://store.steampowered.com/app/4998320
 ==================================================
 
+
+--- Run: 2026-09-01 20:14:22 --- (15 new game(s) found)
+
+==================================================
+Name: Dub Together
+Release Date: Sep 1, 2026
+Price: $4.99
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5020310
+==================================================
+
+==================================================
+Name: POP Float a-way
+Release Date: Sep 1, 2026
+Price: $5.39 (-10%, was $5.99)
+Genres: Casual, Indie, Racing
+Link: https://store.steampowered.com/app/4922510
+==================================================
+
+==================================================
+Name: Detonate & Dash
+Release Date: Sep 1, 2026
+Price: Free to Play
+Genres: Action, Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/5038810
+==================================================
+
+==================================================
+Name: Super Wiloo Deluxe
+Release Date: Sep 1, 2026
+Price: $3.59 (-40%, was $5.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/4551290
+==================================================
+
+==================================================
+Name: Digital Survivor
+Release Date: Sep 1, 2026
+Price: $2.99
+Genres: Action, Indie, RPG
+Link: https://store.steampowered.com/app/4945570
+==================================================
+
+==================================================
+Name: Ghost Truck: Death Arena
+Release Date: Sep 1, 2026
+Price: Free to Play
+Genres: Action, Racing, Free To Play
+Link: https://store.steampowered.com/app/4657680
+==================================================
+
+==================================================
+Name: Out Of Water
+Release Date: Sep 1, 2026
+Price: $11.69 (-10%, was $12.99)
+Genres: Adventure, Casual, Indie, RPG
+Link: https://store.steampowered.com/app/3907840
+==================================================
+
+==================================================
+Name: Drowned Light
+Release Date: Sep 1, 2026
+Price: $4.79 (-20%, was $5.99)
+Genres: Adventure
+Link: https://store.steampowered.com/app/4806010
+==================================================
+
+==================================================
+Name: Tales of Fear - Episode Zero
+Release Date: Sep 1, 2026
+Price: Free to Play
+Genres: Adventure, Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/4191350
+==================================================
+
+==================================================
+Name: Launch Them All
+Release Date: Sep 1, 2026
+Price: $5.99
+Genres: Casual, Strategy
+Link: https://store.steampowered.com/app/4527130
+==================================================
+
+==================================================
+Name: Unnamed Pogo Game
+Release Date: Sep 1, 2026
+Price: $6.29 (-10%, was $6.99)
+Genres: Action, Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4925300
+==================================================
+
+==================================================
+Name: Crimson Moon
+Release Date: Sep 1, 2026
+Price: $19.99
+Genres: Action, Adventure, RPG
+Link: https://store.steampowered.com/app/4317690
+==================================================
+
+==================================================
+Name: Tales of Terror
+Release Date: Sep 1, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/1824150
+==================================================
+
+==================================================
+Name: NoodlePunk
+Release Date: Sep 1, 2026
+Price: $12.99
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/4698050
+==================================================
+
+==================================================
+Name: The Cat in Yellow
+Release Date: Sep 1, 2026
+Price: $2.00
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/4522840
+==================================================
+
