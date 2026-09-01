@@ -71950,3 +71950,238 @@ Genres: Action, Adventure, Indie, RPG
 Link: https://store.steampowered.com/app/4612360
 ==================================================
 
+
+--- Run: 2026-09-01 12:11:49 --- (29 new game(s) found)
+
+==================================================
+Name: Cognition Method
+Release Date: Sep 1, 2026
+Price: $15.99 (-20%, was $19.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/1636620
+==================================================
+
+==================================================
+Name: Deck & Conn
+Release Date: Sep 1, 2026
+Price: $11.99 (-20%, was $14.99)
+Genres: Simulation, Strategy
+Link: https://store.steampowered.com/app/3828500
+==================================================
+
+==================================================
+Name: Bounty Trail
+Release Date: Sep 1, 2026
+Price: $5.59 (-20%, was $6.99)
+Genres: Adventure, Casual, Indie, RPG
+Link: https://store.steampowered.com/app/4126530
+==================================================
+
+==================================================
+Name: Simple Image Converter — HEIC, WEBP, AVIF, PNG, JPG, PDF
+Release Date: Sep 1, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5105220
+==================================================
+
+==================================================
+Name: Aerial_Knight's MrFreezy
+Release Date: Sep 1, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4756010
+==================================================
+
+==================================================
+Name: Nonoko: Lofi Days
+Release Date: Sep 1, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/4997240
+==================================================
+
+==================================================
+Name: We Are Gum
+Release Date: Sep 1, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Adventure, Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4105470
+==================================================
+
+==================================================
+Name: Wartheon
+Release Date: Sep 1, 2026
+Price: $3.19 (-20%, was $3.99)
+Genres: Action, Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/3214320
+==================================================
+
+==================================================
+Name: Sollervir
+Release Date: Sep 1, 2026
+Price: $6.29 (-10%, was $6.99)
+Genres: Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/5036740
+==================================================
+
+==================================================
+Name: CompaDesk
+Release Date: Sep 1, 2026
+Price: $4.99
+Genres: Casual
+Link: https://store.steampowered.com/app/4911990
+==================================================
+
+==================================================
+Name: ASCEND.exe
+Release Date: Sep 1, 2026
+Price: $2.99 (-40%, was $4.99)
+Genres: Action, Strategy
+Link: https://store.steampowered.com/app/4875270
+==================================================
+
+==================================================
+Name: Plushy Store Tidy Up
+Release Date: Sep 1, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Casual, Simulation
+Link: https://store.steampowered.com/app/1470810
+==================================================
+
+==================================================
+Name: The Death Game Report
+Release Date: Sep 1, 2026
+Price: $3.99
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/5044770
+==================================================
+
+==================================================
+Name: Fireboy & Watergirl 4: The Crystal Temple
+Release Date: Sep 1, 2026
+Price: $0.99
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/5085510
+==================================================
+
+==================================================
+Name: Fireboy & Watergirl 3: The Ice Temple
+Release Date: Sep 1, 2026
+Price: $0.99
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/5085500
+==================================================
+
+==================================================
+Name: Fireboy & Watergirl 2: The Light Temple
+Release Date: Sep 1, 2026
+Price: $0.99
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/5085370
+==================================================
+
+==================================================
+Name: Fireboy & Watergirl 1: The Forest Temple
+Release Date: Sep 1, 2026
+Price: $0.99
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/5084260
+==================================================
+
+==================================================
+Name: DEVIL'S LIMINAL
+Release Date: Sep 1, 2026
+Price: $12.59 (-10%, was $13.99)
+Genres: Adventure, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/2271270
+==================================================
+
+==================================================
+Name: Glint Grade
+Release Date: Sep 1, 2026
+Price: Free to Play
+Genres: Casual, Strategy, Free To Play
+Link: https://store.steampowered.com/app/5071810
+==================================================
+
+==================================================
+Name: DreamHero
+Release Date: Sep 1, 2026
+Price: $8.09 (-10%, was $8.99)
+Genres: Adventure, Casual
+Link: https://store.steampowered.com/app/3963640
+==================================================
+
+==================================================
+Name: Mimic Escape
+Release Date: Sep 1, 2026
+Price: $2.99 (-40%, was $4.99)
+Genres: Casual, Strategy
+Link: https://store.steampowered.com/app/4634190
+==================================================
+
+==================================================
+Name: International Trading League
+Release Date: Sep 1, 2026
+Price: $10.49 (-30%, was $14.99)
+Genres: Simulation
+Link: https://store.steampowered.com/app/3652670
+==================================================
+
+==================================================
+Name: Space Trader Corps
+Release Date: Sep 1, 2026
+Price: $5.99 (-40%, was $9.99)
+Genres: Action, Adventure, Massively Multiplayer, Simulation
+Link: https://store.steampowered.com/app/5008070
+==================================================
+
+==================================================
+Name: Mutagenic
+Release Date: Sep 1, 2026
+Price: $0.69 (-30%, was $0.99)
+Genres: Action, Casual, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/2082560
+==================================================
+
+==================================================
+Name: The 3310 Paradox
+Release Date: Sep 1, 2026
+Price: $1.75
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5069470
+==================================================
+
+==================================================
+Name: Wuwei Cultivation
+Release Date: Sep 1, 2026
+Price: $1.35 (-10%, was $1.50)
+Genres: Casual, Indie, RPG
+Link: https://store.steampowered.com/app/5070160
+==================================================
+
+==================================================
+Name: Oh My Hat
+Release Date: Sep 1, 2026
+Price: $3.59 (-10%, was $3.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5099490
+==================================================
+
+==================================================
+Name: Horse Spirit Valley 2
+Release Date: Aug 31, 2026
+Price: $4.89 (-30%, was $6.99)
+Genres: Adventure, Casual, Racing, Simulation
+Link: https://store.steampowered.com/app/4951830
+==================================================
+
+==================================================
+Name: Packpunk
+Release Date: Aug 31, 2026
+Price: Free to Play
+Genres: Casual, Indie, Strategy, Free To Play
+Link: https://store.steampowered.com/app/5081690
+==================================================
+
