@@ -72720,3 +72720,94 @@ Genres: Action, Casual, Indie
 Link: https://store.steampowered.com/app/4596220
 ==================================================
 
+
+--- Run: 2026-09-02 10:03:43 --- (11 new game(s) found)
+
+==================================================
+Name: The woods
+Release Date: Sep 2, 2026
+Price: Free to Play
+Genres: Adventure, Indie, Free To Play
+Link: https://store.steampowered.com/app/5044730
+==================================================
+
+==================================================
+Name: 探访神明Searching for the Divine ~Prologue of the Journey
+Release Date: Coming soon
+Price: Free to Play
+Genres: Action, Indie, RPG, Free To Play
+Link: https://store.steampowered.com/app/4963350
+==================================================
+
+==================================================
+Name: Dimensional Craft
+Release Date: Sep 2, 2026
+Price: $2.39 (-20%, was $2.99)
+Genres: Action, Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/4247000
+==================================================
+
+==================================================
+Name: Claws of Soria: Escape the Succubus Night
+Release Date: Sep 2, 2026
+Price: $11.69 (-10%, was $12.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4054650
+==================================================
+
+==================================================
+Name: 一把菜刀打天下
+Release Date: Sep 2, 2026
+Price: Free to Play
+Genres: Action, Adventure, Casual, Indie, Massively Multiplayer, RPG, Free To Play
+Link: https://store.steampowered.com/app/4501680
+==================================================
+
+==================================================
+Name: Barb
+Release Date: Sep 1, 2026
+Price: $2.04 (-15%, was $2.40)
+Genres: Adventure
+Link: https://store.steampowered.com/app/5045700
+==================================================
+
+==================================================
+Name: Demon Kingdom
+Release Date: Sep 1, 2026
+Price: $2.99 (-25%, was $3.99)
+Genres: Adventure, Indie, Strategy
+Link: https://store.steampowered.com/app/2860130
+==================================================
+
+==================================================
+Name: Tsukikage Gakuen ~Forbidden After-School Hours~
+Release Date: Sep 1, 2026
+Price: $4.80 (-20%, was $6.00)
+Genres: Adventure
+Link: https://store.steampowered.com/app/4896170
+==================================================
+
+==================================================
+Name: Eldermyth
+Release Date: Sep 1, 2026
+Price: $2.99
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4906970
+==================================================
+
+==================================================
+Name: Luna Skyrider
+Release Date: Sep 1, 2026
+Price: $1.99
+Genres: Action, Casual
+Link: https://store.steampowered.com/app/5051330
+==================================================
+
+==================================================
+Name: Insurance Fraud
+Release Date: Sep 1, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/5011070
+==================================================
+
