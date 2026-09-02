@@ -72626,3 +72626,30 @@ Genres: Strategy
 Link: https://store.steampowered.com/app/5041750
 ==================================================
 
+
+--- Run: 2026-09-02 00:37:23 --- (3 new game(s) found)
+
+==================================================
+Name: The Abjuration Stand
+Release Date: Sep 1, 2026
+Price: $1.19 (-40%, was $1.99)
+Genres: Action
+Link: https://store.steampowered.com/app/5042140
+==================================================
+
+==================================================
+Name: Monster Ops 22
+Release Date: Sep 1, 2026
+Price: $4.99
+Genres: Simulation
+Link: https://store.steampowered.com/app/4023930
+==================================================
+
+==================================================
+Name: HORDELIGHT
+Release Date: Sep 1, 2026
+Price: $1.79 (-10%, was $1.99)
+Genres: Action, Indie, RPG
+Link: https://store.steampowered.com/app/5060900
+==================================================
+
