@@ -72811,3 +72811,150 @@ Genres: Casual, Indie, Simulation, Strategy
 Link: https://store.steampowered.com/app/5011070
 ==================================================
 
+
+--- Run: 2026-09-02 14:47:20 --- (18 new game(s) found)
+
+==================================================
+Name: Prospector Peril
+Release Date: Sep 2, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4833990
+==================================================
+
+==================================================
+Name: Ducasse
+Release Date: Sep 2, 2026
+Price: $6.99
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4974400
+==================================================
+
+==================================================
+Name: Ink Rush
+Release Date: Sep 2, 2026
+Price: Free to Play
+Genres: Adventure, Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/4919760
+==================================================
+
+==================================================
+Name: Moonlighter 2: The Endless Vault
+Release Date: Sep 2, 2026
+Price: $20.99 (-30%, was $29.99)
+Genres: Action, Adventure, RPG
+Link: https://store.steampowered.com/app/2350790
+==================================================
+
+==================================================
+Name: Meat Lovers
+Release Date: Sep 2, 2026
+Price: $6.29 (-10%, was $6.99)
+Genres: Action, Indie, Simulation
+Link: https://store.steampowered.com/app/3118860
+==================================================
+
+==================================================
+Name: RonkBonk
+Release Date: Sep 2, 2026
+Price: $2.99
+Genres: Action, Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4887920
+==================================================
+
+==================================================
+Name: BOMBANANA!
+Release Date: Sep 2, 2026
+Price: $4.95 (-38%, was $7.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4656000
+==================================================
+
+==================================================
+Name: Pet Diary
+Release Date: Sep 2, 2026
+Price: $0.84 (-15%, was $0.99)
+Genres: Casual, Indie, RPG
+Link: https://store.steampowered.com/app/4958210
+==================================================
+
+==================================================
+Name: Overtime : Patrol
+Release Date: Sep 2, 2026
+Price: $2.99
+Genres: Indie
+Link: https://store.steampowered.com/app/4579760
+==================================================
+
+==================================================
+Name: Top Check: A Chess Card Game
+Release Date: Sep 2, 2026
+Price: $9.59 (-20%, was $11.99)
+Genres: Casual, Strategy
+Link: https://store.steampowered.com/app/3432200
+==================================================
+
+==================================================
+Name: Staged
+Release Date: Sep 2, 2026
+Price: $6.79 (-15%, was $7.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/3534100
+==================================================
+
+==================================================
+Name: Fofumia
+Release Date: Sep 2, 2026
+Price: $12.79 (-20%, was $15.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/3459570
+==================================================
+
+==================================================
+Name: Category 6
+Release Date: Sep 2, 2026
+Price: $12.74 (-15%, was $14.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/2823820
+==================================================
+
+==================================================
+Name: Screen Pals
+Release Date: Sep 2, 2026
+Price: Free to Play
+Genres: Casual, Indie, Free To Play, Animation & Modeling
+Link: https://store.steampowered.com/app/4913550
+==================================================
+
+==================================================
+Name: THE GUTTER
+Release Date: Sep 2, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/3946190
+==================================================
+
+==================================================
+Name: Lights Of DunHuang
+Release Date: Sep 2, 2026
+Price: $1.59 (-20%, was $1.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5007790
+==================================================
+
+==================================================
+Name: Risel of the Slave City
+Release Date: Sep 2, 2026
+Price: $11.04 (-15%, was $12.99)
+Genres: RPG, Simulation
+Link: https://store.steampowered.com/app/4793470
+==================================================
+
+==================================================
+Name: Witch Go!
+Release Date: Sep 1, 2026
+Price: $1.19 (-40%, was $1.99)
+Genres: Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/4900250
+==================================================
+
