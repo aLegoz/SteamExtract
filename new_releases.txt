@@ -72653,3 +72653,70 @@ Genres: Action, Indie, RPG
 Link: https://store.steampowered.com/app/5060900
 ==================================================
 
+
+--- Run: 2026-09-02 05:11:35 --- (8 new game(s) found)
+
+==================================================
+Name: Duck Collector
+Release Date: Sep 1, 2026
+Price: $3.59 (-10%, was $3.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4402410
+==================================================
+
+==================================================
+Name: Axolotl Rangefighters
+Release Date: Sep 1, 2026
+Price: Free to Play
+Genres: Action, Adventure, Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/4905310
+==================================================
+
+==================================================
+Name: Martha's Dolls 2
+Release Date: Sep 1, 2026
+Price: $5.09 (-15%, was $5.99)
+Genres: Action, Adventure
+Link: https://store.steampowered.com/app/4469120
+==================================================
+
+==================================================
+Name: NTR Sneaky Girlfriend Episode 1
+Release Date: Sep 1, 2026
+Price: $2.09 (-30%, was $2.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/4508660
+==================================================
+
+==================================================
+Name: NULL
+Release Date: Sep 1, 2026
+Price: $4.99
+Genres: Adventure
+Link: https://store.steampowered.com/app/4983150
+==================================================
+
+==================================================
+Name: Peach Peach Diary
+Release Date: Sep 1, 2026
+Price: $4.79 (-20%, was $5.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4350910
+==================================================
+
+==================================================
+Name: Match: Isekai Journey
+Release Date: Sep 1, 2026
+Price: $5.99 (-40%, was $9.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4987440
+==================================================
+
+==================================================
+Name: Monke Survivor
+Release Date: Sep 1, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4596220
+==================================================
+
