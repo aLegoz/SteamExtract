@@ -72958,3 +72958,134 @@ Genres: Indie, RPG, Strategy
 Link: https://store.steampowered.com/app/4900250
 ==================================================
 
+
+--- Run: 2026-09-02 18:12:26 --- (16 new game(s) found)
+
+==================================================
+Name: Depths' Tale
+Release Date: Sep 2, 2026
+Price: Free to Play
+Genres: Adventure, Indie, Free To Play
+Link: https://store.steampowered.com/app/4900170
+==================================================
+
+==================================================
+Name: Daily Botanica
+Release Date: Sep 2, 2026
+Price: Free to Play
+Genres: Casual, Indie, Simulation, Free To Play
+Link: https://store.steampowered.com/app/5009270
+==================================================
+
+==================================================
+Name: ZONE 47
+Release Date: Sep 2, 2026
+Price: $2.29 (-10%, was $2.55)
+Genres: Action, Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/4953500
+==================================================
+
+==================================================
+Name: Snop
+Release Date: Sep 2, 2026
+Price: Free to Play
+Genres: Action, Sports, Free To Play
+Link: https://store.steampowered.com/app/5043410
+==================================================
+
+==================================================
+Name: He Who Watches
+Release Date: Sep 2, 2026
+Price: $16.99 (-15%, was $19.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/1070500
+==================================================
+
+==================================================
+Name: Lost and found - What if I come and find it
+Release Date: Sep 2, 2026
+Price: $9.59 (-40%, was $15.99)
+Genres: Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/1682550
+==================================================
+
+==================================================
+Name: Divider Dave
+Release Date: Sep 2, 2026
+Price: $6.79 (-15%, was $7.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/4463690
+==================================================
+
+==================================================
+Name: Succubi of Byzantion
+Release Date: Sep 2, 2026
+Price: Free to Play
+Genres: Adventure, Casual, Indie, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4955770
+==================================================
+
+==================================================
+Name: Spellarium 14 Collector's Edition
+Release Date: Sep 2, 2026
+Price: $15.99 (-20%, was $19.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4998840
+==================================================
+
+==================================================
+Name: Hashire HEBEREKE: EX
+Release Date: Sep 2, 2026
+Price: $21.99
+Genres: Action, Racing
+Link: https://store.steampowered.com/app/3948110
+==================================================
+
+==================================================
+Name: Dirty Pleasures
+Release Date: Sep 2, 2026
+Price: $7.64 (-15%, was $8.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4977570
+==================================================
+
+==================================================
+Name: Ace Marks the Spot
+Release Date: Sep 2, 2026
+Price: $3.39 (-15%, was $3.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4761310
+==================================================
+
+==================================================
+Name: SUPERBOLT
+Release Date: Sep 2, 2026
+Price: $3.49 (-30%, was $4.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5028770
+==================================================
+
+==================================================
+Name: Cringe Rizz Lines
+Release Date: Sep 2, 2026
+Price: $19.99
+Genres: Adventure, Casual, RPG
+Link: https://store.steampowered.com/app/4284970
+==================================================
+
+==================================================
+Name: Cyber Video Poker
+Release Date: Sep 2, 2026
+Price: $5.99
+Genres: Casual, Simulation, Strategy
+Link: https://store.steampowered.com/app/5095160
+==================================================
+
+==================================================
+Name: Labhorror
+Release Date: Sep 2, 2026
+Price: $5.99 (-40%, was $9.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/5050710
+==================================================
+
