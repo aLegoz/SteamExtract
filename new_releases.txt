@@ -73089,3 +73089,126 @@ Genres: Action, Casual, Indie
 Link: https://store.steampowered.com/app/5050710
 ==================================================
 
+
+--- Run: 2026-09-02 21:24:41 --- (15 new game(s) found)
+
+==================================================
+Name: Eldara
+Release Date: Sep 2, 2026
+Price: $5.25 (-30%, was $7.50)
+Genres: Adventure, Casual, Indie, RPG, Simulation
+Link: https://store.steampowered.com/app/4746070
+==================================================
+
+==================================================
+Name: Lost Sanity: Cthulhu
+Release Date: Sep 2, 2026
+Price: $7.19 (-20%, was $8.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/4219890
+==================================================
+
+==================================================
+Name: Blast Beam Bang
+Release Date: Sep 2, 2026
+Price: $5.94 (-15%, was $6.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4336400
+==================================================
+
+==================================================
+Name: Monoka
+Release Date: Sep 2, 2026
+Price: $10.00
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/4846330
+==================================================
+
+==================================================
+Name: Lancers Cup
+Release Date: Sep 2, 2026
+Price: $10.00
+Genres: Simulation, Sports
+Link: https://store.steampowered.com/app/4111610
+==================================================
+
+==================================================
+Name: Petal and Blade
+Release Date: Sep 2, 2026
+Price: $3.99
+Genres: Action, Indie, Strategy
+Link: https://store.steampowered.com/app/5108980
+==================================================
+
+==================================================
+Name: Grimoire Garden: A Taskbar Tale
+Release Date: Sep 2, 2026
+Price: Free to Play
+Genres: Casual, Indie, Simulation, Free To Play
+Link: https://store.steampowered.com/app/4560080
+==================================================
+
+==================================================
+Name: Storytime Cats - Meows and Mistletoes
+Release Date: Sep 2, 2026
+Price: Free to Play
+Genres: Adventure, Casual, Free To Play
+Link: https://store.steampowered.com/app/3653420
+==================================================
+
+==================================================
+Name: Megastore: Tidy Up Together
+Release Date: Sep 2, 2026
+Price: $5.09 (-15%, was $5.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5027520
+==================================================
+
+==================================================
+Name: THE MINIGAME CABINET
+Release Date: Sep 2, 2026
+Price: $11.99
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5062100
+==================================================
+
+==================================================
+Name: Floor Glitch
+Release Date: Sep 2, 2026
+Price: $0.79 (-20%, was $0.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4860650
+==================================================
+
+==================================================
+Name: Desktop Muse
+Release Date: Sep 2, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Casual, Simulation, Animation & Modeling, Utilities
+Link: https://store.steampowered.com/app/5074990
+==================================================
+
+==================================================
+Name: Molluscarium
+Release Date: Sep 2, 2026
+Price: $5.99 (-25%, was $7.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4424470
+==================================================
+
+==================================================
+Name: N in One Mahjong: Riichi, Sichuan Blood Battle, MCR, Hong Kong & Taiwan 16-Tile
+Release Date: Sep 2, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4984090
+==================================================
+
+==================================================
+Name: Mythoria
+Release Date: Sep 2, 2026
+Price: $7.99
+Genres: Adventure
+Link: https://store.steampowered.com/app/4174100
+==================================================
+
