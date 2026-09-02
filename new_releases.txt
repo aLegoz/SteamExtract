@@ -73212,3 +73212,14 @@ Genres: Adventure
 Link: https://store.steampowered.com/app/4174100
 ==================================================
 
+
+--- Run: 2026-09-02 23:38:56 --- (1 new game(s) found)
+
+==================================================
+Name: The Blood of Dawnwalker
+Release Date: Sep 2, 2026
+Price: $69.99
+Genres: Action, Adventure, RPG
+Link: https://store.steampowered.com/app/3751260
+==================================================
+
