@@ -73961,3 +73961,22 @@ Genres: Adventure, Indie
 Link: https://store.steampowered.com/app/5075600
 ==================================================
 
+
+--- Run: 2026-09-03 23:36:37 --- (2 new game(s) found)
+
+==================================================
+Name: Ribbit Rogue
+Release Date: Sep 3, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: Casual, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/3947390
+==================================================
+
+==================================================
+Name: Broken Front
+Release Date: Sep 3, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/4986720
+==================================================
+
