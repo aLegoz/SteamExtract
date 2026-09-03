@@ -73223,3 +73223,46 @@ Genres: Action, Adventure, RPG
 Link: https://store.steampowered.com/app/3751260
 ==================================================
 
+
+--- Run: 2026-09-03 01:45:37 --- (5 new game(s) found)
+
+==================================================
+Name: Mini Mayor: 12 Years
+Release Date: Sep 2, 2026
+Price: $9.09 (-30%, was $12.99)
+Genres: Simulation, Strategy
+Link: https://store.steampowered.com/app/4912540
+==================================================
+
+==================================================
+Name: Asterika: Phantom Rose Refrain
+Release Date: Sep 2, 2026
+Price: $11.99 (-20%, was $14.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/3690850
+==================================================
+
+==================================================
+Name: Asteroids Arena Online
+Release Date: Sep 2, 2026
+Price: Free to Play
+Genres: Action, Casual, Indie, Sports, Free To Play
+Link: https://store.steampowered.com/app/5069920
+==================================================
+
+==================================================
+Name: BRINKSTACK
+Release Date: Sep 2, 2026
+Price: $4.99
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5030420
+==================================================
+
+==================================================
+Name: 101 Dogs Hidden in Thailand
+Release Date: Sep 2, 2026
+Price: $0.59 (-40%, was $0.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5091820
+==================================================
+
