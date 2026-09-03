@@ -73266,3 +73266,126 @@ Genres: Casual, Indie
 Link: https://store.steampowered.com/app/5091820
 ==================================================
 
+
+--- Run: 2026-09-03 06:36:20 --- (15 new game(s) found)
+
+==================================================
+Name: Slipstream
+Release Date: Sep 2, 2026
+Price: $7.19 (-20%, was $8.99)
+Genres: Casual, Indie, Racing
+Link: https://store.steampowered.com/app/3602870
+==================================================
+
+==================================================
+Name: Mall Tidy Up Frenemies
+Release Date: Sep 2, 2026
+Price: Free to Play
+Genres: Casual, Free To Play
+Link: https://store.steampowered.com/app/5077080
+==================================================
+
+==================================================
+Name: Brilliante Capture
+Release Date: Sep 2, 2026
+Price: $11.99 (-40%, was $19.99)
+Genres: Photo Editing, Utilities
+Link: https://store.steampowered.com/app/4937390
+==================================================
+
+==================================================
+Name: Rutrum
+Release Date: Sep 2, 2026
+Price: $11.99 (-20%, was $14.99)
+Genres: Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/4776160
+==================================================
+
+==================================================
+Name: ZOMBIE Disaster Drill
+Release Date: Sep 2, 2026
+Price: $2.39 (-40%, was $3.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4762640
+==================================================
+
+==================================================
+Name: Decorate! hololive Sticker Battle
+Release Date: Sep 2, 2026
+Price: $10.99
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4563070
+==================================================
+
+==================================================
+Name: Deliria
+Release Date: Sep 2, 2026
+Price: $17.99 (-10%, was $19.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/3725650
+==================================================
+
+==================================================
+Name: Magic Ball Breaker
+Release Date: Sep 2, 2026
+Price: $3.43 (-30%, was $4.90)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4497850
+==================================================
+
+==================================================
+Name: Knight Musume
+Release Date: Sep 2, 2026
+Price: Free to Play
+Genres: Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/3592420
+==================================================
+
+==================================================
+Name: Gradanix
+Release Date: Sep 2, 2026
+Price: $8.49 (-15%, was $9.99)
+Genres: Adventure, Casual, RPG
+Link: https://store.steampowered.com/app/5061310
+==================================================
+
+==================================================
+Name: Mumu: 3D Desktop Mummy
+Release Date: Sep 2, 2026
+Price: $5.39 (-10%, was $5.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4853150
+==================================================
+
+==================================================
+Name: Ember Kingdom
+Release Date: Sep 2, 2026
+Price: $7.19 (-10%, was $7.99)
+Genres: Indie, RPG
+Link: https://store.steampowered.com/app/5065170
+==================================================
+
+==================================================
+Name: Build In Space
+Release Date: Sep 2, 2026
+Price: $19.99
+Genres: Adventure, Simulation
+Link: https://store.steampowered.com/app/4691050
+==================================================
+
+==================================================
+Name: happy goose friends
+Release Date: Sep 2, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Action, Adventure, Indie, RPG, Simulation
+Link: https://store.steampowered.com/app/5076500
+==================================================
+
+==================================================
+Name: Catenoid - Wormhole Chess
+Release Date: Sep 2, 2026
+Price: $4.99
+Genres: Strategy
+Link: https://store.steampowered.com/app/4290180
+==================================================
+
