@@ -73651,3 +73651,230 @@ Genres: Casual
 Link: https://store.steampowered.com/app/5108840
 ==================================================
 
+
+--- Run: 2026-09-03 18:57:43 --- (28 new game(s) found)
+
+==================================================
+Name: Supermarket Empire Together
+Release Date: Sep 3, 2026
+Price: $0.49 (-51%, was $0.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5095460
+==================================================
+
+==================================================
+Name: Bite 2 ur Door
+Release Date: Sep 3, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5024760
+==================================================
+
+==================================================
+Name: Hentai Office Succubus
+Release Date: Sep 3, 2026
+Price: $0.64 (-35%, was $0.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5045730
+==================================================
+
+==================================================
+Name: Island For Sale
+Release Date: Sep 3, 2026
+Price: $4.79 (-20%, was $5.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4286960
+==================================================
+
+==================================================
+Name: BULK
+Release Date: Sep 3, 2026
+Price: $5.84 (-10%, was $6.49)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4122620
+==================================================
+
+==================================================
+Name: Beetleball
+Release Date: Sep 3, 2026
+Price: $6.79 (-15%, was $7.99)
+Genres: Action, Indie, Sports
+Link: https://store.steampowered.com/app/2776270
+==================================================
+
+==================================================
+Name: SpeedRunners 2: King of Speed
+Release Date: Sep 3, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Action, Casual, Indie, Racing, Sports, Free To Play
+Link: https://store.steampowered.com/app/3183760
+==================================================
+
+==================================================
+Name: Femboy Futa Cozy Cafe
+Release Date: Sep 3, 2026
+Price: $13.49 (-10%, was $14.99)
+Genres: Adventure, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4246910
+==================================================
+
+==================================================
+Name: Next Reign: Kingdom
+Release Date: Sep 3, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4536900
+==================================================
+
+==================================================
+Name: Knights of Fiona
+Release Date: Sep 3, 2026
+Price: Free to Play
+Genres: Action, Adventure, Indie, RPG, Free To Play
+Link: https://store.steampowered.com/app/4147100
+==================================================
+
+==================================================
+Name: BOYKISSER IS COMING
+Release Date: Sep 3, 2026
+Price: $2.54 (-15%, was $2.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/5101080
+==================================================
+
+==================================================
+Name: Ring cosmos
+Release Date: Sep 3, 2026
+Price: Free to Play
+Genres: Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/5036410
+==================================================
+
+==================================================
+Name: The Great Picture
+Release Date: Sep 3, 2026
+Price: Free to Play
+Genres: Casual, Simulation, Free To Play
+Link: https://store.steampowered.com/app/4980520
+==================================================
+
+==================================================
+Name: ShoreTiles
+Release Date: Sep 3, 2026
+Price: $5.94 (-15%, was $6.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4268460
+==================================================
+
+==================================================
+Name: Macchinato
+Release Date: Sep 3, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Casual, Simulation
+Link: https://store.steampowered.com/app/5042170
+==================================================
+
+==================================================
+Name: LOGBOOK: Beneath the Storm
+Release Date: Sep 3, 2026
+Price: $12.59 (-10%, was $13.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4407400
+==================================================
+
+==================================================
+Name: Rescue the Hostages: Misaligned Fate
+Release Date: Sep 3, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4619230
+==================================================
+
+==================================================
+Name: ANT SIMULATOR: stock market game
+Release Date: Sep 3, 2026
+Price: Free to Play
+Genres: Indie, Simulation, Strategy, Free To Play
+Link: https://store.steampowered.com/app/5107590
+==================================================
+
+==================================================
+Name: Monk Took Book
+Release Date: Sep 3, 2026
+Price: $8.09 (-10%, was $8.99)
+Genres: Simulation
+Link: https://store.steampowered.com/app/4022090
+==================================================
+
+==================================================
+Name: BioEden
+Release Date: Sep 3, 2026
+Price: $21.99
+Genres: Simulation, Strategy
+Link: https://store.steampowered.com/app/3265840
+==================================================
+
+==================================================
+Name: Incremedieval
+Release Date: Sep 3, 2026
+Price: $3.74 (-25%, was $4.99)
+Genres: Action, Adventure, Casual, Indie, RPG
+Link: https://store.steampowered.com/app/5076690
+==================================================
+
+==================================================
+Name: CatCha
+Release Date: Sep 3, 2026
+Price: $7.49 (-25%, was $9.99)
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/4415040
+==================================================
+
+==================================================
+Name: Endless Isolation
+Release Date: Sep 3, 2026
+Price: $4.49 (-25%, was $5.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4626580
+==================================================
+
+==================================================
+Name: Liminal Shroud
+Release Date: Sep 3, 2026
+Price: $11.69 (-10%, was $12.99)
+Genres: Adventure
+Link: https://store.steampowered.com/app/3336620
+==================================================
+
+==================================================
+Name: Unseasonable Flowering
+Release Date: Sep 3, 2026
+Price: $7.19 (-20%, was $8.99)
+Genres: Action, Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4487460
+==================================================
+
+==================================================
+Name: Mashumaro Trigger!
+Release Date: Sep 3, 2026
+Price: Free to Play
+Genres: Adventure, Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/5036620
+==================================================
+
+==================================================
+Name: Reclaim the Fame
+Release Date: Sep 3, 2026
+Price: $8.09 (-10%, was $8.99)
+Genres: Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/4217280
+==================================================
+
+==================================================
+Name: Red Rocket Defencism
+Release Date: Sep 3, 2026
+Price: $7.03 (-12%, was $7.99)
+Genres: Action, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/2854440
+==================================================
+
