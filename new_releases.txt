@@ -73878,3 +73878,86 @@ Genres: Action, Indie, Simulation, Strategy
 Link: https://store.steampowered.com/app/2854440
 ==================================================
 
+
+--- Run: 2026-09-03 21:31:36 --- (10 new game(s) found)
+
+==================================================
+Name: Reality Breach
+Release Date: Sep 3, 2026
+Price: $2.24 (-25%, was $2.99)
+Genres: Action, Adventure, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/3118910
+==================================================
+
+==================================================
+Name: Pro Strategy Football 2027
+Release Date: Sep 3, 2026
+Price: $24.99
+Genres: Indie, Simulation, Sports, Strategy
+Link: https://store.steampowered.com/app/4964660
+==================================================
+
+==================================================
+Name: DuckShot Bros
+Release Date: Sep 3, 2026
+Price: $2.79 (-30%, was $3.99)
+Genres: Action
+Link: https://store.steampowered.com/app/4960320
+==================================================
+
+==================================================
+Name: Rogue Runner
+Release Date: Sep 3, 2026
+Price: $3.59 (-40%, was $5.99)
+Genres: Action, Adventure, Casual, Indie, RPG
+Link: https://store.steampowered.com/app/3332790
+==================================================
+
+==================================================
+Name: Good Knight's Adventures
+Release Date: Sep 3, 2026
+Price: $0.99
+Genres: Action, Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4842870
+==================================================
+
+==================================================
+Name: Golden Gloves VR
+Release Date: Sep 3, 2026
+Price: $19.99
+Genres: Action, Indie, Simulation, Sports
+Link: https://store.steampowered.com/app/2270000
+==================================================
+
+==================================================
+Name: Autumn's end (Part 1)
+Release Date: Sep 3, 2026
+Price: Free to Play
+Genres: Indie, Free To Play
+Link: https://store.steampowered.com/app/4901420
+==================================================
+
+==================================================
+Name: Bliss Point
+Release Date: Sep 3, 2026
+Price: $4.19 (-40%, was $6.99)
+Genres: Adventure, Simulation
+Link: https://store.steampowered.com/app/4906000
+==================================================
+
+==================================================
+Name: Broadcast Paranoia: a horror anthology
+Release Date: Sep 3, 2026
+Price: $3.75 (-25%, was $5.00)
+Genres: Indie
+Link: https://store.steampowered.com/app/4823510
+==================================================
+
+==================================================
+Name: Tiny Turnip DX
+Release Date: Sep 3, 2026
+Price: $3.40 (-15%, was $4.00)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/5075600
+==================================================
+
