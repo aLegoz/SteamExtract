@@ -73389,3 +73389,102 @@ Genres: Strategy
 Link: https://store.steampowered.com/app/4290180
 ==================================================
 
+
+--- Run: 2026-09-03 11:48:27 --- (12 new game(s) found)
+
+==================================================
+Name: Tofush
+Release Date: Sep 3, 2026
+Price: $3.99
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/5117310
+==================================================
+
+==================================================
+Name: Soulforge
+Release Date: Sep 3, 2026
+Price: $1.52 (-15%, was $1.79)
+Genres: Action, Indie, RPG
+Link: https://store.steampowered.com/app/5108130
+==================================================
+
+==================================================
+Name: Breeding Visa
+Release Date: Sep 3, 2026
+Price: $10.39 (-20%, was $12.99)
+Genres: Casual, Indie, RPG
+Link: https://store.steampowered.com/app/3785660
+==================================================
+
+==================================================
+Name: Cloudgazer: A Game About Watching Clouds
+Release Date: Sep 3, 2026
+Price: $2.69 (-10%, was $2.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5052300
+==================================================
+
+==================================================
+Name: LUX - MouseTrail
+Release Date: Sep 3, 2026
+Price: $3.99
+Genres: Utilities
+Link: https://store.steampowered.com/app/5044290
+==================================================
+
+==================================================
+Name: Marsupilami 2 - Salsa Palombia
+Release Date: Sep 3, 2026
+Price: $24.99
+Genres: Action, Adventure
+Link: https://store.steampowered.com/app/3650170
+==================================================
+
+==================================================
+Name: Button Down
+Release Date: Sep 3, 2026
+Price: $6.79 (-15%, was $7.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/5084060
+==================================================
+
+==================================================
+Name: Deep Core Protocol
+Release Date: Sep 3, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5114890
+==================================================
+
+==================================================
+Name: Girlfriend GPT
+Release Date: Sep 3, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Adventure, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5123000
+==================================================
+
+==================================================
+Name: Square Dungeon 2: Remastered
+Release Date: Sep 3, 2026
+Price: $2.39 (-40%, was $3.99)
+Genres: Adventure, Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4807960
+==================================================
+
+==================================================
+Name: SplatStick
+Release Date: Sep 2, 2026
+Price: $1.39 (-30%, was $1.99)
+Genres: Action, Casual, Indie, Massively Multiplayer
+Link: https://store.steampowered.com/app/5074850
+==================================================
+
+==================================================
+Name: Crypt Capers and Dungeon Dabblers
+Release Date: Sep 2, 2026
+Price: $1.00
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4629560
+==================================================
+
