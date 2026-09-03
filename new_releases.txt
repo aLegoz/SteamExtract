@@ -73488,3 +73488,166 @@ Genres: Adventure, Casual, Indie
 Link: https://store.steampowered.com/app/4629560
 ==================================================
 
+
+--- Run: 2026-09-03 15:22:06 --- (20 new game(s) found)
+
+==================================================
+Name: QuickFighter
+Release Date: Sep 3, 2026
+Price: $0.99
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/5122540
+==================================================
+
+==================================================
+Name: Roads of Da Vinci: In Search of Origins
+Release Date: Sep 3, 2026
+Price: $19.99
+Genres: Adventure, Casual, Simulation, Strategy
+Link: https://store.steampowered.com/app/5123410
+==================================================
+
+==================================================
+Name: Game Arena X
+Release Date: Sep 3, 2026
+Price: Free to Play
+Genres: Free To Play
+Link: https://store.steampowered.com/app/5059040
+==================================================
+
+==================================================
+Name: Mess in the Toy Shop
+Release Date: Sep 3, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5022130
+==================================================
+
+==================================================
+Name: Scarlet Skips
+Release Date: Sep 3, 2026
+Price: $4.99
+Genres: Action
+Link: https://store.steampowered.com/app/4513480
+==================================================
+
+==================================================
+Name: Donutal
+Release Date: Sep 3, 2026
+Price: $9.99
+Genres: Adventure, Casual, Simulation
+Link: https://store.steampowered.com/app/3971730
+==================================================
+
+==================================================
+Name: Chaos Front
+Release Date: Sep 3, 2026
+Price: $17.99 (-10%, was $19.99)
+Genres: Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/2770330
+==================================================
+
+==================================================
+Name: Reverb
+Release Date: Sep 3, 2026
+Price: $5.99
+Genres: Indie
+Link: https://store.steampowered.com/app/5085070
+==================================================
+
+==================================================
+Name: Friendly Steps
+Release Date: Sep 3, 2026
+Price: $6.39 (-20%, was $7.99)
+Genres: Adventure, Casual, Massively Multiplayer, RPG, Simulation
+Link: https://store.steampowered.com/app/4279630
+==================================================
+
+==================================================
+Name: Summer Delusion: The Girl Only I Can See
+Release Date: Sep 3, 2026
+Price: $5.99
+Genres: Adventure, Casual, Indie, RPG
+Link: https://store.steampowered.com/app/4018060
+==================================================
+
+==================================================
+Name: Shoe it All!
+Release Date: Sep 3, 2026
+Price: $6.39 (-20%, was $7.99)
+Genres: Adventure, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/2978860
+==================================================
+
+==================================================
+Name: A Standard Deviation
+Release Date: Sep 3, 2026
+Price: $7.99
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4438690
+==================================================
+
+==================================================
+Name: Island Market Simulator
+Release Date: Sep 3, 2026
+Price: $7.79 (-40%, was $12.99)
+Genres: Casual, Indie, RPG, Simulation, Strategy
+Link: https://store.steampowered.com/app/3391510
+==================================================
+
+==================================================
+Name: Hardcore Sniper
+Release Date: Sep 3, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/4732510
+==================================================
+
+==================================================
+Name: Dread Admiral
+Release Date: Sep 3, 2026
+Price: $11.19 (-20%, was $13.99)
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/4492990
+==================================================
+
+==================================================
+Name: Tidying Simulator
+Release Date: Sep 3, 2026
+Price: $2.39 (-20%, was $2.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5117250
+==================================================
+
+==================================================
+Name: NodeFantasy - A Path-Connecting Management RPG
+Release Date: Sep 3, 2026
+Price: $2.85 (-10%, was $3.17)
+Genres: Casual, Indie, RPG, Simulation, Strategy
+Link: https://store.steampowered.com/app/5063070
+==================================================
+
+==================================================
+Name: 東西線の幽霊
+Release Date: Sep 3, 2026
+Price: $2.69 (-10%, was $2.99)
+Genres: Adventure, Casual
+Link: https://store.steampowered.com/app/5058870
+==================================================
+
+==================================================
+Name: Bubblecore: Survivors
+Release Date: Sep 3, 2026
+Price: $3.59 (-10%, was $3.99)
+Genres: Indie
+Link: https://store.steampowered.com/app/5096250
+==================================================
+
+==================================================
+Name: Kitty Needs A Home!
+Release Date: Sep 3, 2026
+Price: $2.39 (-20%, was $2.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/5108840
+==================================================
+
