@@ -74512,3 +74512,174 @@ Genres: Action, Adventure, Indie, RPG
 Link: https://store.steampowered.com/app/4762770
 ==================================================
 
+
+--- Run: 2026-09-04 18:38:26 --- (21 new game(s) found)
+
+==================================================
+Name: Serve Or Die
+Release Date: Sep 4, 2026
+Price: $3.49 (-30%, was $4.99)
+Genres: Casual, Simulation
+Link: https://store.steampowered.com/app/4643930
+==================================================
+
+==================================================
+Name: BallHole
+Release Date: Sep 4, 2026
+Price: $4.49 (-25%, was $5.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/4765930
+==================================================
+
+==================================================
+Name: Dodgeon
+Release Date: Sep 4, 2026
+Price: $3.59 (-10%, was $3.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/5076160
+==================================================
+
+==================================================
+Name: Cupid's Chatroom
+Release Date: Sep 4, 2026
+Price: $13.49 (-10%, was $14.99)
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/3157160
+==================================================
+
+==================================================
+Name: Carrot Revenge
+Release Date: Sep 4, 2026
+Price: $2.69 (-10%, was $2.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/2157230
+==================================================
+
+==================================================
+Name: The Last Good Boy
+Release Date: Sep 4, 2026
+Price: $4.99
+Genres: Adventure, Casual, Indie, RPG, Simulation
+Link: https://store.steampowered.com/app/3524950
+==================================================
+
+==================================================
+Name: Falltone
+Release Date: Sep 4, 2026
+Price: $13.59 (-15%, was $15.99)
+Genres: Audio Production, Software Training, Utilities
+Link: https://store.steampowered.com/app/5128360
+==================================================
+
+==================================================
+Name: Pile Up
+Release Date: Sep 4, 2026
+Price: Free to Play
+Genres: Casual, Free To Play
+Link: https://store.steampowered.com/app/3994220
+==================================================
+
+==================================================
+Name: Operation: Outbreak Idle
+Release Date: Sep 4, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/4760020
+==================================================
+
+==================================================
+Name: Dungeon Raid
+Release Date: Sep 4, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: Strategy
+Link: https://store.steampowered.com/app/3656720
+==================================================
+
+==================================================
+Name: Akelarre
+Release Date: Sep 4, 2026
+Price: $3.39 (-15%, was $3.99)
+Genres: Indie
+Link: https://store.steampowered.com/app/4898810
+==================================================
+
+==================================================
+Name: Corpo Revenge
+Release Date: Sep 4, 2026
+Price: Free to Play
+Genres: Action, Free To Play
+Link: https://store.steampowered.com/app/4693330
+==================================================
+
+==================================================
+Name: Blackjack Mayhem
+Release Date: Sep 4, 2026
+Price: $7.99
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4468220
+==================================================
+
+==================================================
+Name: A Bullet for a Swarm
+Release Date: Sep 4, 2026
+Price: $3.15 (-25%, was $4.20)
+Genres: Action, Indie, RPG
+Link: https://store.steampowered.com/app/4565820
+==================================================
+
+==================================================
+Name: Ninja's Vengeance
+Release Date: Sep 4, 2026
+Price: Free to Play
+Genres: Action, Adventure, Indie, Free To Play
+Link: https://store.steampowered.com/app/5071680
+==================================================
+
+==================================================
+Name: Sex-Pop Demon Hunters
+Release Date: Sep 4, 2026
+Price: $11.04 (-15%, was $12.99)
+Genres: Adventure, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4355490
+==================================================
+
+==================================================
+Name: Craving Wisps
+Release Date: Sep 4, 2026
+Price: $6.79 (-15%, was $7.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/4334910
+==================================================
+
+==================================================
+Name: 100 Panda Cats
+Release Date: Sep 4, 2026
+Price: $1.69 (-15%, was $1.99)
+Genres: Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/4516160
+==================================================
+
+==================================================
+Name: Worming from Home
+Release Date: Sep 4, 2026
+Price: $5.99 (-25%, was $7.99)
+Genres: Action, Adventure, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/3547270
+==================================================
+
+==================================================
+Name: My Tiny Pickaxe
+Release Date: Sep 4, 2026
+Price: $5.09 (-15%, was $5.99)
+Genres: Action, Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/4997810
+==================================================
+
+==================================================
+Name: The Sewer
+Release Date: Sep 4, 2026
+Price: $3.99
+Genres: Strategy
+Link: https://store.steampowered.com/app/4936220
+==================================================
+
