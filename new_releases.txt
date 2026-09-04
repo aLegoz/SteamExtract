@@ -74381,3 +74381,134 @@ Genres: Action, Indie, Strategy
 Link: https://store.steampowered.com/app/3294590
 ==================================================
 
+
+--- Run: 2026-09-04 15:17:09 --- (16 new game(s) found)
+
+==================================================
+Name: DATA BREACH
+Release Date: Sep 4, 2026
+Price: $4.79 (-40%, was $7.99)
+Genres: Action, Adventure
+Link: https://store.steampowered.com/app/3724820
+==================================================
+
+==================================================
+Name: Fracture Point
+Release Date: Sep 4, 2026
+Price: $17.99 (-10%, was $19.99)
+Genres: Action, Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/3560110
+==================================================
+
+==================================================
+Name: Future? No Thanks!
+Release Date: Sep 4, 2026
+Price: $15.99 (-20%, was $19.99)
+Genres: Action, Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/3861870
+==================================================
+
+==================================================
+Name: Sigma World Online
+Release Date: Sep 4, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Indie, Massively Multiplayer, Simulation
+Link: https://store.steampowered.com/app/1690980
+==================================================
+
+==================================================
+Name: Space Disco Outlaw
+Release Date: Sep 4, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Action
+Link: https://store.steampowered.com/app/4624050
+==================================================
+
+==================================================
+Name: Isle of Reveries
+Release Date: Sep 4, 2026
+Price: $17.99 (-10%, was $19.99)
+Genres: Action, Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/3100970
+==================================================
+
+==================================================
+Name: Eggstreme Farming
+Release Date: Sep 4, 2026
+Price: $5.94 (-15%, was $6.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4152550
+==================================================
+
+==================================================
+Name: Thorgard
+Release Date: Sep 4, 2026
+Price: $5.59 (-20%, was $6.99)
+Genres: Action, Adventure, RPG
+Link: https://store.steampowered.com/app/2829500
+==================================================
+
+==================================================
+Name: Kupala
+Release Date: Sep 4, 2026
+Price: $6.99
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4037300
+==================================================
+
+==================================================
+Name: Sex Machina 2
+Release Date: Sep 4, 2026
+Price: $7.79 (-40%, was $12.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/4780210
+==================================================
+
+==================================================
+Name: Order Automatica
+Release Date: Sep 4, 2026
+Price: $4.79 (-20%, was $5.99)
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/2105840
+==================================================
+
+==================================================
+Name: Mochiwasabi Mochi's Cleaning Adventure
+Release Date: Sep 4, 2026
+Price: $1.99
+Genres: Action, Casual
+Link: https://store.steampowered.com/app/5093700
+==================================================
+
+==================================================
+Name: Museum 8
+Release Date: Sep 4, 2026
+Price: $3.14 (-30%, was $4.49)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5075230
+==================================================
+
+==================================================
+Name: Larina
+Release Date: Sep 4, 2026
+Price: $11.99
+Genres: Adventure, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/5122550
+==================================================
+
+==================================================
+Name: Cyberfuck 2067
+Release Date: Sep 4, 2026
+Price: $9.89 (-10%, was $10.99)
+Genres: Adventure, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4298840
+==================================================
+
+==================================================
+Name: Stock Shock
+Release Date: Sep 4, 2026
+Price: $1.79 (-40%, was $2.99)
+Genres: Action, Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/4762770
+==================================================
+
