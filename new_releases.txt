@@ -74162,3 +74162,222 @@ Genres: Action, Adventure, Casual
 Link: https://store.steampowered.com/app/4934840
 ==================================================
 
+
+--- Run: 2026-09-04 11:50:29 --- (27 new game(s) found)
+
+==================================================
+Name: DieLessEndLess
+Release Date: Sep 4, 2026
+Price: Free to Play
+Genres: Action, Indie, Free To Play
+Link: https://store.steampowered.com/app/5042120
+==================================================
+
+==================================================
+Name: Paleo Dive
+Release Date: Sep 4, 2026
+Price: $19.99
+Genres: Action, Adventure, Casual, Simulation
+Link: https://store.steampowered.com/app/4818760
+==================================================
+
+==================================================
+Name: Store Owner Simulator
+Release Date: Sep 4, 2026
+Price: $7.99
+Genres: Simulation
+Link: https://store.steampowered.com/app/3505740
+==================================================
+
+==================================================
+Name: 神明高中生 - Cosmic High Schooler
+Release Date: Sep 4, 2026
+Price: $6.99
+Genres: Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/3310940
+==================================================
+
+==================================================
+Name: Three Kingdoms: Tide of Conquest
+Release Date: Sep 4, 2026
+Price: Free to Play
+Genres: RPG, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4563290
+==================================================
+
+==================================================
+Name: Escape from Company
+Release Date: Sep 4, 2026
+Price: $1.39 (-30%, was $1.99)
+Genres: Adventure, Indie, Strategy
+Link: https://store.steampowered.com/app/4951570
+==================================================
+
+==================================================
+Name: FreeState: San Francisco
+Release Date: Sep 4, 2026
+Price: Free to Play
+Genres: Casual, Racing, Simulation, Free To Play
+Link: https://store.steampowered.com/app/4974070
+==================================================
+
+==================================================
+Name: Longevity: Path of the Immortal
+Release Date: Sep 4, 2026
+Price: Free to Play
+Genres: Massively Multiplayer, RPG, Free To Play
+Link: https://store.steampowered.com/app/4809400
+==================================================
+
+==================================================
+Name: Colosseum Clothes-Ripper: The Erotic Arena RPG
+Release Date: Sep 4, 2026
+Price: $9.89 (-10%, was $10.99)
+Genres: Casual, Indie, RPG
+Link: https://store.steampowered.com/app/4337050
+==================================================
+
+==================================================
+Name: バッドマナー | BadManner
+Release Date: Sep 4, 2026
+Price: $1.99
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5065220
+==================================================
+
+==================================================
+Name: Wyrdwic: At the Heart of a New World
+Release Date: Sep 4, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4976260
+==================================================
+
+==================================================
+Name: Fortress Merge
+Release Date: Sep 4, 2026
+Price: Free to Play
+Genres: Casual, RPG, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4636030
+==================================================
+
+==================================================
+Name: Do Not Respond！
+Release Date: Sep 4, 2026
+Price: $4.15
+Genres: Adventure, RPG
+Link: https://store.steampowered.com/app/4034270
+==================================================
+
+==================================================
+Name: Carriers Together
+Release Date: Sep 4, 2026
+Price: $3.49 (-30%, was $4.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5092810
+==================================================
+
+==================================================
+Name: Strip Memory: Monster Girls World
+Release Date: Sep 4, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Indie
+Link: https://store.steampowered.com/app/5007310
+==================================================
+
+==================================================
+Name: Vespera
+Release Date: Sep 4, 2026
+Price: $5.99 (-25%, was $7.99)
+Genres: Action, Adventure, Casual, Indie, RPG, Simulation
+Link: https://store.steampowered.com/app/4824420
+==================================================
+
+==================================================
+Name: Blackwire
+Release Date: Sep 4, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: Simulation
+Link: https://store.steampowered.com/app/5090010
+==================================================
+
+==================================================
+Name: The Night Route
+Release Date: Sep 4, 2026
+Price: $0.69 (-30%, was $0.99)
+Genres: Action, Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/5130260
+==================================================
+
+==================================================
+Name: Dead Man's Gulch
+Release Date: Sep 4, 2026
+Price: $1.39 (-30%, was $1.99)
+Genres: Action, Indie, Strategy
+Link: https://store.steampowered.com/app/5118620
+==================================================
+
+==================================================
+Name: Galactic Simulator 3
+Release Date: Sep 4, 2026
+Price: $5.59 (-20%, was $6.99)
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4827540
+==================================================
+
+==================================================
+Name: Motelet
+Release Date: Sep 4, 2026
+Price: $2.69 (-10%, was $2.99)
+Genres: Indie
+Link: https://store.steampowered.com/app/4850970
+==================================================
+
+==================================================
+Name: The Swashbugglers
+Release Date: Sep 4, 2026
+Price: $6.39 (-20%, was $7.99)
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/3607470
+==================================================
+
+==================================================
+Name: Arcade Audience
+Release Date: Sep 3, 2026
+Price: Free to Play
+Genres: Action, Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/5023790
+==================================================
+
+==================================================
+Name: SAMAKKHI
+Release Date: Sep 3, 2026
+Price: $2.99
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5068860
+==================================================
+
+==================================================
+Name: BallsCommander
+Release Date: Sep 3, 2026
+Price: $2.99
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/4918000
+==================================================
+
+==================================================
+Name: Waiting for You in Hell
+Release Date: Sep 3, 2026
+Price: Free to Play
+Genres: Casual, Indie, RPG, Simulation, Free To Play
+Link: https://store.steampowered.com/app/5063200
+==================================================
+
+==================================================
+Name: Death row inmates on the run 2--The Resistance
+Release Date: Sep 3, 2026
+Price: $5.59 (-20%, was $6.99)
+Genres: Action, Indie, Strategy
+Link: https://store.steampowered.com/app/3294590
+==================================================
+
