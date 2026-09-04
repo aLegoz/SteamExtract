@@ -74718,3 +74718,150 @@ Genres: Action, Indie
 Link: https://store.steampowered.com/app/3305690
 ==================================================
 
+
+--- Run: 2026-09-04 23:29:53 --- (18 new game(s) found)
+
+==================================================
+Name: UPG - Underground
+Release Date: Sep 4, 2026
+Price: $4.99
+Genres: Action, Indie, Sports
+Link: https://store.steampowered.com/app/4854010
+==================================================
+
+==================================================
+Name: Galaxy Audio Visualizer
+Release Date: Sep 4, 2026
+Price: $5.99 (-40%, was $9.99)
+Genres: Utilities
+Link: https://store.steampowered.com/app/5064900
+==================================================
+
+==================================================
+Name: Soviet Shop Simulator
+Release Date: Sep 4, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Simulation
+Link: https://store.steampowered.com/app/4543990
+==================================================
+
+==================================================
+Name: Flip-Off
+Release Date: Sep 4, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Action, Casual, Strategy
+Link: https://store.steampowered.com/app/4808110
+==================================================
+
+==================================================
+Name: HEX
+Release Date: Sep 4, 2026
+Price: $2.09 (-30%, was $2.99)
+Genres: Indie, RPG
+Link: https://store.steampowered.com/app/3187580
+==================================================
+
+==================================================
+Name: Glow in the Shadows
+Release Date: Sep 4, 2026
+Price: $4.79 (-20%, was $5.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/3647120
+==================================================
+
+==================================================
+Name: A.K.O
+Release Date: Sep 4, 2026
+Price: $7.19 (-10%, was $7.99)
+Genres: Accounting, Animation & Modeling, Audio Production, Design & Illustration, Education, Photo Editing, Utilities
+Link: https://store.steampowered.com/app/4464960
+==================================================
+
+==================================================
+Name: Terrarium II
+Release Date: Sep 4, 2026
+Price: $2.79 (-20%, was $3.49)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/5097640
+==================================================
+
+==================================================
+Name: DIRTY VAMPIRES
+Release Date: Sep 4, 2026
+Price: $2.39 (-40%, was $3.99)
+Genres: Action, Adventure, Casual, Indie, RPG, Simulation, Sports, Strategy
+Link: https://store.steampowered.com/app/5107090
+==================================================
+
+==================================================
+Name: Cat in the Box
+Release Date: Sep 4, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/5053010
+==================================================
+
+==================================================
+Name: Reality Rivals: The First Season
+Release Date: Sep 4, 2026
+Price: $9.99
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/3968750
+==================================================
+
+==================================================
+Name: Tiles & Vials
+Release Date: Sep 4, 2026
+Price: $6.29 (-10%, was $6.99)
+Genres: Strategy
+Link: https://store.steampowered.com/app/2822690
+==================================================
+
+==================================================
+Name: Moonbringer
+Release Date: Sep 4, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4999360
+==================================================
+
+==================================================
+Name: When The Road Darkens
+Release Date: Sep 4, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/3867960
+==================================================
+
+==================================================
+Name: First Move: Classic Games Collection
+Release Date: Sep 4, 2026
+Price: $2.99
+Genres: Casual, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/5098380
+==================================================
+
+==================================================
+Name: The Quiet Flat
+Release Date: Sep 4, 2026
+Price: $3.31 (-15%, was $3.90)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4895060
+==================================================
+
+==================================================
+Name: Hockey Beasts
+Release Date: Sep 4, 2026
+Price: $4.79 (-40%, was $7.99)
+Genres: Casual, Indie, Sports
+Link: https://store.steampowered.com/app/5010400
+==================================================
+
+==================================================
+Name: Phonemae
+Release Date: Sep 4, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5105560
+==================================================
+
