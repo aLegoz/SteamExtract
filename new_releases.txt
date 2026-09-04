@@ -73980,3 +73980,38 @@ Genres: Indie, Strategy
 Link: https://store.steampowered.com/app/4986720
 ==================================================
 
+
+--- Run: 2026-09-04 01:39:22 --- (4 new game(s) found)
+
+==================================================
+Name: Asdivine Knot
+Release Date: Sep 3, 2026
+Price: $17.99 (-10%, was $19.99)
+Genres: Adventure, Indie, RPG, Simulation, Strategy
+Link: https://store.steampowered.com/app/4790410
+==================================================
+
+==================================================
+Name: Dissolution of My Self
+Release Date: Sep 3, 2026
+Price: $5.39 (-10%, was $5.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4573760
+==================================================
+
+==================================================
+Name: WuLin Showdown
+Release Date: Sep 3, 2026
+Price: $5.09 (-15%, was $5.99)
+Genres: Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/4402820
+==================================================
+
+==================================================
+Name: Demon Slumber Party
+Release Date: Sep 3, 2026
+Price: Free to Play
+Genres: Casual, Indie, Sports, Free To Play
+Link: https://store.steampowered.com/app/4962350
+==================================================
+
