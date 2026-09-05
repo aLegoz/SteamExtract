@@ -75018,3 +75018,46 @@ Genres: Casual, Indie
 Link: https://store.steampowered.com/app/5038210
 ==================================================
 
+
+--- Run: 2026-09-05 13:39:42 --- (5 new game(s) found)
+
+==================================================
+Name: HB Inc.
+Release Date: Sep 5, 2026
+Price: Free to Play
+Genres: Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/4942650
+==================================================
+
+==================================================
+Name: Valdivia AllStars
+Release Date: Sep 5, 2026
+Price: Free to Play
+Genres: Sports, Free To Play
+Link: https://store.steampowered.com/app/5103500
+==================================================
+
+==================================================
+Name: RAKHEM
+Release Date: Sep 5, 2026
+Price: $3.14 (-10%, was $3.49)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/5134750
+==================================================
+
+==================================================
+Name: Worm In Village
+Release Date: Sep 5, 2026
+Price: $1.19 (-40%, was $1.99)
+Genres: Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/5107010
+==================================================
+
+==================================================
+Name: レイナ ～姫騎士、穢れる～
+Release Date: Sep 4, 2026
+Price: $32.99 (-40%, was $54.99)
+Genres: RPG
+Link: https://store.steampowered.com/app/5079130
+==================================================
+
