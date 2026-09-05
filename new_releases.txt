@@ -75120,3 +75120,22 @@ Genres: Adventure, Casual, Indie
 Link: https://store.steampowered.com/app/5027600
 ==================================================
 
+
+--- Run: 2026-09-05 18:38:15 --- (2 new game(s) found)
+
+==================================================
+Name: Numble
+Release Date: Sep 5, 2026
+Price: $0.74 (-25%, was $0.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4926400
+==================================================
+
+==================================================
+Name: Cinnabar Nights
+Release Date: Sep 5, 2026
+Price: $3.33
+Genres: Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/3029380
+==================================================
+
