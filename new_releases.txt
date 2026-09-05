@@ -75158,3 +75158,30 @@ Genres: Action, Adventure, Indie, Simulation
 Link: https://store.steampowered.com/app/5032490
 ==================================================
 
+
+--- Run: 2026-09-05 22:24:57 --- (3 new game(s) found)
+
+==================================================
+Name: The Secret of Island of Fear
+Release Date: Sep 5, 2026
+Price: $10.99
+Genres: Action, Adventure, Casual, Strategy
+Link: https://store.steampowered.com/app/4377690
+==================================================
+
+==================================================
+Name: 101 Dogs Hidden in Antalya
+Release Date: Sep 5, 2026
+Price: $0.59 (-40%, was $0.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5091840
+==================================================
+
+==================================================
+Name: Note Bounce – Sheet Music Game & Video Creator
+Release Date: Sep 5, 2026
+Price: $14.99 (-25%, was $19.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5104050
+==================================================
+
