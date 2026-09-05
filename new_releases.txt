@@ -74865,3 +74865,46 @@ Genres: Casual, Indie
 Link: https://store.steampowered.com/app/5105560
 ==================================================
 
+
+--- Run: 2026-09-05 01:40:38 --- (5 new game(s) found)
+
+==================================================
+Name: Hentai Goat Mommy
+Release Date: Sep 4, 2026
+Price: $3.59 (-10%, was $3.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4622370
+==================================================
+
+==================================================
+Name: Office Sluts: Act 0
+Release Date: Sep 4, 2026
+Price: Free to Play
+Genres: Adventure, Casual, Free To Play
+Link: https://store.steampowered.com/app/5036550
+==================================================
+
+==================================================
+Name: Football Legacy Manager 27
+Release Date: Sep 4, 2026
+Price: $9.99
+Genres: Simulation, Sports
+Link: https://store.steampowered.com/app/4896050
+==================================================
+
+==================================================
+Name: Hockey Legacy Manager 27
+Release Date: Sep 4, 2026
+Price: $10.79 (-10%, was $11.99)
+Genres: Simulation, Sports, Strategy
+Link: https://store.steampowered.com/app/4823130
+==================================================
+
+==================================================
+Name: Hexagon Imperium
+Release Date: Sep 4, 2026
+Price: $4.99
+Genres: Strategy
+Link: https://store.steampowered.com/app/4756130
+==================================================
+
