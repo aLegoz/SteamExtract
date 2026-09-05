@@ -74908,3 +74908,54 @@ Genres: Strategy
 Link: https://store.steampowered.com/app/4756130
 ==================================================
 
+
+--- Run: 2026-09-05 06:24:37 --- (6 new game(s) found)
+
+==================================================
+Name: Crustacean Station!
+Release Date: Sep 4, 2026
+Price: $2.99
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4565420
+==================================================
+
+==================================================
+Name: SimulFactory:Robo fencing
+Release Date: Sep 4, 2026
+Price: $1.99
+Genres: Action, Indie, Simulation, Sports
+Link: https://store.steampowered.com/app/5013560
+==================================================
+
+==================================================
+Name: Snowdrop and the Four Sisters
+Release Date: Sep 4, 2026
+Price: Free to Play
+Genres: Action, Indie, Free To Play
+Link: https://store.steampowered.com/app/3435190
+==================================================
+
+==================================================
+Name: Railbreak DX
+Release Date: Sep 4, 2026
+Price: $14.99 (-40%, was $24.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/4685520
+==================================================
+
+==================================================
+Name: Magnet Hunt
+Release Date: Sep 4, 2026
+Price: $1.19 (-40%, was $1.99)
+Genres: Casual, Racing, Strategy
+Link: https://store.steampowered.com/app/4908300
+==================================================
+
+==================================================
+Name: VOXEL ISLE SIMULATOR
+Release Date: Sep 4, 2026
+Price: $5.99 (-40%, was $9.99)
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/5059360
+==================================================
+
