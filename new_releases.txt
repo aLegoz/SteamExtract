@@ -74959,3 +74959,62 @@ Genres: Casual, Indie, Simulation, Strategy
 Link: https://store.steampowered.com/app/5059360
 ==================================================
 
+
+--- Run: 2026-09-05 10:59:01 --- (7 new game(s) found)
+
+==================================================
+Name: Exspelled
+Release Date: Sep 5, 2026
+Price: Free to Play
+Genres: Action, Adventure, Indie, Simulation, Free To Play
+Link: https://store.steampowered.com/app/5064270
+==================================================
+
+==================================================
+Name: KANSYS: Storms Suppressed
+Release Date: Sep 5, 2026
+Price: $6.29 (-10%, was $6.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5133780
+==================================================
+
+==================================================
+Name: Cribbage!
+Release Date: Sep 5, 2026
+Price: Free to Play
+Genres: Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/4984120
+==================================================
+
+==================================================
+Name: Pitchside Empire
+Release Date: Sep 5, 2026
+Price: Free to Play
+Genres: Indie, Simulation, Sports, Strategy, Free To Play
+Link: https://store.steampowered.com/app/5099380
+==================================================
+
+==================================================
+Name: Pomoroid
+Release Date: Sep 4, 2026
+Price: Free to Play
+Genres: Casual, Indie, Free To Play, Utilities
+Link: https://store.steampowered.com/app/4940360
+==================================================
+
+==================================================
+Name: Record of Chaos - Korean Chapter
+Release Date: Sep 4, 2026
+Price: $3.74 (-25%, was $4.99)
+Genres: Indie
+Link: https://store.steampowered.com/app/5020610
+==================================================
+
+==================================================
+Name: Pulse://Void
+Release Date: Sep 4, 2026
+Price: $5.99 (-40%, was $9.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5038210
+==================================================
+
