@@ -75139,3 +75139,22 @@ Genres: Adventure, Indie, RPG
 Link: https://store.steampowered.com/app/3029380
 ==================================================
 
+
+--- Run: 2026-09-05 20:46:41 --- (2 new game(s) found)
+
+==================================================
+Name: 1116
+Release Date: Sep 5, 2026
+Price: $2.99
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4573700
+==================================================
+
+==================================================
+Name: Hive Havoc 3D
+Release Date: Sep 5, 2026
+Price: $3.39 (-15%, was $3.99)
+Genres: Action, Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/5032490
+==================================================
+
