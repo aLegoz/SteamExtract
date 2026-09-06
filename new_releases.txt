@@ -75325,3 +75325,14 @@ Genres: Action, Indie
 Link: https://store.steampowered.com/app/5069550
 ==================================================
 
+
+--- Run: 2026-09-06 20:54:26 --- (1 new game(s) found)
+
+==================================================
+Name: Sync Together
+Release Date: Sep 6, 2026
+Price: $0.99
+Genres: Action, Adventure, Casual, Indie, Racing, Simulation, Strategy
+Link: https://store.steampowered.com/app/4233400
+==================================================
+
