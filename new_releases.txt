@@ -75290,3 +75290,38 @@ Genres: Casual
 Link: https://store.steampowered.com/app/4899120
 ==================================================
 
+
+--- Run: 2026-09-06 16:31:14 --- (4 new game(s) found)
+
+==================================================
+Name: Invictvs
+Release Date: Sep 6, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/5048570
+==================================================
+
+==================================================
+Name: PuzzleTwist
+Release Date: Sep 6, 2026
+Price: $5.99
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4170810
+==================================================
+
+==================================================
+Name: 컬러팅! 캐치&라비 (Colorting! Catch&Rabi)
+Release Date: Sep 6, 2026
+Price: Free to Play
+Genres: Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/4327640
+==================================================
+
+==================================================
+Name: Don't Stop Mike
+Release Date: Sep 6, 2026
+Price: $2.99
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/5069550
+==================================================
+
