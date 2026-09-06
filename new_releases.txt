@@ -75185,3 +75185,30 @@ Genres: Casual, Indie, Simulation
 Link: https://store.steampowered.com/app/5104050
 ==================================================
 
+
+--- Run: 2026-09-06 00:19:23 --- (3 new game(s) found)
+
+==================================================
+Name: My Dearest Direst Disaster
+Release Date: Sep 5, 2026
+Price: $14.79 (-26%, was $19.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4549300
+==================================================
+
+==================================================
+Name: Final Rider
+Release Date: Sep 5, 2026
+Price: $3.49 (-30%, was $4.99)
+Genres: Action, Adventure, Casual, Indie, Racing
+Link: https://store.steampowered.com/app/3093580
+==================================================
+
+==================================================
+Name: LuminaFX
+Release Date: Sep 5, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Utilities
+Link: https://store.steampowered.com/app/5029480
+==================================================
+
