@@ -75336,3 +75336,30 @@ Genres: Action, Adventure, Casual, Indie, Racing, Simulation, Strategy
 Link: https://store.steampowered.com/app/4233400
 ==================================================
 
+
+--- Run: 2026-09-06 22:29:54 --- (3 new game(s) found)
+
+==================================================
+Name: Dice Game
+Release Date: Sep 6, 2026
+Price: $1.19 (-40%, was $1.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/3226380
+==================================================
+
+==================================================
+Name: Cells
+Release Date: Sep 6, 2026
+Price: $3.99
+Genres: Indie
+Link: https://store.steampowered.com/app/4327140
+==================================================
+
+==================================================
+Name: Intended Parties
+Release Date: Sep 6, 2026
+Price: $4.19 (-40%, was $6.99)
+Genres: Adventure, Simulation
+Link: https://store.steampowered.com/app/4913820
+==================================================
+
