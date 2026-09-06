@@ -75263,3 +75263,30 @@ Genres: Indie
 Link: https://store.steampowered.com/app/5103290
 ==================================================
 
+
+--- Run: 2026-09-06 13:14:02 --- (3 new game(s) found)
+
+==================================================
+Name: Closer than Allowed: After the Bell
+Release Date: Sep 6, 2026
+Price: $8.99 (-40%, was $14.99)
+Genres: Adventure, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4593150
+==================================================
+
+==================================================
+Name: 水浒英雄传：八幕战役
+Release Date: Sep 5, 2026
+Price: $8.99 (-40%, was $14.99)
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/5088120
+==================================================
+
+==================================================
+Name: Darning
+Release Date: Sep 5, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/4899120
+==================================================
+
