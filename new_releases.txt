@@ -75537,3 +75537,142 @@ Genres: Casual, Indie, Strategy
 Link: https://store.steampowered.com/app/4807750
 ==================================================
 
+
+--- Run: 2026-09-07 16:10:05 --- (17 new game(s) found)
+
+==================================================
+Name: To Raise a King
+Release Date: Sep 7, 2026
+Price: Free to Play
+Genres: Casual, Indie, RPG, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4932290
+==================================================
+
+==================================================
+Name: Tiny Eden
+Release Date: Sep 7, 2026
+Price: $13.49 (-10%, was $14.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/3375110
+==================================================
+
+==================================================
+Name: Port of Jumanah
+Release Date: Sep 7, 2026
+Price: $10.19 (-15%, was $11.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/2998920
+==================================================
+
+==================================================
+Name: (TwwwT) The Witches Who Weave Timelines
+Release Date: Sep 7, 2026
+Price: $3.51 (-12%, was $3.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4466880
+==================================================
+
+==================================================
+Name: Mythmon: Mythic Monsters
+Release Date: Sep 7, 2026
+Price: $7.19 (-10%, was $7.99)
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/3846440
+==================================================
+
+==================================================
+Name: Discremental
+Release Date: Sep 7, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4681980
+==================================================
+
+==================================================
+Name: SmashCore
+Release Date: Sep 7, 2026
+Price: $3.74 (-25%, was $4.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4945040
+==================================================
+
+==================================================
+Name: Eco Volunteer
+Release Date: Sep 7, 2026
+Price: $10.19 (-15%, was $11.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/3919340
+==================================================
+
+==================================================
+Name: Aquarium Anomaly
+Release Date: Sep 7, 2026
+Price: $3.39 (-15%, was $3.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4422500
+==================================================
+
+==================================================
+Name: Corgi Corgi Cor!
+Release Date: Sep 7, 2026
+Price: Free to Play
+Genres: Casual, Free To Play
+Link: https://store.steampowered.com/app/5005100
+==================================================
+
+==================================================
+Name: MD Engine
+Release Date: Sep 7, 2026
+Price: $16.99 (-15%, was $19.99)
+Genres: Game Development
+Link: https://store.steampowered.com/app/3706620
+==================================================
+
+==================================================
+Name: Curse of Pirates
+Release Date: Sep 7, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: Action, Indie, RPG
+Link: https://store.steampowered.com/app/3484940
+==================================================
+
+==================================================
+Name: LaFandel
+Release Date: Sep 7, 2026
+Price: Free to Play
+Genres: Casual, Indie, Simulation, Free To Play
+Link: https://store.steampowered.com/app/4327050
+==================================================
+
+==================================================
+Name: Bones and Coins
+Release Date: Sep 7, 2026
+Price: $5.99 (-25%, was $7.99)
+Genres: Action, Casual, RPG, Simulation, Strategy
+Link: https://store.steampowered.com/app/4134650
+==================================================
+
+==================================================
+Name: Defend the Dragon Palace!
+Release Date: Sep 7, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/5096220
+==================================================
+
+==================================================
+Name: The Last Color
+Release Date: Sep 7, 2026
+Price: $4.50 (-10%, was $5.00)
+Genres: Action
+Link: https://store.steampowered.com/app/5070180
+==================================================
+
+==================================================
+Name: Twisted Night - Please have sex with my wife
+Release Date: Sep 7, 2026
+Price: $5.94 (-15%, was $6.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4718740
+==================================================
+
