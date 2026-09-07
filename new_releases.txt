@@ -75676,3 +75676,150 @@ Genres: Adventure, Casual, Indie
 Link: https://store.steampowered.com/app/4718740
 ==================================================
 
+
+--- Run: 2026-09-07 20:14:21 --- (18 new game(s) found)
+
+==================================================
+Name: Parasomnia
+Release Date: Sep 7, 2026
+Price: Free to Play
+Genres: Adventure, Indie, RPG, Strategy, Free To Play
+Link: https://store.steampowered.com/app/5130890
+==================================================
+
+==================================================
+Name: Dirty Laundry
+Release Date: Sep 7, 2026
+Price: Free to Play
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4610590
+==================================================
+
+==================================================
+Name: Sir Galgano - A Medieval Tale
+Release Date: Sep 7, 2026
+Price: $18.74 (-25%, was $24.99)
+Genres: Action, Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/1765250
+==================================================
+
+==================================================
+Name: My Darling Dark Elf
+Release Date: Sep 7, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Indie
+Link: https://store.steampowered.com/app/4099120
+==================================================
+
+==================================================
+Name: Dataminers
+Release Date: Sep 7, 2026
+Price: $6.29 (-10%, was $6.99)
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/2518490
+==================================================
+
+==================================================
+Name: Splatter Piece
+Release Date: Sep 7, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5104020
+==================================================
+
+==================================================
+Name: Soul Chained
+Release Date: Sep 7, 2026
+Price: $4.89 (-30%, was $6.99)
+Genres: Action, Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/3544130
+==================================================
+
+==================================================
+Name: Nothing Strange Here
+Release Date: Sep 7, 2026
+Price: $11.69 (-10%, was $12.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/3664070
+==================================================
+
+==================================================
+Name: Crazy Pocket
+Release Date: Sep 7, 2026
+Price: $1.00
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4838660
+==================================================
+
+==================================================
+Name: Dealer's Dice
+Release Date: Sep 7, 2026
+Price: $1.00
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4843710
+==================================================
+
+==================================================
+Name: Arena Immortalis
+Release Date: Sep 7, 2026
+Price: Free to Play
+Genres: Massively Multiplayer, RPG, Free To Play
+Link: https://store.steampowered.com/app/5107680
+==================================================
+
+==================================================
+Name: Veterum
+Release Date: Sep 7, 2026
+Price: $16.99 (-15%, was $19.99)
+Genres: Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/1864690
+==================================================
+
+==================================================
+Name: THE WELL IS NOT EMPTY
+Release Date: Sep 7, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Action, Adventure
+Link: https://store.steampowered.com/app/4505150
+==================================================
+
+==================================================
+Name: Sanguo Survivors
+Release Date: Sep 7, 2026
+Price: $1.99
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/5101000
+==================================================
+
+==================================================
+Name: Pierline
+Release Date: Sep 7, 2026
+Price: $0.99
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/5090260
+==================================================
+
+==================================================
+Name: The Ayna
+Release Date: Sep 7, 2026
+Price: $3.99
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/4429670
+==================================================
+
+==================================================
+Name: Shelf Happens
+Release Date: Sep 7, 2026
+Price: $4.49 (-25%, was $5.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4977900
+==================================================
+
+==================================================
+Name: The Ash Remembers
+Release Date: Sep 7, 2026
+Price: $8.99 (-25%, was $11.99)
+Genres: Casual, Indie, RPG
+Link: https://store.steampowered.com/app/4973460
+==================================================
+
