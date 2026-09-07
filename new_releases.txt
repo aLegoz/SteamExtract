@@ -75398,3 +75398,142 @@ Genres: Casual
 Link: https://store.steampowered.com/app/5103890
 ==================================================
 
+
+--- Run: 2026-09-07 10:53:14 --- (17 new game(s) found)
+
+==================================================
+Name: Leap Tactics
+Release Date: Sep 7, 2026
+Price: $5.09 (-15%, was $5.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/3549150
+==================================================
+
+==================================================
+Name: Vortha racing
+Release Date: Sep 7, 2026
+Price: $4.79 (-40%, was $7.99)
+Genres: Action, Racing, Sports
+Link: https://store.steampowered.com/app/3734150
+==================================================
+
+==================================================
+Name: Emperor of Mahjong: Match Mahjong Tiles, Build Your City!
+Release Date: Sep 7, 2026
+Price: Free to Play
+Genres: Adventure, Casual, Free To Play
+Link: https://store.steampowered.com/app/4907420
+==================================================
+
+==================================================
+Name: Breezy Blooms
+Release Date: Sep 7, 2026
+Price: $2.79 (-30%, was $3.99)
+Genres: Adventure, Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4992680
+==================================================
+
+==================================================
+Name: Locktale
+Release Date: Sep 7, 2026
+Price: $6.79 (-15%, was $7.99)
+Genres: Strategy
+Link: https://store.steampowered.com/app/4304820
+==================================================
+
+==================================================
+Name: Sewer Crawler
+Release Date: Sep 7, 2026
+Price: $1.19 (-40%, was $1.99)
+Genres: Adventure, Indie, Strategy
+Link: https://store.steampowered.com/app/5001300
+==================================================
+
+==================================================
+Name: Gold and Robot
+Release Date: Sep 7, 2026
+Price: $2.99 (-40%, was $4.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/5141710
+==================================================
+
+==================================================
+Name: Hidden Legacy: Whispering Walls Collector's Edition
+Release Date: Sep 7, 2026
+Price: $15.99
+Genres: Adventure, Casual
+Link: https://store.steampowered.com/app/4391650
+==================================================
+
+==================================================
+Name: AKASHA
+Release Date: Sep 7, 2026
+Price: Free to Play
+Genres: Indie, Free To Play, Design & Illustration, Utilities
+Link: https://store.steampowered.com/app/4677560
+==================================================
+
+==================================================
+Name: Spellbound & Shelved
+Release Date: Sep 7, 2026
+Price: Free to Play
+Genres: Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/5097840
+==================================================
+
+==================================================
+Name: Blakjalatro
+Release Date: Sep 7, 2026
+Price: $2.99
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/4104890
+==================================================
+
+==================================================
+Name: Mather
+Release Date: Sep 7, 2026
+Price: $1.99
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/5068650
+==================================================
+
+==================================================
+Name: PLUG IN
+Release Date: Sep 7, 2026
+Price: $3.59 (-10%, was $3.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5005560
+==================================================
+
+==================================================
+Name: Cursor for Live2D
+Release Date: Sep 7, 2026
+Price: $9.99
+Genres: Animation & Modeling, Utilities
+Link: https://store.steampowered.com/app/4956950
+==================================================
+
+==================================================
+Name: Slim Girl
+Release Date: Sep 7, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Casual, Indie, Simulation, Sports
+Link: https://store.steampowered.com/app/5110660
+==================================================
+
+==================================================
+Name: DitherMaster Studio
+Release Date: Sep 6, 2026
+Price: $13.59 (-20%, was $16.99)
+Genres: Design & Illustration, Photo Editing
+Link: https://store.steampowered.com/app/5017800
+==================================================
+
+==================================================
+Name: World War II Auto Battler
+Release Date: Sep 6, 2026
+Price: $10.99
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4807750
+==================================================
+
