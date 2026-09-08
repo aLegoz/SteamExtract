@@ -75909,3 +75909,62 @@ Genres: Action, Adventure
 Link: https://store.steampowered.com/app/5028600
 ==================================================
 
+
+--- Run: 2026-09-08 06:38:16 --- (7 new game(s) found)
+
+==================================================
+Name: Flood With Friends
+Release Date: Sep 7, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/5005150
+==================================================
+
+==================================================
+Name: Run to Run
+Release Date: Sep 7, 2026
+Price: $5.39 (-10%, was $5.99)
+Genres: Casual, Indie, Racing
+Link: https://store.steampowered.com/app/4994490
+==================================================
+
+==================================================
+Name: Novel Forger: Suicide Mr. Fury
+Release Date: Sep 7, 2026
+Price: $5.99 (-25%, was $7.99)
+Genres: Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/4496240
+==================================================
+
+==================================================
+Name: Toilet 101
+Release Date: Sep 7, 2026
+Price: $3.59 (-10%, was $3.99)
+Genres: Adventure, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5051340
+==================================================
+
+==================================================
+Name: Die Diver
+Release Date: Sep 7, 2026
+Price: Free to Play
+Genres: Adventure, Indie, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4181300
+==================================================
+
+==================================================
+Name: Finitimi
+Release Date: Sep 7, 2026
+Price: $5.39 (-10%, was $5.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/2672000
+==================================================
+
+==================================================
+Name: Dark Bone Prison
+Release Date: Sep 7, 2026
+Price: $4.19 (-30%, was $5.99)
+Genres: Adventure, Casual, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/4859270
+==================================================
+
