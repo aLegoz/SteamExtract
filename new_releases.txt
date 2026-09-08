@@ -75968,3 +75968,78 @@ Genres: Adventure, Casual, Indie, RPG, Strategy
 Link: https://store.steampowered.com/app/4859270
 ==================================================
 
+
+--- Run: 2026-09-08 11:49:46 --- (9 new game(s) found)
+
+==================================================
+Name: Spellsteel
+Release Date: Sep 8, 2026
+Price: Free to Play
+Genres: Strategy, Free To Play
+Link: https://store.steampowered.com/app/5020290
+==================================================
+
+==================================================
+Name: Acceptable Losses
+Release Date: Sep 8, 2026
+Price: $5.59 (-30%, was $7.99)
+Genres: Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/3884200
+==================================================
+
+==================================================
+Name: CrystalStack
+Release Date: Sep 8, 2026
+Price: $1.99
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5112090
+==================================================
+
+==================================================
+Name: Token x Token x Clicker
+Release Date: Sep 8, 2026
+Price: $2.69 (-10%, was $2.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5034150
+==================================================
+
+==================================================
+Name: Desktop P2W Simulator
+Release Date: Sep 8, 2026
+Price: $2.54 (-15%, was $2.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5094720
+==================================================
+
+==================================================
+Name: Alchemy Factory
+Release Date: Sep 7, 2026
+Price: $14.39 (-20%, was $17.99)
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/3669570
+==================================================
+
+==================================================
+Name: Dragon Tiles
+Release Date: Sep 7, 2026
+Price: $3.59 (-10%, was $3.99)
+Genres: Action, Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4115370
+==================================================
+
+==================================================
+Name: Baryum
+Release Date: Sep 7, 2026
+Price: $15.92 (-20%, was $19.90)
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/4989230
+==================================================
+
+==================================================
+Name: OminouSushi
+Release Date: Sep 7, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5047430
+==================================================
+
