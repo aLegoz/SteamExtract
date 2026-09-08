@@ -76043,3 +76043,174 @@ Genres: Casual, Indie
 Link: https://store.steampowered.com/app/5047430
 ==================================================
 
+
+--- Run: 2026-09-08 15:30:31 --- (21 new game(s) found)
+
+==================================================
+Name: Tiny Bakery
+Release Date: Sep 8, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/3951340
+==================================================
+
+==================================================
+Name: Bus Simulator 27
+Release Date: Sep 8, 2026
+Price: $29.99
+Genres: Simulation
+Link: https://store.steampowered.com/app/2397320
+==================================================
+
+==================================================
+Name: Mini Court
+Release Date: Sep 8, 2026
+Price: Free to Play
+Genres: Casual, Indie, Simulation, Free To Play
+Link: https://store.steampowered.com/app/5113110
+==================================================
+
+==================================================
+Name: Cat Me If You Can
+Release Date: Sep 8, 2026
+Price: $16.19 (-10%, was $17.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/3170490
+==================================================
+
+==================================================
+Name: SPRAWL zero
+Release Date: Sep 8, 2026
+Price: $19.99 (-20%, was $24.99)
+Genres: Action
+Link: https://store.steampowered.com/app/3748520
+==================================================
+
+==================================================
+Name: Archie's War
+Release Date: Sep 8, 2026
+Price: $7.19 (-10%, was $7.99)
+Genres: Simulation, Strategy
+Link: https://store.steampowered.com/app/4820770
+==================================================
+
+==================================================
+Name: Fill The Void
+Release Date: Sep 8, 2026
+Price: $4.79 (-20%, was $5.99)
+Genres: Action, Casual
+Link: https://store.steampowered.com/app/4598190
+==================================================
+
+==================================================
+Name: Seven Blasphemies
+Release Date: Sep 8, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: Adventure, RPG
+Link: https://store.steampowered.com/app/4893400
+==================================================
+
+==================================================
+Name: Monster Girl Evolution
+Release Date: Sep 8, 2026
+Price: $1.79 (-10%, was $1.99)
+Genres: Indie
+Link: https://store.steampowered.com/app/4142290
+==================================================
+
+==================================================
+Name: Horse Magic
+Release Date: Sep 8, 2026
+Price: $2.69 (-10%, was $2.99)
+Genres: Indie
+Link: https://store.steampowered.com/app/3892390
+==================================================
+
+==================================================
+Name: Flip & Shop Simulator: Prologue
+Release Date: Sep 8, 2026
+Price: Free to Play
+Genres: Indie, Massively Multiplayer, Simulation, Free To Play
+Link: https://store.steampowered.com/app/5010700
+==================================================
+
+==================================================
+Name: Island Girls 🏝️
+Release Date: Sep 8, 2026
+Price: $4.97 (-17%, was $5.99)
+Genres: Adventure, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4783910
+==================================================
+
+==================================================
+Name: Orc Incremental
+Release Date: Sep 8, 2026
+Price: $6.79 (-15%, was $7.99)
+Genres: Adventure, Indie, RPG, Simulation, Strategy
+Link: https://store.steampowered.com/app/4047270
+==================================================
+
+==================================================
+Name: Wild Trail
+Release Date: Sep 8, 2026
+Price: $0.84 (-15%, was $0.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/5041360
+==================================================
+
+==================================================
+Name: King Assassination
+Release Date: Sep 8, 2026
+Price: $2.09 (-30%, was $2.99)
+Genres: Action, Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/5071940
+==================================================
+
+==================================================
+Name: 語彙コイン
+Release Date: Sep 8, 2026
+Price: $2.24 (-25%, was $2.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4961990
+==================================================
+
+==================================================
+Name: 桌面寵物工作室 - DesktopPetStudio
+Release Date: Sep 8, 2026
+Price: $4.34 (-30%, was $6.20)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5069160
+==================================================
+
+==================================================
+Name: Hentai Clicker: Ashley is streaming
+Release Date: Sep 8, 2026
+Price: $2.00 (-33%, was $2.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5072160
+==================================================
+
+==================================================
+Name: Seireihou Academy Story 
+Release Date: Sep 8, 2026
+Price: $0.99
+Genres: Adventure, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5094550
+==================================================
+
+==================================================
+Name: What RU Doing Green!
+Release Date: Sep 8, 2026
+Price: $2.69 (-10%, was $2.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5080860
+==================================================
+
+==================================================
+Name: Don't Fall
+Release Date: Sep 8, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4743520
+==================================================
+
