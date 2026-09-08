@@ -76214,3 +76214,174 @@ Genres: Adventure, Casual, Indie
 Link: https://store.steampowered.com/app/4743520
 ==================================================
 
+
+--- Run: 2026-09-08 19:03:51 --- (21 new game(s) found)
+
+==================================================
+Name: Voldark
+Release Date: Sep 8, 2026
+Price: $10.79 (-10%, was $11.99)
+Genres: Action, Indie, RPG, Simulation, Strategy
+Link: https://store.steampowered.com/app/4795720
+==================================================
+
+==================================================
+Name: MOR
+Release Date: Sep 8, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4900990
+==================================================
+
+==================================================
+Name: Desk Top Racer
+Release Date: Sep 8, 2026
+Price: Free to Play
+Genres: Casual, Indie, Massively Multiplayer, Racing, RPG, Simulation, Strategy, Free To Play
+Link: https://store.steampowered.com/app/5033210
+==================================================
+
+==================================================
+Name: Smile Protocol
+Release Date: Sep 8, 2026
+Price: $5.09 (-15%, was $5.99)
+Genres: Action, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4516900
+==================================================
+
+==================================================
+Name: Arcade Galaxy
+Release Date: Sep 8, 2026
+Price: $6.79 (-15%, was $7.99)
+Genres: Action, Casual, Indie, Racing
+Link: https://store.steampowered.com/app/3090620
+==================================================
+
+==================================================
+Name: Dorm 17
+Release Date: Sep 8, 2026
+Price: $3.99
+Genres: Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/4829380
+==================================================
+
+==================================================
+Name: Secret Saga: Xamadeon Stone
+Release Date: Sep 8, 2026
+Price: $5.94 (-15%, was $6.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/972760
+==================================================
+
+==================================================
+Name: Costa Nostra
+Release Date: Sep 8, 2026
+Price: Free to Play
+Genres: Indie, Massively Multiplayer, Strategy, Free To Play
+Link: https://store.steampowered.com/app/5026320
+==================================================
+
+==================================================
+Name: Permaban
+Release Date: Sep 8, 2026
+Price: $3.74 (-25%, was $4.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/2068500
+==================================================
+
+==================================================
+Name: Undying Flame
+Release Date: Sep 8, 2026
+Price: $5.99 (-25%, was $7.99)
+Genres: Action, Strategy
+Link: https://store.steampowered.com/app/4528250
+==================================================
+
+==================================================
+Name: Space Carrier Zero
+Release Date: Sep 8, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Action
+Link: https://store.steampowered.com/app/5042310
+==================================================
+
+==================================================
+Name: Halloween: The Game
+Release Date: Sep 8, 2026
+Price: $39.99
+Genres: Action
+Link: https://store.steampowered.com/app/3219630
+==================================================
+
+==================================================
+Name: Chop Chop Together
+Release Date: Sep 8, 2026
+Price: $11.04 (-15%, was $12.99)
+Genres: Action, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/3065360
+==================================================
+
+==================================================
+Name: Honeycomb: The World Beyond
+Release Date: Sep 8, 2026
+Price: $25.49 (-15%, was $29.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/1510440
+==================================================
+
+==================================================
+Name: Thousand Hells: The Underworld Heists
+Release Date: Sep 8, 2026
+Price: $22.49 (-10%, was $24.99)
+Genres: RPG, Simulation, Strategy
+Link: https://store.steampowered.com/app/3794210
+==================================================
+
+==================================================
+Name: Let Me Poo!
+Release Date: Sep 8, 2026
+Price: $1.69 (-15%, was $1.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4235980
+==================================================
+
+==================================================
+Name: Pragma Twice
+Release Date: Sep 8, 2026
+Price: $6.99 (-30%, was $9.99)
+Genres: Simulation
+Link: https://store.steampowered.com/app/3528840
+==================================================
+
+==================================================
+Name: 猫咪酒吧
+Release Date: Sep 8, 2026
+Price: $4.00
+Genres: Casual, Indie, RPG, Simulation, Strategy
+Link: https://store.steampowered.com/app/4977940
+==================================================
+
+==================================================
+Name: Remote Gamepad
+Release Date: Sep 8, 2026
+Price: $1.79 (-40%, was $2.99)
+Genres: Utilities
+Link: https://store.steampowered.com/app/4283250
+==================================================
+
+==================================================
+Name: Hot Dog Simulator: Food Truck
+Release Date: Sep 8, 2026
+Price: $3.20 (-20%, was $4.00)
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4995410
+==================================================
+
+==================================================
+Name: Elder Gate
+Release Date: Sep 8, 2026
+Price: $1.19 (-40%, was $1.99)
+Genres: Action, Adventure, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/5146910
+==================================================
+
