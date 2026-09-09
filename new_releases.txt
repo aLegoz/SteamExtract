@@ -77030,3 +77030,70 @@ Genres: Casual, Indie
 Link: https://store.steampowered.com/app/4956720
 ==================================================
 
+
+--- Run: 2026-09-09 23:36:23 --- (8 new game(s) found)
+
+==================================================
+Name: Artillery Miner
+Release Date: Sep 9, 2026
+Price: $6.79 (-15%, was $7.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4391380
+==================================================
+
+==================================================
+Name: Roomrush Racer
+Release Date: Sep 9, 2026
+Price: $15.19 (-20%, was $18.99)
+Genres: Casual, Racing
+Link: https://store.steampowered.com/app/4729940
+==================================================
+
+==================================================
+Name: ARETIAS: Cursed Island
+Release Date: Sep 9, 2026
+Price: $4.40 (-37%, was $6.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/5158120
+==================================================
+
+==================================================
+Name: INKUBO
+Release Date: Sep 9, 2026
+Price: $3.39 (-15%, was $3.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4754110
+==================================================
+
+==================================================
+Name: Cubeidle - Incremental Cube Breaker
+Release Date: Sep 9, 2026
+Price: $3.99
+Genres: Simulation
+Link: https://store.steampowered.com/app/5134300
+==================================================
+
+==================================================
+Name: Deepfake Lover
+Release Date: Sep 9, 2026
+Price: $4.19 (-40%, was $6.99)
+Genres: Adventure, Simulation
+Link: https://store.steampowered.com/app/4929640
+==================================================
+
+==================================================
+Name: TAMA JIGOKU
+Release Date: Sep 9, 2026
+Price: $1.99
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/3265560
+==================================================
+
+==================================================
+Name: Pizza of the Gods
+Release Date: Sep 9, 2026
+Price: $6.79 (-15%, was $7.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/4184220
+==================================================
+
