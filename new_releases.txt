@@ -76760,3 +76760,190 @@ Genres: Casual, Indie, Simulation, Strategy
 Link: https://store.steampowered.com/app/5113600
 ==================================================
 
+
+--- Run: 2026-09-09 18:05:49 --- (23 new game(s) found)
+
+==================================================
+Name: Fidget Toy Engine
+Release Date: Sep 9, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5092870
+==================================================
+
+==================================================
+Name: Antediluvian: Seed in Peril
+Release Date: Sep 9, 2026
+Price: Free to Play
+Genres: Adventure, Indie, RPG, Free To Play
+Link: https://store.steampowered.com/app/3094760
+==================================================
+
+==================================================
+Name: GameOvrd2
+Release Date: Sep 9, 2026
+Price: $1.99
+Genres: Action
+Link: https://store.steampowered.com/app/5146490
+==================================================
+
+==================================================
+Name: Folklands
+Release Date: Sep 9, 2026
+Price: $10.49 (-30%, was $14.99)
+Genres: Simulation, Strategy
+Link: https://store.steampowered.com/app/2282890
+==================================================
+
+==================================================
+Name: Elemental Witches
+Release Date: Sep 9, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Action, Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4161420
+==================================================
+
+==================================================
+Name: Alembic
+Release Date: Sep 9, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4933990
+==================================================
+
+==================================================
+Name: Cosmic Fear
+Release Date: Sep 9, 2026
+Price: $16.99 (-15%, was $19.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/3306920
+==================================================
+
+==================================================
+Name: Last Bastion Protocol
+Release Date: Sep 9, 2026
+Price: $2.99
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/5063210
+==================================================
+
+==================================================
+Name: Increvaders
+Release Date: Sep 9, 2026
+Price: $2.54 (-15%, was $2.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/3840200
+==================================================
+
+==================================================
+Name: Villfell
+Release Date: Sep 9, 2026
+Price: $1.69 (-15%, was $1.99)
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4984050
+==================================================
+
+==================================================
+Name: Dragon Quest Heroes: Torneko's Mystery Dungeon -Classic HD-
+Release Date: Sep 9, 2026
+Price: $24.99
+Genres: RPG, Simulation, Strategy
+Link: https://store.steampowered.com/app/4027450
+==================================================
+
+==================================================
+Name: Olga - Episode 1
+Release Date: Sep 9, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/2836740
+==================================================
+
+==================================================
+Name: The Legend of Fancy Realm Remake
+Release Date: Sep 9, 2026
+Price: $22.49 (-10%, was $24.99)
+Genres: Adventure, RPG, Strategy
+Link: https://store.steampowered.com/app/4030150
+==================================================
+
+==================================================
+Name: Swarmvore
+Release Date: Sep 9, 2026
+Price: $3.59 (-10%, was $3.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/5067670
+==================================================
+
+==================================================
+Name: It's Spreading
+Release Date: Sep 9, 2026
+Price: Free to Play
+Genres: Action, Casual, Free To Play
+Link: https://store.steampowered.com/app/4252140
+==================================================
+
+==================================================
+Name: Backseat
+Release Date: Sep 9, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/3098050
+==================================================
+
+==================================================
+Name: Planet Killer
+Release Date: Sep 9, 2026
+Price: $10.39 (-20%, was $12.99)
+Genres: Action
+Link: https://store.steampowered.com/app/4454430
+==================================================
+
+==================================================
+Name: A Dreaming Ladybug
+Release Date: Sep 9, 2026
+Price: $2.79 (-30%, was $3.99)
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/5111790
+==================================================
+
+==================================================
+Name: Stall Quest
+Release Date: Sep 9, 2026
+Price: Free to Play
+Genres: Casual, Indie, Simulation, Free To Play
+Link: https://store.steampowered.com/app/4869490
+==================================================
+
+==================================================
+Name: Touhou Koumakyou: Classic - the Embodiment of Scarlet Devil
+Release Date: Sep 9, 2026
+Price: Free to Play
+Genres: Action
+Link: https://store.steampowered.com/app/4924840
+==================================================
+
+==================================================
+Name: Touhou Koumakyou: New Classic - the Embodiment of Scarlet Devil
+Release Date: Sep 9, 2026
+Price: Free to Play
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4659620
+==================================================
+
+==================================================
+Name: A Bit Dicey
+Release Date: Sep 9, 2026
+Price: $3.99
+Genres: Indie
+Link: https://store.steampowered.com/app/4551800
+==================================================
+
+==================================================
+Name: ColorShift
+Release Date: Sep 9, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4446380
+==================================================
+
