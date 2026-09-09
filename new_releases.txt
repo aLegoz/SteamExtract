@@ -76506,3 +76506,126 @@ Genres: Action, Adventure, Indie
 Link: https://store.steampowered.com/app/3659880
 ==================================================
 
+
+--- Run: 2026-09-09 10:14:42 --- (15 new game(s) found)
+
+==================================================
+Name: The Frontier Ballad: Tang Warden
+Release Date: Sep 9, 2026
+Price: Free to Play
+Genres: Adventure, Casual, Indie, RPG, Strategy, Free To Play
+Link: https://store.steampowered.com/app/5135310
+==================================================
+
+==================================================
+Name: CATAL CARTA
+Release Date: Sep 9, 2026
+Price: $3.59 (-10%, was $3.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/5116880
+==================================================
+
+==================================================
+Name: When We Arrive
+Release Date: Sep 9, 2026
+Price: $9.99
+Genres: Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/4078360
+==================================================
+
+==================================================
+Name: BeaterCore
+Release Date: Sep 9, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Indie, Racing
+Link: https://store.steampowered.com/app/3711050
+==================================================
+
+==================================================
+Name: In Falsus
+Release Date: Sep 9, 2026
+Price: $35.99 (-10%, was $39.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/3971950
+==================================================
+
+==================================================
+Name: Barbarian Saga: The Beastmaster
+Release Date: Sep 9, 2026
+Price: $13.49 (-10%, was $14.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/2459840
+==================================================
+
+==================================================
+Name: MyHiStory
+Release Date: Sep 9, 2026
+Price: $7.00
+Genres: Casual, RPG, Strategy
+Link: https://store.steampowered.com/app/4985690
+==================================================
+
+==================================================
+Name: Hanzi Bird
+Release Date: Sep 9, 2026
+Price: $6.29 (-10%, was $6.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/5143750
+==================================================
+
+==================================================
+Name: Planet Nine
+Release Date: Sep 9, 2026
+Price: $6.29 (-10%, was $6.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/4292170
+==================================================
+
+==================================================
+Name: CoAnnCo
+Release Date: Sep 8, 2026
+Price: $5.50
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4741230
+==================================================
+
+==================================================
+Name: Iron Wasteland
+Release Date: Sep 8, 2026
+Price: $12.59 (-10%, was $13.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/4479060
+==================================================
+
+==================================================
+Name: Hard Rock Clicker
+Release Date: Sep 8, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5033940
+==================================================
+
+==================================================
+Name: Underkeep
+Release Date: Sep 8, 2026
+Price: $2.79 (-30%, was $3.99)
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/5084990
+==================================================
+
+==================================================
+Name: VOXEL DRIFT RACER
+Release Date: Sep 8, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Casual, Indie, Racing
+Link: https://store.steampowered.com/app/5048180
+==================================================
+
+==================================================
+Name: TORO 2
+Release Date: Sep 8, 2026
+Price: $29.99
+Genres: Action, Simulation
+Link: https://store.steampowered.com/app/4782390
+==================================================
+
