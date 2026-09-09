@@ -76629,3 +76629,134 @@ Genres: Action, Simulation
 Link: https://store.steampowered.com/app/4782390
 ==================================================
 
+
+--- Run: 2026-09-09 14:51:50 --- (16 new game(s) found)
+
+==================================================
+Name: Spin Me
+Release Date: Sep 9, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4821440
+==================================================
+
+==================================================
+Name: The Demon King's Incursion
+Release Date: Sep 9, 2026
+Price: $2.99
+Genres: Adventure, Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4985870
+==================================================
+
+==================================================
+Name: Blood Moon Serenade: Complete Edition
+Release Date: Sep 9, 2026
+Price: $14.39 (-10%, was $15.99)
+Genres: Simulation
+Link: https://store.steampowered.com/app/4673270
+==================================================
+
+==================================================
+Name: Asgard's Fall — Viking Survivors
+Release Date: Sep 9, 2026
+Price: $4.99 (-50%, was $9.99)
+Genres: Action, Adventure, Casual, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/2780710
+==================================================
+
+==================================================
+Name: Model Kit Shop Simulator
+Release Date: Sep 9, 2026
+Price: $7.49 (-25%, was $9.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4014100
+==================================================
+
+==================================================
+Name: Valheim
+Release Date: Sep 9, 2026
+Price: $29.99
+Genres: Action, Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/892970
+==================================================
+
+==================================================
+Name: Bullet Debt
+Release Date: Sep 9, 2026
+Price: $4.79 (-20%, was $5.99)
+Genres: Action
+Link: https://store.steampowered.com/app/5122320
+==================================================
+
+==================================================
+Name: Bookstore Incremental
+Release Date: Sep 9, 2026
+Price: $6.79 (-15%, was $7.99)
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/4664470
+==================================================
+
+==================================================
+Name: Sunset Summit
+Release Date: Sep 9, 2026
+Price: $3.09 (-38%, was $4.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/3874450
+==================================================
+
+==================================================
+Name: Moon Shop Simulator
+Release Date: Sep 9, 2026
+Price: $7.19 (-10%, was $7.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4926780
+==================================================
+
+==================================================
+Name: KN Tower - Build your skyscraper empire
+Release Date: Sep 9, 2026
+Price: $9.79
+Genres: Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4994530
+==================================================
+
+==================================================
+Name: Detective VR
+Release Date: Sep 9, 2026
+Price: $14.99
+Genres: Adventure
+Link: https://store.steampowered.com/app/3939360
+==================================================
+
+==================================================
+Name: Slay the Horde
+Release Date: Sep 9, 2026
+Price: $6.99 (-30%, was $9.99)
+Genres: Action, Indie, Strategy
+Link: https://store.steampowered.com/app/4380280
+==================================================
+
+==================================================
+Name: Country Town Trains
+Release Date: Sep 9, 2026
+Price: Free to Play
+Genres: Adventure, Casual, Simulation, Free To Play
+Link: https://store.steampowered.com/app/4673750
+==================================================
+
+==================================================
+Name: Font no Game ～Which I Master～
+Release Date: Sep 9, 2026
+Price: $4.99
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4979100
+==================================================
+
+==================================================
+Name: All Our Winters
+Release Date: Sep 9, 2026
+Price: $4.99
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/5113600
+==================================================
+
