@@ -76436,3 +76436,14 @@ Genres: Casual, Indie
 Link: https://store.steampowered.com/app/4960010
 ==================================================
 
+
+--- Run: 2026-09-09 00:47:03 --- (1 new game(s) found)
+
+==================================================
+Name: TANGENT
+Release Date: Sep 8, 2026
+Price: $4.99
+Genres: Action, Indie, Racing
+Link: https://store.steampowered.com/app/4155650
+==================================================
+
