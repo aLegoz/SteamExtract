@@ -76447,3 +76447,62 @@ Genres: Action, Indie, Racing
 Link: https://store.steampowered.com/app/4155650
 ==================================================
 
+
+--- Run: 2026-09-09 05:27:44 --- (7 new game(s) found)
+
+==================================================
+Name: Sue your parents
+Release Date: Sep 8, 2026
+Price: $2.69 (-10%, was $2.99)
+Genres: Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/5103400
+==================================================
+
+==================================================
+Name: American High School Basketball Dynasty
+Release Date: Sep 8, 2026
+Price: $9.99
+Genres: Simulation, Sports, Strategy
+Link: https://store.steampowered.com/app/4832360
+==================================================
+
+==================================================
+Name: Aerovice Frutiger World
+Release Date: Sep 8, 2026
+Price: $6.39 (-20%, was $7.99)
+Genres: Adventure, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4949480
+==================================================
+
+==================================================
+Name: Ducktile
+Release Date: Sep 8, 2026
+Price: $2.99
+Genres: Casual
+Link: https://store.steampowered.com/app/5021090
+==================================================
+
+==================================================
+Name: TRUDGE
+Release Date: Sep 8, 2026
+Price: $4.79 (-20%, was $5.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4797280
+==================================================
+
+==================================================
+Name: Three's a Crowd
+Release Date: Sep 8, 2026
+Price: $3.19 (-20%, was $3.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/5113570
+==================================================
+
+==================================================
+Name: Pit of Fears
+Release Date: Sep 8, 2026
+Price: $1.69 (-15%, was $1.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/3659880
+==================================================
+
