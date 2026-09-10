@@ -77779,3 +77779,38 @@ Genres: Action, Casual, Indie, Strategy
 Link: https://store.steampowered.com/app/4370860
 ==================================================
 
+
+--- Run: 2026-09-10 23:29:28 --- (4 new game(s) found)
+
+==================================================
+Name: Thumper Chess
+Release Date: Sep 10, 2026
+Price: Free to Play
+Genres: Action, Casual, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4540600
+==================================================
+
+==================================================
+Name: The Last of RAM
+Release Date: Sep 10, 2026
+Price: $4.79 (-20%, was $5.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/4577980
+==================================================
+
+==================================================
+Name: Dig For Riches
+Release Date: Sep 10, 2026
+Price: $6.79 (-15%, was $7.99)
+Genres: Action, Adventure, Casual, Indie, RPG, Simulation, Strategy
+Link: https://store.steampowered.com/app/3934080
+==================================================
+
+==================================================
+Name: Project Cobalt
+Release Date: Sep 10, 2026
+Price: $9.89 (-10%, was $10.99)
+Genres: Action, Adventure, Indie, RPG, Simulation, Strategy
+Link: https://store.steampowered.com/app/3916570
+==================================================
+
