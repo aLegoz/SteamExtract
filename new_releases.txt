@@ -77557,3 +77557,182 @@ Genres: Adventure, Indie, RPG, Strategy
 Link: https://store.steampowered.com/app/4533490
 ==================================================
 
+
+--- Run: 2026-09-10 18:46:14 --- (22 new game(s) found)
+
+==================================================
+Name: Dirt Fishing: Metal Detecting Simulator
+Release Date: Sep 10, 2026
+Price: $8.09 (-10%, was $8.99)
+Genres: Simulation
+Link: https://store.steampowered.com/app/5039190
+==================================================
+
+==================================================
+Name: Football Club Inside
+Release Date: Sep 10, 2026
+Price: $2.79 (-30%, was $3.99)
+Genres: Adventure, Indie, Sports
+Link: https://store.steampowered.com/app/4103500
+==================================================
+
+==================================================
+Name: I Need to Fix My Dream Car (But I Work at a Junkyard)
+Release Date: Sep 10, 2026
+Price: $7.92 (-39%, was $12.99)
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/3889540
+==================================================
+
+==================================================
+Name: Falk
+Release Date: Sep 10, 2026
+Price: $9.99
+Genres: RPG
+Link: https://store.steampowered.com/app/5099120
+==================================================
+
+==================================================
+Name: The Crust
+Release Date: Sep 10, 2026
+Price: $20.79 (-35%, was $31.99)
+Genres: Simulation, Strategy
+Link: https://store.steampowered.com/app/1465470
+==================================================
+
+==================================================
+Name: Loop Miner
+Release Date: Sep 10, 2026
+Price: $3.49
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4715320
+==================================================
+
+==================================================
+Name: Under Her Command - Femdom Visual Novel
+Release Date: Sep 10, 2026
+Price: $10.79 (-10%, was $11.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/4737930
+==================================================
+
+==================================================
+Name: Agents! Please?
+Release Date: Sep 10, 2026
+Price: $3.23 (-20%, was $4.04)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5166150
+==================================================
+
+==================================================
+Name: KARJALA
+Release Date: Sep 10, 2026
+Price: $11.19 (-20%, was $13.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/2837780
+==================================================
+
+==================================================
+Name: Effulgence RPG
+Release Date: Sep 10, 2026
+Price: $14.99 (-25%, was $19.99)
+Genres: Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/3302080
+==================================================
+
+==================================================
+Name: Drag'n Wash
+Release Date: Sep 10, 2026
+Price: $13.49 (-10%, was $14.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4739660
+==================================================
+
+==================================================
+Name: Escape Toon Kingdom
+Release Date: Sep 10, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: Action, Adventure
+Link: https://store.steampowered.com/app/3198360
+==================================================
+
+==================================================
+Name: Clamor: Bounty Hunter Pinball
+Release Date: Sep 10, 2026
+Price: $10.79 (-10%, was $11.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/5138150
+==================================================
+
+==================================================
+Name: Life's Too Short: On Reflection
+Release Date: Sep 10, 2026
+Price: $2.70 (-10%, was $3.00)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4962550
+==================================================
+
+==================================================
+Name: Spiritus Sancti
+Release Date: Sep 10, 2026
+Price: $11.69 (-10%, was $12.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/3954460
+==================================================
+
+==================================================
+Name: 塑风之恋-A Wind-Shaped Love
+Release Date: Sep 10, 2026
+Price: Free to Play
+Genres: Adventure, Casual, RPG, Free To Play
+Link: https://store.steampowered.com/app/5048520
+==================================================
+
+==================================================
+Name: Visual Novel: Golden Hostage
+Release Date: Sep 10, 2026
+Price: $0.69 (-30%, was $0.99)
+Genres: Action, Adventure, Casual, Indie, RPG
+Link: https://store.steampowered.com/app/5036680
+==================================================
+
+==================================================
+Name: Infinity: HexaDome Tactics
+Release Date: Sep 10, 2026
+Price: $17.99 (-10%, was $19.99)
+Genres: Strategy
+Link: https://store.steampowered.com/app/1498550
+==================================================
+
+==================================================
+Name: Garden Ink
+Release Date: Sep 10, 2026
+Price: $8.55 (-10%, was $9.50)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/3421740
+==================================================
+
+==================================================
+Name: Millumi
+Release Date: Sep 10, 2026
+Price: $9.89 (-10%, was $10.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/3206180
+==================================================
+
+==================================================
+Name: The Alighieri Circle: Dante's Bloodline
+Release Date: Sep 10, 2026
+Price: $17.99 (-10%, was $19.99)
+Genres: Adventure
+Link: https://store.steampowered.com/app/4262620
+==================================================
+
+==================================================
+Name: Kollectomaniac
+Release Date: Sep 10, 2026
+Price: $5.99 (-25%, was $7.99)
+Genres: Action, Adventure, Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/3491740
+==================================================
+
