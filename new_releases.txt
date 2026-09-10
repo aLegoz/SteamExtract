@@ -77736,3 +77736,46 @@ Genres: Action, Adventure, Casual, Indie, Strategy
 Link: https://store.steampowered.com/app/3491740
 ==================================================
 
+
+--- Run: 2026-09-10 21:15:55 --- (5 new game(s) found)
+
+==================================================
+Name: Bugs. Billions of Bugs.
+Release Date: Sep 10, 2026
+Price: $1.79 (-40%, was $2.99)
+Genres: Action, Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/5121720
+==================================================
+
+==================================================
+Name: Would You Love Me If I Was a Snake?
+Release Date: Sep 10, 2026
+Price: $10.49 (-25%, was $13.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4284670
+==================================================
+
+==================================================
+Name: Horrors Glade
+Release Date: Sep 10, 2026
+Price: $6.09 (-39%, was $9.99)
+Genres: Adventure, Simulation
+Link: https://store.steampowered.com/app/3424000
+==================================================
+
+==================================================
+Name: Quiet Hour
+Release Date: Sep 10, 2026
+Price: $11.69 (-10%, was $12.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4697110
+==================================================
+
+==================================================
+Name: Black Plague
+Release Date: Sep 10, 2026
+Price: $3.14 (-37%, was $4.99)
+Genres: Action, Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4370860
+==================================================
+
