@@ -77394,3 +77394,166 @@ Genres: Indie, Simulation, Strategy
 Link: https://store.steampowered.com/app/4872150
 ==================================================
 
+
+--- Run: 2026-09-10 15:21:09 --- (20 new game(s) found)
+
+==================================================
+Name: Magical Blush
+Release Date: Sep 10, 2026
+Price: $14.99
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/3488640
+==================================================
+
+==================================================
+Name: Dumb Ways to Build
+Release Date: Sep 10, 2026
+Price: $7.99
+Genres: Action, Adventure, Casual
+Link: https://store.steampowered.com/app/4412320
+==================================================
+
+==================================================
+Name: Astralis : Dawnblades
+Release Date: Sep 10, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Indie, RPG
+Link: https://store.steampowered.com/app/4233920
+==================================================
+
+==================================================
+Name: One Man's Trash: Pawn Shop After Dark
+Release Date: Sep 10, 2026
+Price: $2.54 (-15%, was $2.99)
+Genres: Action, Adventure, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4489570
+==================================================
+
+==================================================
+Name: Legends of Aria Eternal
+Release Date: Sep 10, 2026
+Price: $20.00
+Genres: Action, Adventure, Massively Multiplayer, RPG
+Link: https://store.steampowered.com/app/3944440
+==================================================
+
+==================================================
+Name: Raider Pheasant
+Release Date: Sep 10, 2026
+Price: $8.79 (-20%, was $10.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/5040950
+==================================================
+
+==================================================
+Name: Roguecraft DX
+Release Date: Sep 10, 2026
+Price: $9.59 (-20%, was $11.99)
+Genres: Casual, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/3674680
+==================================================
+
+==================================================
+Name: Destiny Spire
+Release Date: Sep 10, 2026
+Price: $14.99
+Genres: Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/3369150
+==================================================
+
+==================================================
+Name: Shady job
+Release Date: Sep 10, 2026
+Price: $4.95 (-38%, was $7.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/4190710
+==================================================
+
+==================================================
+Name: Sunken Engine
+Release Date: Sep 10, 2026
+Price: $8.99 (-40%, was $14.99)
+Genres: Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/3604780
+==================================================
+
+==================================================
+Name: Black Gold: Oil Drilling Simulator
+Release Date: Sep 10, 2026
+Price: $11.99 (-20%, was $14.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/1473260
+==================================================
+
+==================================================
+Name: Orebits
+Release Date: Sep 10, 2026
+Price: $6.29 (-10%, was $6.99)
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/3635490
+==================================================
+
+==================================================
+Name: Grandpa's Bee Haven
+Release Date: Sep 10, 2026
+Price: $5.94 (-15%, was $6.99)
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/3209160
+==================================================
+
+==================================================
+Name: Refund Me TD
+Release Date: Sep 10, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/5159600
+==================================================
+
+==================================================
+Name: Babes and Battles
+Release Date: Sep 10, 2026
+Price: Free to Play
+Genres: Action, Adventure, RPG, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4734530
+==================================================
+
+==================================================
+Name: Simple GIF Maker — MP4, MOV, MKV, AVI to GIF & Animated WEBP
+Release Date: Sep 10, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Casual, Indie, Utilities
+Link: https://store.steampowered.com/app/5153540
+==================================================
+
+==================================================
+Name: Wanker
+Release Date: Sep 10, 2026
+Price: Free to Play
+Genres: Indie, Simulation, Free To Play
+Link: https://store.steampowered.com/app/4934800
+==================================================
+
+==================================================
+Name: Send More Monsters
+Release Date: Sep 10, 2026
+Price: $7.64 (-15%, was $8.99)
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/5088870
+==================================================
+
+==================================================
+Name: Hentai Nurse Fantasy
+Release Date: Sep 10, 2026
+Price: $1.99
+Genres: Casual
+Link: https://store.steampowered.com/app/4952410
+==================================================
+
+==================================================
+Name: 黯渊崛起：魔灵深渊
+Release Date: Sep 10, 2026
+Price: $5.32 (-27%, was $7.30)
+Genres: Adventure, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/4533490
+==================================================
+
