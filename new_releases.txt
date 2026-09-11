@@ -77814,3 +77814,102 @@ Genres: Action, Adventure, Indie, RPG, Simulation, Strategy
 Link: https://store.steampowered.com/app/3916570
 ==================================================
 
+
+--- Run: 2026-09-11 01:44:50 --- (12 new game(s) found)
+
+==================================================
+Name: Goblin "Gnight" Garuru
+Release Date: Sep 10, 2026
+Price: $6.79 (-15%, was $7.99)
+Genres: Adventure, RPG
+Link: https://store.steampowered.com/app/4300160
+==================================================
+
+==================================================
+Name: Monster Adventure Studio
+Release Date: Sep 10, 2026
+Price: $31.99 (-20%, was $39.99)
+Genres: Game Development
+Link: https://store.steampowered.com/app/4575230
+==================================================
+
+==================================================
+Name: Electronics Depot Simulator
+Release Date: Sep 10, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5089560
+==================================================
+
+==================================================
+Name: Not My Child
+Release Date: Sep 10, 2026
+Price: $5.99
+Genres: Action
+Link: https://store.steampowered.com/app/4157670
+==================================================
+
+==================================================
+Name: Tinymon RPG
+Release Date: Sep 10, 2026
+Price: $7.99
+Genres: Adventure, Casual, RPG
+Link: https://store.steampowered.com/app/3306960
+==================================================
+
+==================================================
+Name: Commit!!!
+Release Date: Sep 10, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4994630
+==================================================
+
+==================================================
+Name: After Work
+Release Date: Sep 10, 2026
+Price: $2.69 (-10%, was $2.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4989780
+==================================================
+
+==================================================
+Name: AETHER CROWN
+Release Date: Sep 10, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Indie, RPG, Simulation
+Link: https://store.steampowered.com/app/4677980
+==================================================
+
+==================================================
+Name: Sweepers Luck
+Release Date: Sep 10, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/5129360
+==================================================
+
+==================================================
+Name: Hentai Step Sister
+Release Date: Sep 10, 2026
+Price: $0.64 (-35%, was $0.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5045290
+==================================================
+
+==================================================
+Name: Car Parkour 3 Together
+Release Date: Sep 10, 2026
+Price: $0.49 (-51%, was $0.99)
+Genres: Adventure, Indie, Racing, Simulation
+Link: https://store.steampowered.com/app/5142270
+==================================================
+
+==================================================
+Name: SIX SECOND SHADOW
+Release Date: Sep 10, 2026
+Price: $2.94 (-40%, was $4.90)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/5009600
+==================================================
+
