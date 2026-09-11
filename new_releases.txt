@@ -78461,3 +78461,30 @@ Genres: Casual
 Link: https://store.steampowered.com/app/4300470
 ==================================================
 
+
+--- Run: 2026-09-11 21:23:55 --- (3 new game(s) found)
+
+==================================================
+Name: Dwarf Core
+Release Date: Sep 11, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4992740
+==================================================
+
+==================================================
+Name: TomoTomo
+Release Date: Sep 11, 2026
+Price: Free to Play
+Genres: Action, Adventure, Indie, Free To Play
+Link: https://store.steampowered.com/app/4698070
+==================================================
+
+==================================================
+Name: Boundless AI Fantasy
+Release Date: Sep 11, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Adventure, Casual, Indie, RPG, Simulation, Strategy
+Link: https://store.steampowered.com/app/3750150
+==================================================
+
