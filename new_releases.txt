@@ -78191,3 +78191,126 @@ Genres: Simulation
 Link: https://store.steampowered.com/app/4951590
 ==================================================
 
+
+--- Run: 2026-09-11 15:23:06 --- (15 new game(s) found)
+
+==================================================
+Name: The Loopler
+Release Date: Sep 11, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Casual, Indie, Racing, Simulation, Strategy
+Link: https://store.steampowered.com/app/4150860
+==================================================
+
+==================================================
+Name: AutoParts Simulator
+Release Date: Sep 11, 2026
+Price: $2.99
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/1477080
+==================================================
+
+==================================================
+Name: Pieces of the Kingdom
+Release Date: Sep 11, 2026
+Price: $7.19 (-10%, was $7.99)
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/3856240
+==================================================
+
+==================================================
+Name: La gran aventura de David Santiso
+Release Date: Sep 11, 2026
+Price: $9.89 (-10%, was $10.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4927340
+==================================================
+
+==================================================
+Name: 101 Cats: Lisbon
+Release Date: Sep 11, 2026
+Price: $0.59 (-40%, was $0.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5091850
+==================================================
+
+==================================================
+Name: Good Job - Prologue
+Release Date: Sep 11, 2026
+Price: Free to Play
+Genres: Adventure, Indie, Simulation, Free To Play
+Link: https://store.steampowered.com/app/5088710
+==================================================
+
+==================================================
+Name: Sporting Goods Shop
+Release Date: Sep 11, 2026
+Price: $7.19 (-40%, was $11.99)
+Genres: Action, Adventure, Casual, Indie, RPG, Simulation, Sports
+Link: https://store.steampowered.com/app/3653250
+==================================================
+
+==================================================
+Name: TACOS - The Adventurous Couple's Original Story Season 1
+Release Date: Sep 11, 2026
+Price: $11.69 (-10%, was $12.99)
+Genres: Adventure, Simulation
+Link: https://store.steampowered.com/app/3962840
+==================================================
+
+==================================================
+Name: Toto`s mini house
+Release Date: Sep 11, 2026
+Price: $2.54 (-15%, was $2.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4129600
+==================================================
+
+==================================================
+Name: The Night That Reaches a God
+Release Date: Sep 11, 2026
+Price: $2.69 (-10%, was $2.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4846320
+==================================================
+
+==================================================
+Name: Hentai Tales: The Plumber
+Release Date: Sep 11, 2026
+Price: $0.59 (-40%, was $0.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4924560
+==================================================
+
+==================================================
+Name: 仙路漫漫
+Release Date: Sep 11, 2026
+Price: $1.95 (-25%, was $2.60)
+Genres: Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/4848080
+==================================================
+
+==================================================
+Name: Increbouncer
+Release Date: Sep 11, 2026
+Price: $2.69 (-10%, was $2.99)
+Genres: Action, Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4677610
+==================================================
+
+==================================================
+Name: DARKODAI
+Release Date: Sep 11, 2026
+Price: $1.99
+Genres: Adventure, Casual, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/3942570
+==================================================
+
+==================================================
+Name: Temple 13 - Time Collapse
+Release Date: Sep 11, 2026
+Price: $7.19 (-10%, was $7.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/5071920
+==================================================
+
