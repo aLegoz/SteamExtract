@@ -77913,3 +77913,118 @@ Genres: Action, Indie
 Link: https://store.steampowered.com/app/5009600
 ==================================================
 
+
+--- Run: 2026-09-11 06:45:00 --- (14 new game(s) found)
+
+==================================================
+Name: Temporal Anomaly Bureau
+Release Date: Sep 10, 2026
+Price: $2.39 (-40%, was $3.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/4998020
+==================================================
+
+==================================================
+Name: RHYTHM NEBULA
+Release Date: Sep 10, 2026
+Price: $19.99
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4806640
+==================================================
+
+==================================================
+Name: I'm Not Sex King
+Release Date: Sep 10, 2026
+Price: $8.79 (-20%, was $10.99)
+Genres: Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/4728830
+==================================================
+
+==================================================
+Name: Kill Spewy
+Release Date: Sep 10, 2026
+Price: $1.00
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4282360
+==================================================
+
+==================================================
+Name: Master Of Pottery
+Release Date: Sep 10, 2026
+Price: $5.09 (-15%, was $5.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/1160490
+==================================================
+
+==================================================
+Name: Animal Striker 2
+Release Date: Sep 10, 2026
+Price: Free to Play
+Genres: Massively Multiplayer, Free To Play
+Link: https://store.steampowered.com/app/3241210
+==================================================
+
+==================================================
+Name: Gyin
+Release Date: Sep 10, 2026
+Price: $4.99
+Genres: Design & Illustration, Utilities
+Link: https://store.steampowered.com/app/4980260
+==================================================
+
+==================================================
+Name: Riruri Tachibana : Reincarnated
+Release Date: Sep 10, 2026
+Price: $5.39 (-10%, was $5.99)
+Genres: Indie
+Link: https://store.steampowered.com/app/3874890
+==================================================
+
+==================================================
+Name: Nightpark Journal
+Release Date: Sep 10, 2026
+Price: $5.39 (-10%, was $5.99)
+Genres: Adventure, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/3649690
+==================================================
+
+==================================================
+Name: The Starborn Return
+Release Date: Sep 10, 2026
+Price: $9.89 (-10%, was $10.99)
+Genres: Adventure, Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/2824570
+==================================================
+
+==================================================
+Name: Gunmetal Orbit
+Release Date: Sep 10, 2026
+Price: $4.99
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4975430
+==================================================
+
+==================================================
+Name: The Ascendant Sect
+Release Date: Sep 10, 2026
+Price: $0.89 (-10%, was $0.99)
+Genres: Indie, RPG, Simulation, Strategy
+Link: https://store.steampowered.com/app/5057560
+==================================================
+
+==================================================
+Name: Pool Shark
+Release Date: Sep 10, 2026
+Price: Free to Play
+Genres: Casual, Indie, Sports, Free To Play
+Link: https://store.steampowered.com/app/4959800
+==================================================
+
+==================================================
+Name: Sudoku Solace
+Release Date: Sep 10, 2026
+Price: $2.99
+Genres: Casual
+Link: https://store.steampowered.com/app/4808010
+==================================================
+
