@@ -78028,3 +78028,166 @@ Genres: Casual
 Link: https://store.steampowered.com/app/4808010
 ==================================================
 
+
+--- Run: 2026-09-11 11:54:22 --- (20 new game(s) found)
+
+==================================================
+Name: Succubus Nightmare
+Release Date: Sep 11, 2026
+Price: $13.49 (-10%, was $14.99)
+Genres: Adventure, RPG
+Link: https://store.steampowered.com/app/4507930
+==================================================
+
+==================================================
+Name: Arduz
+Release Date: Coming soon
+Price: Free to Play
+Genres: Action, Massively Multiplayer, RPG, Free To Play
+Link: https://store.steampowered.com/app/5159990
+==================================================
+
+==================================================
+Name: Shadowlight
+Release Date: Sep 11, 2026
+Price: $2.99 (-40%, was $4.99)
+Genres: Adventure, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/5180470
+==================================================
+
+==================================================
+Name: 依灵餐厅
+Release Date: Sep 11, 2026
+Price: $17.99
+Genres: Casual, Simulation
+Link: https://store.steampowered.com/app/5125020
+==================================================
+
+==================================================
+Name: 小先生 Little ShiFu
+Release Date: Sep 11, 2026
+Price: $5.61 (-10%, was $6.24)
+Genres: Action, Adventure, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/3170460
+==================================================
+
+==================================================
+Name: Starweaver Express ~Per aspera ad astra~
+Release Date: Sep 11, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Adventure, Casual, Indie, RPG
+Link: https://store.steampowered.com/app/3664060
+==================================================
+
+==================================================
+Name: Tower Of Legends
+Release Date: Sep 11, 2026
+Price: $3.24 (-35%, was $4.99)
+Genres: Action, Adventure
+Link: https://store.steampowered.com/app/4998380
+==================================================
+
+==================================================
+Name: DIG Raiders: Anomaly Extraction
+Release Date: Sep 11, 2026
+Price: $6.99 (-30%, was $9.99)
+Genres: Action, Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/4368640
+==================================================
+
+==================================================
+Name: Stack Epoch
+Release Date: Sep 11, 2026
+Price: $2.79 (-30%, was $3.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/3250900
+==================================================
+
+==================================================
+Name: PegPigeon
+Release Date: Sep 11, 2026
+Price: $0.99
+Genres: Casual
+Link: https://store.steampowered.com/app/4737610
+==================================================
+
+==================================================
+Name: King of Jade: Stone Tycoon
+Release Date: Sep 11, 2026
+Price: $7.19 (-10%, was $7.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4821420
+==================================================
+
+==================================================
+Name: Secret Stream ASMR with Saya: Just the Two of Us
+Release Date: Sep 11, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: Adventure
+Link: https://store.steampowered.com/app/4580590
+==================================================
+
+==================================================
+Name: Untergrund Raceways - Arena
+Release Date: Sep 11, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/5087440
+==================================================
+
+==================================================
+Name: Samgood Chronicles DragonFall
+Release Date: Sep 11, 2026
+Price: $12.99
+Genres: Action, Adventure, Casual, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/5116130
+==================================================
+
+==================================================
+Name: Blurry Shopping
+Release Date: Sep 11, 2026
+Price: $3.39 (-15%, was $3.99)
+Genres: Casual, Indie, Racing, Simulation, Sports
+Link: https://store.steampowered.com/app/4487760
+==================================================
+
+==================================================
+Name: SIMPLE ACTION
+Release Date: Sep 11, 2026
+Price: Free to Play
+Genres: Action, Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/5157140
+==================================================
+
+==================================================
+Name: Beach, Girls & Ice Cream
+Release Date: Sep 11, 2026
+Price: $4.97 (-17%, was $5.99)
+Genres: Simulation
+Link: https://store.steampowered.com/app/5091780
+==================================================
+
+==================================================
+Name: Journey to Echo
+Release Date: Sep 11, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Adventure, Simulation
+Link: https://store.steampowered.com/app/4895560
+==================================================
+
+==================================================
+Name: She Sucked Me Once, and Dry
+Release Date: Sep 11, 2026
+Price: Free to Play
+Genres: Adventure, Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/5116160
+==================================================
+
+==================================================
+Name: Ball Scratch Simulator
+Release Date: Sep 10, 2026
+Price: $3.39 (-15%, was $3.99)
+Genres: Simulation
+Link: https://store.steampowered.com/app/4951590
+==================================================
+
