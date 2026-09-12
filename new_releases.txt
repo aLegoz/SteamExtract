@@ -78807,3 +78807,38 @@ Genres: Adventure, Casual, Indie, RPG, Strategy
 Link: https://store.steampowered.com/app/4624470
 ==================================================
 
+
+--- Run: 2026-09-12 17:29:18 --- (4 new game(s) found)
+
+==================================================
+Name: ESCAPEAWAY!
+Release Date: Sep 12, 2026
+Price: Free to Play
+Genres: Action, Indie, Free To Play
+Link: https://store.steampowered.com/app/5143520
+==================================================
+
+==================================================
+Name: Next Girl, Please 🎬
+Release Date: Sep 12, 2026
+Price: $9.44 (-37%, was $14.99)
+Genres: Casual, RPG, Simulation
+Link: https://store.steampowered.com/app/4602300
+==================================================
+
+==================================================
+Name: I Have Only MP
+Release Date: Sep 12, 2026
+Price: $7.19 (-10%, was $7.99)
+Genres: Action, Casual, Indie, RPG
+Link: https://store.steampowered.com/app/4886630
+==================================================
+
+==================================================
+Name: Space Phantom
+Release Date: Sep 11, 2026
+Price: $1.59 (-20%, was $1.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4871760
+==================================================
+
