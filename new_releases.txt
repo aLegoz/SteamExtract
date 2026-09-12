@@ -78748,3 +78748,62 @@ Genres: Action, Adventure, Casual, RPG, Simulation
 Link: https://store.steampowered.com/app/5126930
 ==================================================
 
+
+--- Run: 2026-09-12 14:30:13 --- (7 new game(s) found)
+
+==================================================
+Name: Kamenkik and Friends
+Release Date: Sep 12, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Action, Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4943620
+==================================================
+
+==================================================
+Name: Teach Kids Math
+Release Date: Sep 12, 2026
+Price: $19.99
+Genres: Casual, Strategy
+Link: https://store.steampowered.com/app/4414050
+==================================================
+
+==================================================
+Name: Dark Avos
+Release Date: Sep 12, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Strategy
+Link: https://store.steampowered.com/app/4849670
+==================================================
+
+==================================================
+Name: Ashfall Keep
+Release Date: Sep 12, 2026
+Price: $6.29 (-10%, was $6.99)
+Genres: Action, Adventure, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/5077290
+==================================================
+
+==================================================
+Name: AstroDig
+Release Date: Sep 11, 2026
+Price: $5.39 (-10%, was $5.99)
+Genres: Action, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4587710
+==================================================
+
+==================================================
+Name: Dockable
+Release Date: Sep 11, 2026
+Price: $3.59 (-10%, was $3.99)
+Genres: Utilities
+Link: https://store.steampowered.com/app/4915150
+==================================================
+
+==================================================
+Name: Pengzle:Arctic Arcane
+Release Date: Sep 11, 2026
+Price: $5.99
+Genres: Adventure, Casual, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/4624470
+==================================================
+
