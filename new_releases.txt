@@ -78590,3 +78590,86 @@ Genres: Action, Casual, Indie
 Link: https://store.steampowered.com/app/5123960
 ==================================================
 
+
+--- Run: 2026-09-12 06:37:16 --- (10 new game(s) found)
+
+==================================================
+Name: Mother;Above
+Release Date: Sep 11, 2026
+Price: $2.39 (-20%, was $2.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/5074900
+==================================================
+
+==================================================
+Name: Chud Logic's: Gockbound
+Release Date: Sep 11, 2026
+Price: $5.59 (-20%, was $6.99)
+Genres: Action, Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/3802620
+==================================================
+
+==================================================
+Name: Pixel Cultivation Chronicles
+Release Date: Sep 11, 2026
+Price: $6.29 (-10%, was $6.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4903680
+==================================================
+
+==================================================
+Name: Tentacle Locker 2
+Release Date: Sep 11, 2026
+Price: $5.59 (-20%, was $6.99)
+Genres: Casual, Simulation
+Link: https://store.steampowered.com/app/4071460
+==================================================
+
+==================================================
+Name: THE LAST LOGIN
+Release Date: Sep 11, 2026
+Price: $11.69 (-10%, was $12.99)
+Genres: Action, Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/4773940
+==================================================
+
+==================================================
+Name: The Village Above the Well
+Release Date: Sep 11, 2026
+Price: $5.35 (-33%, was $7.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5077580
+==================================================
+
+==================================================
+Name: WORDLACE
+Release Date: Sep 11, 2026
+Price: $2.39 (-20%, was $2.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/5168770
+==================================================
+
+==================================================
+Name: Rotfang: The House
+Release Date: Sep 11, 2026
+Price: $3.00
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/4535320
+==================================================
+
+==================================================
+Name: Proper Tosser
+Release Date: Sep 11, 2026
+Price: $5.39 (-10%, was $5.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5044220
+==================================================
+
+==================================================
+Name: Scoundrel: The Descent
+Release Date: Sep 11, 2026
+Price: $4.79 (-20%, was $5.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4802190
+==================================================
+
