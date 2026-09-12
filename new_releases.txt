@@ -78842,3 +78842,22 @@ Genres: Casual, Indie
 Link: https://store.steampowered.com/app/4871760
 ==================================================
 
+
+--- Run: 2026-09-12 19:45:39 --- (2 new game(s) found)
+
+==================================================
+Name: Girlfriend Simulator
+Release Date: Sep 12, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Action, Adventure, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5011730
+==================================================
+
+==================================================
+Name: PACIFIC RHYTHM
+Release Date: Sep 11, 2026
+Price: $0.99
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4968580
+==================================================
+
