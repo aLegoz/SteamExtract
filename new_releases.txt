@@ -78673,3 +78673,78 @@ Genres: Casual, Indie, Strategy
 Link: https://store.steampowered.com/app/4802190
 ==================================================
 
+
+--- Run: 2026-09-12 11:20:27 --- (9 new game(s) found)
+
+==================================================
+Name: Friendly Fire
+Release Date: Sep 12, 2026
+Price: Free to Play
+Genres: Action, Casual, Free To Play
+Link: https://store.steampowered.com/app/4905650
+==================================================
+
+==================================================
+Name: Vegeteamble
+Release Date: Sep 12, 2026
+Price: $2.99
+Genres: Action, Indie, Massively Multiplayer, Strategy
+Link: https://store.steampowered.com/app/5099030
+==================================================
+
+==================================================
+Name: BULBIT
+Release Date: Sep 12, 2026
+Price: $3.59 (-10%, was $3.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/5064740
+==================================================
+
+==================================================
+Name: 武道余晖 The Last Glimmer of the Martial Way
+Release Date: Sep 11, 2026
+Price: $8.99
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/4842470
+==================================================
+
+==================================================
+Name: scale2fit
+Release Date: Sep 11, 2026
+Price: $1.99
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4057950
+==================================================
+
+==================================================
+Name: Play the Wor!d
+Release Date: Sep 11, 2026
+Price: $1.59 (-20%, was $1.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4727440
+==================================================
+
+==================================================
+Name: Basketball Legacy Manager 27
+Release Date: Sep 11, 2026
+Price: $9.99
+Genres: Simulation, Sports, Strategy
+Link: https://store.steampowered.com/app/4874590
+==================================================
+
+==================================================
+Name: VR # AVOID
+Release Date: Sep 11, 2026
+Price: $3.49 (-30%, was $4.99)
+Genres: Action, Sports
+Link: https://store.steampowered.com/app/2822270
+==================================================
+
+==================================================
+Name: Arcanefall : Darklands
+Release Date: Sep 11, 2026
+Price: $0.99
+Genres: Action, Adventure, Casual, RPG, Simulation
+Link: https://store.steampowered.com/app/5126930
+==================================================
+
