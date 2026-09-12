@@ -78555,3 +78555,38 @@ Genres: Adventure, Casual, Indie
 Link: https://store.steampowered.com/app/5164720
 ==================================================
 
+
+--- Run: 2026-09-12 01:50:24 --- (4 new game(s) found)
+
+==================================================
+Name: Minip
+Release Date: Sep 11, 2026
+Price: $1.99
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5097600
+==================================================
+
+==================================================
+Name: Fall Queen
+Release Date: Sep 11, 2026
+Price: Free to Play
+Genres: Adventure, Free To Play
+Link: https://store.steampowered.com/app/5034930
+==================================================
+
+==================================================
+Name: Survivor's Notes
+Release Date: Sep 11, 2026
+Price: $6.29 (-10%, was $6.99)
+Genres: Adventure, Indie, RPG, Simulation
+Link: https://store.steampowered.com/app/4354460
+==================================================
+
+==================================================
+Name: Hentai Age Mystic
+Release Date: Sep 11, 2026
+Price: $0.79 (-20%, was $0.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/5123960
+==================================================
+
