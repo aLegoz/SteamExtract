@@ -78872,3 +78872,54 @@ Genres: Action, Simulation
 Link: https://store.steampowered.com/app/2193040
 ==================================================
 
+
+--- Run: 2026-09-12 23:29:48 --- (6 new game(s) found)
+
+==================================================
+Name: Strip Mall Simulator
+Release Date: Sep 12, 2026
+Price: $7.19 (-10%, was $7.99)
+Genres: Simulation
+Link: https://store.steampowered.com/app/5050290
+==================================================
+
+==================================================
+Name: Enhanced Affair
+Release Date: Sep 12, 2026
+Price: $4.19 (-40%, was $6.99)
+Genres: Adventure, Simulation
+Link: https://store.steampowered.com/app/4950560
+==================================================
+
+==================================================
+Name: Level P
+Release Date: Sep 12, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/4724910
+==================================================
+
+==================================================
+Name: You Will Get Rich!
+Release Date: Sep 12, 2026
+Price: $0.99
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5169430
+==================================================
+
+==================================================
+Name: Nova Drop
+Release Date: Sep 12, 2026
+Price: $1.79 (-10%, was $1.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5065040
+==================================================
+
+==================================================
+Name: Memes Battle
+Release Date: Sep 11, 2026
+Price: $5.09 (-15%, was $5.99)
+Genres: Action, Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4801240
+==================================================
+
