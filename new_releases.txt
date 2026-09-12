@@ -78861,3 +78861,14 @@ Genres: Action, Indie
 Link: https://store.steampowered.com/app/4968580
 ==================================================
 
+
+--- Run: 2026-09-12 21:45:21 --- (1 new game(s) found)
+
+==================================================
+Name: Pool Ball Battle Royale
+Release Date: Sep 12, 2026
+Price: $5.99
+Genres: Action, Simulation
+Link: https://store.steampowered.com/app/2193040
+==================================================
+
