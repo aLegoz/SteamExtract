@@ -79063,3 +79063,46 @@ Genres: Strategy
 Link: https://store.steampowered.com/app/5025870
 ==================================================
 
+
+--- Run: 2026-09-13 19:02:06 --- (5 new game(s) found)
+
+==================================================
+Name: Spirit Animal Survival
+Release Date: Sep 13, 2026
+Price: $19.99
+Genres: Action, Adventure, Massively Multiplayer, RPG, Strategy
+Link: https://store.steampowered.com/app/745810
+==================================================
+
+==================================================
+Name: Beyond Yardwork Simulator Prologue
+Release Date: Sep 13, 2026
+Price: Free to Play
+Genres: Casual, Indie, Simulation, Free To Play
+Link: https://store.steampowered.com/app/5018390
+==================================================
+
+==================================================
+Name: Quest Industries
+Release Date: Sep 13, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Adventure, Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/2736900
+==================================================
+
+==================================================
+Name: Crzpp
+Release Date: Sep 13, 2026
+Price: $1.37
+Genres: Design & Illustration
+Link: https://store.steampowered.com/app/4949140
+==================================================
+
+==================================================
+Name: Desert Vein
+Release Date: Sep 13, 2026
+Price: $0.99
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/5107000
+==================================================
+
