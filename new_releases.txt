@@ -78950,3 +78950,22 @@ Genres: Action, Indie, RPG, Strategy
 Link: https://store.steampowered.com/app/2499540
 ==================================================
 
+
+--- Run: 2026-09-13 06:52:52 --- (2 new game(s) found)
+
+==================================================
+Name: Kilnborn
+Release Date: Sep 12, 2026
+Price: Free to Play
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/5104330
+==================================================
+
+==================================================
+Name: groky
+Release Date: Sep 12, 2026
+Price: $3.49 (-30%, was $4.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/5173960
+==================================================
+
