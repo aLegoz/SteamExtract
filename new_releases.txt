@@ -78923,3 +78923,30 @@ Genres: Action, Adventure, Casual, Indie
 Link: https://store.steampowered.com/app/4801240
 ==================================================
 
+
+--- Run: 2026-09-13 01:41:23 --- (3 new game(s) found)
+
+==================================================
+Name: Elegy For A Violet
+Release Date: Sep 12, 2026
+Price: Free to Play
+Genres: Action, Adventure, Casual, Strategy
+Link: https://store.steampowered.com/app/3991330
+==================================================
+
+==================================================
+Name: Kıvam
+Release Date: Sep 12, 2026
+Price: $4.99
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4849130
+==================================================
+
+==================================================
+Name: Selection Kingdom: Level 1 - Limited -
+Release Date: Sep 11, 2026
+Price: $2.99
+Genres: Action, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/2499540
+==================================================
+
