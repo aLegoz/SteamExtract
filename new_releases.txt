@@ -78969,3 +78969,30 @@ Genres: Casual, Indie, Strategy
 Link: https://store.steampowered.com/app/5173960
 ==================================================
 
+
+--- Run: 2026-09-13 12:23:23 --- (3 new game(s) found)
+
+==================================================
+Name: The Rallying Ball
+Release Date: Sep 13, 2026
+Price: $2.99
+Genres: Action, Indie, Racing
+Link: https://store.steampowered.com/app/4342670
+==================================================
+
+==================================================
+Name: ORBA
+Release Date: Sep 13, 2026
+Price: $2.09 (-30%, was $2.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/3520600
+==================================================
+
+==================================================
+Name: DAKENSHI
+Release Date: Sep 12, 2026
+Price: $2.99
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/5156410
+==================================================
+
