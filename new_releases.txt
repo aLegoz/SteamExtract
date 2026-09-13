@@ -79141,3 +79141,22 @@ Genres: Action, Casual, Indie
 Link: https://store.steampowered.com/app/4767920
 ==================================================
 
+
+--- Run: 2026-09-13 23:43:05 --- (2 new game(s) found)
+
+==================================================
+Name: Aethercrypt
+Release Date: Sep 13, 2026
+Price: $12.99
+Genres: Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/4908980
+==================================================
+
+==================================================
+Name: Cyborg Earthworm
+Release Date: Sep 12, 2026
+Price: $4.99
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/1212760
+==================================================
+
