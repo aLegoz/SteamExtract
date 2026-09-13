@@ -79106,3 +79106,38 @@ Genres: Casual, Indie, Strategy
 Link: https://store.steampowered.com/app/5107000
 ==================================================
 
+
+--- Run: 2026-09-13 21:52:33 --- (4 new game(s) found)
+
+==================================================
+Name: Clickoire
+Release Date: Sep 13, 2026
+Price: $1.99
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/5127360
+==================================================
+
+==================================================
+Name: Daemon
+Release Date: Sep 13, 2026
+Price: Free to Play
+Genres: Action, Indie, Free To Play
+Link: https://store.steampowered.com/app/3807190
+==================================================
+
+==================================================
+Name: Animaly Bar: NO HUMANITY!
+Release Date: Sep 13, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Action, Indie, Simulation
+Link: https://store.steampowered.com/app/4580600
+==================================================
+
+==================================================
+Name: Friendly Fire
+Release Date: Sep 13, 2026
+Price: $2.39 (-20%, was $2.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4767920
+==================================================
+
