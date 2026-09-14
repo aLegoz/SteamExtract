@@ -79449,3 +79449,230 @@ Genres: Adventure, RPG
 Link: https://store.steampowered.com/app/4976680
 ==================================================
 
+
+--- Run: 2026-09-14 19:40:36 --- (28 new game(s) found)
+
+==================================================
+Name: Drift Invaders
+Release Date: Sep 14, 2026
+Price: Free to Play
+Genres: Action, Indie, Racing, Free To Play
+Link: https://store.steampowered.com/app/4825160
+==================================================
+
+==================================================
+Name: Jack's Achievements Simulator: Dog & Lava
+Release Date: Sep 14, 2026
+Price: $2.39 (-40%, was $3.99)
+Genres: Adventure, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5060460
+==================================================
+
+==================================================
+Name: A Graveyard Shift
+Release Date: Sep 14, 2026
+Price: Free to Play
+Genres: Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/4897200
+==================================================
+
+==================================================
+Name: Don't Stop Cutting The Trees!
+Release Date: Sep 14, 2026
+Price: $3.59 (-10%, was $3.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/5112800
+==================================================
+
+==================================================
+Name: Arcturus Vision Camera
+Release Date: Sep 14, 2026
+Price: Free to Play
+Genres: Casual, Free To Play
+Link: https://store.steampowered.com/app/4103250
+==================================================
+
+==================================================
+Name: Corsair Fleet: Tides of Plunder
+Release Date: Sep 14, 2026
+Price: $4.49 (-25%, was $5.99)
+Genres: Adventure, Casual, Indie, RPG, Simulation, Strategy
+Link: https://store.steampowered.com/app/4913770
+==================================================
+
+==================================================
+Name: Stellar Cafe
+Release Date: Sep 14, 2026
+Price: $9.99
+Genres: Casual, Simulation
+Link: https://store.steampowered.com/app/4415130
+==================================================
+
+==================================================
+Name: The Thrill of the Fight 2
+Release Date: Sep 14, 2026
+Price: $16.99 (-15%, was $19.99)
+Genres: Action, Sports
+Link: https://store.steampowered.com/app/4884540
+==================================================
+
+==================================================
+Name: RIG Riot
+Release Date: Sep 14, 2026
+Price: $17.99 (-10%, was $19.99)
+Genres: Action
+Link: https://store.steampowered.com/app/3180340
+==================================================
+
+==================================================
+Name: Meeple Incremental
+Release Date: Sep 14, 2026
+Price: $5.39 (-10%, was $5.99)
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4353350
+==================================================
+
+==================================================
+Name: TCG Card Shop Simulator
+Release Date: Sep 14, 2026
+Price: $16.99 (-15%, was $19.99)
+Genres: Simulation
+Link: https://store.steampowered.com/app/3070070
+==================================================
+
+==================================================
+Name: Dungeons & Death
+Release Date: Sep 14, 2026
+Price: $5.99 (-40%, was $9.99)
+Genres: Action, Adventure, Casual, Indie, RPG
+Link: https://store.steampowered.com/app/5085640
+==================================================
+
+==================================================
+Name: Trumps Of Albion
+Release Date: Sep 14, 2026
+Price: $10.00
+Genres: Massively Multiplayer, RPG, Strategy
+Link: https://store.steampowered.com/app/5173810
+==================================================
+
+==================================================
+Name: Fish Lab
+Release Date: Sep 14, 2026
+Price: $5.94 (-15%, was $6.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4221990
+==================================================
+
+==================================================
+Name: Rehaunted
+Release Date: Sep 14, 2026
+Price: $7.19 (-10%, was $7.99)
+Genres: Adventure
+Link: https://store.steampowered.com/app/4538140
+==================================================
+
+==================================================
+Name: Dunebound Tactics
+Release Date: Sep 14, 2026
+Price: $11.99 (-20%, was $14.99)
+Genres: Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/3034660
+==================================================
+
+==================================================
+Name: Hearthpiece
+Release Date: Sep 14, 2026
+Price: Free to Play
+Genres: Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/5016920
+==================================================
+
+==================================================
+Name: Monky OS
+Release Date: Sep 14, 2026
+Price: $7.99
+Genres: Adventure, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5147390
+==================================================
+
+==================================================
+Name: How to Grow Your Sausage
+Release Date: Sep 14, 2026
+Price: $3.59 (-10%, was $3.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4628250
+==================================================
+
+==================================================
+Name: Tenebris: Terra Incognita
+Release Date: Sep 14, 2026
+Price: $14.99 (-25%, was $19.99)
+Genres: Adventure, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/2280060
+==================================================
+
+==================================================
+Name: KasMind
+Release Date: Sep 14, 2026
+Price: $1.19 (-40%, was $1.99)
+Genres: Action
+Link: https://store.steampowered.com/app/4921590
+==================================================
+
+==================================================
+Name: GRID/
+Release Date: Sep 14, 2026
+Price: $3.74 (-25%, was $4.99)
+Genres: Action, Indie, Strategy
+Link: https://store.steampowered.com/app/4244590
+==================================================
+
+==================================================
+Name: Of Nooks and Nonsense: A Pirate Hidden Object Game
+Release Date: Sep 14, 2026
+Price: $1.99
+Genres: Casual
+Link: https://store.steampowered.com/app/4699670
+==================================================
+
+==================================================
+Name: DiceRoll
+Release Date: Sep 14, 2026
+Price: $3.49 (-30%, was $4.99)
+Genres: Action, Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/5065700
+==================================================
+
+==================================================
+Name: In The Vroms In Clones
+Release Date: Sep 14, 2026
+Price: $0.98 (-38%, was $1.59)
+Genres: Indie
+Link: https://store.steampowered.com/app/5151890
+==================================================
+
+==================================================
+Name: Craftomation 101: Programming & Craft
+Release Date: Sep 14, 2026
+Price: $10.49 (-30%, was $14.99)
+Genres: Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/1724140
+==================================================
+
+==================================================
+Name: Smack Your Balls
+Release Date: Sep 14, 2026
+Price: $3.99
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/5108040
+==================================================
+
+==================================================
+Name: MasonsHaven
+Release Date: Sep 14, 2026
+Price: $4.19 (-40%, was $6.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5162530
+==================================================
+
