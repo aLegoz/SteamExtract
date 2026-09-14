@@ -79294,3 +79294,158 @@ Genres: Casual, Indie, Racing, Simulation
 Link: https://store.steampowered.com/app/4772770
 ==================================================
 
+
+--- Run: 2026-09-14 14:30:49 --- (19 new game(s) found)
+
+==================================================
+Name: Cloudscrapers
+Release Date: Sep 14, 2026
+Price: $5.99 (-25%, was $7.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/3562200
+==================================================
+
+==================================================
+Name: Sudoku
+Release Date: Sep 14, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4985880
+==================================================
+
+==================================================
+Name: Sigilfarer: A Dice-Rolling Roguelite
+Release Date: Sep 14, 2026
+Price: $9.59 (-20%, was $11.99)
+Genres: Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/2436870
+==================================================
+
+==================================================
+Name: Pibcremental
+Release Date: Sep 14, 2026
+Price: $4.49 (-25%, was $5.99)
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4573090
+==================================================
+
+==================================================
+Name: Neat!
+Release Date: Sep 14, 2026
+Price: $6.99 (-30%, was $9.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4300090
+==================================================
+
+==================================================
+Name: Depth of Mind
+Release Date: Sep 14, 2026
+Price: $4.79 (-20%, was $5.99)
+Genres: Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/3711100
+==================================================
+
+==================================================
+Name: Parry Survivor
+Release Date: Sep 14, 2026
+Price: $4.79 (-40%, was $7.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4540130
+==================================================
+
+==================================================
+Name: Tropical Lust
+Release Date: Sep 14, 2026
+Price: $13.49 (-10%, was $14.99)
+Genres: Adventure
+Link: https://store.steampowered.com/app/4375110
+==================================================
+
+==================================================
+Name: Joker Master
+Release Date: Sep 14, 2026
+Price: Free to Play
+Genres: Strategy, Free To Play
+Link: https://store.steampowered.com/app/5020530
+==================================================
+
+==================================================
+Name: Rogue Circuit
+Release Date: Sep 14, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Indie, Racing, Strategy
+Link: https://store.steampowered.com/app/5180900
+==================================================
+
+==================================================
+Name: Creator Chronicles
+Release Date: Sep 14, 2026
+Price: $8.39 (-30%, was $11.99)
+Genres: RPG, Simulation
+Link: https://store.steampowered.com/app/3947460
+==================================================
+
+==================================================
+Name: Infinite Music Game
+Release Date: Sep 14, 2026
+Price: $14.39 (-10%, was $15.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5153850
+==================================================
+
+==================================================
+Name: 嘘！超能少女代购中！
+Release Date: Sep 14, 2026
+Price: $4.99
+Genres: Adventure, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4804070
+==================================================
+
+==================================================
+Name: Second Look — Screen Magnifier for Gaming and Low Vision
+Release Date: Sep 14, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5176570
+==================================================
+
+==================================================
+Name: Escape! House of Bonds
+Release Date: Sep 14, 2026
+Price: $3.59 (-10%, was $3.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4719560
+==================================================
+
+==================================================
+Name: Out of Range
+Release Date: Sep 14, 2026
+Price: Free to Play
+Genres: Action, Adventure, Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/5114230
+==================================================
+
+==================================================
+Name: Blackjack Simulator 2027
+Release Date: Sep 14, 2026
+Price: $4.79 (-20%, was $5.99)
+Genres: Casual, Simulation
+Link: https://store.steampowered.com/app/5177890
+==================================================
+
+==================================================
+Name: Station 5:21
+Release Date: Sep 13, 2026
+Price: $1.99
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4961150
+==================================================
+
+==================================================
+Name: Black Lotus
+Release Date: Sep 13, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Adventure, RPG
+Link: https://store.steampowered.com/app/4976680
+==================================================
+
