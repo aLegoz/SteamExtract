@@ -79676,3 +79676,38 @@ Genres: Casual, Indie, Simulation
 Link: https://store.steampowered.com/app/5162530
 ==================================================
 
+
+--- Run: 2026-09-14 22:49:15 --- (4 new game(s) found)
+
+==================================================
+Name: Lucky Duckies
+Release Date: Sep 14, 2026
+Price: Free to Play
+Genres: Adventure, Free To Play
+Link: https://store.steampowered.com/app/4506950
+==================================================
+
+==================================================
+Name: Soul Injector Commando
+Release Date: Sep 14, 2026
+Price: $11.99 (-20%, was $14.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/3220370
+==================================================
+
+==================================================
+Name: Hentai Mayhem
+Release Date: Sep 14, 2026
+Price: $10.61 (-15%, was $12.49)
+Genres: Action, Casual
+Link: https://store.steampowered.com/app/4860930
+==================================================
+
+==================================================
+Name: Voxio - Soundboard
+Release Date: Sep 14, 2026
+Price: $6.29 (-10%, was $6.99)
+Genres: Audio Production, Utilities
+Link: https://store.steampowered.com/app/4504220
+==================================================
+
