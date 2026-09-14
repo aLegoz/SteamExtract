@@ -79227,3 +79227,70 @@ Genres: Adventure, Indie, Simulation
 Link: https://store.steampowered.com/app/5050100
 ==================================================
 
+
+--- Run: 2026-09-14 07:35:49 --- (8 new game(s) found)
+
+==================================================
+Name: Put Back Stuff
+Release Date: Sep 13, 2026
+Price: $4.79 (-20%, was $5.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/5130150
+==================================================
+
+==================================================
+Name: Astrosaurox
+Release Date: Sep 13, 2026
+Price: $1.97 (-34%, was $2.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/4840130
+==================================================
+
+==================================================
+Name: Remnants of the forsaken Past : Submerged Fantasy
+Release Date: Sep 13, 2026
+Price: $1.86 (-34%, was $2.83)
+Genres: Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/4672110
+==================================================
+
+==================================================
+Name: Suba Pogo
+Release Date: Sep 13, 2026
+Price: $2.99
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/5052250
+==================================================
+
+==================================================
+Name: Fantasy Bird Woods
+Release Date: Sep 13, 2026
+Price: $3.99
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4486350
+==================================================
+
+==================================================
+Name: Superposition
+Release Date: Sep 13, 2026
+Price: $1.99
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5077620
+==================================================
+
+==================================================
+Name: BWAG
+Release Date: Sep 13, 2026
+Price: $1.77 (-11%, was $1.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/5164430
+==================================================
+
+==================================================
+Name: Wild Climbers Peak Panic
+Release Date: Sep 13, 2026
+Price: $1.33 (-33%, was $1.99)
+Genres: Casual, Indie, Racing, Simulation
+Link: https://store.steampowered.com/app/4772770
+==================================================
+
