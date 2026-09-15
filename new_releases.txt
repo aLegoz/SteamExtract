@@ -79711,3 +79711,54 @@ Genres: Audio Production, Utilities
 Link: https://store.steampowered.com/app/4504220
 ==================================================
 
+
+--- Run: 2026-09-15 01:02:14 --- (6 new game(s) found)
+
+==================================================
+Name: SAYONARA++
+Release Date: Sep 14, 2026
+Price: $5.39 (-10%, was $5.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/4877430
+==================================================
+
+==================================================
+Name: 771
+Release Date: Sep 14, 2026
+Price: $5.09 (-15%, was $5.99)
+Genres: Indie
+Link: https://store.steampowered.com/app/3916440
+==================================================
+
+==================================================
+Name: Burrows of Cairntir
+Release Date: Sep 14, 2026
+Price: $19.99
+Genres: RPG
+Link: https://store.steampowered.com/app/5175240
+==================================================
+
+==================================================
+Name: Visualization for Steam with Arduino
+Release Date: Sep 14, 2026
+Price: $19.99
+Genres: Utilities
+Link: https://store.steampowered.com/app/4908170
+==================================================
+
+==================================================
+Name: 911 Dispatcher: Unknown Caller
+Release Date: Sep 14, 2026
+Price: $6.29 (-30%, was $8.99)
+Genres: Action, Adventure
+Link: https://store.steampowered.com/app/5133880
+==================================================
+
+==================================================
+Name: Endless Roadtrip
+Release Date: Sep 14, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5119900
+==================================================
+
