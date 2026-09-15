@@ -80278,3 +80278,62 @@ Genres: Racing
 Link: https://store.steampowered.com/app/4733110
 ==================================================
 
+
+--- Run: 2026-09-15 23:14:58 --- (7 new game(s) found)
+
+==================================================
+Name: Seed Shop: Tidy Up!
+Release Date: Sep 15, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5148260
+==================================================
+
+==================================================
+Name: Flagfall
+Release Date: Sep 15, 2026
+Price: Free to Play
+Genres: Indie, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4121330
+==================================================
+
+==================================================
+Name: De-Extinct Desire
+Release Date: Sep 15, 2026
+Price: $4.19 (-40%, was $6.99)
+Genres: Adventure, Simulation
+Link: https://store.steampowered.com/app/4955010
+==================================================
+
+==================================================
+Name: Eternitubes 3D
+Release Date: Sep 15, 2026
+Price: $3.81 (-15%, was $4.49)
+Genres: Casual, Indie, Simulation, Animation & Modeling, Design & Illustration, Utilities
+Link: https://store.steampowered.com/app/4979880
+==================================================
+
+==================================================
+Name: That Level Again 3
+Release Date: Sep 15, 2026
+Price: $2.99
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5043500
+==================================================
+
+==================================================
+Name: Jigsaw Diorama: The Alchemist and the Eclipse
+Release Date: Sep 15, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4861620
+==================================================
+
+==================================================
+Name: Powdertron
+Release Date: Sep 15, 2026
+Price: $9.99
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5122600
+==================================================
+
