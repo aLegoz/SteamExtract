@@ -80179,3 +80179,102 @@ Genres: Adventure, Casual, Indie, RPG
 Link: https://store.steampowered.com/app/4194170
 ==================================================
 
+
+--- Run: 2026-09-15 20:32:37 --- (12 new game(s) found)
+
+==================================================
+Name: bonitāka's aquarium of medusae
+Release Date: Sep 15, 2026
+Price: $3.19 (-20%, was $3.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4084590
+==================================================
+
+==================================================
+Name: NeuralBeat Studio
+Release Date: Sep 15, 2026
+Price: $26.99 (-10%, was $29.99)
+Genres: Indie, Audio Production, Utilities, Game Development
+Link: https://store.steampowered.com/app/4603410
+==================================================
+
+==================================================
+Name: DR Dominoes
+Release Date: Sep 15, 2026
+Price: $4.19 (-30%, was $5.99)
+Genres: Casual, Simulation, Sports
+Link: https://store.steampowered.com/app/4404610
+==================================================
+
+==================================================
+Name: Pocket Chief!
+Release Date: Sep 15, 2026
+Price: Free to Play
+Genres: Free To Play, Utilities
+Link: https://store.steampowered.com/app/4946240
+==================================================
+
+==================================================
+Name: Blood Brides: Witch Hunt
+Release Date: Sep 15, 2026
+Price: $7.19 (-10%, was $7.99)
+Genres: Action, Adventure, RPG
+Link: https://store.steampowered.com/app/4809590
+==================================================
+
+==================================================
+Name: Paperman
+Release Date: Sep 15, 2026
+Price: Free to Play
+Genres: Action, Adventure, Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/4279850
+==================================================
+
+==================================================
+Name: Football Academy Director
+Release Date: Sep 15, 2026
+Price: $12.74 (-15%, was $14.99)
+Genres: Indie, Simulation, Sports, Strategy
+Link: https://store.steampowered.com/app/4865840
+==================================================
+
+==================================================
+Name: Nico and the Shadows
+Release Date: Sep 15, 2026
+Price: $1.19 (-40%, was $1.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/3645770
+==================================================
+
+==================================================
+Name: STILLTRACE
+Release Date: Sep 15, 2026
+Price: $6.29 (-10%, was $6.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/5115240
+==================================================
+
+==================================================
+Name: That FireOc Game
+Release Date: Sep 15, 2026
+Price: $3.99
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4963550
+==================================================
+
+==================================================
+Name: The Solyani's Code
+Release Date: Sep 15, 2026
+Price: $17.49 (-30%, was $24.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/341100
+==================================================
+
+==================================================
+Name: G-MODE Archives+ RIDGE RACER
+Release Date: Sep 15, 2026
+Price: $7.99
+Genres: Racing
+Link: https://store.steampowered.com/app/4733110
+==================================================
+
