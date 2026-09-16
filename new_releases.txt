@@ -80578,3 +80578,206 @@ Genres: Action, Casual, Indie
 Link: https://store.steampowered.com/app/2942500
 ==================================================
 
+
+--- Run: 2026-09-16 17:22:04 --- (25 new game(s) found)
+
+==================================================
+Name: Sort The Toys
+Release Date: Sep 16, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Casual, Simulation
+Link: https://store.steampowered.com/app/5175160
+==================================================
+
+==================================================
+Name: Paratopic: Overdub
+Release Date: Sep 16, 2026
+Price: $6.74 (-10%, was $7.49)
+Genres: Adventure
+Link: https://store.steampowered.com/app/3781550
+==================================================
+
+==================================================
+Name: The Override Protocol
+Release Date: Sep 16, 2026
+Price: $9.74 (-25%, was $12.99)
+Genres: Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4886900
+==================================================
+
+==================================================
+Name: WE ARE FOOTBALL 2027
+Release Date: Sep 16, 2026
+Price: $19.99
+Genres: Simulation, Sports, Strategy
+Link: https://store.steampowered.com/app/4328570
+==================================================
+
+==================================================
+Name: LIMINAL SORTING
+Release Date: Sep 16, 2026
+Price: $4.39 (-12%, was $4.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5088450
+==================================================
+
+==================================================
+Name: Charnoluzky's Office
+Release Date: Sep 16, 2026
+Price: Free to Play
+Genres: Casual, Indie, RPG, Free To Play
+Link: https://store.steampowered.com/app/5094980
+==================================================
+
+==================================================
+Name: Roman Sands RE:Build
+Release Date: Sep 16, 2026
+Price: $13.49 (-10%, was $14.99)
+Genres: Adventure, RPG, Simulation, Strategy
+Link: https://store.steampowered.com/app/2231460
+==================================================
+
+==================================================
+Name: Airport Security Guard Deluxe
+Release Date: Sep 16, 2026
+Price: $24.99
+Genres: Simulation
+Link: https://store.steampowered.com/app/4717240
+==================================================
+
+==================================================
+Name: LiveWall Wallpaper for Mac
+Release Date: Sep 16, 2026
+Price: $4.79 (-20%, was $5.99)
+Genres: Casual, Animation & Modeling, Audio Production, Design & Illustration, Utilities, Web Publishing
+Link: https://store.steampowered.com/app/4681350
+==================================================
+
+==================================================
+Name: Runeomicon
+Release Date: Sep 16, 2026
+Price: Free to Play
+Genres: Action, Indie, Strategy
+Link: https://store.steampowered.com/app/3160570
+==================================================
+
+==================================================
+Name: BloomKeeper
+Release Date: Sep 16, 2026
+Price: $15.99 (-20%, was $19.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/3034650
+==================================================
+
+==================================================
+Name: Alex & Arty
+Release Date: Sep 16, 2026
+Price: $16.14 (-15%, was $18.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/2854800
+==================================================
+
+==================================================
+Name: VHS Nights: The Tidy Up Shift
+Release Date: Sep 16, 2026
+Price: $5.99
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5053880
+==================================================
+
+==================================================
+Name: Old Market Restored
+Release Date: Sep 16, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4986890
+==================================================
+
+==================================================
+Name: Another Eden Begins
+Release Date: Sep 16, 2026
+Price: $39.99
+Genres: RPG
+Link: https://store.steampowered.com/app/4163960
+==================================================
+
+==================================================
+Name: Welcome To Mars 9
+Release Date: Sep 16, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/2434330
+==================================================
+
+==================================================
+Name: MONOWAVE
+Release Date: Sep 16, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Action, Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/2680440
+==================================================
+
+==================================================
+Name: PATLABOR the Case Files
+Release Date: Sep 16, 2026
+Price: $31.49 (-10%, was $34.99)
+Genres: Action
+Link: https://store.steampowered.com/app/3275400
+==================================================
+
+==================================================
+Name: Woodo
+Release Date: Sep 16, 2026
+Price: $11.89 (-30%, was $16.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/2572040
+==================================================
+
+==================================================
+Name: Lucent
+Release Date: Sep 16, 2026
+Price: $2.00 (-20%, was $2.50)
+Genres: Indie
+Link: https://store.steampowered.com/app/5178670
+==================================================
+
+==================================================
+Name: Twerk Star Goddess
+Release Date: Sep 16, 2026
+Price: $3.14 (-10%, was $3.49)
+Genres: Casual
+Link: https://store.steampowered.com/app/4608960
+==================================================
+
+==================================================
+Name: Duo Quest
+Release Date: Sep 16, 2026
+Price: $11.99 (-20%, was $14.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/3572800
+==================================================
+
+==================================================
+Name: BRAZILIAN DRUG DEALER BEFORE 4: DEMONS FROM THE PORTAL TO HELL I OPENED ARE STILL IN THE FAVELA AND NOW I HAVE TO SAVE MAMADAS FROM RONALDO
+Release Date: Sep 16, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Action, Adventure
+Link: https://store.steampowered.com/app/4241920
+==================================================
+
+==================================================
+Name: Dropping Drops
+Release Date: Sep 16, 2026
+Price: $5.94 (-15%, was $6.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4137610
+==================================================
+
+==================================================
+Name: Dark Farts: Parody Smell Edition
+Release Date: Sep 16, 2026
+Price: $11.99 (-20%, was $14.99)
+Genres: Action, Indie, RPG
+Link: https://store.steampowered.com/app/3570470
+==================================================
+
