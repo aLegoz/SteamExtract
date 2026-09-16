@@ -80920,3 +80920,38 @@ Genres: Utilities
 Link: https://store.steampowered.com/app/4558060
 ==================================================
 
+
+--- Run: 2026-09-16 23:19:44 --- (4 new game(s) found)
+
+==================================================
+Name: Survival Deck Z
+Release Date: Sep 16, 2026
+Price: $1.99
+Genres: Action, Adventure, Casual
+Link: https://store.steampowered.com/app/5002450
+==================================================
+
+==================================================
+Name: Teaching Assistant Life Song Ha-Yoon
+Release Date: Sep 16, 2026
+Price: $8.49 (-15%, was $9.99)
+Genres: Simulation
+Link: https://store.steampowered.com/app/4704700
+==================================================
+
+==================================================
+Name: RXB Workstation
+Release Date: Sep 16, 2026
+Price: $12.99
+Genres: Audio Production, Utilities
+Link: https://store.steampowered.com/app/5157640
+==================================================
+
+==================================================
+Name: Hoodie Havoc
+Release Date: Sep 16, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Action, Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4053350
+==================================================
+
