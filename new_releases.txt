@@ -80447,3 +80447,134 @@ Genres: Adventure, Indie, Simulation
 Link: https://store.steampowered.com/app/5132570
 ==================================================
 
+
+--- Run: 2026-09-16 12:53:57 --- (16 new game(s) found)
+
+==================================================
+Name: Gladio Mori
+Release Date: Sep 16, 2026
+Price: $15.99
+Genres: Action, Indie, Simulation, Strategy, Free To Play
+Link: https://store.steampowered.com/app/2689120
+==================================================
+
+==================================================
+Name: Incredible Dracula: Bloodwood Secrets
+Release Date: Sep 16, 2026
+Price: $5.94 (-15%, was $6.99)
+Genres: Adventure, Casual, Strategy
+Link: https://store.steampowered.com/app/5201280
+==================================================
+
+==================================================
+Name: Arcade Hall 1980
+Release Date: Sep 16, 2026
+Price: $1.99
+Genres: Action, Adventure, Casual, Indie, Racing, Simulation
+Link: https://store.steampowered.com/app/5135100
+==================================================
+
+==================================================
+Name: ToyStorm
+Release Date: Sep 16, 2026
+Price: $8.99
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/5185260
+==================================================
+
+==================================================
+Name: Tinker Shot
+Release Date: Sep 16, 2026
+Price: $3.74 (-25%, was $4.99)
+Genres: Action, Casual, Indie, RPG, Simulation, Strategy
+Link: https://store.steampowered.com/app/3351280
+==================================================
+
+==================================================
+Name: Ride Up Together
+Release Date: Sep 16, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4895550
+==================================================
+
+==================================================
+Name: TinyChip Workstation
+Release Date: Sep 16, 2026
+Price: $33.99 (-15%, was $39.99)
+Genres: Audio Production, Utilities, Game Development
+Link: https://store.steampowered.com/app/4661420
+==================================================
+
+==================================================
+Name: LUCK IT
+Release Date: Sep 16, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5190280
+==================================================
+
+==================================================
+Name: WATT FUR? Animal Power Plant
+Release Date: Sep 16, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4974950
+==================================================
+
+==================================================
+Name: Chuddy Clicker
+Release Date: Sep 16, 2026
+Price: $4.99
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5175480
+==================================================
+
+==================================================
+Name: Basement10
+Release Date: Sep 16, 2026
+Price: $1.00
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/5186430
+==================================================
+
+==================================================
+Name: Gangsta Forest Shooter
+Release Date: Sep 16, 2026
+Price: $0.59 (-40%, was $0.99)
+Genres: Adventure, Casual
+Link: https://store.steampowered.com/app/5189810
+==================================================
+
+==================================================
+Name: Super Clown Spookyland
+Release Date: Sep 16, 2026
+Price: $1.79 (-40%, was $2.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/5181540
+==================================================
+
+==================================================
+Name: Code Velocity
+Release Date: Sep 15, 2026
+Price: $2.39 (-20%, was $2.99)
+Genres: Action, Casual, Indie, Racing, RPG, Simulation, Sports
+Link: https://store.steampowered.com/app/4240610
+==================================================
+
+==================================================
+Name: Query Noir
+Release Date: Sep 15, 2026
+Price: $4.99
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/5015610
+==================================================
+
+==================================================
+Name: HELLDROP
+Release Date: Sep 15, 2026
+Price: $2.99
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/2942500
+==================================================
+
