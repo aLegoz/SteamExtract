@@ -80372,3 +80372,78 @@ Genres: Simulation
 Link: https://store.steampowered.com/app/5044390
 ==================================================
 
+
+--- Run: 2026-09-16 07:16:37 --- (9 new game(s) found)
+
+==================================================
+Name: Hidden Objects Painted Forest
+Release Date: Sep 15, 2026
+Price: Free to Play
+Genres: Casual, Free To Play
+Link: https://store.steampowered.com/app/4979640
+==================================================
+
+==================================================
+Name: ShutterOut
+Release Date: Sep 15, 2026
+Price: $3.19 (-20%, was $3.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/5132730
+==================================================
+
+==================================================
+Name: Oops! You're the Hero!
+Release Date: Sep 15, 2026
+Price: $4.99
+Genres: Action, Adventure
+Link: https://store.steampowered.com/app/3166160
+==================================================
+
+==================================================
+Name: JettFuel+
+Release Date: Sep 15, 2026
+Price: $0.99
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4921830
+==================================================
+
+==================================================
+Name: Arrow Card Arena (箭域卡戰)
+Release Date: Sep 15, 2026
+Price: $2.99
+Genres: Casual, Strategy
+Link: https://store.steampowered.com/app/5011490
+==================================================
+
+==================================================
+Name: Sister Leticia: The First Mission!
+Release Date: Sep 15, 2026
+Price: $6.29 (-10%, was $6.99)
+Genres: Action, Adventure
+Link: https://store.steampowered.com/app/4651910
+==================================================
+
+==================================================
+Name: 忌品管理部
+Release Date: Sep 15, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4851090
+==================================================
+
+==================================================
+Name: Hentai Achievement Puzzle 2
+Release Date: Sep 15, 2026
+Price: $0.59 (-40%, was $0.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/3890180
+==================================================
+
+==================================================
+Name: Melaka 1511: The Malay Chronicles - Before The Storm
+Release Date: Sep 15, 2026
+Price: $2.69 (-10%, was $2.99)
+Genres: Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/5132570
+==================================================
+
