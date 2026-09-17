@@ -81212,3 +81212,222 @@ Genres: Simulation, Strategy
 Link: https://store.steampowered.com/app/5123300
 ==================================================
 
+
+--- Run: 2026-09-17 17:48:12 --- (27 new game(s) found)
+
+==================================================
+Name: Dub Rumble
+Release Date: Sep 17, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5083150
+==================================================
+
+==================================================
+Name: I AM YOUR BEAST VR
+Release Date: Sep 17, 2026
+Price: $20.69 (-10%, was $22.99)
+Genres: Action, Adventure
+Link: https://store.steampowered.com/app/3844740
+==================================================
+
+==================================================
+Name: Omega Pilot Evolution
+Release Date: Sep 17, 2026
+Price: $13.99 (-30%, was $19.99)
+Genres: Indie, Racing
+Link: https://store.steampowered.com/app/5181480
+==================================================
+
+==================================================
+Name: Frog It Up
+Release Date: Sep 17, 2026
+Price: $4.99
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/3927250
+==================================================
+
+==================================================
+Name: Huglings
+Release Date: Sep 17, 2026
+Price: $21.15 (-10%, was $23.50)
+Genres: Adventure, Casual, Indie, RPG
+Link: https://store.steampowered.com/app/4305790
+==================================================
+
+==================================================
+Name: Kernel Hearts
+Release Date: Sep 17, 2026
+Price: $17.99 (-10%, was $19.99)
+Genres: Action, Indie, RPG
+Link: https://store.steampowered.com/app/2902170
+==================================================
+
+==================================================
+Name: Dawson Oaks Trailer Park
+Release Date: Sep 17, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Casual, RPG, Simulation, Strategy
+Link: https://store.steampowered.com/app/3640200
+==================================================
+
+==================================================
+Name: Civics Scribble
+Release Date: Sep 17, 2026
+Price: $5.94 (-15%, was $6.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/3793300
+==================================================
+
+==================================================
+Name: Cards Everywhere!
+Release Date: Sep 17, 2026
+Price: $5.09 (-15%, was $5.99)
+Genres: Casual, Simulation
+Link: https://store.steampowered.com/app/5063140
+==================================================
+
+==================================================
+Name: Unmourned VR
+Release Date: Sep 17, 2026
+Price: $22.49 (-10%, was $24.99)
+Genres: Action, Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/4403900
+==================================================
+
+==================================================
+Name: CONVRGENCE
+Release Date: Apr 22, 2024
+Price: $14.99 (-40%, was $24.99)
+Genres: Action, Adventure
+Link: https://store.steampowered.com/app/2609610
+==================================================
+
+==================================================
+Name: SHOCKFACE
+Release Date: Sep 17, 2026
+Price: $5.94 (-15%, was $6.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/4705980
+==================================================
+
+==================================================
+Name: Submission Saga: The Jiu Jitsu RPG
+Release Date: Sep 17, 2026
+Price: $9.99
+Genres: Action, Adventure, RPG, Sports, Strategy
+Link: https://store.steampowered.com/app/4690760
+==================================================
+
+==================================================
+Name: Bullet Train
+Release Date: Sep 17, 2026
+Price: $6.79 (-15%, was $7.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4612590
+==================================================
+
+==================================================
+Name: Alchemess: Tidy Up Your Potion Shop!
+Release Date: Sep 17, 2026
+Price: $5.39 (-10%, was $5.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4997190
+==================================================
+
+==================================================
+Name: Tumblebee
+Release Date: Sep 17, 2026
+Price: $5.94 (-15%, was $6.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/4548120
+==================================================
+
+==================================================
+Name: The Bird of the North
+Release Date: Sep 17, 2026
+Price: $5.80 (-17%, was $6.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4655600
+==================================================
+
+==================================================
+Name: Klaus Veen's Bastards
+Release Date: Sep 17, 2026
+Price: Free to Play
+Genres: Casual, Indie, Simulation, Strategy, Free To Play
+Link: https://store.steampowered.com/app/5002680
+==================================================
+
+==================================================
+Name: United Heist: Facility Zero
+Release Date: Sep 17, 2026
+Price: $5.59 (-20%, was $6.99)
+Genres: Adventure, Casual
+Link: https://store.steampowered.com/app/3387160
+==================================================
+
+==================================================
+Name: YesterSol
+Release Date: Sep 17, 2026
+Price: $11.89 (-15%, was $13.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/2248230
+==================================================
+
+==================================================
+Name: Incremental Space Sandbox
+Release Date: Sep 17, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: Casual, Simulation
+Link: https://store.steampowered.com/app/5094240
+==================================================
+
+==================================================
+Name: Emberward
+Release Date: Sep 17, 2026
+Price: $16.99 (-15%, was $19.99)
+Genres: Indie, Strategy, Free To Play
+Link: https://store.steampowered.com/app/2459550
+==================================================
+
+==================================================
+Name: Sniper Dan
+Release Date: Sep 17, 2026
+Price: $10.39 (-20%, was $12.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/2841650
+==================================================
+
+==================================================
+Name: Police Chief Simulator
+Release Date: Sep 17, 2026
+Price: $17.99 (-10%, was $19.99)
+Genres: Action, Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/2938460
+==================================================
+
+==================================================
+Name: lily's world XD
+Release Date: Sep 17, 2026
+Price: $9.59 (-20%, was $11.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/3195580
+==================================================
+
+==================================================
+Name: CONCRETE BURIAL
+Release Date: Sep 17, 2026
+Price: $3.19 (-20%, was $3.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/4810070
+==================================================
+
+==================================================
+Name: Leaving school story
+Release Date: Sep 17, 2026
+Price: $2.54 (-15%, was $2.99)
+Genres: Adventure, Casual
+Link: https://store.steampowered.com/app/4853840
+==================================================
+
