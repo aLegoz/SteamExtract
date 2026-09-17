@@ -80955,3 +80955,46 @@ Genres: Action, Adventure, Casual, Indie
 Link: https://store.steampowered.com/app/4053350
 ==================================================
 
+
+--- Run: 2026-09-17 02:04:04 --- (5 new game(s) found)
+
+==================================================
+Name: Eco Balance
+Release Date: Sep 16, 2026
+Price: $0.84 (-15%, was $0.99)
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/2648210
+==================================================
+
+==================================================
+Name: Free Time Puzzle
+Release Date: Sep 16, 2026
+Price: $0.99
+Genres: Casual, Strategy
+Link: https://store.steampowered.com/app/4994340
+==================================================
+
+==================================================
+Name: Hunter's Guild
+Release Date: Sep 16, 2026
+Price: $6.99
+Genres: Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/5109990
+==================================================
+
+==================================================
+Name: Hostile Paths
+Release Date: Sep 16, 2026
+Price: $2.49
+Genres: Action, Adventure, RPG
+Link: https://store.steampowered.com/app/4392530
+==================================================
+
+==================================================
+Name: Nezumi no Dice
+Release Date: Sep 16, 2026
+Price: $5.99 (-40%, was $9.99)
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4950540
+==================================================
+
