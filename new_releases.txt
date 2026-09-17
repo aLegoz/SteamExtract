@@ -80998,3 +80998,102 @@ Genres: Casual, Indie, Simulation, Strategy
 Link: https://store.steampowered.com/app/4950540
 ==================================================
 
+
+--- Run: 2026-09-17 08:03:12 --- (12 new game(s) found)
+
+==================================================
+Name: 13 Playing Cards Of Demon
+Release Date: Sep 16, 2026
+Price: $2.59 (-35%, was $3.99)
+Genres: Adventure, Indie, Strategy
+Link: https://store.steampowered.com/app/2503990
+==================================================
+
+==================================================
+Name: Room 404: Erotic Massage
+Release Date: Sep 16, 2026
+Price: $14.39 (-10%, was $15.99)
+Genres: Casual, Indie, RPG, Simulation
+Link: https://store.steampowered.com/app/4110220
+==================================================
+
+==================================================
+Name: Rooster
+Release Date: Sep 16, 2026
+Price: $13.59 (-15%, was $15.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/1834220
+==================================================
+
+==================================================
+Name: 江山美人
+Release Date: Sep 16, 2026
+Price: Free to Play
+Genres: Casual, Indie, Massively Multiplayer, Racing, RPG, Strategy, Free To Play
+Link: https://store.steampowered.com/app/2877420
+==================================================
+
+==================================================
+Name: Farther West
+Release Date: Sep 16, 2026
+Price: $2.39 (-40%, was $3.99)
+Genres: Action, Adventure, RPG, Strategy
+Link: https://store.steampowered.com/app/4944390
+==================================================
+
+==================================================
+Name: 스페셜포스 리마스터
+Release Date: Sep 16, 2026
+Price: Free to Play
+Genres: Action, Free To Play
+Link: https://store.steampowered.com/app/4261320
+==================================================
+
+==================================================
+Name: Last Haven: Idle Survival
+Release Date: Sep 16, 2026
+Price: $4.99
+Genres: Adventure, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4916790
+==================================================
+
+==================================================
+Name: Lifeguard Holic
+Release Date: Sep 16, 2026
+Price: $15.29 (-10%, was $16.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4090260
+==================================================
+
+==================================================
+Name: Tiny Farmie
+Release Date: Sep 16, 2026
+Price: $3.19 (-20%, was $3.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4570680
+==================================================
+
+==================================================
+Name: Goth Femboy and Tentacle
+Release Date: Sep 16, 2026
+Price: $4.99
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/5122170
+==================================================
+
+==================================================
+Name: Console Kingdom
+Release Date: Sep 16, 2026
+Price: $0.79 (-20%, was $0.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4701030
+==================================================
+
+==================================================
+Name: Cyber Plinko
+Release Date: Sep 16, 2026
+Price: $6.29 (-10%, was $6.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4735700
+==================================================
+
