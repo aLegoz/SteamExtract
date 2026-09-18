@@ -81929,3 +81929,198 @@ Genres: Action, Adventure, Indie, RPG
 Link: https://store.steampowered.com/app/2725040
 ==================================================
 
+
+--- Run: 2026-09-18 18:42:36 --- (24 new game(s) found)
+
+==================================================
+Name: Dead Margin
+Release Date: Sep 18, 2026
+Price: $5.09 (-15%, was $5.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4509530
+==================================================
+
+==================================================
+Name: Biovoid
+Release Date: Sep 18, 2026
+Price: $12.74 (-15%, was $14.99)
+Genres: Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4188570
+==================================================
+
+==================================================
+Name: Too Many Balls
+Release Date: Sep 18, 2026
+Price: $4.79 (-20%, was $5.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4627590
+==================================================
+
+==================================================
+Name: Secrets of Thoth
+Release Date: Sep 18, 2026
+Price: $15.99 (-20%, was $19.99)
+Genres: Adventure
+Link: https://store.steampowered.com/app/4601690
+==================================================
+
+==================================================
+Name: ASCII Art Tool
+Release Date: Sep 18, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Design & Illustration, Photo Editing, Utilities, Game Development
+Link: https://store.steampowered.com/app/4882210
+==================================================
+
+==================================================
+Name: Sunken Realms
+Release Date: Sep 18, 2026
+Price: $15.29 (-10%, was $16.99)
+Genres: Adventure
+Link: https://store.steampowered.com/app/1897860
+==================================================
+
+==================================================
+Name: Parisian Bistro Simulator
+Release Date: Sep 18, 2026
+Price: $11.99 (-40%, was $19.99)
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/3058360
+==================================================
+
+==================================================
+Name: Super Moncat
+Release Date: Sep 18, 2026
+Price: $0.79 (-20%, was $0.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4356680
+==================================================
+
+==================================================
+Name: Vibe Lab: Idle Dev Sim
+Release Date: Sep 18, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Casual, Simulation
+Link: https://store.steampowered.com/app/4892330
+==================================================
+
+==================================================
+Name: Cubed
+Release Date: Sep 18, 2026
+Price: $6.29 (-10%, was $6.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4931880
+==================================================
+
+==================================================
+Name: 101 Cats: Melbourne
+Release Date: Sep 18, 2026
+Price: $0.59 (-40%, was $0.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5091860
+==================================================
+
+==================================================
+Name: Tape 101: Liminal Descent
+Release Date: Sep 18, 2026
+Price: $8.49 (-15%, was $9.99)
+Genres: Action, Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/3010380
+==================================================
+
+==================================================
+Name: Global Football
+Release Date: Sep 18, 2026
+Price: Free to Play
+Genres: Massively Multiplayer, Sports, Free To Play
+Link: https://store.steampowered.com/app/4384820
+==================================================
+
+==================================================
+Name: Lander
+Release Date: Sep 18, 2026
+Price: $8.99
+Genres: Indie, Racing
+Link: https://store.steampowered.com/app/4666480
+==================================================
+
+==================================================
+Name: tiny desktop pals
+Release Date: Sep 18, 2026
+Price: Free to Play
+Genres: Casual, Massively Multiplayer, Free To Play
+Link: https://store.steampowered.com/app/4720820
+==================================================
+
+==================================================
+Name: Echoes of Desire
+Release Date: Sep 18, 2026
+Price: Free to Play
+Genres: Casual, Indie, Simulation, Free To Play
+Link: https://store.steampowered.com/app/5054940
+==================================================
+
+==================================================
+Name: Poopy's Playland
+Release Date: Sep 18, 2026
+Price: $9.90 (-10%, was $11.00)
+Genres: Adventure
+Link: https://store.steampowered.com/app/3926930
+==================================================
+
+==================================================
+Name: The Walking Dead: Streets of Survival
+Release Date: Sep 18, 2026
+Price: $19.99
+Genres: Action
+Link: https://store.steampowered.com/app/3777850
+==================================================
+
+==================================================
+Name: Draco and the Seven Scales
+Release Date: Sep 18, 2026
+Price: $14.39 (-10%, was $15.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/2559690
+==================================================
+
+==================================================
+Name: Cube Crusaders
+Release Date: Sep 18, 2026
+Price: $8.49 (-15%, was $9.99)
+Genres: Action, Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/2317180
+==================================================
+
+==================================================
+Name: Ashworth
+Release Date: Sep 18, 2026
+Price: $5.24 (-25%, was $6.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/5100520
+==================================================
+
+==================================================
+Name: Mars 2099
+Release Date: Sep 18, 2026
+Price: $1.99
+Genres: Action
+Link: https://store.steampowered.com/app/4953340
+==================================================
+
+==================================================
+Name: 100 Goldmine Cats
+Release Date: Sep 18, 2026
+Price: $1.79 (-10%, was $1.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4118420
+==================================================
+
+==================================================
+Name: Glitch Protocol
+Release Date: Sep 18, 2026
+Price: $5.59 (-20%, was $6.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/5176950
+==================================================
+
