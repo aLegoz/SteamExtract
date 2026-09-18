@@ -81536,3 +81536,78 @@ Link: https://store.steampowered.com/app/4819960
 
 --- Run: 2026-09-18 01:50:50 --- (0 new game(s) found)
 
+
+--- Run: 2026-09-18 06:47:29 --- (9 new game(s) found)
+
+==================================================
+Name: Noxcode
+Release Date: Sep 17, 2026
+Price: $4.79 (-40%, was $7.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/3369490
+==================================================
+
+==================================================
+Name: Personal Racing
+Release Date: Sep 17, 2026
+Price: $4.99
+Genres: Casual, Indie, Racing, Simulation
+Link: https://store.steampowered.com/app/5169750
+==================================================
+
+==================================================
+Name: iRacing® Studios NASCAR 26
+Release Date: Sep 17, 2026
+Price: $59.99
+Genres: Racing, Simulation, Sports
+Link: https://store.steampowered.com/app/4883590
+==================================================
+
+==================================================
+Name: Channel 453
+Release Date: Sep 17, 2026
+Price: $5.99
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/4453830
+==================================================
+
+==================================================
+Name: 三国群英传之英雄传奇
+Release Date: Sep 17, 2026
+Price: Free to Play
+Genres: Action, Indie, Massively Multiplayer, RPG, Free To Play
+Link: https://store.steampowered.com/app/4897880
+==================================================
+
+==================================================
+Name: Ollie Ninja Slash
+Release Date: Sep 17, 2026
+Price: $1.99
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4486180
+==================================================
+
+==================================================
+Name: Lustful Dreamers
+Release Date: Sep 17, 2026
+Price: $6.79 (-15%, was $7.99)
+Genres: Action, RPG
+Link: https://store.steampowered.com/app/4382950
+==================================================
+
+==================================================
+Name: Neighbor Fight
+Release Date: Sep 17, 2026
+Price: $0.99
+Genres: Action, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/1980390
+==================================================
+
+==================================================
+Name: Sexy Cat
+Release Date: Sep 17, 2026
+Price: $0.69 (-30%, was $0.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/5083750
+==================================================
+
