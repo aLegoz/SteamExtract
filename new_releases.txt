@@ -82124,3 +82124,38 @@ Genres: Action, Indie
 Link: https://store.steampowered.com/app/5176950
 ==================================================
 
+
+--- Run: 2026-09-18 21:19:10 --- (4 new game(s) found)
+
+==================================================
+Name: The Door Factory
+Release Date: Sep 18, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Action, Indie, Simulation
+Link: https://store.steampowered.com/app/4815930
+==================================================
+
+==================================================
+Name: Night Alley : ตรอกลวง ดวงดับ
+Release Date: Sep 18, 2026
+Price: $5.39 (-40%, was $8.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/5120290
+==================================================
+
+==================================================
+Name: Dewdrop
+Release Date: Sep 18, 2026
+Price: $8.49 (-15%, was $9.99)
+Genres: Casual, Simulation
+Link: https://store.steampowered.com/app/4163480
+==================================================
+
+==================================================
+Name: I Wish You Weren't Here
+Release Date: Sep 18, 2026
+Price: $1.79 (-40%, was $2.99)
+Genres: Adventure
+Link: https://store.steampowered.com/app/5143480
+==================================================
+
