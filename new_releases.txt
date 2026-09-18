@@ -82159,3 +82159,30 @@ Genres: Adventure
 Link: https://store.steampowered.com/app/5143480
 ==================================================
 
+
+--- Run: 2026-09-18 23:41:54 --- (3 new game(s) found)
+
+==================================================
+Name: Needle In A Haystack - A Time For Goats
+Release Date: Sep 18, 2026
+Price: $5.39 (-10%, was $5.99)
+Genres: Casual, Simulation
+Link: https://store.steampowered.com/app/4772020
+==================================================
+
+==================================================
+Name: Hentai World Costume
+Release Date: Sep 18, 2026
+Price: $0.79 (-20%, was $0.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5178730
+==================================================
+
+==================================================
+Name: At Face Value
+Release Date: Sep 18, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4816840
+==================================================
+
