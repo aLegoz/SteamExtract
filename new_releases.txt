@@ -81611,3 +81611,142 @@ Genres: Casual, Indie, Strategy
 Link: https://store.steampowered.com/app/5083750
 ==================================================
 
+
+--- Run: 2026-09-18 11:57:13 --- (17 new game(s) found)
+
+==================================================
+Name: Boardlike
+Release Date: Sep 18, 2026
+Price: $11.69 (-10%, was $12.99)
+Genres: Adventure, Indie, Strategy
+Link: https://store.steampowered.com/app/3613280
+==================================================
+
+==================================================
+Name: Korean GIRLS: Naughty at Home
+Release Date: Sep 18, 2026
+Price: $17.99 (-10%, was $19.99)
+Genres: Adventure, Casual, Simulation
+Link: https://store.steampowered.com/app/4355740
+==================================================
+
+==================================================
+Name: Rogue Racer
+Release Date: Sep 18, 2026
+Price: $13.59 (-15%, was $15.99)
+Genres: Action, Adventure, Indie, Racing, RPG
+Link: https://store.steampowered.com/app/764420
+==================================================
+
+==================================================
+Name: 市町村麻雀
+Release Date: Sep 18, 2026
+Price: Free to Play
+Genres: Free To Play
+Link: https://store.steampowered.com/app/5115900
+==================================================
+
+==================================================
+Name: Sharehouse
+Release Date: Sep 18, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Casual, Indie, RPG, Simulation
+Link: https://store.steampowered.com/app/4851390
+==================================================
+
+==================================================
+Name: The Legend of Water
+Release Date: Sep 18, 2026
+Price: $2.39 (-40%, was $3.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/5158250
+==================================================
+
+==================================================
+Name: The Endless Sky
+Release Date: Sep 18, 2026
+Price: Free to Play
+Genres: Casual, Indie, Massively Multiplayer, Free To Play
+Link: https://store.steampowered.com/app/4996720
+==================================================
+
+==================================================
+Name: Snap Chess
+Release Date: Sep 18, 2026
+Price: $3.19 (-20%, was $3.99)
+Genres: Action, Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/3503580
+==================================================
+
+==================================================
+Name: 君と最後の放課後
+Release Date: Sep 18, 2026
+Price: $2.59 (-30%, was $3.70)
+Genres: Adventure, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4951700
+==================================================
+
+==================================================
+Name: Neural Maze
+Release Date: Sep 18, 2026
+Price: $4.79 (-20%, was $5.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/3842720
+==================================================
+
+==================================================
+Name: The 3 Anal Piggies
+Release Date: Sep 18, 2026
+Price: $4.79 (-40%, was $7.99)
+Genres: Casual, Simulation
+Link: https://store.steampowered.com/app/4758380
+==================================================
+
+==================================================
+Name: The Grinch 2: Saving Christmas 
+Release Date: Sep 18, 2026
+Price: $39.99
+Genres: Action, Adventure, Casual
+Link: https://store.steampowered.com/app/3470930
+==================================================
+
+==================================================
+Name: Shion Can't Fight! Level Up Failed... Lewdness Maxed
+Release Date: Sep 18, 2026
+Price: $9.89 (-10%, was $10.99)
+Genres: Casual, Indie, RPG
+Link: https://store.steampowered.com/app/4123320
+==================================================
+
+==================================================
+Name: Parasite Elevator
+Release Date: Sep 18, 2026
+Price: $5.39 (-10%, was $5.99)
+Genres: Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/3737310
+==================================================
+
+==================================================
+Name: The Hobo Dev
+Release Date: Sep 18, 2026
+Price: $0.99
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5191900
+==================================================
+
+==================================================
+Name: Cave Escape
+Release Date: Sep 18, 2026
+Price: $0.99
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5177870
+==================================================
+
+==================================================
+Name: There Is mORE
+Release Date: Sep 17, 2026
+Price: $11.24 (-25%, was $14.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/3931000
+==================================================
+
