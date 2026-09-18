@@ -81750,3 +81750,182 @@ Genres: Action, Adventure, Indie
 Link: https://store.steampowered.com/app/3931000
 ==================================================
 
+
+--- Run: 2026-09-18 15:30:41 --- (22 new game(s) found)
+
+==================================================
+Name: Paver: Tidy Up Together
+Release Date: Sep 18, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5120650
+==================================================
+
+==================================================
+Name: Nightwater
+Release Date: Sep 18, 2026
+Price: $13.49 (-10%, was $14.99)
+Genres: Adventure, Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/3983860
+==================================================
+
+==================================================
+Name: The Rhapsody of Zephyr Remastered
+Release Date: Sep 18, 2026
+Price: $39.99
+Genres: RPG
+Link: https://store.steampowered.com/app/5099430
+==================================================
+
+==================================================
+Name: VoiceHealer
+Release Date: Sep 18, 2026
+Price: $4.79 (-20%, was $5.99)
+Genres: Audio Production, Utilities
+Link: https://store.steampowered.com/app/3201480
+==================================================
+
+==================================================
+Name: Toxic Yuri
+Release Date: Sep 18, 2026
+Price: $13.49 (-10%, was $14.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/3503300
+==================================================
+
+==================================================
+Name: Crown Siege
+Release Date: Sep 18, 2026
+Price: $8.49 (-15%, was $9.99)
+Genres: Action, Casual, Simulation, Strategy
+Link: https://store.steampowered.com/app/4310440
+==================================================
+
+==================================================
+Name: Jumping Jimothy
+Release Date: Sep 18, 2026
+Price: $2.39 (-20%, was $2.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/5043360
+==================================================
+
+==================================================
+Name: Chief Cenab : Şahmaran
+Release Date: Sep 18, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/3939850
+==================================================
+
+==================================================
+Name: Unmurk
+Release Date: Sep 18, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/1923960
+==================================================
+
+==================================================
+Name: WomboCombo
+Release Date: Sep 18, 2026
+Price: $2.99 (-25%, was $3.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4210240
+==================================================
+
+==================================================
+Name: We Are Sisters
+Release Date: Sep 18, 2026
+Price: $3.19 (-20%, was $3.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/5055960
+==================================================
+
+==================================================
+Name: Noctiria
+Release Date: Sep 18, 2026
+Price: $9.99
+Genres: Casual, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/4744550
+==================================================
+
+==================================================
+Name: Where Are My Cats?
+Release Date: Sep 18, 2026
+Price: Free to Play
+Genres: Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/4891520
+==================================================
+
+==================================================
+Name: Dirt Spoon in Another World
+Release Date: Sep 18, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Indie, RPG, Simulation, Strategy
+Link: https://store.steampowered.com/app/5172450
+==================================================
+
+==================================================
+Name: Heavenward
+Release Date: Sep 18, 2026
+Price: Free to Play
+Genres: Adventure, Massively Multiplayer, RPG, Free To Play
+Link: https://store.steampowered.com/app/5063480
+==================================================
+
+==================================================
+Name: Save Mom
+Release Date: Sep 18, 2026
+Price: $7.19 (-20%, was $8.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/3470800
+==================================================
+
+==================================================
+Name: Fortune Avenue
+Release Date: Sep 18, 2026
+Price: $4.89 (-30%, was $6.99)
+Genres: Casual, Indie, Massively Multiplayer, Simulation, Strategy
+Link: https://store.steampowered.com/app/1810050
+==================================================
+
+==================================================
+Name: ZuOnline
+Release Date: Sep 18, 2026
+Price: Free to Play
+Genres: Action, Adventure, Massively Multiplayer, RPG, Free To Play
+Link: https://store.steampowered.com/app/4114690
+==================================================
+
+==================================================
+Name: Dojo of a Thousand Lives
+Release Date: Sep 18, 2026
+Price: $4.95 (-38%, was $7.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/5106540
+==================================================
+
+==================================================
+Name: Runner Gunner
+Release Date: Sep 18, 2026
+Price: $3.49 (-30%, was $4.99)
+Genres: Action, Casual
+Link: https://store.steampowered.com/app/5134170
+==================================================
+
+==================================================
+Name: Hentai Tales: Twin Cage Tuning
+Release Date: Sep 18, 2026
+Price: $0.59 (-40%, was $0.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4924570
+==================================================
+
+==================================================
+Name: 小先生 Little ShiFu
+Release Date: Sep 18, 2026
+Price: $1.44 (-10%, was $1.60)
+Genres: Action, Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/2725040
+==================================================
+
