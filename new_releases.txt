@@ -82631,3 +82631,46 @@ Genres: Casual, Massively Multiplayer, RPG, Strategy
 Link: https://store.steampowered.com/app/4951110
 ==================================================
 
+
+--- Run: 2026-09-19 23:43:05 --- (5 new game(s) found)
+
+==================================================
+Name: 忍牌忍战大师Ninja Cards and Ninja Battle Master
+Release Date: Sep 19, 2026
+Price: $4.99
+Genres: Action, Casual, Strategy
+Link: https://store.steampowered.com/app/5132180
+==================================================
+
+==================================================
+Name: Submechanic
+Release Date: Sep 19, 2026
+Price: $3.99
+Genres: Indie
+Link: https://store.steampowered.com/app/4741630
+==================================================
+
+==================================================
+Name: Meat Girl
+Release Date: Sep 19, 2026
+Price: $5.00
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4917360
+==================================================
+
+==================================================
+Name: Slap the Gamer
+Release Date: Sep 19, 2026
+Price: $3.50
+Genres: Action, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5195850
+==================================================
+
+==================================================
+Name: Day Off Simulator
+Release Date: Sep 19, 2026
+Price: $0.84 (-15%, was $0.99)
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/2524740
+==================================================
+
