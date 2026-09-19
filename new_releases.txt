@@ -82596,3 +82596,38 @@ Genres: Action, Casual, Indie, Sports
 Link: https://store.steampowered.com/app/5022380
 ==================================================
 
+
+--- Run: 2026-09-19 21:51:02 --- (4 new game(s) found)
+
+==================================================
+Name: Wreckcore
+Release Date: Sep 19, 2026
+Price: $6.29 (-10%, was $6.99)
+Genres: Action, Casual, Racing, Simulation
+Link: https://store.steampowered.com/app/5012330
+==================================================
+
+==================================================
+Name: Rusted Awakening
+Release Date: Sep 19, 2026
+Price: $5.39 (-10%, was $5.99)
+Genres: Action
+Link: https://store.steampowered.com/app/2874490
+==================================================
+
+==================================================
+Name: AstroTennis
+Release Date: Sep 19, 2026
+Price: $0.89 (-10%, was $0.99)
+Genres: Casual, Sports
+Link: https://store.steampowered.com/app/5109050
+==================================================
+
+==================================================
+Name: Auction Gambit
+Release Date: Sep 19, 2026
+Price: $0.99
+Genres: Casual, Massively Multiplayer, RPG, Strategy
+Link: https://store.steampowered.com/app/4951110
+==================================================
+
