@@ -82494,3 +82494,94 @@ Genres: Casual
 Link: https://store.steampowered.com/app/4928470
 ==================================================
 
+
+--- Run: 2026-09-19 17:34:43 --- (11 new game(s) found)
+
+==================================================
+Name: PotionPanic
+Release Date: Sep 19, 2026
+Price: Free to Play
+Genres: Casual, Simulation, Free To Play
+Link: https://store.steampowered.com/app/4533650
+==================================================
+
+==================================================
+Name: The Options Menu
+Release Date: Sep 19, 2026
+Price: $5.99
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4735970
+==================================================
+
+==================================================
+Name: Night Record: Thin Walls
+Release Date: Sep 19, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/4652040
+==================================================
+
+==================================================
+Name: Screw IT
+Release Date: Sep 19, 2026
+Price: $4.99 (-20%, was $6.24)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4972300
+==================================================
+
+==================================================
+Name: The Furry Protocol
+Release Date: Sep 19, 2026
+Price: $7.19 (-10%, was $7.99)
+Genres: Action, Indie, Simulation
+Link: https://store.steampowered.com/app/4141640
+==================================================
+
+==================================================
+Name: カブトムシの森
+Release Date: Sep 19, 2026
+Price: $1.99
+Genres: Adventure
+Link: https://store.steampowered.com/app/5121040
+==================================================
+
+==================================================
+Name: Panic Files: Buried Sanity
+Release Date: Sep 19, 2026
+Price: $3.99
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4012730
+==================================================
+
+==================================================
+Name: Fluttering
+Release Date: Sep 19, 2026
+Price: $4.32 (-10%, was $4.80)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/3759520
+==================================================
+
+==================================================
+Name: Pirouette & Smile
+Release Date: Sep 19, 2026
+Price: $3.00
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5171060
+==================================================
+
+==================================================
+Name: ONLY FARMS 🍑
+Release Date: Sep 19, 2026
+Price: $9.44 (-37%, was $14.99)
+Genres: Adventure, Casual, Simulation
+Link: https://store.steampowered.com/app/4657600
+==================================================
+
+==================================================
+Name: Perfect Cut
+Release Date: Sep 19, 2026
+Price: $2.99
+Genres: Action, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4131820
+==================================================
+
