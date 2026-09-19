@@ -82186,3 +82186,86 @@ Genres: Casual, Indie
 Link: https://store.steampowered.com/app/4816840
 ==================================================
 
+
+--- Run: 2026-09-19 01:56:10 --- (10 new game(s) found)
+
+==================================================
+Name: Night Shift: Anomaly
+Release Date: Sep 18, 2026
+Price: $1.49 (-40%, was $2.49)
+Genres: Action, Adventure, Casual, Strategy
+Link: https://store.steampowered.com/app/5202790
+==================================================
+
+==================================================
+Name: Catskill Mine: 10,000ft Below
+Release Date: Sep 18, 2026
+Price: $2.49
+Genres: Adventure
+Link: https://store.steampowered.com/app/4905660
+==================================================
+
+==================================================
+Name: Shell Inside
+Release Date: Sep 18, 2026
+Price: $4.99
+Genres: Adventure, Casual
+Link: https://store.steampowered.com/app/4745550
+==================================================
+
+==================================================
+Name: Spinnopoly
+Release Date: Sep 18, 2026
+Price: $2.39 (-20%, was $2.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4506940
+==================================================
+
+==================================================
+Name: Immortal Tryst
+Release Date: Sep 18, 2026
+Price: $4.19 (-40%, was $6.99)
+Genres: Adventure, Simulation
+Link: https://store.steampowered.com/app/4965030
+==================================================
+
+==================================================
+Name: Hentai Femboy Feet
+Release Date: Sep 18, 2026
+Price: $4.79 (-20%, was $5.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5168360
+==================================================
+
+==================================================
+Name: Eternity Lost: Mystery of Aurum Collector's Edition
+Release Date: Sep 18, 2026
+Price: $12.74 (-15%, was $14.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/5095280
+==================================================
+
+==================================================
+Name: Ascend Idle: Chronicles
+Release Date: Sep 18, 2026
+Price: $6.39 (-20%, was $7.99)
+Genres: Casual, Indie, RPG
+Link: https://store.steampowered.com/app/5125980
+==================================================
+
+==================================================
+Name: POWDR
+Release Date: Sep 18, 2026
+Price: $4.99
+Genres: Casual, Simulation
+Link: https://store.steampowered.com/app/5073050
+==================================================
+
+==================================================
+Name: I Became a Lord of a Fantasy Game
+Release Date: Sep 18, 2026
+Price: $8.49 (-15%, was $9.99)
+Genres: RPG, Strategy
+Link: https://store.steampowered.com/app/5177120
+==================================================
+
