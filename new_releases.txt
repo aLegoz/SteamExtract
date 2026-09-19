@@ -82269,3 +82269,110 @@ Genres: RPG, Strategy
 Link: https://store.steampowered.com/app/5177120
 ==================================================
 
+
+--- Run: 2026-09-19 06:50:05 --- (13 new game(s) found)
+
+==================================================
+Name: Trash Wars
+Release Date: Sep 18, 2026
+Price: $6.99
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/3139380
+==================================================
+
+==================================================
+Name: Server-Admin Simulator
+Release Date: Sep 18, 2026
+Price: $7.49 (-25%, was $9.99)
+Genres: Simulation, Strategy
+Link: https://store.steampowered.com/app/5065720
+==================================================
+
+==================================================
+Name: Night of the Living Bubble
+Release Date: Sep 18, 2026
+Price: $5.99
+Genres: Action, Adventure
+Link: https://store.steampowered.com/app/3984090
+==================================================
+
+==================================================
+Name: SnowDesktop
+Release Date: Sep 18, 2026
+Price: $5.59 (-20%, was $6.99)
+Genres: Indie, Utilities
+Link: https://store.steampowered.com/app/5080330
+==================================================
+
+==================================================
+Name: Keep the Witch Out of This Inn
+Release Date: Sep 18, 2026
+Price: $9.89 (-10%, was $10.99)
+Genres: Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/4532660
+==================================================
+
+==================================================
+Name:  FriedrichAI: Offline AI
+Release Date: Sep 18, 2026
+Price: $9.99
+Genres: Design & Illustration, Utilities, Game Development
+Link: https://store.steampowered.com/app/4111530
+==================================================
+
+==================================================
+Name: IDEL CAVITY INC.
+Release Date: Sep 18, 2026
+Price: $3.39 (-15%, was $3.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5084210
+==================================================
+
+==================================================
+Name: Bound by Destiny
+Release Date: Sep 18, 2026
+Price: $6.39 (-20%, was $7.99)
+Genres: RPG, Simulation
+Link: https://store.steampowered.com/app/3845610
+==================================================
+
+==================================================
+Name: Neon City Legends
+Release Date: Sep 18, 2026
+Price: $8.49 (-15%, was $9.99)
+Genres: Action, Racing, RPG
+Link: https://store.steampowered.com/app/5102530
+==================================================
+
+==================================================
+Name: Black Hole Grow Forever
+Release Date: Sep 18, 2026
+Price: $1.59 (-20%, was $1.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/5165510
+==================================================
+
+==================================================
+Name: Custodes of Elf Hearts
+Release Date: Sep 18, 2026
+Price: $7.19 (-10%, was $7.99)
+Genres: Casual, Indie, RPG
+Link: https://store.steampowered.com/app/3305840
+==================================================
+
+==================================================
+Name: Warm
+Release Date: Sep 18, 2026
+Price: $4.96 (-29%, was $6.99)
+Genres: Action, Adventure, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/3813060
+==================================================
+
+==================================================
+Name: Pillagers: The Poisoned Throne
+Release Date: Sep 18, 2026
+Price: $6.29 (-10%, was $6.99)
+Genres: Strategy
+Link: https://store.steampowered.com/app/5158690
+==================================================
+
