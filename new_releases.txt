@@ -82376,3 +82376,102 @@ Genres: Strategy
 Link: https://store.steampowered.com/app/5158690
 ==================================================
 
+
+--- Run: 2026-09-19 11:41:05 --- (12 new game(s) found)
+
+==================================================
+Name: Texture Map Studio
+Release Date: Sep 19, 2026
+Price: $0.99
+Genres: Animation & Modeling, Design & Illustration, Game Development
+Link: https://store.steampowered.com/app/5172720
+==================================================
+
+==================================================
+Name: Pixel BlackJack  -  二十一点
+Release Date: Sep 19, 2026
+Price: Free to Play
+Genres: Casual, Indie, Simulation, Strategy, Free To Play
+Link: https://store.steampowered.com/app/5197410
+==================================================
+
+==================================================
+Name: Visual Novel: EVENING BROADCAST
+Release Date: Sep 19, 2026
+Price: $0.69 (-30%, was $0.99)
+Genres: Action, Adventure, Casual, Indie, RPG
+Link: https://store.steampowered.com/app/5208380
+==================================================
+
+==================================================
+Name: Unfold Flower
+Release Date: Sep 19, 2026
+Price: $5.39 (-10%, was $5.99)
+Genres: Adventure, Casual, Simulation
+Link: https://store.steampowered.com/app/5123190
+==================================================
+
+==================================================
+Name: Slime Trader
+Release Date: Sep 19, 2026
+Price: Free to Play
+Genres: Casual, Indie, Simulation, Strategy, Free To Play
+Link: https://store.steampowered.com/app/5164660
+==================================================
+
+==================================================
+Name: Car Club Tuning Storm
+Release Date: Sep 19, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Racing, Simulation
+Link: https://store.steampowered.com/app/5033660
+==================================================
+
+==================================================
+Name: Emberwall
+Release Date: Sep 19, 2026
+Price: $4.99
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/5184210
+==================================================
+
+==================================================
+Name: Lust&Leases
+Release Date: Sep 18, 2026
+Price: $14.99
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5042350
+==================================================
+
+==================================================
+Name: Augmented Yut
+Release Date: Sep 18, 2026
+Price: $1.59 (-20%, was $1.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/4947900
+==================================================
+
+==================================================
+Name: Childhood Slots
+Release Date: Sep 18, 2026
+Price: $2.99
+Genres: Casual, Simulation
+Link: https://store.steampowered.com/app/5044710
+==================================================
+
+==================================================
+Name: Horny Jail
+Release Date: Sep 18, 2026
+Price: $10.19 (-15%, was $11.99)
+Genres: Adventure, Casual
+Link: https://store.steampowered.com/app/4219640
+==================================================
+
+==================================================
+Name: That Cloud Looks Like
+Release Date: Sep 18, 2026
+Price: $2.39 (-20%, was $2.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/5171880
+==================================================
+
