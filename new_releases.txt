@@ -82475,3 +82475,22 @@ Genres: Casual, Indie, Strategy
 Link: https://store.steampowered.com/app/5171880
 ==================================================
 
+
+--- Run: 2026-09-19 14:55:48 --- (2 new game(s) found)
+
+==================================================
+Name: Desire Inn
+Release Date: Sep 19, 2026
+Price: Free to Play
+Genres: Casual, Simulation, Free To Play
+Link: https://store.steampowered.com/app/3956380
+==================================================
+
+==================================================
+Name: Love in Another World
+Release Date: Sep 19, 2026
+Price: $2.99 (-40%, was $4.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/4928470
+==================================================
+
