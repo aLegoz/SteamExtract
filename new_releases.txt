@@ -82806,3 +82806,38 @@ Genres: Action, Adventure, Indie, Free To Play
 Link: https://store.steampowered.com/app/5010120
 ==================================================
 
+
+--- Run: 2026-09-20 19:08:15 --- (4 new game(s) found)
+
+==================================================
+Name: Darby Is Here Forever
+Release Date: Sep 20, 2026
+Price: $2.54 (-15%, was $2.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/3124020
+==================================================
+
+==================================================
+Name: Dear Journey...
+Release Date: Sep 20, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4172110
+==================================================
+
+==================================================
+Name: Click to Farm
+Release Date: Sep 20, 2026
+Price: $2.99
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4761260
+==================================================
+
+==================================================
+Name: Farmabot
+Release Date: Sep 20, 2026
+Price: $9.99
+Genres: Action, Indie, Simulation
+Link: https://store.steampowered.com/app/4932410
+==================================================
+
