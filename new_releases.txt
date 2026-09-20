@@ -82693,3 +82693,46 @@ Genres: Action, Adventure, Indie
 Link: https://store.steampowered.com/app/776250
 ==================================================
 
+
+--- Run: 2026-09-20 07:24:38 --- (5 new game(s) found)
+
+==================================================
+Name: Sakura: The Eternal Night
+Release Date: Sep 20, 2026
+Price: $0.59 (-40%, was $0.99)
+Genres: RPG
+Link: https://store.steampowered.com/app/5013390
+==================================================
+
+==================================================
+Name: UMAN
+Release Date: Sep 19, 2026
+Price: $5.39 (-10%, was $5.99)
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/5005050
+==================================================
+
+==================================================
+Name: ChessTan
+Release Date: Sep 19, 2026
+Price: Free to Play
+Genres: Strategy, Free To Play
+Link: https://store.steampowered.com/app/5099860
+==================================================
+
+==================================================
+Name: BIG BANG TO US
+Release Date: Sep 19, 2026
+Price: $8.99
+Genres: Simulation
+Link: https://store.steampowered.com/app/5097440
+==================================================
+
+==================================================
+Name: Gwiazdozbiór
+Release Date: Sep 19, 2026
+Price: $9.99
+Genres: Strategy
+Link: https://store.steampowered.com/app/4849030
+==================================================
+
