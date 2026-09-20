@@ -82674,3 +82674,22 @@ Genres: Indie, Simulation
 Link: https://store.steampowered.com/app/2524740
 ==================================================
 
+
+--- Run: 2026-09-20 01:58:24 --- (2 new game(s) found)
+
+==================================================
+Name: Meridian Strike
+Release Date: Sep 19, 2026
+Price: $4.49 (-25%, was $5.99)
+Genres: Adventure, Indie, Strategy
+Link: https://store.steampowered.com/app/5139650
+==================================================
+
+==================================================
+Name: Somebody's Tale
+Release Date: Sep 19, 2026
+Price: $3.51 (-12%, was $3.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/776250
+==================================================
+
