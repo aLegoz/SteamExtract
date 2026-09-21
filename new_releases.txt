@@ -82860,3 +82860,22 @@ Genres: Indie, RPG
 Link: https://store.steampowered.com/app/5166800
 ==================================================
 
+
+--- Run: 2026-09-21 01:59:33 --- (2 new game(s) found)
+
+==================================================
+Name: Lumiric Stage
+Release Date: Sep 20, 2026
+Price: $22.49 (-10%, was $24.99)
+Genres: Casual, Indie, Animation & Modeling, Audio Production, Education, Video Production
+Link: https://store.steampowered.com/app/1721290
+==================================================
+
+==================================================
+Name: Quack my Duck
+Release Date: Sep 20, 2026
+Price: $3.99
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/2151450
+==================================================
+
