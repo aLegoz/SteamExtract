@@ -82879,3 +82879,86 @@ Genres: Casual, Indie
 Link: https://store.steampowered.com/app/2151450
 ==================================================
 
+
+--- Run: 2026-09-21 07:40:21 --- (10 new game(s) found)
+
+==================================================
+Name: Yandere Virus
+Release Date: Sep 20, 2026
+Price: $5.59 (-20%, was $6.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4513060
+==================================================
+
+==================================================
+Name: The S.I.N. Phantom
+Release Date: Sep 20, 2026
+Price: Free to Play
+Genres: Casual, Simulation, Free To Play
+Link: https://store.steampowered.com/app/4910440
+==================================================
+
+==================================================
+Name: Idle Block Breaker
+Release Date: Sep 20, 2026
+Price: $5.00
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4875650
+==================================================
+
+==================================================
+Name: Hibiki & Kanon's Go 19x19 Complete Beginner’s Course
+Release Date: Sep 20, 2026
+Price: $25.49 (-15%, was $29.99)
+Genres: Strategy
+Link: https://store.steampowered.com/app/5145860
+==================================================
+
+==================================================
+Name: Brave New Wonders
+Release Date: Sep 20, 2026
+Price: $21.24 (-15%, was $24.99)
+Genres: Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/2403830
+==================================================
+
+==================================================
+Name: Aenoic Abyss
+Release Date: Sep 20, 2026
+Price: $8.09 (-10%, was $8.99)
+Genres: Action, Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/3855090
+==================================================
+
+==================================================
+Name: Mellow Flavor Alley
+Release Date: Sep 20, 2026
+Price: $2.99
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5101560
+==================================================
+
+==================================================
+Name: Project Solaris
+Release Date: Sep 20, 2026
+Price: $9.99
+Genres: Casual, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/3002740
+==================================================
+
+==================================================
+Name: HAND-CODED BATTLE
+Release Date: Sep 20, 2026
+Price: $0.99
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5114020
+==================================================
+
+==================================================
+Name: Tidy Tokens
+Release Date: Sep 20, 2026
+Price: $7.99
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/5132000
+==================================================
+
