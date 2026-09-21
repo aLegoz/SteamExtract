@@ -83304,3 +83304,94 @@ Genres: Casual, Indie, Strategy
 Link: https://store.steampowered.com/app/4300180
 ==================================================
 
+
+--- Run: 2026-09-21 22:54:19 --- (11 new game(s) found)
+
+==================================================
+Name: Soggy Beans
+Release Date: Sep 21, 2026
+Price: $9.89 (-10%, was $10.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/2636430
+==================================================
+
+==================================================
+Name: Puzzles Trees
+Release Date: Sep 21, 2026
+Price: $0.99
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4964780
+==================================================
+
+==================================================
+Name: Kick Bot DX
+Release Date: Sep 21, 2026
+Price: $2.99
+Genres: Action
+Link: https://store.steampowered.com/app/3664670
+==================================================
+
+==================================================
+Name: Lewd Elevator
+Release Date: Sep 21, 2026
+Price: $16.99 (-15%, was $19.99)
+Genres: Action, Adventure
+Link: https://store.steampowered.com/app/4861300
+==================================================
+
+==================================================
+Name: Brainrot Simulator
+Release Date: Sep 21, 2026
+Price: $9.99
+Genres: Adventure, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5046580
+==================================================
+
+==================================================
+Name: SO BELOW
+Release Date: Sep 21, 2026
+Price: $9.59 (-20%, was $11.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/2140700
+==================================================
+
+==================================================
+Name: BlockScavenger
+Release Date: Sep 21, 2026
+Price: $3.99
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/5125620
+==================================================
+
+==================================================
+Name: Driverless Desire
+Release Date: Sep 21, 2026
+Price: $4.19 (-40%, was $6.99)
+Genres: Adventure, Simulation
+Link: https://store.steampowered.com/app/4922560
+==================================================
+
+==================================================
+Name: Upload Aliens
+Release Date: Sep 21, 2026
+Price: $8.49 (-15%, was $9.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4234950
+==================================================
+
+==================================================
+Name: Hardware Store: Tidy Up
+Release Date: Sep 21, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5109060
+==================================================
+
+==================================================
+Name: King Arthur: Crown of Avalon
+Release Date: Sep 21, 2026
+Price: $5.99 (-25%, was $7.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/5082110
+==================================================
+
