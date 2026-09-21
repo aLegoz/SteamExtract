@@ -82962,3 +82962,158 @@ Genres: Adventure, Casual, Indie
 Link: https://store.steampowered.com/app/5132000
 ==================================================
 
+
+--- Run: 2026-09-21 14:38:16 --- (19 new game(s) found)
+
+==================================================
+Name: Tung Tung Together: Online Deathrun Party
+Release Date: Sep 21, 2026
+Price: Free to Play
+Genres: Adventure, Casual, Racing, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4122870
+==================================================
+
+==================================================
+Name: Nettle
+Release Date: Sep 21, 2026
+Price: $6.99
+Genres: Strategy
+Link: https://store.steampowered.com/app/3192880
+==================================================
+
+==================================================
+Name: Sylv and the Ancient Tree
+Release Date: Sep 21, 2026
+Price: $9.00
+Genres: Action, Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/4589200
+==================================================
+
+==================================================
+Name: Happy Wheels
+Release Date: Sep 21, 2026
+Price: $4.99
+Genres: Action, Casual, Indie, Racing
+Link: https://store.steampowered.com/app/4705510
+==================================================
+
+==================================================
+Name: Normal Golf Game
+Release Date: Sep 21, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: Simulation, Sports
+Link: https://store.steampowered.com/app/3510740
+==================================================
+
+==================================================
+Name: Apparently an Apprentice Alchemist
+Release Date: Sep 21, 2026
+Price: $2.99 (-25%, was $3.99)
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/4946370
+==================================================
+
+==================================================
+Name: Lootborne
+Release Date: Sep 21, 2026
+Price: $1.69 (-15%, was $1.99)
+Genres: Casual, RPG
+Link: https://store.steampowered.com/app/4335620
+==================================================
+
+==================================================
+Name: The old house
+Release Date: Sep 21, 2026
+Price: $6.29 (-10%, was $6.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4666430
+==================================================
+
+==================================================
+Name: Veil of the Damned
+Release Date: Sep 21, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4173820
+==================================================
+
+==================================================
+Name: Immortal Dao Idle
+Release Date: Sep 21, 2026
+Price: $8.09 (-10%, was $8.99)
+Genres: Massively Multiplayer, RPG, Simulation
+Link: https://store.steampowered.com/app/4493090
+==================================================
+
+==================================================
+Name: Echoes of Mora
+Release Date: Sep 21, 2026
+Price: $13.49 (-10%, was $14.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/3129050
+==================================================
+
+==================================================
+Name: Zombie X
+Release Date: Sep 21, 2026
+Price: $0.89 (-10%, was $0.99)
+Genres: Action
+Link: https://store.steampowered.com/app/5106570
+==================================================
+
+==================================================
+Name: Crystant
+Release Date: Sep 21, 2026
+Price: $10.79 (-10%, was $11.99)
+Genres: Casual, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/3006090
+==================================================
+
+==================================================
+Name: CITADEL
+Release Date: Sep 21, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4433910
+==================================================
+
+==================================================
+Name: GridEnergy
+Release Date: Sep 21, 2026
+Price: $2.09 (-30%, was $2.99)
+Genres: Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/5040690
+==================================================
+
+==================================================
+Name: Dressmaker
+Release Date: Sep 21, 2026
+Price: $13.49 (-10%, was $14.99)
+Genres: Casual, Simulation
+Link: https://store.steampowered.com/app/4019220
+==================================================
+
+==================================================
+Name: IGTAP: an Incremental Game That's Also a Platformer
+Release Date: Sep 21, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/4364730
+==================================================
+
+==================================================
+Name: Food for Frog
+Release Date: Sep 21, 2026
+Price: $7.99
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4064010
+==================================================
+
+==================================================
+Name: Carnaval Marbles
+Release Date: Sep 21, 2026
+Price: $6.99
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/3287950
+==================================================
+
