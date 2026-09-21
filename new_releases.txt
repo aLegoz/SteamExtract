@@ -83117,3 +83117,190 @@ Genres: Casual, Indie, Strategy
 Link: https://store.steampowered.com/app/3287950
 ==================================================
 
+
+--- Run: 2026-09-21 19:48:36 --- (23 new game(s) found)
+
+==================================================
+Name: Echoes of Mora VR
+Release Date: Sep 21, 2026
+Price: $16.19 (-10%, was $17.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4847850
+==================================================
+
+==================================================
+Name: Ashrun Survivors
+Release Date: Sep 21, 2026
+Price: $5.49
+Genres: Action, Casual, Indie, RPG
+Link: https://store.steampowered.com/app/4951360
+==================================================
+
+==================================================
+Name: The Stickman
+Release Date: Sep 21, 2026
+Price: $10.19 (-15%, was $11.99)
+Genres: Action, Indie, Racing
+Link: https://store.steampowered.com/app/2781680
+==================================================
+
+==================================================
+Name: Video Game Menu: The Game
+Release Date: Sep 21, 2026
+Price: $3.59 (-10%, was $3.99)
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/3949620
+==================================================
+
+==================================================
+Name: After the Silence
+Release Date: Sep 21, 2026
+Price: $5.99
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4802680
+==================================================
+
+==================================================
+Name: EON Survivor
+Release Date: Sep 21, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: Action, Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4286910
+==================================================
+
+==================================================
+Name: Whispers in Clay
+Release Date: Sep 21, 2026
+Price: $4.79 (-20%, was $5.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/4983250
+==================================================
+
+==================================================
+Name: Museum Disarter
+Release Date: Sep 21, 2026
+Price: $5.39 (-10%, was $5.99)
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/4988860
+==================================================
+
+==================================================
+Name: Turning point
+Release Date: Sep 21, 2026
+Price: $2.99 (-25%, was $3.99)
+Genres: Action, Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4602350
+==================================================
+
+==================================================
+Name: Micro Solar Punk
+Release Date: Sep 21, 2026
+Price: $11.25 (-10%, was $12.50)
+Genres: Action, Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/3874130
+==================================================
+
+==================================================
+Name: Roadhouse Simulator
+Release Date: Sep 21, 2026
+Price: $17.99 (-10%, was $19.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/3565480
+==================================================
+
+==================================================
+Name: Slayer Queen
+Release Date: Sep 21, 2026
+Price: $1.40 (-30%, was $2.00)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4980100
+==================================================
+
+==================================================
+Name: Formula 2.5
+Release Date: Sep 21, 2026
+Price: $7.19 (-10%, was $7.99)
+Genres: Indie, Racing, Sports
+Link: https://store.steampowered.com/app/4159550
+==================================================
+
+==================================================
+Name: Slap Leather
+Release Date: Sep 21, 2026
+Price: $1.80 (-20%, was $2.25)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5145800
+==================================================
+
+==================================================
+Name: Custom Corner
+Release Date: Sep 21, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4639490
+==================================================
+
+==================================================
+Name: Mad Metal
+Release Date: Sep 21, 2026
+Price: $11.99 (-20%, was $14.99)
+Genres: Action, Indie, Racing
+Link: https://store.steampowered.com/app/3068230
+==================================================
+
+==================================================
+Name: Dicebinder
+Release Date: Sep 21, 2026
+Price: $8.49 (-15%, was $9.99)
+Genres: Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/4535170
+==================================================
+
+==================================================
+Name: Scirocco Thugs
+Release Date: Sep 21, 2026
+Price: $5.39 (-10%, was $5.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/3042790
+==================================================
+
+==================================================
+Name: Cuckoo Mask
+Release Date: Sep 21, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/2301480
+==================================================
+
+==================================================
+Name: Node Factory
+Release Date: Sep 21, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Action, Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4513380
+==================================================
+
+==================================================
+Name: The Rabbit Haul
+Release Date: Sep 21, 2026
+Price: $12.74 (-15%, was $14.99)
+Genres: Action, Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/2514330
+==================================================
+
+==================================================
+Name: Deified
+Release Date: Sep 21, 2026
+Price: $13.49 (-10%, was $14.99)
+Genres: Strategy
+Link: https://store.steampowered.com/app/3623530
+==================================================
+
+==================================================
+Name: Fruitbearer
+Release Date: Sep 21, 2026
+Price: $5.39 (-40%, was $8.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4300180
+==================================================
+
