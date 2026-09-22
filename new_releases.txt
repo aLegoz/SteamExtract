@@ -83946,3 +83946,78 @@ Genres: Adventure, Indie, RPG
 Link: https://store.steampowered.com/app/1374860
 ==================================================
 
+
+--- Run: 2026-09-22 23:20:37 --- (9 new game(s) found)
+
+==================================================
+Name: MAGNET
+Release Date: Sep 22, 2026
+Price: $0.99
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5197660
+==================================================
+
+==================================================
+Name: Fruit Golf
+Release Date: Sep 22, 2026
+Price: $19.99
+Genres: Action, Casual, Indie, Sports
+Link: https://store.steampowered.com/app/406890
+==================================================
+
+==================================================
+Name: Gunclone Arena
+Release Date: Sep 22, 2026
+Price: $4.79 (-40%, was $7.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4265740
+==================================================
+
+==================================================
+Name: Serandor The Last Knight
+Release Date: Sep 22, 2026
+Price: $1.70 (-10%, was $1.89)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/5166200
+==================================================
+
+==================================================
+Name: Five Nights with Dino
+Release Date: Sep 22, 2026
+Price: $0.69 (-30%, was $0.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5050690
+==================================================
+
+==================================================
+Name: Dear Diary
+Release Date: Sep 22, 2026
+Price: $2.99 (-40%, was $4.99)
+Genres: Adventure
+Link: https://store.steampowered.com/app/4953300
+==================================================
+
+==================================================
+Name: Grandpa's Legacy
+Release Date: Sep 22, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/5153890
+==================================================
+
+==================================================
+Name: Code Blue Idle
+Release Date: Sep 22, 2026
+Price: $6.95 (-13%, was $7.99)
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/4686090
+==================================================
+
+==================================================
+Name: Hover Idle: Grid Master
+Release Date: Sep 22, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/5209990
+==================================================
+
