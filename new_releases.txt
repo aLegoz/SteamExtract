@@ -83529,3 +83529,158 @@ Genres: Indie, Simulation
 Link: https://store.steampowered.com/app/5095670
 ==================================================
 
+
+--- Run: 2026-09-22 12:15:35 --- (19 new game(s) found)
+
+==================================================
+Name: Little Ghost
+Release Date: Sep 22, 2026
+Price: $13.00
+Genres: Action, Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/1587380
+==================================================
+
+==================================================
+Name: Panzer Deck
+Release Date: Sep 22, 2026
+Price: $10.39 (-20%, was $12.99)
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/3872650
+==================================================
+
+==================================================
+Name: Blova
+Release Date: Sep 22, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Action, Adventure, Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/5129690
+==================================================
+
+==================================================
+Name: Packed Lair
+Release Date: Sep 22, 2026
+Price: $7.19 (-10%, was $7.99)
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/3489680
+==================================================
+
+==================================================
+Name: Kihaven
+Release Date: Sep 22, 2026
+Price: $1.59 (-20%, was $1.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4991690
+==================================================
+
+==================================================
+Name: GREGS: Linked Together
+Release Date: Sep 22, 2026
+Price: $6.74 (-25%, was $8.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/3240010
+==================================================
+
+==================================================
+Name: SPIRAL OJOSAMA CHOHATSU MAKINA
+Release Date: Sep 22, 2026
+Price: $19.99 (-20%, was $24.99)
+Genres: Action
+Link: https://store.steampowered.com/app/5144700
+==================================================
+
+==================================================
+Name: Hentai Senpai: MILFs & GILFs
+Release Date: Sep 22, 2026
+Price: $3.59 (-10%, was $3.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4770010
+==================================================
+
+==================================================
+Name: I Transmigrated to Another World to Become the Overlord ——Stop Fighting Over Me
+Release Date: Sep 22, 2026
+Price: $0.89 (-10%, was $0.99)
+Genres: Adventure, Casual, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/4996800
+==================================================
+
+==================================================
+Name: Rogue Snake
+Release Date: Sep 22, 2026
+Price: $3.89 (-35%, was $5.99)
+Genres: Action
+Link: https://store.steampowered.com/app/3207150
+==================================================
+
+==================================================
+Name: STUNTBOOST
+Release Date: Sep 22, 2026
+Price: $5.95 (-15%, was $7.00)
+Genres: Action, Adventure, Indie, Racing
+Link: https://store.steampowered.com/app/2999500
+==================================================
+
+==================================================
+Name: Questfarers of the Stone
+Release Date: Sep 22, 2026
+Price: $17.84 (-15%, was $20.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/5010200
+==================================================
+
+==================================================
+Name: Catson Files: Wizard Town
+Release Date: Sep 22, 2026
+Price: Free to Play
+Genres: Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/4967790
+==================================================
+
+==================================================
+Name: Flutter Plane
+Release Date: Sep 22, 2026
+Price: $2.00 (-33%, was $2.99)
+Genres: Action, Casual, Indie, Racing
+Link: https://store.steampowered.com/app/3245060
+==================================================
+
+==================================================
+Name: The Göktürk: Caravan
+Release Date: Sep 22, 2026
+Price: $2.99 (-40%, was $4.99)
+Genres: Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/5213320
+==================================================
+
+==================================================
+Name: Cheerleaders
+Release Date: Sep 21, 2026
+Price: $11.04 (-15%, was $12.99)
+Genres: Simulation
+Link: https://store.steampowered.com/app/3652840
+==================================================
+
+==================================================
+Name: Fossil Bound
+Release Date: Sep 21, 2026
+Price: $2.99
+Genres: Simulation
+Link: https://store.steampowered.com/app/4488970
+==================================================
+
+==================================================
+Name: The Blood of Yidhra
+Release Date: Sep 21, 2026
+Price: $14.99
+Genres: Action, Indie, RPG
+Link: https://store.steampowered.com/app/4643800
+==================================================
+
+==================================================
+Name: Lucky Break
+Release Date: Sep 21, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4155880
+==================================================
+
