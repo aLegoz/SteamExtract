@@ -83395,3 +83395,46 @@ Genres: Adventure, Casual, Indie
 Link: https://store.steampowered.com/app/5082110
 ==================================================
 
+
+--- Run: 2026-09-22 01:19:45 --- (5 new game(s) found)
+
+==================================================
+Name: A Decent Farewell
+Release Date: Sep 21, 2026
+Price: Free to Play
+Genres: Casual, Indie, RPG, Simulation, Free To Play
+Link: https://store.steampowered.com/app/5109380
+==================================================
+
+==================================================
+Name: Eagle Knight Paradox
+Release Date: Sep 21, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Action, Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/3008700
+==================================================
+
+==================================================
+Name: Grim Siege
+Release Date: Sep 21, 2026
+Price: $5.40 (-10%, was $6.00)
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/4920750
+==================================================
+
+==================================================
+Name: Ludus Deceptor
+Release Date: Sep 21, 2026
+Price: $3.59 (-40%, was $5.99)
+Genres: Casual, Strategy
+Link: https://store.steampowered.com/app/4920310
+==================================================
+
+==================================================
+Name: Guinea Pig Gunner
+Release Date: Sep 21, 2026
+Price: $12.74 (-15%, was $14.99)
+Genres: Action, Adventure
+Link: https://store.steampowered.com/app/3996660
+==================================================
+
