@@ -83684,3 +83684,190 @@ Genres: Indie, Simulation, Strategy
 Link: https://store.steampowered.com/app/4155880
 ==================================================
 
+
+--- Run: 2026-09-22 17:25:47 --- (23 new game(s) found)
+
+==================================================
+Name: Cupid Parasite
+Release Date: Sep 22, 2026
+Price: $25.49 (-15%, was $29.99)
+Genres: Adventure, Simulation
+Link: https://store.steampowered.com/app/4245590
+==================================================
+
+==================================================
+Name: Imberite Idle
+Release Date: Sep 22, 2026
+Price: $5.39 (-10%, was $5.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/4543210
+==================================================
+
+==================================================
+Name: MEMEOLOGY CLUB
+Release Date: Sep 22, 2026
+Price: $4.25 (-15%, was $5.00)
+Genres: Casual, Indie, Massively Multiplayer
+Link: https://store.steampowered.com/app/5121110
+==================================================
+
+==================================================
+Name: Slay The King
+Release Date: Sep 22, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Strategy
+Link: https://store.steampowered.com/app/3911500
+==================================================
+
+==================================================
+Name: Anomaly Protocol
+Release Date: Sep 22, 2026
+Price: $4.99
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/3640740
+==================================================
+
+==================================================
+Name: Horta Maluca
+Release Date: Sep 22, 2026
+Price: $5.09 (-15%, was $5.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/5181040
+==================================================
+
+==================================================
+Name: Isernsmith
+Release Date: Sep 22, 2026
+Price: $7.69 (-30%, was $10.99)
+Genres: Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/4248520
+==================================================
+
+==================================================
+Name: Well Dweller
+Release Date: Sep 22, 2026
+Price: $16.99 (-15%, was $19.99)
+Genres: Action, Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/3699590
+==================================================
+
+==================================================
+Name: Evymind Clips: Automatic Highlights & Shorts
+Release Date: Sep 22, 2026
+Price: Free to Play
+Genres: Free To Play, Utilities, Video Production
+Link: https://store.steampowered.com/app/5111660
+==================================================
+
+==================================================
+Name: TocoToco
+Release Date: Sep 22, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4592150
+==================================================
+
+==================================================
+Name: Sunburn
+Release Date: Sep 22, 2026
+Price: $12.89 (-14%, was $14.99)
+Genres: Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/5156820
+==================================================
+
+==================================================
+Name: Nighthawks
+Release Date: Sep 22, 2026
+Price: $17.99 (-10%, was $19.99)
+Genres: Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/1221950
+==================================================
+
+==================================================
+Name: Rivage
+Release Date: Sep 22, 2026
+Price: $22.49 (-10%, was $24.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4094660
+==================================================
+
+==================================================
+Name: Goddess Must Survive!
+Release Date: Sep 22, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Action
+Link: https://store.steampowered.com/app/5052760
+==================================================
+
+==================================================
+Name: Realindustry
+Release Date: Sep 22, 2026
+Price: $11.99 (-20%, was $14.99)
+Genres: Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4384850
+==================================================
+
+==================================================
+Name: Curve Fever Pro
+Release Date: Sep 22, 2026
+Price: Free to Play
+Genres: Action, Casual, Indie, Massively Multiplayer, Free To Play
+Link: https://store.steampowered.com/app/1133700
+==================================================
+
+==================================================
+Name: WilderDash
+Release Date: Sep 22, 2026
+Price: $4.01 (-33%, was $5.99)
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/3926990
+==================================================
+
+==================================================
+Name: eXoSpace Combat Engineer
+Release Date: Sep 22, 2026
+Price: $12.74 (-15%, was $14.99)
+Genres: Action, Adventure, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/2876200
+==================================================
+
+==================================================
+Name: False Hero
+Release Date: Sep 22, 2026
+Price: $17.99 (-10%, was $19.99)
+Genres: Action, Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/2538870
+==================================================
+
+==================================================
+Name: Yami Kids
+Release Date: Sep 22, 2026
+Price: $11.19 (-20%, was $13.99)
+Genres: Adventure, Casual, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/3807690
+==================================================
+
+==================================================
+Name: Astromental Incremental
+Release Date: Sep 22, 2026
+Price: $4.79 (-20%, was $5.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4660370
+==================================================
+
+==================================================
+Name: Mistik 8
+Release Date: Sep 22, 2026
+Price: $0.99
+Genres: Casual, Indie, Sports
+Link: https://store.steampowered.com/app/4414070
+==================================================
+
+==================================================
+Name: Sea Sweeper
+Release Date: Sep 22, 2026
+Price: $2.54 (-15%, was $2.99)
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4291520
+==================================================
+
