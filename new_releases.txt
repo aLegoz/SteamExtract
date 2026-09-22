@@ -83438,3 +83438,94 @@ Genres: Action, Adventure
 Link: https://store.steampowered.com/app/3996660
 ==================================================
 
+
+--- Run: 2026-09-22 06:57:15 --- (11 new game(s) found)
+
+==================================================
+Name: Laryen
+Release Date: Sep 21, 2026
+Price: Free to Play
+Genres: Action, Indie, Massively Multiplayer, RPG, Free To Play
+Link: https://store.steampowered.com/app/5142990
+==================================================
+
+==================================================
+Name: Subspace: Redux
+Release Date: Sep 21, 2026
+Price: Free to Play
+Genres: Action, Indie, Massively Multiplayer, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4821960
+==================================================
+
+==================================================
+Name: Parasited Will
+Release Date: Sep 21, 2026
+Price: $5.99
+Genres: Action, Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/3077650
+==================================================
+
+==================================================
+Name: Succubus Abyss: 30-Day Survival Guide
+Release Date: Sep 21, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Adventure, Casual, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/4575670
+==================================================
+
+==================================================
+Name: SCREENSIDE FISHER
+Release Date: Sep 21, 2026
+Price: Free to Play
+Genres: Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/4270850
+==================================================
+
+==================================================
+Name: Big Sister
+Release Date: Sep 21, 2026
+Price: $0.79 (-20%, was $0.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5206420
+==================================================
+
+==================================================
+Name: Seekers Alliance: Hero's Journey
+Release Date: Sep 21, 2026
+Price: $13.59 (-20%, was $16.99)
+Genres: Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/1352890
+==================================================
+
+==================================================
+Name: BuGarden
+Release Date: Sep 21, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4289410
+==================================================
+
+==================================================
+Name: Ved: Recure
+Release Date: Sep 21, 2026
+Price: $15.29 (-15%, was $17.99)
+Genres: Action, Adventure, RPG
+Link: https://store.steampowered.com/app/3255500
+==================================================
+
+==================================================
+Name: Kebab Shop Simulator
+Release Date: Sep 21, 2026
+Price: $3.59 (-40%, was $5.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5148830
+==================================================
+
+==================================================
+Name: Chip Builder
+Release Date: Sep 21, 2026
+Price: $8.50 (-15%, was $10.00)
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/5095670
+==================================================
+
