@@ -84088,3 +84088,126 @@ Genres: Action, Indie, Simulation, Strategy
 Link: https://store.steampowered.com/app/5098890
 ==================================================
 
+
+--- Run: 2026-09-23 08:02:04 --- (15 new game(s) found)
+
+==================================================
+Name: NIOS
+Release Date: Sep 23, 2026
+Price: $11.99
+Genres: Action, Racing, Simulation, Sports
+Link: https://store.steampowered.com/app/1568460
+==================================================
+
+==================================================
+Name: Pirate Guy 2 New Land
+Release Date: Sep 23, 2026
+Price: $1.79 (-40%, was $2.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/5198550
+==================================================
+
+==================================================
+Name: Pizza Revolution
+Release Date: Sep 22, 2026
+Price: $3.19 (-20%, was $3.99)
+Genres: Simulation
+Link: https://store.steampowered.com/app/4786960
+==================================================
+
+==================================================
+Name: The Piper of Dawn
+Release Date: Sep 22, 2026
+Price: $11.69 (-10%, was $12.99)
+Genres: Indie, RPG, Simulation, Strategy
+Link: https://store.steampowered.com/app/3804370
+==================================================
+
+==================================================
+Name: AIGENROBO
+Release Date: Sep 22, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Action, Casual
+Link: https://store.steampowered.com/app/5130010
+==================================================
+
+==================================================
+Name: Dog
+Release Date: Sep 22, 2026
+Price: $2.99
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5057210
+==================================================
+
+==================================================
+Name: RIP
+Release Date: Sep 22, 2026
+Price: $19.99
+Genres: Action, Indie, Simulation
+Link: https://store.steampowered.com/app/923530
+==================================================
+
+==================================================
+Name: One More Pearl!
+Release Date: Sep 22, 2026
+Price: $1.69 (-15%, was $1.99)
+Genres: Casual, Simulation, Strategy
+Link: https://store.steampowered.com/app/4800440
+==================================================
+
+==================================================
+Name: Birthday
+Release Date: Sep 22, 2026
+Price: $0.99
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4696240
+==================================================
+
+==================================================
+Name: Bait Soul
+Release Date: Sep 22, 2026
+Price: $8.24 (-25%, was $10.99)
+Genres: Action, Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/3484100
+==================================================
+
+==================================================
+Name: 姉妹道中千両箱 : Edo Village Nightmare
+Release Date: Sep 22, 2026
+Price: $4.19 (-30%, was $5.99)
+Genres: Adventure, Casual
+Link: https://store.steampowered.com/app/4327010
+==================================================
+
+==================================================
+Name: Island NTR Survival SS
+Release Date: Sep 22, 2026
+Price: $6.29 (-10%, was $6.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/3192240
+==================================================
+
+==================================================
+Name: Scrolls of Torah, Prophets & Writings
+Release Date: Sep 22, 2026
+Price: $5.99
+Genres: Casual, Simulation
+Link: https://store.steampowered.com/app/4980790
+==================================================
+
+==================================================
+Name: Beat Boxy
+Release Date: Sep 22, 2026
+Price: $4.68 (-25%, was $6.24)
+Genres: Action, Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4536120
+==================================================
+
+==================================================
+Name: EMOJI JACKPOT: Word Finder
+Release Date: Sep 22, 2026
+Price: $1.99
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/3131810
+==================================================
+
