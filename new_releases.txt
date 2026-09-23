@@ -84211,3 +84211,174 @@ Genres: Casual, Indie
 Link: https://store.steampowered.com/app/3131810
 ==================================================
 
+
+--- Run: 2026-09-23 13:55:40 --- (21 new game(s) found)
+
+==================================================
+Name: Silky Rails
+Release Date: Sep 23, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Action, Adventure, Indie, Strategy
+Link: https://store.steampowered.com/app/3870990
+==================================================
+
+==================================================
+Name: Lawn Mowing Simulator 2
+Release Date: Sep 23, 2026
+Price: $29.99
+Genres: Casual, Simulation
+Link: https://store.steampowered.com/app/3831210
+==================================================
+
+==================================================
+Name: Fallen Tear: The Ascension
+Release Date: Sep 23, 2026
+Price: $22.49 (-10%, was $24.99)
+Genres: Action, Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/1446900
+==================================================
+
+==================================================
+Name: Mystery Egg Shop Simulator
+Release Date: Sep 23, 2026
+Price: $8.49 (-15%, was $9.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/3850970
+==================================================
+
+==================================================
+Name: Tattoo Shop Simulator
+Release Date: Sep 23, 2026
+Price: $10.39 (-20%, was $12.99)
+Genres: Casual, Simulation
+Link: https://store.steampowered.com/app/4236450
+==================================================
+
+==================================================
+Name: Chomp Garden
+Release Date: Sep 23, 2026
+Price: $2.39 (-20%, was $2.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4457150
+==================================================
+
+==================================================
+Name: Rogue Planet
+Release Date: Sep 23, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Action, Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/4544820
+==================================================
+
+==================================================
+Name: Nomori
+Release Date: Sep 23, 2026
+Price: $16.99 (-15%, was $19.99)
+Genres: Action, Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/2932680
+==================================================
+
+==================================================
+Name: INK ABYSS WALKER
+Release Date: Sep 23, 2026
+Price: $1.99
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/5166950
+==================================================
+
+==================================================
+Name: Idle Monkey Theorem
+Release Date: Sep 23, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4298380
+==================================================
+
+==================================================
+Name: TrailRush
+Release Date: Sep 23, 2026
+Price: $6.99
+Genres: Massively Multiplayer
+Link: https://store.steampowered.com/app/4876060
+==================================================
+
+==================================================
+Name: HemoSim
+Release Date: Sep 23, 2026
+Price: Free to Play
+Genres: Action, Indie, Simulation, Strategy, Free To Play
+Link: https://store.steampowered.com/app/5220360
+==================================================
+
+==================================================
+Name: Rogue Bang
+Release Date: Sep 23, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/3993880
+==================================================
+
+==================================================
+Name: Slime Kingdom: The Tale of the Slime That Became a Hero
+Release Date: Sep 23, 2026
+Price: $12.99
+Genres: Casual, RPG, Strategy
+Link: https://store.steampowered.com/app/5187820
+==================================================
+
+==================================================
+Name: Echoes in Darkness
+Release Date: Sep 23, 2026
+Price: $6.29 (-10%, was $6.99)
+Genres: Indie
+Link: https://store.steampowered.com/app/4945790
+==================================================
+
+==================================================
+Name: Campfire Expedition
+Release Date: Sep 23, 2026
+Price: $2.79 (-30%, was $3.99)
+Genres: Casual, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/5222960
+==================================================
+
+==================================================
+Name: Noir
+Release Date: Sep 23, 2026
+Price: $8.39 (-40%, was $13.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/3851170
+==================================================
+
+==================================================
+Name: SCORE80
+Release Date: Sep 23, 2026
+Price: $5.39 (-10%, was $5.99)
+Genres: Adventure, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/5194670
+==================================================
+
+==================================================
+Name: Heroes' Vow: Three Kingdoms
+Release Date: Sep 23, 2026
+Price: $17.99 (-10%, was $19.99)
+Genres: Indie, RPG, Simulation, Strategy
+Link: https://store.steampowered.com/app/3020510
+==================================================
+
+==================================================
+Name: Visual Novel: DARKENED MIRROR
+Release Date: Sep 23, 2026
+Price: $0.69 (-30%, was $0.99)
+Genres: Action, Adventure, Casual, Indie, RPG
+Link: https://store.steampowered.com/app/5223660
+==================================================
+
+==================================================
+Name: Chuomuniang
+Release Date: Sep 22, 2026
+Price: $0.84 (-15%, was $0.99)
+Genres: Casual, Indie, RPG, Simulation
+Link: https://store.steampowered.com/app/5180680
+==================================================
+
