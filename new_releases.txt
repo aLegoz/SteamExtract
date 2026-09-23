@@ -84021,3 +84021,70 @@ Genres: Indie, Simulation, Strategy
 Link: https://store.steampowered.com/app/5209990
 ==================================================
 
+
+--- Run: 2026-09-23 02:05:20 --- (8 new game(s) found)
+
+==================================================
+Name: 妹控计划
+Release Date: Sep 22, 2026
+Price: $1.79 (-10%, was $1.99)
+Genres: Casual, RPG
+Link: https://store.steampowered.com/app/4169160
+==================================================
+
+==================================================
+Name: 新世界：暗影成双
+Release Date: Sep 22, 2026
+Price: $8.09 (-19%, was $9.99)
+Genres: Adventure, Casual, Indie, RPG
+Link: https://store.steampowered.com/app/3319700
+==================================================
+
+==================================================
+Name: Blitz Jong
+Release Date: Sep 22, 2026
+Price: Free to Play
+Genres: Casual, Indie, Strategy, Free To Play
+Link: https://store.steampowered.com/app/5183080
+==================================================
+
+==================================================
+Name: Space Fishing: Verti-Go!
+Release Date: Sep 22, 2026
+Price: $3.14 (-10%, was $3.49)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4521300
+==================================================
+
+==================================================
+Name: The Doomed Draw (大凶)
+Release Date: Sep 22, 2026
+Price: $0.79 (-20%, was $0.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4277000
+==================================================
+
+==================================================
+Name: Cards, Blades & Fine Print
+Release Date: Sep 22, 2026
+Price: $11.99 (-20%, was $14.99)
+Genres: Adventure, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/5043000
+==================================================
+
+==================================================
+Name: Trees
+Release Date: Sep 22, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5187190
+==================================================
+
+==================================================
+Name: Benders In Space
+Release Date: Sep 22, 2026
+Price: $5.39 (-10%, was $5.99)
+Genres: Action, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/5098890
+==================================================
+
