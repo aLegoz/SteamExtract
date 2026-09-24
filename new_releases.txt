@@ -84676,3 +84676,38 @@ Genres: Casual, Indie, Simulation
 Link: https://store.steampowered.com/app/3978120
 ==================================================
 
+
+--- Run: 2026-09-24 00:04:26 --- (4 new game(s) found)
+
+==================================================
+Name: Tasty Chef
+Release Date: Sep 23, 2026
+Price: $8.70 (-33%, was $12.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5019920
+==================================================
+
+==================================================
+Name: WinMon
+Release Date: Sep 23, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Casual, Simulation
+Link: https://store.steampowered.com/app/3681780
+==================================================
+
+==================================================
+Name: Fungario
+Release Date: Sep 23, 2026
+Price: Free to Play
+Genres: Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/5097070
+==================================================
+
+==================================================
+Name: Hills Cry
+Release Date: Sep 23, 2026
+Price: $2.50
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4863430
+==================================================
+
