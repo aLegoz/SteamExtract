@@ -85232,3 +85232,158 @@ Genres: Action, Casual, Indie, Racing
 Link: https://store.steampowered.com/app/4326520
 ==================================================
 
+
+--- Run: 2026-09-24 19:34:22 --- (19 new game(s) found)
+
+==================================================
+Name: Dark Dice: Cthulhu Investigation Log
+Release Date: Unknown
+Price: $11.99
+Genres: Unknown
+Link: https://store.steampowered.com/app/5147500
+==================================================
+
+==================================================
+Name: Boulder Smash
+Release Date: Sep 24, 2026
+Price: $3.80 (-20%, was $4.75)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/3122470
+==================================================
+
+==================================================
+Name: Rich & Youn
+Release Date: Unknown
+Price: $6.79 (-15%, was $7.99)
+Genres: Unknown
+Link: https://store.steampowered.com/app/3106240
+==================================================
+
+==================================================
+Name: Oh!Ware
+Release Date: Sep 24, 2026
+Price: $7.64 (-15%, was $8.99)
+Genres: Strategy
+Link: https://store.steampowered.com/app/4121430
+==================================================
+
+==================================================
+Name: All Roads Connected
+Release Date: Sep 24, 2026
+Price: $6.74 (-25%, was $8.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4026060
+==================================================
+
+==================================================
+Name: The Witch: First Halloween
+Release Date: Sep 24, 2026
+Price: $8.50 (-15%, was $10.00)
+Genres: Adventure, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4916380
+==================================================
+
+==================================================
+Name: Krucza Wieża
+Release Date: Sep 24, 2026
+Price: Free to Play
+Genres: Indie, Massively Multiplayer, RPG, Free To Play
+Link: https://store.steampowered.com/app/5130320
+==================================================
+
+==================================================
+Name: Protocol 86: Chernobyl
+Release Date: Sep 24, 2026
+Price: $4.89 (-30%, was $6.99)
+Genres: Adventure, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4250500
+==================================================
+
+==================================================
+Name: Palm Simulator 2
+Release Date: Sep 24, 2026
+Price: $0.69 (-30%, was $0.99)
+Genres: Simulation
+Link: https://store.steampowered.com/app/3887240
+==================================================
+
+==================================================
+Name: Farming Camp
+Release Date: Sep 24, 2026
+Price: $15.99 (-20%, was $19.99)
+Genres: Adventure, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/2985880
+==================================================
+
+==================================================
+Name: CODEX MORTIS
+Release Date: Sep 24, 2026
+Price: $2.79 (-30%, was $3.99)
+Genres: Action, Indie, RPG
+Link: https://store.steampowered.com/app/4084120
+==================================================
+
+==================================================
+Name: Dragon Shelter
+Release Date: Unknown
+Price: $14.99 (-25%, was $19.99)
+Genres: Unknown
+Link: https://store.steampowered.com/app/2712590
+==================================================
+
+==================================================
+Name: Post Office: Tidy Up
+Release Date: Unknown
+Price: $3.84 (-30%, was $5.49)
+Genres: Unknown
+Link: https://store.steampowered.com/app/5174540
+==================================================
+
+==================================================
+Name: Mars Attracts
+Release Date: Unknown
+Price: $18.74 (-25%, was $24.99)
+Genres: Unknown
+Link: https://store.steampowered.com/app/2760580
+==================================================
+
+==================================================
+Name: Froggonit: Prologue
+Release Date: Sep 24, 2026
+Price: Free to Play
+Genres: Adventure, Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/5171550
+==================================================
+
+==================================================
+Name: Drown World
+Release Date: Sep 24, 2026
+Price: $6.39 (-20%, was $7.99)
+Genres: Action
+Link: https://store.steampowered.com/app/4605040
+==================================================
+
+==================================================
+Name: Koruxa- IDLE RPG
+Release Date: Sep 24, 2026
+Price: Free to Play
+Genres: Massively Multiplayer, RPG, Free To Play
+Link: https://store.steampowered.com/app/4516510
+==================================================
+
+==================================================
+Name: Capoeirogue
+Release Date: Sep 24, 2026
+Price: $5.99 (-40%, was $9.99)
+Genres: Action, Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/2132190
+==================================================
+
+==================================================
+Name: 3-Bit Explorer
+Release Date: Sep 24, 2026
+Price: $8.49 (-15%, was $9.99)
+Genres: Action, Adventure, Casual, Indie, RPG
+Link: https://store.steampowered.com/app/3951360
+==================================================
+
