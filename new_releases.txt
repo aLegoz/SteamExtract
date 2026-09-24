@@ -84711,3 +84711,174 @@ Genres: Adventure, Indie
 Link: https://store.steampowered.com/app/4863430
 ==================================================
 
+
+--- Run: 2026-09-24 05:36:15 --- (21 new game(s) found)
+
+==================================================
+Name: SILENT HILL: Townfall
+Release Date: Sep 23, 2026
+Price: $49.99
+Genres: Action, Adventure
+Link: https://store.steampowered.com/app/1636440
+==================================================
+
+==================================================
+Name: Duola Mage
+Release Date: Sep 23, 2026
+Price: $5.59 (-20%, was $6.99)
+Genres: Action, Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/4133550
+==================================================
+
+==================================================
+Name: Desktop Girl Chika
+Release Date: Sep 23, 2026
+Price: $6.79 (-15%, was $7.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/4285860
+==================================================
+
+==================================================
+Name: Galaxy Hunter
+Release Date: Sep 23, 2026
+Price: $7.19 (-10%, was $7.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4246520
+==================================================
+
+==================================================
+Name: even if TEMPEST
+Release Date: Sep 23, 2026
+Price: $44.99 (-10%, was $49.99)
+Genres: Adventure
+Link: https://store.steampowered.com/app/4483830
+==================================================
+
+==================================================
+Name: The Dagger of Hisei
+Release Date: Sep 23, 2026
+Price: $0.99
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/3997000
+==================================================
+
+==================================================
+Name: Downhill Drift
+Release Date: Sep 23, 2026
+Price: $1.97 (-34%, was $2.99)
+Genres: Casual, Indie, Racing, Sports
+Link: https://store.steampowered.com/app/5218170
+==================================================
+
+==================================================
+Name: Off the Clock: 13/F
+Release Date: Sep 23, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/5136120
+==================================================
+
+==================================================
+Name: Meow Squad: Incremental Fishing
+Release Date: Sep 23, 2026
+Price: $4.49 (-25%, was $5.99)
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4753960
+==================================================
+
+==================================================
+Name: Spy Mission: My Girlfriend, the Old Noble’s Maid
+Release Date: Sep 23, 2026
+Price: $7.19 (-10%, was $7.99)
+Genres: Casual, Indie, RPG
+Link: https://store.steampowered.com/app/3192250
+==================================================
+
+==================================================
+Name: 餅月
+Release Date: Sep 23, 2026
+Price: Free to Play
+Genres: Action, Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/5245970
+==================================================
+
+==================================================
+Name: ChronoLens
+Release Date: Sep 23, 2026
+Price: Free to Play
+Genres: Action, Adventure, Indie, Free To Play
+Link: https://store.steampowered.com/app/5245980
+==================================================
+
+==================================================
+Name: おでんポンッ！
+Release Date: Sep 23, 2026
+Price: Free to Play
+Genres: Casual, Free To Play
+Link: https://store.steampowered.com/app/5144870
+==================================================
+
+==================================================
+Name: Fleeting Shores
+Release Date: Sep 23, 2026
+Price: $4.19 (-30%, was $5.99)
+Genres: Indie, RPG, Simulation, Strategy
+Link: https://store.steampowered.com/app/2698960
+==================================================
+
+==================================================
+Name: Brother, Get The Oats
+Release Date: Sep 23, 2026
+Price: $7.00
+Genres: Simulation
+Link: https://store.steampowered.com/app/3191280
+==================================================
+
+==================================================
+Name: Qliphah in Providence's Shadow
+Release Date: Sep 23, 2026
+Price: $24.99
+Genres: RPG
+Link: https://store.steampowered.com/app/3882410
+==================================================
+
+==================================================
+Name: Fusty Dungeon
+Release Date: Sep 23, 2026
+Price: $11.99 (-20%, was $14.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/3410670
+==================================================
+
+==================================================
+Name: Love All My Girls
+Release Date: Sep 23, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: Adventure, Casual, Indie, RPG, Simulation, Strategy
+Link: https://store.steampowered.com/app/4553130
+==================================================
+
+==================================================
+Name: Frog Pond Simulator
+Release Date: Sep 23, 2026
+Price: $2.54 (-15%, was $2.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/3892380
+==================================================
+
+==================================================
+Name: Bluso Hero and the Copper Heart
+Release Date: Sep 23, 2026
+Price: $6.99
+Genres: Adventure
+Link: https://store.steampowered.com/app/5044180
+==================================================
+
+==================================================
+Name: Ironblood
+Release Date: Sep 23, 2026
+Price: $11.89 (-30%, was $16.99)
+Genres: Indie, RPG, Simulation, Sports, Strategy
+Link: https://store.steampowered.com/app/4542880
+==================================================
+
