@@ -85029,3 +85029,206 @@ Genres: Adventure, Casual, Indie, RPG, Strategy
 Link: https://store.steampowered.com/app/5172380
 ==================================================
 
+
+--- Run: 2026-09-24 15:34:15 --- (25 new game(s) found)
+
+==================================================
+Name: MaskloZoophic Sessions
+Release Date: Sep 24, 2026
+Price: $2.40 (-20%, was $3.00)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/5165000
+==================================================
+
+==================================================
+Name: Nomads Plague
+Release Date: Sep 24, 2026
+Price: $9.74 (-35%, was $14.99)
+Genres: Action, Adventure, Indie, Strategy
+Link: https://store.steampowered.com/app/5149270
+==================================================
+
+==================================================
+Name: Misha
+Release Date: Sep 24, 2026
+Price: $1.99
+Genres: Indie
+Link: https://store.steampowered.com/app/4559470
+==================================================
+
+==================================================
+Name: Hentai Mina
+Release Date: Sep 24, 2026
+Price: $0.64 (-35%, was $0.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/5080660
+==================================================
+
+==================================================
+Name: LOOK / DON'T
+Release Date: Sep 24, 2026
+Price: $4.99
+Genres: Action, Adventure
+Link: https://store.steampowered.com/app/5164810
+==================================================
+
+==================================================
+Name: CoLane
+Release Date: Sep 24, 2026
+Price: Free to Play
+Genres: Indie, Free To Play
+Link: https://store.steampowered.com/app/4773520
+==================================================
+
+==================================================
+Name: Billion Egg Farm
+Release Date: Sep 24, 2026
+Price: $4.89 (-30%, was $6.99)
+Genres: Simulation
+Link: https://store.steampowered.com/app/4610360
+==================================================
+
+==================================================
+Name: Alien Breed 35th Anniversary Collection
+Release Date: Unknown
+Price: $19.99 (-20%, was $24.99)
+Genres: Unknown
+Link: https://store.steampowered.com/app/4870460
+==================================================
+
+==================================================
+Name: Seafarer: The Ship Sim
+Release Date: Unknown
+Price: $12.49 (-50%, was $24.99)
+Genres: Unknown
+Link: https://store.steampowered.com/app/2582140
+==================================================
+
+==================================================
+Name: Train Sim
+Release Date: Sep 24, 2026
+Price: $5.99
+Genres: Simulation
+Link: https://store.steampowered.com/app/4973610
+==================================================
+
+==================================================
+Name: Survivor Challenge TD
+Release Date: Sep 24, 2026
+Price: $4.99
+Genres: Strategy
+Link: https://store.steampowered.com/app/2443170
+==================================================
+
+==================================================
+Name: Last Call
+Release Date: Sep 24, 2026
+Price: $3.59 (-10%, was $3.99)
+Genres: Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/4614040
+==================================================
+
+==================================================
+Name: CONTROL Resonant
+Release Date: Sep 24, 2026
+Price: $59.99
+Genres: Action, Adventure, RPG
+Link: https://store.steampowered.com/app/3669870
+==================================================
+
+==================================================
+Name: Re: Haruka
+Release Date: Unknown
+Price: $2.39 (-20%, was $2.99)
+Genres: Unknown
+Link: https://store.steampowered.com/app/4667330
+==================================================
+
+==================================================
+Name: Fuse Beads!
+Release Date: Sep 24, 2026
+Price: $3.49 (-30%, was $4.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/5177970
+==================================================
+
+==================================================
+Name: ANT HELL
+Release Date: Sep 24, 2026
+Price: $5.09 (-15%, was $5.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/5218460
+==================================================
+
+==================================================
+Name: The Magus Circle
+Release Date: Sep 24, 2026
+Price: $11.69 (-10%, was $12.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/2796640
+==================================================
+
+==================================================
+Name: Doggy Don't Care
+Release Date: Sep 24, 2026
+Price: $13.49 (-10%, was $14.99)
+Genres: Action, Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/2438180
+==================================================
+
+==================================================
+Name: Cyberpunk Cats & Dogs
+Release Date: Sep 24, 2026
+Price: Free to Play
+Genres: Indie, Free To Play
+Link: https://store.steampowered.com/app/5151800
+==================================================
+
+==================================================
+Name: Bibi & Tina – Ready, Set, Ride!
+Release Date: Sep 24, 2026
+Price: $15.99 (-20%, was $19.99)
+Genres: Adventure, Simulation, Sports
+Link: https://store.steampowered.com/app/3969340
+==================================================
+
+==================================================
+Name: Container Terminal Simulator
+Release Date: Sep 24, 2026
+Price: $9.99
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/3806270
+==================================================
+
+==================================================
+Name: Kingdom Rush 6: Genesis TD
+Release Date: Sep 24, 2026
+Price: $17.99 (-10%, was $19.99)
+Genres: Action, Indie, Strategy
+Link: https://store.steampowered.com/app/4259190
+==================================================
+
+==================================================
+Name: Potions Tidy
+Release Date: Sep 24, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/5215190
+==================================================
+
+==================================================
+Name: Rakugaki Beast
+Release Date: Sep 24, 2026
+Price: $6.29 (-10%, was $6.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/5036050
+==================================================
+
+==================================================
+Name: When Work's A Bore
+Release Date: Sep 24, 2026
+Price: $11.24 (-10%, was $12.49)
+Genres: Action, Casual, Indie, Racing
+Link: https://store.steampowered.com/app/4326520
+==================================================
+
