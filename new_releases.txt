@@ -85387,3 +85387,30 @@ Genres: Action, Adventure, Casual, Indie, RPG
 Link: https://store.steampowered.com/app/3951360
 ==================================================
 
+
+--- Run: 2026-09-24 22:46:38 --- (3 new game(s) found)
+
+==================================================
+Name: Tear Them All
+Release Date: Sep 24, 2026
+Price: Free to Play
+Genres: Action, Free To Play
+Link: https://store.steampowered.com/app/4632380
+==================================================
+
+==================================================
+Name: Goofy Dungeon
+Release Date: Sep 24, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Adventure
+Link: https://store.steampowered.com/app/1833080
+==================================================
+
+==================================================
+Name: SilentDarkness
+Release Date: Unknown
+Price: $6.99
+Genres: Unknown
+Link: https://store.steampowered.com/app/4795430
+==================================================
+
