@@ -86277,3 +86277,86 @@ Genres: Unknown
 Link: https://store.steampowered.com/app/5133820
 ==================================================
 
+
+--- Run: 2026-09-25 22:53:29 --- (10 new game(s) found)
+
+==================================================
+Name: Overdeveloped: Requiem
+Release Date: Sep 25, 2026
+Price: $1.99
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/3321770
+==================================================
+
+==================================================
+Name: Raiders 1941
+Release Date: Unknown
+Price: $8.99 (-10%, was $9.99)
+Genres: Unknown
+Link: https://store.steampowered.com/app/4608820
+==================================================
+
+==================================================
+Name: Dungeon Forge
+Release Date: Sep 25, 2026
+Price: $2.39 (-40%, was $3.99)
+Genres: Indie, RPG
+Link: https://store.steampowered.com/app/5080420
+==================================================
+
+==================================================
+Name: CTRL+ESC
+Release Date: Sep 25, 2026
+Price: $2.69 (-10%, was $2.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4323690
+==================================================
+
+==================================================
+Name: Sumo Fumble: Physics Party
+Release Date: Sep 25, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4357300
+==================================================
+
+==================================================
+Name: Nightmare Horror Investigation
+Release Date: Sep 25, 2026
+Price: $3.99
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/5215920
+==================================================
+
+==================================================
+Name: Hentai Femboy Secretary
+Release Date: Sep 25, 2026
+Price: $4.79 (-20%, was $5.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5207580
+==================================================
+
+==================================================
+Name: Iron Stars
+Release Date: Unknown
+Price: $18.99
+Genres: Unknown
+Link: https://store.steampowered.com/app/3665870
+==================================================
+
+==================================================
+Name: The Only Droid
+Release Date: Sep 25, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4393370
+==================================================
+
+==================================================
+Name: Cursed Waters: Idle RPG
+Release Date: Unknown
+Price: $5.39 (-10%, was $5.99)
+Genres: Unknown
+Link: https://store.steampowered.com/app/5058290
+==================================================
+
