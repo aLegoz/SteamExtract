@@ -85481,3 +85481,214 @@ Genres: Unknown
 Link: https://store.steampowered.com/app/4369580
 ==================================================
 
+
+--- Run: 2026-09-25 05:46:26 --- (26 new game(s) found)
+
+==================================================
+Name: Best Puppy Certificate
+Release Date: Sep 24, 2026
+Price: $2.54 (-15%, was $2.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4366980
+==================================================
+
+==================================================
+Name: Death Momotaro
+Release Date: Sep 24, 2026
+Price: $3.59 (-10%, was $3.99)
+Genres: Action
+Link: https://store.steampowered.com/app/5119790
+==================================================
+
+==================================================
+Name: Abandoned Gameshop
+Release Date: Sep 24, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Casual, Simulation
+Link: https://store.steampowered.com/app/5080530
+==================================================
+
+==================================================
+Name: DEN KO SENKA
+Release Date: Sep 24, 2026
+Price: Free to Play
+Genres: Action, Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/4744850
+==================================================
+
+==================================================
+Name: Combat Conductor
+Release Date: Sep 24, 2026
+Price: Free to Play
+Genres: Action, Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/4744840
+==================================================
+
+==================================================
+Name: Saucy Succubus
+Release Date: Unknown
+Price: Free to Play
+Genres: Unknown
+Link: https://store.steampowered.com/app/4764310
+==================================================
+
+==================================================
+Name: Gunblade Ranger
+Release Date: Sep 24, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/3702140
+==================================================
+
+==================================================
+Name: 魔法之境 Magic Realm
+Release Date: Sep 24, 2026
+Price: $6.39 (-20%, was $7.99)
+Genres: Action, Adventure, Casual, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/3183450
+==================================================
+
+==================================================
+Name: Abandoned Hospital Patrol
+Release Date: Sep 24, 2026
+Price: Free to Play
+Genres: Adventure, Indie, Simulation, Free To Play
+Link: https://store.steampowered.com/app/4744810
+==================================================
+
+==================================================
+Name: Marine♡Slalom
+Release Date: Sep 24, 2026
+Price: Free to Play
+Genres: Action, Casual, Racing, Sports, Free To Play
+Link: https://store.steampowered.com/app/4744790
+==================================================
+
+==================================================
+Name: Onigotchi
+Release Date: Sep 24, 2026
+Price: $3.39 (-15%, was $3.99)
+Genres: Casual, Strategy
+Link: https://store.steampowered.com/app/4184190
+==================================================
+
+==================================================
+Name: Domain: Evil Invasion
+Release Date: Unknown
+Price: $1.99
+Genres: Unknown
+Link: https://store.steampowered.com/app/4886990
+==================================================
+
+==================================================
+Name: Stream Toolkit - Streaming Tools & Chat Translation
+Release Date: Unknown
+Price: $7.19 (-10%, was $7.99)
+Genres: Unknown
+Link: https://store.steampowered.com/app/4828880
+==================================================
+
+==================================================
+Name: Boothill
+Release Date: Unknown
+Price: $2.39 (-20%, was $2.99)
+Genres: Unknown
+Link: https://store.steampowered.com/app/5104850
+==================================================
+
+==================================================
+Name: RETRIEVAL
+Release Date: Unknown
+Price: $4.49 (-10%, was $4.99)
+Genres: Unknown
+Link: https://store.steampowered.com/app/4682840
+==================================================
+
+==================================================
+Name: Tank Battle Classic
+Release Date: Sep 24, 2026
+Price: $6.99 (-30%, was $9.99)
+Genres: Action, Simulation
+Link: https://store.steampowered.com/app/5086560
+==================================================
+
+==================================================
+Name: You Only Dream Once - Unknown Player’s Island Adventure
+Release Date: Unknown
+Price: Free to Play
+Genres: Unknown
+Link: https://store.steampowered.com/app/5083910
+==================================================
+
+==================================================
+Name: 猫猫爱钓鱼 Cat Fishing
+Release Date: Unknown
+Price: $3.19 (-20%, was $3.99)
+Genres: Unknown
+Link: https://store.steampowered.com/app/5206820
+==================================================
+
+==================================================
+Name: Legend of Mallow
+Release Date: Sep 24, 2026
+Price: $0.59 (-40%, was $0.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/5196200
+==================================================
+
+==================================================
+Name: Land of Glarefall
+Release Date: Sep 24, 2026
+Price: $9.74 (-25%, was $12.99)
+Genres: Action, Adventure, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/3836120
+==================================================
+
+==================================================
+Name: Radiant Rodents
+Release Date: Sep 24, 2026
+Price: Free to Play
+Genres: Action, Adventure, Casual, Free To Play
+Link: https://store.steampowered.com/app/4773170
+==================================================
+
+==================================================
+Name: ECHO
+Release Date: Unknown
+Price: $19.99
+Genres: Unknown
+Link: https://store.steampowered.com/app/5105090
+==================================================
+
+==================================================
+Name: Worker Survival Simulator
+Release Date: Unknown
+Price: $3.99 (-20%, was $4.99)
+Genres: Unknown
+Link: https://store.steampowered.com/app/5121690
+==================================================
+
+==================================================
+Name: Hentai Tales: Mansion of Carnal Delights
+Release Date: Sep 24, 2026
+Price: $0.59 (-40%, was $0.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4976290
+==================================================
+
+==================================================
+Name: NEON STORM
+Release Date: Sep 24, 2026
+Price: $1.69 (-15%, was $1.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/5097190
+==================================================
+
+==================================================
+Name: Incremental Space Defense Force League
+Release Date: Sep 24, 2026
+Price: $7.19 (-10%, was $7.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4984540
+==================================================
+
