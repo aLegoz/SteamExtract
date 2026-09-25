@@ -85855,3 +85855,214 @@ Genres: Unknown
 Link: https://store.steampowered.com/app/4622660
 ==================================================
 
+
+--- Run: 2026-09-25 15:38:16 --- (26 new game(s) found)
+
+==================================================
+Name: The Ball Just Won't Stay Up
+Release Date: Unknown
+Price: $6.99
+Genres: Unknown
+Link: https://store.steampowered.com/app/5002420
+==================================================
+
+==================================================
+Name: Fairy Tale Academy
+Release Date: Sep 25, 2026
+Price: $8.29 (-17%, was $9.99)
+Genres: Adventure, RPG, Simulation
+Link: https://store.steampowered.com/app/2235400
+==================================================
+
+==================================================
+Name: Tears of Vanfell
+Release Date: Sep 25, 2026
+Price: $11.99 (-20%, was $14.99)
+Genres: Action, Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/3184640
+==================================================
+
+==================================================
+Name: Isekai: Waifu Overlord
+Release Date: Sep 25, 2026
+Price: Free to Play
+Genres: Adventure, Casual, RPG, Simulation, Free To Play
+Link: https://store.steampowered.com/app/3850550
+==================================================
+
+==================================================
+Name: Soul Reaper: Endless Harvest
+Release Date: Sep 25, 2026
+Price: $2.39 (-40%, was $3.99)
+Genres: Action, Casual, Simulation, Strategy
+Link: https://store.steampowered.com/app/4451740
+==================================================
+
+==================================================
+Name: Stella Astrum
+Release Date: Unknown
+Price: $9.99
+Genres: Unknown
+Link: https://store.steampowered.com/app/5045010
+==================================================
+
+==================================================
+Name: DinoBones: Tidy Up the Museum
+Release Date: Unknown
+Price: $5.39 (-10%, was $5.99)
+Genres: Unknown
+Link: https://store.steampowered.com/app/5064340
+==================================================
+
+==================================================
+Name: Fallosophy
+Release Date: Unknown
+Price: $8.99 (-10%, was $9.99)
+Genres: Unknown
+Link: https://store.steampowered.com/app/3989550
+==================================================
+
+==================================================
+Name: A Needle In A Haystack: Sorting Game
+Release Date: Sep 25, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Action, Adventure, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5223690
+==================================================
+
+==================================================
+Name: Space Defender: Frontier Squadron
+Release Date: Sep 25, 2026
+Price: $9.99
+Genres: Action, Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/1731170
+==================================================
+
+==================================================
+Name: EmyLiveShow: Blissful Days of Snow and Marshmallow
+Release Date: Unknown
+Price: $10.99
+Genres: Unknown
+Link: https://store.steampowered.com/app/5146190
+==================================================
+
+==================================================
+Name: SweatyPanzer
+Release Date: Sep 25, 2026
+Price: Free to Play
+Genres: Action, Indie, Free To Play
+Link: https://store.steampowered.com/app/5146110
+==================================================
+
+==================================================
+Name: Side Quest
+Release Date: Unknown
+Price: $4.99
+Genres: Unknown
+Link: https://store.steampowered.com/app/4367910
+==================================================
+
+==================================================
+Name: BIG LOOT
+Release Date: Sep 25, 2026
+Price: $13.59 (-15%, was $15.99)
+Genres: Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/3116730
+==================================================
+
+==================================================
+Name: Woman Simulator
+Release Date: Sep 25, 2026
+Price: $6.39 (-20%, was $7.99)
+Genres: Action, Adventure, Casual, Indie, RPG, Simulation, Sports
+Link: https://store.steampowered.com/app/4072240
+==================================================
+
+==================================================
+Name: Center Ice Hockey
+Release Date: Sep 25, 2026
+Price: $14.99
+Genres: Action, Indie, Sports
+Link: https://store.steampowered.com/app/5100030
+==================================================
+
+==================================================
+Name: Oh Ship!
+Release Date: Sep 25, 2026
+Price: $6.29 (-10%, was $6.99)
+Genres: Action, Adventure
+Link: https://store.steampowered.com/app/4410890
+==================================================
+
+==================================================
+Name: 無名から伝説のアイドルへ
+Release Date: Sep 25, 2026
+Price: $3.49 (-30%, was $4.99)
+Genres: Adventure, Indie, Strategy
+Link: https://store.steampowered.com/app/4951720
+==================================================
+
+==================================================
+Name: Tethered To You
+Release Date: Sep 25, 2026
+Price: Free to Play
+Genres: Casual, RPG, Simulation, Free To Play
+Link: https://store.steampowered.com/app/4476630
+==================================================
+
+==================================================
+Name: Cozy Farm: Tidy Up!
+Release Date: Sep 25, 2026
+Price: $6.39 (-20%, was $7.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5220090
+==================================================
+
+==================================================
+Name: Môrgan
+Release Date: Sep 25, 2026
+Price: Free to Play
+Genres: Adventure, Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/4977550
+==================================================
+
+==================================================
+Name: SIRIUS BFM Coach
+Release Date: Unknown
+Price: $23.99 (-20%, was $29.99)
+Genres: Unknown
+Link: https://store.steampowered.com/app/5181790
+==================================================
+
+==================================================
+Name: Sandwich +1
+Release Date: Sep 25, 2026
+Price: $2.99 (-40%, was $4.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4511900
+==================================================
+
+==================================================
+Name: Neon Tyrant
+Release Date: Sep 25, 2026
+Price: $4.99
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4953310
+==================================================
+
+==================================================
+Name: Escape Sequence
+Release Date: Sep 25, 2026
+Price: $4.99
+Genres: Action, Casual, Indie, Racing
+Link: https://store.steampowered.com/app/4965510
+==================================================
+
+==================================================
+Name: Tower of Pestilence
+Release Date: Sep 25, 2026
+Price: $7.02 (-10%, was $7.80)
+Genres: Action, Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/3400590
+==================================================
+
