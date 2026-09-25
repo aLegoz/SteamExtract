@@ -86066,3 +86066,214 @@ Genres: Action, Adventure, Indie, RPG
 Link: https://store.steampowered.com/app/3400590
 ==================================================
 
+
+--- Run: 2026-09-25 19:38:46 --- (26 new game(s) found)
+
+==================================================
+Name: Lucid Cats
+Release Date: Unknown
+Price: $5.94 (-15%, was $6.99)
+Genres: Unknown
+Link: https://store.steampowered.com/app/4778540
+==================================================
+
+==================================================
+Name: GLUE BLOCKS
+Release Date: Unknown
+Price: $9.59 (-20%, was $11.99)
+Genres: Unknown
+Link: https://store.steampowered.com/app/4135890
+==================================================
+
+==================================================
+Name: Anna - Chapter 2
+Release Date: Sep 25, 2026
+Price: $14.95
+Genres: Adventure
+Link: https://store.steampowered.com/app/4375800
+==================================================
+
+==================================================
+Name: Smoke Keeper
+Release Date: Sep 25, 2026
+Price: $5.39 (-10%, was $5.99)
+Genres: Adventure, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5115860
+==================================================
+
+==================================================
+Name: Tomboy Adventure 2
+Release Date: Unknown
+Price: $19.99
+Genres: Unknown
+Link: https://store.steampowered.com/app/2896630
+==================================================
+
+==================================================
+Name: Hostile Lands
+Release Date: Unknown
+Price: $4.79 (-40%, was $7.99)
+Genres: Unknown
+Link: https://store.steampowered.com/app/3075890
+==================================================
+
+==================================================
+Name: WashMate
+Release Date: Sep 25, 2026
+Price: $3.19 (-20%, was $3.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4823240
+==================================================
+
+==================================================
+Name: I Know a Guy: Shady Life Simulator
+Release Date: Sep 25, 2026
+Price: $9.74 (-25%, was $12.99)
+Genres: Simulation
+Link: https://store.steampowered.com/app/4173620
+==================================================
+
+==================================================
+Name: Decklings
+Release Date: Sep 25, 2026
+Price: $11.04 (-15%, was $12.99)
+Genres: Adventure, Casual, RPG, Simulation, Strategy
+Link: https://store.steampowered.com/app/3715790
+==================================================
+
+==================================================
+Name: Scapewatch: Idle MMO
+Release Date: Unknown
+Price: $9.74 (-35%, was $14.99)
+Genres: Unknown
+Link: https://store.steampowered.com/app/4671380
+==================================================
+
+==================================================
+Name: Murders & Mistresses
+Release Date: Unknown
+Price: $9.99
+Genres: Unknown
+Link: https://store.steampowered.com/app/3740030
+==================================================
+
+==================================================
+Name: Recurrence
+Release Date: Sep 25, 2026
+Price: $10.19 (-15%, was $11.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/3354130
+==================================================
+
+==================================================
+Name: Blargle and the Quest for the Nothing Burger
+Release Date: Unknown
+Price: $2.54 (-15%, was $2.99)
+Genres: Unknown
+Link: https://store.steampowered.com/app/5040300
+==================================================
+
+==================================================
+Name: Knode: Untangle & Connect
+Release Date: Sep 25, 2026
+Price: $6.99 (-30%, was $9.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4959570
+==================================================
+
+==================================================
+Name: Black Cat Book Club
+Release Date: Unknown
+Price: $4.49 (-10%, was $4.99)
+Genres: Unknown
+Link: https://store.steampowered.com/app/3972410
+==================================================
+
+==================================================
+Name: Wrenny Lee: Witch-for-Hire!
+Release Date: Unknown
+Price: $4.94 (-10%, was $5.49)
+Genres: Unknown
+Link: https://store.steampowered.com/app/4776970
+==================================================
+
+==================================================
+Name: Sockpuppet Noir
+Release Date: Sep 25, 2026
+Price: $6.29 (-30%, was $8.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/1552060
+==================================================
+
+==================================================
+Name: Card Conquest
+Release Date: Sep 25, 2026
+Price: $6.79 (-15%, was $7.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/3883580
+==================================================
+
+==================================================
+Name: Scorched Sun
+Release Date: Sep 25, 2026
+Price: $6.79 (-15%, was $7.99)
+Genres: RPG
+Link: https://store.steampowered.com/app/4086480
+==================================================
+
+==================================================
+Name: Sneaky Squad
+Release Date: Sep 25, 2026
+Price: $4.19 (-30%, was $5.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/5157620
+==================================================
+
+==================================================
+Name: Las 5 Celdas
+Release Date: Sep 25, 2026
+Price: $2.69 (-10%, was $2.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4345390
+==================================================
+
+==================================================
+Name: INVASION
+Release Date: Unknown
+Price: $4.49 (-10%, was $4.99)
+Genres: Unknown
+Link: https://store.steampowered.com/app/5168720
+==================================================
+
+==================================================
+Name: Museologist: Tidy Up the Museum!
+Release Date: Sep 25, 2026
+Price: $5.39 (-10%, was $5.99)
+Genres: Casual, Simulation
+Link: https://store.steampowered.com/app/4964580
+==================================================
+
+==================================================
+Name: Lunar Drifter
+Release Date: Sep 25, 2026
+Price: $13.49 (-10%, was $14.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/3115490
+==================================================
+
+==================================================
+Name: Observation Protocol
+Release Date: Sep 25, 2026
+Price: $3.59 (-10%, was $3.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4728140
+==================================================
+
+==================================================
+Name: Deep Trouble: A Fishing RPG
+Release Date: Unknown
+Price: $4.99
+Genres: Unknown
+Link: https://store.steampowered.com/app/5133820
+==================================================
+
