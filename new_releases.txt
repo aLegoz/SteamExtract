@@ -85414,3 +85414,70 @@ Genres: Unknown
 Link: https://store.steampowered.com/app/4795430
 ==================================================
 
+
+--- Run: 2026-09-25 00:58:51 --- (8 new game(s) found)
+
+==================================================
+Name: Rotfront
+Release Date: Sep 24, 2026
+Price: $14.99
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4502770
+==================================================
+
+==================================================
+Name: Money Maker
+Release Date: Sep 24, 2026
+Price: $1.99
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4413330
+==================================================
+
+==================================================
+Name: EA SPORTS FC™ 27
+Release Date: Unknown
+Price: $69.99
+Genres: Unknown
+Link: https://store.steampowered.com/app/4080220
+==================================================
+
+==================================================
+Name: Forest Explorer
+Release Date: Sep 24, 2026
+Price: $3.39 (-15%, was $3.99)
+Genres: Strategy
+Link: https://store.steampowered.com/app/5222590
+==================================================
+
+==================================================
+Name: Highscore
+Release Date: Sep 24, 2026
+Price: $1.99
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/5037900
+==================================================
+
+==================================================
+Name: War Risk
+Release Date: Unknown
+Price: $4.19 (-40%, was $6.99)
+Genres: Unknown
+Link: https://store.steampowered.com/app/5086380
+==================================================
+
+==================================================
+Name: Sweet Party
+Release Date: Sep 24, 2026
+Price: $0.89 (-10%, was $0.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4834240
+==================================================
+
+==================================================
+Name: Home Teacher Sister's
+Release Date: Unknown
+Price: $2.99
+Genres: Unknown
+Link: https://store.steampowered.com/app/4369580
+==================================================
+
