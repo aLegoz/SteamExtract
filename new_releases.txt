@@ -85692,3 +85692,166 @@ Genres: Action, Indie
 Link: https://store.steampowered.com/app/4984540
 ==================================================
 
+
+--- Run: 2026-09-25 10:42:06 --- (20 new game(s) found)
+
+==================================================
+Name: Smart Crosshair 
+Release Date: Sep 25, 2026
+Price: $2.99 (-40%, was $4.99)
+Genres: Utilities
+Link: https://store.steampowered.com/app/5012860
+==================================================
+
+==================================================
+Name: Immortal Chess
+Release Date: Sep 25, 2026
+Price: Free to Play
+Genres: Casual, Indie, Sports, Strategy, Free To Play
+Link: https://store.steampowered.com/app/5045450
+==================================================
+
+==================================================
+Name: Dr. Murph
+Release Date: Sep 25, 2026
+Price: $5.24 (-25%, was $6.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/2943200
+==================================================
+
+==================================================
+Name: Girls vs Zombies
+Release Date: Unknown
+Price: $7.64 (-15%, was $8.99)
+Genres: Unknown
+Link: https://store.steampowered.com/app/2197690
+==================================================
+
+==================================================
+Name: King of Pickaxe
+Release Date: Sep 25, 2026
+Price: $2.09 (-30%, was $2.99)
+Genres: Action, Casual, Simulation
+Link: https://store.steampowered.com/app/4264240
+==================================================
+
+==================================================
+Name: 梦境森林 (The Dreaming Woods)
+Release Date: Unknown
+Price: $7.19 (-10%, was $7.99)
+Genres: Unknown
+Link: https://store.steampowered.com/app/5027430
+==================================================
+
+==================================================
+Name: Lexicon Odyssey ~~A Japanese-Learning RPG~~
+Release Date: Sep 25, 2026
+Price: $9.34 (-15%, was $10.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/5230220
+==================================================
+
+==================================================
+Name: Neko Diary🐾 猫愿日记
+Release Date: Unknown
+Price: $2.39 (-20%, was $2.99)
+Genres: Unknown
+Link: https://store.steampowered.com/app/3865000
+==================================================
+
+==================================================
+Name: 高三最后300天
+Release Date: Sep 25, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Indie, RPG, Simulation
+Link: https://store.steampowered.com/app/5206350
+==================================================
+
+==================================================
+Name: Assassin Of Werewolf
+Release Date: Sep 25, 2026
+Price: $2.39 (-40%, was $3.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/5236010
+==================================================
+
+==================================================
+Name: Rumored Massage Parlor Secret Menu
+Release Date: Unknown
+Price: $7.19 (-20%, was $8.99)
+Genres: Unknown
+Link: https://store.steampowered.com/app/5195080
+==================================================
+
+==================================================
+Name: Four Crossings of the ChiShui River Simulator
+Release Date: Sep 24, 2026
+Price: $3.19 (-20%, was $3.99)
+Genres: Strategy
+Link: https://store.steampowered.com/app/5084240
+==================================================
+
+==================================================
+Name: Goblins and Gunslingers
+Release Date: Sep 24, 2026
+Price: Free to Play
+Genres: Adventure, Casual, Indie, RPG, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4557390
+==================================================
+
+==================================================
+Name: Triple Pairing
+Release Date: Sep 24, 2026
+Price: $23.39 (-22%, was $29.99)
+Genres: Adventure, Casual
+Link: https://store.steampowered.com/app/4710010
+==================================================
+
+==================================================
+Name: Turtle Game
+Release Date: Unknown
+Price: $1.79 (-40%, was $2.99)
+Genres: Unknown
+Link: https://store.steampowered.com/app/3952050
+==================================================
+
+==================================================
+Name: Virtual Skies FPV VR
+Release Date: Sep 24, 2026
+Price: $3.59 (-40%, was $5.99)
+Genres: Simulation
+Link: https://store.steampowered.com/app/5090850
+==================================================
+
+==================================================
+Name: Kadmon
+Release Date: Unknown
+Price: $2.99
+Genres: Unknown
+Link: https://store.steampowered.com/app/5087220
+==================================================
+
+==================================================
+Name: 高考移民：常安转校生 A Transfer Student from Chang'an
+Release Date: Sep 24, 2026
+Price: $3.59 (-10%, was $3.99)
+Genres: Adventure, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4128680
+==================================================
+
+==================================================
+Name: Pixel Planet Survivor
+Release Date: Sep 24, 2026
+Price: $1.49 (-40%, was $2.49)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/5125780
+==================================================
+
+==================================================
+Name: Overdrive 2048
+Release Date: Unknown
+Price: $2.69 (-10%, was $2.99)
+Genres: Unknown
+Link: https://store.steampowered.com/app/4622660
+==================================================
+
