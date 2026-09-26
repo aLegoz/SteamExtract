@@ -86671,3 +86671,22 @@ Genres: Casual, Indie
 Link: https://store.steampowered.com/app/4431410
 ==================================================
 
+
+--- Run: 2026-09-26 21:39:58 --- (2 new game(s) found)
+
+==================================================
+Name: Horde Slayer
+Release Date: Sep 26, 2026
+Price: $3.19 (-20%, was $3.99)
+Genres: Action, Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/3778250
+==================================================
+
+==================================================
+Name: Hyperboard Extreme
+Release Date: Sep 26, 2026
+Price: Free to Play
+Genres: Action, Indie, Racing, Free To Play
+Link: https://store.steampowered.com/app/4892910
+==================================================
+
