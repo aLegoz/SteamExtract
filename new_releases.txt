@@ -86690,3 +86690,14 @@ Genres: Action, Indie, Racing, Free To Play
 Link: https://store.steampowered.com/app/4892910
 ==================================================
 
+
+--- Run: 2026-09-26 23:58:27 --- (1 new game(s) found)
+
+==================================================
+Name: Happy Pet Island
+Release Date: Unknown
+Price: Free to Play
+Genres: Unknown
+Link: https://store.steampowered.com/app/4273090
+==================================================
+
