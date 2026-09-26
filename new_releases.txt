@@ -86628,3 +86628,46 @@ Genres: Adventure, Casual, Indie, RPG, Strategy
 Link: https://store.steampowered.com/app/3292310
 ==================================================
 
+
+--- Run: 2026-09-26 18:46:24 --- (5 new game(s) found)
+
+==================================================
+Name: After School Sparkles: Complete Edition
+Release Date: Unknown
+Price: $17.99 (-10%, was $19.99)
+Genres: Unknown
+Link: https://store.steampowered.com/app/5099160
+==================================================
+
+==================================================
+Name: Depth Diver
+Release Date: Unknown
+Price: $9.99
+Genres: Unknown
+Link: https://store.steampowered.com/app/2995260
+==================================================
+
+==================================================
+Name: Maritime Simulator
+Release Date: Sep 26, 2026
+Price: $12.99
+Genres: Casual, Simulation, Strategy
+Link: https://store.steampowered.com/app/4273820
+==================================================
+
+==================================================
+Name: Truck Titans
+Release Date: Sep 26, 2026
+Price: $7.99
+Genres: Casual, Indie, Racing, Simulation, Sports
+Link: https://store.steampowered.com/app/3939990
+==================================================
+
+==================================================
+Name: Fuel Sort
+Release Date: Sep 25, 2026
+Price: $3.00
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4431410
+==================================================
+
