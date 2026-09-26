@@ -86561,3 +86561,70 @@ Genres: Action, Casual, Indie
 Link: https://store.steampowered.com/app/5161450
 ==================================================
 
+
+--- Run: 2026-09-26 15:13:47 --- (8 new game(s) found)
+
+==================================================
+Name: 『スクジサマ』を巡る考察
+Release Date: Sep 26, 2026
+Price: $11.19 (-30%, was $15.99)
+Genres: Adventure
+Link: https://store.steampowered.com/app/4803270
+==================================================
+
+==================================================
+Name: Scratch Tickets With Your Friends 🎰
+Release Date: Sep 26, 2026
+Price: $4.82 (-31%, was $6.99)
+Genres: Casual, RPG, Simulation
+Link: https://store.steampowered.com/app/5148990
+==================================================
+
+==================================================
+Name: Voltus' Neon Nightmare - Colossal Cure
+Release Date: Sep 26, 2026
+Price: $5.09 (-15%, was $5.99)
+Genres: Indie
+Link: https://store.steampowered.com/app/4882170
+==================================================
+
+==================================================
+Name: Fiducia: Rent The World
+Release Date: Sep 26, 2026
+Price: Free to Play
+Genres: Simulation, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4953150
+==================================================
+
+==================================================
+Name: GunfireFantasy
+Release Date: Sep 26, 2026
+Price: $1.79 (-10%, was $1.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/5184740
+==================================================
+
+==================================================
+Name: Section 80
+Release Date: Sep 26, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/5191570
+==================================================
+
+==================================================
+Name: Gemorium
+Release Date: Sep 26, 2026
+Price: $2.69 (-10%, was $2.99)
+Genres: Indie
+Link: https://store.steampowered.com/app/4798740
+==================================================
+
+==================================================
+Name: Dying Land
+Release Date: Sep 25, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Adventure, Casual, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/3292310
+==================================================
+
