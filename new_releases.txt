@@ -86728,3 +86728,78 @@ Genres: Indie, Simulation, Strategy
 Link: https://store.steampowered.com/app/4132030
 ==================================================
 
+
+--- Run: 2026-09-27 09:35:57 --- (9 new game(s) found)
+
+==================================================
+Name: Solitaire Together
+Release Date: Sep 27, 2026
+Price: Free to Play
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5213680
+==================================================
+
+==================================================
+Name: 四番旅館 The 4th Ryokan
+Release Date: Sep 27, 2026
+Price: $2.40
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5223400
+==================================================
+
+==================================================
+Name: WPG Ravelin
+Release Date: Sep 27, 2026
+Price: $9.89 (-10%, was $10.99)
+Genres: Action, Indie, Strategy
+Link: https://store.steampowered.com/app/5135630
+==================================================
+
+==================================================
+Name: MOCHIKA AND THE SEVEN PASTRY SINS
+Release Date: Unknown
+Price: $6.74 (-25%, was $8.99)
+Genres: Unknown
+Link: https://store.steampowered.com/app/4986250
+==================================================
+
+==================================================
+Name: TerraNova Engine
+Release Date: Unknown
+Price: Free to Play
+Genres: Unknown
+Link: https://store.steampowered.com/app/5098440
+==================================================
+
+==================================================
+Name: Desktop Gremlins
+Release Date: Unknown
+Price: $1.99
+Genres: Unknown
+Link: https://store.steampowered.com/app/4981140
+==================================================
+
+==================================================
+Name: Golden Goblin Player
+Release Date: Unknown
+Price: $13.49 (-10%, was $14.99)
+Genres: Unknown
+Link: https://store.steampowered.com/app/5214410
+==================================================
+
+==================================================
+Name: 推しマスコット
+Release Date: Unknown
+Price: Free to Play
+Genres: Unknown
+Link: https://store.steampowered.com/app/5122970
+==================================================
+
+==================================================
+Name: NucleoSynthetica
+Release Date: Sep 26, 2026
+Price: $3.59 (-10%, was $3.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5124550
+==================================================
+
