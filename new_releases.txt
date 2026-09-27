@@ -86803,3 +86803,70 @@ Genres: Casual, Indie, Simulation
 Link: https://store.steampowered.com/app/5124550
 ==================================================
 
+
+--- Run: 2026-09-27 14:52:33 --- (8 new game(s) found)
+
+==================================================
+Name: Bearly Awesome: Chapter 1
+Release Date: Unknown
+Price: $5.99
+Genres: Unknown
+Link: https://store.steampowered.com/app/4610630
+==================================================
+
+==================================================
+Name: Shopping Cart Pusher
+Release Date: Sep 27, 2026
+Price: $5.99
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/4038570
+==================================================
+
+==================================================
+Name: Aika Was Supposed to Die
+Release Date: Sep 27, 2026
+Price: $4.99
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/5097340
+==================================================
+
+==================================================
+Name: Platform Chess
+Release Date: Sep 27, 2026
+Price: $2.99 (-40%, was $4.99)
+Genres: Action, Casual, Strategy
+Link: https://store.steampowered.com/app/5170400
+==================================================
+
+==================================================
+Name: SMS Returns
+Release Date: Unknown
+Price: $8.99 (-10%, was $9.99)
+Genres: Unknown
+Link: https://store.steampowered.com/app/4670920
+==================================================
+
+==================================================
+Name: Horror Golf
+Release Date: Sep 27, 2026
+Price: $0.59 (-40%, was $0.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5242170
+==================================================
+
+==================================================
+Name: Zen Beauty
+Release Date: Sep 26, 2026
+Price: $6.99
+Genres: Casual
+Link: https://store.steampowered.com/app/3409390
+==================================================
+
+==================================================
+Name: Glamour Riot
+Release Date: Sep 26, 2026
+Price: $9.99
+Genres: Action
+Link: https://store.steampowered.com/app/3557370
+==================================================
+
