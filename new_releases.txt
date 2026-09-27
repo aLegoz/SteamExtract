@@ -86701,3 +86701,30 @@ Genres: Unknown
 Link: https://store.steampowered.com/app/4273090
 ==================================================
 
+
+--- Run: 2026-09-27 03:30:07 --- (3 new game(s) found)
+
+==================================================
+Name: Hall of Mirrors
+Release Date: Sep 26, 2026
+Price: $2.99
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/3223460
+==================================================
+
+==================================================
+Name: Proximity
+Release Date: Unknown
+Price: Free to Play
+Genres: Unknown
+Link: https://store.steampowered.com/app/5120160
+==================================================
+
+==================================================
+Name: Nova Origin
+Release Date: Sep 26, 2026
+Price: $19.99 (-20%, was $24.99)
+Genres: Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4132030
+==================================================
+
