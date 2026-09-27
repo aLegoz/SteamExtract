@@ -86937,3 +86937,46 @@ Genres: Unknown
 Link: https://store.steampowered.com/app/5081700
 ==================================================
 
+
+--- Run: 2026-09-27 21:42:38 --- (5 new game(s) found)
+
+==================================================
+Name: Star Space
+Release Date: Sep 27, 2026
+Price: $6.99
+Genres: Action
+Link: https://store.steampowered.com/app/5166030
+==================================================
+
+==================================================
+Name: Death Delivery
+Release Date: Sep 27, 2026
+Price: $2.99 (-40%, was $4.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/3303790
+==================================================
+
+==================================================
+Name: Surf Academy
+Release Date: Sep 27, 2026
+Price: $4.99
+Genres: Casual, Indie, Racing
+Link: https://store.steampowered.com/app/4392600
+==================================================
+
+==================================================
+Name: Manual Override
+Release Date: Unknown
+Price: $4.19 (-40%, was $6.99)
+Genres: Unknown
+Link: https://store.steampowered.com/app/4865860
+==================================================
+
+==================================================
+Name: Ponzi Simulator
+Release Date: Sep 27, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Strategy
+Link: https://store.steampowered.com/app/5050550
+==================================================
+
