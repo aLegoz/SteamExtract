@@ -86870,3 +86870,70 @@ Genres: Action
 Link: https://store.steampowered.com/app/3557370
 ==================================================
 
+
+--- Run: 2026-09-27 18:43:29 --- (8 new game(s) found)
+
+==================================================
+Name: Lobstar: Arcade Version
+Release Date: Sep 27, 2026
+Price: Free to Play
+Genres: Action, Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/3659140
+==================================================
+
+==================================================
+Name: Cats in Wonderland
+Release Date: Sep 27, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Adventure, Casual
+Link: https://store.steampowered.com/app/3023020
+==================================================
+
+==================================================
+Name: Dust Rapture
+Release Date: Sep 27, 2026
+Price: $6.99
+Genres: Action, Adventure, Simulation
+Link: https://store.steampowered.com/app/4950700
+==================================================
+
+==================================================
+Name: Mega Merge
+Release Date: Unknown
+Price: $5.59 (-20%, was $6.99)
+Genres: Unknown
+Link: https://store.steampowered.com/app/2750230
+==================================================
+
+==================================================
+Name: The Crunch Point
+Release Date: Sep 27, 2026
+Price: $3.59 (-10%, was $3.99)
+Genres: Action, Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4918820
+==================================================
+
+==================================================
+Name: Autonom land Multiverse
+Release Date: Sep 27, 2026
+Price: $14.99
+Genres: Action, Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/5110280
+==================================================
+
+==================================================
+Name: Tiny Desktop Birds
+Release Date: Unknown
+Price: $2.99
+Genres: Unknown
+Link: https://store.steampowered.com/app/4923700
+==================================================
+
+==================================================
+Name: Sylva's Blessing
+Release Date: Unknown
+Price: $4.99
+Genres: Unknown
+Link: https://store.steampowered.com/app/5081700
+==================================================
+
