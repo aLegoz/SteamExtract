@@ -87274,3 +87274,246 @@ Genres: Adventure, Indie, Simulation
 Link: https://store.steampowered.com/app/5054370
 ==================================================
 
+
+--- Run: 2026-09-28 20:54:28 --- (30 new game(s) found)
+
+==================================================
+Name: The Nun
+Release Date: Sep 28, 2026
+Price: $9.99
+Genres: Action, Adventure
+Link: https://store.steampowered.com/app/4993040
+==================================================
+
+==================================================
+Name: Bee on a Roll
+Release Date: Sep 28, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5064960
+==================================================
+
+==================================================
+Name: Glider Sim Deluxe – Soaring Simulator
+Release Date: Sep 28, 2026
+Price: $20.99 (-30%, was $29.99)
+Genres: Action, Adventure, Casual, Massively Multiplayer, Simulation, Sports
+Link: https://store.steampowered.com/app/1422940
+==================================================
+
+==================================================
+Name: Smiglee's Statues: The Cursed Curation
+Release Date: Sep 28, 2026
+Price: $3.99
+Genres: Action, Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/4452790
+==================================================
+
+==================================================
+Name: Chains of Eternity
+Release Date: Sep 28, 2026
+Price: $17.59 (-12%, was $19.99)
+Genres: Action, Adventure, Casual
+Link: https://store.steampowered.com/app/5156620
+==================================================
+
+==================================================
+Name: Paddle Legends
+Release Date: Sep 28, 2026
+Price: $5.94 (-15%, was $6.99)
+Genres: Action, Casual, Indie, Sports
+Link: https://store.steampowered.com/app/4076450
+==================================================
+
+==================================================
+Name: A Maze In Labyrinth
+Release Date: Sep 28, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4524010
+==================================================
+
+==================================================
+Name: H.O.A Simulator
+Release Date: Sep 28, 2026
+Price: Free to Play
+Genres: Simulation, Free To Play
+Link: https://store.steampowered.com/app/4661020
+==================================================
+
+==================================================
+Name: Hell Healers
+Release Date: Sep 28, 2026
+Price: Free to Play
+Genres: Action, Casual, Indie, RPG, Simulation, Strategy, Free To Play
+Link: https://store.steampowered.com/app/5248190
+==================================================
+
+==================================================
+Name: P.I.G.E.O.N.
+Release Date: Sep 28, 2026
+Price: Free to Play
+Genres: Adventure, Indie, RPG, Free To Play
+Link: https://store.steampowered.com/app/4508540
+==================================================
+
+==================================================
+Name: Radiotext
+Release Date: Sep 28, 2026
+Price: $8.39 (-30%, was $11.99)
+Genres: Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/3418160
+==================================================
+
+==================================================
+Name: Bustle Beacon
+Release Date: Sep 28, 2026
+Price: $12.59 (-30%, was $17.99)
+Genres: Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4665400
+==================================================
+
+==================================================
+Name: Compression Quota
+Release Date: Sep 28, 2026
+Price: $5.99 (-25%, was $7.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5187330
+==================================================
+
+==================================================
+Name: Ammossum
+Release Date: Sep 28, 2026
+Price: $10.26 (-21%, was $12.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/2659600
+==================================================
+
+==================================================
+Name: Tech Chaos
+Release Date: Sep 28, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5140650
+==================================================
+
+==================================================
+Name: AE: Archeological Expedition
+Release Date: Sep 28, 2026
+Price: $8.49 (-15%, was $9.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/3910670
+==================================================
+
+==================================================
+Name: HR: Human Remains
+Release Date: Sep 28, 2026
+Price: $9.89 (-10%, was $10.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/3541630
+==================================================
+
+==================================================
+Name: Drop Command
+Release Date: Sep 28, 2026
+Price: $19.54 (-15%, was $22.99)
+Genres: Action, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/1944880
+==================================================
+
+==================================================
+Name: Space Mine Raider
+Release Date: Sep 28, 2026
+Price: $4.79 (-20%, was $5.99)
+Genres: Action, Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4532250
+==================================================
+
+==================================================
+Name: Clawless Coin
+Release Date: Sep 28, 2026
+Price: $5.99
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4669750
+==================================================
+
+==================================================
+Name: Bomb Star Bounce
+Release Date: Sep 28, 2026
+Price: $4.99
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/5239510
+==================================================
+
+==================================================
+Name: Animation.exe
+Release Date: Sep 28, 2026
+Price: $3.99
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5050850
+==================================================
+
+==================================================
+Name: PixBit
+Release Date: Sep 28, 2026
+Price: $2.99
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5174230
+==================================================
+
+==================================================
+Name: Greenhouse: Tidy Up!
+Release Date: Sep 28, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5146200
+==================================================
+
+==================================================
+Name: Vinyl Store: Tidy Up!
+Release Date: Sep 28, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5088290
+==================================================
+
+==================================================
+Name: Guildream
+Release Date: Sep 28, 2026
+Price: $3.19 (-20%, was $3.99)
+Genres: Casual, Simulation
+Link: https://store.steampowered.com/app/3908240
+==================================================
+
+==================================================
+Name: Unshine Arcade
+Release Date: Sep 28, 2026
+Price: $9.59 (-20%, was $11.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/3694100
+==================================================
+
+==================================================
+Name: Debt of Life
+Release Date: Sep 28, 2026
+Price: $4.79 (-20%, was $5.99)
+Genres: Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/5058740
+==================================================
+
+==================================================
+Name: TWIN Hotel, Spa and More
+Release Date: Sep 28, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/4867650
+==================================================
+
+==================================================
+Name: Space Cat Solitaire
+Release Date: Sep 28, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/3175050
+==================================================
+
