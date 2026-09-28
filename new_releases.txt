@@ -86980,3 +86980,94 @@ Genres: Strategy
 Link: https://store.steampowered.com/app/5050550
 ==================================================
 
+
+--- Run: 2026-09-28 06:02:30 --- (11 new game(s) found)
+
+==================================================
+Name: Cozy Jigsaw
+Release Date: Sep 27, 2026
+Price: $1.19 (-40%, was $1.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5227040
+==================================================
+
+==================================================
+Name: フロアーⅩⅢの心象～S
+Release Date: Sep 27, 2026
+Price: $2.04 (-13%, was $2.35)
+Genres: Adventure
+Link: https://store.steampowered.com/app/5197180
+==================================================
+
+==================================================
+Name: Fengshen: Immortal Reborn
+Release Date: Sep 27, 2026
+Price: Free to Play
+Genres: RPG, Free To Play
+Link: https://store.steampowered.com/app/4976640
+==================================================
+
+==================================================
+Name: The Bell Echoes
+Release Date: Sep 27, 2026
+Price: $12.59 (-10%, was $13.99)
+Genres: RPG, Strategy
+Link: https://store.steampowered.com/app/2873060
+==================================================
+
+==================================================
+Name: 盗墓贼Grave digging for wealth
+Release Date: Sep 27, 2026
+Price: $6.60 (-15%, was $7.77)
+Genres: Action, Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/4973140
+==================================================
+
+==================================================
+Name: Project DevourSlime
+Release Date: Sep 27, 2026
+Price: $3.59 (-10%, was $3.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/3263880
+==================================================
+
+==================================================
+Name: Ultimate Multiplayer Survival Engine
+Release Date: Sep 27, 2026
+Price: Free to Play
+Genres: Action, Adventure, Indie, Massively Multiplayer, RPG, Free To Play
+Link: https://store.steampowered.com/app/5171770
+==================================================
+
+==================================================
+Name: Florana Defense
+Release Date: Sep 27, 2026
+Price: $5.35 (-33%, was $7.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4840080
+==================================================
+
+==================================================
+Name: ReFantasy Autobattler
+Release Date: Sep 27, 2026
+Price: $2.69 (-10%, was $2.99)
+Genres: Casual, Strategy
+Link: https://store.steampowered.com/app/5062170
+==================================================
+
+==================================================
+Name: Pay your Deeds
+Release Date: Sep 27, 2026
+Price: $8.49 (-15%, was $9.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/5222360
+==================================================
+
+==================================================
+Name: World of Stars
+Release Date: Sep 27, 2026
+Price: $3.99
+Genres: Strategy
+Link: https://store.steampowered.com/app/5049780
+==================================================
+
