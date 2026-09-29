@@ -87600,3 +87600,118 @@ Genres: Action, Casual, Indie
 Link: https://store.steampowered.com/app/4983950
 ==================================================
 
+
+--- Run: 2026-09-29 06:20:46 --- (14 new game(s) found)
+
+==================================================
+Name: Idle Bomb Animals - Desktop Mining
+Release Date: Sep 28, 2026
+Price: $4.79 (-20%, was $5.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4692190
+==================================================
+
+==================================================
+Name: BOX PUSH MASTER
+Release Date: Sep 28, 2026
+Price: Free to Play
+Genres: Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/4885400
+==================================================
+
+==================================================
+Name: The Last Camp : Dawn
+Release Date: Sep 28, 2026
+Price: $22.49 (-10%, was $24.99)
+Genres: Action, Adventure, RPG
+Link: https://store.steampowered.com/app/4198430
+==================================================
+
+==================================================
+Name: Camp Whittlewood
+Release Date: Sep 28, 2026
+Price: $4.99
+Genres: Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/4813190
+==================================================
+
+==================================================
+Name: Escape From Z
+Release Date: Sep 28, 2026
+Price: $3.59 (-10%, was $3.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4549090
+==================================================
+
+==================================================
+Name: American Mahjong
+Release Date: Sep 28, 2026
+Price: $7.79 (-40%, was $12.99)
+Genres: Casual, Strategy
+Link: https://store.steampowered.com/app/5015290
+==================================================
+
+==================================================
+Name: NTREX
+Release Date: Sep 28, 2026
+Price: $11.99 (-20%, was $14.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/4096590
+==================================================
+
+==================================================
+Name: Hanok: From Thatch to Palace
+Release Date: Sep 28, 2026
+Price: $11.04 (-15%, was $12.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5130100
+==================================================
+
+==================================================
+Name: Frutiger Home
+Release Date: Sep 28, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Simulation
+Link: https://store.steampowered.com/app/3935530
+==================================================
+
+==================================================
+Name: 病み菌少女 地雷ちゃん
+Release Date: Sep 28, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Action
+Link: https://store.steampowered.com/app/4190040
+==================================================
+
+==================================================
+Name: Crawler 3D
+Release Date: Sep 28, 2026
+Price: $6.39 (-20%, was $7.99)
+Genres: Action, Indie, RPG
+Link: https://store.steampowered.com/app/5039680
+==================================================
+
+==================================================
+Name: Swing Shift
+Release Date: Sep 28, 2026
+Price: $1.19 (-40%, was $1.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/5170210
+==================================================
+
+==================================================
+Name: SUCCUBUS MONSTER CARDS
+Release Date: Sep 28, 2026
+Price: $7.19 (-40%, was $11.99)
+Genres: Casual, Indie, RPG, Simulation, Strategy
+Link: https://store.steampowered.com/app/4909440
+==================================================
+
+==================================================
+Name: The Waiting Room
+Release Date: Sep 28, 2026
+Price: $2.00 (-33%, was $2.99)
+Genres: Indie
+Link: https://store.steampowered.com/app/5082440
+==================================================
+
