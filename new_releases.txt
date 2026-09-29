@@ -87715,3 +87715,190 @@ Genres: Indie
 Link: https://store.steampowered.com/app/5082440
 ==================================================
 
+
+--- Run: 2026-09-29 13:30:03 --- (23 new game(s) found)
+
+==================================================
+Name: TOEM 2
+Release Date: Sep 29, 2026
+Price: $16.99 (-15%, was $19.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/2900640
+==================================================
+
+==================================================
+Name: Cosmo Cat: A Cozy Desktop Idler
+Release Date: Sep 29, 2026
+Price: $2.69 (-10%, was $2.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5034300
+==================================================
+
+==================================================
+Name: Way of the Hunter 2
+Release Date: Mar 26, 2026
+Price: $34.99
+Genres: Adventure, Simulation
+Link: https://store.steampowered.com/app/2543830
+==================================================
+
+==================================================
+Name: Fuck This Job
+Release Date: Sep 29, 2026
+Price: Free to Play
+Genres: Action, Free To Play
+Link: https://store.steampowered.com/app/4822520
+==================================================
+
+==================================================
+Name: MATE THEM ALL
+Release Date: Sep 29, 2026
+Price: $2.66 (-11%, was $2.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/5040980
+==================================================
+
+==================================================
+Name: Desktop Fishing Garden
+Release Date: Sep 29, 2026
+Price: $3.49 (-30%, was $4.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4838830
+==================================================
+
+==================================================
+Name: Maul Tactics
+Release Date: Sep 29, 2026
+Price: $10.00
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4433930
+==================================================
+
+==================================================
+Name: Slots & Sword & Magic
+Release Date: Sep 29, 2026
+Price: $5.09 (-15%, was $5.99)
+Genres: Action, Adventure, Casual, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/4556750
+==================================================
+
+==================================================
+Name: The Merlies
+Release Date: Sep 29, 2026
+Price: $15.99 (-20%, was $19.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/2521160
+==================================================
+
+==================================================
+Name: Automania Remastered
+Release Date: Sep 29, 2026
+Price: $9.99 (-20%, was $12.49)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4787700
+==================================================
+
+==================================================
+Name: Tales of the Tang Recluse
+Release Date: Sep 29, 2026
+Price: $7.03 (-12%, was $7.99)
+Genres: Adventure, Casual, Indie, RPG
+Link: https://store.steampowered.com/app/5189440
+==================================================
+
+==================================================
+Name: Wizzo PopOut
+Release Date: Sep 29, 2026
+Price: $5.99 (-20%, was $7.49)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/3670670
+==================================================
+
+==================================================
+Name: Island of Rebirth~NTR and Love~
+Release Date: Sep 29, 2026
+Price: $13.49 (-10%, was $14.99)
+Genres: Casual, Indie, RPG
+Link: https://store.steampowered.com/app/3725800
+==================================================
+
+==================================================
+Name: Eropsychosis: The Project Elysiara
+Release Date: Sep 29, 2026
+Price: $13.49 (-10%, was $14.99)
+Genres: Indie, RPG
+Link: https://store.steampowered.com/app/3464000
+==================================================
+
+==================================================
+Name: Minecraft Dungeons II
+Release Date: Sep 29, 2026
+Price: $29.99
+Genres: Action, Adventure, RPG
+Link: https://store.steampowered.com/app/1912410
+==================================================
+
+==================================================
+Name: Delegatory
+Release Date: Sep 29, 2026
+Price: $4.79 (-20%, was $5.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/4320620
+==================================================
+
+==================================================
+Name: Apple Worm: Logic Puzzle
+Release Date: Sep 29, 2026
+Price: Free to Play
+Genres: Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/5189530
+==================================================
+
+==================================================
+Name: DAWN OF THE ROTTEN
+Release Date: Sep 29, 2026
+Price: $1.80 (-10%, was $2.00)
+Genres: Action, Indie, Simulation
+Link: https://store.steampowered.com/app/5196540
+==================================================
+
+==================================================
+Name: Sad Virus Dungeon
+Release Date: Sep 29, 2026
+Price: $1.19 (-40%, was $1.99)
+Genres: Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/5223830
+==================================================
+
+==================================================
+Name: ysh park
+Release Date: Sep 29, 2026
+Price: $0.99
+Genres: Indie
+Link: https://store.steampowered.com/app/3171340
+==================================================
+
+==================================================
+Name: SEVEN SCHOOL GHOST STORIES | 学校の七つの怪談
+Release Date: Sep 29, 2026
+Price: $5.09 (-15%, was $5.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/5193640
+==================================================
+
+==================================================
+Name: Boobs & Cowgirls
+Release Date: Sep 29, 2026
+Price: $4.89 (-30%, was $6.99)
+Genres: Casual, Simulation
+Link: https://store.steampowered.com/app/5188170
+==================================================
+
+==================================================
+Name: Never Enough Corn
+Release Date: Sep 28, 2026
+Price: $4.79 (-40%, was $7.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5246180
+==================================================
+
