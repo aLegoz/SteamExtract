@@ -87902,3 +87902,198 @@ Genres: Casual, Indie
 Link: https://store.steampowered.com/app/5246180
 ==================================================
 
+
+--- Run: 2026-09-29 18:57:58 --- (24 new game(s) found)
+
+==================================================
+Name: Late Order
+Release Date: Sep 29, 2026
+Price: $5.83 (-27%, was $7.99)
+Genres: Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/4147170
+==================================================
+
+==================================================
+Name: Cricket Management 26
+Release Date: Sep 29, 2026
+Price: $17.00
+Genres: Indie, Simulation, Sports, Strategy
+Link: https://store.steampowered.com/app/4738830
+==================================================
+
+==================================================
+Name: System Clues
+Release Date: Sep 29, 2026
+Price: $5.15 (-14%, was $5.99)
+Genres: Indie, RPG, Simulation, Strategy
+Link: https://store.steampowered.com/app/3402660
+==================================================
+
+==================================================
+Name: A Wee Flee
+Release Date: Sep 29, 2026
+Price: Free to Play
+Genres: Casual, Free To Play
+Link: https://store.steampowered.com/app/4957450
+==================================================
+
+==================================================
+Name: The Wheelchair Man 2
+Release Date: Sep 29, 2026
+Price: $3.94 (-21%, was $4.99)
+Genres: Adventure
+Link: https://store.steampowered.com/app/4918300
+==================================================
+
+==================================================
+Name: Mountain Surfer Drone Racing Game
+Release Date: Sep 29, 2026
+Price: $9.74 (-35%, was $14.99)
+Genres: Action, Racing, Simulation
+Link: https://store.steampowered.com/app/4641670
+==================================================
+
+==================================================
+Name: Neighbors: Suburban Warfare
+Release Date: Sep 29, 2026
+Price: Free to Play
+Genres: Action, Casual, Indie, Strategy, Free To Play
+Link: https://store.steampowered.com/app/1732430
+==================================================
+
+==================================================
+Name: Baby Lemonade
+Release Date: Sep 29, 2026
+Price: $7.83 (-10%, was $8.70)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/4294950
+==================================================
+
+==================================================
+Name: Bullet Banshee
+Release Date: Sep 29, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/5065510
+==================================================
+
+==================================================
+Name: Needle In A Haystack
+Release Date: Sep 29, 2026
+Price: $5.09 (-15%, was $5.99)
+Genres: Casual, Simulation
+Link: https://store.steampowered.com/app/5085740
+==================================================
+
+==================================================
+Name: Transport Fever 3
+Release Date: Sep 29, 2026
+Price: $49.99
+Genres: Casual, Simulation, Strategy
+Link: https://store.steampowered.com/app/3493540
+==================================================
+
+==================================================
+Name: Cube Speedrunner
+Release Date: Sep 29, 2026
+Price: $2.69 (-10%, was $2.99)
+Genres: Action, Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/5249370
+==================================================
+
+==================================================
+Name: Epic Action Packs
+Release Date: Sep 29, 2026
+Price: $3.74 (-25%, was $4.99)
+Genres: Action, Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4629170
+==================================================
+
+==================================================
+Name: The Great Release
+Release Date: Sep 29, 2026
+Price: Free to Play
+Genres: Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/4814340
+==================================================
+
+==================================================
+Name: Dog in the Machine
+Release Date: Sep 29, 2026
+Price: $14.39 (-20%, was $17.99)
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/4613180
+==================================================
+
+==================================================
+Name: Tiny Flock
+Release Date: Sep 29, 2026
+Price: $15.00 (-21%, was $18.99)
+Genres: Adventure, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/3133010
+==================================================
+
+==================================================
+Name: Sort Them Guns: Tidy Up
+Release Date: Sep 29, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/5204840
+==================================================
+
+==================================================
+Name: Tempest Rising
+Release Date: Apr 24, 2025
+Price: $19.99 (-50%, was $39.99)
+Genres: Action, Strategy
+Link: https://store.steampowered.com/app/1486920
+==================================================
+
+==================================================
+Name: Paperstack
+Release Date: Sep 29, 2026
+Price: Free to Play
+Genres: Indie, Free To Play
+Link: https://store.steampowered.com/app/5114800
+==================================================
+
+==================================================
+Name: Gamer Stop Simulator
+Release Date: Sep 29, 2026
+Price: $7.79 (-40%, was $12.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/3499220
+==================================================
+
+==================================================
+Name: Despair
+Release Date: Sep 29, 2026
+Price: Free to Play
+Genres: Action, Free To Play
+Link: https://store.steampowered.com/app/4456120
+==================================================
+
+==================================================
+Name: Dicevaders
+Release Date: Sep 29, 2026
+Price: $13.49 (-10%, was $14.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/3917700
+==================================================
+
+==================================================
+Name: Nivalis Nights
+Release Date: Sep 29, 2026
+Price: $22.49 (-10%, was $24.99)
+Genres: Adventure, RPG, Simulation
+Link: https://store.steampowered.com/app/1488490
+==================================================
+
+==================================================
+Name: King's Guard
+Release Date: Sep 29, 2026
+Price: $4.79 (-20%, was $5.99)
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/3720900
+==================================================
+
