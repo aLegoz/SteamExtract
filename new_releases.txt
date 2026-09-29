@@ -87517,3 +87517,86 @@ Genres: Casual, Indie
 Link: https://store.steampowered.com/app/3175050
 ==================================================
 
+
+--- Run: 2026-09-29 00:41:07 --- (10 new game(s) found)
+
+==================================================
+Name: AI-VJ
+Release Date: Sep 28, 2026
+Price: Free to Play
+Genres: Indie, Free To Play, Animation & Modeling
+Link: https://store.steampowered.com/app/2893580
+==================================================
+
+==================================================
+Name: Sarge's Horrors
+Release Date: Sep 28, 2026
+Price: $6.99
+Genres: Action
+Link: https://store.steampowered.com/app/4708930
+==================================================
+
+==================================================
+Name: Arcane Eclipse: Survivors
+Release Date: Sep 28, 2026
+Price: $3.99
+Genres: Action, Casual, Indie, RPG
+Link: https://store.steampowered.com/app/5159390
+==================================================
+
+==================================================
+Name: Solarlapse
+Release Date: Sep 28, 2026
+Price: $2.79 (-20%, was $3.49)
+Genres: Racing
+Link: https://store.steampowered.com/app/5186900
+==================================================
+
+==================================================
+Name: Tughra: Seals of Empire
+Release Date: Sep 28, 2026
+Price: $4.44 (-10%, was $4.94)
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/5199900
+==================================================
+
+==================================================
+Name: Once In Sakartvelo: Out Of Service
+Release Date: Sep 28, 2026
+Price: $1.79 (-10%, was $1.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5096510
+==================================================
+
+==================================================
+Name: Galactic Mayhem
+Release Date: Sep 28, 2026
+Price: $2.99
+Genres: Action
+Link: https://store.steampowered.com/app/5121060
+==================================================
+
+==================================================
+Name: HAS With Friends
+Release Date: Sep 28, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Strategy
+Link: https://store.steampowered.com/app/5036540
+==================================================
+
+==================================================
+Name: Rewritten: Chasing History
+Release Date: Sep 28, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Adventure, Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/5003710
+==================================================
+
+==================================================
+Name: Jousting Around
+Release Date: Sep 28, 2026
+Price: $4.99
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4983950
+==================================================
+
