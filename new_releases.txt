@@ -88097,3 +88097,78 @@ Genres: Indie, Strategy
 Link: https://store.steampowered.com/app/3720900
 ==================================================
 
+
+--- Run: 2026-09-29 22:46:47 --- (9 new game(s) found)
+
+==================================================
+Name: Three Kingdoms: Blood Battle Mahjong
+Release Date: Sep 29, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/5219280
+==================================================
+
+==================================================
+Name: Remember to Die
+Release Date: Sep 29, 2026
+Price: $4.99
+Genres: Casual, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/4340400
+==================================================
+
+==================================================
+Name: Anna: The Series Test
+Release Date: Sep 29, 2026
+Price: Free to Play
+Genres: Adventure, Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/1515710
+==================================================
+
+==================================================
+Name: Universal Media Player - VR & Desktop
+Release Date: Sep 29, 2026
+Price: $3.99
+Genres: Utilities
+Link: https://store.steampowered.com/app/5195770
+==================================================
+
+==================================================
+Name: Aura battle simulator
+Release Date: Sep 29, 2026
+Price: Free to Play
+Genres: Action, Casual, Simulation, Free To Play
+Link: https://store.steampowered.com/app/5233900
+==================================================
+
+==================================================
+Name: KUNTEYNIR
+Release Date: Sep 29, 2026
+Price: $1.19 (-40%, was $1.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4491690
+==================================================
+
+==================================================
+Name: Maze of Thorns
+Release Date: Sep 29, 2026
+Price: $5.99 (-40%, was $9.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/5186650
+==================================================
+
+==================================================
+Name: Project - Labyrinth
+Release Date: Sep 29, 2026
+Price: $4.99
+Genres: Action, Adventure, Casual, RPG, Strategy
+Link: https://store.steampowered.com/app/4254090
+==================================================
+
+==================================================
+Name: Ear Cleaning Simulator
+Release Date: Sep 29, 2026
+Price: $1.95 (-15%, was $2.30)
+Genres: Simulation
+Link: https://store.steampowered.com/app/5009680
+==================================================
+
