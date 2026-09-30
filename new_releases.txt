@@ -88800,3 +88800,70 @@ Genres: Action, Adventure, Indie, Free To Play
 Link: https://store.steampowered.com/app/4502140
 ==================================================
 
+
+--- Run: 2026-09-30 23:16:30 --- (8 new game(s) found)
+
+==================================================
+Name: ShipCrafter
+Release Date: Sep 30, 2026
+Price: $7.99
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/3854870
+==================================================
+
+==================================================
+Name: Desktop Tower Survivor
+Release Date: Sep 30, 2026
+Price: Free to Play
+Genres: Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/4848460
+==================================================
+
+==================================================
+Name: Fickle Allies
+Release Date: Sep 30, 2026
+Price: $5.39 (-10%, was $5.99)
+Genres: Action, Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/5146720
+==================================================
+
+==================================================
+Name: HEATSINK
+Release Date: Sep 30, 2026
+Price: $7.64 (-15%, was $8.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/5222030
+==================================================
+
+==================================================
+Name: Bodian's Bay Wash
+Release Date: Sep 30, 2026
+Price: $9.99
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4740010
+==================================================
+
+==================================================
+Name: TRAWL
+Release Date: Sep 30, 2026
+Price: $3.74 (-25%, was $4.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/5044280
+==================================================
+
+==================================================
+Name: Redhowl
+Release Date: Sep 30, 2026
+Price: $5.99 (-25%, was $7.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/3873330
+==================================================
+
+==================================================
+Name: Airline Magnate
+Release Date: Sep 30, 2026
+Price: $4.99
+Genres: Simulation, Strategy
+Link: https://store.steampowered.com/app/5221110
+==================================================
+
