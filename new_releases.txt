@@ -88589,3 +88589,214 @@ Genres: Casual, Indie
 Link: https://store.steampowered.com/app/5256480
 ==================================================
 
+
+--- Run: 2026-09-30 19:42:45 --- (26 new game(s) found)
+
+==================================================
+Name: Chaos of the Realms
+Release Date: Sep 30, 2026
+Price: $4.99
+Genres: Action, Adventure, Casual, Indie, RPG
+Link: https://store.steampowered.com/app/4442360
+==================================================
+
+==================================================
+Name: VHS Chaos
+Release Date: Sep 30, 2026
+Price: $4.79 (-20%, was $5.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5142170
+==================================================
+
+==================================================
+Name: Pop 'Un Orc
+Release Date: Sep 30, 2026
+Price: $4.99
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4731880
+==================================================
+
+==================================================
+Name: Counter Clash
+Release Date: Sep 30, 2026
+Price: $9.99
+Genres: Action, Indie, Strategy
+Link: https://store.steampowered.com/app/2838160
+==================================================
+
+==================================================
+Name: The Crimson Scales
+Release Date: Sep 30, 2026
+Price: Free to Play
+Genres: Indie, RPG, Strategy, Free To Play
+Link: https://store.steampowered.com/app/5049800
+==================================================
+
+==================================================
+Name: RADIOSOL
+Release Date: Sep 30, 2026
+Price: $8.99
+Genres: Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/2934330
+==================================================
+
+==================================================
+Name: Gnomicide
+Release Date: Sep 30, 2026
+Price: $5.59 (-20%, was $6.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4970010
+==================================================
+
+==================================================
+Name: Pixel Lust: Hentai Girls Puzzle
+Release Date: Sep 30, 2026
+Price: $2.69 (-10%, was $2.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/5026820
+==================================================
+
+==================================================
+Name: Secret Glory Hole
+Release Date: Sep 30, 2026
+Price: $7.64 (-15%, was $8.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/3192650
+==================================================
+
+==================================================
+Name: Gundrobe: an Incremental Gun Builder
+Release Date: Sep 30, 2026
+Price: $2.79 (-30%, was $3.99)
+Genres: Action, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5213660
+==================================================
+
+==================================================
+Name: Deleted Wiki: Clean Up the Lost Files
+Release Date: Sep 30, 2026
+Price: $3.59 (-10%, was $3.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5204830
+==================================================
+
+==================================================
+Name: Swarm Idle
+Release Date: Sep 30, 2026
+Price: $4.99
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/5097630
+==================================================
+
+==================================================
+Name: Toymare
+Release Date: Sep 30, 2026
+Price: Free to Play
+Genres: Action, Casual, Indie, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4457450
+==================================================
+
+==================================================
+Name: Last Block Standing
+Release Date: Sep 30, 2026
+Price: $2.69 (-10%, was $2.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/5237200
+==================================================
+
+==================================================
+Name: Technoidium
+Release Date: Sep 30, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4673480
+==================================================
+
+==================================================
+Name: Speedway Club Manager 26
+Release Date: Sep 30, 2026
+Price: $20.39 (-15%, was $23.99)
+Genres: Racing, Sports
+Link: https://store.steampowered.com/app/4345470
+==================================================
+
+==================================================
+Name: 碧曦影韵(Pixi Vibe)
+Release Date: Sep 30, 2026
+Price: $0.99
+Genres: Casual
+Link: https://store.steampowered.com/app/5069430
+==================================================
+
+==================================================
+Name: 2D Factory
+Release Date: Sep 30, 2026
+Price: $9.59 (-20%, was $11.99)
+Genres: Adventure, Casual, Simulation, Strategy
+Link: https://store.steampowered.com/app/4953940
+==================================================
+
+==================================================
+Name: Super Brik Brik
+Release Date: Sep 30, 2026
+Price: Free to Play
+Genres: Casual, Free To Play
+Link: https://store.steampowered.com/app/5142580
+==================================================
+
+==================================================
+Name: Taskbar Slime: Tucked-Away Terrarium
+Release Date: Sep 30, 2026
+Price: $1.39 (-30%, was $1.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5124010
+==================================================
+
+==================================================
+Name: Growing My Manhole
+Release Date: Sep 30, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4415120
+==================================================
+
+==================================================
+Name: Cold Transit
+Release Date: Sep 30, 2026
+Price: $5.99
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4712740
+==================================================
+
+==================================================
+Name: Paws VS Paws
+Release Date: Sep 30, 2026
+Price: $4.49 (-25%, was $5.99)
+Genres: Strategy
+Link: https://store.steampowered.com/app/4013110
+==================================================
+
+==================================================
+Name: go Up
+Release Date: Sep 30, 2026
+Price: $2.29
+Genres: Adventure, Casual
+Link: https://store.steampowered.com/app/4953130
+==================================================
+
+==================================================
+Name: The Completionist: 1980-1989
+Release Date: Sep 30, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4590580
+==================================================
+
+==================================================
+Name: STAR TALE: Odyssey One
+Release Date: Sep 30, 2026
+Price: Free to Play
+Genres: Action, Adventure, Indie, Free To Play
+Link: https://store.steampowered.com/app/4502140
+==================================================
+
