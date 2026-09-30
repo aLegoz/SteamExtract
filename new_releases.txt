@@ -88370,3 +88370,222 @@ Genres: Casual, Indie, Simulation, Strategy
 Link: https://store.steampowered.com/app/4924820
 ==================================================
 
+
+--- Run: 2026-09-30 14:20:58 --- (27 new game(s) found)
+
+==================================================
+Name: Potassium Poisoning
+Release Date: Sep 30, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/5154040
+==================================================
+
+==================================================
+Name: Sacred Echoes
+Release Date: Sep 30, 2026
+Price: $8.24 (-25%, was $10.99)
+Genres: Action, Adventure
+Link: https://store.steampowered.com/app/4412510
+==================================================
+
+==================================================
+Name: Songs of Glimmerwick
+Release Date: Sep 30, 2026
+Price: $22.49 (-10%, was $24.99)
+Genres: Adventure, RPG
+Link: https://store.steampowered.com/app/1706510
+==================================================
+
+==================================================
+Name: Bad Dogs
+Release Date: Sep 30, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Action, Racing
+Link: https://store.steampowered.com/app/4958630
+==================================================
+
+==================================================
+Name: Mokete
+Release Date: Sep 30, 2026
+Price: $4.79 (-20%, was $5.99)
+Genres: Action, Adventure, Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/2598700
+==================================================
+
+==================================================
+Name: Okko The Exiled
+Release Date: Sep 30, 2026
+Price: $14.99
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/3479420
+==================================================
+
+==================================================
+Name: Futa Coloring Book
+Release Date: Sep 30, 2026
+Price: $1.99
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4558270
+==================================================
+
+==================================================
+Name: Deck of Stabs
+Release Date: Sep 30, 2026
+Price: $12.74 (-15%, was $14.99)
+Genres: Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/3658250
+==================================================
+
+==================================================
+Name: SwissBaha Game Assistant
+Release Date: Sep 30, 2026
+Price: $2.09 (-30%, was $2.99)
+Genres: Utilities
+Link: https://store.steampowered.com/app/5042580
+==================================================
+
+==================================================
+Name: The Blessed Fool
+Release Date: Sep 30, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Indie
+Link: https://store.steampowered.com/app/3396560
+==================================================
+
+==================================================
+Name: Void Beserk
+Release Date: Sep 30, 2026
+Price: $8.99 (-40%, was $14.99)
+Genres: Adventure, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4881960
+==================================================
+
+==================================================
+Name: Snack Factory Together - Prologue
+Release Date: Sep 30, 2026
+Price: Free to Play
+Genres: Casual, Indie, Simulation, Free To Play
+Link: https://store.steampowered.com/app/4895330
+==================================================
+
+==================================================
+Name: ■■になってくれませんか？
+Release Date: Sep 30, 2026
+Price: $1.59 (-20%, was $1.99)
+Genres: Simulation
+Link: https://store.steampowered.com/app/4962190
+==================================================
+
+==================================================
+Name: Creator Shelter
+Release Date: Sep 30, 2026
+Price: Free to Play
+Genres: Indie, Simulation, Strategy, Free To Play
+Link: https://store.steampowered.com/app/5070220
+==================================================
+
+==================================================
+Name: Jump Or Drown
+Release Date: Sep 30, 2026
+Price: $5.39 (-10%, was $5.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/4296160
+==================================================
+
+==================================================
+Name: Eternal Swordsmith
+Release Date: Sep 30, 2026
+Price: $11.04 (-15%, was $12.99)
+Genres: Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/5070640
+==================================================
+
+==================================================
+Name: VESSELS: Noiret Mansion
+Release Date: Sep 30, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/4884960
+==================================================
+
+==================================================
+Name: Digging A Hole In Ice With A Chainsaw
+Release Date: Sep 30, 2026
+Price: $2.99 (-40%, was $4.99)
+Genres: Adventure, Casual, Simulation
+Link: https://store.steampowered.com/app/3958210
+==================================================
+
+==================================================
+Name: Mahou Shoujo Escape
+Release Date: Sep 30, 2026
+Price: $2.39 (-20%, was $2.99)
+Genres: Casual, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/3230470
+==================================================
+
+==================================================
+Name: Memory Wastes
+Release Date: Sep 30, 2026
+Price: Free to Play
+Genres: Adventure, Indie, RPG, Strategy, Free To Play
+Link: https://store.steampowered.com/app/5247380
+==================================================
+
+==================================================
+Name: Shelfbound
+Release Date: Sep 30, 2026
+Price: $2.69 (-10%, was $2.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5255880
+==================================================
+
+==================================================
+Name: Bonki D Bonk
+Release Date: Sep 30, 2026
+Price: $4.19 (-40%, was $6.99)
+Genres: Action
+Link: https://store.steampowered.com/app/4596250
+==================================================
+
+==================================================
+Name: Match 3 Labyrinth
+Release Date: Sep 30, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4165370
+==================================================
+
+==================================================
+Name: Taskbar Armory
+Release Date: Sep 30, 2026
+Price: Free to Play
+Genres: Casual, Indie, RPG, Simulation, Strategy, Free To Play
+Link: https://store.steampowered.com/app/5226040
+==================================================
+
+==================================================
+Name: Princess Maker: Children of Revelation
+Release Date: Sep 30, 2026
+Price: $27.99 (-20%, was $34.99)
+Genres: Simulation
+Link: https://store.steampowered.com/app/3438810
+==================================================
+
+==================================================
+Name: 67
+Release Date: Sep 30, 2026
+Price: $0.59 (-40%, was $0.99)
+Genres: Casual, Indie, RPG, Simulation, Strategy
+Link: https://store.steampowered.com/app/5228240
+==================================================
+
+==================================================
+Name: Little Sister
+Release Date: Sep 30, 2026
+Price: $0.79 (-20%, was $0.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5256480
+==================================================
+
