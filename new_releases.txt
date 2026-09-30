@@ -88207,3 +88207,166 @@ Genres: Casual, Indie, Simulation
 Link: https://store.steampowered.com/app/4988150
 ==================================================
 
+
+--- Run: 2026-09-30 07:36:43 --- (20 new game(s) found)
+
+==================================================
+Name: Lost Liminal:Prologue
+Release Date: Sep 29, 2026
+Price: Free to Play
+Genres: Adventure, Indie, Free To Play
+Link: https://store.steampowered.com/app/5187710
+==================================================
+
+==================================================
+Name: GoatCart
+Release Date: Sep 29, 2026
+Price: Free to Play
+Genres: Action, Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/4869180
+==================================================
+
+==================================================
+Name: Boxcutter
+Release Date: Sep 29, 2026
+Price: $5.09 (-15%, was $5.99)
+Genres: Action, Adventure
+Link: https://store.steampowered.com/app/4020370
+==================================================
+
+==================================================
+Name: Fruit Fetish
+Release Date: Sep 29, 2026
+Price: $4.25 (-15%, was $5.00)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4376740
+==================================================
+
+==================================================
+Name: The War Disorder Hexa
+Release Date: Sep 29, 2026
+Price: $10.39 (-20%, was $12.99)
+Genres: Adventure
+Link: https://store.steampowered.com/app/4301910
+==================================================
+
+==================================================
+Name: CRAFTLANDER
+Release Date: Sep 29, 2026
+Price: Free to Play
+Genres: Action, Adventure, Indie, Simulation, Free To Play
+Link: https://store.steampowered.com/app/5051720
+==================================================
+
+==================================================
+Name: Lone Mining Engineer 
+Release Date: Sep 29, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/4612540
+==================================================
+
+==================================================
+Name: The Long Graze
+Release Date: Sep 29, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Adventure
+Link: https://store.steampowered.com/app/5179030
+==================================================
+
+==================================================
+Name: Cohen 1939
+Release Date: Sep 29, 2026
+Price: $13.49 (-10%, was $14.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/3582120
+==================================================
+
+==================================================
+Name: CLINK
+Release Date: Sep 29, 2026
+Price: $8.24 (-25%, was $10.99)
+Genres: Action
+Link: https://store.steampowered.com/app/5116180
+==================================================
+
+==================================================
+Name: Little Gable Studio
+Release Date: Sep 29, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5044540
+==================================================
+
+==================================================
+Name: Wall Escaper: Stream Sabotage
+Release Date: Sep 29, 2026
+Price: $17.99 (-10%, was $19.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/4070710
+==================================================
+
+==================================================
+Name: Wheel Estate
+Release Date: Sep 29, 2026
+Price: $4.99
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/5134720
+==================================================
+
+==================================================
+Name: Westner Hero 8
+Release Date: Sep 29, 2026
+Price: $2.54 (-15%, was $2.99)
+Genres: Action, Indie, RPG, Simulation, Strategy
+Link: https://store.steampowered.com/app/5214280
+==================================================
+
+==================================================
+Name: ForgeTax
+Release Date: Sep 29, 2026
+Price: $2.99
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/5245810
+==================================================
+
+==================================================
+Name: LEAF
+Release Date: Sep 29, 2026
+Price: $3.60 (-10%, was $4.00)
+Genres: Action, Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4324030
+==================================================
+
+==================================================
+Name: Otpisani: Nightingale
+Release Date: Sep 29, 2026
+Price: $2.99
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/4708680
+==================================================
+
+==================================================
+Name: Late Checkout
+Release Date: Sep 29, 2026
+Price: $4.99
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/5134130
+==================================================
+
+==================================================
+Name: Granny Horror House
+Release Date: Sep 29, 2026
+Price: $4.99
+Genres: Action, Adventure, Indie, Strategy
+Link: https://store.steampowered.com/app/5028210
+==================================================
+
+==================================================
+Name: Space Civilization Clicker
+Release Date: Sep 29, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4924820
+==================================================
+
