@@ -88172,3 +88172,38 @@ Genres: Simulation
 Link: https://store.steampowered.com/app/5009680
 ==================================================
 
+
+--- Run: 2026-09-30 01:41:41 --- (4 new game(s) found)
+
+==================================================
+Name: Shinjuku Anomaly
+Release Date: Sep 29, 2026
+Price: $3.59 (-10%, was $3.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/3386350
+==================================================
+
+==================================================
+Name: Cicada Communication
+Release Date: Sep 29, 2026
+Price: $19.99 (-20%, was $24.99)
+Genres: Adventure, Casual
+Link: https://store.steampowered.com/app/3500590
+==================================================
+
+==================================================
+Name: Loophole: The Prison Break
+Release Date: Sep 29, 2026
+Price: $4.99
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4323880
+==================================================
+
+==================================================
+Name: Kitsune Waifu
+Release Date: Sep 29, 2026
+Price: $2.06 (-31%, was $2.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4988150
+==================================================
+
