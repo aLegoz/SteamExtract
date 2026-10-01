@@ -89324,3 +89324,150 @@ Genres: Adventure, Indie
 Link: https://store.steampowered.com/app/4311440
 ==================================================
 
+
+--- Run: 2026-10-01 21:28:20 --- (18 new game(s) found)
+
+==================================================
+Name: Simple Squares
+Release Date: Oct 1, 2026
+Price: $4.99
+Genres: Indie
+Link: https://store.steampowered.com/app/4611290
+==================================================
+
+==================================================
+Name: Pinched
+Release Date: Oct 1, 2026
+Price: $4.49 (-25%, was $5.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4906170
+==================================================
+
+==================================================
+Name: Manita
+Release Date: Oct 1, 2026
+Price: $2.00
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4096920
+==================================================
+
+==================================================
+Name: OZARK
+Release Date: Oct 1, 2026
+Price: $9.98 (-26%, was $13.49)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/1130380
+==================================================
+
+==================================================
+Name: KKUL-TTEOK!
+Release Date: Oct 1, 2026
+Price: $4.54 (-35%, was $6.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/5029890
+==================================================
+
+==================================================
+Name: Super Chillers: The Chat Room
+Release Date: Oct 1, 2026
+Price: $6.79 (-15%, was $7.99)
+Genres: Adventure
+Link: https://store.steampowered.com/app/3129150
+==================================================
+
+==================================================
+Name: HACK & BURST
+Release Date: Oct 1, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Action, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4944680
+==================================================
+
+==================================================
+Name: Whistling at Night
+Release Date: Oct 1, 2026
+Price: Free to Play
+Genres: Casual, Indie, Simulation, Free To Play
+Link: https://store.steampowered.com/app/4570370
+==================================================
+
+==================================================
+Name: Transmission: Shortwave
+Release Date: Oct 1, 2026
+Price: $6.29 (-10%, was $6.99)
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/4348970
+==================================================
+
+==================================================
+Name: Lustfire Escape
+Release Date: Oct 1, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Action
+Link: https://store.steampowered.com/app/4045050
+==================================================
+
+==================================================
+Name: Sweet Lake
+Release Date: Oct 1, 2026
+Price: Free to Play
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4853530
+==================================================
+
+==================================================
+Name: Minute Man
+Release Date: Oct 1, 2026
+Price: $2.99 (-40%, was $4.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/3670900
+==================================================
+
+==================================================
+Name: Eclesiar
+Release Date: Oct 1, 2026
+Price: Free to Play
+Genres: Indie, Massively Multiplayer, RPG, Simulation, Free To Play
+Link: https://store.steampowered.com/app/4962560
+==================================================
+
+==================================================
+Name: Gus Game
+Release Date: Oct 1, 2026
+Price: Free to Play
+Genres: Action, Casual, Indie, Strategy, Free To Play
+Link: https://store.steampowered.com/app/2407780
+==================================================
+
+==================================================
+Name: Crown Of Blight
+Release Date: Oct 1, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Action, Adventure, RPG
+Link: https://store.steampowered.com/app/4713190
+==================================================
+
+==================================================
+Name: It's Titanic 3
+Release Date: Oct 1, 2026
+Price: $2.79 (-20%, was $3.49)
+Genres: Simulation
+Link: https://store.steampowered.com/app/5052890
+==================================================
+
+==================================================
+Name: The Depths of Despair
+Release Date: Oct 1, 2026
+Price: $10.79 (-10%, was $11.99)
+Genres: Action, Adventure, RPG
+Link: https://store.steampowered.com/app/2976770
+==================================================
+
+==================================================
+Name: Floppy Desk
+Release Date: Oct 1, 2026
+Price: $2.09 (-30%, was $2.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4643400
+==================================================
+
