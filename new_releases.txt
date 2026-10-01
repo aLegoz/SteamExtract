@@ -88934,3 +88934,182 @@ Genres: Action, Casual, Indie
 Link: https://store.steampowered.com/app/5109530
 ==================================================
 
+
+--- Run: 2026-10-01 09:31:36 --- (22 new game(s) found)
+
+==================================================
+Name: Climb Up Together
+Release Date: Oct 1, 2026
+Price: $0.49 (-51%, was $0.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/5239210
+==================================================
+
+==================================================
+Name: MXGP 26 - The Official Game
+Release Date: Oct 1, 2026
+Price: $49.99
+Genres: Racing, Simulation, Sports
+Link: https://store.steampowered.com/app/3634190
+==================================================
+
+==================================================
+Name: Elsewar
+Release Date: Oct 1, 2026
+Price: $12.99
+Genres: Casual, Strategy
+Link: https://store.steampowered.com/app/4629760
+==================================================
+
+==================================================
+Name: Hexed
+Release Date: Oct 1, 2026
+Price: $2.99
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4969240
+==================================================
+
+==================================================
+Name: I Love Dog
+Release Date: Oct 1, 2026
+Price: Free to Play
+Genres: Adventure, Indie, Free To Play
+Link: https://store.steampowered.com/app/5093980
+==================================================
+
+==================================================
+Name: Prehistoric toybox
+Release Date: Oct 1, 2026
+Price: $2.99
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/5257370
+==================================================
+
+==================================================
+Name: autocycle-light
+Release Date: Oct 1, 2026
+Price: Free to Play
+Genres: Action, Free To Play
+Link: https://store.steampowered.com/app/4955820
+==================================================
+
+==================================================
+Name: deal with the deep
+Release Date: Sep 30, 2026
+Price: Free to Play
+Genres: Adventure, Indie, Strategy, Free To Play
+Link: https://store.steampowered.com/app/5209180
+==================================================
+
+==================================================
+Name: Prediction Error
+Release Date: Sep 30, 2026
+Price: Free to Play
+Genres: Adventure, Indie, Free To Play
+Link: https://store.steampowered.com/app/5227780
+==================================================
+
+==================================================
+Name: Oath of Stigmata
+Release Date: Sep 30, 2026
+Price: $6.29 (-10%, was $6.99)
+Genres: Adventure, RPG, Strategy
+Link: https://store.steampowered.com/app/5178000
+==================================================
+
+==================================================
+Name: Marcel Pagnol and the Secret Spring
+Release Date: Sep 30, 2026
+Price: $6.29 (-30%, was $8.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4007920
+==================================================
+
+==================================================
+Name: 声韵之恋
+Release Date: Sep 30, 2026
+Price: $6.29 (-10%, was $6.99)
+Genres: Casual, RPG
+Link: https://store.steampowered.com/app/4375880
+==================================================
+
+==================================================
+Name: Beta Bar
+Release Date: Sep 30, 2026
+Price: $4.79 (-40%, was $7.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4904950
+==================================================
+
+==================================================
+Name: Watatuyo-ANOTHER
+Release Date: Sep 30, 2026
+Price: $1.79 (-10%, was $1.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4406710
+==================================================
+
+==================================================
+Name: MA 3 – President Simulator
+Release Date: Sep 30, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Action, Adventure, Strategy
+Link: https://store.steampowered.com/app/4896760
+==================================================
+
+==================================================
+Name: Pantheon Tactics
+Release Date: Sep 30, 2026
+Price: Free to Play
+Genres: Indie, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4929050
+==================================================
+
+==================================================
+Name: Sculpturillo
+Release Date: Sep 30, 2026
+Price: $4.00
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5114580
+==================================================
+
+==================================================
+Name: Chromascape
+Release Date: Sep 30, 2026
+Price: $9.59 (-20%, was $11.99)
+Genres: Adventure
+Link: https://store.steampowered.com/app/4214800
+==================================================
+
+==================================================
+Name: CRYING BOOTH
+Release Date: Sep 30, 2026
+Price: $6.29 (-10%, was $6.99)
+Genres: Action, Adventure, Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/2351740
+==================================================
+
+==================================================
+Name: Deep Space Idle: Frontier Era
+Release Date: Sep 30, 2026
+Price: $1.59 (-20%, was $1.99)
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/5193380
+==================================================
+
+==================================================
+Name: Floor Wiping Race
+Release Date: Sep 30, 2026
+Price: $2.99 (-40%, was $4.99)
+Genres: Action, Casual, Indie, Racing
+Link: https://store.steampowered.com/app/5189750
+==================================================
+
+==================================================
+Name: Soup Weather
+Release Date: Sep 30, 2026
+Price: $5.00
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4430190
+==================================================
+
