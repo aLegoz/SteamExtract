@@ -89113,3 +89113,214 @@ Genres: Adventure, Indie
 Link: https://store.steampowered.com/app/4430190
 ==================================================
 
+
+--- Run: 2026-10-01 16:45:37 --- (26 new game(s) found)
+
+==================================================
+Name: Sous Raccoon
+Release Date: Oct 1, 2026
+Price: $14.99
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/3919140
+==================================================
+
+==================================================
+Name: Ceniza - Tower Defense
+Release Date: Oct 1, 2026
+Price: $6.99
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/4630130
+==================================================
+
+==================================================
+Name: Huckleberry Fields Forever
+Release Date: Oct 1, 2026
+Price: Free to Play
+Genres: Action, Adventure, Indie, Free To Play
+Link: https://store.steampowered.com/app/1560480
+==================================================
+
+==================================================
+Name: Medal Mania: Coin Pusher
+Release Date: Oct 1, 2026
+Price: $6.00 (-20%, was $7.50)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5079290
+==================================================
+
+==================================================
+Name: My Desktop Cat
+Release Date: Oct 1, 2026
+Price: Free to Play
+Genres: Casual, Indie, Simulation, Free To Play
+Link: https://store.steampowered.com/app/5031490
+==================================================
+
+==================================================
+Name: Emojix
+Release Date: Oct 1, 2026
+Price: $3.74 (-25%, was $4.99)
+Genres: Adventure, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5221540
+==================================================
+
+==================================================
+Name: Rever4 OCHIRO
+Release Date: Oct 1, 2026
+Price: Free to Play
+Genres: Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/5220200
+==================================================
+
+==================================================
+Name: State Of Fear: The Final Shift
+Release Date: Oct 1, 2026
+Price: $2.69 (-10%, was $2.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/5133640
+==================================================
+
+==================================================
+Name: What Is The Ghost
+Release Date: Oct 1, 2026
+Price: $5.99 (-25%, was $7.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/3929260
+==================================================
+
+==================================================
+Name: RetroSpace
+Release Date: Oct 1, 2026
+Price: $17.99 (-10%, was $19.99)
+Genres: Action, Adventure, Indie, RPG, Simulation
+Link: https://store.steampowered.com/app/2067820
+==================================================
+
+==================================================
+Name: Pressure Works
+Release Date: Oct 1, 2026
+Price: $4.99
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5133090
+==================================================
+
+==================================================
+Name: Le Shampoo War II
+Release Date: Oct 1, 2026
+Price: Free to Play
+Genres: Action, Casual, Indie, RPG, Free To Play
+Link: https://store.steampowered.com/app/5077960
+==================================================
+
+==================================================
+Name: C4: Classical Caliber Combat Contest
+Release Date: Oct 1, 2026
+Price: $7.19 (-10%, was $7.99)
+Genres: Action
+Link: https://store.steampowered.com/app/3339490
+==================================================
+
+==================================================
+Name: BANNER PROTOCOL
+Release Date: Oct 1, 2026
+Price: $3.24 (-35%, was $4.99)
+Genres: Strategy
+Link: https://store.steampowered.com/app/5174580
+==================================================
+
+==================================================
+Name: Tech Survivor
+Release Date: Oct 1, 2026
+Price: $2.99
+Genres: Casual, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/4484530
+==================================================
+
+==================================================
+Name: Corner Miner
+Release Date: Oct 1, 2026
+Price: $2.79 (-20%, was $3.49)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4990210
+==================================================
+
+==================================================
+Name: So Close
+Release Date: Oct 1, 2026
+Price: $5.87 (-20%, was $7.34)
+Genres: Action, Adventure, Casual, Strategy
+Link: https://store.steampowered.com/app/4944470
+==================================================
+
+==================================================
+Name: Muchi Muchi Pork! & PinkSweets Boosted
+Release Date: Oct 1, 2026
+Price: $35.99 (-10%, was $39.99)
+Genres: Action
+Link: https://store.steampowered.com/app/4229200
+==================================================
+
+==================================================
+Name: Cricket Team Manager
+Release Date: Oct 1, 2026
+Price: $14.99 (-25%, was $19.99)
+Genres: Indie, Simulation, Sports, Strategy
+Link: https://store.steampowered.com/app/5034440
+==================================================
+
+==================================================
+Name: Better Chaos
+Release Date: Oct 1, 2026
+Price: $3.59 (-10%, was $3.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5138000
+==================================================
+
+==================================================
+Name: Pawsweeper
+Release Date: Oct 1, 2026
+Price: $2.69 (-10%, was $2.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/5094130
+==================================================
+
+==================================================
+Name: Jiggle Jugs
+Release Date: Oct 1, 2026
+Price: $2.99
+Genres: Casual
+Link: https://store.steampowered.com/app/5203160
+==================================================
+
+==================================================
+Name: LeadFall
+Release Date: Oct 1, 2026
+Price: $5.94 (-15%, was $6.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4839790
+==================================================
+
+==================================================
+Name: Fantasia Sango
+Release Date: Oct 1, 2026
+Price: $10.79 (-10%, was $11.99)
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/5208810
+==================================================
+
+==================================================
+Name: 族譜
+Release Date: Oct 1, 2026
+Price: Free to Play
+Genres: Strategy, Free To Play
+Link: https://store.steampowered.com/app/4600100
+==================================================
+
+==================================================
+Name: Carry The Count
+Release Date: Oct 1, 2026
+Price: $13.49 (-25%, was $17.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4311440
+==================================================
+
