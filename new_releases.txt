@@ -88867,3 +88867,70 @@ Genres: Simulation, Strategy
 Link: https://store.steampowered.com/app/5221110
 ==================================================
 
+
+--- Run: 2026-10-01 02:45:39 --- (8 new game(s) found)
+
+==================================================
+Name: CRABRUN
+Release Date: Sep 30, 2026
+Price: $3.19 (-20%, was $3.99)
+Genres: Action
+Link: https://store.steampowered.com/app/4633560
+==================================================
+
+==================================================
+Name: DYNASTY WARRIORS 3: Complete Edition Remastered
+Release Date: Sep 30, 2026
+Price: $39.99
+Genres: Action, RPG, Strategy
+Link: https://store.steampowered.com/app/3841510
+==================================================
+
+==================================================
+Name: The Calamity Trials
+Release Date: Sep 30, 2026
+Price: Free to Play
+Genres: Action, Simulation, Free To Play
+Link: https://store.steampowered.com/app/3877630
+==================================================
+
+==================================================
+Name: Water Droplet Simulator
+Release Date: Sep 30, 2026
+Price: $5.09 (-15%, was $5.99)
+Genres: Adventure, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4435360
+==================================================
+
+==================================================
+Name: By the GODS
+Release Date: Sep 30, 2026
+Price: $3.99
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/5243030
+==================================================
+
+==================================================
+Name: Hundred Fires: OPEN VECTOR — Episode 1
+Release Date: Sep 30, 2026
+Price: $5.60 (-20%, was $7.00)
+Genres: Action, Adventure, Indie, Strategy
+Link: https://store.steampowered.com/app/5106690
+==================================================
+
+==================================================
+Name: Arrow Simulator
+Release Date: Sep 30, 2026
+Price: $4.00
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5139800
+==================================================
+
+==================================================
+Name: Vitro : Bloodstream
+Release Date: Sep 30, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/5109530
+==================================================
+
