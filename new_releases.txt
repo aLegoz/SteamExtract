@@ -90027,3 +90027,102 @@ Genres: Casual, Indie, Strategy
 Link: https://store.steampowered.com/app/4958470
 ==================================================
 
+
+--- Run: 2026-10-02 23:22:00 --- (12 new game(s) found)
+
+==================================================
+Name: Your First Half-Orc: A Fantasy Gay Sex Encounter in VR
+Release Date: Oct 2, 2026
+Price: $9.99
+Genres: Simulation
+Link: https://store.steampowered.com/app/4739740
+==================================================
+
+==================================================
+Name: Birb
+Release Date: Oct 2, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4364930
+==================================================
+
+==================================================
+Name: Major Mutt
+Release Date: Oct 2, 2026
+Price: Free to Play
+Genres: Action, Free To Play
+Link: https://store.steampowered.com/app/4408990
+==================================================
+
+==================================================
+Name: Super Gem Shatter
+Release Date: Oct 2, 2026
+Price: $5.00
+Genres: Indie
+Link: https://store.steampowered.com/app/4555730
+==================================================
+
+==================================================
+Name: Deer Hunting - The Season 2
+Release Date: Oct 2, 2026
+Price: $20.00
+Genres: Adventure, Simulation, Sports
+Link: https://store.steampowered.com/app/5158320
+==================================================
+
+==================================================
+Name: Factorized
+Release Date: Oct 2, 2026
+Price: Free to Play
+Genres: Action, Indie, Free To Play
+Link: https://store.steampowered.com/app/5230410
+==================================================
+
+==================================================
+Name: The Vessel
+Release Date: Oct 2, 2026
+Price: $2.39 (-20%, was $2.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/5228590
+==================================================
+
+==================================================
+Name: Mane, Tekel, Fares
+Release Date: Oct 2, 2026
+Price: $3.59 (-10%, was $3.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/5246800
+==================================================
+
+==================================================
+Name: Sandcastle Battle
+Release Date: Oct 2, 2026
+Price: $2.39 (-20%, was $2.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5179130
+==================================================
+
+==================================================
+Name: GODSPEED
+Release Date: Oct 2, 2026
+Price: $6.29 (-10%, was $6.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/5119800
+==================================================
+
+==================================================
+Name: Same Time Tomorrow
+Release Date: Oct 2, 2026
+Price: $1.99
+Genres: Indie
+Link: https://store.steampowered.com/app/5059400
+==================================================
+
+==================================================
+Name: My Catgirl Waifu
+Release Date: Oct 2, 2026
+Price: $4.14 (-17%, was $4.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5089030
+==================================================
+
