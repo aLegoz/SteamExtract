@@ -89471,3 +89471,70 @@ Genres: Casual, Indie, Strategy
 Link: https://store.steampowered.com/app/4643400
 ==================================================
 
+
+--- Run: 2026-10-02 01:09:21 --- (8 new game(s) found)
+
+==================================================
+Name: One Thought Immortal / 一念修仙
+Release Date: Oct 1, 2026
+Price: $7.99
+Genres: Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/4977250
+==================================================
+
+==================================================
+Name: Opi Popi
+Release Date: Oct 1, 2026
+Price: Free to Play
+Genres: Adventure, Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/5026630
+==================================================
+
+==================================================
+Name: Lucid Rumination
+Release Date: Oct 1, 2026
+Price: Free to Play
+Genres: Action, Indie, RPG, Free To Play
+Link: https://store.steampowered.com/app/5023450
+==================================================
+
+==================================================
+Name: ACE COMBAT 8: WINGS OF THEVE
+Release Date: Oct 1, 2026
+Price: $69.99
+Genres: Action
+Link: https://store.steampowered.com/app/2288340
+==================================================
+
+==================================================
+Name: Smart Translator
+Release Date: Oct 1, 2026
+Price: $5.99 (-40%, was $9.99)
+Genres: Casual, Indie, Audio Production, Utilities, Video Production
+Link: https://store.steampowered.com/app/4987360
+==================================================
+
+==================================================
+Name: Monster Ops 23
+Release Date: Oct 1, 2026
+Price: $4.99
+Genres: Casual
+Link: https://store.steampowered.com/app/3853260
+==================================================
+
+==================================================
+Name: Crow's Curated Closet - Shop Simulator
+Release Date: Oct 1, 2026
+Price: $4.79 (-20%, was $5.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4565100
+==================================================
+
+==================================================
+Name: Rakshas
+Release Date: Oct 1, 2026
+Price: $0.99
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/3236810
+==================================================
+
