@@ -89848,3 +89848,182 @@ Genres: Casual, Indie, Utilities
 Link: https://store.steampowered.com/app/4377310
 ==================================================
 
+
+--- Run: 2026-10-02 19:37:34 --- (22 new game(s) found)
+
+==================================================
+Name: Painted Crowns
+Release Date: Oct 2, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Action
+Link: https://store.steampowered.com/app/5192590
+==================================================
+
+==================================================
+Name: Manaphore
+Release Date: Oct 2, 2026
+Price: Free to Play
+Genres: Indie, Simulation, Free To Play
+Link: https://store.steampowered.com/app/5242820
+==================================================
+
+==================================================
+Name: Dream Simulators
+Release Date: Oct 2, 2026
+Price: Free to Play
+Genres: Simulation, Free To Play
+Link: https://store.steampowered.com/app/4820100
+==================================================
+
+==================================================
+Name: Monster Museum: Tidy Up the collection!
+Release Date: Oct 2, 2026
+Price: $5.39 (-10%, was $5.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4998990
+==================================================
+
+==================================================
+Name: Clickore Station
+Release Date: Oct 2, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/5209210
+==================================================
+
+==================================================
+Name: Game Keeper: Somebody Messed Up My Shop!
+Release Date: Oct 2, 2026
+Price: $7.19 (-10%, was $7.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/5186690
+==================================================
+
+==================================================
+Name: Obstacle Overdrive
+Release Date: Oct 2, 2026
+Price: $13.49 (-10%, was $14.99)
+Genres: Casual, Indie, Racing, Simulation
+Link: https://store.steampowered.com/app/3412490
+==================================================
+
+==================================================
+Name: Keepshore
+Release Date: Oct 2, 2026
+Price: Free to Play
+Genres: Casual, Simulation, Strategy, Free To Play
+Link: https://store.steampowered.com/app/5083090
+==================================================
+
+==================================================
+Name: Tidy Up the Flower Shop
+Release Date: Oct 2, 2026
+Price: $5.39 (-10%, was $5.99)
+Genres: Casual, Simulation
+Link: https://store.steampowered.com/app/5221510
+==================================================
+
+==================================================
+Name: From Beyond: Arcade Edition
+Release Date: Oct 2, 2026
+Price: $4.79 (-20%, was $5.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4803460
+==================================================
+
+==================================================
+Name: Origin Hunt
+Release Date: Oct 2, 2026
+Price: $10.07 (-28%, was $13.99)
+Genres: Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/5113400
+==================================================
+
+==================================================
+Name: DUAL PROTOCOL: The Case of Eva & Miles
+Release Date: Oct 2, 2026
+Price: $6.74 (-25%, was $8.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/4660280
+==================================================
+
+==================================================
+Name: Crack the Pack
+Release Date: Oct 2, 2026
+Price: $2.69 (-10%, was $2.99)
+Genres: Action, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4614210
+==================================================
+
+==================================================
+Name: Coloniam
+Release Date: Oct 2, 2026
+Price: Free to Play
+Genres: Massively Multiplayer, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4705440
+==================================================
+
+==================================================
+Name: MAMIO : Don't Fall !
+Release Date: Oct 2, 2026
+Price: $3.39 (-15%, was $3.99)
+Genres: Action, Adventure
+Link: https://store.steampowered.com/app/4858900
+==================================================
+
+==================================================
+Name: Let's Tidy Up! : Treasure
+Release Date: Oct 2, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Simulation
+Link: https://store.steampowered.com/app/5023770
+==================================================
+
+==================================================
+Name: Beautiful Spores
+Release Date: Oct 2, 2026
+Price: $7.19 (-10%, was $7.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4666490
+==================================================
+
+==================================================
+Name: Intravenous 3: Borderline
+Release Date: Oct 2, 2026
+Price: Free to Play
+Genres: Action, Adventure, Simulation, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4890770
+==================================================
+
+==================================================
+Name: Spencer's Spaghetti Quest
+Release Date: Oct 2, 2026
+Price: Free to Play
+Genres: Action, Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/3877570
+==================================================
+
+==================================================
+Name: Blackout
+Release Date: Oct 2, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5229750
+==================================================
+
+==================================================
+Name: Golazo: Arcade Football Cup
+Release Date: Oct 2, 2026
+Price: $4.99
+Genres: Action, Sports
+Link: https://store.steampowered.com/app/5207090
+==================================================
+
+==================================================
+Name: MarbleGo
+Release Date: Oct 2, 2026
+Price: $0.84 (-15%, was $0.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4958470
+==================================================
+
