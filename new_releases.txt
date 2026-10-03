@@ -90153,3 +90153,62 @@ Genres: Action, Casual, Indie, Simulation
 Link: https://store.steampowered.com/app/4548340
 ==================================================
 
+
+--- Run: 2026-10-03 08:38:45 --- (7 new game(s) found)
+
+==================================================
+Name: Dreamspring
+Release Date: Oct 2, 2026
+Price: $12.59 (-10%, was $13.99)
+Genres: Action, Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/3231480
+==================================================
+
+==================================================
+Name: GENERAL IDLER
+Release Date: Oct 2, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/3200810
+==================================================
+
+==================================================
+Name: SimRace Publisher Studio
+Release Date: Oct 2, 2026
+Price: $26.99 (-10%, was $29.99)
+Genres: Simulation, Utilities, Video Production, Web Publishing
+Link: https://store.steampowered.com/app/5219510
+==================================================
+
+==================================================
+Name: Tunnel Escape Fates Entwined
+Release Date: Oct 2, 2026
+Price: $15.99 (-20%, was $19.99)
+Genres: Action, Adventure, RPG
+Link: https://store.steampowered.com/app/4285110
+==================================================
+
+==================================================
+Name: Spaceman's Luck
+Release Date: Oct 2, 2026
+Price: $6.99 (-30%, was $9.99)
+Genres: Strategy
+Link: https://store.steampowered.com/app/4706030
+==================================================
+
+==================================================
+Name: In These Hallowed Halls
+Release Date: Oct 2, 2026
+Price: $7.99
+Genres: Adventure
+Link: https://store.steampowered.com/app/4875320
+==================================================
+
+==================================================
+Name: Rorasuketo
+Release Date: Oct 2, 2026
+Price: $2.99 (-25%, was $3.99)
+Genres: Casual, Indie, RPG
+Link: https://store.steampowered.com/app/4401480
+==================================================
+
