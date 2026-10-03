@@ -90338,3 +90338,22 @@ Genres: Casual, Indie, Strategy
 Link: https://store.steampowered.com/app/5267360
 ==================================================
 
+
+--- Run: 2026-10-03 21:52:10 --- (2 new game(s) found)
+
+==================================================
+Name: Draw Alive: Fish
+Release Date: Oct 3, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Casual, Simulation
+Link: https://store.steampowered.com/app/5006170
+==================================================
+
+==================================================
+Name: Clash of Crests
+Release Date: Oct 2, 2026
+Price: $9.99
+Genres: Action, Adventure, Casual, Strategy
+Link: https://store.steampowered.com/app/4600990
+==================================================
+
