@@ -90126,3 +90126,30 @@ Genres: Casual, Indie
 Link: https://store.steampowered.com/app/5089030
 ==================================================
 
+
+--- Run: 2026-10-03 02:35:39 --- (3 new game(s) found)
+
+==================================================
+Name: Stick Cards RNG
+Release Date: Oct 2, 2026
+Price: Free to Play
+Genres: Action, Indie, Simulation, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4611600
+==================================================
+
+==================================================
+Name: Get To Orbit
+Release Date: Oct 2, 2026
+Price: $3.59 (-10%, was $3.99)
+Genres: Casual, Simulation
+Link: https://store.steampowered.com/app/5130440
+==================================================
+
+==================================================
+Name: GYROGUE
+Release Date: Oct 2, 2026
+Price: $5.39 (-10%, was $5.99)
+Genres: Action, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4548340
+==================================================
+
