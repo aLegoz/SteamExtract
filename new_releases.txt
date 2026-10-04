@@ -90513,3 +90513,54 @@ Genres: RPG, Simulation
 Link: https://store.steampowered.com/app/4898210
 ==================================================
 
+
+--- Run: 2026-10-04 20:33:43 --- (6 new game(s) found)
+
+==================================================
+Name: Piworld
+Release Date: Oct 4, 2026
+Price: Free to Play
+Genres: Adventure, Indie, Massively Multiplayer, Simulation, Free To Play
+Link: https://store.steampowered.com/app/3167710
+==================================================
+
+==================================================
+Name: Corpse Sea Defense
+Release Date: Oct 4, 2026
+Price: $2.00
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/5240670
+==================================================
+
+==================================================
+Name: Auris
+Release Date: Oct 4, 2026
+Price: $9.99
+Genres: Audio Production, Utilities
+Link: https://store.steampowered.com/app/4902690
+==================================================
+
+==================================================
+Name: Catventure
+Release Date: Oct 4, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/4459980
+==================================================
+
+==================================================
+Name: PostApo
+Release Date: Oct 4, 2026
+Price: $0.49 (-51%, was $0.99)
+Genres: Action, Adventure, Massively Multiplayer, RPG, Simulation, Strategy
+Link: https://store.steampowered.com/app/2216510
+==================================================
+
+==================================================
+Name: Discard
+Release Date: Oct 3, 2026
+Price: $9.99
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5014030
+==================================================
+
