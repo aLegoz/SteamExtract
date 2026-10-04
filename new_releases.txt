@@ -90564,3 +90564,78 @@ Genres: Casual, Indie
 Link: https://store.steampowered.com/app/5014030
 ==================================================
 
+
+--- Run: 2026-10-04 23:39:50 --- (9 new game(s) found)
+
+==================================================
+Name: FussyCraft Survival: Sandbox
+Release Date: Oct 4, 2026
+Price: $1.19 (-70%, was $3.99)
+Genres: Action, Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/4729900
+==================================================
+
+==================================================
+Name: ChessXpanse
+Release Date: Oct 4, 2026
+Price: Free to Play
+Genres: Casual, Strategy, Free To Play
+Link: https://store.steampowered.com/app/3308260
+==================================================
+
+==================================================
+Name: Banana Clicker
+Release Date: Oct 4, 2026
+Price: $7.99
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/2322080
+==================================================
+
+==================================================
+Name: Jump Bait
+Release Date: Oct 4, 2026
+Price: $1.69 (-15%, was $1.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4772220
+==================================================
+
+==================================================
+Name: Private Mining Company
+Release Date: Oct 4, 2026
+Price: $5.99 (-25%, was $7.99)
+Genres: Strategy
+Link: https://store.steampowered.com/app/2957160
+==================================================
+
+==================================================
+Name: Tunnel Brawl
+Release Date: Oct 4, 2026
+Price: $9.99
+Genres: Action, Indie, Strategy
+Link: https://store.steampowered.com/app/5052280
+==================================================
+
+==================================================
+Name: Dumpling Delight
+Release Date: Oct 4, 2026
+Price: $3.00
+Genres: Casual, Strategy
+Link: https://store.steampowered.com/app/5139970
+==================================================
+
+==================================================
+Name: CURSORLOOM
+Release Date: Oct 4, 2026
+Price: $2.32 (-20%, was $2.90)
+Genres: Design & Illustration, Utilities
+Link: https://store.steampowered.com/app/5268080
+==================================================
+
+==================================================
+Name: Wickling
+Release Date: Oct 4, 2026
+Price: $13.49 (-10%, was $14.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/5225460
+==================================================
+
