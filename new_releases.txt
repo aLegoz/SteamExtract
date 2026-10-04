@@ -90357,3 +90357,14 @@ Genres: Action, Adventure, Casual, Strategy
 Link: https://store.steampowered.com/app/4600990
 ==================================================
 
+
+--- Run: 2026-10-04 00:10:45 --- (1 new game(s) found)
+
+==================================================
+Name: Demon Lord: Clicker
+Release Date: Oct 3, 2026
+Price: Free to Play
+Genres: Adventure, Casual, RPG, Simulation, Strategy, Free To Play
+Link: https://store.steampowered.com/app/1742110
+==================================================
+
