@@ -90454,3 +90454,62 @@ Genres: Adventure, RPG, Simulation, Free To Play
 Link: https://store.steampowered.com/app/5136270
 ==================================================
 
+
+--- Run: 2026-10-04 17:09:00 --- (7 new game(s) found)
+
+==================================================
+Name: BEYOND XII
+Release Date: Oct 4, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/5182380
+==================================================
+
+==================================================
+Name: Touhou: BlackEight
+Release Date: Oct 4, 2026
+Price: $2.99
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/5008530
+==================================================
+
+==================================================
+Name: LUPKAR - World of Billiards
+Release Date: Oct 4, 2026
+Price: $7.64 (-15%, was $8.99)
+Genres: Massively Multiplayer, Simulation, Sports
+Link: https://store.steampowered.com/app/5036340
+==================================================
+
+==================================================
+Name: 灵兽问道-MythicalBeast
+Release Date: Oct 4, 2026
+Price: $9.99
+Genres: Adventure, Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/5234170
+==================================================
+
+==================================================
+Name: The Demon Lurking in Osaka Castle – Episode 1
+Release Date: Oct 4, 2026
+Price: $2.69 (-10%, was $2.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/5268550
+==================================================
+
+==================================================
+Name: Go
+Release Date: Oct 3, 2026
+Price: $7.99
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/5233540
+==================================================
+
+==================================================
+Name: The Fortress Within
+Release Date: Oct 3, 2026
+Price: $1.99
+Genres: RPG, Simulation
+Link: https://store.steampowered.com/app/4898210
+==================================================
+
