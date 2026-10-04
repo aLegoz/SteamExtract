@@ -90403,3 +90403,54 @@ Genres: RPG, Strategy
 Link: https://store.steampowered.com/app/4131310
 ==================================================
 
+
+--- Run: 2026-10-04 12:54:43 --- (6 new game(s) found)
+
+==================================================
+Name: Jolly Roger Jam: Cathraul's Curse
+Release Date: Oct 4, 2026
+Price: $10.00
+Genres: Action
+Link: https://store.steampowered.com/app/5235210
+==================================================
+
+==================================================
+Name: HEARKEN
+Release Date: Oct 4, 2026
+Price: $4.99
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/5087210
+==================================================
+
+==================================================
+Name: Snow War
+Release Date: Oct 3, 2026
+Price: $1.99 (-50%, was $3.99)
+Genres: Action
+Link: https://store.steampowered.com/app/1585100
+==================================================
+
+==================================================
+Name: Hazard Ready
+Release Date: Oct 3, 2026
+Price: Free to Play
+Genres: Indie, Simulation, Free To Play
+Link: https://store.steampowered.com/app/5261710
+==================================================
+
+==================================================
+Name: Gentle Night
+Release Date: Oct 3, 2026
+Price: $4.99
+Genres: Adventure, Casual, Indie, RPG
+Link: https://store.steampowered.com/app/4546070
+==================================================
+
+==================================================
+Name: Washington in Blood
+Release Date: Oct 3, 2026
+Price: Free to Play
+Genres: Adventure, RPG, Simulation, Free To Play
+Link: https://store.steampowered.com/app/5136270
+==================================================
+
