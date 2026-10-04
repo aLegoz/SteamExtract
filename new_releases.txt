@@ -90368,3 +90368,38 @@ Genres: Adventure, Casual, RPG, Simulation, Strategy, Free To Play
 Link: https://store.steampowered.com/app/1742110
 ==================================================
 
+
+--- Run: 2026-10-04 06:28:43 --- (4 new game(s) found)
+
+==================================================
+Name: New Frontier9
+Release Date: Oct 3, 2026
+Price: $3.19 (-20%, was $3.99)
+Genres: Action, Strategy
+Link: https://store.steampowered.com/app/5116740
+==================================================
+
+==================================================
+Name: Take Me in Totality
+Release Date: Oct 3, 2026
+Price: $4.19 (-40%, was $6.99)
+Genres: Adventure, Simulation
+Link: https://store.steampowered.com/app/5117090
+==================================================
+
+==================================================
+Name: Nobody Clocks Out
+Release Date: Oct 3, 2026
+Price: $6.29 (-10%, was $6.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/5262000
+==================================================
+
+==================================================
+Name: Lucid.sys
+Release Date: Oct 3, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: RPG, Strategy
+Link: https://store.steampowered.com/app/4131310
+==================================================
+
