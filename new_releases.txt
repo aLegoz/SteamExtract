@@ -90650,3 +90650,70 @@ Genres: Casual, Indie
 Link: https://store.steampowered.com/app/5239340
 ==================================================
 
+
+--- Run: 2026-10-05 09:42:08 --- (8 new game(s) found)
+
+==================================================
+Name: Idle: Shuguang's Alchemy Store
+Release Date: Oct 5, 2026
+Price: $2.39 (-20%, was $2.99)
+Genres: Casual, Simulation, Strategy
+Link: https://store.steampowered.com/app/4246730
+==================================================
+
+==================================================
+Name: The Listener
+Release Date: Oct 5, 2026
+Price: Free to Play
+Genres: Casual, Simulation, Free To Play
+Link: https://store.steampowered.com/app/4840240
+==================================================
+
+==================================================
+Name: Horror In Santa Land
+Release Date: Oct 5, 2026
+Price: $1.79 (-40%, was $2.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/5281760
+==================================================
+
+==================================================
+Name: MugiPunch
+Release Date: Oct 4, 2026
+Price: $2.54 (-15%, was $2.99)
+Genres: Action, Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4617970
+==================================================
+
+==================================================
+Name: Jono
+Release Date: Oct 4, 2026
+Price: Free to Play
+Genres: Casual, Indie, Massively Multiplayer, Free To Play
+Link: https://store.steampowered.com/app/5257200
+==================================================
+
+==================================================
+Name: Chamele-Guess
+Release Date: Oct 4, 2026
+Price: $4.99
+Genres: Casual
+Link: https://store.steampowered.com/app/5142570
+==================================================
+
+==================================================
+Name: Rabbit Simulator
+Release Date: Oct 4, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Action, Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/2343380
+==================================================
+
+==================================================
+Name: MORROWTAPE
+Release Date: Oct 4, 2026
+Price: $13.49 (-10%, was $14.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/5225470
+==================================================
+
