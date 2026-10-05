@@ -90717,3 +90717,222 @@ Genres: Adventure, Indie
 Link: https://store.steampowered.com/app/5225470
 ==================================================
 
+
+--- Run: 2026-10-05 18:56:20 --- (27 new game(s) found)
+
+==================================================
+Name: Veillombre
+Release Date: Oct 5, 2026
+Price: $9.99
+Genres: Indie
+Link: https://store.steampowered.com/app/4914240
+==================================================
+
+==================================================
+Name: GACHA AND SLEEP
+Release Date: Oct 5, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/2101640
+==================================================
+
+==================================================
+Name: Stickility
+Release Date: Oct 5, 2026
+Price: $11.89 (-15%, was $13.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/3419140
+==================================================
+
+==================================================
+Name: Midwest Goodbye
+Release Date: Oct 5, 2026
+Price: Free to Play
+Genres: Indie, Free To Play
+Link: https://store.steampowered.com/app/4917250
+==================================================
+
+==================================================
+Name: THE MIDNIGHT QUEENS 2
+Release Date: Oct 5, 2026
+Price: $2.99
+Genres: RPG, Strategy
+Link: https://store.steampowered.com/app/5223280
+==================================================
+
+==================================================
+Name: ShiGuang
+Release Date: Oct 5, 2026
+Price: $17.99 (-10%, was $19.99)
+Genres: Photo Editing
+Link: https://store.steampowered.com/app/5083650
+==================================================
+
+==================================================
+Name: Corridors
+Release Date: Oct 5, 2026
+Price: $0.89 (-10%, was $0.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5271960
+==================================================
+
+==================================================
+Name: OverBlocked
+Release Date: Oct 5, 2026
+Price: $4.99
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5144390
+==================================================
+
+==================================================
+Name: Sandburied
+Release Date: Oct 5, 2026
+Price: $1.99
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5239020
+==================================================
+
+==================================================
+Name: Chesspath Dungeon
+Release Date: Oct 5, 2026
+Price: $2.79 (-30%, was $3.99)
+Genres: Adventure, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/1869060
+==================================================
+
+==================================================
+Name: Chill Cat
+Release Date: Oct 5, 2026
+Price: $1.00
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4838690
+==================================================
+
+==================================================
+Name: Garden of the Dead
+Release Date: Oct 5, 2026
+Price: $7.49 (-25%, was $9.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/5244710
+==================================================
+
+==================================================
+Name: CROVA CHAIN
+Release Date: Oct 5, 2026
+Price: $3.99
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5208960
+==================================================
+
+==================================================
+Name: Ping Ball!
+Release Date: Oct 5, 2026
+Price: $1.79 (-10%, was $1.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5218430
+==================================================
+
+==================================================
+Name: Gear Puzzle: the inheritance of grandpa
+Release Date: Oct 5, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/1114230
+==================================================
+
+==================================================
+Name: AION 2
+Release Date: Oct 5, 2026
+Price: Free to Play
+Genres: Action, Adventure, Massively Multiplayer, RPG, Free To Play
+Link: https://store.steampowered.com/app/3393110
+==================================================
+
+==================================================
+Name: Halloween Trouble 8 Collector's Edition
+Release Date: Oct 5, 2026
+Price: $14.99
+Genres: Casual
+Link: https://store.steampowered.com/app/5207370
+==================================================
+
+==================================================
+Name: Vacation Adventures: Cruise Director Mega Bundle 1
+Release Date: Oct 5, 2026
+Price: $14.99
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/5052460
+==================================================
+
+==================================================
+Name: Halloween: Trick or Treat
+Release Date: Oct 5, 2026
+Price: $6.99
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/5063960
+==================================================
+
+==================================================
+Name: 寻真仙侠传
+Release Date: Oct 5, 2026
+Price: $2.99
+Genres: RPG
+Link: https://store.steampowered.com/app/5116960
+==================================================
+
+==================================================
+Name: Novo: The Colony
+Release Date: Oct 5, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Strategy
+Link: https://store.steampowered.com/app/4991220
+==================================================
+
+==================================================
+Name: Catkin Hollow: The Moonbell Mystery
+Release Date: Oct 5, 2026
+Price: $4.99
+Genres: Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/5238890
+==================================================
+
+==================================================
+Name: NTR Onsen Trip2
+Release Date: Oct 5, 2026
+Price: $21.24 (-15%, was $24.99)
+Genres: Adventure
+Link: https://store.steampowered.com/app/4906010
+==================================================
+
+==================================================
+Name: Demonfall
+Release Date: Oct 5, 2026
+Price: $8.39 (-30%, was $11.99)
+Genres: Action
+Link: https://store.steampowered.com/app/3453010
+==================================================
+
+==================================================
+Name: Chefarzt
+Release Date: Oct 5, 2026
+Price: $17.69 (-40%, was $29.49)
+Genres: Adventure, Casual, RPG, Simulation, Sports, Strategy
+Link: https://store.steampowered.com/app/5220450
+==================================================
+
+==================================================
+Name: HOUSE OF FEAR
+Release Date: Oct 5, 2026
+Price: $1.79 (-10%, was $1.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/5220870
+==================================================
+
+==================================================
+Name: Prison Break: Thirty Walls
+Release Date: Oct 5, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Action, Indie, Strategy
+Link: https://store.steampowered.com/app/5257510
+==================================================
+
