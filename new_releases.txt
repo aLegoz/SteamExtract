@@ -90639,3 +90639,14 @@ Genres: Action, Adventure, Indie
 Link: https://store.steampowered.com/app/5225460
 ==================================================
 
+
+--- Run: 2026-10-05 02:40:20 --- (1 new game(s) found)
+
+==================================================
+Name: Hexcavate
+Release Date: Oct 4, 2026
+Price: $4.19 (-40%, was $6.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5239340
+==================================================
+
