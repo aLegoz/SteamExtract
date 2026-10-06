@@ -91273,3 +91273,158 @@ Genres: Casual, Indie
 Link: https://store.steampowered.com/app/5240380
 ==================================================
 
+
+--- Run: 2026-10-06 19:10:35 --- (19 new game(s) found)
+
+==================================================
+Name: TUNG
+Release Date: Oct 6, 2026
+Price: Free to Play
+Genres: Action, Indie, Free To Play
+Link: https://store.steampowered.com/app/4341400
+==================================================
+
+==================================================
+Name: Teryon Crisis
+Release Date: Oct 6, 2026
+Price: $12.74 (-15%, was $14.99)
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/5265230
+==================================================
+
+==================================================
+Name: Lostbound
+Release Date: Oct 6, 2026
+Price: $4.89 (-30%, was $6.99)
+Genres: Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/4588320
+==================================================
+
+==================================================
+Name: The Call Button
+Release Date: Oct 6, 2026
+Price: $5.39 (-10%, was $5.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4584180
+==================================================
+
+==================================================
+Name: Infinite Chess
+Release Date: Oct 6, 2026
+Price: $6.99
+Genres: Strategy
+Link: https://store.steampowered.com/app/5216780
+==================================================
+
+==================================================
+Name: Gravebound Rising
+Release Date: Oct 6, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Action, Casual, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/5087060
+==================================================
+
+==================================================
+Name: Flappy Wings Multiplayer
+Release Date: Oct 6, 2026
+Price: $0.59 (-40%, was $0.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5269790
+==================================================
+
+==================================================
+Name: Fsh
+Release Date: Oct 6, 2026
+Price: $7.99
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/4444200
+==================================================
+
+==================================================
+Name: The Road Remembers
+Release Date: Oct 6, 2026
+Price: $8.39 (-30%, was $11.99)
+Genres: Indie, RPG
+Link: https://store.steampowered.com/app/5280030
+==================================================
+
+==================================================
+Name: Gears of War: E-Day
+Release Date: Oct 6, 2026
+Price: $69.99
+Genres: Action, Adventure
+Link: https://store.steampowered.com/app/3010850
+==================================================
+
+==================================================
+Name: Tunica Terror
+Release Date: Oct 6, 2026
+Price: $8.49 (-15%, was $9.99)
+Genres: Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/4814760
+==================================================
+
+==================================================
+Name: Floating Frontiers
+Release Date: Oct 6, 2026
+Price: $5.09 (-15%, was $5.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4034080
+==================================================
+
+==================================================
+Name: Pinball Chemist
+Release Date: Oct 6, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4197500
+==================================================
+
+==================================================
+Name: Toy Shire
+Release Date: Oct 6, 2026
+Price: $4.99 (-50%, was $9.99)
+Genres: Action, Strategy
+Link: https://store.steampowered.com/app/2361460
+==================================================
+
+==================================================
+Name: STAtIC
+Release Date: Oct 6, 2026
+Price: $1.70
+Genres: Action, Adventure, Casual
+Link: https://store.steampowered.com/app/2097640
+==================================================
+
+==================================================
+Name: Idle Pixel Maids
+Release Date: Oct 6, 2026
+Price: $4.79 (-20%, was $5.99)
+Genres: Indie
+Link: https://store.steampowered.com/app/5017140
+==================================================
+
+==================================================
+Name: Tower of Fangs: Summoned to Another World, I Was Locked in a Tower with 299 Strikers, Only the Last Egoist Goes Home
+Release Date: Oct 6, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Indie, RPG, Sports
+Link: https://store.steampowered.com/app/5285560
+==================================================
+
+==================================================
+Name: Kapuritto-kyu Mini Game Collection 2
+Release Date: Oct 6, 2026
+Price: $1.99
+Genres: Action
+Link: https://store.steampowered.com/app/5235180
+==================================================
+
+==================================================
+Name: Furnished
+Release Date: Oct 6, 2026
+Price: $5.39 (-10%, was $5.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5224920
+==================================================
+
