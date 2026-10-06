@@ -90936,3 +90936,118 @@ Genres: Action, Indie, Strategy
 Link: https://store.steampowered.com/app/5257510
 ==================================================
 
+
+--- Run: 2026-10-06 00:26:04 --- (14 new game(s) found)
+
+==================================================
+Name: Deadly Force
+Release Date: Oct 5, 2026
+Price: Free to Play
+Genres: Action, Free To Play
+Link: https://store.steampowered.com/app/5161590
+==================================================
+
+==================================================
+Name: In Your Hands
+Release Date: Oct 5, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/5193580
+==================================================
+
+==================================================
+Name: Pogo Gnom
+Release Date: Oct 5, 2026
+Price: Free to Play
+Genres: Action, Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/5128520
+==================================================
+
+==================================================
+Name: Bering Tonnage
+Release Date: Oct 5, 2026
+Price: $16.99 (-15%, was $19.99)
+Genres: Simulation, Strategy
+Link: https://store.steampowered.com/app/4610080
+==================================================
+
+==================================================
+Name: Starbloom Ranch
+Release Date: Oct 5, 2026
+Price: Free to Play
+Genres: Action, Adventure, Casual, Indie, RPG, Simulation, Strategy, Free To Play
+Link: https://store.steampowered.com/app/5237770
+==================================================
+
+==================================================
+Name: Night Study
+Release Date: Oct 5, 2026
+Price: $1.69 (-15%, was $1.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5278370
+==================================================
+
+==================================================
+Name: Stolemates
+Release Date: Oct 5, 2026
+Price: Free to Play
+Genres: Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/4761400
+==================================================
+
+==================================================
+Name: Drone n Gone
+Release Date: Oct 5, 2026
+Price: $4.79 (-20%, was $5.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4930810
+==================================================
+
+==================================================
+Name: Bloody Bunny 3D
+Release Date: Oct 5, 2026
+Price: $5.99 (-25%, was $7.99)
+Genres: Action, Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/3892280
+==================================================
+
+==================================================
+Name: Sinever: First Seal
+Release Date: Oct 5, 2026
+Price: $7.19 (-10%, was $7.99)
+Genres: Action, Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/5001350
+==================================================
+
+==================================================
+Name: Solo Cultivation 独修
+Release Date: Oct 5, 2026
+Price: $8.82 (-10%, was $9.80)
+Genres: Action, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/3878440
+==================================================
+
+==================================================
+Name: Ascendant's Roguelike
+Release Date: Oct 5, 2026
+Price: $0.89 (-10%, was $0.99)
+Genres: Indie, RPG
+Link: https://store.steampowered.com/app/2350190
+==================================================
+
+==================================================
+Name: Ragnar Goes Fishing
+Release Date: Oct 5, 2026
+Price: $2.99
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5207630
+==================================================
+
+==================================================
+Name: Mega Exile
+Release Date: Oct 5, 2026
+Price: $5.99
+Genres: Action, Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/5253190
+==================================================
+
