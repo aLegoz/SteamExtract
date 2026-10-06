@@ -91428,3 +91428,54 @@ Genres: Casual, Indie, Simulation
 Link: https://store.steampowered.com/app/5224920
 ==================================================
 
+
+--- Run: 2026-10-06 23:23:58 --- (6 new game(s) found)
+
+==================================================
+Name: Dry Powder
+Release Date: Oct 6, 2026
+Price: Free to Play
+Genres: Simulation
+Link: https://store.steampowered.com/app/5229970
+==================================================
+
+==================================================
+Name: Plates of Peril
+Release Date: Oct 6, 2026
+Price: $4.99
+Genres: Action, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/3451820
+==================================================
+
+==================================================
+Name: CRETA: Taskbar Fishing
+Release Date: Oct 6, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5064260
+==================================================
+
+==================================================
+Name: Prison Escape io
+Release Date: Oct 6, 2026
+Price: $2.99 (-40%, was $4.99)
+Genres: Adventure, Casual, Massively Multiplayer, Simulation
+Link: https://store.steampowered.com/app/3583470
+==================================================
+
+==================================================
+Name: Mile High Walkout
+Release Date: Oct 6, 2026
+Price: $4.19 (-40%, was $6.99)
+Genres: Adventure, Simulation
+Link: https://store.steampowered.com/app/5136190
+==================================================
+
+==================================================
+Name: HB Evolution
+Release Date: Oct 6, 2026
+Price: Free to Play
+Genres: Action, Indie, Massively Multiplayer, RPG, Free To Play
+Link: https://store.steampowered.com/app/5243580
+==================================================
+
