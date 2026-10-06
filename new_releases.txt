@@ -91051,3 +91051,118 @@ Genres: Action, Adventure, Indie, RPG
 Link: https://store.steampowered.com/app/5253190
 ==================================================
 
+
+--- Run: 2026-10-06 06:57:41 --- (14 new game(s) found)
+
+==================================================
+Name: Empty Inbox
+Release Date: Oct 5, 2026
+Price: $2.99
+Genres: Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/5178990
+==================================================
+
+==================================================
+Name: DEADLINE: LAST CHECKPOINT
+Release Date: Oct 5, 2026
+Price: $5.39 (-10%, was $5.99)
+Genres: Action
+Link: https://store.steampowered.com/app/5261340
+==================================================
+
+==================================================
+Name: 10CountAvoidance
+Release Date: Oct 5, 2026
+Price: Free to Play
+Genres: Action, Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/4120530
+==================================================
+
+==================================================
+Name: A.I.ttorney
+Release Date: Oct 5, 2026
+Price: $0.69 (-30%, was $0.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4355070
+==================================================
+
+==================================================
+Name: 女神：守護之約(Norn Saber : The Guardian's Oath)
+Release Date: Oct 5, 2026
+Price: Free to Play
+Genres: Massively Multiplayer, RPG, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4030680
+==================================================
+
+==================================================
+Name: King's Cup: The online multiplayer drinking game
+Release Date: Oct 5, 2026
+Price: $2.99 (-40%, was $4.99)
+Genres: Casual, Simulation
+Link: https://store.steampowered.com/app/1506610
+==================================================
+
+==================================================
+Name: Idle Miner
+Release Date: Oct 5, 2026
+Price: $3.39 (-15%, was $3.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5255350
+==================================================
+
+==================================================
+Name: Chase The Number
+Release Date: Oct 5, 2026
+Price: $1.99
+Genres: Simulation, Strategy
+Link: https://store.steampowered.com/app/5274390
+==================================================
+
+==================================================
+Name: Werfast
+Release Date: Oct 5, 2026
+Price: $14.99
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/4763960
+==================================================
+
+==================================================
+Name: VoidFall
+Release Date: Oct 5, 2026
+Price: $9.99
+Genres: Action
+Link: https://store.steampowered.com/app/4632760
+==================================================
+
+==================================================
+Name: SightSplice
+Release Date: Oct 5, 2026
+Price: $4.05 (-10%, was $4.50)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5226480
+==================================================
+
+==================================================
+Name: 宗门轮回
+Release Date: Oct 5, 2026
+Price: $2.79 (-30%, was $3.99)
+Genres: Casual, Simulation
+Link: https://store.steampowered.com/app/5207060
+==================================================
+
+==================================================
+Name: Sudoku Girls: Hawaii Vacation
+Release Date: Oct 5, 2026
+Price: $12.74 (-15%, was $14.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4946070
+==================================================
+
+==================================================
+Name: KiosuneVN
+Release Date: Oct 5, 2026
+Price: $9.99
+Genres: Audio Production, Design & Illustration, Utilities, Game Development
+Link: https://store.steampowered.com/app/5273430
+==================================================
+
