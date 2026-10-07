@@ -91800,3 +91800,142 @@ Genres: Action, Adventure, Casual, Indie, RPG
 Link: https://store.steampowered.com/app/5271060
 ==================================================
 
+
+--- Run: 2026-10-07 22:21:46 --- (17 new game(s) found)
+
+==================================================
+Name: The Boogeyman
+Release Date: Oct 7, 2026
+Price: $3.99
+Genres: Adventure
+Link: https://store.steampowered.com/app/5218490
+==================================================
+
+==================================================
+Name: Starjaunt
+Release Date: Oct 7, 2026
+Price: $5.99 (-40%, was $9.99)
+Genres: Action, Adventure, Indie, RPG, Simulation, Strategy
+Link: https://store.steampowered.com/app/5104090
+==================================================
+
+==================================================
+Name: Raccoon Valley Tycoon
+Release Date: Oct 7, 2026
+Price: $2.69 (-10%, was $2.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/3814730
+==================================================
+
+==================================================
+Name: Royal Cartographer: Restore the Map
+Release Date: Oct 7, 2026
+Price: $5.09 (-15%, was $5.99)
+Genres: Simulation
+Link: https://store.steampowered.com/app/5087780
+==================================================
+
+==================================================
+Name: Cyberfrags '69
+Release Date: Oct 7, 2026
+Price: Free to Play
+Genres: Action, Free To Play
+Link: https://store.steampowered.com/app/1674270
+==================================================
+
+==================================================
+Name: Incremental Woods
+Release Date: Oct 7, 2026
+Price: $2.09 (-30%, was $2.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5145290
+==================================================
+
+==================================================
+Name: Final Targets
+Release Date: Oct 7, 2026
+Price: $2.99
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/5266520
+==================================================
+
+==================================================
+Name: PinoVMT
+Release Date: Oct 7, 2026
+Price: Free to Play
+Genres: Free To Play, Utilities
+Link: https://store.steampowered.com/app/5269170
+==================================================
+
+==================================================
+Name: SPAM
+Release Date: Oct 7, 2026
+Price: Free to Play
+Genres: RPG, Strategy, Free To Play
+Link: https://store.steampowered.com/app/2902720
+==================================================
+
+==================================================
+Name: Cyber Cleaner Simulator
+Release Date: Oct 7, 2026
+Price: $6.39 (-20%, was $7.99)
+Genres: Action, Simulation
+Link: https://store.steampowered.com/app/3807650
+==================================================
+
+==================================================
+Name: Majhi
+Release Date: Oct 7, 2026
+Price: $1.99
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4890650
+==================================================
+
+==================================================
+Name: Super Macabre Madness
+Release Date: Oct 7, 2026
+Price: $3.99
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/5291680
+==================================================
+
+==================================================
+Name: Hentai Femboy Maid
+Release Date: Oct 7, 2026
+Price: $4.79 (-20%, was $5.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5246610
+==================================================
+
+==================================================
+Name: Office God
+Release Date: Oct 7, 2026
+Price: $6.99 (-30%, was $9.99)
+Genres: Casual, Simulation, Strategy
+Link: https://store.steampowered.com/app/5293110
+==================================================
+
+==================================================
+Name: Skyturns
+Release Date: Oct 7, 2026
+Price: $10.04 (-33%, was $14.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/5267430
+==================================================
+
+==================================================
+Name: Do you remember?
+Release Date: Oct 7, 2026
+Price: $3.19 (-20%, was $3.99)
+Genres: Action, Adventure, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4891640
+==================================================
+
+==================================================
+Name: Milk and Pixels: A Cozy Brick Breaker
+Release Date: Oct 7, 2026
+Price: $2.69 (-10%, was $2.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5230810
+==================================================
+
