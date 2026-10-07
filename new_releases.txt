@@ -91506,3 +91506,102 @@ Genres: Casual, Indie, Simulation, Strategy
 Link: https://store.steampowered.com/app/5208470
 ==================================================
 
+
+--- Run: 2026-10-07 09:44:19 --- (12 new game(s) found)
+
+==================================================
+Name: Hex Reverse
+Release Date: Oct 7, 2026
+Price: Free to Play
+Genres: Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/5257350
+==================================================
+
+==================================================
+Name: Mopet Studio
+Release Date: Oct 7, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Indie, Animation & Modeling, Design & Illustration, Utilities
+Link: https://store.steampowered.com/app/4718320
+==================================================
+
+==================================================
+Name: Horde Arena
+Release Date: Oct 7, 2026
+Price: $8.49 (-15%, was $9.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/3561610
+==================================================
+
+==================================================
+Name: [WoG] War of Genesis: Idle Loot
+Release Date: Oct 7, 2026
+Price: Free to Play
+Genres: Action, Casual, RPG, Free To Play
+Link: https://store.steampowered.com/app/4891320
+==================================================
+
+==================================================
+Name: Half Body Duo
+Release Date: Oct 7, 2026
+Price: $2.09 (-30%, was $2.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/5207880
+==================================================
+
+==================================================
+Name: MageTender
+Release Date: Oct 6, 2026
+Price: Free to Play
+Genres: Casual, Indie, Simulation, Free To Play
+Link: https://store.steampowered.com/app/4709570
+==================================================
+
+==================================================
+Name: Three Kingdoms: Rival Mandates
+Release Date: Oct 6, 2026
+Price: $9.99
+Genres: Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/5259450
+==================================================
+
+==================================================
+Name: RaidKids
+Release Date: Oct 6, 2026
+Price: $5.39 (-10%, was $5.99)
+Genres: Action, Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/2505670
+==================================================
+
+==================================================
+Name: Mouse Shooter FPS
+Release Date: Oct 6, 2026
+Price: $1.99
+Genres: Casual, Utilities
+Link: https://store.steampowered.com/app/5244690
+==================================================
+
+==================================================
+Name: Motorbay Tycoon
+Release Date: Oct 6, 2026
+Price: $39.99
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5284560
+==================================================
+
+==================================================
+Name: Midnight Gunwatch
+Release Date: Oct 6, 2026
+Price: $39.99
+Genres: Action, Indie, Strategy
+Link: https://store.steampowered.com/app/5275630
+==================================================
+
+==================================================
+Name: Paunchy Pets
+Release Date: Oct 6, 2026
+Price: $7.19 (-40%, was $11.99)
+Genres: Action, Casual, Indie, RPG, Simulation
+Link: https://store.steampowered.com/app/4052150
+==================================================
+
