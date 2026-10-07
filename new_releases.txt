@@ -91605,3 +91605,198 @@ Genres: Action, Casual, Indie, RPG, Simulation
 Link: https://store.steampowered.com/app/4052150
 ==================================================
 
+
+--- Run: 2026-10-07 17:03:51 --- (24 new game(s) found)
+
+==================================================
+Name: Diamonds & Destruction
+Release Date: Oct 7, 2026
+Price: $6.29 (-10%, was $6.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5247840
+==================================================
+
+==================================================
+Name: Insomnia
+Release Date: Oct 7, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/3450300
+==================================================
+
+==================================================
+Name: PokerLines
+Release Date: Oct 7, 2026
+Price: $1.59 (-20%, was $1.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/2894770
+==================================================
+
+==================================================
+Name: Dr. Mancell and Mr. Flame
+Release Date: Oct 7, 2026
+Price: Free to Play
+Genres: Action, Casual, Free To Play
+Link: https://store.steampowered.com/app/5301420
+==================================================
+
+==================================================
+Name: Borrowed Sight
+Release Date: Oct 7, 2026
+Price: $2.69 (-10%, was $2.99)
+Genres: Indie
+Link: https://store.steampowered.com/app/5000040
+==================================================
+
+==================================================
+Name: Superhero Simulator
+Release Date: Oct 7, 2026
+Price: $2.99 (-50%, was $5.99)
+Genres: Action, Adventure, Casual, Indie, RPG, Simulation
+Link: https://store.steampowered.com/app/3531260
+==================================================
+
+==================================================
+Name: Chess Folk
+Release Date: Oct 7, 2026
+Price: $10.19 (-15%, was $11.99)
+Genres: Strategy
+Link: https://store.steampowered.com/app/5221860
+==================================================
+
+==================================================
+Name: Heartbeats - Anniversary Edition
+Release Date: Oct 7, 2026
+Price: $2.00 (-33%, was $2.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5213380
+==================================================
+
+==================================================
+Name: Babel Legacy
+Release Date: Oct 7, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4699770
+==================================================
+
+==================================================
+Name: The Only Eye: Arcane Legacy
+Release Date: Oct 7, 2026
+Price: $6.79 (-15%, was $7.99)
+Genres: Action, Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/5238140
+==================================================
+
+==================================================
+Name: Antartopolemos Tactics
+Release Date: Oct 7, 2026
+Price: Free to Play
+Genres: Adventure, RPG, Strategy, Free To Play
+Link: https://store.steampowered.com/app/5023780
+==================================================
+
+==================================================
+Name: Fallgate
+Release Date: Oct 7, 2026
+Price: Free to Play
+Genres: Action, Sports, Free To Play
+Link: https://store.steampowered.com/app/4991930
+==================================================
+
+==================================================
+Name: AIMPLE Studio
+Release Date: Oct 7, 2026
+Price: Free to Play
+Genres: Animation & Modeling, Utilities, Video Production
+Link: https://store.steampowered.com/app/2392550
+==================================================
+
+==================================================
+Name: Shelved
+Release Date: Oct 7, 2026
+Price: $4.79 (-20%, was $5.99)
+Genres: Casual, Simulation
+Link: https://store.steampowered.com/app/5125590
+==================================================
+
+==================================================
+Name: 放置：百夜炼诡录
+Release Date: Oct 7, 2026
+Price: $3.59 (-10%, was $3.99)
+Genres: Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/5009490
+==================================================
+
+==================================================
+Name: Splash Park Tycoon
+Release Date: Oct 7, 2026
+Price: Free to Play
+Genres: Casual, Indie, RPG, Simulation, Strategy, Free To Play
+Link: https://store.steampowered.com/app/5230000
+==================================================
+
+==================================================
+Name: Steam & Iron. Battle of Port Arthur
+Release Date: Oct 7, 2026
+Price: $12.99
+Genres: Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/3381300
+==================================================
+
+==================================================
+Name: Pearl - Meeting on an Autumn Day -
+Release Date: Oct 7, 2026
+Price: Free to Play
+Genres: Casual, Indie, RPG, Free To Play
+Link: https://store.steampowered.com/app/4857310
+==================================================
+
+==================================================
+Name: Calcio Totale
+Release Date: Oct 7, 2026
+Price: $13.49 (-10%, was $14.99)
+Genres: Indie, Simulation, Sports, Strategy
+Link: https://store.steampowered.com/app/5247020
+==================================================
+
+==================================================
+Name: One More Floor
+Release Date: Oct 7, 2026
+Price: $4.79 (-40%, was $7.99)
+Genres: Casual, Indie, RPG
+Link: https://store.steampowered.com/app/5190700
+==================================================
+
+==================================================
+Name: Touhou Gensokyo Defense
+Release Date: Oct 7, 2026
+Price: $2.69 (-10%, was $2.99)
+Genres: Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/5135700
+==================================================
+
+==================================================
+Name: Chesstics
+Release Date: Oct 7, 2026
+Price: $2.99
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/5284650
+==================================================
+
+==================================================
+Name: A game about... Clicking?
+Release Date: Oct 7, 2026
+Price: $1.26 (-15%, was $1.49)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5290160
+==================================================
+
+==================================================
+Name: Visual Novel: Calendar Without Tomorrow
+Release Date: Oct 7, 2026
+Price: $0.99
+Genres: Action, Adventure, Casual, Indie, RPG
+Link: https://store.steampowered.com/app/5271060
+==================================================
+
