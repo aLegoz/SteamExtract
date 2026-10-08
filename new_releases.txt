@@ -91939,3 +91939,46 @@ Genres: Casual, Indie
 Link: https://store.steampowered.com/app/5230810
 ==================================================
 
+
+--- Run: 2026-10-08 02:19:35 --- (5 new game(s) found)
+
+==================================================
+Name: Pocket Parade
+Release Date: Oct 7, 2026
+Price: $7.19 (-20%, was $8.99)
+Genres: Action, Adventure, Casual, Indie, Racing, RPG, Simulation
+Link: https://store.steampowered.com/app/4092770
+==================================================
+
+==================================================
+Name: Puzzle Arrows: The Original
+Release Date: Oct 7, 2026
+Price: $3.99
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5125890
+==================================================
+
+==================================================
+Name: Wings of the Western Front
+Release Date: Oct 7, 2026
+Price: $9.34 (-15%, was $10.99)
+Genres: Simulation
+Link: https://store.steampowered.com/app/4875230
+==================================================
+
+==================================================
+Name: TIDEBREAK
+Release Date: Oct 7, 2026
+Price: $2.54 (-15%, was $2.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/1864940
+==================================================
+
+==================================================
+Name: Flippy Burgers
+Release Date: Oct 7, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/5092180
+==================================================
+
