@@ -92428,3 +92428,222 @@ Genres: Action, Adventure, Utilities
 Link: https://store.steampowered.com/app/5227760
 ==================================================
 
+
+--- Run: 2026-10-08 22:34:53 --- (27 new game(s) found)
+
+==================================================
+Name: Fragrance - The Second Story of Princess and Knight
+Release Date: Coming soon
+Price: $9.99
+Genres: Indie, RPG, Simulation, Strategy
+Link: https://store.steampowered.com/app/5266080
+==================================================
+
+==================================================
+Name: HORSE CLUB Ride West
+Release Date: Oct 8, 2026
+Price: $24.99
+Genres: Adventure, Simulation
+Link: https://store.steampowered.com/app/4194080
+==================================================
+
+==================================================
+Name: Espace
+Release Date: Oct 8, 2026
+Price: $14.99
+Genres: Action, Casual, Indie, Massively Multiplayer, Simulation, Strategy
+Link: https://store.steampowered.com/app/2987380
+==================================================
+
+==================================================
+Name: LieStar ResiStar
+Release Date: Oct 8, 2026
+Price: Free to Play
+Genres: Action, Free To Play
+Link: https://store.steampowered.com/app/5144300
+==================================================
+
+==================================================
+Name: Fishtographers
+Release Date: Oct 8, 2026
+Price: $2.99 (-25%, was $3.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4793280
+==================================================
+
+==================================================
+Name: Cozy Farm
+Release Date: Oct 8, 2026
+Price: $17.99 (-10%, was $19.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4282830
+==================================================
+
+==================================================
+Name: Hood Warfare 2
+Release Date: Oct 8, 2026
+Price: $5.39 (-10%, was $5.99)
+Genres: Action
+Link: https://store.steampowered.com/app/5155360
+==================================================
+
+==================================================
+Name: Duty Free Shop Simulator
+Release Date: Oct 8, 2026
+Price: $3.34 (-33%, was $4.99)
+Genres: Racing, Simulation
+Link: https://store.steampowered.com/app/3964840
+==================================================
+
+==================================================
+Name: Cauldron Chaos: Brew Potions & Tidy Up
+Release Date: Oct 8, 2026
+Price: $6.39 (-20%, was $7.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5007680
+==================================================
+
+==================================================
+Name: Snemovna
+Release Date: Oct 8, 2026
+Price: $5.59 (-30%, was $7.99)
+Genres: Casual, Simulation
+Link: https://store.steampowered.com/app/4056850
+==================================================
+
+==================================================
+Name: Crossroads
+Release Date: Oct 8, 2026
+Price: $12.99
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/3975460
+==================================================
+
+==================================================
+Name: AutoChart
+Release Date: Oct 8, 2026
+Price: $5.39 (-10%, was $5.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5201270
+==================================================
+
+==================================================
+Name: The Residual
+Release Date: Oct 8, 2026
+Price: Free to Play
+Genres: Adventure, Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/5291650
+==================================================
+
+==================================================
+Name: Cosmo Arena
+Release Date: Oct 8, 2026
+Price: Free to Play
+Genres: Action, Strategy, Free To Play
+Link: https://store.steampowered.com/app/5217620
+==================================================
+
+==================================================
+Name: All You Can FISH!
+Release Date: Oct 8, 2026
+Price: $5.84 (-35%, was $8.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4436580
+==================================================
+
+==================================================
+Name: Duelist: Idle Expedition
+Release Date: Oct 8, 2026
+Price: $7.19 (-20%, was $8.99)
+Genres: Adventure, Casual, Indie, RPG, Simulation, Strategy
+Link: https://store.steampowered.com/app/4282780
+==================================================
+
+==================================================
+Name: Chat Derby Desktop
+Release Date: Oct 8, 2026
+Price: $4.79 (-20%, was $5.99)
+Genres: Casual, Racing
+Link: https://store.steampowered.com/app/4958140
+==================================================
+
+==================================================
+Name: Old War Together
+Release Date: Oct 8, 2026
+Price: $1.19 (-40%, was $1.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/5245720
+==================================================
+
+==================================================
+Name: Tidy Up the Royal Armory
+Release Date: Oct 8, 2026
+Price: $5.39 (-10%, was $5.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/5169440
+==================================================
+
+==================================================
+Name: Click & Mine
+Release Date: Oct 8, 2026
+Price: $2.39 (-20%, was $2.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4506000
+==================================================
+
+==================================================
+Name: Silver Pines
+Release Date: Oct 8, 2026
+Price: $22.49 (-10%, was $24.99)
+Genres: Action, Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/2333000
+==================================================
+
+==================================================
+Name: Harder Parkour
+Release Date: Oct 8, 2026
+Price: $3.39 (-15%, was $3.99)
+Genres: Adventure, Casual, Indie, Sports
+Link: https://store.steampowered.com/app/3740800
+==================================================
+
+==================================================
+Name: Order of the Sinking Star
+Release Date: Oct 8, 2026
+Price: $29.99
+Genres: Adventure, Indie, Strategy
+Link: https://store.steampowered.com/app/499170
+==================================================
+
+==================================================
+Name: More Slots More Money
+Release Date: Oct 8, 2026
+Price: $4.79 (-20%, was $5.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4856210
+==================================================
+
+==================================================
+Name: Garden Cleanup Simulator
+Release Date: Oct 8, 2026
+Price: $7.19 (-20%, was $8.99)
+Genres: Casual, Simulation
+Link: https://store.steampowered.com/app/4608760
+==================================================
+
+==================================================
+Name: Lewd Massage 💦🔞
+Release Date: Oct 8, 2026
+Price: $9.60 (-20%, was $12.00)
+Genres: Simulation
+Link: https://store.steampowered.com/app/4373950
+==================================================
+
+==================================================
+Name: Drillbound
+Release Date: Oct 8, 2026
+Price: $3.59 (-10%, was $3.99)
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4149040
+==================================================
+
