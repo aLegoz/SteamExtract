@@ -92209,3 +92209,222 @@ Genres: Strategy
 Link: https://store.steampowered.com/app/4913160
 ==================================================
 
+
+--- Run: 2026-10-08 17:02:50 --- (27 new game(s) found)
+
+==================================================
+Name: The Lists VR
+Release Date: Oct 8, 2026
+Price: $8.49 (-15%, was $9.99)
+Genres: Action, Indie, Simulation, Sports
+Link: https://store.steampowered.com/app/3421520
+==================================================
+
+==================================================
+Name: Keep Watering
+Release Date: Oct 8, 2026
+Price: $5.94 (-30%, was $8.49)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4569670
+==================================================
+
+==================================================
+Name: Nion Forge
+Release Date: Oct 8, 2026
+Price: $6.07 (-10%, was $6.75)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/2954090
+==================================================
+
+==================================================
+Name: Sort of Magic
+Release Date: Oct 8, 2026
+Price: $6.79 (-15%, was $7.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/4398290
+==================================================
+
+==================================================
+Name: Train of Thought - Murder on the Silver Line ACADEMIC VERSION
+Release Date: Oct 8, 2026
+Price: Free to Play
+Genres: Adventure, Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/4994410
+==================================================
+
+==================================================
+Name: What’s Wrong with My Drawing?
+Release Date: Oct 8, 2026
+Price: Free to Play
+Genres: Casual, Indie, RPG, Strategy, Free To Play
+Link: https://store.steampowered.com/app/5186550
+==================================================
+
+==================================================
+Name: Echo Weaver
+Release Date: Oct 8, 2026
+Price: $17.99 (-10%, was $19.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/2184080
+==================================================
+
+==================================================
+Name: Birdseed
+Release Date: Oct 8, 2026
+Price: Free to Play
+Genres: Casual, Indie, Simulation, Free To Play
+Link: https://store.steampowered.com/app/3952540
+==================================================
+
+==================================================
+Name: Starfish ROOM: WELCOME TO LOOP ETERNAL
+Release Date: Oct 8, 2026
+Price: $4.99
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4520420
+==================================================
+
+==================================================
+Name: Magic Twinborn
+Release Date: Oct 8, 2026
+Price: $7.19 (-20%, was $8.99)
+Genres: Adventure, Casual, Indie, RPG
+Link: https://store.steampowered.com/app/4020120
+==================================================
+
+==================================================
+Name: DROWSE
+Release Date: Oct 8, 2026
+Price: $8.67 (-10%, was $9.64)
+Genres: Indie
+Link: https://store.steampowered.com/app/4613650
+==================================================
+
+==================================================
+Name: Run Giraffe Run
+Release Date: Oct 8, 2026
+Price: $6.39 (-20%, was $7.99)
+Genres: Action, Adventure, Casual, Racing
+Link: https://store.steampowered.com/app/4260550
+==================================================
+
+==================================================
+Name: Bigger Brain
+Release Date: Oct 8, 2026
+Price: $1.79 (-40%, was $2.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4878340
+==================================================
+
+==================================================
+Name: Eishockey Manager Legacy
+Release Date: Oct 8, 2026
+Price: $14.99 (-25%, was $19.99)
+Genres: Indie, Simulation, Sports, Strategy
+Link: https://store.steampowered.com/app/5186920
+==================================================
+
+==================================================
+Name: Afterbeat (Project Arrhythmia)
+Release Date: Oct 8, 2026
+Price: $11.24 (-25%, was $14.99)
+Genres: Action, Adventure, Indie, Strategy
+Link: https://store.steampowered.com/app/440310
+==================================================
+
+==================================================
+Name: MOBA Manager 2026
+Release Date: Oct 8, 2026
+Price: Free to Play
+Genres: Simulation, Free To Play
+Link: https://store.steampowered.com/app/5294050
+==================================================
+
+==================================================
+Name: Dragon Dinner
+Release Date: Oct 8, 2026
+Price: $8.49 (-15%, was $9.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4148630
+==================================================
+
+==================================================
+Name: Maybe Hero
+Release Date: Oct 8, 2026
+Price: $4.79 (-20%, was $5.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/5284210
+==================================================
+
+==================================================
+Name: Family Number Hunters
+Release Date: Oct 8, 2026
+Price: $2.39 (-20%, was $2.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5281860
+==================================================
+
+==================================================
+Name: Stranded & Naked
+Release Date: Oct 8, 2026
+Price: $9.89 (-10%, was $10.99)
+Genres: Adventure, Casual, Simulation
+Link: https://store.steampowered.com/app/3155980
+==================================================
+
+==================================================
+Name: Forever Ago
+Release Date: Oct 8, 2026
+Price: $17.99 (-10%, was $19.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/1215940
+==================================================
+
+==================================================
+Name: Fill That Pig
+Release Date: Oct 8, 2026
+Price: $1.65 (-17%, was $1.99)
+Genres: Action, Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4367430
+==================================================
+
+==================================================
+Name: QuadRaid
+Release Date: Oct 8, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Casual, Indie, RPG
+Link: https://store.steampowered.com/app/5231570
+==================================================
+
+==================================================
+Name: aSc Boom
+Release Date: Oct 8, 2026
+Price: Free to Play
+Genres: Action, Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/5223700
+==================================================
+
+==================================================
+Name: Woman Life Simulator
+Release Date: Oct 8, 2026
+Price: $5.39 (-10%, was $5.99)
+Genres: Casual, Simulation
+Link: https://store.steampowered.com/app/5208580
+==================================================
+
+==================================================
+Name: Clive Barker's Hellraiser: Revival
+Release Date: Oct 8, 2026
+Price: $39.99
+Genres: Action
+Link: https://store.steampowered.com/app/1551980
+==================================================
+
+==================================================
+Name: CaveTunnel AntiMotion
+Release Date: Oct 8, 2026
+Price: $3.19 (-20%, was $3.99)
+Genres: Action, Adventure, Utilities
+Link: https://store.steampowered.com/app/5227760
+==================================================
+
