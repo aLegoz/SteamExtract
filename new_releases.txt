@@ -91982,3 +91982,230 @@ Genres: Casual, Indie, Strategy
 Link: https://store.steampowered.com/app/5092180
 ==================================================
 
+
+--- Run: 2026-10-08 09:37:47 --- (28 new game(s) found)
+
+==================================================
+Name: HIROYU's Murder Mystery：マーダーミステリー セッションツール
+Release Date: Oct 8, 2026
+Price: Free to Play
+Genres: Adventure, Indie, Free To Play
+Link: https://store.steampowered.com/app/4080860
+==================================================
+
+==================================================
+Name: I'm Having A Bad Day
+Release Date: Oct 8, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Action, Casual
+Link: https://store.steampowered.com/app/4798970
+==================================================
+
+==================================================
+Name: Demon General Kirsten
+Release Date: Oct 8, 2026
+Price: $9.89 (-10%, was $10.99)
+Genres: Casual, Indie, RPG
+Link: https://store.steampowered.com/app/4112840
+==================================================
+
+==================================================
+Name: Gear.Club Unlimited 3
+Release Date: Oct 8, 2026
+Price: $39.99
+Genres: Racing, Simulation, Sports
+Link: https://store.steampowered.com/app/3659460
+==================================================
+
+==================================================
+Name: Fuck the Ocean
+Release Date: Oct 8, 2026
+Price: $1.79 (-10%, was $1.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/1864730
+==================================================
+
+==================================================
+Name: Taskbar Legends
+Release Date: Oct 8, 2026
+Price: Free to Play
+Genres: Casual, Indie, RPG, Simulation, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4904570
+==================================================
+
+==================================================
+Name: RETROPULSE Wave
+Release Date: Oct 8, 2026
+Price: $1.79 (-40%, was $2.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5295530
+==================================================
+
+==================================================
+Name: Maid Cafe Simulator
+Release Date: Oct 7, 2026
+Price: $19.19 (-20%, was $23.99)
+Genres: Simulation
+Link: https://store.steampowered.com/app/3232690
+==================================================
+
+==================================================
+Name: Endless Legion
+Release Date: Oct 7, 2026
+Price: $0.59 (-40%, was $0.99)
+Genres: Strategy
+Link: https://store.steampowered.com/app/5298800
+==================================================
+
+==================================================
+Name: Beluga Polo
+Release Date: Oct 7, 2026
+Price: Free to Play
+Genres: Casual, Indie, Sports, Free To Play
+Link: https://store.steampowered.com/app/5255280
+==================================================
+
+==================================================
+Name: Demonator
+Release Date: Oct 7, 2026
+Price: $1.79 (-40%, was $2.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/5293950
+==================================================
+
+==================================================
+Name: CatPoker
+Release Date: Oct 7, 2026
+Price: Free to Play
+Genres: Casual, Indie, Strategy, Free To Play
+Link: https://store.steampowered.com/app/5005680
+==================================================
+
+==================================================
+Name: DungeonOS
+Release Date: Oct 7, 2026
+Price: $8.49 (-15%, was $9.99)
+Genres: Casual, Indie, RPG
+Link: https://store.steampowered.com/app/4221660
+==================================================
+
+==================================================
+Name: Borderless Window Manager
+Release Date: Oct 7, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Casual, Indie, Utilities
+Link: https://store.steampowered.com/app/5254990
+==================================================
+
+==================================================
+Name: Sister Compass: Slow Life Loving with My Sisters on a Deserted Island
+Release Date: Oct 7, 2026
+Price: $8.09 (-10%, was $8.99)
+Genres: Casual, Simulation
+Link: https://store.steampowered.com/app/4583960
+==================================================
+
+==================================================
+Name: My Sweet Waifu Konko
+Release Date: Oct 7, 2026
+Price: $11.69 (-10%, was $12.99)
+Genres: Simulation
+Link: https://store.steampowered.com/app/3099780
+==================================================
+
+==================================================
+Name: Secret with Sophia
+Release Date: Oct 7, 2026
+Price: $2.79 (-30%, was $3.99)
+Genres: RPG, Simulation
+Link: https://store.steampowered.com/app/4399170
+==================================================
+
+==================================================
+Name: The Loer Chronicles
+Release Date: Oct 7, 2026
+Price: Free to Play
+Genres: Action, Adventure, Casual, Indie, RPG, Free To Play
+Link: https://store.steampowered.com/app/5037330
+==================================================
+
+==================================================
+Name: Neon Abyss 2
+Release Date: Oct 7, 2026
+Price: $15.99 (-20%, was $19.99)
+Genres: Action, Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/2235200
+==================================================
+
+==================================================
+Name: Anshi
+Release Date: Oct 7, 2026
+Price: $0.99
+Genres: Casual
+Link: https://store.steampowered.com/app/5258610
+==================================================
+
+==================================================
+Name: 斩爆甜点
+Release Date: Oct 7, 2026
+Price: $4.60
+Genres: Casual, Indie, Racing
+Link: https://store.steampowered.com/app/5069500
+==================================================
+
+==================================================
+Name: Thunder Hoop Collection (QUByte Classics)
+Release Date: Oct 7, 2026
+Price: $8.49 (-15%, was $9.99)
+Genres: Action, Casual
+Link: https://store.steampowered.com/app/4448240
+==================================================
+
+==================================================
+Name: Yulgang W
+Release Date: Oct 7, 2026
+Price: Free to Play
+Genres: Adventure, Massively Multiplayer, RPG, Simulation, Strategy, Free To Play
+Link: https://store.steampowered.com/app/5178350
+==================================================
+
+==================================================
+Name: MONSTER ENHANCEMENT
+Release Date: Oct 7, 2026
+Price: $2.99
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/5287790
+==================================================
+
+==================================================
+Name: Obsessive
+Release Date: Oct 7, 2026
+Price: $3.39 (-15%, was $3.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/5185130
+==================================================
+
+==================================================
+Name: Just Mining
+Release Date: Oct 7, 2026
+Price: $3.19 (-20%, was $3.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4985090
+==================================================
+
+==================================================
+Name: 不是一款拼单词游戏
+Release Date: Oct 7, 2026
+Price: Free to Play
+Genres: Casual, Indie, Strategy, Free To Play
+Link: https://store.steampowered.com/app/5173790
+==================================================
+
+==================================================
+Name: The Curse of Dracula
+Release Date: Oct 7, 2026
+Price: $4.49 (-25%, was $5.99)
+Genres: Strategy
+Link: https://store.steampowered.com/app/4913160
+==================================================
+
