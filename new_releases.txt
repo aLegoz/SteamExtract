@@ -92730,3 +92730,238 @@ Genres: Adventure, Indie, Simulation
 Link: https://store.steampowered.com/app/5271830
 ==================================================
 
+
+--- Run: 2026-10-09 09:44:52 --- (29 new game(s) found)
+
+==================================================
+Name: Guys with Magnets
+Release Date: Oct 9, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Action, Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4594370
+==================================================
+
+==================================================
+Name: Stancefolio
+Release Date: Oct 9, 2026
+Price: Free to Play
+Genres: Adventure, Indie, Strategy, Free To Play
+Link: https://store.steampowered.com/app/5306270
+==================================================
+
+==================================================
+Name: Nightmare World
+Release Date: Oct 9, 2026
+Price: $15.99
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4276450
+==================================================
+
+==================================================
+Name: Dark Dice Dungeon
+Release Date: Oct 9, 2026
+Price: $5.39 (-10%, was $5.99)
+Genres: Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/5248650
+==================================================
+
+==================================================
+Name: Botlings
+Release Date: Oct 9, 2026
+Price: $11.99 (-20%, was $14.99)
+Genres: Simulation, Strategy
+Link: https://store.steampowered.com/app/4139440
+==================================================
+
+==================================================
+Name: deciphony
+Release Date: Oct 9, 2026
+Price: $2.99
+Genres: Casual
+Link: https://store.steampowered.com/app/4872790
+==================================================
+
+==================================================
+Name: Escape: Immersion
+Release Date: Oct 9, 2026
+Price: $7.49 (-25%, was $9.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/4033680
+==================================================
+
+==================================================
+Name: Lane Rider: Highway Runner
+Release Date: Oct 8, 2026
+Price: $16.99 (-15%, was $19.99)
+Genres: Casual, Racing
+Link: https://store.steampowered.com/app/5088650
+==================================================
+
+==================================================
+Name: Magical Girl Yusya-chan and the Labyrinth of Lust
+Release Date: Oct 8, 2026
+Price: $12.79 (-20%, was $15.99)
+Genres: Action, Indie, RPG
+Link: https://store.steampowered.com/app/4056370
+==================================================
+
+==================================================
+Name: Tower Survivors: Fortress
+Release Date: Oct 8, 2026
+Price: $3.39 (-15%, was $3.99)
+Genres: Action, Indie, Strategy
+Link: https://store.steampowered.com/app/5197160
+==================================================
+
+==================================================
+Name: Hazmat Simulator
+Release Date: Oct 8, 2026
+Price: $6.79 (-15%, was $7.99)
+Genres: Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/5236060
+==================================================
+
+==================================================
+Name: KRONITE VOID
+Release Date: Oct 8, 2026
+Price: Free to Play
+Genres: Indie, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4096710
+==================================================
+
+==================================================
+Name: 修仙界
+Release Date: Oct 8, 2026
+Price: Free to Play
+Genres: Massively Multiplayer, Free To Play
+Link: https://store.steampowered.com/app/839140
+==================================================
+
+==================================================
+Name: Do Disciplinary Committee Members Dream of Succubi?
+Release Date: Oct 8, 2026
+Price: $11.99 (-20%, was $14.99)
+Genres: Adventure
+Link: https://store.steampowered.com/app/4233960
+==================================================
+
+==================================================
+Name: Mùa Hình (Trading-cards Season)
+Release Date: Oct 8, 2026
+Price: $3.99
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4932510
+==================================================
+
+==================================================
+Name: Bunny Girl Spa ～A Naughty Massage for a Sassy Gal～
+Release Date: Oct 8, 2026
+Price: $7.00
+Genres: Casual, Simulation
+Link: https://store.steampowered.com/app/5214100
+==================================================
+
+==================================================
+Name: Tessera
+Release Date: Oct 8, 2026
+Price: $7.49 (-25%, was $9.99)
+Genres: Casual, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/5073130
+==================================================
+
+==================================================
+Name: Hundred Lives to Immortality
+Release Date: Oct 8, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Casual, RPG, Simulation, Strategy
+Link: https://store.steampowered.com/app/5235070
+==================================================
+
+==================================================
+Name: Taerim's Blueberry Defense
+Release Date: Oct 8, 2026
+Price: $2.39 (-20%, was $2.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/5165750
+==================================================
+
+==================================================
+Name: Blosharper: Battle of Blossoms
+Release Date: Oct 8, 2026
+Price: $7.99
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4718270
+==================================================
+
+==================================================
+Name: CELESTAY Craft&Slowlife
+Release Date: Oct 8, 2026
+Price: $7.19 (-20%, was $8.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4183770
+==================================================
+
+==================================================
+Name: Snowplow Therapy
+Release Date: Oct 8, 2026
+Price: $3.99
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4616180
+==================================================
+
+==================================================
+Name: Scam Center Saboteur
+Release Date: Oct 8, 2026
+Price: $0.59 (-40%, was $0.99)
+Genres: Casual, Indie, RPG, Simulation
+Link: https://store.steampowered.com/app/5218580
+==================================================
+
+==================================================
+Name: Puppetborne
+Release Date: Oct 8, 2026
+Price: $3.99
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/5034450
+==================================================
+
+==================================================
+Name: Hello Golf
+Release Date: Oct 8, 2026
+Price: $6.79 (-15%, was $7.99)
+Genres: Casual, Indie, Simulation, Sports
+Link: https://store.steampowered.com/app/5160720
+==================================================
+
+==================================================
+Name: Possess Your Senior Sisters and Duel!
+Release Date: Oct 8, 2026
+Price: $9.59 (-20%, was $11.99)
+Genres: Casual, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/4451790
+==================================================
+
+==================================================
+Name: Kill Your Friends
+Release Date: Oct 8, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4681250
+==================================================
+
+==================================================
+Name: CRYSTASH!
+Release Date: Oct 8, 2026
+Price: Free to Play
+Genres: Action, Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/4744820
+==================================================
+
+==================================================
+Name: Rush Aim Show
+Release Date: Oct 8, 2026
+Price: Free to Play
+Genres: Action, Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/4744800
+==================================================
+
