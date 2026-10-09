@@ -92647,3 +92647,86 @@ Genres: Casual, Indie, Simulation, Strategy
 Link: https://store.steampowered.com/app/4149040
 ==================================================
 
+
+--- Run: 2026-10-09 02:37:22 --- (10 new game(s) found)
+
+==================================================
+Name: Long March
+Release Date: Oct 8, 2026
+Price: Free to Play
+Genres: Action, Strategy, Free To Play
+Link: https://store.steampowered.com/app/5206450
+==================================================
+
+==================================================
+Name: MalO On Camera Deluxxx
+Release Date: Oct 8, 2026
+Price: $5.94 (-15%, was $6.99)
+Genres: Action
+Link: https://store.steampowered.com/app/4321030
+==================================================
+
+==================================================
+Name: Amidst The Evil
+Release Date: Oct 8, 2026
+Price: $3.99
+Genres: Indie
+Link: https://store.steampowered.com/app/4444370
+==================================================
+
+==================================================
+Name: Pass Tiger Cage
+Release Date: Oct 8, 2026
+Price: $5.59 (-20%, was $6.99)
+Genres: Action, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/3771660
+==================================================
+
+==================================================
+Name: Enchanted Blackjack
+Release Date: Oct 8, 2026
+Price: $5.94 (-15%, was $6.99)
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4859440
+==================================================
+
+==================================================
+Name: Brothers of The Three Kingdoms
+Release Date: Oct 8, 2026
+Price: $2.69 (-10%, was $2.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/2395660
+==================================================
+
+==================================================
+Name: HazardousExtractions
+Release Date: Oct 8, 2026
+Price: $3.74 (-25%, was $4.99)
+Genres: Action, Adventure, Indie, Massively Multiplayer, Strategy
+Link: https://store.steampowered.com/app/4487280
+==================================================
+
+==================================================
+Name: Cyan Heart
+Release Date: Oct 8, 2026
+Price: $9.89 (-10%, was $10.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/3744190
+==================================================
+
+==================================================
+Name: Anomalous Cleaning Detail
+Release Date: Oct 8, 2026
+Price: $7.19 (-20%, was $8.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4378370
+==================================================
+
+==================================================
+Name: The Lost Tapes 18+
+Release Date: Oct 8, 2026
+Price: $2.99 (-40%, was $4.99)
+Genres: Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/5271830
+==================================================
+
