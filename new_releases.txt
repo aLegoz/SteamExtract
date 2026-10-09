@@ -93184,3 +93184,166 @@ Genres: RPG
 Link: https://store.steampowered.com/app/5210640
 ==================================================
 
+
+--- Run: 2026-10-09 21:22:31 --- (20 new game(s) found)
+
+==================================================
+Name: Coldstar
+Release Date: Oct 9, 2026
+Price: Free to Play
+Genres: Action, Massively Multiplayer, Free To Play
+Link: https://store.steampowered.com/app/5309680
+==================================================
+
+==================================================
+Name: Webs of Reverie
+Release Date: Oct 9, 2026
+Price: Free to Play
+Genres: Indie, RPG, Free To Play
+Link: https://store.steampowered.com/app/4731030
+==================================================
+
+==================================================
+Name: Pussy Island
+Release Date: Oct 9, 2026
+Price: Free to Play
+Genres: Casual, RPG, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4235370
+==================================================
+
+==================================================
+Name: PAPERHEAD
+Release Date: Oct 9, 2026
+Price: $15.99 (-20%, was $19.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/2680280
+==================================================
+
+==================================================
+Name: Wood Watch
+Release Date: Oct 9, 2026
+Price: Free to Play
+Genres: Action, Indie, Strategy, Free To Play
+Link: https://store.steampowered.com/app/5249390
+==================================================
+
+==================================================
+Name: OBSESSED
+Release Date: Oct 9, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4761360
+==================================================
+
+==================================================
+Name: Motorcycle Night Ride
+Release Date: Oct 9, 2026
+Price: $4.49 (-25%, was $5.99)
+Genres: Indie, Racing, Simulation
+Link: https://store.steampowered.com/app/3358360
+==================================================
+
+==================================================
+Name: Space Pads
+Release Date: Oct 9, 2026
+Price: $2.99
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4975240
+==================================================
+
+==================================================
+Name: Capitalize
+Release Date: Oct 9, 2026
+Price: $9.89 (-10%, was $10.99)
+Genres: Casual, Simulation
+Link: https://store.steampowered.com/app/5083730
+==================================================
+
+==================================================
+Name: Uppercute
+Release Date: Oct 9, 2026
+Price: $9.60 (-20%, was $12.00)
+Genres: Action
+Link: https://store.steampowered.com/app/3151660
+==================================================
+
+==================================================
+Name: Denizen
+Release Date: Oct 9, 2026
+Price: $16.99 (-15%, was $19.99)
+Genres: Adventure, Indie, RPG, Simulation
+Link: https://store.steampowered.com/app/2010030
+==================================================
+
+==================================================
+Name: COLORFALL
+Release Date: Oct 9, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Action, Casual
+Link: https://store.steampowered.com/app/4551220
+==================================================
+
+==================================================
+Name: The Hat Man
+Release Date: Oct 9, 2026
+Price: Free to Play
+Genres: Adventure, Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/4347270
+==================================================
+
+==================================================
+Name: LOST & FOUND
+Release Date: Oct 9, 2026
+Price: Free to Play
+Genres: Casual, Indie, Simulation, Free To Play
+Link: https://store.steampowered.com/app/4190960
+==================================================
+
+==================================================
+Name: Hack Faster
+Release Date: Oct 9, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/5202720
+==================================================
+
+==================================================
+Name: Shopping Center Simulator
+Release Date: Oct 9, 2026
+Price: $8.49 (-15%, was $9.99)
+Genres: Simulation
+Link: https://store.steampowered.com/app/5259810
+==================================================
+
+==================================================
+Name: Penis Bird
+Release Date: Oct 9, 2026
+Price: $3.59 (-10%, was $3.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/5102980
+==================================================
+
+==================================================
+Name: Shape Up!
+Release Date: Oct 9, 2026
+Price: $9.99
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/5234450
+==================================================
+
+==================================================
+Name: Cozy Wallpaper
+Release Date: Oct 9, 2026
+Price: $3.37
+Genres: Design & Illustration, Utilities
+Link: https://store.steampowered.com/app/5234850
+==================================================
+
+==================================================
+Name: Wilgold's Playground
+Release Date: Oct 9, 2026
+Price: $15.29 (-10%, was $16.99)
+Genres: Adventure, Indie, Racing
+Link: https://store.steampowered.com/app/2287050
+==================================================
+
