@@ -92965,3 +92965,222 @@ Genres: Action, Casual, Indie, Free To Play
 Link: https://store.steampowered.com/app/4744800
 ==================================================
 
+
+--- Run: 2026-10-09 16:40:40 --- (27 new game(s) found)
+
+==================================================
+Name: The Candyman: Legacy
+Release Date: Oct 9, 2026
+Price: $3.39 (-15%, was $3.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/2830780
+==================================================
+
+==================================================
+Name: Duckoleon
+Release Date: Oct 9, 2026
+Price: Free to Play
+Genres: Action, Free To Play
+Link: https://store.steampowered.com/app/3775510
+==================================================
+
+==================================================
+Name: It Hears You: Together
+Release Date: Oct 9, 2026
+Price: $3.19 (-20%, was $3.99)
+Genres: Action, Adventure, Indie, Massively Multiplayer, RPG, Simulation
+Link: https://store.steampowered.com/app/4642120
+==================================================
+
+==================================================
+Name: Kenomas
+Release Date: Oct 9, 2026
+Price: Free to Play
+Genres: Adventure, Indie, RPG, Free To Play
+Link: https://store.steampowered.com/app/5252510
+==================================================
+
+==================================================
+Name: Another Tavern Simulator
+Release Date: Oct 9, 2026
+Price: $8.49 (-15%, was $9.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4764780
+==================================================
+
+==================================================
+Name: Towerfolk
+Release Date: Oct 9, 2026
+Price: $6.59 (-40%, was $10.99)
+Genres: Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/3948100
+==================================================
+
+==================================================
+Name: Truckful
+Release Date: Oct 9, 2026
+Price: $17.99 (-10%, was $19.99)
+Genres: Action, Adventure
+Link: https://store.steampowered.com/app/3090810
+==================================================
+
+==================================================
+Name: 10000 Rats: The Simulation
+Release Date: Oct 9, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Action, Casual, Simulation
+Link: https://store.steampowered.com/app/5091950
+==================================================
+
+==================================================
+Name: Fister
+Release Date: Oct 9, 2026
+Price: $6.92 (-23%, was $8.99)
+Genres: Action, Indie, Simulation
+Link: https://store.steampowered.com/app/4682330
+==================================================
+
+==================================================
+Name: Aquilon: Lust Guild
+Release Date: Oct 9, 2026
+Price: $7.01 (-22%, was $8.99)
+Genres: Adventure, Indie, RPG, Simulation, Strategy
+Link: https://store.steampowered.com/app/4529700
+==================================================
+
+==================================================
+Name: Words of Power: Logos
+Release Date: Oct 9, 2026
+Price: $9.99
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/5166730
+==================================================
+
+==================================================
+Name: Ghost Clicker: Ethereal Idle
+Release Date: Oct 9, 2026
+Price: Free to Play
+Genres: Casual, Strategy, Free To Play
+Link: https://store.steampowered.com/app/5314960
+==================================================
+
+==================================================
+Name: Tied to the Beat
+Release Date: Oct 9, 2026
+Price: $3.49 (-30%, was $4.99)
+Genres: Action, Adventure, Casual, Indie, RPG
+Link: https://store.steampowered.com/app/4316340
+==================================================
+
+==================================================
+Name: Final Selection
+Release Date: Oct 9, 2026
+Price: $11.04 (-15%, was $12.99)
+Genres: Action, Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/4524500
+==================================================
+
+==================================================
+Name: Continuous Imperfection
+Release Date: Oct 9, 2026
+Price: $2.69 (-10%, was $2.99)
+Genres: Action
+Link: https://store.steampowered.com/app/4746560
+==================================================
+
+==================================================
+Name: WildRoot
+Release Date: Oct 9, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/3446730
+==================================================
+
+==================================================
+Name: Ardena
+Release Date: Oct 9, 2026
+Price: $5.94 (-15%, was $6.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/3441000
+==================================================
+
+==================================================
+Name: MoooooN - The cow jumps over the moon
+Release Date: Oct 9, 2026
+Price: Free to Play
+Genres: Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/5021380
+==================================================
+
+==================================================
+Name: Blaster!
+Release Date: Oct 9, 2026
+Price: $5.39 (-40%, was $8.99)
+Genres: Action, Indie, Simulation
+Link: https://store.steampowered.com/app/4959180
+==================================================
+
+==================================================
+Name: Polda 5.5
+Release Date: Oct 9, 2026
+Price: $14.99
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4971930
+==================================================
+
+==================================================
+Name: LITEBIKE
+Release Date: Oct 9, 2026
+Price: $1.79 (-10%, was $1.99)
+Genres: Action, Indie, Racing, Sports, Strategy
+Link: https://store.steampowered.com/app/5239110
+==================================================
+
+==================================================
+Name: Buitopia DVD
+Release Date: Oct 9, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4665960
+==================================================
+
+==================================================
+Name: ComfyTrans: Realtime Screen Translator
+Release Date: Oct 9, 2026
+Price: $2.80 (-30%, was $4.00)
+Genres: Utilities
+Link: https://store.steampowered.com/app/5259250
+==================================================
+
+==================================================
+Name: LUSTORIA
+Release Date: Oct 9, 2026
+Price: $5.39 (-40%, was $8.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5054070
+==================================================
+
+==================================================
+Name: Hack 'n' Stack
+Release Date: Oct 9, 2026
+Price: $15.99 (-20%, was $19.99)
+Genres: Action, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/2228720
+==================================================
+
+==================================================
+Name: Game Market Mayhem
+Release Date: Oct 9, 2026
+Price: $4.79 (-20%, was $5.99)
+Genres: Casual, Simulation
+Link: https://store.steampowered.com/app/5144470
+==================================================
+
+==================================================
+Name: Sealed Fortress
+Release Date: Oct 9, 2026
+Price: $9.99
+Genres: RPG
+Link: https://store.steampowered.com/app/5210640
+==================================================
+
