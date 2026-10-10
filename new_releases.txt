@@ -93735,3 +93735,46 @@ Genres: Casual, Indie, Simulation
 Link: https://store.steampowered.com/app/5301260
 ==================================================
 
+
+--- Run: 2026-10-10 22:15:19 --- (5 new game(s) found)
+
+==================================================
+Name: Faybound : Veils of Magic
+Release Date: Oct 10, 2026
+Price: $21.59 (-20%, was $26.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/4718070
+==================================================
+
+==================================================
+Name: Euphoria: Supreme Mechanics VR
+Release Date: Oct 10, 2026
+Price: $8.24 (-25%, was $10.99)
+Genres: Adventure, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/3749340
+==================================================
+
+==================================================
+Name: Ant Clicker
+Release Date: Oct 10, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4354120
+==================================================
+
+==================================================
+Name: Lewd Waifu
+Release Date: Oct 10, 2026
+Price: $1.94 (-35%, was $2.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4987190
+==================================================
+
+==================================================
+Name: Clicker Game Maker
+Release Date: Oct 9, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Utilities, Game Development
+Link: https://store.steampowered.com/app/4856540
+==================================================
+
