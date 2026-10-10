@@ -93636,3 +93636,102 @@ Genres: Action, Adventure, Indie
 Link: https://store.steampowered.com/app/5228330
 ==================================================
 
+
+--- Run: 2026-10-10 19:00:24 --- (12 new game(s) found)
+
+==================================================
+Name: No Stars Football
+Release Date: Oct 10, 2026
+Price: $9.99
+Genres: Casual, Indie, Simulation, Sports
+Link: https://store.steampowered.com/app/5170150
+==================================================
+
+==================================================
+Name: FUDAN ADVENTURE
+Release Date: Oct 10, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Action, Adventure, Casual, Indie, RPG, Simulation, Strategy
+Link: https://store.steampowered.com/app/3058680
+==================================================
+
+==================================================
+Name: Shelf-Employed
+Release Date: Oct 10, 2026
+Price: $5.39 (-10%, was $5.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5038020
+==================================================
+
+==================================================
+Name: Soundgun
+Release Date: Oct 10, 2026
+Price: $7.49 (-25%, was $9.99)
+Genres: Audio Production, Utilities
+Link: https://store.steampowered.com/app/5280040
+==================================================
+
+==================================================
+Name: No Cute Girl Can Stop My Sudoku
+Release Date: Oct 10, 2026
+Price: $1.69 (-15%, was $1.99)
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/5260830
+==================================================
+
+==================================================
+Name: On Hold - Call Center Simulator
+Release Date: Oct 10, 2026
+Price: $3.49 (-30%, was $4.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4847040
+==================================================
+
+==================================================
+Name: Sort Labs
+Release Date: Oct 10, 2026
+Price: $5.94 (-15%, was $6.99)
+Genres: Casual, Simulation
+Link: https://store.steampowered.com/app/5195910
+==================================================
+
+==================================================
+Name: Catch The Fish
+Release Date: Oct 10, 2026
+Price: $4.79 (-20%, was $5.99)
+Genres: Action, Adventure, Massively Multiplayer, Simulation, Strategy
+Link: https://store.steampowered.com/app/5211870
+==================================================
+
+==================================================
+Name: SEX for MONEY ≠ CHEATING 🔞
+Release Date: Oct 10, 2026
+Price: $9.29 (-38%, was $14.99)
+Genres: Casual, RPG, Simulation
+Link: https://store.steampowered.com/app/4843820
+==================================================
+
+==================================================
+Name: BOSS ARENA: The Goldilock One Trials
+Release Date: Oct 10, 2026
+Price: Free to Play
+Genres: Action, Indie, RPG, Free To Play
+Link: https://store.steampowered.com/app/1965430
+==================================================
+
+==================================================
+Name: Lightholm
+Release Date: Oct 10, 2026
+Price: $4.79 (-20%, was $5.99)
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/3084460
+==================================================
+
+==================================================
+Name: Scavenger's March
+Release Date: Oct 10, 2026
+Price: $2.69 (-10%, was $2.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5301260
+==================================================
+
