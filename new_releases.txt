@@ -93561,3 +93561,78 @@ Genres: Adventure, Casual, Indie, Simulation
 Link: https://store.steampowered.com/app/5176690
 ==================================================
 
+
+--- Run: 2026-10-10 14:01:56 --- (9 new game(s) found)
+
+==================================================
+Name: Legends of the Pitch
+Release Date: Oct 10, 2026
+Price: $4.99
+Genres: Adventure, Simulation, Sports
+Link: https://store.steampowered.com/app/5294190
+==================================================
+
+==================================================
+Name: Mushroom Simulator
+Release Date: Oct 10, 2026
+Price: $3.99
+Genres: Simulation
+Link: https://store.steampowered.com/app/4928130
+==================================================
+
+==================================================
+Name: 知秋~英语日语单词背诵学习陪伴桌宠~
+Release Date: Oct 10, 2026
+Price: $0.79 (-20%, was $0.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4895790
+==================================================
+
+==================================================
+Name: Not Suitable For Screening
+Release Date: Oct 10, 2026
+Price: $3.59 (-10%, was $3.99)
+Genres: Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/3982940
+==================================================
+
+==================================================
+Name: The Enchanted Crayon
+Release Date: Oct 10, 2026
+Price: Free to Play
+Genres: Indie, Free To Play
+Link: https://store.steampowered.com/app/4979430
+==================================================
+
+==================================================
+Name: The Szyk
+Release Date: Oct 10, 2026
+Price: Free to Play
+Genres: Adventure, Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/4150920
+==================================================
+
+==================================================
+Name: KABOOM Farm
+Release Date: Oct 9, 2026
+Price: $9.99
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4123450
+==================================================
+
+==================================================
+Name: Steeled II
+Release Date: Oct 9, 2026
+Price: $8.99
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/5292320
+==================================================
+
+==================================================
+Name: The Anomalarian
+Release Date: Oct 9, 2026
+Price: $14.99
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/5228330
+==================================================
+
