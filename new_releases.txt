@@ -93470,3 +93470,94 @@ Genres: Casual, Indie
 Link: https://store.steampowered.com/app/5080180
 ==================================================
 
+
+--- Run: 2026-10-10 07:49:29 --- (11 new game(s) found)
+
+==================================================
+Name: Evenin' Shift
+Release Date: Oct 10, 2026
+Price: Free to Play
+Genres: Indie, Free To Play
+Link: https://store.steampowered.com/app/4711830
+==================================================
+
+==================================================
+Name: キズツケ kizutsuke
+Release Date: Oct 10, 2026
+Price: Free to Play
+Genres: Adventure, Indie, Free To Play
+Link: https://store.steampowered.com/app/4846870
+==================================================
+
+==================================================
+Name: Space Tanks
+Release Date: Oct 10, 2026
+Price: $4.99
+Genres: Action, Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4185150
+==================================================
+
+==================================================
+Name: SPACE JK
+Release Date: Oct 9, 2026
+Price: Free to Play
+Genres: Casual, Indie, Simulation, Free To Play
+Link: https://store.steampowered.com/app/5105400
+==================================================
+
+==================================================
+Name: Make the Empire Great Again
+Release Date: Oct 9, 2026
+Price: $8.49 (-15%, was $9.99)
+Genres: Simulation, Strategy
+Link: https://store.steampowered.com/app/3918670
+==================================================
+
+==================================================
+Name: MUSIC BAND SIMULATOR:TOGETHER
+Release Date: Oct 9, 2026
+Price: $2.99 (-40%, was $4.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/5133950
+==================================================
+
+==================================================
+Name: Lord Liberty Quest II ~Pure White~
+Release Date: Oct 9, 2026
+Price: Free to Play
+Genres: Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/4330940
+==================================================
+
+==================================================
+Name: Astral shifter
+Release Date: Oct 9, 2026
+Price: $1.33 (-33%, was $1.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/5041240
+==================================================
+
+==================================================
+Name: 농구제왕
+Release Date: Oct 9, 2026
+Price: Free to Play
+Genres: Action, Sports, Free To Play
+Link: https://store.steampowered.com/app/5099990
+==================================================
+
+==================================================
+Name: 告死天使招魂令 Death Angel Requiem
+Release Date: Oct 9, 2026
+Price: $3.07 (-23%, was $3.99)
+Genres: Adventure, Indie, RPG, Simulation
+Link: https://store.steampowered.com/app/4789070
+==================================================
+
+==================================================
+Name: Bar Keeper
+Release Date: Oct 9, 2026
+Price: $5.39 (-10%, was $5.99)
+Genres: Adventure, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5176690
+==================================================
+
