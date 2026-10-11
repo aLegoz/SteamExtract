@@ -93923,3 +93923,54 @@ Genres: Indie, Simulation
 Link: https://store.steampowered.com/app/5129430
 ==================================================
 
+
+--- Run: 2026-10-11 19:15:00 --- (6 new game(s) found)
+
+==================================================
+Name: Tower Reincarnation
+Release Date: Oct 11, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: RPG
+Link: https://store.steampowered.com/app/5163030
+==================================================
+
+==================================================
+Name: Genome Guardian 2
+Release Date: Oct 11, 2026
+Price: $10.39 (-35%, was $15.99)
+Genres: Action, Casual, Indie, RPG
+Link: https://store.steampowered.com/app/4130120
+==================================================
+
+==================================================
+Name: R.O.A.D.K.I.L.L.
+Release Date: Oct 11, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Racing
+Link: https://store.steampowered.com/app/5191780
+==================================================
+
+==================================================
+Name: Inspector Sommers in: Ouroborian Madness
+Release Date: Oct 11, 2026
+Price: Free to Play
+Genres: Adventure, Free To Play
+Link: https://store.steampowered.com/app/4894260
+==================================================
+
+==================================================
+Name: Within
+Release Date: Oct 11, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/3580070
+==================================================
+
+==================================================
+Name: 100 Cats Lost in China 2 Find & Color
+Release Date: Oct 11, 2026
+Price: $2.99 (-25%, was $3.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/3911840
+==================================================
+
