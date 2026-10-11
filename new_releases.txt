@@ -93778,3 +93778,46 @@ Genres: Utilities, Game Development
 Link: https://store.steampowered.com/app/4856540
 ==================================================
 
+
+--- Run: 2026-10-11 01:22:35 --- (5 new game(s) found)
+
+==================================================
+Name: CyberCowboys
+Release Date: Oct 10, 2026
+Price: Free to Play
+Genres: Casual, Indie, Massively Multiplayer, RPG, Simulation, Free To Play
+Link: https://store.steampowered.com/app/5136630
+==================================================
+
+==================================================
+Name: Big Furry Weekends!
+Release Date: Oct 10, 2026
+Price: $4.49 (-25%, was $5.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4575830
+==================================================
+
+==================================================
+Name: Rooftops Parkour Pro
+Release Date: Oct 10, 2026
+Price: $5.00
+Genres: Action, Simulation, Sports
+Link: https://store.steampowered.com/app/5291030
+==================================================
+
+==================================================
+Name: Astro Yoinkers
+Release Date: Oct 10, 2026
+Price: $5.24 (-25%, was $6.99)
+Genres: Action, Casual, Indie, Racing, Sports
+Link: https://store.steampowered.com/app/4456960
+==================================================
+
+==================================================
+Name: Bounty Hunter Horrors
+Release Date: Oct 10, 2026
+Price: $7.99
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/3627560
+==================================================
+
