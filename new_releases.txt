@@ -93974,3 +93974,46 @@ Genres: Casual, Indie
 Link: https://store.steampowered.com/app/3911840
 ==================================================
 
+
+--- Run: 2026-10-11 23:16:29 --- (5 new game(s) found)
+
+==================================================
+Name: SLIME WATCH 
+Release Date: Oct 11, 2026
+Price: $5.39 (-10%, was $5.99)
+Genres: Indie, Utilities
+Link: https://store.steampowered.com/app/4361190
+==================================================
+
+==================================================
+Name: Next time... I'll work from home
+Release Date: Oct 11, 2026
+Price: $4.08 (-15%, was $4.80)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5189940
+==================================================
+
+==================================================
+Name: Don't Give Up
+Release Date: Oct 11, 2026
+Price: Free to Play
+Genres: Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/5138180
+==================================================
+
+==================================================
+Name: Backrooms: The Lost Circus
+Release Date: Oct 11, 2026
+Price: $1.79 (-40%, was $2.99)
+Genres: Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/3239660
+==================================================
+
+==================================================
+Name: Screen Regions
+Release Date: Oct 10, 2026
+Price: Free to Play
+Genres: Free To Play, Utilities
+Link: https://store.steampowered.com/app/5098640
+==================================================
+
