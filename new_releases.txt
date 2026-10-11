@@ -93821,3 +93821,62 @@ Genres: Action, Adventure, Indie
 Link: https://store.steampowered.com/app/3627560
 ==================================================
 
+
+--- Run: 2026-10-11 07:57:12 --- (7 new game(s) found)
+
+==================================================
+Name: Arcana Rift
+Release Date: Oct 10, 2026
+Price: $5.99 (-25%, was $7.99)
+Genres: Casual, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/2022260
+==================================================
+
+==================================================
+Name: NekoTrak
+Release Date: Oct 10, 2026
+Price: $3.19 (-20%, was $3.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5249210
+==================================================
+
+==================================================
+Name: Ultimate Racing Simulator 1
+Release Date: Oct 10, 2026
+Price: $10.99
+Genres: Racing, Simulation, Strategy
+Link: https://store.steampowered.com/app/5046820
+==================================================
+
+==================================================
+Name: 429 - Four Twenty Knight
+Release Date: Oct 10, 2026
+Price: $6.90
+Genres: Action, Casual, Simulation, Strategy
+Link: https://store.steampowered.com/app/4665910
+==================================================
+
+==================================================
+Name: KYRO
+Release Date: Oct 10, 2026
+Price: $11.24 (-25%, was $14.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/3063690
+==================================================
+
+==================================================
+Name: Logic Puzzle Hall
+Release Date: Oct 10, 2026
+Price: $1.99
+Genres: Casual
+Link: https://store.steampowered.com/app/5235060
+==================================================
+
+==================================================
+Name: Sex Novel - Cheating Girlfriend
+Release Date: Oct 10, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: Adventure, Casual, Simulation
+Link: https://store.steampowered.com/app/5125340
+==================================================
+
