@@ -94215,3 +94215,230 @@ Genres: Casual, Indie, Simulation
 Link: https://store.steampowered.com/app/2528790
 ==================================================
 
+
+--- Run: 2026-10-12 19:32:28 --- (28 new game(s) found)
+
+==================================================
+Name: Triet Cat
+Release Date: Oct 12, 2026
+Price: Free to Play
+Genres: Adventure, Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/5289540
+==================================================
+
+==================================================
+Name: Blocky Miner
+Release Date: Oct 12, 2026
+Price: $5.59 (-30%, was $7.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/5124050
+==================================================
+
+==================================================
+Name: DSARTS
+Release Date: Oct 12, 2026
+Price: Free to Play
+Genres: Simulation, Free To Play
+Link: https://store.steampowered.com/app/4611710
+==================================================
+
+==================================================
+Name: For The Cat! Sorcerer's Revenge
+Release Date: Oct 12, 2026
+Price: $5.09 (-15%, was $5.99)
+Genres: Action, Indie, RPG
+Link: https://store.steampowered.com/app/4773180
+==================================================
+
+==================================================
+Name: Capybaria
+Release Date: Oct 12, 2026
+Price: $2.09 (-30%, was $2.99)
+Genres: Adventure, Indie, RPG, Simulation
+Link: https://store.steampowered.com/app/3250140
+==================================================
+
+==================================================
+Name: No More Pain
+Release Date: Oct 12, 2026
+Price: $1.79 (-10%, was $1.99)
+Genres: Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/5064290
+==================================================
+
+==================================================
+Name: One More Wave
+Release Date: Oct 12, 2026
+Price: Free to Play
+Genres: Indie, Free To Play
+Link: https://store.steampowered.com/app/5303740
+==================================================
+
+==================================================
+Name: TIMBER! Idle Village Builder
+Release Date: Oct 12, 2026
+Price: $2.99 (-25%, was $3.99)
+Genres: Adventure, Casual, Indie, RPG, Simulation, Strategy
+Link: https://store.steampowered.com/app/5042740
+==================================================
+
+==================================================
+Name: Colorbound
+Release Date: Oct 12, 2026
+Price: $13.49 (-10%, was $14.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/3778610
+==================================================
+
+==================================================
+Name: Haunted Heist
+Release Date: Oct 12, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4024440
+==================================================
+
+==================================================
+Name: Calculate It
+Release Date: Oct 12, 2026
+Price: $5.59 (-20%, was $6.99)
+Genres: Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/3043740
+==================================================
+
+==================================================
+Name: Desire's Burgers
+Release Date: Oct 12, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Indie
+Link: https://store.steampowered.com/app/3431760
+==================================================
+
+==================================================
+Name: Refund This Game
+Release Date: Oct 12, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Action, Adventure
+Link: https://store.steampowered.com/app/5070190
+==================================================
+
+==================================================
+Name: Vicarius
+Release Date: Oct 12, 2026
+Price: $6.79 (-15%, was $7.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/3894540
+==================================================
+
+==================================================
+Name: Monkey Bizniz
+Release Date: Oct 12, 2026
+Price: $8.09 (-10%, was $8.99)
+Genres: Action, Adventure, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4425550
+==================================================
+
+==================================================
+Name: Road to Verdant
+Release Date: Oct 12, 2026
+Price: $6.39 (-20%, was $7.99)
+Genres: Action, Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/5157000
+==================================================
+
+==================================================
+Name: Cat Fiesta
+Release Date: Oct 12, 2026
+Price: $6.23 (-30%, was $8.90)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/5213150
+==================================================
+
+==================================================
+Name: smoke.exe
+Release Date: Oct 12, 2026
+Price: $6.29 (-30%, was $8.99)
+Genres: Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/5203370
+==================================================
+
+==================================================
+Name: Dinerz
+Release Date: Oct 12, 2026
+Price: $6.79 (-15%, was $7.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4513300
+==================================================
+
+==================================================
+Name: Alpha Nomos
+Release Date: Oct 12, 2026
+Price: $16.19 (-10%, was $17.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/2529960
+==================================================
+
+==================================================
+Name: SHADOW OF THE KINGDOM
+Release Date: Oct 12, 2026
+Price: $7.64 (-15%, was $8.99)
+Genres: Indie, RPG
+Link: https://store.steampowered.com/app/5213290
+==================================================
+
+==================================================
+Name: Overdue
+Release Date: Oct 12, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/4456180
+==================================================
+
+==================================================
+Name: Last Round at the End of the World
+Release Date: Oct 12, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Casual, Indie, RPG
+Link: https://store.steampowered.com/app/4746890
+==================================================
+
+==================================================
+Name: Battleplan
+Release Date: Oct 12, 2026
+Price: $29.99
+Genres: Strategy
+Link: https://store.steampowered.com/app/3743140
+==================================================
+
+==================================================
+Name: American Cooking Simulator: Multiplayer
+Release Date: Oct 12, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Action, Indie, Simulation
+Link: https://store.steampowered.com/app/3780530
+==================================================
+
+==================================================
+Name: Coin Rush
+Release Date: Oct 12, 2026
+Price: $1.99
+Genres: Casual
+Link: https://store.steampowered.com/app/5083390
+==================================================
+
+==================================================
+Name: Midnight Diner Love Story
+Release Date: Oct 12, 2026
+Price: $5.39 (-10%, was $5.99)
+Genres: Casual, Indie, RPG
+Link: https://store.steampowered.com/app/4687350
+==================================================
+
+==================================================
+Name: Den-Den: Tokyo Horror
+Release Date: Oct 12, 2026
+Price: $12.74 (-15%, was $14.99)
+Genres: Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/3301010
+==================================================
+
