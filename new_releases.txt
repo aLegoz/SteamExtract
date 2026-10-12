@@ -94017,3 +94017,54 @@ Genres: Free To Play, Utilities
 Link: https://store.steampowered.com/app/5098640
 ==================================================
 
+
+--- Run: 2026-10-12 02:55:51 --- (6 new game(s) found)
+
+==================================================
+Name: Idle Vapor Legends
+Release Date: Oct 11, 2026
+Price: $2.79 (-30%, was $3.99)
+Genres: Casual, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/4985520
+==================================================
+
+==================================================
+Name: Bandit Simulator TD
+Release Date: Oct 11, 2026
+Price: $10.79 (-10%, was $11.99)
+Genres: Casual, Indie, RPG, Simulation, Strategy
+Link: https://store.steampowered.com/app/4267800
+==================================================
+
+==================================================
+Name: Unwatching -The Seven Dolls-
+Release Date: Oct 11, 2026
+Price: $2.54 (-15%, was $2.99)
+Genres: Indie
+Link: https://store.steampowered.com/app/5166790
+==================================================
+
+==================================================
+Name: Traitor
+Release Date: Oct 11, 2026
+Price: $3.49 (-30%, was $4.99)
+Genres: Action, Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/3836580
+==================================================
+
+==================================================
+Name: Aim Like a Cat
+Release Date: Oct 11, 2026
+Price: $4.79 (-40%, was $7.99)
+Genres: Action, Indie, Simulation
+Link: https://store.steampowered.com/app/5131570
+==================================================
+
+==================================================
+Name: Cosy Loops
+Release Date: Oct 10, 2026
+Price: $2.69 (-10%, was $2.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4547670
+==================================================
+
