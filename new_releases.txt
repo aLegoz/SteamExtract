@@ -94068,3 +94068,150 @@ Genres: Casual, Indie, Simulation
 Link: https://store.steampowered.com/app/4547670
 ==================================================
 
+
+--- Run: 2026-10-12 09:57:16 --- (18 new game(s) found)
+
+==================================================
+Name: Spy Drops Gaiden
+Release Date: Oct 12, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Action
+Link: https://store.steampowered.com/app/4152490
+==================================================
+
+==================================================
+Name: The Doll Shop
+Release Date: Oct 12, 2026
+Price: $11.69 (-10%, was $12.99)
+Genres: Adventure
+Link: https://store.steampowered.com/app/3851680
+==================================================
+
+==================================================
+Name: Life, the Universe, and Restaurants
+Release Date: Oct 12, 2026
+Price: $9.74 (-35%, was $14.99)
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/3746950
+==================================================
+
+==================================================
+Name: Space Manager
+Release Date: Oct 12, 2026
+Price: $13.45 (-10%, was $14.95)
+Genres: Simulation, Strategy
+Link: https://store.steampowered.com/app/4229480
+==================================================
+
+==================================================
+Name: Burn With Me
+Release Date: Oct 12, 2026
+Price: $9.89 (-34%, was $14.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/2954010
+==================================================
+
+==================================================
+Name: PanzerCity
+Release Date: Oct 12, 2026
+Price: Free to Play
+Genres: Action, Free To Play
+Link: https://store.steampowered.com/app/5299150
+==================================================
+
+==================================================
+Name: Meow Garden
+Release Date: Oct 11, 2026
+Price: $10.79 (-10%, was $11.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/3530010
+==================================================
+
+==================================================
+Name: Desktop Cooking: Panda Diner
+Release Date: Oct 11, 2026
+Price: $2.39 (-40%, was $3.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5268210
+==================================================
+
+==================================================
+Name: Desktop Tide
+Release Date: Oct 11, 2026
+Price: $3.00
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5248560
+==================================================
+
+==================================================
+Name: DEGUL DEGUL 999
+Release Date: Oct 11, 2026
+Price: $9.87 (-24%, was $12.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5183270
+==================================================
+
+==================================================
+Name: Last On Duty
+Release Date: Oct 11, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Adventure, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/3820460
+==================================================
+
+==================================================
+Name: ROLY
+Release Date: Oct 11, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Action, Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/5177750
+==================================================
+
+==================================================
+Name: My Princess is The AV Idol
+Release Date: Oct 11, 2026
+Price: $7.99
+Genres: Casual, Indie, RPG, Simulation, Strategy
+Link: https://store.steampowered.com/app/4402610
+==================================================
+
+==================================================
+Name: KIRR
+Release Date: Oct 11, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Action, Adventure, Casual, Indie, Massively Multiplayer, RPG, Strategy
+Link: https://store.steampowered.com/app/5244200
+==================================================
+
+==================================================
+Name: Feast
+Release Date: Oct 11, 2026
+Price: $0.99
+Genres: Simulation
+Link: https://store.steampowered.com/app/5071730
+==================================================
+
+==================================================
+Name: Demersus
+Release Date: Oct 11, 2026
+Price: Free to Play
+Genres: Indie, Free To Play
+Link: https://store.steampowered.com/app/5224380
+==================================================
+
+==================================================
+Name: Skulls and Sweets
+Release Date: Oct 11, 2026
+Price: $6.49 (-35%, was $9.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5239090
+==================================================
+
+==================================================
+Name: Desktop Charging Station
+Release Date: Oct 11, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/2528790
+==================================================
+
