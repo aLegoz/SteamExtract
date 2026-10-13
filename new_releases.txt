@@ -94664,3 +94664,206 @@ Genres: Indie, Simulation
 Link: https://store.steampowered.com/app/5287760
 ==================================================
 
+
+--- Run: 2026-10-13 16:33:03 --- (25 new game(s) found)
+
+==================================================
+Name: Subject 4471
+Release Date: Oct 13, 2026
+Price: Free to Play
+Genres: Action, Adventure, Indie, Free To Play
+Link: https://store.steampowered.com/app/4982770
+==================================================
+
+==================================================
+Name: Murder Castle
+Release Date: Oct 13, 2026
+Price: $3.39 (-15%, was $3.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4624140
+==================================================
+
+==================================================
+Name: Airport Madness Evolution
+Release Date: Oct 13, 2026
+Price: $19.99
+Genres: Simulation
+Link: https://store.steampowered.com/app/5108650
+==================================================
+
+==================================================
+Name: One Million Coins
+Release Date: Oct 13, 2026
+Price: $1.99 (-20%, was $2.49)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5258340
+==================================================
+
+==================================================
+Name: Blockmind
+Release Date: Oct 13, 2026
+Price: $0.69 (-65%, was $1.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4708650
+==================================================
+
+==================================================
+Name: Shape shooter
+Release Date: Oct 13, 2026
+Price: $3.99
+Genres: Casual
+Link: https://store.steampowered.com/app/3983260
+==================================================
+
+==================================================
+Name: Battlefield™ 6
+Release Date: Oct 13, 2026
+Price: $59.99 (-40%, was $99.99)
+Genres: Action
+Link: https://store.steampowered.com/app/2807960
+==================================================
+
+==================================================
+Name: Total War: SHOGUN 2 - Complete Edition
+Release Date: Oct 13, 2026
+Price: $39.99
+Genres: Strategy
+Link: https://store.steampowered.com/app/3846830
+==================================================
+
+==================================================
+Name: BIO-SUBMARINER DX
+Release Date: Oct 13, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/5113860
+==================================================
+
+==================================================
+Name: Feudal Craft
+Release Date: Oct 13, 2026
+Price: $12.74 (-15%, was $14.99)
+Genres: Simulation, Strategy
+Link: https://store.steampowered.com/app/3480890
+==================================================
+
+==================================================
+Name: Allogloom
+Release Date: Oct 13, 2026
+Price: $13.49 (-10%, was $14.99)
+Genres: Adventure, Casual
+Link: https://store.steampowered.com/app/2644100
+==================================================
+
+==================================================
+Name: Deep Dish Dungeon
+Release Date: Oct 13, 2026
+Price: $12.74 (-15%, was $14.99)
+Genres: Action, Strategy
+Link: https://store.steampowered.com/app/2871520
+==================================================
+
+==================================================
+Name: Planet Zoo 2
+Release Date: Oct 13, 2026
+Price: $49.99
+Genres: Simulation, Strategy
+Link: https://store.steampowered.com/app/3219030
+==================================================
+
+==================================================
+Name: ROLLA
+Release Date: Oct 13, 2026
+Price: $6.79 (-15%, was $7.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/3975830
+==================================================
+
+==================================================
+Name: Cytoblast
+Release Date: Oct 13, 2026
+Price: $3.74 (-25%, was $4.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/5246440
+==================================================
+
+==================================================
+Name: Pickleball Tycoon
+Release Date: Oct 13, 2026
+Price: $6.39 (-20%, was $7.99)
+Genres: Casual, Indie, Simulation, Sports
+Link: https://store.steampowered.com/app/5304770
+==================================================
+
+==================================================
+Name: Dub Night Live
+Release Date: Oct 13, 2026
+Price: $2.24 (-25%, was $2.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5099290
+==================================================
+
+==================================================
+Name: Whispers Of The Lost Ticket
+Release Date: Oct 13, 2026
+Price: $3.99
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4703110
+==================================================
+
+==================================================
+Name: PigPonyPocalypse
+Release Date: Oct 13, 2026
+Price: $6.39 (-20%, was $7.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4385110
+==================================================
+
+==================================================
+Name: TGD-Turn the general into a dog
+Release Date: Oct 13, 2026
+Price: $2.99
+Genres: RPG
+Link: https://store.steampowered.com/app/5231710
+==================================================
+
+==================================================
+Name: Legion Breaker
+Release Date: Oct 13, 2026
+Price: $5.59 (-20%, was $6.99)
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4425980
+==================================================
+
+==================================================
+Name: Mechabot Defender
+Release Date: Oct 13, 2026
+Price: $3.39 (-15%, was $3.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/1950820
+==================================================
+
+==================================================
+Name: Wallpaper
+Release Date: Oct 13, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Utilities
+Link: https://store.steampowered.com/app/5042260
+==================================================
+
+==================================================
+Name: Atlantis Fantasy: Reborn
+Release Date: Oct 13, 2026
+Price: Free to Play
+Genres: Simulation, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4725520
+==================================================
+
+==================================================
+Name: The Last Summoner's Legacy
+Release Date: Oct 13, 2026
+Price: $6.99
+Genres: RPG, Strategy
+Link: https://store.steampowered.com/app/5186190
+==================================================
+
