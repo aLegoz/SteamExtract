@@ -94557,3 +94557,110 @@ Genres: Action, Indie
 Link: https://store.steampowered.com/app/4924830
 ==================================================
 
+
+--- Run: 2026-10-13 08:37:17 --- (13 new game(s) found)
+
+==================================================
+Name: FLYBRAIN LAB
+Release Date: Oct 13, 2026
+Price: $2.72 (-22%, was $3.49)
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/5331850
+==================================================
+
+==================================================
+Name: Iverian Wars: Craxion vs Defugel
+Release Date: Oct 13, 2026
+Price: Free to Play
+Genres: Action, Indie, Massively Multiplayer, RPG, Free To Play
+Link: https://store.steampowered.com/app/1191830
+==================================================
+
+==================================================
+Name: CORRUPT.EXE
+Release Date: Oct 13, 2026
+Price: $3.49 (-30%, was $4.99)
+Genres: Action
+Link: https://store.steampowered.com/app/4853590
+==================================================
+
+==================================================
+Name: Hungry Horrors
+Release Date: Oct 13, 2026
+Price: $11.99 (-20%, was $14.99)
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/3048840
+==================================================
+
+==================================================
+Name: Warmachine: Rogue-Scout
+Release Date: Oct 12, 2026
+Price: Free to Play
+Genres: Casual, Simulation, Strategy, Free To Play
+Link: https://store.steampowered.com/app/5006180
+==================================================
+
+==================================================
+Name: THE 13th Digit
+Release Date: Oct 12, 2026
+Price: $6.99
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4984160
+==================================================
+
+==================================================
+Name: Mortal Xiuxian
+Release Date: Oct 12, 2026
+Price: $6.29 (-10%, was $6.99)
+Genres: Casual, Indie, RPG, Simulation
+Link: https://store.steampowered.com/app/5250790
+==================================================
+
+==================================================
+Name: Prankster Raccoon
+Release Date: Oct 12, 2026
+Price: Free to Play
+Genres: Action, Adventure, Casual, Indie, RPG, Simulation, Free To Play
+Link: https://store.steampowered.com/app/5270020
+==================================================
+
+==================================================
+Name: Give Me Five
+Release Date: Oct 12, 2026
+Price: $3.99
+Genres: Action, Sports
+Link: https://store.steampowered.com/app/4613310
+==================================================
+
+==================================================
+Name: Rhythm Animal Café
+Release Date: Oct 12, 2026
+Price: $10.79 (-10%, was $11.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/3859210
+==================================================
+
+==================================================
+Name: Keep Her Safe
+Release Date: Oct 12, 2026
+Price: $6.49 (-35%, was $9.99)
+Genres: Action, Adventure, Indie, RPG, Simulation
+Link: https://store.steampowered.com/app/4532550
+==================================================
+
+==================================================
+Name: NeeNee Deskpals
+Release Date: Oct 12, 2026
+Price: $6.29 (-10%, was $6.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/3863740
+==================================================
+
+==================================================
+Name: Karmic Wonders
+Release Date: Oct 12, 2026
+Price: $2.00 (-33%, was $2.99)
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/5287760
+==================================================
+
