@@ -95089,3 +95089,78 @@ Genres: Simulation, Animation & Modeling, Video Production
 Link: https://store.steampowered.com/app/4858610
 ==================================================
 
+
+--- Run: 2026-10-14 05:34:18 --- (9 new game(s) found)
+
+==================================================
+Name: BitWise
+Release Date: Oct 13, 2026
+Price: $11.99 (-20%, was $14.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5195360
+==================================================
+
+==================================================
+Name: Keysaster
+Release Date: Oct 13, 2026
+Price: $8.09 (-10%, was $8.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4519510
+==================================================
+
+==================================================
+Name: HyperION DAW
+Release Date: Oct 13, 2026
+Price: Free to Play
+Genres: Indie, Free To Play, Audio Production
+Link: https://store.steampowered.com/app/5024590
+==================================================
+
+==================================================
+Name: Working...
+Release Date: Oct 13, 2026
+Price: $2.99
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5201080
+==================================================
+
+==================================================
+Name: 霸业封神传奇
+Release Date: Oct 13, 2026
+Price: Free to Play
+Genres: Action, Adventure, Casual, Massively Multiplayer, RPG, Free To Play
+Link: https://store.steampowered.com/app/4907670
+==================================================
+
+==================================================
+Name: Doomsday Landlord
+Release Date: Oct 13, 2026
+Price: $9.89 (-10%, was $10.99)
+Genres: Simulation, Strategy
+Link: https://store.steampowered.com/app/5024270
+==================================================
+
+==================================================
+Name: THE WAY HOME IS DANGEROUS - Adult Only
+Release Date: Oct 13, 2026
+Price: $11.89 (-30%, was $16.99)
+Genres: Action, Indie, RPG
+Link: https://store.steampowered.com/app/5270030
+==================================================
+
+==================================================
+Name: Nientum - Op.ZERO
+Release Date: Oct 13, 2026
+Price: $15.99 (-20%, was $19.99)
+Genres: Action, Adventure, Casual, Indie, RPG, Simulation, Sports
+Link: https://store.steampowered.com/app/2725250
+==================================================
+
+==================================================
+Name: Cozy Tales
+Release Date: Oct 13, 2026
+Price: $4.99
+Genres: Casual, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/5328210
+==================================================
+
