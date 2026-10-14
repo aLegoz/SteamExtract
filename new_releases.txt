@@ -95164,3 +95164,78 @@ Genres: Casual, Indie, RPG, Strategy
 Link: https://store.steampowered.com/app/5328210
 ==================================================
 
+
+--- Run: 2026-10-14 10:44:32 --- (9 new game(s) found)
+
+==================================================
+Name: The Assistant - Season 3
+Release Date: Oct 14, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/5227250
+==================================================
+
+==================================================
+Name: 箭无穷：Arrows Without End
+Release Date: Oct 14, 2026
+Price: $1.79 (-40%, was $2.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/5282350
+==================================================
+
+==================================================
+Name: Anomaly Watchout!
+Release Date: Oct 14, 2026
+Price: Free to Play
+Genres: Adventure, Indie, Simulation, Free To Play
+Link: https://store.steampowered.com/app/5123480
+==================================================
+
+==================================================
+Name: Stream Racer
+Release Date: Oct 14, 2026
+Price: Free to Play
+Genres: Casual, Free To Play, Massively Multiplayer, Racing, Simulation
+Link: https://store.steampowered.com/app/1333410
+==================================================
+
+==================================================
+Name: Tales From Eternity - Interactive Preview
+Release Date: Oct 14, 2026
+Price: Free to Play
+Genres: Indie, Free To Play
+Link: https://store.steampowered.com/app/5289970
+==================================================
+
+==================================================
+Name: My Recycling Center 2
+Release Date: Oct 14, 2026
+Price: $16.99
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/3343920
+==================================================
+
+==================================================
+Name: Remote Reaper: FPV Combat Drone Simulator
+Release Date: Oct 14, 2026
+Price: $14.99 (-25%, was $19.99)
+Genres: Action, Indie, Simulation
+Link: https://store.steampowered.com/app/3295810
+==================================================
+
+==================================================
+Name: 恐怖夜話 第二夜
+Release Date: Oct 14, 2026
+Price: $3.19 (-20%, was $3.99)
+Genres: Adventure
+Link: https://store.steampowered.com/app/4981040
+==================================================
+
+==================================================
+Name: Grandma's Last Stand
+Release Date: Oct 13, 2026
+Price: $1.99
+Genres: Indie
+Link: https://store.steampowered.com/app/5135320
+==================================================
+
