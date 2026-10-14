@@ -95239,3 +95239,230 @@ Genres: Indie
 Link: https://store.steampowered.com/app/5135320
 ==================================================
 
+
+--- Run: 2026-10-14 15:36:19 --- (28 new game(s) found)
+
+==================================================
+Name: Starbiz
+Release Date: Oct 14, 2026
+Price: $9.99
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/2918650
+==================================================
+
+==================================================
+Name: Where It Happened
+Release Date: Oct 14, 2026
+Price: $3.59 (-10%, was $3.99)
+Genres: Indie
+Link: https://store.steampowered.com/app/4631470
+==================================================
+
+==================================================
+Name: THANKS, LIGHT.
+Release Date: Oct 14, 2026
+Price: $17.99 (-10%, was $19.99)
+Genres: Adventure, Indie, Strategy
+Link: https://store.steampowered.com/app/2544740
+==================================================
+
+==================================================
+Name: ドロチェの箱庭
+Release Date: Oct 14, 2026
+Price: Free to Play
+Genres: Casual, Simulation, Free To Play
+Link: https://store.steampowered.com/app/4536570
+==================================================
+
+==================================================
+Name: Plug and Slay
+Release Date: Oct 14, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4540800
+==================================================
+
+==================================================
+Name: Ratatan
+Release Date: Oct 14, 2026
+Price: $34.99
+Genres: Action, Adventure, Casual, Indie, RPG
+Link: https://store.steampowered.com/app/2949320
+==================================================
+
+==================================================
+Name: Among the Trolls
+Release Date: Oct 14, 2026
+Price: $16.99 (-15%, was $19.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/1675260
+==================================================
+
+==================================================
+Name: Super Frog Ninja
+Release Date: Oct 14, 2026
+Price: $8.99
+Genres: Indie
+Link: https://store.steampowered.com/app/5059930
+==================================================
+
+==================================================
+Name: Parallel Park
+Release Date: Oct 14, 2026
+Price: $17.99 (-10%, was $19.99)
+Genres: Indie, Racing
+Link: https://store.steampowered.com/app/3153450
+==================================================
+
+==================================================
+Name: The Lonely Hacker
+Release Date: Oct 14, 2026
+Price: $9.99
+Genres: Casual, Indie, RPG, Simulation, Strategy
+Link: https://store.steampowered.com/app/2368100
+==================================================
+
+==================================================
+Name: Paradise Art Royale
+Release Date: Oct 14, 2026
+Price: Free to Play
+Genres: Adventure, Indie, Free To Play
+Link: https://store.steampowered.com/app/2331730
+==================================================
+
+==================================================
+Name: The Witch's Bakery
+Release Date: Oct 14, 2026
+Price: $17.99 (-10%, was $19.99)
+Genres: Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/2967950
+==================================================
+
+==================================================
+Name: Shipping Store Simulator 2037
+Release Date: Oct 14, 2026
+Price: $17.99 (-10%, was $19.99)
+Genres: Action, Adventure, Simulation
+Link: https://store.steampowered.com/app/4098030
+==================================================
+
+==================================================
+Name: Hellternum
+Release Date: Oct 14, 2026
+Price: Free to Play
+Genres: Indie, Free To Play
+Link: https://store.steampowered.com/app/5162260
+==================================================
+
+==================================================
+Name: FIBS
+Release Date: Oct 14, 2026
+Price: $2.99 (-40%, was $4.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/5194790
+==================================================
+
+==================================================
+Name: Hubert
+Release Date: Oct 14, 2026
+Price: $17.99 (-10%, was $19.99)
+Genres: Action, Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/764930
+==================================================
+
+==================================================
+Name: Witch's Cottage
+Release Date: Oct 14, 2026
+Price: $4.79 (-20%, was $5.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5264130
+==================================================
+
+==================================================
+Name: Thank You Bus Driver
+Release Date: Oct 14, 2026
+Price: $4.99
+Genres: Indie
+Link: https://store.steampowered.com/app/5067360
+==================================================
+
+==================================================
+Name: À Deriva
+Release Date: Oct 14, 2026
+Price: $2.99
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5284480
+==================================================
+
+==================================================
+Name: Labyrinth Knights
+Release Date: Oct 14, 2026
+Price: $8.49 (-15%, was $9.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/4250470
+==================================================
+
+==================================================
+Name: Pinball FX VR
+Release Date: Oct 14, 2026
+Price: $9.99
+Genres: Simulation
+Link: https://store.steampowered.com/app/4738360
+==================================================
+
+==================================================
+Name: SIGNAL LOST
+Release Date: Oct 14, 2026
+Price: $6.79 (-15%, was $7.99)
+Genres: Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/3079180
+==================================================
+
+==================================================
+Name: Halley's Big Catch
+Release Date: Oct 14, 2026
+Price: $13.49 (-10%, was $14.99)
+Genres: Adventure, Casual, Indie, Simulation, Sports
+Link: https://store.steampowered.com/app/5128280
+==================================================
+
+==================================================
+Name: Hauberk
+Release Date: Oct 14, 2026
+Price: $0.59 (-40%, was $0.99)
+Genres: Adventure, Casual, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/5327690
+==================================================
+
+==================================================
+Name: Le Tapis Vert
+Release Date: Oct 14, 2026
+Price: $3.19 (-20%, was $3.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/5307770
+==================================================
+
+==================================================
+Name: Sinners Please
+Release Date: Oct 14, 2026
+Price: $2.69 (-10%, was $2.99)
+Genres: Simulation
+Link: https://store.steampowered.com/app/5305580
+==================================================
+
+==================================================
+Name: How to Wait for the Bus
+Release Date: Oct 14, 2026
+Price: $4.00
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5313620
+==================================================
+
+==================================================
+Name: Visual Novel: Ali Baba Basemen
+Release Date: Oct 14, 2026
+Price: $0.69 (-30%, was $0.99)
+Genres: Action, Adventure, Casual, Indie, RPG
+Link: https://store.steampowered.com/app/5318330
+==================================================
+
