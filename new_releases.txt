@@ -95629,3 +95629,70 @@ Genres: Simulation, Strategy
 Link: https://store.steampowered.com/app/2626980
 ==================================================
 
+
+--- Run: 2026-10-14 22:45:59 --- (8 new game(s) found)
+
+==================================================
+Name: Arknights: Endfield
+Release Date: Oct 14, 2026
+Price: Free to Play
+Genres: Action, Adventure, RPG, Free To Play
+Link: https://store.steampowered.com/app/4732690
+==================================================
+
+==================================================
+Name: SLOWBURN
+Release Date: Oct 14, 2026
+Price: $5.09 (-15%, was $5.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/2835080
+==================================================
+
+==================================================
+Name: Deep Ocean 4X - Conquest of the Abyss
+Release Date: Oct 14, 2026
+Price: $8.49 (-15%, was $9.99)
+Genres: Strategy
+Link: https://store.steampowered.com/app/5199230
+==================================================
+
+==================================================
+Name: Constriction
+Release Date: Oct 14, 2026
+Price: $2.99
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/4482080
+==================================================
+
+==================================================
+Name: Bid Rivals
+Release Date: Oct 14, 2026
+Price: Free to Play
+Genres: Casual, Indie, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4956060
+==================================================
+
+==================================================
+Name: Keyboard Chaos
+Release Date: Oct 14, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5182260
+==================================================
+
+==================================================
+Name: Blessing In The Darkness
+Release Date: Oct 14, 2026
+Price: $12.74 (-15%, was $14.99)
+Genres: Action, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/3364080
+==================================================
+
+==================================================
+Name: Dealer's Tell: All Bets Are Final
+Release Date: Oct 14, 2026
+Price: $5.99 (-25%, was $7.99)
+Genres: Indie
+Link: https://store.steampowered.com/app/5198230
+==================================================
+
