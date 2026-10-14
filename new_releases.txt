@@ -95030,3 +95030,62 @@ Genres: Indie, Simulation
 Link: https://store.steampowered.com/app/3391670
 ==================================================
 
+
+--- Run: 2026-10-14 00:42:06 --- (7 new game(s) found)
+
+==================================================
+Name: Bloom Blow
+Release Date: Oct 13, 2026
+Price: $15.29 (-10%, was $16.99)
+Genres: Indie, Simulation, Sports
+Link: https://store.steampowered.com/app/5277080
+==================================================
+
+==================================================
+Name: Twin Drive
+Release Date: Oct 13, 2026
+Price: $2.69 (-10%, was $2.99)
+Genres: Action, Adventure, Indie, Massively Multiplayer, Racing
+Link: https://store.steampowered.com/app/4944320
+==================================================
+
+==================================================
+Name: Trampoline to Tomorrow
+Release Date: Oct 13, 2026
+Price: $1.80 (-10%, was $2.00)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5228280
+==================================================
+
+==================================================
+Name: Sudoku Collection: Classic Sudoku, Killer Sudoku, Diagonal Sudoku, Jigsaw Sudoku
+Release Date: Oct 13, 2026
+Price: $3.39 (-15%, was $3.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/5233550
+==================================================
+
+==================================================
+Name: Evard The Hermit: Through Fears
+Release Date: Oct 13, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/2148120
+==================================================
+
+==================================================
+Name: Hentai Clicker: Kohana is streaming
+Release Date: Oct 13, 2026
+Price: $2.00 (-33%, was $2.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5306440
+==================================================
+
+==================================================
+Name: Huiyu AI 3D Video
+Release Date: Oct 13, 2026
+Price: $2.99 (-40%, was $4.99)
+Genres: Simulation, Animation & Modeling, Video Production
+Link: https://store.steampowered.com/app/4858610
+==================================================
+
