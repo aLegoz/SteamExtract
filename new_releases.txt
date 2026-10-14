@@ -95466,3 +95466,166 @@ Genres: Action, Adventure, Casual, Indie, RPG
 Link: https://store.steampowered.com/app/5318330
 ==================================================
 
+
+--- Run: 2026-10-14 19:48:20 --- (20 new game(s) found)
+
+==================================================
+Name: Mudventure
+Release Date: Oct 14, 2026
+Price: $7.19 (-40%, was $11.99)
+Genres: Adventure, Casual
+Link: https://store.steampowered.com/app/4290170
+==================================================
+
+==================================================
+Name: MacroPilot
+Release Date: Oct 14, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Utilities
+Link: https://store.steampowered.com/app/5275200
+==================================================
+
+==================================================
+Name: Lower Lower Lower
+Release Date: Oct 14, 2026
+Price: $4.99
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/5326450
+==================================================
+
+==================================================
+Name: Cheap Screamer
+Release Date: Oct 14, 2026
+Price: $5.94 (-15%, was $6.99)
+Genres: Action, Indie, Simulation
+Link: https://store.steampowered.com/app/4404390
+==================================================
+
+==================================================
+Name: Legend of Kendor
+Release Date: Oct 14, 2026
+Price: $4.99
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/1274230
+==================================================
+
+==================================================
+Name: Rockfall
+Release Date: Oct 14, 2026
+Price: $5.94 (-15%, was $6.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4250710
+==================================================
+
+==================================================
+Name: PUGAD
+Release Date: Oct 14, 2026
+Price: $2.69 (-10%, was $2.99)
+Genres: Action, Adventure, Indie, Simulation, Sports
+Link: https://store.steampowered.com/app/5043350
+==================================================
+
+==================================================
+Name: Eternally
+Release Date: Oct 14, 2026
+Price: $7.64 (-15%, was $8.99)
+Genres: RPG, Strategy
+Link: https://store.steampowered.com/app/4281030
+==================================================
+
+==================================================
+Name: Horrorvania
+Release Date: Oct 14, 2026
+Price: $12.59 (-10%, was $13.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/4289590
+==================================================
+
+==================================================
+Name: Fish & Hike
+Release Date: Oct 14, 2026
+Price: $6.99
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4143100
+==================================================
+
+==================================================
+Name: Lootkeeper: Tidy Up the Loot
+Release Date: Oct 14, 2026
+Price: $3.59 (-10%, was $3.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5272190
+==================================================
+
+==================================================
+Name: Rescue the Hostages: Twenty Deadly Questions
+Release Date: Oct 14, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5286150
+==================================================
+
+==================================================
+Name: Thief Simulator 3: First Loot
+Release Date: Oct 14, 2026
+Price: Free to Play
+Genres: Action, Adventure, Indie, Simulation, Free To Play
+Link: https://store.steampowered.com/app/5100440
+==================================================
+
+==================================================
+Name: Ferry Good Day
+Release Date: Oct 14, 2026
+Price: $6.29 (-10%, was $6.99)
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/3701210
+==================================================
+
+==================================================
+Name: Cozy Builder
+Release Date: Oct 14, 2026
+Price: $11.99 (-20%, was $14.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4059000
+==================================================
+
+==================================================
+Name: FIRE AND ASHES
+Release Date: Oct 14, 2026
+Price: $8.99 (-40%, was $14.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/1751730
+==================================================
+
+==================================================
+Name: over the hill
+Release Date: Oct 14, 2026
+Price: $19.99 (-20%, was $24.99)
+Genres: Adventure, Casual, Indie, Racing, Simulation, Sports
+Link: https://store.steampowered.com/app/2929250
+==================================================
+
+==================================================
+Name: The WHEELJAM Collection
+Release Date: Oct 14, 2026
+Price: Free to Play
+Genres: Action, Casual, Free To Play
+Link: https://store.steampowered.com/app/5090350
+==================================================
+
+==================================================
+Name: Warhammer 40,000: Boltgun 2
+Release Date: Oct 14, 2026
+Price: $24.99
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/3115160
+==================================================
+
+==================================================
+Name: Isle Forge
+Release Date: Oct 14, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: Simulation, Strategy
+Link: https://store.steampowered.com/app/2626980
+==================================================
+
