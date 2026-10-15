@@ -95870,3 +95870,182 @@ Genres: Action, Adventure
 Link: https://store.steampowered.com/app/4802510
 ==================================================
 
+
+--- Run: 2026-10-15 12:13:39 --- (22 new game(s) found)
+
+==================================================
+Name: Raid Sky
+Release Date: Oct 15, 2026
+Price: $2.24 (-25%, was $2.99)
+Genres: Action, Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/5337260
+==================================================
+
+==================================================
+Name: Tidy Till Dawn
+Release Date: Oct 15, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5270770
+==================================================
+
+==================================================
+Name: Gem Warrior R
+Release Date: Oct 15, 2026
+Price: $5.97
+Genres: Action, Adventure, Simulation, Strategy
+Link: https://store.steampowered.com/app/3323440
+==================================================
+
+==================================================
+Name: Tokyo Canvas
+Release Date: Oct 15, 2026
+Price: $6.99
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5123950
+==================================================
+
+==================================================
+Name: Thinki - Brain Games
+Release Date: Oct 15, 2026
+Price: Free to Play
+Genres: Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/5231360
+==================================================
+
+==================================================
+Name: Area 37
+Release Date: Oct 15, 2026
+Price: $9.99
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/2478820
+==================================================
+
+==================================================
+Name: HAUNT
+Release Date: Oct 15, 2026
+Price: $4.79 (-20%, was $5.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/3175590
+==================================================
+
+==================================================
+Name: WhoIsHe
+Release Date: Oct 15, 2026
+Price: $2.69 (-10%, was $2.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4928910
+==================================================
+
+==================================================
+Name: Navy Island Confidential
+Release Date: Oct 15, 2026
+Price: $9.99
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4153730
+==================================================
+
+==================================================
+Name: Wolfsschanze – Operation Götterdämmerung
+Release Date: Oct 15, 2026
+Price: $11.99 (-20%, was $14.99)
+Genres: Action
+Link: https://store.steampowered.com/app/4249690
+==================================================
+
+==================================================
+Name: Fairy Hotel - Enchanted Kingdom
+Release Date: Oct 15, 2026
+Price: $17.99 (-10%, was $19.99)
+Genres: Adventure, Casual, Strategy
+Link: https://store.steampowered.com/app/4201960
+==================================================
+
+==================================================
+Name: Tribal Trouble: Resurrected
+Release Date: Oct 15, 2026
+Price: Free to Play
+Genres: Indie, Strategy, Free To Play
+Link: https://store.steampowered.com/app/3945720
+==================================================
+
+==================================================
+Name: Freakopoly
+Release Date: Oct 15, 2026
+Price: $6.99
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5314260
+==================================================
+
+==================================================
+Name: ARENA UNLEASHED
+Release Date: Oct 15, 2026
+Price: $12.99
+Genres: Action
+Link: https://store.steampowered.com/app/5045860
+==================================================
+
+==================================================
+Name: Chant Wizard
+Release Date: Oct 15, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/3955960
+==================================================
+
+==================================================
+Name: Bluey's Happy Snaps
+Release Date: Oct 14, 2026
+Price: $39.99
+Genres: Adventure, Casual
+Link: https://store.steampowered.com/app/3064040
+==================================================
+
+==================================================
+Name: Milf Puzzle
+Release Date: Oct 14, 2026
+Price: $2.09 (-30%, was $2.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5299160
+==================================================
+
+==================================================
+Name: Taskbar Caravan
+Release Date: Oct 14, 2026
+Price: $1.59 (-20%, was $1.99)
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/4890750
+==================================================
+
+==================================================
+Name: Idle Abyss Princesses
+Release Date: Oct 14, 2026
+Price: $4.79 (-20%, was $5.99)
+Genres: Casual, Indie, RPG
+Link: https://store.steampowered.com/app/5335850
+==================================================
+
+==================================================
+Name: Idle Dungeon: Endless Expedition
+Release Date: Oct 14, 2026
+Price: $3.49 (-30%, was $4.99)
+Genres: Casual, Indie, RPG
+Link: https://store.steampowered.com/app/5242520
+==================================================
+
+==================================================
+Name: Sushi Automata
+Release Date: Oct 14, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Casual, Indie, RPG, Simulation, Strategy
+Link: https://store.steampowered.com/app/5326650
+==================================================
+
+==================================================
+Name: My Elf Gym Adventure!
+Release Date: Oct 14, 2026
+Price: $2.99 (-25%, was $3.99)
+Genres: Adventure, Casual, Indie, Simulation, Sports
+Link: https://store.steampowered.com/app/5019450
+==================================================
+
