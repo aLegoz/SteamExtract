@@ -96268,3 +96268,150 @@ Genres: RPG, Strategy
 Link: https://store.steampowered.com/app/2347080
 ==================================================
 
+
+--- Run: 2026-10-15 20:37:26 --- (18 new game(s) found)
+
+==================================================
+Name: Project RedTeam: Contract Offensive
+Release Date: Oct 15, 2026
+Price: $8.99 (-40%, was $14.99)
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4980910
+==================================================
+
+==================================================
+Name: Market is Fine
+Release Date: Oct 15, 2026
+Price: $5.03 (-28%, was $6.99)
+Genres: Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4415380
+==================================================
+
+==================================================
+Name: DREGS
+Release Date: Oct 15, 2026
+Price: $9.99
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/4660920
+==================================================
+
+==================================================
+Name: HENTAI CAVEMAN
+Release Date: Oct 15, 2026
+Price: $6.99 (-30%, was $9.99)
+Genres: Adventure, Casual, Indie, RPG
+Link: https://store.steampowered.com/app/5209500
+==================================================
+
+==================================================
+Name: Streamstead
+Release Date: Oct 15, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Animation & Modeling, Utilities
+Link: https://store.steampowered.com/app/4884630
+==================================================
+
+==================================================
+Name: Pestilence
+Release Date: Oct 15, 2026
+Price: $5.24 (-25%, was $6.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/3525940
+==================================================
+
+==================================================
+Name: EverBlock
+Release Date: Oct 15, 2026
+Price: $1.36 (-20%, was $1.70)
+Genres: Adventure, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5296230
+==================================================
+
+==================================================
+Name: Silent Wounds - The Doll
+Release Date: Oct 15, 2026
+Price: Free to Play
+Genres: Adventure, Indie, Free To Play
+Link: https://store.steampowered.com/app/4251070
+==================================================
+
+==================================================
+Name: Hunt Me
+Release Date: Oct 15, 2026
+Price: $9.99
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/3026770
+==================================================
+
+==================================================
+Name: Fatal Train
+Release Date: Oct 15, 2026
+Price: $5.94 (-15%, was $6.99)
+Genres: Action, Adventure, Indie, Massively Multiplayer, Simulation
+Link: https://store.steampowered.com/app/3193920
+==================================================
+
+==================================================
+Name: Odd Town
+Release Date: Oct 15, 2026
+Price: $10.79 (-10%, was $11.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/2688780
+==================================================
+
+==================================================
+Name: Hentai Miyu
+Release Date: Oct 15, 2026
+Price: $0.69 (-30%, was $0.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/5231590
+==================================================
+
+==================================================
+Name: Folded Fables: Tidy Up The Dragon Hoard
+Release Date: Oct 15, 2026
+Price: $5.39 (-10%, was $5.99)
+Genres: Casual, Simulation
+Link: https://store.steampowered.com/app/4995030
+==================================================
+
+==================================================
+Name: Chicks In Trouble
+Release Date: Oct 15, 2026
+Price: $6.39 (-20%, was $7.99)
+Genres: Action, Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4048470
+==================================================
+
+==================================================
+Name: Mimic Busters
+Release Date: Oct 15, 2026
+Price: $4.95 (-38%, was $7.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5167420
+==================================================
+
+==================================================
+Name: Spymaster
+Release Date: Oct 15, 2026
+Price: $19.99
+Genres: Action
+Link: https://store.steampowered.com/app/4391420
+==================================================
+
+==================================================
+Name: Smash & Grab
+Release Date: Oct 15, 2026
+Price: Free to Play
+Genres: Casual, Indie, Strategy, Free To Play
+Link: https://store.steampowered.com/app/5278650
+==================================================
+
+==================================================
+Name: Chained Beasts
+Release Date: Oct 15, 2026
+Price: $12.99 (-35%, was $19.99)
+Genres: Action
+Link: https://store.steampowered.com/app/3569420
+==================================================
+
