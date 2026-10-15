@@ -96049,3 +96049,222 @@ Genres: Adventure, Casual, Indie, Simulation, Sports
 Link: https://store.steampowered.com/app/5019450
 ==================================================
 
+
+--- Run: 2026-10-15 17:26:41 --- (27 new game(s) found)
+
+==================================================
+Name: Cosmogonia
+Release Date: Oct 15, 2026
+Price: $1.69 (-15%, was $1.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/5133200
+==================================================
+
+==================================================
+Name: Backrooms Adventure
+Release Date: Oct 15, 2026
+Price: $3.59 (-10%, was $3.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/5321960
+==================================================
+
+==================================================
+Name: Order Picker Simulator
+Release Date: Oct 15, 2026
+Price: $7.49 (-25%, was $9.99)
+Genres: Simulation
+Link: https://store.steampowered.com/app/4798110
+==================================================
+
+==================================================
+Name: Hypnostasis
+Release Date: Oct 15, 2026
+Price: $14.39 (-10%, was $15.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/3611760
+==================================================
+
+==================================================
+Name: Aili Is Here
+Release Date: Oct 15, 2026
+Price: $1.79 (-10%, was $1.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5328000
+==================================================
+
+==================================================
+Name: Game of Fitna Vol. 1
+Release Date: Oct 15, 2026
+Price: $14.95 (-12%, was $16.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/2725340
+==================================================
+
+==================================================
+Name: Jigsaw Stories
+Release Date: Oct 15, 2026
+Price: $5.94 (-15%, was $6.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4396090
+==================================================
+
+==================================================
+Name: Enshrouded
+Release Date: Oct 15, 2026
+Price: $35.99 (-10%, was $39.99)
+Genres: Action, Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/1203620
+==================================================
+
+==================================================
+Name: Ezmeralda
+Release Date: Oct 15, 2026
+Price: $2.99 (-40%, was $4.99)
+Genres: Action, Adventure, Casual, Indie, RPG
+Link: https://store.steampowered.com/app/3981220
+==================================================
+
+==================================================
+Name: Reason and Rhyme
+Release Date: Oct 15, 2026
+Price: $6.79 (-15%, was $7.99)
+Genres: Adventure
+Link: https://store.steampowered.com/app/4461870
+==================================================
+
+==================================================
+Name: Dupery: A Game of Solo Deduction
+Release Date: Oct 15, 2026
+Price: $11.99 (-20%, was $14.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/3845070
+==================================================
+
+==================================================
+Name: Cuboy Adventure
+Release Date: Oct 15, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4386400
+==================================================
+
+==================================================
+Name: Labyrinth A Way Out
+Release Date: Oct 15, 2026
+Price: $7.19 (-10%, was $7.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4738910
+==================================================
+
+==================================================
+Name: The House
+Release Date: Oct 15, 2026
+Price: $3.99
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/5299670
+==================================================
+
+==================================================
+Name: Adventures of Mack
+Release Date: Oct 15, 2026
+Price: Free to Play
+Genres: Adventure, Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/4801520
+==================================================
+
+==================================================
+Name: DESOLUS
+Release Date: Oct 15, 2026
+Price: $17.99 (-10%, was $19.99)
+Genres: Adventure, Indie, Strategy
+Link: https://store.steampowered.com/app/1003460
+==================================================
+
+==================================================
+Name: Melon Rally
+Release Date: Oct 15, 2026
+Price: $3.39 (-15%, was $3.99)
+Genres: Indie, Racing
+Link: https://store.steampowered.com/app/4589340
+==================================================
+
+==================================================
+Name: Three Kingdoms: Spire of War
+Release Date: Oct 15, 2026
+Price: $9.99
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/5268460
+==================================================
+
+==================================================
+Name: Ghost Room: Enter The Darkness
+Release Date: Oct 15, 2026
+Price: $0.99
+Genres: Indie
+Link: https://store.steampowered.com/app/4812890
+==================================================
+
+==================================================
+Name: Exit_ComputerLab
+Release Date: Oct 15, 2026
+Price: $1.59 (-20%, was $1.99)
+Genres: Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/5207000
+==================================================
+
+==================================================
+Name: Brick by Brick: Tidy Up the Small Town!
+Release Date: Oct 15, 2026
+Price: $4.95 (-38%, was $7.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5228920
+==================================================
+
+==================================================
+Name: The Vector
+Release Date: Oct 15, 2026
+Price: Free to Play
+Genres: Free To Play
+Link: https://store.steampowered.com/app/5266600
+==================================================
+
+==================================================
+Name: Disney/Pixar Toy Story: Retro Roundup!
+Release Date: Oct 15, 2026
+Price: $29.99
+Genres: Action, Adventure, Racing
+Link: https://store.steampowered.com/app/4049170
+==================================================
+
+==================================================
+Name: Disney/Pixar Toy Story 3 Complete Edition
+Release Date: Oct 15, 2026
+Price: $24.99
+Genres: Action, Adventure
+Link: https://store.steampowered.com/app/4049180
+==================================================
+
+==================================================
+Name: College Hockey 27
+Release Date: Oct 15, 2026
+Price: $9.99
+Genres: Simulation, Sports, Strategy
+Link: https://store.steampowered.com/app/5280910
+==================================================
+
+==================================================
+Name: Good Job
+Release Date: Oct 15, 2026
+Price: $9.99 (-20%, was $12.49)
+Genres: Action, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4596990
+==================================================
+
+==================================================
+Name: Frosthaven
+Release Date: Oct 15, 2026
+Price: $27.99 (-30%, was $39.99)
+Genres: RPG, Strategy
+Link: https://store.steampowered.com/app/2347080
+==================================================
+
