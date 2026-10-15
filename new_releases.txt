@@ -96415,3 +96415,118 @@ Genres: Action
 Link: https://store.steampowered.com/app/3569420
 ==================================================
 
+
+--- Run: 2026-10-15 23:22:36 --- (14 new game(s) found)
+
+==================================================
+Name: After the Crash : Colony
+Release Date: Oct 15, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Adventure, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4196740
+==================================================
+
+==================================================
+Name: Heartfall — A Tale in Three Lives
+Release Date: Oct 15, 2026
+Price: Free to Play
+Genres: Casual, Indie, RPG, Free To Play
+Link: https://store.steampowered.com/app/5257930
+==================================================
+
+==================================================
+Name: Hero Chains of Destiny
+Release Date: Oct 15, 2026
+Price: $9.99
+Genres: Adventure, Casual, RPG
+Link: https://store.steampowered.com/app/4019700
+==================================================
+
+==================================================
+Name: Portal Pool
+Release Date: Oct 15, 2026
+Price: $2.54 (-15%, was $2.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/5106830
+==================================================
+
+==================================================
+Name: Lights On My Screen
+Release Date: Oct 15, 2026
+Price: $7.99
+Genres: Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/5278930
+==================================================
+
+==================================================
+Name: Chobots - Your Family Game
+Release Date: Oct 15, 2026
+Price: Free to Play
+Genres: Adventure, Casual, Indie, Massively Multiplayer, Free To Play
+Link: https://store.steampowered.com/app/5196510
+==================================================
+
+==================================================
+Name: Genesis - The Original LPMud
+Release Date: Oct 15, 2026
+Price: Free to Play
+Genres: Massively Multiplayer, RPG, Free To Play
+Link: https://store.steampowered.com/app/4022530
+==================================================
+
+==================================================
+Name: Under Review
+Release Date: Oct 15, 2026
+Price: $3.59 (-10%, was $3.99)
+Genres: Adventure, Casual
+Link: https://store.steampowered.com/app/4836150
+==================================================
+
+==================================================
+Name: Alveron - Withering Roots
+Release Date: Oct 15, 2026
+Price: $16.99 (-15%, was $19.99)
+Genres: Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/2358540
+==================================================
+
+==================================================
+Name: Cheat With Me, Not On Me
+Release Date: Oct 15, 2026
+Price: $4.19 (-40%, was $6.99)
+Genres: Adventure, Simulation
+Link: https://store.steampowered.com/app/5188980
+==================================================
+
+==================================================
+Name: Panchofobia
+Release Date: Oct 15, 2026
+Price: $3.99
+Genres: Action
+Link: https://store.steampowered.com/app/4568220
+==================================================
+
+==================================================
+Name: Kingdoms Test Of Time
+Release Date: Oct 15, 2026
+Price: $13.39 (-33%, was $19.99)
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/3345650
+==================================================
+
+==================================================
+Name: Sole Mates: Tidy Up the Shoe Store
+Release Date: Oct 15, 2026
+Price: $2.99 (-25%, was $3.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5174490
+==================================================
+
+==================================================
+Name: GOLDEN HOUR
+Release Date: Oct 15, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/5216740
+==================================================
+
