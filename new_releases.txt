@@ -96955,3 +96955,230 @@ Genres: Action, Adventure, RPG
 Link: https://store.steampowered.com/app/4351100
 ==================================================
 
+
+--- Run: 2026-10-16 15:59:39 --- (28 new game(s) found)
+
+==================================================
+Name: Footage: FLIR
+Release Date: Oct 16, 2026
+Price: $8.99
+Genres: Action, Indie, Simulation
+Link: https://store.steampowered.com/app/5298330
+==================================================
+
+==================================================
+Name: EmberQuest
+Release Date: Oct 16, 2026
+Price: Free to Play
+Genres: Casual, Massively Multiplayer, Free To Play
+Link: https://store.steampowered.com/app/5328820
+==================================================
+
+==================================================
+Name: Doomlander
+Release Date: Oct 16, 2026
+Price: $1.79 (-40%, was $2.99)
+Genres: Action, Adventure
+Link: https://store.steampowered.com/app/5352520
+==================================================
+
+==================================================
+Name: //トロイメライ・ノクターン
+Release Date: Oct 16, 2026
+Price: Free to Play
+Genres: Adventure, Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/5118700
+==================================================
+
+==================================================
+Name: There is Cake in the Break Room
+Release Date: Oct 16, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/5114500
+==================================================
+
+==================================================
+Name: Remnants of Vaedra: Tales of the Dicebound
+Release Date: Oct 16, 2026
+Price: $5.59 (-20%, was $6.99)
+Genres: Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/5295950
+==================================================
+
+==================================================
+Name: Weed Lord Simulator
+Release Date: Oct 16, 2026
+Price: $13.49 (-10%, was $14.99)
+Genres: Action, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4825910
+==================================================
+
+==================================================
+Name: Old Times
+Release Date: Oct 16, 2026
+Price: Free to Play
+Genres: Casual, Strategy, Free To Play
+Link: https://store.steampowered.com/app/5220890
+==================================================
+
+==================================================
+Name: Stream Train
+Release Date: Oct 16, 2026
+Price: $5.19 (-35%, was $7.99)
+Genres: Adventure
+Link: https://store.steampowered.com/app/4071650
+==================================================
+
+==================================================
+Name: My Goth Roommate
+Release Date: Oct 16, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5182410
+==================================================
+
+==================================================
+Name: House Music Incremental
+Release Date: Oct 16, 2026
+Price: $2.99
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4846620
+==================================================
+
+==================================================
+Name: Brand Nacht
+Release Date: Oct 16, 2026
+Price: Free to Play
+Genres: Simulation, Free To Play
+Link: https://store.steampowered.com/app/4795560
+==================================================
+
+==================================================
+Name: Void Core
+Release Date: Oct 16, 2026
+Price: $2.69 (-10%, was $2.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4429440
+==================================================
+
+==================================================
+Name: Supermarket Guard Simulator
+Release Date: Oct 16, 2026
+Price: $11.04 (-15%, was $12.99)
+Genres: Action, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/3720580
+==================================================
+
+==================================================
+Name: Sery: Into the World of Myths
+Release Date: Oct 16, 2026
+Price: $5.39 (-40%, was $8.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/2868720
+==================================================
+
+==================================================
+Name: PropHuntFPS
+Release Date: Oct 16, 2026
+Price: Free to Play
+Genres: Action, Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/5256770
+==================================================
+
+==================================================
+Name: Tidy Up the Town
+Release Date: Oct 16, 2026
+Price: $4.94 (-10%, was $5.49)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5190030
+==================================================
+
+==================================================
+Name: Elsewhere
+Release Date: Oct 16, 2026
+Price: $11.19 (-30%, was $15.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/1271150
+==================================================
+
+==================================================
+Name: Deja Vu : The Backrooms
+Release Date: Oct 16, 2026
+Price: $8.99
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/2493670
+==================================================
+
+==================================================
+Name: OnGrid()
+Release Date: Oct 16, 2026
+Price: $3.99
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/4825520
+==================================================
+
+==================================================
+Name: VHS World '89
+Release Date: Oct 16, 2026
+Price: $3.59 (-20%, was $4.49)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4935810
+==================================================
+
+==================================================
+Name: Vast Seas
+Release Date: Oct 16, 2026
+Price: $5.99 (-40%, was $9.99)
+Genres: Action, Adventure, Casual, Indie, RPG
+Link: https://store.steampowered.com/app/5266790
+==================================================
+
+==================================================
+Name: Card City Nights Forever
+Release Date: Oct 16, 2026
+Price: $19.99
+Genres: Adventure, Indie, Strategy
+Link: https://store.steampowered.com/app/2475280
+==================================================
+
+==================================================
+Name: Sparky Rush: Purrils in Pawsville!
+Release Date: Oct 16, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/3592020
+==================================================
+
+==================================================
+Name: Dreadline Express
+Release Date: Oct 16, 2026
+Price: $9.74 (-25%, was $12.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/3327120
+==================================================
+
+==================================================
+Name: Norvale Chronicle -Amethyst journey-
+Release Date: Oct 16, 2026
+Price: Free to Play
+Genres: Indie, RPG, Simulation, Free To Play
+Link: https://store.steampowered.com/app/5233990
+==================================================
+
+==================================================
+Name: Dynastia FC
+Release Date: Oct 16, 2026
+Price: Free to Play
+Genres: Indie, Simulation, Sports, Free To Play
+Link: https://store.steampowered.com/app/5199830
+==================================================
+
+==================================================
+Name: Bone Idle
+Release Date: Oct 16, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Casual, Simulation
+Link: https://store.steampowered.com/app/5221700
+==================================================
+
