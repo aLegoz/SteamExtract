@@ -96768,3 +96768,190 @@ Genres: Casual, Indie, Strategy
 Link: https://store.steampowered.com/app/5271750
 ==================================================
 
+
+--- Run: 2026-10-16 11:58:56 --- (23 new game(s) found)
+
+==================================================
+Name: No exceptions
+Release Date: Oct 16, 2026
+Price: $2.34 (-20%, was $2.93)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4581880
+==================================================
+
+==================================================
+Name: Duel Mahjong
+Release Date: Oct 16, 2026
+Price: Free to Play
+Genres: Strategy, Free To Play
+Link: https://store.steampowered.com/app/4719360
+==================================================
+
+==================================================
+Name: Qiang Gu: Ghost Festival
+Release Date: Oct 16, 2026
+Price: Free to Play
+Genres: Action, Indie, RPG, Strategy, Free To Play
+Link: https://store.steampowered.com/app/5302110
+==================================================
+
+==================================================
+Name: Mercenaries Of Vector
+Release Date: Oct 16, 2026
+Price: $11.99
+Genres: Action, Indie, Simulation
+Link: https://store.steampowered.com/app/5202090
+==================================================
+
+==================================================
+Name: Shadows of War 2
+Release Date: Oct 16, 2026
+Price: $6.21 (-10%, was $6.90)
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/3983250
+==================================================
+
+==================================================
+Name: Night Blood W : Cutthroat Wolf
+Release Date: Oct 16, 2026
+Price: $9.59 (-20%, was $11.99)
+Genres: Action, Indie, RPG
+Link: https://store.steampowered.com/app/3070450
+==================================================
+
+==================================================
+Name: My Own Neko Girl Harem
+Release Date: Oct 16, 2026
+Price: $5.99 (-40%, was $9.99)
+Genres: Casual, Simulation
+Link: https://store.steampowered.com/app/5207850
+==================================================
+
+==================================================
+Name: Escape from EloHell
+Release Date: Oct 16, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4547860
+==================================================
+
+==================================================
+Name: Lotwick Hill
+Release Date: Oct 16, 2026
+Price: $19.99 (-20%, was $24.99)
+Genres: Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/5288610
+==================================================
+
+==================================================
+Name: Keng's Little Universe
+Release Date: Oct 16, 2026
+Price: $7.79 (-40%, was $12.99)
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/1725860
+==================================================
+
+==================================================
+Name: Mahjong, Sex & Girls
+Release Date: Oct 16, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/3196120
+==================================================
+
+==================================================
+Name: Hay! One Billion!
+Release Date: Oct 16, 2026
+Price: $4.79 (-20%, was $5.99)
+Genres: Indie
+Link: https://store.steampowered.com/app/2069070
+==================================================
+
+==================================================
+Name: Verity's Revenge
+Release Date: Oct 16, 2026
+Price: $4.99
+Genres: Action, Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/5323760
+==================================================
+
+==================================================
+Name: Maggot Detective: Forensic Entomology Simulator
+Release Date: Oct 16, 2026
+Price: $4.99
+Genres: Simulation
+Link: https://store.steampowered.com/app/4909000
+==================================================
+
+==================================================
+Name: Adventurers Guild
+Release Date: Oct 16, 2026
+Price: Free to Play
+Genres: Action, Adventure, Casual, Massively Multiplayer, RPG, Simulation, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4807880
+==================================================
+
+==================================================
+Name: The Woodman
+Release Date: Oct 16, 2026
+Price: $4.99
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4064810
+==================================================
+
+==================================================
+Name: Ducking Grenades
+Release Date: Oct 16, 2026
+Price: $5.59 (-20%, was $6.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/2934660
+==================================================
+
+==================================================
+Name: Gravity Vector
+Release Date: Oct 15, 2026
+Price: $2.99 (-40%, was $4.99)
+Genres: Action, Simulation
+Link: https://store.steampowered.com/app/5213050
+==================================================
+
+==================================================
+Name: Platformino
+Release Date: Oct 15, 2026
+Price: $5.94 (-15%, was $6.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/5281430
+==================================================
+
+==================================================
+Name: Giblings
+Release Date: Oct 15, 2026
+Price: $9.34 (-15%, was $10.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/5025950
+==================================================
+
+==================================================
+Name: Auto Match Blast
+Release Date: Oct 15, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/5238540
+==================================================
+
+==================================================
+Name: Tickerbound
+Release Date: Oct 15, 2026
+Price: $12.74 (-15%, was $14.99)
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/5335250
+==================================================
+
+==================================================
+Name: Solo Build Leveling
+Release Date: Oct 15, 2026
+Price: $2.39 (-40%, was $3.99)
+Genres: Action, Adventure, RPG
+Link: https://store.steampowered.com/app/4351100
+==================================================
+
