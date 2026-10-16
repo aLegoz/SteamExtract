@@ -97425,3 +97425,54 @@ Genres: Indie, Simulation
 Link: https://store.steampowered.com/app/3660020
 ==================================================
 
+
+--- Run: 2026-10-16 22:16:33 --- (6 new game(s) found)
+
+==================================================
+Name: Wife's Bedroom
+Release Date: Oct 16, 2026
+Price: Free to Play
+Genres: Indie, Simulation, Free To Play
+Link: https://store.steampowered.com/app/5230050
+==================================================
+
+==================================================
+Name: The Great Game of Cards
+Release Date: Oct 16, 2026
+Price: Free to Play
+Genres: Casual, Indie, Strategy, Free To Play
+Link: https://store.steampowered.com/app/5250500
+==================================================
+
+==================================================
+Name: SpudFall
+Release Date: Oct 16, 2026
+Price: $5.59 (-20%, was $6.99)
+Genres: Action, Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4924000
+==================================================
+
+==================================================
+Name: Pure Muay Thai
+Release Date: Oct 16, 2026
+Price: $9.99
+Genres: Action, Indie, Sports
+Link: https://store.steampowered.com/app/5062840
+==================================================
+
+==================================================
+Name: Court of Lies
+Release Date: Oct 16, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Action, Indie, Strategy
+Link: https://store.steampowered.com/app/5264040
+==================================================
+
+==================================================
+Name: SOLEMNFABLE
+Release Date: Oct 16, 2026
+Price: $6.99
+Genres: Adventure, RPG
+Link: https://store.steampowered.com/app/5007740
+==================================================
+
