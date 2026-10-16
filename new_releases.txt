@@ -97182,3 +97182,246 @@ Genres: Casual, Simulation
 Link: https://store.steampowered.com/app/5221700
 ==================================================
 
+
+--- Run: 2026-10-16 19:17:10 --- (30 new game(s) found)
+
+==================================================
+Name: Blightstone
+Release Date: Oct 16, 2026
+Price: $11.19 (-30%, was $15.99)
+Genres: Adventure, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/2832280
+==================================================
+
+==================================================
+Name: Beyond These Stars
+Release Date: Oct 16, 2026
+Price: $23.99 (-20%, was $29.99)
+Genres: Simulation, Strategy
+Link: https://store.steampowered.com/app/2295060
+==================================================
+
+==================================================
+Name: Terradune
+Release Date: Oct 16, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Action, Adventure, Casual, Indie, RPG
+Link: https://store.steampowered.com/app/3454780
+==================================================
+
+==================================================
+Name: The Better Deal: Complete Story
+Release Date: Oct 16, 2026
+Price: $11.04 (-15%, was $12.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/5200360
+==================================================
+
+==================================================
+Name: Demolition Empire
+Release Date: Oct 16, 2026
+Price: $3.15 (-10%, was $3.50)
+Genres: Indie
+Link: https://store.steampowered.com/app/5139990
+==================================================
+
+==================================================
+Name: Neon Crossing
+Release Date: Oct 16, 2026
+Price: $1.39 (-30%, was $1.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/5296760
+==================================================
+
+==================================================
+Name: A Game About Needle In A Haystack
+Release Date: Oct 16, 2026
+Price: $4.47 (-36%, was $6.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5321400
+==================================================
+
+==================================================
+Name: WarpRacer
+Release Date: Oct 16, 2026
+Price: $4.79 (-40%, was $7.99)
+Genres: Action, Indie, Racing
+Link: https://store.steampowered.com/app/5094650
+==================================================
+
+==================================================
+Name: A Game About Opening A Chest
+Release Date: Oct 16, 2026
+Price: $6.39 (-20%, was $7.99)
+Genres: Adventure, Casual, RPG, Strategy
+Link: https://store.steampowered.com/app/4088850
+==================================================
+
+==================================================
+Name: Flipping is Hard
+Release Date: Oct 16, 2026
+Price: $9.74 (-35%, was $14.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/3826670
+==================================================
+
+==================================================
+Name: Fated Flatline DX
+Release Date: Oct 16, 2026
+Price: Free to Play
+Genres: Action, Indie, RPG, Free To Play
+Link: https://store.steampowered.com/app/4365790
+==================================================
+
+==================================================
+Name: Futa Slug EX
+Release Date: Oct 16, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Action
+Link: https://store.steampowered.com/app/3962420
+==================================================
+
+==================================================
+Name: Who's Cheating?
+Release Date: Oct 16, 2026
+Price: $5.84 (-25%, was $7.79)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/5127370
+==================================================
+
+==================================================
+Name: Tenebris Somnia
+Release Date: Oct 16, 2026
+Price: $19.99 (-20%, was $24.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/2121510
+==================================================
+
+==================================================
+Name: Penguin Colony
+Release Date: Oct 16, 2026
+Price: $13.49 (-10%, was $14.99)
+Genres: Action, Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/3695930
+==================================================
+
+==================================================
+Name: ABAN
+Release Date: Oct 16, 2026
+Price: $1.99
+Genres: Action
+Link: https://store.steampowered.com/app/903490
+==================================================
+
+==================================================
+Name: Take Good Care of Your Cassava
+Release Date: Oct 16, 2026
+Price: $3.19 (-20%, was $3.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5343830
+==================================================
+
+==================================================
+Name: Through the Void: Echoes
+Release Date: Oct 16, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/5267420
+==================================================
+
+==================================================
+Name: Mars Directive
+Release Date: Oct 16, 2026
+Price: Free to Play
+Genres: Adventure, Indie, Free To Play
+Link: https://store.steampowered.com/app/4931230
+==================================================
+
+==================================================
+Name: DishDash
+Release Date: Oct 16, 2026
+Price: $4.89 (-30%, was $6.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4260380
+==================================================
+
+==================================================
+Name: Chlorophyter: Herbal Assault
+Release Date: Oct 16, 2026
+Price: $7.99
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/3488480
+==================================================
+
+==================================================
+Name: Coin and Banner
+Release Date: Oct 16, 2026
+Price: $3.39 (-15%, was $3.99)
+Genres: Indie, RPG, Simulation, Strategy
+Link: https://store.steampowered.com/app/5294660
+==================================================
+
+==================================================
+Name: Devices Tycoon
+Release Date: Oct 16, 2026
+Price: $17.99 (-10%, was $19.99)
+Genres: Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/2085660
+==================================================
+
+==================================================
+Name: Diceminoes
+Release Date: Oct 16, 2026
+Price: $7.69 (-30%, was $10.99)
+Genres: Casual, Strategy
+Link: https://store.steampowered.com/app/4999210
+==================================================
+
+==================================================
+Name: Manorbound
+Release Date: Oct 16, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/5175950
+==================================================
+
+==================================================
+Name: Mendicant Sea
+Release Date: Oct 16, 2026
+Price: $9.34 (-15%, was $10.99)
+Genres: Simulation
+Link: https://store.steampowered.com/app/5204680
+==================================================
+
+==================================================
+Name: Shroomocracy! And The Wand Of Ages
+Release Date: Oct 16, 2026
+Price: Free to Play
+Genres: Action, Indie, Free To Play
+Link: https://store.steampowered.com/app/4870820
+==================================================
+
+==================================================
+Name: Video Store Chaos
+Release Date: Oct 16, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Simulation
+Link: https://store.steampowered.com/app/5140100
+==================================================
+
+==================================================
+Name: Tin Can Escape Plan
+Release Date: Oct 16, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4996760
+==================================================
+
+==================================================
+Name: Horny Doctor
+Release Date: Oct 16, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/3660020
+==================================================
+
