@@ -96530,3 +96530,134 @@ Genres: Adventure, Indie, Simulation
 Link: https://store.steampowered.com/app/5216740
 ==================================================
 
+
+--- Run: 2026-10-16 01:55:47 --- (16 new game(s) found)
+
+==================================================
+Name: 零氪超变
+Release Date: Oct 15, 2026
+Price: Free to Play
+Genres: Action, Adventure, Massively Multiplayer, RPG, Free To Play
+Link: https://store.steampowered.com/app/5075110
+==================================================
+
+==================================================
+Name: Sleep Walk
+Release Date: Oct 15, 2026
+Price: $6.99
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4904470
+==================================================
+
+==================================================
+Name: KAEBON
+Release Date: Oct 15, 2026
+Price: $6.39 (-20%, was $7.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/5245250
+==================================================
+
+==================================================
+Name: 囚笼之诗
+Release Date: Oct 15, 2026
+Price: $5.94 (-15%, was $6.99)
+Genres: Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/3939020
+==================================================
+
+==================================================
+Name: Lyfe of the Blade
+Release Date: Oct 15, 2026
+Price: $4.79 (-40%, was $7.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/5218930
+==================================================
+
+==================================================
+Name: Amanojaku Nightmare
+Release Date: Oct 15, 2026
+Price: $8.10 (-10%, was $9.00)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/5180330
+==================================================
+
+==================================================
+Name: ドタバタVRランド
+Release Date: Oct 15, 2026
+Price: Free to Play
+Genres: Action, Casual, Free To Play
+Link: https://store.steampowered.com/app/4855210
+==================================================
+
+==================================================
+Name: Pocket Dinos
+Release Date: Oct 15, 2026
+Price: $6.79 (-15%, was $7.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4715900
+==================================================
+
+==================================================
+Name: Vanisha
+Release Date: Oct 15, 2026
+Price: $7.49 (-25%, was $9.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4555270
+==================================================
+
+==================================================
+Name: Alchemy Tales
+Release Date: Oct 15, 2026
+Price: $2.99 (-40%, was $4.99)
+Genres: Casual, Simulation, Strategy
+Link: https://store.steampowered.com/app/5185570
+==================================================
+
+==================================================
+Name: Thalia
+Release Date: Oct 15, 2026
+Price: $9.89 (-10%, was $10.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/3685410
+==================================================
+
+==================================================
+Name: Bonsai Life
+Release Date: Oct 15, 2026
+Price: $10.99
+Genres: Adventure, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5116050
+==================================================
+
+==================================================
+Name: Gas Station Horror
+Release Date: Oct 15, 2026
+Price: Free to Play
+Genres: Adventure, Indie, Free To Play
+Link: https://store.steampowered.com/app/5109640
+==================================================
+
+==================================================
+Name: Toys Co.
+Release Date: Oct 15, 2026
+Price: $3.19 (-20%, was $3.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5088930
+==================================================
+
+==================================================
+Name: Cricket Club President
+Release Date: Oct 15, 2026
+Price: $9.99
+Genres: Indie, Simulation, Sports, Strategy
+Link: https://store.steampowered.com/app/5298650
+==================================================
+
+==================================================
+Name: Sutja
+Release Date: Oct 15, 2026
+Price: $5.99 (-40%, was $9.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5120970
+==================================================
+
