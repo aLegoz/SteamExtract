@@ -97830,3 +97830,14 @@ Genres: Design & Illustration, Utilities, Web Publishing
 Link: https://store.steampowered.com/app/5077340
 ==================================================
 
+
+--- Run: 2026-10-17 21:06:29 --- (1 new game(s) found)
+
+==================================================
+Name: Retro Racers
+Release Date: Oct 17, 2026
+Price: $3.59 (-10%, was $3.99)
+Genres: Action, Casual, Racing, Sports
+Link: https://store.steampowered.com/app/3441620
+==================================================
+
