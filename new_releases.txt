@@ -97476,3 +97476,62 @@ Genres: Adventure, RPG
 Link: https://store.steampowered.com/app/5007740
 ==================================================
 
+
+--- Run: 2026-10-17 00:52:27 --- (7 new game(s) found)
+
+==================================================
+Name: Puzzle Fire
+Release Date: Oct 16, 2026
+Price: $2.99 (-40%, was $4.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5061600
+==================================================
+
+==================================================
+Name: TrafficJam
+Release Date: Oct 16, 2026
+Price: $0.79 (-20%, was $0.99)
+Genres: Racing, Simulation
+Link: https://store.steampowered.com/app/3993220
+==================================================
+
+==================================================
+Name: GRID64
+Release Date: Oct 16, 2026
+Price: $2.69 (-10%, was $2.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/5316940
+==================================================
+
+==================================================
+Name: Just a Cat
+Release Date: Oct 16, 2026
+Price: Free to Play
+Genres: Casual, Free To Play
+Link: https://store.steampowered.com/app/4350900
+==================================================
+
+==================================================
+Name: Ghillie Wars
+Release Date: Oct 16, 2026
+Price: $5.99
+Genres: Action, Indie, Strategy
+Link: https://store.steampowered.com/app/5211690
+==================================================
+
+==================================================
+Name: Open Sourcerer
+Release Date: Oct 16, 2026
+Price: Free to Play
+Genres: Action, Adventure, Indie, Free To Play
+Link: https://store.steampowered.com/app/4561260
+==================================================
+
+==================================================
+Name: The Mayor’s Hand
+Release Date: Oct 16, 2026
+Price: $5.09 (-15%, was $5.99)
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/5175490
+==================================================
+
