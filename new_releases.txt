@@ -97650,3 +97650,54 @@ Genres: Adventure, Indie, Simulation
 Link: https://store.steampowered.com/app/5269420
 ==================================================
 
+
+--- Run: 2026-10-17 09:48:44 --- (6 new game(s) found)
+
+==================================================
+Name: PenRogue
+Release Date: Oct 17, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: RPG, Strategy
+Link: https://store.steampowered.com/app/5319460
+==================================================
+
+==================================================
+Name: 中国式高考ChineseGaokao‌
+Release Date: Oct 17, 2026
+Price: $1.50 (-40%, was $2.50)
+Genres: Casual, RPG, Simulation
+Link: https://store.steampowered.com/app/5282110
+==================================================
+
+==================================================
+Name: Yatai 8
+Release Date: Oct 17, 2026
+Price: $3.99
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/5080810
+==================================================
+
+==================================================
+Name: Wolf Island
+Release Date: Oct 16, 2026
+Price: Free to Play
+Genres: Action, Adventure, Indie, Simulation, Free To Play
+Link: https://store.steampowered.com/app/4729580
+==================================================
+
+==================================================
+Name: Astrology 101
+Release Date: Oct 16, 2026
+Price: $2.99
+Genres: Casual
+Link: https://store.steampowered.com/app/5313050
+==================================================
+
+==================================================
+Name: Conquer Her
+Release Date: Oct 16, 2026
+Price: $8.49 (-15%, was $9.99)
+Genres: Action
+Link: https://store.steampowered.com/app/5292910
+==================================================
+
