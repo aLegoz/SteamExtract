@@ -97701,3 +97701,62 @@ Genres: Action
 Link: https://store.steampowered.com/app/5292910
 ==================================================
 
+
+--- Run: 2026-10-17 13:19:21 --- (7 new game(s) found)
+
+==================================================
+Name: Madcar Multiplayer
+Release Date: Oct 17, 2026
+Price: Free to Play
+Genres: Action, Casual, Indie, Massively Multiplayer, Racing, Simulation, Sports, Free To Play
+Link: https://store.steampowered.com/app/1979510
+==================================================
+
+==================================================
+Name: Beta Earth: Sovereignty Next
+Release Date: Oct 17, 2026
+Price: Free to Play
+Genres: Adventure, Indie, RPG, Free To Play
+Link: https://store.steampowered.com/app/5114130
+==================================================
+
+==================================================
+Name: Tales of the Immortal Path
+Release Date: Oct 17, 2026
+Price: $2.39 (-40%, was $3.99)
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/5262700
+==================================================
+
+==================================================
+Name: Tower Survivor - Paper Invasion
+Release Date: Oct 17, 2026
+Price: $3.99
+Genres: Casual, Strategy
+Link: https://store.steampowered.com/app/5178830
+==================================================
+
+==================================================
+Name: I Need A Room
+Release Date: Oct 16, 2026
+Price: $7.99
+Genres: Adventure, Indie, RPG, Simulation
+Link: https://store.steampowered.com/app/5285230
+==================================================
+
+==================================================
+Name: Strange Video Editor — Premium, Fast, Local, No Subscription
+Release Date: Oct 16, 2026
+Price: $28.00 (-30%, was $40.00)
+Genres: Animation & Modeling, Audio Production, Photo Editing, Utilities, Video Production
+Link: https://store.steampowered.com/app/5093430
+==================================================
+
+==================================================
+Name: The Grounds-Keeper
+Release Date: Oct 16, 2026
+Price: $6.74 (-25%, was $8.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4295900
+==================================================
+
