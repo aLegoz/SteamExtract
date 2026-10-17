@@ -97811,3 +97811,22 @@ Genres: Casual, Indie, Strategy
 Link: https://store.steampowered.com/app/5026810
 ==================================================
 
+
+--- Run: 2026-10-17 18:55:20 --- (2 new game(s) found)
+
+==================================================
+Name: Cat Life
+Release Date: Oct 17, 2026
+Price: $7.12 (-20%, was $8.90)
+Genres: Action, Adventure, Casual, Indie, RPG
+Link: https://store.steampowered.com/app/2204760
+==================================================
+
+==================================================
+Name: Sparkle Mouse
+Release Date: Oct 17, 2026
+Price: $2.54 (-15%, was $2.99)
+Genres: Design & Illustration, Utilities, Web Publishing
+Link: https://store.steampowered.com/app/5077340
+==================================================
+
