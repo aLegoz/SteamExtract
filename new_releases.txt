@@ -97535,3 +97535,118 @@ Genres: Indie, Strategy
 Link: https://store.steampowered.com/app/5175490
 ==================================================
 
+
+--- Run: 2026-10-17 05:08:56 --- (14 new game(s) found)
+
+==================================================
+Name: Ocean
+Release Date: Oct 16, 2026
+Price: Free to Play
+Genres: Adventure, Casual, Indie, Massively Multiplayer, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4360980
+==================================================
+
+==================================================
+Name: Five Nights with Maids
+Release Date: Oct 16, 2026
+Price: $5.59 (-20%, was $6.99)
+Genres: Simulation
+Link: https://store.steampowered.com/app/4771580
+==================================================
+
+==================================================
+Name: FPS Game
+Release Date: Oct 16, 2026
+Price: $5.99
+Genres: Action, Casual
+Link: https://store.steampowered.com/app/5094120
+==================================================
+
+==================================================
+Name: Hentai Tales: Profane Arbitration
+Release Date: Oct 16, 2026
+Price: $0.59 (-40%, was $0.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/5044690
+==================================================
+
+==================================================
+Name: Puzzle Jungle
+Release Date: Oct 16, 2026
+Price: $2.99 (-40%, was $4.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5232240
+==================================================
+
+==================================================
+Name: Puzzle Fireworks
+Release Date: Oct 16, 2026
+Price: $2.99 (-40%, was $4.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5151410
+==================================================
+
+==================================================
+Name: Super Cuber
+Release Date: Oct 16, 2026
+Price: $6.39 (-20%, was $7.99)
+Genres: Strategy
+Link: https://store.steampowered.com/app/4398300
+==================================================
+
+==================================================
+Name: Nekomancer
+Release Date: Oct 16, 2026
+Price: $5.99
+Genres: Action, Indie, RPG
+Link: https://store.steampowered.com/app/5066530
+==================================================
+
+==================================================
+Name: Steel & Fortune
+Release Date: Oct 16, 2026
+Price: $6.39 (-20%, was $7.99)
+Genres: Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/5252440
+==================================================
+
+==================================================
+Name: Fire and Water: Spirits of the Forest
+Release Date: Oct 16, 2026
+Price: $3.39 (-15%, was $3.99)
+Genres: Action, Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4697950
+==================================================
+
+==================================================
+Name: Belgo Odyssey
+Release Date: Oct 16, 2026
+Price: $1.19 (-40%, was $1.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/5296070
+==================================================
+
+==================================================
+Name: Inkpress
+Release Date: Oct 16, 2026
+Price: $2.99 (-25%, was $3.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4950180
+==================================================
+
+==================================================
+Name: The King's Gambit
+Release Date: Oct 16, 2026
+Price: $1.99
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/3873340
+==================================================
+
+==================================================
+Name: I Was Summoned to Another World, but All I Do Is Organize a Run-Down Village
+Release Date: Oct 16, 2026
+Price: $6.79 (-15%, was $7.99)
+Genres: Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/5269420
+==================================================
+
