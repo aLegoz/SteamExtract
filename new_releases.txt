@@ -97760,3 +97760,54 @@ Genres: Action, Casual, Indie
 Link: https://store.steampowered.com/app/4295900
 ==================================================
 
+
+--- Run: 2026-10-17 16:42:54 --- (6 new game(s) found)
+
+==================================================
+Name: DesktopPiP
+Release Date: Oct 17, 2026
+Price: $6.69 (-33%, was $9.99)
+Genres: Utilities
+Link: https://store.steampowered.com/app/5015450
+==================================================
+
+==================================================
+Name: PATIENT ZERO
+Release Date: Oct 17, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Action, Adventure, Indie, Strategy
+Link: https://store.steampowered.com/app/3576670
+==================================================
+
+==================================================
+Name: FURRY MASSAGE 🔞
+Release Date: Oct 17, 2026
+Price: $9.44 (-37%, was $14.99)
+Genres: Casual, RPG, Simulation
+Link: https://store.steampowered.com/app/4908870
+==================================================
+
+==================================================
+Name: AWAITING YOUR HORDERS
+Release Date: Oct 17, 2026
+Price: $5.99 (-40%, was $9.99)
+Genres: Action, Indie, Strategy
+Link: https://store.steampowered.com/app/5280170
+==================================================
+
+==================================================
+Name: The Ripe Blood Anthology: This World Is Just for the Two of Us
+Release Date: Oct 17, 2026
+Price: $6.29 (-10%, was $6.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/2463560
+==================================================
+
+==================================================
+Name: Fresh Stacker
+Release Date: Oct 17, 2026
+Price: $5.00
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/5026810
+==================================================
+
