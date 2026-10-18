@@ -97860,3 +97860,54 @@ Genres: Casual, Free To Play
 Link: https://store.steampowered.com/app/4410900
 ==================================================
 
+
+--- Run: 2026-10-18 06:42:56 --- (6 new game(s) found)
+
+==================================================
+Name: Silly Suspects
+Release Date: Oct 17, 2026
+Price: $6.39 (-20%, was $7.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4117190
+==================================================
+
+==================================================
+Name: Meteors Are Art
+Release Date: Oct 17, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: Casual, Simulation, Strategy
+Link: https://store.steampowered.com/app/5198130
+==================================================
+
+==================================================
+Name: Surrounded
+Release Date: Oct 17, 2026
+Price: $8.99
+Genres: Indie
+Link: https://store.steampowered.com/app/1813170
+==================================================
+
+==================================================
+Name: Nothing Simulator
+Release Date: Oct 17, 2026
+Price: $2.25 (-25%, was $3.00)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/2963850
+==================================================
+
+==================================================
+Name: RetroHub
+Release Date: Oct 17, 2026
+Price: $14.99
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5285370
+==================================================
+
+==================================================
+Name: touhou AICHATRPG
+Release Date: Oct 17, 2026
+Price: $5.00
+Genres: RPG
+Link: https://store.steampowered.com/app/5251110
+==================================================
+
