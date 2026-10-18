@@ -97841,3 +97841,22 @@ Genres: Action, Casual, Racing, Sports
 Link: https://store.steampowered.com/app/3441620
 ==================================================
 
+
+--- Run: 2026-10-18 01:48:23 --- (2 new game(s) found)
+
+==================================================
+Name: Cook with Card
+Release Date: Oct 17, 2026
+Price: $4.79 (-40%, was $7.99)
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4597500
+==================================================
+
+==================================================
+Name: Bad Actor
+Release Date: Oct 16, 2026
+Price: Free to Play
+Genres: Casual, Free To Play
+Link: https://store.steampowered.com/app/4410900
+==================================================
+
