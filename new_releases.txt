@@ -98062,3 +98062,22 @@ Genres: Casual, Sports
 Link: https://store.steampowered.com/app/5318310
 ==================================================
 
+
+--- Run: 2026-10-18 23:54:44 --- (2 new game(s) found)
+
+==================================================
+Name: Universal Tidy Up
+Release Date: Oct 18, 2026
+Price: $6.39 (-20%, was $7.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5119740
+==================================================
+
+==================================================
+Name: Achilles-Sword-ll
+Release Date: Oct 18, 2026
+Price: $3.99
+Genres: Action, Adventure, Casual, Indie, RPG
+Link: https://store.steampowered.com/app/4195360
+==================================================
+
