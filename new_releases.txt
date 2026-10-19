@@ -98330,3 +98330,182 @@ Genres: Casual, Indie, Simulation
 Link: https://store.steampowered.com/app/4206250
 ==================================================
 
+
+--- Run: 2026-10-19 20:49:00 --- (22 new game(s) found)
+
+==================================================
+Name: Grand Theft Idiots
+Release Date: Oct 19, 2026
+Price: $4.79 (-20%, was $5.99)
+Genres: Action, Adventure, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4919380
+==================================================
+
+==================================================
+Name: Under Investigation
+Release Date: Oct 19, 2026
+Price: $4.99
+Genres: Indie
+Link: https://store.steampowered.com/app/5327970
+==================================================
+
+==================================================
+Name: Her Revenge
+Release Date: Oct 19, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4952170
+==================================================
+
+==================================================
+Name: RULEBALL
+Release Date: Oct 19, 2026
+Price: $7.64 (-15%, was $8.99)
+Genres: Casual, Indie, Simulation, Sports, Strategy
+Link: https://store.steampowered.com/app/5362580
+==================================================
+
+==================================================
+Name: My friend pig
+Release Date: Oct 19, 2026
+Price: $3.05 (-15%, was $3.59)
+Genres: Action, Adventure, Casual, Indie, Massively Multiplayer
+Link: https://store.steampowered.com/app/4928360
+==================================================
+
+==================================================
+Name: Cat Life
+Release Date: Oct 19, 2026
+Price: $3.99
+Genres: Casual
+Link: https://store.steampowered.com/app/5253180
+==================================================
+
+==================================================
+Name: Ice Cream Hero
+Release Date: Oct 19, 2026
+Price: Free to Play
+Genres: Action, Casual, Indie, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4889610
+==================================================
+
+==================================================
+Name: The Edge Of - Definitive Edition
+Release Date: Oct 19, 2026
+Price: $9.89 (-10%, was $10.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/3445640
+==================================================
+
+==================================================
+Name: Parry X Break
+Release Date: Oct 19, 2026
+Price: $1.69 (-15%, was $1.99)
+Genres: Indie
+Link: https://store.steampowered.com/app/5255590
+==================================================
+
+==================================================
+Name: GemLoop
+Release Date: Oct 19, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5296420
+==================================================
+
+==================================================
+Name: Coin Harvest
+Release Date: Oct 19, 2026
+Price: $3.19 (-20%, was $3.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/4381180
+==================================================
+
+==================================================
+Name: FORGEFIELD
+Release Date: Oct 19, 2026
+Price: $4.99
+Genres: Utilities
+Link: https://store.steampowered.com/app/5356880
+==================================================
+
+==================================================
+Name: Homegrown: Sports Agent Empire
+Release Date: Oct 19, 2026
+Price: $8.49 (-15%, was $9.99)
+Genres: Casual, Indie, Simulation, Sports, Strategy
+Link: https://store.steampowered.com/app/5208900
+==================================================
+
+==================================================
+Name: Anomaly Jobs : Death Row
+Release Date: Oct 19, 2026
+Price: Free to Play
+Genres: Adventure, Indie, Free To Play
+Link: https://store.steampowered.com/app/4769150
+==================================================
+
+==================================================
+Name: Pareidolia
+Release Date: Oct 19, 2026
+Price: $2.39 (-40%, was $3.99)
+Genres: Action, Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/4633060
+==================================================
+
+==================================================
+Name: Reborn a Zombie 2: Entwined Hearts
+Release Date: Oct 19, 2026
+Price: $8.09 (-10%, was $8.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/2641800
+==================================================
+
+==================================================
+Name: AimZen
+Release Date: Oct 19, 2026
+Price: $6.66
+Genres: Action, Simulation
+Link: https://store.steampowered.com/app/5286740
+==================================================
+
+==================================================
+Name: It'll Hold
+Release Date: Oct 19, 2026
+Price: $4.99
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/5332060
+==================================================
+
+==================================================
+Name: Blue Artifact +
+Release Date: Oct 19, 2026
+Price: $1.79 (-40%, was $2.99)
+Genres: Action
+Link: https://store.steampowered.com/app/4185740
+==================================================
+
+==================================================
+Name: Warding Witches
+Release Date: Oct 19, 2026
+Price: $9.74 (-25%, was $12.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/3536520
+==================================================
+
+==================================================
+Name: Howling Woods
+Release Date: Oct 19, 2026
+Price: $6.99 (-30%, was $9.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5336590
+==================================================
+
+==================================================
+Name: Same Apartment
+Release Date: Oct 19, 2026
+Price: $2.69 (-10%, was $2.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/5363400
+==================================================
+
