@@ -98132,3 +98132,54 @@ Genres: Casual, Indie, Simulation, Free To Play
 Link: https://store.steampowered.com/app/4079960
 ==================================================
 
+
+--- Run: 2026-10-19 08:10:09 --- (6 new game(s) found)
+
+==================================================
+Name: Tiny Desktop Fishing
+Release Date: Oct 19, 2026
+Price: $0.59 (-40%, was $0.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/5308440
+==================================================
+
+==================================================
+Name: The Harbour Between Us
+Release Date: Oct 19, 2026
+Price: Free to Play
+Genres: Casual, Indie, Simulation, Free To Play
+Link: https://store.steampowered.com/app/5359760
+==================================================
+
+==================================================
+Name: Dynamite Blue
+Release Date: Oct 18, 2026
+Price: Free to Play
+Genres: RPG, Free To Play
+Link: https://store.steampowered.com/app/4714620
+==================================================
+
+==================================================
+Name: Kings Call 2
+Release Date: Oct 18, 2026
+Price: Free to Play
+Genres: Massively Multiplayer, RPG, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4491130
+==================================================
+
+==================================================
+Name: Desktop Monsters
+Release Date: Oct 18, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/5099260
+==================================================
+
+==================================================
+Name: Mall Corp
+Release Date: Oct 18, 2026
+Price: $5.59 (-20%, was $6.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/5328220
+==================================================
+
