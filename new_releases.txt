@@ -98081,3 +98081,54 @@ Genres: Action, Adventure, Casual, Indie, RPG
 Link: https://store.steampowered.com/app/4195360
 ==================================================
 
+
+--- Run: 2026-10-19 02:05:37 --- (6 new game(s) found)
+
+==================================================
+Name: HELLBENT
+Release Date: Oct 18, 2026
+Price: Free to Play
+Genres: Action, Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/4694770
+==================================================
+
+==================================================
+Name: Poker Heroes
+Release Date: Oct 18, 2026
+Price: $4.99
+Genres: Casual
+Link: https://store.steampowered.com/app/5252050
+==================================================
+
+==================================================
+Name: Obey the Beat
+Release Date: Oct 18, 2026
+Price: $2.69 (-10%, was $2.99)
+Genres: Action, Casual
+Link: https://store.steampowered.com/app/4957470
+==================================================
+
+==================================================
+Name: Taskbar
+Release Date: Oct 18, 2026
+Price: $2.79 (-30%, was $3.99)
+Genres: Utilities
+Link: https://store.steampowered.com/app/4904450
+==================================================
+
+==================================================
+Name: Patient Zero, My Love
+Release Date: Oct 18, 2026
+Price: $4.19 (-40%, was $6.99)
+Genres: Adventure, Simulation
+Link: https://store.steampowered.com/app/5217710
+==================================================
+
+==================================================
+Name: Dicey Desk
+Release Date: Oct 17, 2026
+Price: Free to Play
+Genres: Casual, Indie, Simulation, Free To Play
+Link: https://store.steampowered.com/app/4079960
+==================================================
+
