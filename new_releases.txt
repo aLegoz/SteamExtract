@@ -99012,3 +99012,94 @@ Genres: Casual, Indie
 Link: https://store.steampowered.com/app/4974640
 ==================================================
 
+
+--- Run: 2026-10-20 21:58:25 --- (11 new game(s) found)
+
+==================================================
+Name: Fzzy Bzzy's The Beautiful Ones
+Release Date: Oct 20, 2026
+Price: $1.19 (-40%, was $1.99)
+Genres: Action, Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/5356840
+==================================================
+
+==================================================
+Name: Bunny Hopper
+Release Date: Oct 20, 2026
+Price: $3.24 (-35%, was $4.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4015730
+==================================================
+
+==================================================
+Name: Fuse Beads Simulator
+Release Date: Oct 20, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Casual, Indie, Racing, Simulation
+Link: https://store.steampowered.com/app/4944870
+==================================================
+
+==================================================
+Name: Brush duel
+Release Date: Oct 20, 2026
+Price: $1.79 (-40%, was $2.99)
+Genres: Casual, Indie, Massively Multiplayer, Simulation
+Link: https://store.steampowered.com/app/3331850
+==================================================
+
+==================================================
+Name: Dystopia
+Release Date: Oct 20, 2026
+Price: $15.99
+Genres: Action, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5169690
+==================================================
+
+==================================================
+Name: Escape from Vlogger: Runaway
+Release Date: Oct 20, 2026
+Price: $4.49 (-25%, was $5.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/4554330
+==================================================
+
+==================================================
+Name: Dreams Of A Visionary
+Release Date: Oct 20, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4429690
+==================================================
+
+==================================================
+Name: Anubis: Wrath of the Underworld
+Release Date: Oct 20, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Adventure, RPG
+Link: https://store.steampowered.com/app/4886080
+==================================================
+
+==================================================
+Name: Clean your Garden
+Release Date: Oct 20, 2026
+Price: $4.99
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/5294080
+==================================================
+
+==================================================
+Name: Insanitorium - Don’t Be Afraid
+Release Date: Oct 20, 2026
+Price: $7.19 (-10%, was $7.99)
+Genres: Action, Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/3255840
+==================================================
+
+==================================================
+Name: Halloween Tidy Up
+Release Date: Oct 20, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/2309180
+==================================================
+
