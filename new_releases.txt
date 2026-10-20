@@ -98841,3 +98841,174 @@ Genres: Casual, Indie, Simulation, Strategy
 Link: https://store.steampowered.com/app/5180150
 ==================================================
 
+
+--- Run: 2026-10-20 18:22:41 --- (21 new game(s) found)
+
+==================================================
+Name: Teddy Horses
+Release Date: Oct 20, 2026
+Price: $4.99
+Genres: Adventure, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/3957780
+==================================================
+
+==================================================
+Name: Cucina Stellata
+Release Date: Oct 20, 2026
+Price: Free to Play
+Genres: Adventure, Free To Play
+Link: https://store.steampowered.com/app/3976340
+==================================================
+
+==================================================
+Name: Star Trek: Outposts Unknown
+Release Date: Oct 20, 2026
+Price: $29.69 (-10%, was $32.99)
+Genres: Simulation, Strategy
+Link: https://store.steampowered.com/app/3469910
+==================================================
+
+==================================================
+Name: Mycopunk
+Release Date: Oct 20, 2026
+Price: $7.49 (-50%, was $14.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/3247750
+==================================================
+
+==================================================
+Name: Farthest
+Release Date: Oct 20, 2026
+Price: $6.49
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5348850
+==================================================
+
+==================================================
+Name: Out of the Shadows
+Release Date: Oct 20, 2026
+Price: $6.79 (-15%, was $7.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/3506830
+==================================================
+
+==================================================
+Name: O'BLOCK
+Release Date: Oct 20, 2026
+Price: Free to Play
+Genres: Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/5357680
+==================================================
+
+==================================================
+Name: Passage Zero
+Release Date: Oct 20, 2026
+Price: $6.29 (-10%, was $6.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/5165300
+==================================================
+
+==================================================
+Name: TrackCrafter
+Release Date: Oct 20, 2026
+Price: $3.99
+Genres: Audio Production
+Link: https://store.steampowered.com/app/5352130
+==================================================
+
+==================================================
+Name: HENTAI CHAMELEON
+Release Date: Oct 20, 2026
+Price: $2.39 (-20%, was $2.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/5109030
+==================================================
+
+==================================================
+Name: Strange Tales of Holmes: The Sealed Cylinder
+Release Date: Oct 20, 2026
+Price: $1.99
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/5217930
+==================================================
+
+==================================================
+Name: WebBound Solitaire
+Release Date: Oct 20, 2026
+Price: $2.69 (-10%, was $2.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/5353290
+==================================================
+
+==================================================
+Name: AKIBA LOST
+Release Date: Oct 20, 2026
+Price: $19.99 (-20%, was $24.99)
+Genres: Adventure
+Link: https://store.steampowered.com/app/4131220
+==================================================
+
+==================================================
+Name: Lodebreaker
+Release Date: Oct 20, 2026
+Price: $1.79 (-40%, was $2.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5357630
+==================================================
+
+==================================================
+Name: Thirteen Provinces · Hanren
+Release Date: Oct 20, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/5009950
+==================================================
+
+==================================================
+Name: A Sister's Journey
+Release Date: Oct 20, 2026
+Price: $17.99 (-10%, was $19.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/1730790
+==================================================
+
+==================================================
+Name: Gloop: Liquid Physics
+Release Date: Oct 20, 2026
+Price: $6.79 (-15%, was $7.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4510190
+==================================================
+
+==================================================
+Name: Swaplines
+Release Date: Oct 20, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5354440
+==================================================
+
+==================================================
+Name: Dino Dome: Tidy Up!
+Release Date: Oct 20, 2026
+Price: $4.79 (-20%, was $5.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5221770
+==================================================
+
+==================================================
+Name: SHOGITOON
+Release Date: Oct 20, 2026
+Price: $2.99
+Genres: Casual
+Link: https://store.steampowered.com/app/5294600
+==================================================
+
+==================================================
+Name: zenaimu
+Release Date: Oct 20, 2026
+Price: $4.99
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4974640
+==================================================
+
