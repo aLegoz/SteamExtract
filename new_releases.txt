@@ -98718,3 +98718,126 @@ Genres: Action, Casual, Indie
 Link: https://store.steampowered.com/app/4454110
 ==================================================
 
+
+--- Run: 2026-10-20 14:00:17 --- (15 new game(s) found)
+
+==================================================
+Name: House Rules 21
+Release Date: Oct 20, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/5144250
+==================================================
+
+==================================================
+Name: We Were Here Tomorrow
+Release Date: Oct 20, 2026
+Price: $17.99 (-10%, was $19.99)
+Genres: Action, Adventure, Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/2315050
+==================================================
+
+==================================================
+Name: Deep Drift Fishing
+Release Date: Oct 20, 2026
+Price: $2.99 (-40%, was $4.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/5374730
+==================================================
+
+==================================================
+Name: Trick or Eat
+Release Date: Oct 20, 2026
+Price: $5.94 (-15%, was $6.99)
+Genres: Action, Casual
+Link: https://store.steampowered.com/app/5283850
+==================================================
+
+==================================================
+Name: Beatrice
+Release Date: Oct 20, 2026
+Price: $3.07 (-20%, was $3.84)
+Genres: Adventure
+Link: https://store.steampowered.com/app/5355820
+==================================================
+
+==================================================
+Name: GONE Fishing
+Release Date: Oct 20, 2026
+Price: $6.69 (-33%, was $9.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/3645890
+==================================================
+
+==================================================
+Name: Random & Unfair Battlefields
+Release Date: Oct 20, 2026
+Price: Free to Play
+Genres: Casual, Indie, Massively Multiplayer, Strategy, Free To Play
+Link: https://store.steampowered.com/app/5224050
+==================================================
+
+==================================================
+Name: Bloom
+Release Date: Oct 20, 2026
+Price: Free to Play
+Genres: Adventure, Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/5246400
+==================================================
+
+==================================================
+Name: Sloptoberfest
+Release Date: Oct 20, 2026
+Price: $6.99 (-30%, was $9.99)
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/5327190
+==================================================
+
+==================================================
+Name: BONG FLIP
+Release Date: Oct 20, 2026
+Price: Free to Play
+Genres: Adventure, Casual, Indie, Simulation, Free To Play
+Link: https://store.steampowered.com/app/3847310
+==================================================
+
+==================================================
+Name: Zone Nova
+Release Date: Oct 20, 2026
+Price: Free to Play
+Genres: Action, Casual, RPG, Free To Play
+Link: https://store.steampowered.com/app/4354660
+==================================================
+
+==================================================
+Name: Trapoint
+Release Date: Oct 20, 2026
+Price: $6.39 (-20%, was $7.99)
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/5189370
+==================================================
+
+==================================================
+Name: Campagnol
+Release Date: Oct 20, 2026
+Price: Free to Play
+Genres: Strategy, Free To Play
+Link: https://store.steampowered.com/app/5269430
+==================================================
+
+==================================================
+Name: Superpower Rally: Home Guard
+Release Date: Oct 20, 2026
+Price: $2.79 (-30%, was $3.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5324790
+==================================================
+
+==================================================
+Name: Beastwood Haven
+Release Date: Oct 19, 2026
+Price: $1.79 (-10%, was $1.99)
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/5180150
+==================================================
+
