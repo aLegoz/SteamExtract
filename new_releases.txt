@@ -98509,3 +98509,70 @@ Genres: Action, Adventure, Indie
 Link: https://store.steampowered.com/app/5363400
 ==================================================
 
+
+--- Run: 2026-10-20 00:00:00 --- (8 new game(s) found)
+
+==================================================
+Name: Thicc Magic. Perky Prelude
+Release Date: Coming soon
+Price: Free to Play
+Genres: Adventure, Free To Play
+Link: https://store.steampowered.com/app/4956940
+==================================================
+
+==================================================
+Name: Phasewright
+Release Date: Oct 19, 2026
+Price: Free to Play
+Genres: Indie, Simulation, Strategy, Free To Play
+Link: https://store.steampowered.com/app/5126170
+==================================================
+
+==================================================
+Name: Armament Inc
+Release Date: Oct 19, 2026
+Price: $6.09 (-20%, was $7.62)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/5241840
+==================================================
+
+==================================================
+Name: Galatico
+Release Date: Oct 19, 2026
+Price: $5.99 (-25%, was $7.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/3308220
+==================================================
+
+==================================================
+Name: Vahnora
+Release Date: Oct 19, 2026
+Price: Free to Play
+Genres: Action, Adventure, Casual, Indie, Massively Multiplayer, RPG, Simulation, Strategy, Free To Play
+Link: https://store.steampowered.com/app/1624430
+==================================================
+
+==================================================
+Name: Abraxas Online
+Release Date: Oct 19, 2026
+Price: Free to Play
+Genres: Action, Adventure, Indie, RPG, Free To Play
+Link: https://store.steampowered.com/app/5022330
+==================================================
+
+==================================================
+Name: Just Pancake Simulator
+Release Date: Oct 19, 2026
+Price: $1.79 (-10%, was $1.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5286420
+==================================================
+
+==================================================
+Name: Afternoon Paws
+Release Date: Oct 19, 2026
+Price: $3.19 (-20%, was $3.99)
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/5309060
+==================================================
+
