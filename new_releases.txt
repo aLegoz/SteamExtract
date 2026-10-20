@@ -98635,3 +98635,86 @@ Genres: Simulation, Sports, Strategy
 Link: https://store.steampowered.com/app/5068500
 ==================================================
 
+
+--- Run: 2026-10-20 08:57:13 --- (10 new game(s) found)
+
+==================================================
+Name: Slitherlink: Line Logic
+Release Date: Oct 20, 2026
+Price: $2.99 (-40%, was $4.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/5352170
+==================================================
+
+==================================================
+Name: Welcome To HillVeil
+Release Date: Oct 20, 2026
+Price: $4.04
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/5343820
+==================================================
+
+==================================================
+Name: Stella Sora
+Release Date: Oct 19, 2026
+Price: Free to Play
+Genres: Action, Adventure, RPG, Free To Play
+Link: https://store.steampowered.com/app/4813850
+==================================================
+
+==================================================
+Name: Quartermark
+Release Date: Oct 19, 2026
+Price: $0.59 (-40%, was $0.99)
+Genres: Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/5061040
+==================================================
+
+==================================================
+Name: Aolta
+Release Date: Oct 19, 2026
+Price: $10.00
+Genres: Casual, Indie, RPG, Simulation
+Link: https://store.steampowered.com/app/3825930
+==================================================
+
+==================================================
+Name: Crypt Survivor
+Release Date: Oct 19, 2026
+Price: $6.29 (-10%, was $6.99)
+Genres: Action, Casual, Indie, RPG
+Link: https://store.steampowered.com/app/5056360
+==================================================
+
+==================================================
+Name: Mahjong Traveler
+Release Date: Oct 19, 2026
+Price: $2.99 (-40%, was $4.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/1558620
+==================================================
+
+==================================================
+Name: Curse of Baghdad
+Release Date: Oct 19, 2026
+Price: $15.29 (-10%, was $16.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4841390
+==================================================
+
+==================================================
+Name: Conjurariun
+Release Date: Oct 19, 2026
+Price: $4.79 (-40%, was $7.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/5047760
+==================================================
+
+==================================================
+Name: Softboiled
+Release Date: Oct 19, 2026
+Price: $6.29 (-10%, was $6.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4454110
+==================================================
+
