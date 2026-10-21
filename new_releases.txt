@@ -99245,3 +99245,134 @@ Genres: Casual, Indie
 Link: https://store.steampowered.com/app/3420670
 ==================================================
 
+
+--- Run: 2026-10-21 10:43:42 --- (16 new game(s) found)
+
+==================================================
+Name: ARCS
+Release Date: Oct 21, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4409620
+==================================================
+
+==================================================
+Name: Apples Everywhere! Let's Tidy Up
+Release Date: Oct 21, 2026
+Price: $5.09 (-15%, was $5.99)
+Genres: Casual, Simulation
+Link: https://store.steampowered.com/app/5316020
+==================================================
+
+==================================================
+Name: Baccarata
+Release Date: Oct 21, 2026
+Price: $4.00 (-20%, was $5.00)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/5231780
+==================================================
+
+==================================================
+Name: The Killing Stone
+Release Date: Oct 21, 2026
+Price: $19.99
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/2781470
+==================================================
+
+==================================================
+Name: traitor gamble
+Release Date: Oct 21, 2026
+Price: $3.59 (-40%, was $5.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/5318420
+==================================================
+
+==================================================
+Name: Another Ark
+Release Date: Oct 21, 2026
+Price: $9.99
+Genres: RPG, Strategy
+Link: https://store.steampowered.com/app/4553010
+==================================================
+
+==================================================
+Name: Uncanny Train
+Release Date: Oct 20, 2026
+Price: $3.74 (-25%, was $4.99)
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/5305740
+==================================================
+
+==================================================
+Name: PitWal
+Release Date: Oct 20, 2026
+Price: $7.77
+Genres: Utilities
+Link: https://store.steampowered.com/app/5103730
+==================================================
+
+==================================================
+Name: Spirit Route
+Release Date: Oct 20, 2026
+Price: $8.49 (-15%, was $9.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4833770
+==================================================
+
+==================================================
+Name: MECCHA LIAR
+Release Date: Oct 20, 2026
+Price: $3.59 (-10%, was $3.99)
+Genres: Casual, Indie, RPG, Simulation, Strategy
+Link: https://store.steampowered.com/app/5081300
+==================================================
+
+==================================================
+Name: Pawnimals
+Release Date: Oct 20, 2026
+Price: $11.04 (-15%, was $12.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/5223090
+==================================================
+
+==================================================
+Name: Grurong Random Defense
+Release Date: Oct 20, 2026
+Price: $2.39 (-40%, was $3.99)
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/5074950
+==================================================
+
+==================================================
+Name: What The Dog Remembers
+Release Date: Oct 20, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/4500460
+==================================================
+
+==================================================
+Name: Messa Anomaly
+Release Date: Oct 20, 2026
+Price: $2.39 (-40%, was $3.99)
+Genres: Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/5227910
+==================================================
+
+==================================================
+Name: merchant GAME
+Release Date: Oct 20, 2026
+Price: $0.89 (-10%, was $0.99)
+Genres: Simulation
+Link: https://store.steampowered.com/app/4692410
+==================================================
+
+==================================================
+Name: Bio Inc. Classic
+Release Date: Oct 20, 2026
+Price: Free to Play
+Genres: Simulation, Strategy, Free To Play
+Link: https://store.steampowered.com/app/5164130
+==================================================
+
