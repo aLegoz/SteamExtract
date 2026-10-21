@@ -99130,3 +99130,118 @@ Genres: Action, Casual, Indie
 Link: https://store.steampowered.com/app/4673080
 ==================================================
 
+
+--- Run: 2026-10-21 05:28:09 --- (14 new game(s) found)
+
+==================================================
+Name: The Inkspire
+Release Date: Oct 20, 2026
+Price: Free to Play
+Genres: Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/5156550
+==================================================
+
+==================================================
+Name: Panos
+Release Date: Oct 20, 2026
+Price: $9.99
+Genres: Casual, Strategy
+Link: https://store.steampowered.com/app/5292490
+==================================================
+
+==================================================
+Name: VRPlayerSim
+Release Date: Oct 20, 2026
+Price: $3.39 (-15%, was $3.99)
+Genres: Casual, Utilities
+Link: https://store.steampowered.com/app/5024300
+==================================================
+
+==================================================
+Name: Furry Fantasy Adult World
+Release Date: Oct 20, 2026
+Price: $14.39 (-10%, was $15.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/3701460
+==================================================
+
+==================================================
+Name: Revenant Dawn
+Release Date: Oct 20, 2026
+Price: $10.79 (-10%, was $11.99)
+Genres: RPG
+Link: https://store.steampowered.com/app/5206610
+==================================================
+
+==================================================
+Name: Give My Girl a Whirl
+Release Date: Oct 20, 2026
+Price: $14.39 (-20%, was $17.99)
+Genres: Simulation
+Link: https://store.steampowered.com/app/4013020
+==================================================
+
+==================================================
+Name: Oval Office Tidy Up
+Release Date: Oct 20, 2026
+Price: $3.39 (-15%, was $3.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5368560
+==================================================
+
+==================================================
+Name: 21: Dead Man's Deck
+Release Date: Oct 20, 2026
+Price: $4.99
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4737540
+==================================================
+
+==================================================
+Name: Pixelia
+Release Date: Oct 20, 2026
+Price: $3.19 (-20%, was $3.99)
+Genres: Action, Adventure, Casual, Indie, RPG, Simulation, Strategy
+Link: https://store.steampowered.com/app/5179830
+==================================================
+
+==================================================
+Name: Draft Day Sports: Pro Basketball 27
+Release Date: Oct 20, 2026
+Price: $35.99 (-10%, was $39.99)
+Genres: Indie, Simulation, Sports, Strategy
+Link: https://store.steampowered.com/app/5250360
+==================================================
+
+==================================================
+Name: Bird Empire
+Release Date: Oct 20, 2026
+Price: $0.99
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5308590
+==================================================
+
+==================================================
+Name: Julio's Adventure 3
+Release Date: Oct 20, 2026
+Price: $15.29 (-10%, was $16.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/3670210
+==================================================
+
+==================================================
+Name: SIX
+Release Date: Oct 20, 2026
+Price: $3.19 (-20%, was $3.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4935870
+==================================================
+
+==================================================
+Name: Rocket Shift
+Release Date: Oct 20, 2026
+Price: $4.95 (-38%, was $7.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/3420670
+==================================================
+
