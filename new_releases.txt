@@ -99376,3 +99376,174 @@ Genres: Simulation, Strategy, Free To Play
 Link: https://store.steampowered.com/app/5164130
 ==================================================
 
+
+--- Run: 2026-10-21 15:42:34 --- (21 new game(s) found)
+
+==================================================
+Name: Kron Wars
+Release Date: Oct 21, 2026
+Price: Free to Play
+Genres: Indie, Massively Multiplayer, RPG, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4731070
+==================================================
+
+==================================================
+Name: Ward Off Evil
+Release Date: Oct 21, 2026
+Price: $15.29 (-15%, was $17.99)
+Genres: RPG, Strategy
+Link: https://store.steampowered.com/app/3422000
+==================================================
+
+==================================================
+Name: ゆめみるサクラの卒業式
+Release Date: Oct 21, 2026
+Price: $4.99
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/5292500
+==================================================
+
+==================================================
+Name: Inky's Sleep
+Release Date: Oct 21, 2026
+Price: $6.99
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/3996640
+==================================================
+
+==================================================
+Name: Sweet Swipe
+Release Date: Oct 21, 2026
+Price: Free to Play
+Genres: Casual, Free To Play
+Link: https://store.steampowered.com/app/3323980
+==================================================
+
+==================================================
+Name: GemCraft - Legacy Collection
+Release Date: Oct 21, 2026
+Price: $9.99
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4207990
+==================================================
+
+==================================================
+Name: Handle with Care!
+Release Date: Oct 21, 2026
+Price: $4.89 (-30%, was $6.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4996960
+==================================================
+
+==================================================
+Name: JIGOKU YUGI: Only The Last Gambler Standing Returns to Life
+Release Date: Oct 21, 2026
+Price: $8.49 (-15%, was $9.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/5297320
+==================================================
+
+==================================================
+Name: Monsters, Inn Order!
+Release Date: Oct 21, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5375590
+==================================================
+
+==================================================
+Name: Truth Beneath the Shadows
+Release Date: Oct 21, 2026
+Price: $6.11 (-15%, was $7.19)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/3716120
+==================================================
+
+==================================================
+Name: Kaiju Climber
+Release Date: Oct 21, 2026
+Price: $8.99
+Genres: Indie
+Link: https://store.steampowered.com/app/5332820
+==================================================
+
+==================================================
+Name: PunchMonkey
+Release Date: Oct 21, 2026
+Price: $1.99
+Genres: Casual, Simulation
+Link: https://store.steampowered.com/app/5281130
+==================================================
+
+==================================================
+Name: Yakiniku!!!
+Release Date: Oct 21, 2026
+Price: $12.74 (-15%, was $14.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5087740
+==================================================
+
+==================================================
+Name: WOIM
+Release Date: Oct 21, 2026
+Price: $8.49 (-15%, was $9.99)
+Genres: Adventure, Indie, Strategy
+Link: https://store.steampowered.com/app/4272020
+==================================================
+
+==================================================
+Name: Farkle: Tavern Dice
+Release Date: Oct 21, 2026
+Price: $12.74 (-15%, was $14.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/5368450
+==================================================
+
+==================================================
+Name: My Own Roguelike: RPG
+Release Date: Oct 21, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Action, Indie, RPG
+Link: https://store.steampowered.com/app/5366690
+==================================================
+
+==================================================
+Name: Mine Heroes
+Release Date: Oct 21, 2026
+Price: $4.99
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/5240770
+==================================================
+
+==================================================
+Name: Brain Boost Fit
+Release Date: Oct 21, 2026
+Price: $3.59 (-40%, was $5.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/5173040
+==================================================
+
+==================================================
+Name: TPS Tickman: Castle Defense
+Release Date: Oct 21, 2026
+Price: $2.54 (-15%, was $2.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/5351820
+==================================================
+
+==================================================
+Name: We Are Good Delivery
+Release Date: Oct 21, 2026
+Price: $2.69 (-10%, was $2.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/5056370
+==================================================
+
+==================================================
+Name: Robot Fisher
+Release Date: Oct 21, 2026
+Price: $0.59 (-40%, was $0.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5373530
+==================================================
+
