@@ -99710,3 +99710,102 @@ Genres: Casual, Indie, Strategy
 Link: https://store.steampowered.com/app/5368910
 ==================================================
 
+
+--- Run: 2026-10-21 22:51:16 --- (12 new game(s) found)
+
+==================================================
+Name: Juice Stand Tycoon
+Release Date: Oct 21, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Casual, Simulation
+Link: https://store.steampowered.com/app/4833540
+==================================================
+
+==================================================
+Name: Momolitos
+Release Date: Oct 21, 2026
+Price: $6.29 (-10%, was $6.99)
+Genres: Adventure, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/3991200
+==================================================
+
+==================================================
+Name: Stupid Never Dies
+Release Date: Oct 21, 2026
+Price: $49.99
+Genres: Action, Adventure, RPG
+Link: https://store.steampowered.com/app/3486530
+==================================================
+
+==================================================
+Name: PCpill
+Release Date: Oct 21, 2026
+Price: $5.99
+Genres: Action
+Link: https://store.steampowered.com/app/5077390
+==================================================
+
+==================================================
+Name: TankFall Arena
+Release Date: Oct 21, 2026
+Price: Free to Play
+Genres: Action, Free To Play
+Link: https://store.steampowered.com/app/4813620
+==================================================
+
+==================================================
+Name: Grind Grid
+Release Date: Oct 21, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/5360850
+==================================================
+
+==================================================
+Name: Wartide
+Release Date: Oct 21, 2026
+Price: $4.99
+Genres: Action, Casual, Strategy
+Link: https://store.steampowered.com/app/4303660
+==================================================
+
+==================================================
+Name: TRY
+Release Date: Oct 21, 2026
+Price: $3.83 (-20%, was $4.79)
+Genres: Adventure
+Link: https://store.steampowered.com/app/4751790
+==================================================
+
+==================================================
+Name: FULL THROTTLE RALLY
+Release Date: Oct 21, 2026
+Price: $10.99
+Genres: Casual, Racing, Sports
+Link: https://store.steampowered.com/app/5230710
+==================================================
+
+==================================================
+Name: Jessica's Choices - Forced [Episode 1]
+Release Date: Oct 21, 2026
+Price: $11.69 (-10%, was $12.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/3570930
+==================================================
+
+==================================================
+Name: Lighthouse of Madness
+Release Date: Oct 21, 2026
+Price: $11.89 (-15%, was $13.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/1564060
+==================================================
+
+==================================================
+Name: AFTER CLOSING - 闭店之后
+Release Date: Oct 21, 2026
+Price: $3.19 (-20%, was $3.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/5213440
+==================================================
+
