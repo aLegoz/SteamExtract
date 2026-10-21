@@ -99547,3 +99547,166 @@ Genres: Casual, Indie, Simulation
 Link: https://store.steampowered.com/app/5373530
 ==================================================
 
+
+--- Run: 2026-10-21 19:44:15 --- (20 new game(s) found)
+
+==================================================
+Name: Ashnar's Lair
+Release Date: Coming soon
+Price: Free to Play
+Genres: Indie, RPG, Free To Play
+Link: https://store.steampowered.com/app/5341000
+==================================================
+
+==================================================
+Name: Girlvania: Summer Lust
+Release Date: Oct 21, 2026
+Price: $24.99
+Genres: Simulation
+Link: https://store.steampowered.com/app/5279090
+==================================================
+
+==================================================
+Name: NOVA
+Release Date: Oct 21, 2026
+Price: $9.63
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/5288330
+==================================================
+
+==================================================
+Name: Puppet Mall: Chapter 1: Lost Friend
+Release Date: Oct 21, 2026
+Price: $4.63 (-20%, was $5.79)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/5132990
+==================================================
+
+==================================================
+Name: Ceto-7
+Release Date: Oct 21, 2026
+Price: Free to Play
+Genres: Action, Adventure, Indie, Free To Play
+Link: https://store.steampowered.com/app/4896360
+==================================================
+
+==================================================
+Name: No Murders in Grimwick
+Release Date: Oct 21, 2026
+Price: $6.99
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/5198670
+==================================================
+
+==================================================
+Name: Halloween On Goober Street
+Release Date: Oct 21, 2026
+Price: Free to Play
+Genres: Indie, Free To Play
+Link: https://store.steampowered.com/app/5279620
+==================================================
+
+==================================================
+Name: Soul Mates
+Release Date: Oct 21, 2026
+Price: $12.99
+Genres: Adventure, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/2279440
+==================================================
+
+==================================================
+Name: TitleIt!
+Release Date: Oct 21, 2026
+Price: Free to Play
+Genres: Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/4246850
+==================================================
+
+==================================================
+Name: Pyramidion
+Release Date: Oct 21, 2026
+Price: $6.39 (-20%, was $7.99)
+Genres: Action, Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4024600
+==================================================
+
+==================================================
+Name: The Wrong Way
+Release Date: Oct 21, 2026
+Price: $2.99
+Genres: Action, Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/5341070
+==================================================
+
+==================================================
+Name: MEAT TRAIN
+Release Date: Oct 21, 2026
+Price: $9.00 (-40%, was $15.00)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/3216230
+==================================================
+
+==================================================
+Name: DON'T SWITCH
+Release Date: Oct 21, 2026
+Price: $3.00
+Genres: Indie
+Link: https://store.steampowered.com/app/5134560
+==================================================
+
+==================================================
+Name: Grease Trap '99
+Release Date: Oct 21, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/4509200
+==================================================
+
+==================================================
+Name: Finding Words
+Release Date: Oct 21, 2026
+Price: $3.39 (-15%, was $3.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/1508190
+==================================================
+
+==================================================
+Name: SpacePorts
+Release Date: Oct 21, 2026
+Price: $9.00
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4872940
+==================================================
+
+==================================================
+Name: Off the Shelf!
+Release Date: Oct 21, 2026
+Price: $2.69 (-10%, was $2.99)
+Genres: Action, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/3584250
+==================================================
+
+==================================================
+Name: CUSTOM PENNANT BASEBALL
+Release Date: Oct 21, 2026
+Price: $11.24 (-25%, was $14.99)
+Genres: Indie, Simulation, Sports, Strategy
+Link: https://store.steampowered.com/app/5101820
+==================================================
+
+==================================================
+Name: Sudoku Unlimited
+Release Date: Oct 21, 2026
+Price: $2.99 (-40%, was $4.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5354400
+==================================================
+
+==================================================
+Name: BOOMSWEEPER
+Release Date: Oct 21, 2026
+Price: $1.97 (-34%, was $2.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/5368910
+==================================================
+
