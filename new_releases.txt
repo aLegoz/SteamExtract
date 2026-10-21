@@ -99103,3 +99103,30 @@ Genres: Casual, Indie
 Link: https://store.steampowered.com/app/2309180
 ==================================================
 
+
+--- Run: 2026-10-21 00:20:44 --- (3 new game(s) found)
+
+==================================================
+Name: Everest Trail
+Release Date: Oct 20, 2026
+Price: $9.99
+Genres: Adventure, RPG, Simulation
+Link: https://store.steampowered.com/app/4677760
+==================================================
+
+==================================================
+Name: Dementium II
+Release Date: Oct 20, 2026
+Price: $14.99
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/5342930
+==================================================
+
+==================================================
+Name: Sloperator Inc.
+Release Date: Oct 20, 2026
+Price: $3.19 (-20%, was $3.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4673080
+==================================================
+
