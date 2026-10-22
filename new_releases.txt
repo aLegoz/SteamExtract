@@ -99884,3 +99884,110 @@ Genres: Casual, Indie
 Link: https://store.steampowered.com/app/5250400
 ==================================================
 
+
+--- Run: 2026-10-22 06:44:58 --- (13 new game(s) found)
+
+==================================================
+Name: Biblioclash Digital
+Release Date: Oct 21, 2026
+Price: Free to Play
+Genres: Indie, Strategy, Free To Play
+Link: https://store.steampowered.com/app/5127780
+==================================================
+
+==================================================
+Name: Raze the Zombie Horde
+Release Date: Oct 21, 2026
+Price: $4.50 (-10%, was $5.00)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/5292740
+==================================================
+
+==================================================
+Name: if you stay
+Release Date: Oct 21, 2026
+Price: Free to Play
+Genres: Adventure, Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/4437140
+==================================================
+
+==================================================
+Name: NARNOK: Help! I Was Reincarnated as a Brain in a Jar and Need to Plug In My Power Cables
+Release Date: Oct 21, 2026
+Price: $2.39 (-20%, was $2.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5104990
+==================================================
+
+==================================================
+Name: Little Pot, Big Seasons
+Release Date: Oct 21, 2026
+Price: $2.54 (-15%, was $2.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5330240
+==================================================
+
+==================================================
+Name: Aquarium Party
+Release Date: Oct 21, 2026
+Price: Free to Play
+Genres: Casual, Simulation, Free To Play
+Link: https://store.steampowered.com/app/5281080
+==================================================
+
+==================================================
+Name: Irradiate 235
+Release Date: Oct 21, 2026
+Price: $11.99 (-20%, was $14.99)
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/3191530
+==================================================
+
+==================================================
+Name: Laid-Back Camp All -in -one!! Chill Time
+Release Date: Oct 21, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/5063150
+==================================================
+
+==================================================
+Name: The Hidden Ones
+Release Date: Oct 21, 2026
+Price: $11.19 (-20%, was $13.99)
+Genres: Adventure, RPG, Strategy
+Link: https://store.steampowered.com/app/4172450
+==================================================
+
+==================================================
+Name: DEMONS' NIGHT FEVER
+Release Date: Oct 21, 2026
+Price: $39.99
+Genres: RPG, Simulation, Strategy
+Link: https://store.steampowered.com/app/3502620
+==================================================
+
+==================================================
+Name: Dub House
+Release Date: Oct 21, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5208860
+==================================================
+
+==================================================
+Name: Solo Shift! Karaoke
+Release Date: Oct 21, 2026
+Price: $7.09 (-29%, was $9.99)
+Genres: Action, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5329480
+==================================================
+
+==================================================
+Name: Umbral Coterie
+Release Date: Oct 21, 2026
+Price: $11.69 (-10%, was $12.99)
+Genres: Strategy
+Link: https://store.steampowered.com/app/4471020
+==================================================
+
