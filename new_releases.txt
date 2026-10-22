@@ -99991,3 +99991,142 @@ Genres: Strategy
 Link: https://store.steampowered.com/app/4471020
 ==================================================
 
+
+--- Run: 2026-10-22 12:35:37 --- (17 new game(s) found)
+
+==================================================
+Name: The Guest from the Fields
+Release Date: Oct 22, 2026
+Price: $2.39 (-20%, was $2.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/5134280
+==================================================
+
+==================================================
+Name: Princess Ilyana: Night of Falling Grace
+Release Date: Oct 22, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: RPG
+Link: https://store.steampowered.com/app/4607340
+==================================================
+
+==================================================
+Name: Gems & Palace
+Release Date: Oct 22, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/5341050
+==================================================
+
+==================================================
+Name: Risk it Little Biscuit
+Release Date: Oct 22, 2026
+Price: Free to Play
+Genres: Action, Adventure, Indie, Free To Play
+Link: https://store.steampowered.com/app/4036370
+==================================================
+
+==================================================
+Name: Lost Jelly
+Release Date: Oct 22, 2026
+Price: $3.39 (-15%, was $3.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/3844890
+==================================================
+
+==================================================
+Name: Red Chat Ritual  – TSUMIMI TIME
+Release Date: Oct 22, 2026
+Price: $14.39 (-20%, was $17.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4413070
+==================================================
+
+==================================================
+Name: Battle Nap
+Release Date: Oct 22, 2026
+Price: $8.49 (-15%, was $9.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4560000
+==================================================
+
+==================================================
+Name: Atrion Project
+Release Date: Oct 22, 2026
+Price: $9.99
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/2451700
+==================================================
+
+==================================================
+Name: Sakura Hime 7
+Release Date: Oct 22, 2026
+Price: $2.79 (-30%, was $3.99)
+Genres: Casual, Indie, RPG, Simulation
+Link: https://store.steampowered.com/app/3596870
+==================================================
+
+==================================================
+Name: Rally: Village Defense
+Release Date: Oct 22, 2026
+Price: $2.79 (-30%, was $3.99)
+Genres: Casual, Strategy
+Link: https://store.steampowered.com/app/5318000
+==================================================
+
+==================================================
+Name: Axiom of Stars
+Release Date: Oct 22, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Adventure, Indie, Strategy
+Link: https://store.steampowered.com/app/5231500
+==================================================
+
+==================================================
+Name: Sidetrack — Tiny Trains for Your Desktop
+Release Date: Oct 22, 2026
+Price: $6.39 (-20%, was $7.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5348500
+==================================================
+
+==================================================
+Name: Moadra
+Release Date: Oct 22, 2026
+Price: $22.49 (-10%, was $24.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/1713730
+==================================================
+
+==================================================
+Name: TCG: FANTASY Card Collection
+Release Date: Oct 22, 2026
+Price: $2.54 (-15%, was $2.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/2757440
+==================================================
+
+==================================================
+Name: Chained Pirates Together
+Release Date: Oct 22, 2026
+Price: $1.19 (-40%, was $1.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/5377200
+==================================================
+
+==================================================
+Name: Just One More Expedition
+Release Date: Oct 21, 2026
+Price: $1.99
+Genres: Adventure, Casual, Simulation, Strategy
+Link: https://store.steampowered.com/app/4961170
+==================================================
+
+==================================================
+Name: Verdict of the Forge
+Release Date: Oct 21, 2026
+Price: $3.99
+Genres: Casual, Strategy
+Link: https://store.steampowered.com/app/5058000
+==================================================
+
