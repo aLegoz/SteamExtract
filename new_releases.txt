@@ -100590,3 +100590,222 @@ Genres: Adventure, Simulation
 Link: https://store.steampowered.com/app/5239320
 ==================================================
 
+
+--- Run: 2026-10-23 08:02:06 --- (27 new game(s) found)
+
+==================================================
+Name: Moon Sweepers
+Release Date: Oct 23, 2026
+Price: $7.64 (-15%, was $8.99)
+Genres: Action, Adventure, Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/5335510
+==================================================
+
+==================================================
+Name: Desktop Taxi
+Release Date: Oct 22, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4006760
+==================================================
+
+==================================================
+Name: Fibonex
+Release Date: Oct 22, 2026
+Price: $7.19 (-10%, was $7.99)
+Genres: Simulation, Strategy
+Link: https://store.steampowered.com/app/4850930
+==================================================
+
+==================================================
+Name: Sticker Detective: By the Book
+Release Date: Oct 22, 2026
+Price: $4.99
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4387730
+==================================================
+
+==================================================
+Name: Three Kingdoms:Yi
+Release Date: Oct 22, 2026
+Price: $8.37 (-10%, was $9.30)
+Genres: Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/4771880
+==================================================
+
+==================================================
+Name: Cyan Soul
+Release Date: Oct 22, 2026
+Price: $8.49 (-15%, was $9.99)
+Genres: Action
+Link: https://store.steampowered.com/app/4336790
+==================================================
+
+==================================================
+Name: Saving Songburg™
+Release Date: Oct 22, 2026
+Price: $14.99
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/3954920
+==================================================
+
+==================================================
+Name: Bunny Coming
+Release Date: Oct 22, 2026
+Price: $7.00
+Genres: Casual, Simulation
+Link: https://store.steampowered.com/app/5330340
+==================================================
+
+==================================================
+Name: STRIKEM
+Release Date: Oct 22, 2026
+Price: $6.99
+Genres: Action
+Link: https://store.steampowered.com/app/5020970
+==================================================
+
+==================================================
+Name: The Wizard is SUS
+Release Date: Oct 22, 2026
+Price: $6.70
+Genres: Action, Adventure, Casual, Indie, RPG
+Link: https://store.steampowered.com/app/4989930
+==================================================
+
+==================================================
+Name: Jane Friday: After Hours
+Release Date: Oct 22, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/5096240
+==================================================
+
+==================================================
+Name: Halloweenies Candy Run
+Release Date: Oct 22, 2026
+Price: $5.99 (-40%, was $9.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/5377190
+==================================================
+
+==================================================
+Name: Sacrifice Sanctuary: The Ritual Maiden's Life With Monsters
+Release Date: Oct 22, 2026
+Price: $6.39 (-20%, was $7.99)
+Genres: Adventure
+Link: https://store.steampowered.com/app/3841050
+==================================================
+
+==================================================
+Name: Call of Duty®: Modern Warfare® 4
+Release Date: Oct 22, 2026
+Price: $69.99
+Genres: Action
+Link: https://store.steampowered.com/app/4435490
+==================================================
+
+==================================================
+Name: Call of Duty®: Modern Warfare® 4
+Release Date: Oct 22, 2026
+Price: $69.99
+Genres: Action
+Link: https://store.steampowered.com/app/4435490
+==================================================
+
+==================================================
+Name: Tidy Up The Backrooms
+Release Date: Oct 22, 2026
+Price: $8.49 (-15%, was $9.99)
+Genres: Casual, Simulation
+Link: https://store.steampowered.com/app/5114970
+==================================================
+
+==================================================
+Name: Spot the Difference Fighter
+Release Date: Oct 22, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Action, Casual, Indie, Sports
+Link: https://store.steampowered.com/app/5290320
+==================================================
+
+==================================================
+Name: Climb King
+Release Date: Oct 22, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Indie
+Link: https://store.steampowered.com/app/3923150
+==================================================
+
+==================================================
+Name: Swat Mosquito: Sleepless Nights
+Release Date: Oct 22, 2026
+Price: $2.24 (-25%, was $2.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/5345960
+==================================================
+
+==================================================
+Name: 君临传奇之风起云涌
+Release Date: Oct 22, 2026
+Price: Free to Play
+Genres: Action, Casual, Indie, Massively Multiplayer, RPG, Free To Play
+Link: https://store.steampowered.com/app/4773930
+==================================================
+
+==================================================
+Name: Suspencil
+Release Date: Oct 22, 2026
+Price: $2.69 (-10%, was $2.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5303370
+==================================================
+
+==================================================
+Name: MatchMaker95 - A Programming Simulator
+Release Date: Oct 22, 2026
+Price: $4.76 (-10%, was $5.29)
+Genres: Casual, Simulation
+Link: https://store.steampowered.com/app/4748140
+==================================================
+
+==================================================
+Name: Dungeon Inn
+Release Date: Oct 22, 2026
+Price: $11.99 (-20%, was $14.99)
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/2552310
+==================================================
+
+==================================================
+Name: 将棋
+Release Date: Oct 22, 2026
+Price: $7.99
+Genres: Strategy
+Link: https://store.steampowered.com/app/5359840
+==================================================
+
+==================================================
+Name: Chess
+Release Date: Oct 22, 2026
+Price: $6.79 (-15%, was $7.99)
+Genres: Strategy
+Link: https://store.steampowered.com/app/5359750
+==================================================
+
+==================================================
+Name: 象棋
+Release Date: Oct 22, 2026
+Price: $7.99
+Genres: Strategy
+Link: https://store.steampowered.com/app/5359780
+==================================================
+
+==================================================
+Name: Hentai Tales: Humanoid Doll
+Release Date: Oct 22, 2026
+Price: $0.59 (-40%, was $0.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/5069390
+==================================================
+
