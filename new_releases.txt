@@ -100539,3 +100539,54 @@ Genres: Adventure, Casual, Indie, RPG
 Link: https://store.steampowered.com/app/5140670
 ==================================================
 
+
+--- Run: 2026-10-23 02:15:14 --- (6 new game(s) found)
+
+==================================================
+Name: ERA-ming（时代：明末）
+Release Date: Oct 22, 2026
+Price: Free to Play
+Genres: Casual, RPG, Simulation, Strategy, Free To Play
+Link: https://store.steampowered.com/app/5120560
+==================================================
+
+==================================================
+Name: Dimon - The Witch's Pervert Assistant
+Release Date: Oct 22, 2026
+Price: $12.74 (-15%, was $14.99)
+Genres: Adventure, Casual
+Link: https://store.steampowered.com/app/3121930
+==================================================
+
+==================================================
+Name: Rêverie: Audio Stories
+Release Date: Oct 22, 2026
+Price: Free to Play
+Genres: Adventure, Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/5382570
+==================================================
+
+==================================================
+Name: Amazecards
+Release Date: Oct 22, 2026
+Price: $3.19 (-20%, was $3.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/5028320
+==================================================
+
+==================================================
+Name: TetraCore
+Release Date: Oct 22, 2026
+Price: $2.99 (-40%, was $4.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/5190860
+==================================================
+
+==================================================
+Name: Lust of Rome
+Release Date: Oct 22, 2026
+Price: $7.64 (-15%, was $8.99)
+Genres: Adventure, Simulation
+Link: https://store.steampowered.com/app/5239320
+==================================================
+
