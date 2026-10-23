@@ -101263,3 +101263,118 @@ Genres: Indie, Simulation, Strategy
 Link: https://store.steampowered.com/app/5262070
 ==================================================
 
+
+--- Run: 2026-10-23 21:05:02 --- (14 new game(s) found)
+
+==================================================
+Name: SHAME
+Release Date: Oct 23, 2026
+Price: $5.00
+Genres: Indie
+Link: https://store.steampowered.com/app/5284710
+==================================================
+
+==================================================
+Name: Keep on Digging!
+Release Date: Oct 23, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Casual, Strategy
+Link: https://store.steampowered.com/app/5386060
+==================================================
+
+==================================================
+Name: Echoes of Pinebridge
+Release Date: Oct 23, 2026
+Price: $9.00 (-25%, was $12.00)
+Genres: Indie
+Link: https://store.steampowered.com/app/4100790
+==================================================
+
+==================================================
+Name: Real Life Simulator
+Release Date: Oct 23, 2026
+Price: $11.99
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/4626420
+==================================================
+
+==================================================
+Name: BloomTale
+Release Date: Oct 23, 2026
+Price: $9.89 (-10%, was $10.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/3168520
+==================================================
+
+==================================================
+Name: Riskline
+Release Date: Oct 23, 2026
+Price: $4.99
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/4438170
+==================================================
+
+==================================================
+Name: ChessGuardians
+Release Date: Oct 23, 2026
+Price: $14.99
+Genres: Casual, Indie, Sports, Strategy
+Link: https://store.steampowered.com/app/5271360
+==================================================
+
+==================================================
+Name: Who Invited You?
+Release Date: Oct 23, 2026
+Price: $6.39 (-20%, was $7.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/2428110
+==================================================
+
+==================================================
+Name: Coffee Keeper
+Release Date: Oct 23, 2026
+Price: $5.39 (-10%, was $5.99)
+Genres: Adventure, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5196790
+==================================================
+
+==================================================
+Name: Touwers: Defend the Realm
+Release Date: Oct 23, 2026
+Price: $4.95 (-38%, was $7.99)
+Genres: Action, Adventure, Indie, Strategy
+Link: https://store.steampowered.com/app/5132600
+==================================================
+
+==================================================
+Name: A Northern Evil: Tape One
+Release Date: Oct 23, 2026
+Price: Free to Play
+Genres: Adventure, Indie, Free To Play
+Link: https://store.steampowered.com/app/4866750
+==================================================
+
+==================================================
+Name: FlatOut 4: Total Insanity VR
+Release Date: Oct 23, 2026
+Price: $29.99
+Genres: Racing, Simulation
+Link: https://store.steampowered.com/app/3844750
+==================================================
+
+==================================================
+Name: Bohnice: Within The Mind
+Release Date: Oct 23, 2026
+Price: $6.49 (-35%, was $9.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/2704900
+==================================================
+
+==================================================
+Name: Banana Life Sim
+Release Date: Oct 23, 2026
+Price: $0.69 (-30%, was $0.99)
+Genres: Action, Adventure, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4486370
+==================================================
+
