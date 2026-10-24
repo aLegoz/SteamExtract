@@ -101378,3 +101378,102 @@ Genres: Action, Adventure, Casual, Indie, Simulation
 Link: https://store.steampowered.com/app/4486370
 ==================================================
 
+
+--- Run: 2026-10-24 00:06:51 --- (12 new game(s) found)
+
+==================================================
+Name: DON'T LET THEM BOARD!
+Release Date: Oct 23, 2026
+Price: $3.19 (-20%, was $3.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/5378920
+==================================================
+
+==================================================
+Name: Provincia Wars
+Release Date: Oct 23, 2026
+Price: $8.99
+Genres: Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/5395460
+==================================================
+
+==================================================
+Name: ABAX
+Release Date: Oct 23, 2026
+Price: $9.99
+Genres: Strategy
+Link: https://store.steampowered.com/app/5364900
+==================================================
+
+==================================================
+Name: Puppetry
+Release Date: Oct 23, 2026
+Price: Free to Play
+Genres: Action, Adventure, Free To Play
+Link: https://store.steampowered.com/app/4775990
+==================================================
+
+==================================================
+Name: Sex Office 2
+Release Date: Oct 23, 2026
+Price: $12.99
+Genres: Simulation
+Link: https://store.steampowered.com/app/5354300
+==================================================
+
+==================================================
+Name: 7 Millimeters
+Release Date: Oct 23, 2026
+Price: $3.64 (-27%, was $4.99)
+Genres: Action, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4800650
+==================================================
+
+==================================================
+Name: Money Burner
+Release Date: Oct 23, 2026
+Price: $4.50 (-10%, was $5.00)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5226760
+==================================================
+
+==================================================
+Name: Family Manners
+Release Date: Oct 23, 2026
+Price: $2.99
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/3473210
+==================================================
+
+==================================================
+Name: Cellwright - A FreeCell Roguelike
+Release Date: Oct 23, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5203890
+==================================================
+
+==================================================
+Name: 模拟穿越-三国
+Release Date: Oct 23, 2026
+Price: $8.09 (-10%, was $8.99)
+Genres: Indie, RPG, Simulation, Strategy
+Link: https://store.steampowered.com/app/5204250
+==================================================
+
+==================================================
+Name: Sad Damn
+Release Date: Oct 23, 2026
+Price: $1.97 (-34%, was $2.99)
+Genres: Casual, Simulation, Strategy
+Link: https://store.steampowered.com/app/5310670
+==================================================
+
+==================================================
+Name: EVERHOLD
+Release Date: Oct 23, 2026
+Price: $1.99
+Genres: Action
+Link: https://store.steampowered.com/app/5267040
+==================================================
+
