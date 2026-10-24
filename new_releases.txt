@@ -101825,3 +101825,110 @@ Genres: Casual, Indie
 Link: https://store.steampowered.com/app/5339300
 ==================================================
 
+
+--- Run: 2026-10-24 19:54:41 --- (13 new game(s) found)
+
+==================================================
+Name: PixelBoss: Shattered Depths
+Release Date: Oct 24, 2026
+Price: $1.79 (-40%, was $2.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/4708610
+==================================================
+
+==================================================
+Name: Quick Translate Engine
+Release Date: Oct 24, 2026
+Price: $4.99
+Genres: Utilities
+Link: https://store.steampowered.com/app/3827150
+==================================================
+
+==================================================
+Name: Behind the Corner
+Release Date: Oct 24, 2026
+Price: $8.49 (-15%, was $9.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4709550
+==================================================
+
+==================================================
+Name: Grifford Academy
+Release Date: Oct 24, 2026
+Price: $13.49 (-10%, was $14.99)
+Genres: Adventure, Casual, Indie, RPG
+Link: https://store.steampowered.com/app/2445780
+==================================================
+
+==================================================
+Name: Shear line
+Release Date: Oct 24, 2026
+Price: $0.99
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/5069860
+==================================================
+
+==================================================
+Name: Foulbreaker
+Release Date: Oct 24, 2026
+Price: $1.07 (-10%, was $1.19)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/2774560
+==================================================
+
+==================================================
+Name: SLICEFALL
+Release Date: Oct 24, 2026
+Price: $1.99
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4863300
+==================================================
+
+==================================================
+Name: Wild Draw
+Release Date: Oct 24, 2026
+Price: $4.49 (-25%, was $5.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/5328190
+==================================================
+
+==================================================
+Name: Console Space
+Release Date: Oct 24, 2026
+Price: $0.59 (-40%, was $0.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5122330
+==================================================
+
+==================================================
+Name: Moostache Farm
+Release Date: Oct 24, 2026
+Price: $5.00
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5058690
+==================================================
+
+==================================================
+Name: PYTHON:KINGDOM WARS
+Release Date: Oct 24, 2026
+Price: $1.99
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/4726830
+==================================================
+
+==================================================
+Name: Dawn Archive
+Release Date: Oct 24, 2026
+Price: $3.00 (-40%, was $5.00)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/5385030
+==================================================
+
+==================================================
+Name: Puzzle Mollusks
+Release Date: Oct 23, 2026
+Price: $2.99 (-40%, was $4.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5061660
+==================================================
+
