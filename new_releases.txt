@@ -101477,3 +101477,126 @@ Genres: Action
 Link: https://store.steampowered.com/app/5267040
 ==================================================
 
+
+--- Run: 2026-10-24 05:10:05 --- (15 new game(s) found)
+
+==================================================
+Name: Realize in Peace
+Release Date: Oct 23, 2026
+Price: Free to Play
+Genres: Simulation, Free To Play
+Link: https://store.steampowered.com/app/4522380
+==================================================
+
+==================================================
+Name: BRASS: Hard Contact
+Release Date: Oct 23, 2026
+Price: Free to Play
+Genres: Action, Indie, Free To Play
+Link: https://store.steampowered.com/app/5365450
+==================================================
+
+==================================================
+Name: Pikabuu: Home
+Release Date: Oct 23, 2026
+Price: $1.99
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/5372620
+==================================================
+
+==================================================
+Name: Tensei Brave
+Release Date: Oct 23, 2026
+Price: $17.09 (-10%, was $18.99)
+Genres: Adventure, Casual, Indie, RPG
+Link: https://store.steampowered.com/app/2445430
+==================================================
+
+==================================================
+Name: Penguin Kart Racer
+Release Date: Oct 23, 2026
+Price: $5.00
+Genres: Racing
+Link: https://store.steampowered.com/app/5342830
+==================================================
+
+==================================================
+Name: Slave Princess Elnea
+Release Date: Oct 23, 2026
+Price: $9.59 (-20%, was $11.99)
+Genres: RPG
+Link: https://store.steampowered.com/app/4690300
+==================================================
+
+==================================================
+Name: Echo in the Lightless Deep
+Release Date: Oct 23, 2026
+Price: $8.49 (-15%, was $9.99)
+Genres: Action, Indie, RPG
+Link: https://store.steampowered.com/app/5293100
+==================================================
+
+==================================================
+Name: Future Fab Heroes
+Release Date: Oct 23, 2026
+Price: Free to Play
+Genres: Simulation, Free To Play
+Link: https://store.steampowered.com/app/3839200
+==================================================
+
+==================================================
+Name: QuestAway
+Release Date: Oct 23, 2026
+Price: Free to Play
+Genres: Casual, Indie, RPG, Free To Play
+Link: https://store.steampowered.com/app/5195600
+==================================================
+
+==================================================
+Name: Good Children Say Grace
+Release Date: Oct 23, 2026
+Price: $6.29 (-10%, was $6.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/3881920
+==================================================
+
+==================================================
+Name: Boys in the dark
+Release Date: Oct 23, 2026
+Price: $15.99 (-20%, was $19.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/4234400
+==================================================
+
+==================================================
+Name: Slime Slasher
+Release Date: Oct 23, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/3786840
+==================================================
+
+==================================================
+Name: RuinBlade
+Release Date: Oct 23, 2026
+Price: $0.89 (-10%, was $0.99)
+Genres: Action, Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4834110
+==================================================
+
+==================================================
+Name: DenimDoug_909
+Release Date: Oct 23, 2026
+Price: $2.99
+Genres: Adventure
+Link: https://store.steampowered.com/app/5247790
+==================================================
+
+==================================================
+Name: Shatterwing
+Release Date: Oct 23, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Action
+Link: https://store.steampowered.com/app/5286270
+==================================================
+
