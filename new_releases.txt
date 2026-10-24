@@ -101600,3 +101600,94 @@ Genres: Action
 Link: https://store.steampowered.com/app/5286270
 ==================================================
 
+
+--- Run: 2026-10-24 09:55:09 --- (11 new game(s) found)
+
+==================================================
+Name: DRIFTIT
+Release Date: Oct 24, 2026
+Price: $4.99
+Genres: Indie, Racing
+Link: https://store.steampowered.com/app/5213530
+==================================================
+
+==================================================
+Name: Foodland Puzzle
+Release Date: Oct 24, 2026
+Price: $0.59 (-40%, was $0.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5404950
+==================================================
+
+==================================================
+Name: Puzzle Wild Cats
+Release Date: Oct 23, 2026
+Price: $2.99 (-40%, was $4.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5061340
+==================================================
+
+==================================================
+Name: Puzzle Musical Instruments
+Release Date: Oct 23, 2026
+Price: $2.99 (-40%, was $4.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5232250
+==================================================
+
+==================================================
+Name: Puzzle Nuts
+Release Date: Oct 23, 2026
+Price: $2.99 (-40%, was $4.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5151450
+==================================================
+
+==================================================
+Name: Wok King
+Release Date: Oct 23, 2026
+Price: $2.09 (-30%, was $2.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5295630
+==================================================
+
+==================================================
+Name: Parry Dungeon
+Release Date: Oct 23, 2026
+Price: $0.99
+Genres: Action, Simulation
+Link: https://store.steampowered.com/app/5074080
+==================================================
+
+==================================================
+Name: LastAlive
+Release Date: Oct 23, 2026
+Price: $4.99
+Genres: Adventure, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/5087110
+==================================================
+
+==================================================
+Name: Slaskescape 2
+Release Date: Oct 23, 2026
+Price: $0.99
+Genres: Indie, RPG, Simulation
+Link: https://store.steampowered.com/app/5381180
+==================================================
+
+==================================================
+Name: Idle Gas Station Tycoon
+Release Date: Oct 23, 2026
+Price: $5.99
+Genres: Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/5385650
+==================================================
+
+==================================================
+Name: Shape Gomoku
+Release Date: Oct 23, 2026
+Price: $4.79 (-20%, was $5.99)
+Genres: Casual, Strategy
+Link: https://store.steampowered.com/app/5297950
+==================================================
+
