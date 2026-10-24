@@ -101766,3 +101766,62 @@ Genres: Action
 Link: https://store.steampowered.com/app/5360120
 ==================================================
 
+
+--- Run: 2026-10-24 17:03:43 --- (7 new game(s) found)
+
+==================================================
+Name: Unforgiving Dungeon
+Release Date: Oct 24, 2026
+Price: Free to Play
+Genres: Casual, Free To Play
+Link: https://store.steampowered.com/app/4929010
+==================================================
+
+==================================================
+Name: Thunder Training Ground
+Release Date: Oct 24, 2026
+Price: $12.99
+Genres: Action, Indie, Simulation, Sports
+Link: https://store.steampowered.com/app/4637470
+==================================================
+
+==================================================
+Name: Lily or Horse
+Release Date: Oct 24, 2026
+Price: $3.49 (-30%, was $4.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5385830
+==================================================
+
+==================================================
+Name: Chesstria
+Release Date: Oct 24, 2026
+Price: $11.99
+Genres: Casual, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/4999150
+==================================================
+
+==================================================
+Name: SQUIRT GAME 💦
+Release Date: Oct 24, 2026
+Price: $9.44 (-37%, was $14.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5038160
+==================================================
+
+==================================================
+Name: Mo Wu Tian Gong
+Release Date: Oct 24, 2026
+Price: $1.79 (-40%, was $2.99)
+Genres: Action, Adventure, RPG
+Link: https://store.steampowered.com/app/4343600
+==================================================
+
+==================================================
+Name: 猫咪之家 CatHome
+Release Date: Oct 24, 2026
+Price: $1.79 (-10%, was $1.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5339300
+==================================================
+
