@@ -101932,3 +101932,22 @@ Genres: Casual, Indie
 Link: https://store.steampowered.com/app/5061660
 ==================================================
 
+
+--- Run: 2026-10-24 22:02:43 --- (2 new game(s) found)
+
+==================================================
+Name: AVXRPG
+Release Date: Oct 24, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Action, Adventure, Casual, Indie, RPG
+Link: https://store.steampowered.com/app/5105260
+==================================================
+
+==================================================
+Name: DriveDeck
+Release Date: Oct 24, 2026
+Price: $4.99
+Genres: Utilities
+Link: https://store.steampowered.com/app/5354830
+==================================================
+
