@@ -101691,3 +101691,78 @@ Genres: Casual, Strategy
 Link: https://store.steampowered.com/app/5297950
 ==================================================
 
+
+--- Run: 2026-10-24 13:41:25 --- (9 new game(s) found)
+
+==================================================
+Name: Hide Your Cash
+Release Date: Oct 24, 2026
+Price: $5.99
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5040820
+==================================================
+
+==================================================
+Name: Urbex Murder
+Release Date: Oct 24, 2026
+Price: $3.99
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/3282980
+==================================================
+
+==================================================
+Name: Geargrave Outlands
+Release Date: Oct 24, 2026
+Price: $19.99
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/5367400
+==================================================
+
+==================================================
+Name: Soraseed Desktop 2026
+Release Date: Oct 24, 2026
+Price: $199.99
+Genres: Simulation
+Link: https://store.steampowered.com/app/5150040
+==================================================
+
+==================================================
+Name: 爱在触及之处 Love Where Touches
+Release Date: Oct 24, 2026
+Price: $2.97 (-15%, was $3.50)
+Genres: Adventure, Casual, Indie, RPG, Simulation
+Link: https://store.steampowered.com/app/5099960
+==================================================
+
+==================================================
+Name: Wandering The Corridors
+Release Date: Oct 24, 2026
+Price: $0.99
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4718780
+==================================================
+
+==================================================
+Name: Market master Simulator
+Release Date: Oct 24, 2026
+Price: $9.99
+Genres: Simulation
+Link: https://store.steampowered.com/app/3088790
+==================================================
+
+==================================================
+Name: Puzzle Penguins
+Release Date: Oct 23, 2026
+Price: $2.99 (-40%, was $4.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5232310
+==================================================
+
+==================================================
+Name: Arena Invaders
+Release Date: Oct 23, 2026
+Price: $2.39 (-20%, was $2.99)
+Genres: Action
+Link: https://store.steampowered.com/app/5360120
+==================================================
+
