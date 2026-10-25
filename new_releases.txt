@@ -102010,3 +102010,30 @@ Genres: Action, Adventure, Casual, Indie, RPG, Simulation, Strategy
 Link: https://store.steampowered.com/app/5249350
 ==================================================
 
+
+--- Run: 2026-10-25 05:26:18 --- (3 new game(s) found)
+
+==================================================
+Name: Anima Trium
+Release Date: Oct 24, 2026
+Price: $11.04 (-15%, was $12.99)
+Genres: Adventure, Casual, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/5281110
+==================================================
+
+==================================================
+Name: Last Fisherman
+Release Date: Oct 24, 2026
+Price: $3.49 (-30%, was $4.99)
+Genres: Adventure, Indie, RPG, Simulation
+Link: https://store.steampowered.com/app/4262030
+==================================================
+
+==================================================
+Name: SpellWeave
+Release Date: Oct 24, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/5342920
+==================================================
+
