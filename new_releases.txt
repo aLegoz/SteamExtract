@@ -102171,3 +102171,62 @@ Genres: Adventure, Casual, Indie
 Link: https://store.steampowered.com/app/4720170
 ==================================================
 
+
+--- Run: 2026-10-25 17:55:47 --- (7 new game(s) found)
+
+==================================================
+Name: Red Rain
+Release Date: Oct 25, 2026
+Price: Free to Play
+Genres: Indie, RPG, Free To Play
+Link: https://store.steampowered.com/app/4087210
+==================================================
+
+==================================================
+Name: Project Neko
+Release Date: Oct 25, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/5303890
+==================================================
+
+==================================================
+Name: Post-Utopia: Europe2999
+Release Date: Oct 25, 2026
+Price: $5.99 (-40%, was $9.99)
+Genres: Action, Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/4078410
+==================================================
+
+==================================================
+Name: I Checkmate Thee
+Release Date: Oct 25, 2026
+Price: $4.49 (-25%, was $5.99)
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/3703300
+==================================================
+
+==================================================
+Name: Balance Due
+Release Date: Oct 25, 2026
+Price: Free to Play
+Genres: Action, Adventure, Indie, Free To Play
+Link: https://store.steampowered.com/app/5198690
+==================================================
+
+==================================================
+Name: PrankzPlz!
+Release Date: Oct 25, 2026
+Price: $7.19 (-10%, was $7.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/5396730
+==================================================
+
+==================================================
+Name: +PROTECTUS-
+Release Date: Oct 25, 2026
+Price: $0.59 (-40%, was $0.99)
+Genres: Indie
+Link: https://store.steampowered.com/app/4764890
+==================================================
+
