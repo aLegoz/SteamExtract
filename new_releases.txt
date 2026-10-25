@@ -102230,3 +102230,22 @@ Genres: Indie
 Link: https://store.steampowered.com/app/4764890
 ==================================================
 
+
+--- Run: 2026-10-25 20:06:05 --- (2 new game(s) found)
+
+==================================================
+Name: Viking Life
+Release Date: Oct 25, 2026
+Price: $5.99 (-40%, was $9.99)
+Genres: Action, Adventure, Simulation, Strategy
+Link: https://store.steampowered.com/app/2058670
+==================================================
+
+==================================================
+Name: Born of the Moon
+Release Date: Oct 25, 2026
+Price: $8.50 (-15%, was $10.00)
+Genres: Action, Adventure, Massively Multiplayer
+Link: https://store.steampowered.com/app/4111820
+==================================================
+
