@@ -102249,3 +102249,30 @@ Genres: Action, Adventure, Massively Multiplayer
 Link: https://store.steampowered.com/app/4111820
 ==================================================
 
+
+--- Run: 2026-10-25 22:52:29 --- (3 new game(s) found)
+
+==================================================
+Name: Tetromancer
+Release Date: Oct 25, 2026
+Price: $4.89 (-30%, was $6.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4898560
+==================================================
+
+==================================================
+Name: Campsite
+Release Date: Oct 25, 2026
+Price: $3.49 (-30%, was $4.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/5169220
+==================================================
+
+==================================================
+Name: Debt Wish
+Release Date: Oct 25, 2026
+Price: $8.49 (-15%, was $9.99)
+Genres: Casual, Simulation, Strategy
+Link: https://store.steampowered.com/app/5041720
+==================================================
+
