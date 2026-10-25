@@ -102037,3 +102037,46 @@ Genres: Action, Indie
 Link: https://store.steampowered.com/app/5342920
 ==================================================
 
+
+--- Run: 2026-10-25 10:16:23 --- (5 new game(s) found)
+
+==================================================
+Name: KING 4 A DAY
+Release Date: Oct 25, 2026
+Price: Free to Play
+Genres: Casual, Indie, Strategy, Free To Play
+Link: https://store.steampowered.com/app/5209250
+==================================================
+
+==================================================
+Name: Wizard X World
+Release Date: Oct 25, 2026
+Price: $10.00
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/5339880
+==================================================
+
+==================================================
+Name: TRACE IT
+Release Date: Oct 25, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5398650
+==================================================
+
+==================================================
+Name: Some Things Stay Broken
+Release Date: Oct 24, 2026
+Price: Free to Play
+Genres: Adventure, Indie, Free To Play
+Link: https://store.steampowered.com/app/3138080
+==================================================
+
+==================================================
+Name: Last House Standing
+Release Date: Oct 24, 2026
+Price: $3.99
+Genres: Action, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5380860
+==================================================
+
