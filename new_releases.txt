@@ -102335,3 +102335,62 @@ Genres: Casual, Indie, Simulation, Sports, Strategy
 Link: https://store.steampowered.com/app/5203480
 ==================================================
 
+
+--- Run: 2026-10-26 05:31:09 --- (7 new game(s) found)
+
+==================================================
+Name: Highway Formosa
+Release Date: Oct 25, 2026
+Price: $2.99
+Genres: Racing, Sports
+Link: https://store.steampowered.com/app/5398040
+==================================================
+
+==================================================
+Name: Advancing Fronts
+Release Date: Oct 25, 2026
+Price: $15.04 (-14%, was $17.49)
+Genres: Strategy
+Link: https://store.steampowered.com/app/5204860
+==================================================
+
+==================================================
+Name: Sign: Broken Kether
+Release Date: Oct 25, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: Adventure, Casual, Indie, RPG
+Link: https://store.steampowered.com/app/3788590
+==================================================
+
+==================================================
+Name: 鉄道運行管理シミュレーターPro - Railway Dispatcher Pro -
+Release Date: Oct 25, 2026
+Price: $29.99
+Genres: Simulation
+Link: https://store.steampowered.com/app/4932180
+==================================================
+
+==================================================
+Name: Dawn of the Robot Empire
+Release Date: Oct 25, 2026
+Price: $2.99
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/452240
+==================================================
+
+==================================================
+Name: Take Off The Rocket
+Release Date: Oct 25, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/2883720
+==================================================
+
+==================================================
+Name: Shhh, IT!
+Release Date: Oct 25, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/5387480
+==================================================
+
