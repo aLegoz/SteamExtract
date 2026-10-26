@@ -102276,3 +102276,62 @@ Genres: Casual, Simulation, Strategy
 Link: https://store.steampowered.com/app/5041720
 ==================================================
 
+
+--- Run: 2026-10-26 00:48:21 --- (7 new game(s) found)
+
+==================================================
+Name: Puzzle Peace: Cozy Jigsaw Puzzles
+Release Date: Oct 25, 2026
+Price: Free to Play
+Genres: Casual, Simulation, Free To Play
+Link: https://store.steampowered.com/app/5324320
+==================================================
+
+==================================================
+Name: Tiny Spellcaster
+Release Date: Oct 25, 2026
+Price: $3.49 (-30%, was $4.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5315330
+==================================================
+
+==================================================
+Name: Topdeck Duel
+Release Date: Oct 25, 2026
+Price: $4.99
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4738510
+==================================================
+
+==================================================
+Name: Keep It Trolling: Fantasy Edition
+Release Date: Oct 25, 2026
+Price: $1.99
+Genres: Casual, Strategy
+Link: https://store.steampowered.com/app/5342690
+==================================================
+
+==================================================
+Name: DATE_SIMULATOR.EXE
+Release Date: Oct 25, 2026
+Price: $0.99
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/5196220
+==================================================
+
+==================================================
+Name: Give Us Back Gravity
+Release Date: Oct 25, 2026
+Price: $7.99
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/5358580
+==================================================
+
+==================================================
+Name: KickOff
+Release Date: Oct 25, 2026
+Price: $4.99
+Genres: Casual, Indie, Simulation, Sports, Strategy
+Link: https://store.steampowered.com/app/5203480
+==================================================
+
