@@ -102629,3 +102629,214 @@ Genres: Casual, Indie, Simulation
 Link: https://store.steampowered.com/app/5131740
 ==================================================
 
+
+--- Run: 2026-10-26 17:46:28 --- (26 new game(s) found)
+
+==================================================
+Name: Nuktedan: The Forgotten Emotions
+Release Date: Oct 26, 2026
+Price: $7.99
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4400320
+==================================================
+
+==================================================
+Name: The Halloway Haunting
+Release Date: Oct 26, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/5210830
+==================================================
+
+==================================================
+Name: Heavy in the Hand
+Release Date: Oct 26, 2026
+Price: $6.29 (-10%, was $6.99)
+Genres: Action, Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/3643740
+==================================================
+
+==================================================
+Name: Nothing Belongs Here
+Release Date: Oct 26, 2026
+Price: $3.39 (-15%, was $3.99)
+Genres: Casual, Simulation
+Link: https://store.steampowered.com/app/5268980
+==================================================
+
+==================================================
+Name: Backwards
+Release Date: Oct 26, 2026
+Price: $6.99 (-30%, was $9.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/5224910
+==================================================
+
+==================================================
+Name: Leikkaus
+Release Date: Oct 26, 2026
+Price: $1.79 (-40%, was $2.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/5299880
+==================================================
+
+==================================================
+Name: The Gassal
+Release Date: Oct 26, 2026
+Price: $8.99
+Genres: Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/3590040
+==================================================
+
+==================================================
+Name: STARE
+Release Date: Oct 26, 2026
+Price: $6.29 (-10%, was $6.99)
+Genres: Adventure
+Link: https://store.steampowered.com/app/4907070
+==================================================
+
+==================================================
+Name: Magical Girl ER
+Release Date: Oct 26, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/4395870
+==================================================
+
+==================================================
+Name: The Mailroom
+Release Date: Oct 26, 2026
+Price: $6.79 (-15%, was $7.99)
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/3965430
+==================================================
+
+==================================================
+Name: Nitro Nonsense
+Release Date: Oct 26, 2026
+Price: $3.59 (-40%, was $5.99)
+Genres: Casual, Indie, Racing
+Link: https://store.steampowered.com/app/5000550
+==================================================
+
+==================================================
+Name: Flipping Phantom
+Release Date: Oct 26, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/3866090
+==================================================
+
+==================================================
+Name: Kimodameshi Online
+Release Date: Oct 26, 2026
+Price: $7.39 (-26%, was $9.99)
+Genres: Action, Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/5321510
+==================================================
+
+==================================================
+Name: Chain of Command
+Release Date: Oct 26, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4439360
+==================================================
+
+==================================================
+Name: Trials of Dash
+Release Date: Oct 26, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Indie
+Link: https://store.steampowered.com/app/5174650
+==================================================
+
+==================================================
+Name: Adventurer 95
+Release Date: Oct 26, 2026
+Price: $9.99
+Genres: Adventure, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/5278300
+==================================================
+
+==================================================
+Name: Playable Archive
+Release Date: Oct 26, 2026
+Price: Free to Play
+Genres: Adventure, Indie, Free To Play
+Link: https://store.steampowered.com/app/5356470
+==================================================
+
+==================================================
+Name: The Machinist
+Release Date: Oct 26, 2026
+Price: $5.39 (-10%, was $5.99)
+Genres: Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/3992350
+==================================================
+
+==================================================
+Name: Giraffe Champion 3: Halloween Party & The Ghost Guitar
+Release Date: Oct 26, 2026
+Price: $4.89 (-30%, was $6.99)
+Genres: Action, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4742590
+==================================================
+
+==================================================
+Name: The Third Seal
+Release Date: Oct 26, 2026
+Price: $2.99
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/5362060
+==================================================
+
+==================================================
+Name: Pull Me In
+Release Date: Oct 26, 2026
+Price: $10.99
+Genres: Simulation
+Link: https://store.steampowered.com/app/4100630
+==================================================
+
+==================================================
+Name: Ardhan
+Release Date: Oct 26, 2026
+Price: Free to Play
+Genres: Indie, Strategy, Free To Play
+Link: https://store.steampowered.com/app/5391500
+==================================================
+
+==================================================
+Name: Change
+Release Date: Oct 26, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/4719390
+==================================================
+
+==================================================
+Name: Project Screams
+Release Date: Oct 26, 2026
+Price: $7.19 (-20%, was $8.99)
+Genres: Indie
+Link: https://store.steampowered.com/app/5179420
+==================================================
+
+==================================================
+Name: Unhallowed Survivors
+Release Date: Oct 26, 2026
+Price: $3.59 (-10%, was $3.99)
+Genres: Action, Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/5091000
+==================================================
+
+==================================================
+Name: Animal Farm
+Release Date: Oct 26, 2026
+Price: $33.99 (-15%, was $39.99)
+Genres: Casual, Indie, Massively Multiplayer, Simulation
+Link: https://store.steampowered.com/app/5353370
+==================================================
+
