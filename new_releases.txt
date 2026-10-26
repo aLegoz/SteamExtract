@@ -102840,3 +102840,238 @@ Genres: Casual, Indie, Massively Multiplayer, Simulation
 Link: https://store.steampowered.com/app/5353370
 ==================================================
 
+
+--- Run: 2026-10-26 22:00:32 --- (29 new game(s) found)
+
+==================================================
+Name: Light Out of Sight
+Release Date: Oct 26, 2026
+Price: Free to Play
+Genres: Action, Adventure, Free To Play
+Link: https://store.steampowered.com/app/2982680
+==================================================
+
+==================================================
+Name: What Remains Inside
+Release Date: Oct 26, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Indie
+Link: https://store.steampowered.com/app/5395940
+==================================================
+
+==================================================
+Name: Karaoke Fails
+Release Date: Oct 26, 2026
+Price: $4.20 (-15%, was $4.95)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5369730
+==================================================
+
+==================================================
+Name: The Roc
+Release Date: Oct 26, 2026
+Price: $4.19 (-30%, was $5.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/5251530
+==================================================
+
+==================================================
+Name: Kleromancy
+Release Date: Oct 26, 2026
+Price: $6.39 (-20%, was $7.99)
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/4968160
+==================================================
+
+==================================================
+Name: Silver Valley Screams
+Release Date: Oct 26, 2026
+Price: $14.99 (-25%, was $19.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/4831660
+==================================================
+
+==================================================
+Name: Timeless Rain
+Release Date: Oct 26, 2026
+Price: $9.77 (-15%, was $11.50)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/2401350
+==================================================
+
+==================================================
+Name: Halloween Shop Simulator
+Release Date: Oct 26, 2026
+Price: $4.33 (-38%, was $6.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5394900
+==================================================
+
+==================================================
+Name: The Weigh Station
+Release Date: Oct 26, 2026
+Price: $5.94 (-15%, was $6.99)
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/5131990
+==================================================
+
+==================================================
+Name: Sonus
+Release Date: Oct 26, 2026
+Price: $5.99 (-25%, was $7.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/5282100
+==================================================
+
+==================================================
+Name: Man vs. Gary
+Release Date: Oct 26, 2026
+Price: $5.59 (-20%, was $6.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5015970
+==================================================
+
+==================================================
+Name: Grime Cleaner Idle
+Release Date: Oct 26, 2026
+Price: $1.79 (-10%, was $1.99)
+Genres: Casual, Simulation
+Link: https://store.steampowered.com/app/5101310
+==================================================
+
+==================================================
+Name: Wildmark
+Release Date: Oct 26, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: Casual, Indie, RPG, Simulation
+Link: https://store.steampowered.com/app/5015960
+==================================================
+
+==================================================
+Name: On My Watch
+Release Date: Oct 26, 2026
+Price: $5.39 (-10%, was $5.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/5327150
+==================================================
+
+==================================================
+Name: Space Savory
+Release Date: Oct 26, 2026
+Price: $7.49 (-25%, was $9.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/3760770
+==================================================
+
+==================================================
+Name: SORT THEM ALPACAS: OVERLOAD!
+Release Date: Oct 26, 2026
+Price: $5.09 (-15%, was $5.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5355200
+==================================================
+
+==================================================
+Name: Spooky Market
+Release Date: Oct 26, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Casual, Indie, Massively Multiplayer, Simulation
+Link: https://store.steampowered.com/app/4326130
+==================================================
+
+==================================================
+Name: Hack And Slash Fury 2: Lancelot Betrayal
+Release Date: Oct 26, 2026
+Price: Free to Play
+Genres: Action, Adventure, Indie, Free To Play
+Link: https://store.steampowered.com/app/4895300
+==================================================
+
+==================================================
+Name: Night Plane
+Release Date: Oct 26, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/3310570
+==================================================
+
+==================================================
+Name: HEX: You Are It
+Release Date: Oct 26, 2026
+Price: $5.99
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/5084840
+==================================================
+
+==================================================
+Name: The Spectacular Evermore
+Release Date: Oct 26, 2026
+Price: $5.09 (-15%, was $5.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4677860
+==================================================
+
+==================================================
+Name: Cardtographer
+Release Date: Oct 26, 2026
+Price: $7.49 (-25%, was $9.99)
+Genres: Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/3460540
+==================================================
+
+==================================================
+Name: Ecstatica II
+Release Date: Oct 26, 2026
+Price: $13.49 (-10%, was $14.99)
+Genres: Action, Adventure
+Link: https://store.steampowered.com/app/4834850
+==================================================
+
+==================================================
+Name: Ecstatica
+Release Date: Oct 26, 2026
+Price: $13.49 (-10%, was $14.99)
+Genres: Action, Adventure
+Link: https://store.steampowered.com/app/4834840
+==================================================
+
+==================================================
+Name: Tidy Farm
+Release Date: Oct 26, 2026
+Price: $5.09 (-15%, was $5.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5226940
+==================================================
+
+==================================================
+Name: Toey Weedz Smoke Dead Halloween
+Release Date: Oct 26, 2026
+Price: $4.99
+Genres: Action
+Link: https://store.steampowered.com/app/4831830
+==================================================
+
+==================================================
+Name: Block By Block Tycoon
+Release Date: Oct 26, 2026
+Price: $7.19 (-10%, was $7.99)
+Genres: Casual, Simulation, Strategy
+Link: https://store.steampowered.com/app/4525060
+==================================================
+
+==================================================
+Name: Dédale - A Cave Diving Experience
+Release Date: Oct 26, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4174240
+==================================================
+
+==================================================
+Name: Maja Island
+Release Date: Oct 26, 2026
+Price: $6.29 (-10%, was $6.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/3758440
+==================================================
+
