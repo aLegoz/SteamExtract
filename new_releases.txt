@@ -102394,3 +102394,238 @@ Genres: Casual, Indie, Strategy
 Link: https://store.steampowered.com/app/5387480
 ==================================================
 
+
+--- Run: 2026-10-26 11:42:48 --- (29 new game(s) found)
+
+==================================================
+Name: Biathlon Manager
+Release Date: Oct 26, 2026
+Price: $9.99
+Genres: Simulation, Sports, Strategy
+Link: https://store.steampowered.com/app/5380210
+==================================================
+
+==================================================
+Name: 10 Hours Before Sunrise
+Release Date: Oct 26, 2026
+Price: $3.49 (-30%, was $4.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4389980
+==================================================
+
+==================================================
+Name: Parasite
+Release Date: Oct 26, 2026
+Price: $9.99
+Genres: Indie, RPG
+Link: https://store.steampowered.com/app/1920320
+==================================================
+
+==================================================
+Name: Picpic
+Release Date: Oct 26, 2026
+Price: $4.79 (-20%, was $5.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5248430
+==================================================
+
+==================================================
+Name: REKA
+Release Date: Sep 12, 2024
+Price: $12.99 (-35%, was $19.99)
+Genres: Adventure, Casual, Indie, RPG, Early Access
+Link: https://store.steampowered.com/app/1737870
+==================================================
+
+==================================================
+Name: Phantom Line: Prologue
+Release Date: Oct 26, 2026
+Price: Free to Play
+Genres: Action, Indie, Free To Play
+Link: https://store.steampowered.com/app/5088140
+==================================================
+
+==================================================
+Name: Horny Halloween 🎃
+Release Date: Oct 26, 2026
+Price: $4.97 (-17%, was $5.99)
+Genres: Action, Adventure, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4765410
+==================================================
+
+==================================================
+Name: Where is My Pet?
+Release Date: Oct 26, 2026
+Price: $4.89 (-30%, was $6.99)
+Genres: Casual, Simulation, Strategy
+Link: https://store.steampowered.com/app/4466850
+==================================================
+
+==================================================
+Name: Adventurer Guild Master
+Release Date: Oct 26, 2026
+Price: Free to Play
+Genres: Adventure, Indie, RPG, Simulation, Strategy
+Link: https://store.steampowered.com/app/5354560
+==================================================
+
+==================================================
+Name: ByeByeObake!
+Release Date: Oct 26, 2026
+Price: $3.59 (-40%, was $5.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/5385170
+==================================================
+
+==================================================
+Name: Mahjong Rush
+Release Date: Oct 26, 2026
+Price: $4.79 (-20%, was $5.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4881270
+==================================================
+
+==================================================
+Name: Athena and the Erotic Trap Dungeon Beyond the Forest
+Release Date: Oct 26, 2026
+Price: $7.19 (-20%, was $8.99)
+Genres: Casual, Indie, RPG
+Link: https://store.steampowered.com/app/4668100
+==================================================
+
+==================================================
+Name: Teleport Master
+Release Date: Oct 26, 2026
+Price: $3.49 (-30%, was $4.99)
+Genres: Action, Adventure, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5236110
+==================================================
+
+==================================================
+Name: Munshi Meadows
+Release Date: Oct 26, 2026
+Price: $14.99 (-25%, was $19.99)
+Genres: Casual, Indie, Racing, Simulation
+Link: https://store.steampowered.com/app/5285880
+==================================================
+
+==================================================
+Name: Cardopolis
+Release Date: Oct 26, 2026
+Price: $4.89 (-30%, was $6.99)
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/1932910
+==================================================
+
+==================================================
+Name: Chefs Arena
+Release Date: Oct 26, 2026
+Price: $14.99 (-25%, was $19.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/2951600
+==================================================
+
+==================================================
+Name: TBT: TaskBarTimber
+Release Date: Oct 26, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Casual, Indie, RPG
+Link: https://store.steampowered.com/app/5398250
+==================================================
+
+==================================================
+Name: Mining Fire Ball
+Release Date: Oct 26, 2026
+Price: $2.54 (-15%, was $2.99)
+Genres: Casual, Simulation
+Link: https://store.steampowered.com/app/5336100
+==================================================
+
+==================================================
+Name: Demon Face Punching Club
+Release Date: Oct 26, 2026
+Price: Free to Play
+Genres: Action, Free To Play
+Link: https://store.steampowered.com/app/5242290
+==================================================
+
+==================================================
+Name: In Silent Walls : Inside The House
+Release Date: Oct 26, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Adventure
+Link: https://store.steampowered.com/app/5040510
+==================================================
+
+==================================================
+Name: Detective Club: Carnival of Secrets Collector's Edition
+Release Date: Oct 26, 2026
+Price: $15.99
+Genres: Adventure, Casual
+Link: https://store.steampowered.com/app/4972650
+==================================================
+
+==================================================
+Name: 60病　The 60-Second Syndrome
+Release Date: Oct 26, 2026
+Price: $3.65 (-15%, was $4.30)
+Genres: Indie
+Link: https://store.steampowered.com/app/4608750
+==================================================
+
+==================================================
+Name: Adultery Marriage Punisher
+Release Date: Oct 26, 2026
+Price: $10.79 (-10%, was $11.99)
+Genres: Adventure, Casual, Indie, RPG, Simulation
+Link: https://store.steampowered.com/app/4236650
+==================================================
+
+==================================================
+Name: Elementers
+Release Date: Oct 26, 2026
+Price: $5.39 (-10%, was $5.99)
+Genres: Action, Adventure, Casual, Indie, RPG
+Link: https://store.steampowered.com/app/3018340
+==================================================
+
+==================================================
+Name: WHAT LURKS BELOW
+Release Date: Oct 26, 2026
+Price: $5.99
+Genres: Action, Casual, Indie, Massively Multiplayer
+Link: https://store.steampowered.com/app/5107320
+==================================================
+
+==================================================
+Name: Crazy City Golf
+Release Date: Oct 26, 2026
+Price: $8.49 (-15%, was $9.99)
+Genres: Casual, Sports
+Link: https://store.steampowered.com/app/5347600
+==================================================
+
+==================================================
+Name: Immortal Path
+Release Date: Oct 25, 2026
+Price: $4.19 (-30%, was $5.99)
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/5326190
+==================================================
+
+==================================================
+Name: Abyss Ring
+Release Date: Oct 25, 2026
+Price: $12.74 (-15%, was $14.99)
+Genres: Action, Indie, RPG
+Link: https://store.steampowered.com/app/3401570
+==================================================
+
+==================================================
+Name: 单机斗地主
+Release Date: Oct 25, 2026
+Price: $0.99
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5131740
+==================================================
+
