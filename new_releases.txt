@@ -103417,3 +103417,238 @@ Genres: Indie, RPG, Strategy
 Link: https://store.steampowered.com/app/5368440
 ==================================================
 
+
+--- Run: 2026-10-27 12:51:28 --- (29 new game(s) found)
+
+==================================================
+Name: Princess Vs Zombies: Mermaid Curse
+Release Date: Oct 27, 2026
+Price: $7.99
+Genres: Adventure, Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4869960
+==================================================
+
+==================================================
+Name: Hideout Heist
+Release Date: Oct 27, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Indie, Massively Multiplayer, RPG
+Link: https://store.steampowered.com/app/4936690
+==================================================
+
+==================================================
+Name: Dead Prints
+Release Date: Oct 27, 2026
+Price: $5.39 (-10%, was $5.99)
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/4949290
+==================================================
+
+==================================================
+Name: OUTVOTE - Steam Version
+Release Date: Oct 27, 2026
+Price: Free to Play
+Genres: Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/5377010
+==================================================
+
+==================================================
+Name: Finger of Blood
+Release Date: Oct 27, 2026
+Price: $5.39 (-10%, was $5.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/5414820
+==================================================
+
+==================================================
+Name: Guild Master
+Release Date: Oct 27, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Adventure, Casual, Indie, RPG, Simulation, Strategy
+Link: https://store.steampowered.com/app/5326250
+==================================================
+
+==================================================
+Name: The Horde of Gorak
+Release Date: Oct 27, 2026
+Price: $5.09 (-15%, was $5.99)
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/4911050
+==================================================
+
+==================================================
+Name: Abyssal Moonlight-Chapter1
+Release Date: Oct 27, 2026
+Price: Free to Play
+Genres: Adventure, Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/5034420
+==================================================
+
+==================================================
+Name: Out Of Order - A Vending Machine Roguelike
+Release Date: Oct 27, 2026
+Price: $4.99
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4993800
+==================================================
+
+==================================================
+Name: Cricket Franchise Manager
+Release Date: Oct 27, 2026
+Price: $9.99
+Genres: Indie, Simulation, Sports, Strategy
+Link: https://store.steampowered.com/app/5380600
+==================================================
+
+==================================================
+Name: Animal Mystery: 100 Hidden Cats
+Release Date: Oct 27, 2026
+Price: $0.59 (-40%, was $0.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/5049810
+==================================================
+
+==================================================
+Name: Factory Shift
+Release Date: Oct 27, 2026
+Price: $5.09 (-15%, was $5.99)
+Genres: Casual, Indie, RPG, Simulation
+Link: https://store.steampowered.com/app/4878890
+==================================================
+
+==================================================
+Name: Minatro
+Release Date: Oct 27, 2026
+Price: $6.29 (-10%, was $6.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4709490
+==================================================
+
+==================================================
+Name: Eternal Rift Defense
+Release Date: Oct 27, 2026
+Price: $8.49 (-15%, was $9.99)
+Genres: Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/4404570
+==================================================
+
+==================================================
+Name: MOGUMOGU! POOP BATTLE
+Release Date: Oct 27, 2026
+Price: $0.59 (-40%, was $0.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4931550
+==================================================
+
+==================================================
+Name: Spooky Sex Party
+Release Date: Oct 27, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/5213550
+==================================================
+
+==================================================
+Name: Sort The Bunnies
+Release Date: Oct 27, 2026
+Price: $3.74 (-25%, was $4.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5233490
+==================================================
+
+==================================================
+Name: Crownspat
+Release Date: Oct 27, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/5045630
+==================================================
+
+==================================================
+Name: Screen Stocks
+Release Date: Oct 27, 2026
+Price: $2.99 (-40%, was $4.99)
+Genres: Simulation, Strategy
+Link: https://store.steampowered.com/app/4356780
+==================================================
+
+==================================================
+Name: Cat Eats Sushi
+Release Date: Oct 27, 2026
+Price: $5.39 (-10%, was $5.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4854690
+==================================================
+
+==================================================
+Name: Magic Awakening：Hero Saga
+Release Date: Oct 27, 2026
+Price: $2.79 (-30%, was $3.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5323650
+==================================================
+
+==================================================
+Name: RACAR - Shooter FPS
+Release Date: Oct 27, 2026
+Price: Free to Play
+Genres: Action, Casual, Indie, Massively Multiplayer, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4594300
+==================================================
+
+==================================================
+Name: Conquest of Empires 3
+Release Date: Oct 27, 2026
+Price: Free to Play
+Genres: Massively Multiplayer, Simulation, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4856160
+==================================================
+
+==================================================
+Name: Tax Empire
+Release Date: Oct 27, 2026
+Price: $3.74 (-25%, was $4.99)
+Genres: Casual, Simulation, Strategy
+Link: https://store.steampowered.com/app/4684140
+==================================================
+
+==================================================
+Name: General Tactics: An Shi Rebellion
+Release Date: Oct 27, 2026
+Price: $11.43 (-12%, was $12.99)
+Genres: Indie, RPG, Simulation, Strategy
+Link: https://store.steampowered.com/app/3929570
+==================================================
+
+==================================================
+Name: Anti-anti
+Release Date: Oct 27, 2026
+Price: $17.99 (-10%, was $19.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4982060
+==================================================
+
+==================================================
+Name: Space Cadets: Engineering Corps
+Release Date: Oct 27, 2026
+Price: $2.99 (-25%, was $3.99)
+Genres: Action
+Link: https://store.steampowered.com/app/4683480
+==================================================
+
+==================================================
+Name: Security Duty
+Release Date: Oct 27, 2026
+Price: $1.99
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/5338230
+==================================================
+
+==================================================
+Name: Two-Fifteen
+Release Date: Oct 27, 2026
+Price: $3.49 (-30%, was $4.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/5309090
+==================================================
+
