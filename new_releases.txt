@@ -103075,3 +103075,134 @@ Genres: Action, Adventure, Indie
 Link: https://store.steampowered.com/app/3758440
 ==================================================
 
+
+--- Run: 2026-10-27 01:09:13 --- (16 new game(s) found)
+
+==================================================
+Name: RESIDUUM
+Release Date: Oct 26, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Action, Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/4088450
+==================================================
+
+==================================================
+Name: DRENCHED
+Release Date: Oct 26, 2026
+Price: Free to Play
+Genres: Adventure, Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/4597820
+==================================================
+
+==================================================
+Name: Room Zero
+Release Date: Oct 26, 2026
+Price: $6.29 (-10%, was $6.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4630260
+==================================================
+
+==================================================
+Name: Remain Seated
+Release Date: Oct 26, 2026
+Price: $5.39 (-10%, was $5.99)
+Genres: Action, Adventure, RPG, Simulation
+Link: https://store.steampowered.com/app/4578740
+==================================================
+
+==================================================
+Name: ELbab
+Release Date: Oct 26, 2026
+Price: $4.19 (-40%, was $6.99)
+Genres: Indie, RPG, Simulation
+Link: https://store.steampowered.com/app/4209630
+==================================================
+
+==================================================
+Name: Idle Hoops
+Release Date: Oct 26, 2026
+Price: $5.59 (-30%, was $7.99)
+Genres: Casual, Simulation, Sports, Strategy
+Link: https://store.steampowered.com/app/5399870
+==================================================
+
+==================================================
+Name: Life Is a Dungeon: Lean into It.
+Release Date: Oct 26, 2026
+Price: $8.00 (-20%, was $10.00)
+Genres: Action, Indie, RPG
+Link: https://store.steampowered.com/app/5062910
+==================================================
+
+==================================================
+Name: Evoruption
+Release Date: Oct 26, 2026
+Price: $7.20 (-10%, was $8.00)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/5044970
+==================================================
+
+==================================================
+Name: Cleanup on Aisle 3
+Release Date: Oct 26, 2026
+Price: $13.49 (-10%, was $14.99)
+Genres: Action, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4971070
+==================================================
+
+==================================================
+Name: Veyrasol
+Release Date: Oct 26, 2026
+Price: Free to Play
+Genres: Massively Multiplayer, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4957910
+==================================================
+
+==================================================
+Name: Giggleland
+Release Date: Oct 26, 2026
+Price: $17.99 (-10%, was $19.99)
+Genres: Action, Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/3370490
+==================================================
+
+==================================================
+Name: Apartment 3 | شقة 3
+Release Date: Oct 26, 2026
+Price: $3.99
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/5118370
+==================================================
+
+==================================================
+Name: Scrappers Paradise
+Release Date: Oct 26, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Simulation
+Link: https://store.steampowered.com/app/4789400
+==================================================
+
+==================================================
+Name: Forged Cards
+Release Date: Oct 26, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: Action, Adventure, Indie, Strategy
+Link: https://store.steampowered.com/app/4927070
+==================================================
+
+==================================================
+Name: Capsule Arcade
+Release Date: Oct 26, 2026
+Price: $3.24 (-35%, was $4.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5290220
+==================================================
+
+==================================================
+Name: Skullf!
+Release Date: Oct 26, 2026
+Price: $9.34 (-15%, was $10.99)
+Genres: Action, Casual, Indie, Sports
+Link: https://store.steampowered.com/app/2765990
+==================================================
+
