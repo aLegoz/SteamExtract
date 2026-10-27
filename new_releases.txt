@@ -103895,3 +103895,142 @@ Genres: Free To Play, Utilities
 Link: https://store.steampowered.com/app/5227410
 ==================================================
 
+
+--- Run: 2026-10-27 22:43:09 --- (17 new game(s) found)
+
+==================================================
+Name: Catgirls Rhythm Game
+Release Date: Oct 27, 2026
+Price: $3.99
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4268960
+==================================================
+
+==================================================
+Name: Wonder Catgirl XXX
+Release Date: Oct 27, 2026
+Price: $3.99
+Genres: Casual
+Link: https://store.steampowered.com/app/3979950
+==================================================
+
+==================================================
+Name: SEX ORCgasm
+Release Date: Oct 27, 2026
+Price: $3.99
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4163150
+==================================================
+
+==================================================
+Name: Voiceless
+Release Date: Oct 27, 2026
+Price: $6.79 (-15%, was $7.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/3915860
+==================================================
+
+==================================================
+Name: Darcnia Monster
+Release Date: Oct 27, 2026
+Price: Free to Play
+Genres: Indie, Strategy, Free To Play
+Link: https://store.steampowered.com/app/5004590
+==================================================
+
+==================================================
+Name: Supermarket Organizer
+Release Date: Oct 27, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Casual, Simulation
+Link: https://store.steampowered.com/app/5030570
+==================================================
+
+==================================================
+Name: Cashflow Empire
+Release Date: Oct 27, 2026
+Price: $2.39 (-40%, was $3.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/5423900
+==================================================
+
+==================================================
+Name: TCG Card Collection: Tidy Up
+Release Date: Oct 27, 2026
+Price: $5.39 (-10%, was $5.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/3712150
+==================================================
+
+==================================================
+Name: Something Something Spaceship
+Release Date: Oct 27, 2026
+Price: $10.19 (-15%, was $11.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/2471800
+==================================================
+
+==================================================
+Name: Pigslaughter
+Release Date: Oct 27, 2026
+Price: $2.54 (-15%, was $2.99)
+Genres: Action, Casual, Indie, RPG
+Link: https://store.steampowered.com/app/4011930
+==================================================
+
+==================================================
+Name: Asylium
+Release Date: Oct 27, 2026
+Price: $6.99
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4027820
+==================================================
+
+==================================================
+Name: Halloween Pumpkin Simulator
+Release Date: Oct 27, 2026
+Price: $2.99 (-25%, was $3.99)
+Genres: Adventure, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5031360
+==================================================
+
+==================================================
+Name: Guinea Pig Runaway Together
+Release Date: Oct 27, 2026
+Price: $3.49 (-30%, was $4.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4244190
+==================================================
+
+==================================================
+Name: Ocean Dynasty Tycoon
+Release Date: Oct 27, 2026
+Price: $12.99
+Genres: Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/5312160
+==================================================
+
+==================================================
+Name: BULLETJUMP
+Release Date: Oct 27, 2026
+Price: $3.59 (-10%, was $3.99)
+Genres: Indie
+Link: https://store.steampowered.com/app/4038280
+==================================================
+
+==================================================
+Name: Vending Corner
+Release Date: Oct 27, 2026
+Price: $3.59 (-10%, was $3.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5140570
+==================================================
+
+==================================================
+Name: Fantasy Idle RPG
+Release Date: Oct 27, 2026
+Price: $3.19 (-20%, was $3.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4964120
+==================================================
+
