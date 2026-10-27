@@ -103206,3 +103206,214 @@ Genres: Action, Casual, Indie, Sports
 Link: https://store.steampowered.com/app/2765990
 ==================================================
 
+
+--- Run: 2026-10-27 06:56:42 --- (26 new game(s) found)
+
+==================================================
+Name: Re:Draw
+Release Date: Oct 26, 2026
+Price: $9.99
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5062690
+==================================================
+
+==================================================
+Name: Cell Dominion
+Release Date: Oct 26, 2026
+Price: $3.30 (-15%, was $3.89)
+Genres: Action, Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/5362920
+==================================================
+
+==================================================
+Name: Situation Succ: Inn Elysium
+Release Date: Oct 26, 2026
+Price: $16.19 (-10%, was $17.99)
+Genres: Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/2696110
+==================================================
+
+==================================================
+Name: Oracle Window.exe
+Release Date: Oct 26, 2026
+Price: Free to Play
+Genres: Casual, Simulation, Free To Play
+Link: https://store.steampowered.com/app/5112180
+==================================================
+
+==================================================
+Name: The Beast Awoke To Eat Your Darlings
+Release Date: Oct 26, 2026
+Price: $5.94 (-15%, was $6.99)
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/1704950
+==================================================
+
+==================================================
+Name: Cowpokers: Dead Man's Frontier
+Release Date: Oct 26, 2026
+Price: $3.59 (-10%, was $3.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/5315130
+==================================================
+
+==================================================
+Name: Tiny Fishing Club
+Release Date: Oct 26, 2026
+Price: $3.39 (-15%, was $3.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/3070310
+==================================================
+
+==================================================
+Name: HEME
+Release Date: Oct 26, 2026
+Price: $2.99
+Genres: Indie
+Link: https://store.steampowered.com/app/4395840
+==================================================
+
+==================================================
+Name: Archives of Disorder - Pasture Without Light
+Release Date: Oct 26, 2026
+Price: $10.39 (-20%, was $12.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/5044960
+==================================================
+
+==================================================
+Name: Zombie Cropse
+Release Date: Oct 26, 2026
+Price: $3.74 (-25%, was $4.99)
+Genres: Simulation
+Link: https://store.steampowered.com/app/5032330
+==================================================
+
+==================================================
+Name: GemCremental
+Release Date: Oct 26, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Casual, Simulation
+Link: https://store.steampowered.com/app/5317700
+==================================================
+
+==================================================
+Name: CLOUD PATROL
+Release Date: Oct 26, 2026
+Price: $1.78 (-10%, was $1.98)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/5306660
+==================================================
+
+==================================================
+Name: Touhou Bansho Cards
+Release Date: Oct 26, 2026
+Price: $8.09 (-10%, was $8.99)
+Genres: Adventure, Casual, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/4958460
+==================================================
+
+==================================================
+Name: Emoji : Tidy Up
+Release Date: Oct 26, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5237400
+==================================================
+
+==================================================
+Name: Chill Gyaru
+Release Date: Oct 26, 2026
+Price: $2.99
+Genres: Casual, Simulation
+Link: https://store.steampowered.com/app/5087840
+==================================================
+
+==================================================
+Name: Teach, She's Really Mad!
+Release Date: Oct 26, 2026
+Price: $2.69 (-10%, was $2.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5217200
+==================================================
+
+==================================================
+Name: 挂机传奇
+Release Date: Oct 26, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5370160
+==================================================
+
+==================================================
+Name: Cosplaying in Costalia: The Tororo Sisters!
+Release Date: Oct 26, 2026
+Price: $15.99 (-20%, was $19.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/3891200
+==================================================
+
+==================================================
+Name: 变废为宝 Trash to Cash
+Release Date: Oct 26, 2026
+Price: $3.19 (-20%, was $3.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/5130520
+==================================================
+
+==================================================
+Name: Idle Demon Lord II
+Release Date: Oct 26, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/5245310
+==================================================
+
+==================================================
+Name: ChronoGallery
+Release Date: Oct 26, 2026
+Price: $1.59 (-20%, was $1.99)
+Genres: Design & Illustration, Utilities
+Link: https://store.steampowered.com/app/5198470
+==================================================
+
+==================================================
+Name: SLURDLE
+Release Date: Oct 26, 2026
+Price: $1.19 (-40%, was $1.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/3377240
+==================================================
+
+==================================================
+Name: Sakura Shiren
+Release Date: Oct 26, 2026
+Price: $4.99
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/5039580
+==================================================
+
+==================================================
+Name: Tetheg
+Release Date: Oct 26, 2026
+Price: $2.99 (-25%, was $3.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4780790
+==================================================
+
+==================================================
+Name: Send Them to Hell
+Release Date: Oct 26, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4922730
+==================================================
+
+==================================================
+Name: DragHunter
+Release Date: Oct 26, 2026
+Price: $2.39 (-20%, was $2.99)
+Genres: Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/5368440
+==================================================
+
