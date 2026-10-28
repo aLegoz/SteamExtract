@@ -104611,3 +104611,222 @@ Genres: Indie, Simulation
 Link: https://store.steampowered.com/app/5099760
 ==================================================
 
+
+--- Run: 2026-10-28 19:57:52 --- (27 new game(s) found)
+
+==================================================
+Name: Westward Dash
+Release Date: Oct 28, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/5029020
+==================================================
+
+==================================================
+Name: Duo Control
+Release Date: Oct 28, 2026
+Price: $3.74 (-25%, was $4.99)
+Genres: Action, Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/5018030
+==================================================
+
+==================================================
+Name: The Strange House
+Release Date: Oct 28, 2026
+Price: $2.99
+Genres: Action, Adventure, Indie, Strategy
+Link: https://store.steampowered.com/app/5173500
+==================================================
+
+==================================================
+Name: Qwak Reborn
+Release Date: Oct 28, 2026
+Price: $10.19 (-15%, was $11.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4704570
+==================================================
+
+==================================================
+Name: Speed Rivals - Model Trains
+Release Date: Oct 28, 2026
+Price: $5.39 (-10%, was $5.99)
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4135120
+==================================================
+
+==================================================
+Name: Coins Must Be Made
+Release Date: Oct 28, 2026
+Price: $4.49 (-25%, was $5.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5304700
+==================================================
+
+==================================================
+Name: Unbound
+Release Date: Oct 28, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/5401640
+==================================================
+
+==================================================
+Name: Brush Rush
+Release Date: Oct 28, 2026
+Price: $5.09 (-15%, was $5.99)
+Genres: Action, Casual, Indie, Sports
+Link: https://store.steampowered.com/app/5109830
+==================================================
+
+==================================================
+Name: Glow Arcade Racer
+Release Date: Oct 28, 2026
+Price: $4.99
+Genres: Action, Casual, Indie, Racing
+Link: https://store.steampowered.com/app/5050060
+==================================================
+
+==================================================
+Name: Emojis vs Zombies
+Release Date: Oct 28, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Action, Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/2422470
+==================================================
+
+==================================================
+Name: Just One More Coin
+Release Date: Oct 28, 2026
+Price: $2.99 (-40%, was $4.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5233670
+==================================================
+
+==================================================
+Name: FableBrawl
+Release Date: Oct 28, 2026
+Price: Free to Play
+Genres: Indie, Strategy, Free To Play
+Link: https://store.steampowered.com/app/5256250
+==================================================
+
+==================================================
+Name: Nooodles: Brutalism Edition
+Release Date: Oct 28, 2026
+Price: $3.99
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4646350
+==================================================
+
+==================================================
+Name: The Kharzov Effect
+Release Date: Oct 28, 2026
+Price: $9.93 (-29%, was $13.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/3228900
+==================================================
+
+==================================================
+Name: Exium: Theia
+Release Date: Oct 28, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: Action, Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/4614060
+==================================================
+
+==================================================
+Name: CH13: Rest Stop
+Release Date: Oct 28, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/3927170
+==================================================
+
+==================================================
+Name: Within His View
+Release Date: Oct 28, 2026
+Price: $7.80 (-20%, was $9.75)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4190900
+==================================================
+
+==================================================
+Name: Rug Cleaning Simulator
+Release Date: Oct 28, 2026
+Price: $12.74 (-15%, was $14.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/2710530
+==================================================
+
+==================================================
+Name: Star Trader
+Release Date: Oct 28, 2026
+Price: $5.94 (-15%, was $6.99)
+Genres: Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/5396180
+==================================================
+
+==================================================
+Name: Pack a Plush!
+Release Date: Oct 28, 2026
+Price: $6.29 (-10%, was $6.99)
+Genres: Casual, Simulation
+Link: https://store.steampowered.com/app/5123900
+==================================================
+
+==================================================
+Name: Mimic2 - Idle MMORPG
+Release Date: Oct 28, 2026
+Price: Free to Play
+Genres: Casual, Indie, Massively Multiplayer, RPG, Free To Play
+Link: https://store.steampowered.com/app/5191970
+==================================================
+
+==================================================
+Name: Sepulchron
+Release Date: Oct 28, 2026
+Price: $14.95 (-12%, was $16.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/3156910
+==================================================
+
+==================================================
+Name: Ghostie Town
+Release Date: Oct 28, 2026
+Price: $6.39 (-20%, was $7.99)
+Genres: Adventure, Casual, Indie, RPG
+Link: https://store.steampowered.com/app/4206880
+==================================================
+
+==================================================
+Name: DIMENSIONAL PURSUIT
+Release Date: Oct 28, 2026
+Price: $2.99
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/5055260
+==================================================
+
+==================================================
+Name: Voxie Survivor
+Release Date: Oct 28, 2026
+Price: $12.59 (-10%, was $13.99)
+Genres: Action, Casual, Indie, RPG
+Link: https://store.steampowered.com/app/4535960
+==================================================
+
+==================================================
+Name: Away From Home VN
+Release Date: Oct 28, 2026
+Price: $12.99
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4251700
+==================================================
+
+==================================================
+Name: Pulseball
+Release Date: Oct 28, 2026
+Price: $7.09 (-29%, was $9.99)
+Genres: Action, Casual, Indie, Simulation, Sports
+Link: https://store.steampowered.com/app/1287150
+==================================================
+
