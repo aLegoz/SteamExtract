@@ -104034,3 +104034,150 @@ Genres: Casual, Indie, Simulation
 Link: https://store.steampowered.com/app/4964120
 ==================================================
 
+
+--- Run: 2026-10-28 01:52:48 --- (18 new game(s) found)
+
+==================================================
+Name: TaskTown
+Release Date: Coming soon
+Price: Free to Play
+Genres: Casual, Free To Play
+Link: https://store.steampowered.com/app/5246480
+==================================================
+
+==================================================
+Name: Soul General
+Release Date: Oct 27, 2026
+Price: $7.92 (-12%, was $9.00)
+Genres: Action, Adventure, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/4540040
+==================================================
+
+==================================================
+Name: Project Android
+Release Date: Oct 27, 2026
+Price: $13.59 (-20%, was $16.99)
+Genres: Simulation
+Link: https://store.steampowered.com/app/3690240
+==================================================
+
+==================================================
+Name: Hatters
+Release Date: Oct 27, 2026
+Price: $9.99
+Genres: Action, Adventure, RPG
+Link: https://store.steampowered.com/app/3612660
+==================================================
+
+==================================================
+Name: Crateball
+Release Date: Oct 27, 2026
+Price: Free to Play
+Genres: Action, Casual, Indie, Sports, Free To Play
+Link: https://store.steampowered.com/app/4248630
+==================================================
+
+==================================================
+Name: Stellacore Defense
+Release Date: Oct 27, 2026
+Price: $5.94 (-15%, was $6.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/3151060
+==================================================
+
+==================================================
+Name: HITLER WAIFU 2
+Release Date: Oct 27, 2026
+Price: $0.59 (-40%, was $0.99)
+Genres: Action, Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/3982450
+==================================================
+
+==================================================
+Name: 方块战场 Block Battlefield
+Release Date: Oct 27, 2026
+Price: $3.19 (-20%, was $3.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/5173940
+==================================================
+
+==================================================
+Name: Shattered Void Online
+Release Date: Oct 27, 2026
+Price: Free to Play
+Genres: Action, Simulation, Free To Play
+Link: https://store.steampowered.com/app/4475480
+==================================================
+
+==================================================
+Name: HypnoX: Steel Riders
+Release Date: Oct 27, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Action, Indie, Racing, Simulation
+Link: https://store.steampowered.com/app/5255000
+==================================================
+
+==================================================
+Name: Senior Survival Club
+Release Date: Oct 27, 2026
+Price: $7.49 (-25%, was $9.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/3690370
+==================================================
+
+==================================================
+Name: Tidy Arcana
+Release Date: Oct 27, 2026
+Price: $5.39 (-10%, was $5.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5183750
+==================================================
+
+==================================================
+Name: Cozy Associations
+Release Date: Oct 27, 2026
+Price: $2.99
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5247800
+==================================================
+
+==================================================
+Name: ELFGIRLS DO PORN
+Release Date: Oct 27, 2026
+Price: $3.99
+Genres: Casual
+Link: https://store.steampowered.com/app/5260500
+==================================================
+
+==================================================
+Name: Incrementable Craps
+Release Date: Oct 27, 2026
+Price: $3.99
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/4944480
+==================================================
+
+==================================================
+Name: Tetrahedron
+Release Date: Oct 27, 2026
+Price: $2.99 (-40%, was $4.99)
+Genres: Action
+Link: https://store.steampowered.com/app/5239530
+==================================================
+
+==================================================
+Name: Girl & Scarecrow
+Release Date: Oct 27, 2026
+Price: $5.00
+Genres: Indie
+Link: https://store.steampowered.com/app/4781310
+==================================================
+
+==================================================
+Name: NULL SECTOR: LAST PROTOCOL
+Release Date: Oct 27, 2026
+Price: $0.59 (-40%, was $0.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/4151560
+==================================================
+
