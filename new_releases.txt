@@ -105327,3 +105327,238 @@ Genres: Photo Editing, Utilities
 Link: https://store.steampowered.com/app/4994540
 ==================================================
 
+
+--- Run: 2026-10-29 17:09:43 --- (29 new game(s) found)
+
+==================================================
+Name: Prophet Margin
+Release Date: Oct 29, 2026
+Price: $14.95 (-12%, was $16.99)
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/3624110
+==================================================
+
+==================================================
+Name: Dynamite Dashers
+Release Date: Oct 29, 2026
+Price: $6.29 (-10%, was $6.99)
+Genres: Action
+Link: https://store.steampowered.com/app/4148750
+==================================================
+
+==================================================
+Name: JANGDOK Delivery
+Release Date: Oct 29, 2026
+Price: $3.39 (-15%, was $3.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5391490
+==================================================
+
+==================================================
+Name: Skyborn:IronWings
+Release Date: Oct 29, 2026
+Price: $13.49 (-10%, was $14.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/3834950
+==================================================
+
+==================================================
+Name: Into the Crypt
+Release Date: Oct 29, 2026
+Price: $16.99 (-15%, was $19.99)
+Genres: Action, Indie, Strategy
+Link: https://store.steampowered.com/app/1879270
+==================================================
+
+==================================================
+Name: Shadow Gangs Zero
+Release Date: Oct 29, 2026
+Price: $22.49 (-10%, was $24.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4689770
+==================================================
+
+==================================================
+Name: Two Dollar Suits
+Release Date: Oct 29, 2026
+Price: $10.19 (-15%, was $11.99)
+Genres: Action, Indie, Strategy
+Link: https://store.steampowered.com/app/4088370
+==================================================
+
+==================================================
+Name: Ourself
+Release Date: Oct 29, 2026
+Price: $4.25 (-15%, was $5.00)
+Genres: Action, Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/5279120
+==================================================
+
+==================================================
+Name: Checkmage!
+Release Date: Oct 29, 2026
+Price: $16.99 (-15%, was $19.99)
+Genres: Casual, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/3613550
+==================================================
+
+==================================================
+Name: Princess and Conquest - Queen Of Clubs
+Release Date: Oct 29, 2026
+Price: $13.49 (-10%, was $14.99)
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/4348280
+==================================================
+
+==================================================
+Name: Hokko Spaces
+Release Date: Oct 29, 2026
+Price: $7.19 (-10%, was $7.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/2907400
+==================================================
+
+==================================================
+Name: Dark Trip
+Release Date: Oct 29, 2026
+Price: $16.99 (-15%, was $19.99)
+Genres: Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/3492640
+==================================================
+
+==================================================
+Name: Dead Party
+Release Date: Oct 29, 2026
+Price: $16.99 (-15%, was $19.99)
+Genres: Action, Casual
+Link: https://store.steampowered.com/app/1270660
+==================================================
+
+==================================================
+Name: Terrible Lizards
+Release Date: Oct 29, 2026
+Price: $19.99 (-20%, was $24.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/2920220
+==================================================
+
+==================================================
+Name: Balingo
+Release Date: Oct 29, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4716880
+==================================================
+
+==================================================
+Name: As Long As She Forgot
+Release Date: Oct 29, 2026
+Price: $2.99 (-25%, was $3.99)
+Genres: Action, Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/4974620
+==================================================
+
+==================================================
+Name: Wald-Guard
+Release Date: Oct 29, 2026
+Price: $2.39 (-40%, was $3.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/3844490
+==================================================
+
+==================================================
+Name: Mysteries of the House
+Release Date: Oct 29, 2026
+Price: $10.19 (-15%, was $11.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4596930
+==================================================
+
+==================================================
+Name: Finals Week ✍🏻
+Release Date: Oct 29, 2026
+Price: $4.95 (-38%, was $7.99)
+Genres: Action, Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/4715160
+==================================================
+
+==================================================
+Name: HYPNOS
+Release Date: Oct 29, 2026
+Price: $11.74 (-41%, was $19.90)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/2861210
+==================================================
+
+==================================================
+Name: The Transference
+Release Date: Oct 29, 2026
+Price: $9.99 (-20%, was $12.49)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/2645200
+==================================================
+
+==================================================
+Name: Dystopian Pet Simulator
+Release Date: Oct 29, 2026
+Price: $6.99
+Genres: Indie
+Link: https://store.steampowered.com/app/4298400
+==================================================
+
+==================================================
+Name: Tom the Postgirl
+Release Date: Oct 29, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/2257440
+==================================================
+
+==================================================
+Name: Fat Chance
+Release Date: Oct 29, 2026
+Price: $8.49 (-15%, was $9.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/4891550
+==================================================
+
+==================================================
+Name: Where are the Fish?
+Release Date: Oct 29, 2026
+Price: $2.54 (-15%, was $2.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4414010
+==================================================
+
+==================================================
+Name: The Perfect Robot
+Release Date: Oct 29, 2026
+Price: $3.74 (-25%, was $4.99)
+Genres: Casual, Strategy
+Link: https://store.steampowered.com/app/4367790
+==================================================
+
+==================================================
+Name: Ship Busters
+Release Date: Oct 29, 2026
+Price: Free to Play
+Genres: Action, Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/5095690
+==================================================
+
+==================================================
+Name: LumaEdge
+Release Date: Oct 29, 2026
+Price: $7.19 (-10%, was $7.99)
+Genres: Design & Illustration, Photo Editing, Utilities, Video Production, Web Publishing
+Link: https://store.steampowered.com/app/4824180
+==================================================
+
+==================================================
+Name: SOMNIUS
+Release Date: Oct 29, 2026
+Price: $5.99 (-25%, was $7.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/3882630
+==================================================
+
