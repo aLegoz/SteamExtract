@@ -105562,3 +105562,238 @@ Genres: Action, Indie
 Link: https://store.steampowered.com/app/3882630
 ==================================================
 
+
+--- Run: 2026-10-29 22:07:45 --- (29 new game(s) found)
+
+==================================================
+Name: Zudon
+Release Date: Oct 29, 2026
+Price: $3.99
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/4685030
+==================================================
+
+==================================================
+Name: Gorgeous Baby Bella
+Release Date: Oct 29, 2026
+Price: $4.49 (-25%, was $5.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/5015190
+==================================================
+
+==================================================
+Name: Not Another Garbage Simulator
+Release Date: Oct 29, 2026
+Price: $12.99
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5372700
+==================================================
+
+==================================================
+Name: Nuns With Guns
+Release Date: Oct 29, 2026
+Price: $2.69 (-10%, was $2.99)
+Genres: Action
+Link: https://store.steampowered.com/app/4841200
+==================================================
+
+==================================================
+Name: E-Files
+Release Date: Oct 29, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/5100880
+==================================================
+
+==================================================
+Name: Marrowlight
+Release Date: Oct 29, 2026
+Price: $11.04 (-15%, was $12.99)
+Genres: Action, RPG
+Link: https://store.steampowered.com/app/5033390
+==================================================
+
+==================================================
+Name: Greek Row, Fall Semester
+Release Date: Oct 29, 2026
+Price: $8.49 (-15%, was $9.99)
+Genres: Casual, RPG
+Link: https://store.steampowered.com/app/5097980
+==================================================
+
+==================================================
+Name: HELENA : Cloud District
+Release Date: Oct 29, 2026
+Price: Free to Play
+Genres: Adventure, Indie, Free To Play
+Link: https://store.steampowered.com/app/5190580
+==================================================
+
+==================================================
+Name: Catch Meow If You Can
+Release Date: Oct 29, 2026
+Price: $4.95 (-38%, was $7.99)
+Genres: Adventure
+Link: https://store.steampowered.com/app/4306070
+==================================================
+
+==================================================
+Name: Nano Dash
+Release Date: Oct 29, 2026
+Price: $6.00
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/4296620
+==================================================
+
+==================================================
+Name: Chopped
+Release Date: Oct 29, 2026
+Price: $5.94 (-15%, was $6.99)
+Genres: Adventure, Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/5147970
+==================================================
+
+==================================================
+Name: Zompioland
+Release Date: Oct 29, 2026
+Price: $1.35 (-15%, was $1.59)
+Genres: Strategy
+Link: https://store.steampowered.com/app/5273680
+==================================================
+
+==================================================
+Name: COP BASTARD
+Release Date: Oct 29, 2026
+Price: $11.69 (-10%, was $12.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/1742440
+==================================================
+
+==================================================
+Name: Hentai Arctic Beauty
+Release Date: Oct 29, 2026
+Price: $0.64 (-35%, was $0.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/5194420
+==================================================
+
+==================================================
+Name: Anomaly Core: Hospital
+Release Date: Oct 29, 2026
+Price: $1.79 (-10%, was $1.99)
+Genres: Action, Adventure, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4689330
+==================================================
+
+==================================================
+Name: Shot Up: Turtle Gun Jump
+Release Date: Oct 29, 2026
+Price: $3.59 (-10%, was $3.99)
+Genres: Action, Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4822960
+==================================================
+
+==================================================
+Name: Laguna Rosa: A long story with reckless consequences
+Release Date: Oct 29, 2026
+Price: Free to Play
+Genres: Adventure, Casual, Massively Multiplayer, RPG, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4450390
+==================================================
+
+==================================================
+Name: Abyss Depth: Control
+Release Date: Oct 29, 2026
+Price: $2.39 (-20%, was $2.99)
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/4053130
+==================================================
+
+==================================================
+Name: JANKEN 100
+Release Date: Oct 29, 2026
+Price: $1.99
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/5298510
+==================================================
+
+==================================================
+Name: Tongo
+Release Date: Oct 29, 2026
+Price: $7.19 (-10%, was $7.99)
+Genres: Strategy
+Link: https://store.steampowered.com/app/2300290
+==================================================
+
+==================================================
+Name: WHAT NUMBER?
+Release Date: Oct 29, 2026
+Price: $2.39 (-20%, was $2.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/5010010
+==================================================
+
+==================================================
+Name: PODYEZD 8
+Release Date: Oct 29, 2026
+Price: $1.99
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/5170830
+==================================================
+
+==================================================
+Name: Needle: The 1% Challenge
+Release Date: Oct 29, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5364000
+==================================================
+
+==================================================
+Name: Chaos Chess
+Release Date: Oct 29, 2026
+Price: $3.00
+Genres: Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/5103050
+==================================================
+
+==================================================
+Name: Spooky Ride
+Release Date: Oct 29, 2026
+Price: $7.19 (-10%, was $7.99)
+Genres: Adventure, Casual, Indie, Racing
+Link: https://store.steampowered.com/app/4613790
+==================================================
+
+==================================================
+Name: To Reign in Hell
+Release Date: Oct 29, 2026
+Price: $4.95 (-38%, was $7.99)
+Genres: Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/5153830
+==================================================
+
+==================================================
+Name: Bon Appétit
+Release Date: Oct 29, 2026
+Price: $2.69 (-10%, was $2.99)
+Genres: Indie
+Link: https://store.steampowered.com/app/4859930
+==================================================
+
+==================================================
+Name: Terraclysm Survivors
+Release Date: Oct 29, 2026
+Price: $8.49 (-15%, was $9.99)
+Genres: Action, Indie, RPG
+Link: https://store.steampowered.com/app/4360290
+==================================================
+
+==================================================
+Name: FreeSurf
+Release Date: Oct 29, 2026
+Price: $17.91 (-10%, was $19.90)
+Genres: Action, Indie, Simulation, Sports
+Link: https://store.steampowered.com/app/5228830
+==================================================
+
