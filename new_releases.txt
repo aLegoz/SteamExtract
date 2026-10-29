@@ -105084,3 +105084,246 @@ Genres: Action, Adventure, Casual, Indie, RPG
 Link: https://store.steampowered.com/app/4906580
 ==================================================
 
+
+--- Run: 2026-10-29 10:30:50 --- (30 new game(s) found)
+
+==================================================
+Name: Cataclyzm
+Release Date: Oct 29, 2026
+Price: $5.99 (-10%, was $6.66)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4516840
+==================================================
+
+==================================================
+Name: Election Train
+Release Date: Oct 29, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4521480
+==================================================
+
+==================================================
+Name: Reclaim Home
+Release Date: Oct 29, 2026
+Price: Free to Play
+Genres: Adventure, Free To Play
+Link: https://store.steampowered.com/app/5405810
+==================================================
+
+==================================================
+Name: O2GETHER
+Release Date: Oct 29, 2026
+Price: $6.03 (-10%, was $6.70)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/5041060
+==================================================
+
+==================================================
+Name: Hunting Simulator 3
+Release Date: Oct 29, 2026
+Price: $31.99 (-20%, was $39.99)
+Genres: Simulation
+Link: https://store.steampowered.com/app/2482760
+==================================================
+
+==================================================
+Name: Stones
+Release Date: Oct 29, 2026
+Price: Free to Play
+Genres: Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/4481760
+==================================================
+
+==================================================
+Name: Idle Immortal Mountain
+Release Date: Oct 29, 2026
+Price: $2.39 (-20%, was $2.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5387930
+==================================================
+
+==================================================
+Name: Knuckle Creek
+Release Date: Oct 29, 2026
+Price: $5.39 (-10%, was $5.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4652930
+==================================================
+
+==================================================
+Name: Fate Candle: Three Kingdoms - Chronicle Restored
+Release Date: Oct 29, 2026
+Price: $7.19 (-10%, was $7.99)
+Genres: Strategy
+Link: https://store.steampowered.com/app/5164420
+==================================================
+
+==================================================
+Name: Ayako's Endeavors
+Release Date: Oct 29, 2026
+Price: $9.89 (-10%, was $10.99)
+Genres: Casual, Indie, RPG, Simulation
+Link: https://store.steampowered.com/app/4719140
+==================================================
+
+==================================================
+Name: SimsalaGrimm™ – The Chaos Crystal
+Release Date: Oct 29, 2026
+Price: Free to Play
+Genres: Adventure, Casual
+Link: https://store.steampowered.com/app/4356280
+==================================================
+
+==================================================
+Name: Ghost in the SQL Data
+Release Date: Oct 29, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Simulation, Strategy
+Link: https://store.steampowered.com/app/5072430
+==================================================
+
+==================================================
+Name: Nordrstein: Vikings Together
+Release Date: Oct 29, 2026
+Price: $1.19 (-40%, was $1.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/5400430
+==================================================
+
+==================================================
+Name: Smithonion Natural History Museum
+Release Date: Oct 29, 2026
+Price: $5.99
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4541970
+==================================================
+
+==================================================
+Name: The Florida Trail
+Release Date: Oct 29, 2026
+Price: $2.54 (-15%, was $2.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/5431110
+==================================================
+
+==================================================
+Name: New York Mysteries: The Undying Collector's Edition
+Release Date: Oct 29, 2026
+Price: $9.99
+Genres: Adventure, Casual
+Link: https://store.steampowered.com/app/5242080
+==================================================
+
+==================================================
+Name: Milfy’s Lewd Trap Training~Tentacles × Aphrodisiacs × Bondage Squeeze!~
+Release Date: Oct 29, 2026
+Price: $7.19 (-10%, was $7.99)
+Genres: Casual, RPG
+Link: https://store.steampowered.com/app/3436360
+==================================================
+
+==================================================
+Name: Curatio
+Release Date: Oct 29, 2026
+Price: $3.36 (-25%, was $4.49)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4866860
+==================================================
+
+==================================================
+Name: Tama In-Between
+Release Date: Oct 29, 2026
+Price: $8.09 (-10%, was $8.99)
+Genres: Action
+Link: https://store.steampowered.com/app/3769030
+==================================================
+
+==================================================
+Name: Bao Bao's™ Cozy Cleaning Services
+Release Date: Oct 28, 2026
+Price: $14.99
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/3832380
+==================================================
+
+==================================================
+Name: Epic Seven
+Release Date: Oct 28, 2026
+Price: Free to Play
+Genres: RPG, Strategy, Free To Play
+Link: https://store.steampowered.com/app/5019180
+==================================================
+
+==================================================
+Name: The Day It Rained Blood
+Release Date: Oct 28, 2026
+Price: $9.99
+Genres: Simulation
+Link: https://store.steampowered.com/app/5035700
+==================================================
+
+==================================================
+Name: Happy Happy Office
+Release Date: Oct 28, 2026
+Price: $6.39 (-20%, was $7.99)
+Genres: Action, Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/5311990
+==================================================
+
+==================================================
+Name: Agastache Rugosa
+Release Date: Oct 28, 2026
+Price: Free to Play
+Genres: Indie, RPG, Free To Play
+Link: https://store.steampowered.com/app/5259270
+==================================================
+
+==================================================
+Name: Vampolitics: Vassals of the Void
+Release Date: Oct 28, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: Indie, RPG, Simulation, Strategy
+Link: https://store.steampowered.com/app/4089000
+==================================================
+
+==================================================
+Name: Elder Hills
+Release Date: Oct 28, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Indie
+Link: https://store.steampowered.com/app/4985550
+==================================================
+
+==================================================
+Name: Static Grain - Quiet a Night
+Release Date: Oct 28, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4364380
+==================================================
+
+==================================================
+Name: Pro Wrestling Tycoon
+Release Date: Oct 28, 2026
+Price: $14.99
+Genres: Simulation, Sports, Strategy
+Link: https://store.steampowered.com/app/5039120
+==================================================
+
+==================================================
+Name: Plasma Protocol
+Release Date: Oct 28, 2026
+Price: $4.99
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4979840
+==================================================
+
+==================================================
+Name: Brilliante Photo Viewer
+Release Date: Oct 28, 2026
+Price: $24.99
+Genres: Photo Editing, Utilities
+Link: https://store.steampowered.com/app/4994540
+==================================================
+
