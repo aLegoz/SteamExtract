@@ -106235,3 +106235,246 @@ Genres: Adventure
 Link: https://store.steampowered.com/app/5365770
 ==================================================
 
+
+--- Run: 2026-10-30 16:20:13 --- (30 new game(s) found)
+
+==================================================
+Name: Edicts of the Truthsinger: The Orb of Artemagus
+Release Date: Oct 30, 2026
+Price: $16.99 (-15%, was $19.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4742500
+==================================================
+
+==================================================
+Name: The Gaffer
+Release Date: Oct 30, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Indie, Simulation, Sports, Strategy
+Link: https://store.steampowered.com/app/5088390
+==================================================
+
+==================================================
+Name: Primal Realms
+Release Date: Oct 30, 2026
+Price: Free to Play
+Genres: Strategy, Free To Play
+Link: https://store.steampowered.com/app/5402200
+==================================================
+
+==================================================
+Name: How To Destroy A City
+Release Date: Oct 30, 2026
+Price: $4.79 (-20%, was $5.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/4386090
+==================================================
+
+==================================================
+Name: The Lightseeker
+Release Date: Oct 30, 2026
+Price: $7.49 (-25%, was $9.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/3661320
+==================================================
+
+==================================================
+Name: Shiftomino
+Release Date: Oct 30, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/4376910
+==================================================
+
+==================================================
+Name: Anonymized
+Release Date: Oct 30, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4548240
+==================================================
+
+==================================================
+Name: Anvira: Forge Defense
+Release Date: Oct 30, 2026
+Price: $12.74 (-15%, was $14.99)
+Genres: Strategy
+Link: https://store.steampowered.com/app/3893760
+==================================================
+
+==================================================
+Name: Biohazard Protocol
+Release Date: Oct 30, 2026
+Price: $4.79 (-20%, was $5.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/4526530
+==================================================
+
+==================================================
+Name: Five Signals
+Release Date: Oct 30, 2026
+Price: $5.94 (-15%, was $6.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/5033270
+==================================================
+
+==================================================
+Name: Lewd Gambit: Hentai Checkers
+Release Date: Oct 30, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/5243180
+==================================================
+
+==================================================
+Name: Restless Rites - Prologue
+Release Date: Coming soon
+Price: Free to Play
+Genres: Action, Adventure, Indie, Simulation, Free To Play
+Link: https://store.steampowered.com/app/4492040
+==================================================
+
+==================================================
+Name: Halloween Poppp
+Release Date: Oct 30, 2026
+Price: $3.99
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4378830
+==================================================
+
+==================================================
+Name: Borrowed Faces
+Release Date: Oct 30, 2026
+Price: Free to Play
+Genres: Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/4574330
+==================================================
+
+==================================================
+Name: Moonlit Horizons
+Release Date: Oct 30, 2026
+Price: $14.99
+Genres: Indie, RPG, Simulation
+Link: https://store.steampowered.com/app/4114470
+==================================================
+
+==================================================
+Name: Silberheim Evolving Card Game
+Release Date: Oct 30, 2026
+Price: $11.48 (-18%, was $14.00)
+Genres: Action, Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/3601830
+==================================================
+
+==================================================
+Name: MALEBOLGE
+Release Date: Oct 30, 2026
+Price: $9.99
+Genres: Action, Adventure
+Link: https://store.steampowered.com/app/5332250
+==================================================
+
+==================================================
+Name: Confined Space - Module Madness
+Release Date: Oct 30, 2026
+Price: $3.59 (-40%, was $5.99)
+Genres: Action
+Link: https://store.steampowered.com/app/5124870
+==================================================
+
+==================================================
+Name: Love or Lust Beach Stories
+Release Date: Oct 30, 2026
+Price: $17.99 (-10%, was $19.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/3787390
+==================================================
+
+==================================================
+Name: Tidy Tails
+Release Date: Oct 30, 2026
+Price: $5.39 (-10%, was $5.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5365190
+==================================================
+
+==================================================
+Name: Lyara
+Release Date: Oct 30, 2026
+Price: $10.79 (-10%, was $11.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/1871260
+==================================================
+
+==================================================
+Name: Black Hollow
+Release Date: Oct 30, 2026
+Price: $6.79 (-15%, was $7.99)
+Genres: Action, RPG
+Link: https://store.steampowered.com/app/4880310
+==================================================
+
+==================================================
+Name: Totally Safe Moon Project
+Release Date: Oct 30, 2026
+Price: $4.49 (-25%, was $5.99)
+Genres: Simulation
+Link: https://store.steampowered.com/app/4339680
+==================================================
+
+==================================================
+Name: Shanking Simulator
+Release Date: Oct 30, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4828570
+==================================================
+
+==================================================
+Name: Magic Draw: Chaos
+Release Date: Oct 30, 2026
+Price: $3.12 (-20%, was $3.90)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5182640
+==================================================
+
+==================================================
+Name: Fire Isle
+Release Date: Oct 30, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: Casual, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/3093990
+==================================================
+
+==================================================
+Name: Crowd Favorites
+Release Date: Oct 30, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4962610
+==================================================
+
+==================================================
+Name: Rogue Jungle
+Release Date: Oct 30, 2026
+Price: $0.69 (-30%, was $0.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/2352850
+==================================================
+
+==================================================
+Name: The orb
+Release Date: Oct 30, 2026
+Price: $2.20
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4869250
+==================================================
+
+==================================================
+Name: Gumball Hero
+Release Date: Oct 30, 2026
+Price: $4.49 (-25%, was $5.99)
+Genres: Action, Indie, RPG
+Link: https://store.steampowered.com/app/3403690
+==================================================
+
