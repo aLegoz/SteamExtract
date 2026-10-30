@@ -106478,3 +106478,238 @@ Genres: Action, Indie, RPG
 Link: https://store.steampowered.com/app/3403690
 ==================================================
 
+
+--- Run: 2026-10-30 21:12:39 --- (29 new game(s) found)
+
+==================================================
+Name: Pixel Chaos: Tidy Up the Museum
+Release Date: Oct 30, 2026
+Price: $4.31 (-20%, was $5.39)
+Genres: Casual, Simulation
+Link: https://store.steampowered.com/app/5149240
+==================================================
+
+==================================================
+Name: BigFooten
+Release Date: Oct 30, 2026
+Price: $7.79
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/3998120
+==================================================
+
+==================================================
+Name: NightingNail
+Release Date: Oct 30, 2026
+Price: Free to Play
+Genres: Action, Free To Play
+Link: https://store.steampowered.com/app/3199110
+==================================================
+
+==================================================
+Name: Cozy Necromancy
+Release Date: Oct 30, 2026
+Price: $7.19 (-10%, was $7.99)
+Genres: Casual, Indie, RPG
+Link: https://store.steampowered.com/app/5349910
+==================================================
+
+==================================================
+Name: The Community Notes Are Wrong
+Release Date: Oct 30, 2026
+Price: Free to Play
+Genres: Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/5083880
+==================================================
+
+==================================================
+Name: Lifelines
+Release Date: Oct 30, 2026
+Price: $3.19 (-20%, was $3.99)
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4799680
+==================================================
+
+==================================================
+Name: Farm.exe
+Release Date: Oct 30, 2026
+Price: $2.99
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4644340
+==================================================
+
+==================================================
+Name: cat.exe
+Release Date: Oct 30, 2026
+Price: $1.69 (-15%, was $1.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/5328430
+==================================================
+
+==================================================
+Name: Apocalyptica
+Release Date: Oct 30, 2026
+Price: $16.99 (-15%, was $19.99)
+Genres: Action, Adventure, RPG
+Link: https://store.steampowered.com/app/3036840
+==================================================
+
+==================================================
+Name: Debtbound
+Release Date: Oct 30, 2026
+Price: $5.59 (-30%, was $7.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/4880870
+==================================================
+
+==================================================
+Name: Lusófona Games Collection 2026
+Release Date: Oct 30, 2026
+Price: Free to Play
+Genres: Action, Adventure, Indie, Free To Play
+Link: https://store.steampowered.com/app/4993710
+==================================================
+
+==================================================
+Name: Drift Splatter
+Release Date: Oct 30, 2026
+Price: Free to Play
+Genres: Action, Casual, Indie, Racing, Free To Play
+Link: https://store.steampowered.com/app/4170240
+==================================================
+
+==================================================
+Name: Eggsecution Squad
+Release Date: Oct 30, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Action, Casual
+Link: https://store.steampowered.com/app/5328310
+==================================================
+
+==================================================
+Name: Queen's Court: A Duel of Dignitaries
+Release Date: Oct 30, 2026
+Price: $3.99
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/3615220
+==================================================
+
+==================================================
+Name: THE MOUTHLESS STALKER
+Release Date: Oct 30, 2026
+Price: $2.99 (-25%, was $3.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/5285920
+==================================================
+
+==================================================
+Name: Can 'Em All
+Release Date: Oct 30, 2026
+Price: $6.29 (-10%, was $6.99)
+Genres: Action, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/5133900
+==================================================
+
+==================================================
+Name: Enarian: Orbital Command
+Release Date: Oct 30, 2026
+Price: $12.74 (-15%, was $14.99)
+Genres: RPG, Strategy
+Link: https://store.steampowered.com/app/5112040
+==================================================
+
+==================================================
+Name: BURIED INSIDE ME
+Release Date: Oct 30, 2026
+Price: $4.79 (-20%, was $5.99)
+Genres: Action, Adventure
+Link: https://store.steampowered.com/app/4645790
+==================================================
+
+==================================================
+Name: Tiles of Grimmwoods
+Release Date: Oct 30, 2026
+Price: $8.49 (-15%, was $9.99)
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/3411620
+==================================================
+
+==================================================
+Name: Bobo and the Chest of Nightmares
+Release Date: Oct 30, 2026
+Price: $16.99 (-15%, was $19.99)
+Genres: Action, Adventure, Casual, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/456140
+==================================================
+
+==================================================
+Name: ABYSS
+Release Date: Oct 30, 2026
+Price: $4.99
+Genres: Indie
+Link: https://store.steampowered.com/app/4818920
+==================================================
+
+==================================================
+Name: AURA 2: Lust of the Gods
+Release Date: Oct 30, 2026
+Price: $15.29 (-10%, was $16.99)
+Genres: Adventure, Casual, RPG
+Link: https://store.steampowered.com/app/3855940
+==================================================
+
+==================================================
+Name: Idle Legions
+Release Date: Oct 30, 2026
+Price: Free to Play
+Genres: Casual, Indie, RPG, Strategy, Free To Play
+Link: https://store.steampowered.com/app/5238690
+==================================================
+
+==================================================
+Name: Harvest Looper
+Release Date: Oct 30, 2026
+Price: $5.94 (-15%, was $6.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4600130
+==================================================
+
+==================================================
+Name: ElectricWorks
+Release Date: Oct 30, 2026
+Price: Free to Play
+Genres: Action, Simulation, Design & Illustration, Education, Software Training, Utilities
+Link: https://store.steampowered.com/app/2580250
+==================================================
+
+==================================================
+Name: A Tiny Ghost Game
+Release Date: Oct 30, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4928440
+==================================================
+
+==================================================
+Name: Snow That Hums
+Release Date: Oct 30, 2026
+Price: $1.91 (-15%, was $2.25)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4643950
+==================================================
+
+==================================================
+Name: Nightshift; Nowhere
+Release Date: Oct 30, 2026
+Price: $19.99 (-20%, was $24.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/5135070
+==================================================
+
+==================================================
+Name: HACHIKOMA: Underground Stadium No. 8
+Release Date: Oct 30, 2026
+Price: $7.19 (-10%, was $7.99)
+Genres: Action, Adventure, Indie, Sports
+Link: https://store.steampowered.com/app/5394170
+==================================================
+
