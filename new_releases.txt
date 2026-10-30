@@ -105992,3 +105992,246 @@ Genres: Action, Adventure
 Link: https://store.steampowered.com/app/1482400
 ==================================================
 
+
+--- Run: 2026-10-30 09:11:11 --- (30 new game(s) found)
+
+==================================================
+Name: Lustflame Bonsai
+Release Date: Oct 30, 2026
+Price: $7.19 (-20%, was $8.99)
+Genres: RPG, Strategy
+Link: https://store.steampowered.com/app/4668740
+==================================================
+
+==================================================
+Name: ConvoyCore
+Release Date: Oct 30, 2026
+Price: Free to Play
+Genres: Free To Play, Utilities
+Link: https://store.steampowered.com/app/5234060
+==================================================
+
+==================================================
+Name: Mirage Rebellion
+Release Date: Oct 30, 2026
+Price: $9.89 (-10%, was $10.99)
+Genres: Indie, RPG
+Link: https://store.steampowered.com/app/4295970
+==================================================
+
+==================================================
+Name: FerzGate
+Release Date: Oct 30, 2026
+Price: $1.53 (-23%, was $1.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4930390
+==================================================
+
+==================================================
+Name: blockia
+Release Date: Oct 30, 2026
+Price: $1.59 (-20%, was $1.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5344070
+==================================================
+
+==================================================
+Name: Wickshore
+Release Date: Oct 30, 2026
+Price: $7.19 (-10%, was $7.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/5379290
+==================================================
+
+==================================================
+Name: Hatch'n'Wall
+Release Date: Oct 30, 2026
+Price: $9.99
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/4915250
+==================================================
+
+==================================================
+Name: Boarding House: Night Shift
+Release Date: Oct 30, 2026
+Price: $6.29 (-10%, was $6.99)
+Genres: Indie, RPG, Simulation
+Link: https://store.steampowered.com/app/4842380
+==================================================
+
+==================================================
+Name: Expedition of the Guild
+Release Date: Oct 30, 2026
+Price: $7.91 (-34%, was $11.99)
+Genres: Adventure, RPG
+Link: https://store.steampowered.com/app/4261080
+==================================================
+
+==================================================
+Name: Veinrider
+Release Date: Oct 30, 2026
+Price: $4.79 (-20%, was $5.99)
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4110670
+==================================================
+
+==================================================
+Name: Summer Room8
+Release Date: Oct 30, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Casual, RPG
+Link: https://store.steampowered.com/app/3436240
+==================================================
+
+==================================================
+Name: Antique Dealer
+Release Date: Oct 30, 2026
+Price: $4.99
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/5137980
+==================================================
+
+==================================================
+Name: AXE DESCENT
+Release Date: Oct 30, 2026
+Price: $3.59 (-10%, was $3.99)
+Genres: Indie, RPG
+Link: https://store.steampowered.com/app/5234110
+==================================================
+
+==================================================
+Name: Emberspark
+Release Date: Oct 30, 2026
+Price: $9.89 (-34%, was $14.99)
+Genres: Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/5412290
+==================================================
+
+==================================================
+Name: AUTOMATE DEATH
+Release Date: Oct 30, 2026
+Price: $4.50 (-10%, was $5.00)
+Genres: Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/5304530
+==================================================
+
+==================================================
+Name: UNDERDEEP
+Release Date: Oct 29, 2026
+Price: $6.49 (-35%, was $9.99)
+Genres: Adventure, Indie, RPG, Simulation, Strategy
+Link: https://store.steampowered.com/app/4065440
+==================================================
+
+==================================================
+Name: Tank of the Fittest
+Release Date: Oct 29, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/5035720
+==================================================
+
+==================================================
+Name: TownEmpire
+Release Date: Oct 29, 2026
+Price: $2.24 (-10%, was $2.49)
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/5316900
+==================================================
+
+==================================================
+Name: Carve and Sort: Tidy Up your Pumpkin Patch!
+Release Date: Oct 29, 2026
+Price: $4.79 (-20%, was $5.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5412370
+==================================================
+
+==================================================
+Name: Catnap: Cozy Cat Home
+Release Date: Oct 29, 2026
+Price: $2.99
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5339540
+==================================================
+
+==================================================
+Name: Satarichi: Heroes De Caelum
+Release Date: Oct 29, 2026
+Price: $13.99
+Genres: Action, Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/4385930
+==================================================
+
+==================================================
+Name: Scarlet Beret - Murder at the Orphanage
+Release Date: Oct 29, 2026
+Price: Free to Play
+Genres: Indie, Free To Play
+Link: https://store.steampowered.com/app/4528520
+==================================================
+
+==================================================
+Name: Idle Clicker Tower
+Release Date: Oct 29, 2026
+Price: $3.59 (-10%, was $3.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/3436020
+==================================================
+
+==================================================
+Name: Wallpaper Cat
+Release Date: Oct 29, 2026
+Price: Free to Play
+Genres: Casual, Indie, Simulation, Free To Play
+Link: https://store.steampowered.com/app/5349960
+==================================================
+
+==================================================
+Name: In Your Dreams
+Release Date: Oct 29, 2026
+Price: Free to Play
+Genres: Indie, Free To Play
+Link: https://store.steampowered.com/app/5316430
+==================================================
+
+==================================================
+Name: Keyp It Up
+Release Date: Oct 29, 2026
+Price: $4.19 (-40%, was $6.99)
+Genres: Casual, Simulation
+Link: https://store.steampowered.com/app/5389150
+==================================================
+
+==================================================
+Name: Solar Voltage
+Release Date: Oct 29, 2026
+Price: $11.99
+Genres: Action, Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/3066680
+==================================================
+
+==================================================
+Name: Slime, Get out!
+Release Date: Oct 29, 2026
+Price: $2.99
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/5423480
+==================================================
+
+==================================================
+Name: Cats & Rhythmical Restaurant
+Release Date: Oct 29, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Casual, Simulation
+Link: https://store.steampowered.com/app/4791170
+==================================================
+
+==================================================
+Name: LiarLock: No Cameras, No Clues — Just a Corpse in My Club
+Release Date: Oct 29, 2026
+Price: $3.92 (-20%, was $4.90)
+Genres: Adventure
+Link: https://store.steampowered.com/app/5365770
+==================================================
+
