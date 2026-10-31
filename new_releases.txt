@@ -107218,3 +107218,182 @@ Genres: Adventure, Casual, Indie
 Link: https://store.steampowered.com/app/5097500
 ==================================================
 
+
+--- Run: 2026-10-31 18:06:20 --- (22 new game(s) found)
+
+==================================================
+Name: Jarkeeper
+Release Date: Oct 31, 2026
+Price: $4.79 (-20%, was $5.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4969270
+==================================================
+
+==================================================
+Name: Thunder Tie
+Release Date: Oct 31, 2026
+Price: Free to Play
+Genres: Action, Indie, Free To Play
+Link: https://store.steampowered.com/app/4610720
+==================================================
+
+==================================================
+Name: Orangie
+Release Date: Oct 31, 2026
+Price: $2.39 (-20%, was $2.99)
+Genres: Casual, RPG
+Link: https://store.steampowered.com/app/4838150
+==================================================
+
+==================================================
+Name: Dark Tonic's Blunderbusted: Guns Out, Bluns Out
+Release Date: Oct 31, 2026
+Price: $2.99
+Genres: Action, Casual
+Link: https://store.steampowered.com/app/2294890
+==================================================
+
+==================================================
+Name: Librarian Together: Manga Tidy Up
+Release Date: Oct 31, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5399880
+==================================================
+
+==================================================
+Name: Candy Rush!
+Release Date: Oct 31, 2026
+Price: $6.79 (-15%, was $7.99)
+Genres: Action, Casual, Indie, RPG
+Link: https://store.steampowered.com/app/4068850
+==================================================
+
+==================================================
+Name: Stellacore: Mining Odyssey
+Release Date: Oct 31, 2026
+Price: $4.79 (-20%, was $5.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5002040
+==================================================
+
+==================================================
+Name: Operative Division
+Release Date: Oct 31, 2026
+Price: $14.93 (-17%, was $17.99)
+Genres: Action, Indie, Strategy
+Link: https://store.steampowered.com/app/4790400
+==================================================
+
+==================================================
+Name: Den: A Short Horror Story
+Release Date: Oct 31, 2026
+Price: Free to Play
+Genres: Indie, Free To Play
+Link: https://store.steampowered.com/app/3819330
+==================================================
+
+==================================================
+Name: Extravalence
+Release Date: Oct 31, 2026
+Price: $6.29 (-10%, was $6.99)
+Genres: Action, Adventure, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/5140550
+==================================================
+
+==================================================
+Name: Sex Idler
+Release Date: Oct 31, 2026
+Price: Free to Play
+Genres: Casual, Simulation, Free To Play
+Link: https://store.steampowered.com/app/4612060
+==================================================
+
+==================================================
+Name: LUST CURSE 🔞
+Release Date: Oct 31, 2026
+Price: $9.44 (-37%, was $14.99)
+Genres: Action, Adventure, RPG
+Link: https://store.steampowered.com/app/3426420
+==================================================
+
+==================================================
+Name: FIVEFOLD
+Release Date: Oct 31, 2026
+Price: $6.99
+Genres: Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/5381050
+==================================================
+
+==================================================
+Name: Nodes
+Release Date: Oct 31, 2026
+Price: $4.19 (-40%, was $6.99)
+Genres: Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/5370640
+==================================================
+
+==================================================
+Name: Last Lawn Standing
+Release Date: Oct 31, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Action, Adventure, Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4656650
+==================================================
+
+==================================================
+Name: Usurper
+Release Date: Oct 31, 2026
+Price: $2.39 (-20%, was $2.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/5214750
+==================================================
+
+==================================================
+Name: Monster Movie Mayhem
+Release Date: Oct 31, 2026
+Price: $9.99
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/5110320
+==================================================
+
+==================================================
+Name: Mine The Core
+Release Date: Oct 31, 2026
+Price: $4.79 (-40%, was $7.99)
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/5121170
+==================================================
+
+==================================================
+Name: INSERT COIN DIE
+Release Date: Oct 31, 2026
+Price: $2.99 (-40%, was $4.99)
+Genres: Action
+Link: https://store.steampowered.com/app/4962120
+==================================================
+
+==================================================
+Name: Spell Death
+Release Date: Oct 31, 2026
+Price: $11.04 (-15%, was $12.99)
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/5117230
+==================================================
+
+==================================================
+Name: Football on Paper
+Release Date: Oct 31, 2026
+Price: $11.69 (-10%, was $12.99)
+Genres: Indie, Simulation, Sports, Strategy
+Link: https://store.steampowered.com/app/4625620
+==================================================
+
+==================================================
+Name: ONE MILLION CRABS
+Release Date: Oct 31, 2026
+Price: $1.79 (-10%, was $1.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5431510
+==================================================
+
