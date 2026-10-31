@@ -107103,3 +107103,118 @@ Genres: Casual, Indie, Simulation
 Link: https://store.steampowered.com/app/5413300
 ==================================================
 
+
+--- Run: 2026-10-31 13:57:57 --- (14 new game(s) found)
+
+==================================================
+Name: ODD ODDS
+Release Date: Oct 31, 2026
+Price: $4.89 (-30%, was $6.99)
+Genres: Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/5159930
+==================================================
+
+==================================================
+Name: Ballerspiel
+Release Date: Oct 31, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/3235390
+==================================================
+
+==================================================
+Name: IAI // BREAKER
+Release Date: Oct 31, 2026
+Price: $2.00
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/5143070
+==================================================
+
+==================================================
+Name: 无名勇者见闻录
+Release Date: Oct 31, 2026
+Price: $10.00
+Genres: Action, Adventure, RPG
+Link: https://store.steampowered.com/app/2157490
+==================================================
+
+==================================================
+Name: Hidden in Plain Cake
+Release Date: Oct 31, 2026
+Price: Free to Play
+Genres: Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/4974600
+==================================================
+
+==================================================
+Name: Turn Limit 100
+Release Date: Oct 31, 2026
+Price: $5.99
+Genres: RPG, Strategy
+Link: https://store.steampowered.com/app/5116540
+==================================================
+
+==================================================
+Name: Blackboard Ponies
+Release Date: Oct 31, 2026
+Price: $1.39 (-30%, was $1.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4670040
+==================================================
+
+==================================================
+Name: The Planet Miner
+Release Date: Oct 30, 2026
+Price: $4.54 (-35%, was $6.99)
+Genres: Action, Adventure, Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/5253800
+==================================================
+
+==================================================
+Name: YOU
+Release Date: Oct 30, 2026
+Price: $2.69 (-10%, was $2.99)
+Genres: Indie
+Link: https://store.steampowered.com/app/5408670
+==================================================
+
+==================================================
+Name: Hot Farm Gauge
+Release Date: Oct 30, 2026
+Price: $0.99
+Genres: Casual
+Link: https://store.steampowered.com/app/5216580
+==================================================
+
+==================================================
+Name: Pactmage - Chess Roster
+Release Date: Oct 30, 2026
+Price: Free to Play
+Genres: Indie, Strategy, Free To Play
+Link: https://store.steampowered.com/app/5287260
+==================================================
+
+==================================================
+Name: World Note
+Release Date: Oct 30, 2026
+Price: $34.99
+Genres: Design & Illustration, Utilities
+Link: https://store.steampowered.com/app/5147030
+==================================================
+
+==================================================
+Name: Thou Shalt Be Rich
+Release Date: Oct 30, 2026
+Price: $3.99
+Genres: Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4451190
+==================================================
+
+==================================================
+Name: Bearing 2889
+Release Date: Oct 30, 2026
+Price: $5.09 (-15%, was $5.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/5097500
+==================================================
+
