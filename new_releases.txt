@@ -106884,3 +106884,222 @@ Genres: Casual, Strategy
 Link: https://store.steampowered.com/app/5008810
 ==================================================
 
+
+--- Run: 2026-10-31 07:39:16 --- (27 new game(s) found)
+
+==================================================
+Name: MINESWEEPER ARCADE
+Release Date: Oct 31, 2026
+Price: $2.24 (-20%, was $2.80)
+Genres: Casual, Strategy
+Link: https://store.steampowered.com/app/5431750
+==================================================
+
+==================================================
+Name: MiniRacingOnline
+Release Date: October 2026
+Price: Free to Play
+Genres: Indie, Racing, Sports, Free To Play
+Link: https://store.steampowered.com/app/5288230
+==================================================
+
+==================================================
+Name: WithoutEyes Chapter1
+Release Date: Oct 31, 2026
+Price: Free to Play
+Genres: Adventure, Indie, RPG, Free To Play
+Link: https://store.steampowered.com/app/4374510
+==================================================
+
+==================================================
+Name: Reactance
+Release Date: Oct 30, 2026
+Price: Free to Play
+Genres: Action, Indie, Free To Play
+Link: https://store.steampowered.com/app/5357500
+==================================================
+
+==================================================
+Name: JOYSTICK JAMMERS: One Prawn
+Release Date: Oct 30, 2026
+Price: Free to Play
+Genres: Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/5196280
+==================================================
+
+==================================================
+Name: Everdeep Idle
+Release Date: Oct 30, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4980350
+==================================================
+
+==================================================
+Name: The Pasture
+Release Date: Oct 30, 2026
+Price: Free to Play
+Genres: Adventure, Indie, Free To Play
+Link: https://store.steampowered.com/app/5351540
+==================================================
+
+==================================================
+Name: DarkBlood -ReVerse-
+Release Date: Oct 30, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: RPG
+Link: https://store.steampowered.com/app/3052820
+==================================================
+
+==================================================
+Name: Hospital Rhapsody
+Release Date: Oct 30, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: Casual, Indie, RPG, Simulation
+Link: https://store.steampowered.com/app/5129280
+==================================================
+
+==================================================
+Name: 忌質物管理局　第七保管室
+Release Date: Oct 30, 2026
+Price: $3.39 (-10%, was $3.77)
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/5404630
+==================================================
+
+==================================================
+Name: 黄莓C HuangmeiC
+Release Date: Oct 30, 2026
+Price: $8.09 (-10%, was $8.99)
+Genres: Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/3919400
+==================================================
+
+==================================================
+Name: Triad of Victory
+Release Date: Oct 30, 2026
+Price: $1.79 (-40%, was $2.99)
+Genres: Adventure, Casual, Strategy
+Link: https://store.steampowered.com/app/4603280
+==================================================
+
+==================================================
+Name: Spinstack
+Release Date: Oct 30, 2026
+Price: $2.99
+Genres: Casual, Strategy
+Link: https://store.steampowered.com/app/5202640
+==================================================
+
+==================================================
+Name: Brand of Betrayal
+Release Date: Oct 30, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: RPG
+Link: https://store.steampowered.com/app/4690880
+==================================================
+
+==================================================
+Name: SO-3: Caso 044
+Release Date: Oct 30, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/5420850
+==================================================
+
+==================================================
+Name: Orbital Peril
+Release Date: Oct 30, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4408520
+==================================================
+
+==================================================
+Name: The Dark Forest Calls
+Release Date: Oct 30, 2026
+Price: $9.74 (-25%, was $12.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/4088940
+==================================================
+
+==================================================
+Name: NAME ME IF YOU CAN
+Release Date: Oct 30, 2026
+Price: $4.49 (-25%, was $5.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/5396420
+==================================================
+
+==================================================
+Name: Vagina Sancta
+Release Date: Oct 30, 2026
+Price: $2.28 (-31%, was $3.31)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5335830
+==================================================
+
+==================================================
+Name: Apothecary Grounds
+Release Date: Oct 30, 2026
+Price: Free to Play
+Genres: Adventure, Indie, Free To Play
+Link: https://store.steampowered.com/app/4394570
+==================================================
+
+==================================================
+Name: Tronix Carnival Games
+Release Date: Oct 30, 2026
+Price: $10.49 (-30%, was $14.99)
+Genres: Indie
+Link: https://store.steampowered.com/app/3854560
+==================================================
+
+==================================================
+Name: Prey Island
+Release Date: Oct 30, 2026
+Price: $3.39 (-15%, was $3.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/5297390
+==================================================
+
+==================================================
+Name: REDSHIFT
+Release Date: Oct 30, 2026
+Price: Free to Play
+Genres: Indie, Free To Play
+Link: https://store.steampowered.com/app/3851950
+==================================================
+
+==================================================
+Name: Logical Cat Logistics
+Release Date: Oct 30, 2026
+Price: $2.39 (-20%, was $2.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/5154220
+==================================================
+
+==================================================
+Name: Stinky Tofu: Kitchen Survivor
+Release Date: Oct 30, 2026
+Price: $3.39 (-15%, was $3.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/5198650
+==================================================
+
+==================================================
+Name: Wall Brawl
+Release Date: Oct 30, 2026
+Price: $4.19 (-40%, was $6.99)
+Genres: Action, Strategy
+Link: https://store.steampowered.com/app/3778650
+==================================================
+
+==================================================
+Name: 1000 MONTHS
+Release Date: Oct 30, 2026
+Price: $3.39 (-15%, was $3.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5413300
+==================================================
+
