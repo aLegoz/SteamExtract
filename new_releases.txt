@@ -107694,3 +107694,158 @@ Genres: Action, Indie
 Link: https://store.steampowered.com/app/4937410
 ==================================================
 
+
+--- Run: 2026-11-01 13:57:52 --- (19 new game(s) found)
+
+==================================================
+Name: HALFTIME Manager
+Release Date: Nov 1, 2026
+Price: $19.99
+Genres: Indie, Simulation, Sports
+Link: https://store.steampowered.com/app/5005920
+==================================================
+
+==================================================
+Name: 基因織女 Gene Weaver
+Release Date: Nov 1, 2026
+Price: Free to Play
+Genres: Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/5367090
+==================================================
+
+==================================================
+Name: Undertaker
+Release Date: Nov 1, 2026
+Price: $5.39 (-40%, was $8.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/3808500
+==================================================
+
+==================================================
+Name: Anubis Temple: La Perla de Egipto
+Release Date: Nov 1, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/5370520
+==================================================
+
+==================================================
+Name: TDM : Task Drill Maniac
+Release Date: Nov 1, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4980490
+==================================================
+
+==================================================
+Name: City Contractor
+Release Date: Nov 1, 2026
+Price: $12.59 (-10%, was $13.99)
+Genres: Simulation, Strategy
+Link: https://store.steampowered.com/app/5236180
+==================================================
+
+==================================================
+Name: 離島旅程
+Release Date: Nov 1, 2026
+Price: $3.99
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5427930
+==================================================
+
+==================================================
+Name: Duck Casino: Gambling Simulator
+Release Date: Nov 1, 2026
+Price: $3.59 (-10%, was $3.99)
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/824530
+==================================================
+
+==================================================
+Name: Northgate Dispatch
+Release Date: Nov 1, 2026
+Price: $1.79 (-40%, was $2.99)
+Genres: Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/5301590
+==================================================
+
+==================================================
+Name: Myriad Auction
+Release Date: Nov 1, 2026
+Price: $6.39 (-20%, was $7.99)
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/5282040
+==================================================
+
+==================================================
+Name: BANDA SHAFT DUEL
+Release Date: Nov 1, 2026
+Price: $3.99
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/5406040
+==================================================
+
+==================================================
+Name: SkullWar:ProvingGrounds
+Release Date: Nov 1, 2026
+Price: $3.74 (-25%, was $4.99)
+Genres: Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/4829760
+==================================================
+
+==================================================
+Name: N in One: Puzzle Minigame Collection
+Release Date: Nov 1, 2026
+Price: $6.39 (-20%, was $7.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/5420170
+==================================================
+
+==================================================
+Name: Slime Splitter
+Release Date: Oct 31, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/5409790
+==================================================
+
+==================================================
+Name: Fish with Friends
+Release Date: Oct 31, 2026
+Price: $6.79 (-15%, was $7.99)
+Genres: Adventure, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5398190
+==================================================
+
+==================================================
+Name: Find The Gold
+Release Date: Oct 31, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/5417030
+==================================================
+
+==================================================
+Name: Dice in Wonderland
+Release Date: Oct 31, 2026
+Price: $12.99
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4875500
+==================================================
+
+==================================================
+Name: Infinite Einstein Tiles3
+Release Date: Oct 31, 2026
+Price: $5.99 (-40%, was $9.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4553450
+==================================================
+
+==================================================
+Name: Infinite Einstein Tiles Together
+Release Date: Oct 31, 2026
+Price: $5.99 (-40%, was $9.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4812400
+==================================================
+
