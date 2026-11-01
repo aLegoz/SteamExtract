@@ -107587,3 +107587,110 @@ Genres: Casual, Indie, Simulation
 Link: https://store.steampowered.com/app/5246020
 ==================================================
 
+
+--- Run: 2026-11-01 06:57:30 --- (13 new game(s) found)
+
+==================================================
+Name: Tower Hero Survival
+Release Date: Oct 31, 2026
+Price: $2.99 (-25%, was $3.99)
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/5380410
+==================================================
+
+==================================================
+Name: Beastforger Autobattle
+Release Date: Oct 31, 2026
+Price: $2.00 (-33%, was $2.99)
+Genres: Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/5320830
+==================================================
+
+==================================================
+Name: Half Faith Tower
+Release Date: Oct 31, 2026
+Price: $5.39 (-10%, was $5.99)
+Genres: Adventure, Casual, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/4066570
+==================================================
+
+==================================================
+Name: Vesper Vector
+Release Date: Oct 31, 2026
+Price: $7.19 (-20%, was $8.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/5362630
+==================================================
+
+==================================================
+Name: Cradle of Ash
+Release Date: Oct 31, 2026
+Price: $9.99
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/5230310
+==================================================
+
+==================================================
+Name: Magic Tower
+Release Date: Oct 31, 2026
+Price: $8.49 (-15%, was $9.99)
+Genres: Adventure, RPG
+Link: https://store.steampowered.com/app/5403010
+==================================================
+
+==================================================
+Name: ORUNKA
+Release Date: Oct 31, 2026
+Price: Free to Play
+Genres: Adventure, Indie, RPG, Free To Play
+Link: https://store.steampowered.com/app/5412430
+==================================================
+
+==================================================
+Name: A Rover's Journey
+Release Date: Oct 31, 2026
+Price: Free to Play
+Genres: Adventure, Free To Play
+Link: https://store.steampowered.com/app/5188570
+==================================================
+
+==================================================
+Name: 白线
+Release Date: Oct 31, 2026
+Price: $7.10 (-21%, was $8.99)
+Genres: Casual, Indie, RPG, Simulation
+Link: https://store.steampowered.com/app/3814510
+==================================================
+
+==================================================
+Name: Special Delivery
+Release Date: Oct 31, 2026
+Price: $1.59 (-20%, was $1.99)
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/5091700
+==================================================
+
+==================================================
+Name: Mystic 6
+Release Date: Oct 31, 2026
+Price: $8.99 (-40%, was $14.99)
+Genres: Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/3412590
+==================================================
+
+==================================================
+Name: Asteroid Destroyer
+Release Date: Oct 31, 2026
+Price: $2.99
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4209050
+==================================================
+
+==================================================
+Name: UKNON Jones - Fighters
+Release Date: Oct 31, 2026
+Price: $6.99
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4937410
+==================================================
+
