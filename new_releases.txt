@@ -107536,3 +107536,54 @@ Genres: Adventure, Indie
 Link: https://store.steampowered.com/app/4545030
 ==================================================
 
+
+--- Run: 2026-11-01 00:41:37 --- (6 new game(s) found)
+
+==================================================
+Name: Domain-Controller
+Release Date: Oct 31, 2026
+Price: $3.99
+Genres: Action, Adventure, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5437880
+==================================================
+
+==================================================
+Name: SICRUN
+Release Date: Oct 31, 2026
+Price: $2.24 (-25%, was $2.99)
+Genres: Action, Adventure, Casual
+Link: https://store.steampowered.com/app/4512150
+==================================================
+
+==================================================
+Name: StackLoad
+Release Date: Oct 31, 2026
+Price: $4.99
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4804010
+==================================================
+
+==================================================
+Name: Lacey's Flash Games
+Release Date: Oct 31, 2026
+Price: $21.24 (-15%, was $24.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/3459340
+==================================================
+
+==================================================
+Name: Case Analyst
+Release Date: Oct 31, 2026
+Price: $8.49 (-15%, was $9.99)
+Genres: Adventure
+Link: https://store.steampowered.com/app/4819580
+==================================================
+
+==================================================
+Name: Sex Shop Chaos
+Release Date: Oct 31, 2026
+Price: $3.39 (-15%, was $3.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5246020
+==================================================
+
