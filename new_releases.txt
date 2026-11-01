@@ -107849,3 +107849,206 @@ Genres: Casual, Indie
 Link: https://store.steampowered.com/app/4812400
 ==================================================
 
+
+--- Run: 2026-11-01 18:42:37 --- (25 new game(s) found)
+
+==================================================
+Name: Exitus
+Release Date: Nov 1, 2026
+Price: $5.39 (-10%, was $5.99)
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/2754480
+==================================================
+
+==================================================
+Name: FRAGLINE: Esports Manager
+Release Date: Nov 1, 2026
+Price: $19.99
+Genres: Simulation, Sports, Strategy
+Link: https://store.steampowered.com/app/4923480
+==================================================
+
+==================================================
+Name: Bull Run
+Release Date: Nov 1, 2026
+Price: $9.99
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4567920
+==================================================
+
+==================================================
+Name: John Whisk
+Release Date: Nov 1, 2026
+Price: $3.19 (-20%, was $3.99)
+Genres: Action, Adventure, Casual, Indie, RPG, Simulation
+Link: https://store.steampowered.com/app/5172270
+==================================================
+
+==================================================
+Name: Loadout Rush
+Release Date: Nov 1, 2026
+Price: $2.69 (-10%, was $2.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/5021730
+==================================================
+
+==================================================
+Name: Idle Survivor
+Release Date: Nov 1, 2026
+Price: $2.99 (-40%, was $4.99)
+Genres: Action, Casual, Indie, RPG
+Link: https://store.steampowered.com/app/5014710
+==================================================
+
+==================================================
+Name: I'M DEFINITELY IN A BASEMENT
+Release Date: Nov 1, 2026
+Price: $5.94 (-15%, was $6.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/5349660
+==================================================
+
+==================================================
+Name: Sea Train
+Release Date: Nov 1, 2026
+Price: $5.94 (-15%, was $6.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5448060
+==================================================
+
+==================================================
+Name: Magic Fruit World
+Release Date: Nov 1, 2026
+Price: Free to Play
+Genres: Action, Adventure, Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/4217360
+==================================================
+
+==================================================
+Name: Desert Springs
+Release Date: Nov 1, 2026
+Price: $5.99 (-40%, was $9.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/5370330
+==================================================
+
+==================================================
+Name: Hotpot Party
+Release Date: Nov 1, 2026
+Price: $7.99
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5228470
+==================================================
+
+==================================================
+Name: Gimbap Heaven
+Release Date: Nov 1, 2026
+Price: $8.49 (-15%, was $9.99)
+Genres: Casual, Simulation, Strategy
+Link: https://store.steampowered.com/app/4501140
+==================================================
+
+==================================================
+Name: DARK PGT 2: The Red Death
+Release Date: Nov 1, 2026
+Price: $4.79 (-40%, was $7.99)
+Genres: Action, Adventure, Indie, RPG, Simulation
+Link: https://store.steampowered.com/app/4844820
+==================================================
+
+==================================================
+Name: Guess What's Behind!
+Release Date: Nov 1, 2026
+Price: $4.99
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5199400
+==================================================
+
+==================================================
+Name: Punch Rock
+Release Date: Nov 1, 2026
+Price: $2.54 (-15%, was $2.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5071270
+==================================================
+
+==================================================
+Name: Three Married Ladies Only Obey Me
+Release Date: Nov 1, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: RPG
+Link: https://store.steampowered.com/app/5087300
+==================================================
+
+==================================================
+Name: Pickup Point Simulator
+Release Date: Nov 1, 2026
+Price: $4.99
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4907570
+==================================================
+
+==================================================
+Name: Only Love Opening Chests
+Release Date: Nov 1, 2026
+Price: $2.54 (-15%, was $2.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4914980
+==================================================
+
+==================================================
+Name: Investors Paradise
+Release Date: Nov 1, 2026
+Price: $11.24 (-25%, was $14.99)
+Genres: Casual, Simulation, Strategy
+Link: https://store.steampowered.com/app/5201830
+==================================================
+
+==================================================
+Name: Obrum
+Release Date: Nov 1, 2026
+Price: $3.74 (-25%, was $4.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4009170
+==================================================
+
+==================================================
+Name: Moving Company Simulator
+Release Date: Nov 1, 2026
+Price: $4.19 (-40%, was $6.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5050520
+==================================================
+
+==================================================
+Name: Corner TCG
+Release Date: Nov 1, 2026
+Price: $2.09 (-30%, was $2.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5180260
+==================================================
+
+==================================================
+Name: Phantom Grind
+Release Date: Nov 1, 2026
+Price: $0.84 (-15%, was $0.99)
+Genres: Action, Adventure
+Link: https://store.steampowered.com/app/4799130
+==================================================
+
+==================================================
+Name: Soviet Backrooms
+Release Date: Nov 1, 2026
+Price: $0.84 (-15%, was $0.99)
+Genres: Action
+Link: https://store.steampowered.com/app/4703560
+==================================================
+
+==================================================
+Name: All-In Immortal
+Release Date: Nov 1, 2026
+Price: $4.99
+Genres: Indie, RPG, Simulation, Strategy
+Link: https://store.steampowered.com/app/4985500
+==================================================
+
