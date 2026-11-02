@@ -108119,3 +108119,30 @@ Genres: Casual, Indie, Simulation
 Link: https://store.steampowered.com/app/5306640
 ==================================================
 
+
+--- Run: 2026-11-02 01:56:45 --- (3 new game(s) found)
+
+==================================================
+Name: Studs Up!
+Release Date: Nov 1, 2026
+Price: $4.79 (-20%, was $5.99)
+Genres: Casual, Indie, Simulation, Sports
+Link: https://store.steampowered.com/app/4923370
+==================================================
+
+==================================================
+Name: Lucky Debt
+Release Date: Nov 1, 2026
+Price: $5.84 (-10%, was $6.49)
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/5181410
+==================================================
+
+==================================================
+Name: Hypernova
+Release Date: Nov 1, 2026
+Price: $14.99
+Genres: Action
+Link: https://store.steampowered.com/app/4388710
+==================================================
+
