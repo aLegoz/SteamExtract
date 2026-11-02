@@ -108146,3 +108146,230 @@ Genres: Action
 Link: https://store.steampowered.com/app/4388710
 ==================================================
 
+
+--- Run: 2026-11-02 08:40:48 --- (28 new game(s) found)
+
+==================================================
+Name: Worth the Cost
+Release Date: Nov 2, 2026
+Price: $9.99
+Genres: Adventure, Casual, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/5265660
+==================================================
+
+==================================================
+Name: Caravan Carnage: Fruity Road
+Release Date: Nov 2, 2026
+Price: $6.99
+Genres: Action, Indie, Strategy
+Link: https://store.steampowered.com/app/3330940
+==================================================
+
+==================================================
+Name: Nyangdom : Dark Cat Defense
+Release Date: Nov 2, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Action, Indie, Strategy
+Link: https://store.steampowered.com/app/5403210
+==================================================
+
+==================================================
+Name: Incremental Traffic
+Release Date: Nov 1, 2026
+Price: $6.99 (-30%, was $9.99)
+Genres: Casual, Simulation
+Link: https://store.steampowered.com/app/5475960
+==================================================
+
+==================================================
+Name: Damage Numbers Go Brr!
+Release Date: Nov 1, 2026
+Price: $2.99
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5130990
+==================================================
+
+==================================================
+Name: Strait Defense
+Release Date: Nov 1, 2026
+Price: $2.99
+Genres: Strategy
+Link: https://store.steampowered.com/app/5451670
+==================================================
+
+==================================================
+Name: Lockdown Dom
+Release Date: Nov 1, 2026
+Price: Free to Play
+Genres: Casual, Indie, Simulation, Free To Play
+Link: https://store.steampowered.com/app/3800240
+==================================================
+
+==================================================
+Name: Corner Pocket: World Billiards
+Release Date: Nov 1, 2026
+Price: Free to Play
+Genres: Casual, Indie, Simulation, Sports, Free To Play
+Link: https://store.steampowered.com/app/5341010
+==================================================
+
+==================================================
+Name: Hostile Takeover, Inc.
+Release Date: Nov 1, 2026
+Price: $3.74 (-25%, was $4.99)
+Genres: Action, Strategy
+Link: https://store.steampowered.com/app/4769670
+==================================================
+
+==================================================
+Name: Fission Mirror Grid
+Release Date: Nov 1, 2026
+Price: Free to Play
+Genres: Indie, RPG, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4776360
+==================================================
+
+==================================================
+Name: Learn To Rock - Học Cách Chơi Nhạc Rock
+Release Date: Nov 1, 2026
+Price: $1.99
+Genres: Action, Adventure, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5305650
+==================================================
+
+==================================================
+Name: Message From Aliens
+Release Date: Nov 1, 2026
+Price: $9.99
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/1858720
+==================================================
+
+==================================================
+Name: A SHEEP GAME
+Release Date: Nov 1, 2026
+Price: Free to Play
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/5391790
+==================================================
+
+==================================================
+Name: Homeward on the Wind
+Release Date: Nov 1, 2026
+Price: Free to Play
+Genres: Casual, RPG, Simulation, Strategy, Free To Play
+Link: https://store.steampowered.com/app/5213710
+==================================================
+
+==================================================
+Name: Bravemech: The Century War
+Release Date: Nov 1, 2026
+Price: $24.99
+Genres: Action, Adventure, Casual, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/4863090
+==================================================
+
+==================================================
+Name: SCROLLS: Tidy up the Library of Olympus!
+Release Date: Nov 1, 2026
+Price: $4.79 (-20%, was $5.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5329940
+==================================================
+
+==================================================
+Name: Adventurer's Life
+Release Date: Nov 1, 2026
+Price: $8.99
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/4691490
+==================================================
+
+==================================================
+Name: DARK PRAY
+Release Date: Nov 1, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Adventure, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/3422710
+==================================================
+
+==================================================
+Name: Manual Teller Machine
+Release Date: Nov 1, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4451770
+==================================================
+
+==================================================
+Name: Vampire Suplex
+Release Date: Nov 1, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/5270120
+==================================================
+
+==================================================
+Name: HexScrawl
+Release Date: Nov 1, 2026
+Price: $8.00
+Genres: Design & Illustration
+Link: https://store.steampowered.com/app/5388040
+==================================================
+
+==================================================
+Name: The Restoration Studio: Masterpiece Nonograms
+Release Date: Nov 1, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5354800
+==================================================
+
+==================================================
+Name: Nightwire
+Release Date: Nov 1, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/5039650
+==================================================
+
+==================================================
+Name: WW.Heaven
+Release Date: Nov 1, 2026
+Price: $0.84 (-15%, was $0.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/5378430
+==================================================
+
+==================================================
+Name: Touhou Smash
+Release Date: Nov 1, 2026
+Price: $3.19 (-20%, was $3.99)
+Genres: Action
+Link: https://store.steampowered.com/app/4971300
+==================================================
+
+==================================================
+Name: Outer Flame
+Release Date: Nov 1, 2026
+Price: $6.99 (-30%, was $9.99)
+Genres: RPG
+Link: https://store.steampowered.com/app/4596310
+==================================================
+
+==================================================
+Name: Compacted
+Release Date: Nov 1, 2026
+Price: $6.39 (-20%, was $7.99)
+Genres: Action, Casual, Indie, RPG, Simulation, Strategy
+Link: https://store.steampowered.com/app/4453280
+==================================================
+
+==================================================
+Name: SYSADMIN Hell
+Release Date: Nov 1, 2026
+Price: $10.19 (-15%, was $11.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4369080
+==================================================
+
