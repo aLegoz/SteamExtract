@@ -108608,3 +108608,246 @@ Genres: Adventure
 Link: https://store.steampowered.com/app/4961110
 ==================================================
 
+
+--- Run: 2026-11-03 01:24:36 --- (30 new game(s) found)
+
+==================================================
+Name: Wanxiang Corridor: Elements
+Release Date: Nov 2, 2026
+Price: Free to Play
+Genres: Action, Adventure, Casual, Indie, Strategy, Free To Play
+Link: https://store.steampowered.com/app/5074450
+==================================================
+
+==================================================
+Name: Otherworld Shards
+Release Date: Nov 2, 2026
+Price: $9.99
+Genres: Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/4821570
+==================================================
+
+==================================================
+Name: Heaven Miner
+Release Date: Nov 2, 2026
+Price: $5.94 (-15%, was $6.99)
+Genres: Casual, Simulation
+Link: https://store.steampowered.com/app/4655130
+==================================================
+
+==================================================
+Name: Clearance Defence
+Release Date: Nov 2, 2026
+Price: $8.09 (-10%, was $8.99)
+Genres: Casual, Strategy
+Link: https://store.steampowered.com/app/4387610
+==================================================
+
+==================================================
+Name: Siren's Call: Second Wind
+Release Date: Nov 2, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4310350
+==================================================
+
+==================================================
+Name: Castellan
+Release Date: Nov 2, 2026
+Price: $2.79 (-20%, was $3.49)
+Genres: Action, Indie, Strategy
+Link: https://store.steampowered.com/app/5005480
+==================================================
+
+==================================================
+Name: marblebuilds
+Release Date: Nov 2, 2026
+Price: $7.49 (-25%, was $9.99)
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4285270
+==================================================
+
+==================================================
+Name: 六艺中文填字
+Release Date: Nov 2, 2026
+Price: $3.59 (-10%, was $3.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4719710
+==================================================
+
+==================================================
+Name: Abandon All Hope
+Release Date: Nov 2, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: Action, Adventure, RPG
+Link: https://store.steampowered.com/app/5091010
+==================================================
+
+==================================================
+Name: Cabin in Time
+Release Date: Nov 2, 2026
+Price: $2.00 (-33%, was $2.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4964260
+==================================================
+
+==================================================
+Name: Order, My Lord! Tidy Up the Dungeon
+Release Date: Nov 2, 2026
+Price: $5.39 (-10%, was $5.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5437500
+==================================================
+
+==================================================
+Name: Frankie Freako
+Release Date: Nov 2, 2026
+Price: $6.99
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/3383900
+==================================================
+
+==================================================
+Name: Void Havoc
+Release Date: Nov 2, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Action, Strategy
+Link: https://store.steampowered.com/app/4134760
+==================================================
+
+==================================================
+Name: Plunder & Booty
+Release Date: Nov 2, 2026
+Price: $11.99
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/5414350
+==================================================
+
+==================================================
+Name: Marketfield Idle
+Release Date: Nov 2, 2026
+Price: $4.80 (-20%, was $6.00)
+Genres: Adventure, Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4805930
+==================================================
+
+==================================================
+Name: VOID PROFIT
+Release Date: Nov 2, 2026
+Price: $8.49 (-15%, was $9.99)
+Genres: Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4687990
+==================================================
+
+==================================================
+Name: MAKAI CITY CHI-BA
+Release Date: Nov 2, 2026
+Price: $3.99
+Genres: Indie, RPG
+Link: https://store.steampowered.com/app/5410560
+==================================================
+
+==================================================
+Name: Primal Heir: The Mortal Realm
+Release Date: Nov 2, 2026
+Price: $4.99
+Genres: Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/5194540
+==================================================
+
+==================================================
+Name: Keepers of the Farkle
+Release Date: Nov 2, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Action, Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/5221880
+==================================================
+
+==================================================
+Name: I Trust You Buddy
+Release Date: Nov 2, 2026
+Price: $1.27 (-20%, was $1.59)
+Genres: Action, Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4314390
+==================================================
+
+==================================================
+Name: BOOST VECTOR EX
+Release Date: Nov 2, 2026
+Price: $17.99 (-10%, was $19.99)
+Genres: Action, Indie, Racing, Sports
+Link: https://store.steampowered.com/app/3832030
+==================================================
+
+==================================================
+Name: Hallow
+Release Date: Nov 2, 2026
+Price: Free to Play
+Genres: Action, Casual, Free To Play
+Link: https://store.steampowered.com/app/4946250
+==================================================
+
+==================================================
+Name: Fishcremental
+Release Date: Nov 2, 2026
+Price: $4.54 (-35%, was $6.99)
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/5170650
+==================================================
+
+==================================================
+Name: Storage Anomaly
+Release Date: Nov 2, 2026
+Price: $2.99
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/3206660
+==================================================
+
+==================================================
+Name: Beltrunner
+Release Date: Nov 2, 2026
+Price: $3.19 (-20%, was $3.99)
+Genres: Action
+Link: https://store.steampowered.com/app/5164850
+==================================================
+
+==================================================
+Name: Castlepult
+Release Date: Nov 2, 2026
+Price: $2.99
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/2824980
+==================================================
+
+==================================================
+Name: Make the World Great Again
+Release Date: Nov 2, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: Indie
+Link: https://store.steampowered.com/app/4595460
+==================================================
+
+==================================================
+Name: I Feel Great
+Release Date: Nov 2, 2026
+Price: $0.84 (-15%, was $0.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/5216700
+==================================================
+
+==================================================
+Name: The Plunge Of Sludge
+Release Date: Nov 2, 2026
+Price: $6.99
+Genres: Indie
+Link: https://store.steampowered.com/app/4397050
+==================================================
+
+==================================================
+Name: IRON SOL
+Release Date: Nov 2, 2026
+Price: $4.99
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/5271880
+==================================================
+
