@@ -109281,3 +109281,222 @@ Genres: Indie, Simulation, Strategy
 Link: https://store.steampowered.com/app/5122860
 ==================================================
 
+
+--- Run: 2026-11-03 22:07:25 --- (27 new game(s) found)
+
+==================================================
+Name: Distant Trails
+Release Date: Nov 3, 2026
+Price: $13.49 (-10%, was $14.99)
+Genres: Adventure, Simulation, Sports
+Link: https://store.steampowered.com/app/3194960
+==================================================
+
+==================================================
+Name: Astra Bestiary
+Release Date: Nov 3, 2026
+Price: $16.99 (-15%, was $19.99)
+Genres: Adventure, RPG, Simulation
+Link: https://store.steampowered.com/app/3529090
+==================================================
+
+==================================================
+Name: HELLO HACKER - Project Daybreak
+Release Date: Nov 3, 2026
+Price: $10.79 (-10%, was $11.99)
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/4380090
+==================================================
+
+==================================================
+Name: Empty House
+Release Date: Nov 3, 2026
+Price: $6.39 (-20%, was $7.99)
+Genres: Action, Adventure, Indie, Massively Multiplayer, Strategy
+Link: https://store.steampowered.com/app/5029430
+==================================================
+
+==================================================
+Name: BugPot
+Release Date: Nov 3, 2026
+Price: $3.07 (-23%, was $3.99)
+Genres: Action, Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/5243610
+==================================================
+
+==================================================
+Name: LASKA: Column checkers
+Release Date: Nov 3, 2026
+Price: $9.99
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/5430760
+==================================================
+
+==================================================
+Name: Beach Volleyball VR
+Release Date: Nov 3, 2026
+Price: $13.49 (-10%, was $14.99)
+Genres: Sports
+Link: https://store.steampowered.com/app/5415860
+==================================================
+
+==================================================
+Name: Blocade
+Release Date: Nov 3, 2026
+Price: Free to Play
+Genres: Indie, Strategy, Free To Play
+Link: https://store.steampowered.com/app/5442520
+==================================================
+
+==================================================
+Name: Doodle Duel
+Release Date: Nov 3, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Indie, RPG
+Link: https://store.steampowered.com/app/5361480
+==================================================
+
+==================================================
+Name: Purrfect Bliss
+Release Date: Nov 3, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Adventure, Simulation
+Link: https://store.steampowered.com/app/4688870
+==================================================
+
+==================================================
+Name: Be a Pirate! 
+Release Date: Nov 3, 2026
+Price: $11.04 (-15%, was $12.99)
+Genres: Strategy
+Link: https://store.steampowered.com/app/5176710
+==================================================
+
+==================================================
+Name: Tumble Tavern
+Release Date: Nov 3, 2026
+Price: $5.39 (-10%, was $5.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/5163190
+==================================================
+
+==================================================
+Name: The Wake Event
+Release Date: Nov 3, 2026
+Price: $6.79 (-15%, was $7.99)
+Genres: Indie
+Link: https://store.steampowered.com/app/4757720
+==================================================
+
+==================================================
+Name: Aetheris Core
+Release Date: Nov 3, 2026
+Price: $8.49 (-15%, was $9.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4608850
+==================================================
+
+==================================================
+Name: Mandala: Type To Defend
+Release Date: Nov 3, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4281480
+==================================================
+
+==================================================
+Name: Dungeon Rampage Remastered
+Release Date: Nov 3, 2026
+Price: $9.74 (-35%, was $14.99)
+Genres: Action, Casual, Indie, RPG
+Link: https://store.steampowered.com/app/3053950
+==================================================
+
+==================================================
+Name: Turbo Turkey: Feathered Frenzy!
+Release Date: Nov 3, 2026
+Price: $2.99 (-40%, was $4.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/4635950
+==================================================
+
+==================================================
+Name: Clanker Calamity
+Release Date: Nov 3, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Casual, Indie, Racing, Strategy
+Link: https://store.steampowered.com/app/877900
+==================================================
+
+==================================================
+Name: Hearsay
+Release Date: Nov 3, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/5274720
+==================================================
+
+==================================================
+Name: Maze 1211
+Release Date: Nov 3, 2026
+Price: $3.19 (-20%, was $3.99)
+Genres: Simulation
+Link: https://store.steampowered.com/app/5423570
+==================================================
+
+==================================================
+Name: Ironfields
+Release Date: Nov 3, 2026
+Price: $7.19 (-10%, was $7.99)
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/4700280
+==================================================
+
+==================================================
+Name: Kick
+Release Date: Nov 3, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Adventure, Indie, Sports
+Link: https://store.steampowered.com/app/3760370
+==================================================
+
+==================================================
+Name: Scam Line
+Release Date: Nov 3, 2026
+Price: $5.59 (-20%, was $6.99)
+Genres: Indie
+Link: https://store.steampowered.com/app/2794590
+==================================================
+
+==================================================
+Name: Fame & Fear: Dungeon Architect
+Release Date: Nov 3, 2026
+Price: $7.49 (-25%, was $9.99)
+Genres: Adventure, Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4935730
+==================================================
+
+==================================================
+Name: CATENA - Chapter I
+Release Date: Nov 3, 2026
+Price: Free to Play
+Genres: Action, Adventure, Free To Play
+Link: https://store.steampowered.com/app/5002430
+==================================================
+
+==================================================
+Name: Hexzen
+Release Date: Nov 3, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4886450
+==================================================
+
+==================================================
+Name: Traffic Architect
+Release Date: Nov 3, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Simulation, Strategy
+Link: https://store.steampowered.com/app/5028050
+==================================================
+
