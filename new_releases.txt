@@ -109046,3 +109046,238 @@ Genres: Casual, Indie
 Link: https://store.steampowered.com/app/3275650
 ==================================================
 
+
+--- Run: 2026-11-03 16:41:51 --- (29 new game(s) found)
+
+==================================================
+Name: Heart Harvest: A Detective Game
+Release Date: Nov 3, 2026
+Price: $9.59 (-20%, was $11.99)
+Genres: Adventure, Casual, Indie, RPG
+Link: https://store.steampowered.com/app/5100510
+==================================================
+
+==================================================
+Name: Beatlash: Survival
+Release Date: Nov 3, 2026
+Price: $4.49 (-25%, was $5.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4996850
+==================================================
+
+==================================================
+Name: Boku Boku
+Release Date: Nov 3, 2026
+Price: $11.69 (-10%, was $12.99)
+Genres: Casual, Indie, RPG
+Link: https://store.steampowered.com/app/4031280
+==================================================
+
+==================================================
+Name: STUFFED: Two Foot Hero
+Release Date: Nov 3, 2026
+Price: $9.74 (-35%, was $14.99)
+Genres: Action, Indie, Strategy
+Link: https://store.steampowered.com/app/4982380
+==================================================
+
+==================================================
+Name: Mycelarium
+Release Date: Nov 3, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Simulation, Strategy
+Link: https://store.steampowered.com/app/5181520
+==================================================
+
+==================================================
+Name: Space Lot
+Release Date: Nov 3, 2026
+Price: $3.39 (-15%, was $3.99)
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4919680
+==================================================
+
+==================================================
+Name: Corpus et Spiritus
+Release Date: Nov 3, 2026
+Price: $9.36 (-25%, was $12.49)
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/4225280
+==================================================
+
+==================================================
+Name: VampOS: Red Ledger
+Release Date: Nov 3, 2026
+Price: Free to Play
+Genres: Simulation, Strategy, Free To Play
+Link: https://store.steampowered.com/app/5073660
+==================================================
+
+==================================================
+Name: Harvestide
+Release Date: Nov 3, 2026
+Price: $4.19 (-30%, was $5.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4673980
+==================================================
+
+==================================================
+Name: How Empires Work
+Release Date: Nov 3, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4663730
+==================================================
+
+==================================================
+Name: Oddlay
+Release Date: Nov 3, 2026
+Price: $1.99
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5357830
+==================================================
+
+==================================================
+Name: Horiforge
+Release Date: Nov 3, 2026
+Price: $2.99
+Genres: Adventure, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5259260
+==================================================
+
+==================================================
+Name: Spell Code SlingerZ
+Release Date: Nov 3, 2026
+Price: $6.79 (-15%, was $7.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4500000
+==================================================
+
+==================================================
+Name: Silica
+Release Date: Nov 3, 2026
+Price: $24.99
+Genres: Action, Indie, Strategy
+Link: https://store.steampowered.com/app/1494420
+==================================================
+
+==================================================
+Name: Backdraft
+Release Date: Nov 3, 2026
+Price: $19.99
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/2218060
+==================================================
+
+==================================================
+Name: Moon-Oriented Autonomous Biological Model
+Release Date: Nov 3, 2026
+Price: $1.69 (-15%, was $1.99)
+Genres: Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/2780850
+==================================================
+
+==================================================
+Name: Desire Empire
+Release Date: Nov 3, 2026
+Price: Free to Play
+Genres: Casual, Free To Play
+Link: https://store.steampowered.com/app/3676990
+==================================================
+
+==================================================
+Name: Pillars of Pantheon
+Release Date: Nov 3, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: Action, Indie, RPG, Simulation, Strategy
+Link: https://store.steampowered.com/app/4349540
+==================================================
+
+==================================================
+Name: Tinker to the Moon
+Release Date: Nov 3, 2026
+Price: $2.99 (-40%, was $4.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5401770
+==================================================
+
+==================================================
+Name: Potato Please
+Release Date: Nov 3, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5266240
+==================================================
+
+==================================================
+Name: Baiacool - Tides of Olympus
+Release Date: Nov 3, 2026
+Price: $8.49 (-15%, was $9.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/3797250
+==================================================
+
+==================================================
+Name: Project Afterfall
+Release Date: Nov 3, 2026
+Price: $15.99 (-20%, was $19.99)
+Genres: RPG, Simulation, Strategy
+Link: https://store.steampowered.com/app/3360890
+==================================================
+
+==================================================
+Name: Agile Team
+Release Date: Nov 3, 2026
+Price: $9.74 (-25%, was $12.99)
+Genres: Casual, Simulation, Strategy
+Link: https://store.steampowered.com/app/4459220
+==================================================
+
+==================================================
+Name: Hex Seculum
+Release Date: Nov 3, 2026
+Price: Free to Play
+Genres: Adventure, RPG, Free To Play
+Link: https://store.steampowered.com/app/4431860
+==================================================
+
+==================================================
+Name: HOLD MY WHEEL
+Release Date: Nov 3, 2026
+Price: $5.59 (-30%, was $7.99)
+Genres: Action, Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4410360
+==================================================
+
+==================================================
+Name: Factory Works Idle
+Release Date: Nov 3, 2026
+Price: $3.39 (-15%, was $3.99)
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/3950000
+==================================================
+
+==================================================
+Name: Debounce: Double Click & Key Chatter Fix
+Release Date: Nov 3, 2026
+Price: $2.09 (-30%, was $2.99)
+Genres: Utilities
+Link: https://store.steampowered.com/app/5400350
+==================================================
+
+==================================================
+Name: PIT OF GOBLIN
+Release Date: Nov 3, 2026
+Price: $4.19 (-30%, was $5.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/3253530
+==================================================
+
+==================================================
+Name: Broken Rift: Dominion
+Release Date: Nov 3, 2026
+Price: $25.49 (-15%, was $29.99)
+Genres: Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/5122860
+==================================================
+
