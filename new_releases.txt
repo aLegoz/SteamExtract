@@ -109583,3 +109583,246 @@ Genres: Indie
 Link: https://store.steampowered.com/app/5056410
 ==================================================
 
+
+--- Run: 2026-11-04 18:18:54 --- (30 new game(s) found)
+
+==================================================
+Name: Marble Stars
+Release Date: Nov 4, 2026
+Price: $4.89 (-30%, was $6.99)
+Genres: Action, Casual, Indie, Racing
+Link: https://store.steampowered.com/app/5139380
+==================================================
+
+==================================================
+Name:  Lost Liminal
+Release Date: Nov 4, 2026
+Price: $7.19 (-28%, was $9.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/3491960
+==================================================
+
+==================================================
+Name: Wickwood
+Release Date: Nov 4, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/5234980
+==================================================
+
+==================================================
+Name: Diskette Dungeon
+Release Date: Nov 4, 2026
+Price: $8.49 (-15%, was $9.99)
+Genres: Action, Casual, Indie, RPG
+Link: https://store.steampowered.com/app/4280450
+==================================================
+
+==================================================
+Name: Shorted
+Release Date: Nov 4, 2026
+Price: $5.94 (-15%, was $6.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4916010
+==================================================
+
+==================================================
+Name: Prigod Idle
+Release Date: Nov 4, 2026
+Price: $6.39 (-20%, was $7.99)
+Genres: Casual, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/5091900
+==================================================
+
+==================================================
+Name: King's Heart
+Release Date: Nov 4, 2026
+Price: $7.19 (-10%, was $7.99)
+Genres: Action, Casual, Indie, RPG
+Link: https://store.steampowered.com/app/2995290
+==================================================
+
+==================================================
+Name: rest: in a dark room
+Release Date: Nov 4, 2026
+Price: $4.99
+Genres: Indie
+Link: https://store.steampowered.com/app/3889990
+==================================================
+
+==================================================
+Name: Lust Tap
+Release Date: Nov 4, 2026
+Price: $4.55 (-20%, was $5.69)
+Genres: Casual
+Link: https://store.steampowered.com/app/4932300
+==================================================
+
+==================================================
+Name: Desktop Slime Graveyard: Tap Reaper
+Release Date: Nov 4, 2026
+Price: $1.59 (-20%, was $1.99)
+Genres: Casual, RPG
+Link: https://store.steampowered.com/app/5024920
+==================================================
+
+==================================================
+Name: Old Man's Sushi
+Release Date: Nov 4, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5117340
+==================================================
+
+==================================================
+Name: Slumber Realm
+Release Date: Nov 4, 2026
+Price: $10.79 (-10%, was $11.99)
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/3325390
+==================================================
+
+==================================================
+Name: Relic Recoil
+Release Date: Nov 4, 2026
+Price: $7.19 (-10%, was $7.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/5306690
+==================================================
+
+==================================================
+Name: Stellar Nursery
+Release Date: Nov 4, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5046850
+==================================================
+
+==================================================
+Name: Snow Resort Simulator
+Release Date: Nov 4, 2026
+Price: $17.99
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/3299080
+==================================================
+
+==================================================
+Name: Hyperline
+Release Date: Nov 4, 2026
+Price: $5.59 (-20%, was $6.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4636920
+==================================================
+
+==================================================
+Name: The Canon Keeper
+Release Date: Nov 4, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Simulation
+Link: https://store.steampowered.com/app/4965650
+==================================================
+
+==================================================
+Name: Warlapse
+Release Date: Nov 4, 2026
+Price: $8.49 (-15%, was $9.99)
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/4920680
+==================================================
+
+==================================================
+Name: Hammer these nails!
+Release Date: Nov 4, 2026
+Price: $3.59 (-10%, was $3.99)
+Genres: Casual, Simulation
+Link: https://store.steampowered.com/app/5229450
+==================================================
+
+==================================================
+Name: Untold Cases - Stillwater Lake
+Release Date: Nov 4, 2026
+Price: $3.99
+Genres: Adventure, Casual
+Link: https://store.steampowered.com/app/4180550
+==================================================
+
+==================================================
+Name: VOID/BREAKER
+Release Date: Aug 19, 2025
+Price: $17.99 (-40%, was $29.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/2615540
+==================================================
+
+==================================================
+Name: Domino VR
+Release Date: Aug 3, 2016
+Price: $7.99
+Genres: Indie, Simulation, Early Access
+Link: https://store.steampowered.com/app/508680
+==================================================
+
+==================================================
+Name: Sushiamo
+Release Date: Nov 4, 2026
+Price: $11.99 (-20%, was $14.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4555040
+==================================================
+
+==================================================
+Name: Pogo Together
+Release Date: Nov 4, 2026
+Price: $2.99 (-25%, was $3.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4088720
+==================================================
+
+==================================================
+Name: Rind Town
+Release Date: Nov 4, 2026
+Price: $3.74 (-25%, was $4.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5106940
+==================================================
+
+==================================================
+Name: Lightyear Frontier
+Release Date: Mar 19, 2024
+Price: $23.99 (-20%, was $29.99)
+Genres: Unknown
+Link: https://store.steampowered.com/app/1677110
+==================================================
+
+==================================================
+Name: Missi
+Release Date: Nov 4, 2026
+Price: $4.79 (-20%, was $5.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/3161960
+==================================================
+
+==================================================
+Name: Laser Lightshow
+Release Date: Nov 4, 2026
+Price: $10.39 (-20%, was $12.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/2056530
+==================================================
+
+==================================================
+Name: Worship
+Release Date: Nov 4, 2026
+Price: $14.99 (-25%, was $19.99)
+Genres: Action, Adventure, Indie, Strategy
+Link: https://store.steampowered.com/app/1548180
+==================================================
+
+==================================================
+Name: The Maze: In Dark
+Release Date: Nov 4, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/2847290
+==================================================
+
