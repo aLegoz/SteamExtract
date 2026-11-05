@@ -110283,3 +110283,198 @@ Genres: Action, Adventure, Indie, Simulation
 Link: https://store.steampowered.com/app/2784180
 ==================================================
 
+
+--- Run: 2026-11-05 20:52:59 --- (24 new game(s) found)
+
+==================================================
+Name: Fight For Resurrection - Challenge LITE
+Release Date: Nov 5, 2026
+Price: $5.39 (-10%, was $5.99)
+Genres: Action, Indie, Sports
+Link: https://store.steampowered.com/app/5201620
+==================================================
+
+==================================================
+Name: Binary Proof
+Release Date: Nov 5, 2026
+Price: Free to Play
+Genres: Action, Adventure, Indie, Free To Play
+Link: https://store.steampowered.com/app/4637710
+==================================================
+
+==================================================
+Name: ZONE L.O.S.T.
+Release Date: Nov 5, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/4420660
+==================================================
+
+==================================================
+Name: TURF FIGHT
+Release Date: Nov 5, 2026
+Price: $13.49 (-10%, was $14.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/5235010
+==================================================
+
+==================================================
+Name: RUNTIME
+Release Date: Nov 5, 2026
+Price: $6.79 (-15%, was $7.99)
+Genres: Action, Indie, Racing, Strategy
+Link: https://store.steampowered.com/app/4455590
+==================================================
+
+==================================================
+Name: Prehistoric Pit
+Release Date: Nov 5, 2026
+Price: $7.64 (-15%, was $8.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4540660
+==================================================
+
+==================================================
+Name: Card Slay
+Release Date: Nov 5, 2026
+Price: $12.74 (-15%, was $14.99)
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/5035250
+==================================================
+
+==================================================
+Name: Futbolero: Football Career Simulator
+Release Date: Nov 5, 2026
+Price: $7.49
+Genres: Casual, Indie, Simulation, Sports
+Link: https://store.steampowered.com/app/5346640
+==================================================
+
+==================================================
+Name: BIGGER BANG
+Release Date: Nov 5, 2026
+Price: $3.39 (-15%, was $3.99)
+Genres: Action, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5359600
+==================================================
+
+==================================================
+Name: Tabletop TD
+Release Date: Nov 5, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/5154200
+==================================================
+
+==================================================
+Name: Cat Caffeine
+Release Date: Nov 5, 2026
+Price: $4.79 (-20%, was $5.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4681680
+==================================================
+
+==================================================
+Name: Dungeon Miner
+Release Date: Nov 5, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/5088660
+==================================================
+
+==================================================
+Name: Legends of Rock
+Release Date: Nov 5, 2026
+Price: $10.79 (-10%, was $11.99)
+Genres: Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/4227560
+==================================================
+
+==================================================
+Name: Cabinet Fever
+Release Date: Nov 5, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/5423620
+==================================================
+
+==================================================
+Name: PROPERTY INSPECTION
+Release Date: Nov 5, 2026
+Price: Free to Play
+Genres: Adventure, Casual, Indie, Simulation, Free To Play
+Link: https://store.steampowered.com/app/5128170
+==================================================
+
+==================================================
+Name: Gun a Rat
+Release Date: Nov 5, 2026
+Price: $5.09 (-15%, was $5.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4163660
+==================================================
+
+==================================================
+Name: Cube Sweeper: 3D Minesweeper
+Release Date: Nov 5, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4944880
+==================================================
+
+==================================================
+Name: Wing Commander™: Privateer
+Release Date: Nov 5, 2026
+Price: $2.49 (-50%, was $4.99)
+Genres: RPG, Simulation
+Link: https://store.steampowered.com/app/2008760
+==================================================
+
+==================================================
+Name: Runika: A World of Little Legends
+Release Date: Nov 5, 2026
+Price: $11.69 (-10%, was $12.99)
+Genres: Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/1476680
+==================================================
+
+==================================================
+Name: Wing Commander™ Prophecy: 30th Anniversary Edition
+Release Date: Nov 5, 2026
+Price: $4.99 (-50%, was $9.99)
+Genres: Action, Simulation
+Link: https://store.steampowered.com/app/3067120
+==================================================
+
+==================================================
+Name: Tidy Up the Library of Alexandria
+Release Date: Nov 5, 2026
+Price: $5.09 (-15%, was $5.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5075360
+==================================================
+
+==================================================
+Name: Wing Commander™ IV: The Price of Freedom: 30th Anniversary Edition
+Release Date: Nov 5, 2026
+Price: $4.99 (-50%, was $9.99)
+Genres: Action, Simulation
+Link: https://store.steampowered.com/app/2008750
+==================================================
+
+==================================================
+Name: Wing Commander™ III: Heart of the Tiger: 30th Anniversary Edition
+Release Date: Nov 5, 2026
+Price: $4.99 (-50%, was $9.99)
+Genres: Action, Simulation
+Link: https://store.steampowered.com/app/2008740
+==================================================
+
+==================================================
+Name: Wing Commander™: 35th Anniversary Edition
+Release Date: Nov 5, 2026
+Price: $4.99 (-50%, was $9.99)
+Genres: Action, Simulation
+Link: https://store.steampowered.com/app/1996640
+==================================================
+
