@@ -109973,3 +109973,94 @@ Genres: Indie, Strategy
 Link: https://store.steampowered.com/app/5047110
 ==================================================
 
+
+--- Run: 2026-11-05 05:30:46 --- (11 new game(s) found)
+
+==================================================
+Name: Localhost Hero
+Release Date: Nov 4, 2026
+Price: $6.64 (-20%, was $8.30)
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/5441360
+==================================================
+
+==================================================
+Name: Neuroflip
+Release Date: Nov 4, 2026
+Price: $4.49 (-25%, was $5.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/5372430
+==================================================
+
+==================================================
+Name: Scared Crow
+Release Date: Nov 4, 2026
+Price: $8.09 (-10%, was $8.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4135930
+==================================================
+
+==================================================
+Name: Pawn'd Chess
+Release Date: Nov 4, 2026
+Price: $4.80 (-20%, was $6.00)
+Genres: Casual, Indie, Sports, Strategy
+Link: https://store.steampowered.com/app/5102640
+==================================================
+
+==================================================
+Name: Sweet Corn Desktop Pet
+Release Date: Nov 4, 2026
+Price: Free to Play
+Genres: Casual, Indie, Massively Multiplayer, RPG, Simulation, Free To Play
+Link: https://store.steampowered.com/app/4914750
+==================================================
+
+==================================================
+Name: Cozy~Fishing Kitten
+Release Date: Nov 4, 2026
+Price: $6.29 (-10%, was $6.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4188260
+==================================================
+
+==================================================
+Name: Celeste Blue Wizard Luna
+Release Date: Nov 4, 2026
+Price: $11.99 (-20%, was $14.99)
+Genres: Adventure, Casual, Indie, RPG
+Link: https://store.steampowered.com/app/3779560
+==================================================
+
+==================================================
+Name: Pathos
+Release Date: Nov 4, 2026
+Price: $19.99
+Genres: Adventure, RPG
+Link: https://store.steampowered.com/app/5062560
+==================================================
+
+==================================================
+Name: Cozy Game Restoration
+Release Date: Nov 4, 2026
+Price: $14.99
+Genres: Casual, Simulation
+Link: https://store.steampowered.com/app/3581230
+==================================================
+
+==================================================
+Name: FarmLife
+Release Date: Nov 4, 2026
+Price: $9.59 (-20%, was $11.99)
+Genres: Casual, Indie, RPG, Simulation
+Link: https://store.steampowered.com/app/5279240
+==================================================
+
+==================================================
+Name: Bit Footballer: The Career
+Release Date: Nov 4, 2026
+Price: $24.99
+Genres: Sports
+Link: https://store.steampowered.com/app/5008320
+==================================================
+
