@@ -109826,3 +109826,150 @@ Genres: Action, Adventure, Indie
 Link: https://store.steampowered.com/app/2847290
 ==================================================
 
+
+--- Run: 2026-11-05 00:00:39 --- (18 new game(s) found)
+
+==================================================
+Name: Vilnius Museum of Antiquities: A Temple of the Past
+Release Date: Nov 4, 2026
+Price: Free to Play
+Genres: Adventure, Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/4938300
+==================================================
+
+==================================================
+Name: Hounded Reborn Greyhound Racing
+Release Date: Nov 4, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Indie, Racing, Simulation, Sports, Strategy
+Link: https://store.steampowered.com/app/5433310
+==================================================
+
+==================================================
+Name: Kill King 2D
+Release Date: Nov 4, 2026
+Price: $5.39 (-10%, was $5.99)
+Genres: Action, Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/2265280
+==================================================
+
+==================================================
+Name: Rockhound Hollow
+Release Date: Nov 4, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: Adventure, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5460640
+==================================================
+
+==================================================
+Name: Next of Kin: Epiphany
+Release Date: Nov 4, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4347370
+==================================================
+
+==================================================
+Name: Cats Here
+Release Date: Nov 4, 2026
+Price: $1.19 (-40%, was $1.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5371500
+==================================================
+
+==================================================
+Name: Dread Rune
+Release Date: Nov 4, 2026
+Price: $2.99 (-40%, was $4.99)
+Genres: Action, Adventure, RPG
+Link: https://store.steampowered.com/app/4962500
+==================================================
+
+==================================================
+Name: A Personal Winter
+Release Date: Nov 4, 2026
+Price: $3.99
+Genres: Indie
+Link: https://store.steampowered.com/app/5366060
+==================================================
+
+==================================================
+Name: What'Sub
+Release Date: Nov 4, 2026
+Price: $6.79 (-15%, was $7.99)
+Genres: Action, Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/4269100
+==================================================
+
+==================================================
+Name: Just Keep Defending And Mining
+Release Date: Nov 4, 2026
+Price: $3.19 (-20%, was $3.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4677370
+==================================================
+
+==================================================
+Name: Playrooms
+Release Date: Nov 4, 2026
+Price: $5.59 (-20%, was $6.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5037510
+==================================================
+
+==================================================
+Name: A Game About Picking Fruits
+Release Date: Nov 4, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5243280
+==================================================
+
+==================================================
+Name: Axomorph Idle
+Release Date: Nov 4, 2026
+Price: Free to Play
+Genres: Casual, Indie, Simulation, Free To Play
+Link: https://store.steampowered.com/app/4513920
+==================================================
+
+==================================================
+Name: Trolley Dilemma
+Release Date: Nov 4, 2026
+Price: $2.79 (-20%, was $3.49)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4832510
+==================================================
+
+==================================================
+Name: Endless Void: Idle Tower Defence
+Release Date: Nov 4, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Action, Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4710800
+==================================================
+
+==================================================
+Name: Noodle Cable
+Release Date: Nov 4, 2026
+Price: $6.99
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4646650
+==================================================
+
+==================================================
+Name: Just Dying
+Release Date: Nov 4, 2026
+Price: $7.64 (-15%, was $8.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4646190
+==================================================
+
+==================================================
+Name: Wardspire
+Release Date: Nov 4, 2026
+Price: $9.99
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/5047110
+==================================================
+
