@@ -111087,3 +111087,238 @@ Genres: Casual, Indie, Strategy
 Link: https://store.steampowered.com/app/4698390
 ==================================================
 
+
+--- Run: 2026-11-06 21:50:46 --- (29 new game(s) found)
+
+==================================================
+Name: Sunborn
+Release Date: Q4 2026
+Price: $5.94 (-15%, was $6.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4248190
+==================================================
+
+==================================================
+Name: Dinosaur Shakespeare 3: They Are On The Moon Now And It Escalated Quickly - Bloodcore Edition
+Release Date: Nov 6, 2026
+Price: $4.99
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/3827390
+==================================================
+
+==================================================
+Name: Timepaths
+Release Date: Nov 6, 2026
+Price: $9.99
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/2278060
+==================================================
+
+==================================================
+Name: HOMEPAGE
+Release Date: Nov 6, 2026
+Price: $7.19 (-10%, was $7.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/3529660
+==================================================
+
+==================================================
+Name: VRX3D
+Release Date: Nov 6, 2026
+Price: $1.99
+Genres: Utilities
+Link: https://store.steampowered.com/app/5458290
+==================================================
+
+==================================================
+Name: Vast Mines
+Release Date: Nov 6, 2026
+Price: $3.35 (-40%, was $5.59)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5379080
+==================================================
+
+==================================================
+Name: Compromised
+Release Date: Nov 6, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/3914830
+==================================================
+
+==================================================
+Name: Glyphforge
+Release Date: Nov 6, 2026
+Price: Free to Play
+Genres: Action, Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/4967370
+==================================================
+
+==================================================
+Name: Hush Hush: Bootleg Spirits
+Release Date: Nov 6, 2026
+Price: $11.04 (-15%, was $12.99)
+Genres: Casual, Simulation
+Link: https://store.steampowered.com/app/4591470
+==================================================
+
+==================================================
+Name: Just a Piece
+Release Date: Nov 6, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5342700
+==================================================
+
+==================================================
+Name: Astrokicker
+Release Date: Nov 6, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/1517770
+==================================================
+
+==================================================
+Name: Decks of Valor: Fantasy Card Battles
+Release Date: Nov 6, 2026
+Price: $4.99
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/5467310
+==================================================
+
+==================================================
+Name: Grave Of Voices
+Release Date: Nov 6, 2026
+Price: $2.99 (-40%, was $4.99)
+Genres: Action, Adventure
+Link: https://store.steampowered.com/app/3977320
+==================================================
+
+==================================================
+Name: Fast Lap Racing
+Release Date: Nov 6, 2026
+Price: $13.49 (-10%, was $14.99)
+Genres: Indie, Racing, Simulation
+Link: https://store.steampowered.com/app/3293060
+==================================================
+
+==================================================
+Name: FIRST LINE
+Release Date: Nov 6, 2026
+Price: $4.79 (-20%, was $5.99)
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/5001990
+==================================================
+
+==================================================
+Name: Silk Collector: Tidy Up the Clothing Store!
+Release Date: Nov 6, 2026
+Price: $4.49 (-25%, was $5.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5285160
+==================================================
+
+==================================================
+Name: Dark And Me
+Release Date: Nov 6, 2026
+Price: $3.49 (-30%, was $4.99)
+Genres: Adventure
+Link: https://store.steampowered.com/app/5466870
+==================================================
+
+==================================================
+Name: Crystalyn
+Release Date: Nov 6, 2026
+Price: $5.59 (-30%, was $7.99)
+Genres: Action, Indie, RPG
+Link: https://store.steampowered.com/app/4754460
+==================================================
+
+==================================================
+Name: IdleOS
+Release Date: Nov 6, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/3884530
+==================================================
+
+==================================================
+Name: Number Machine: Math Factory
+Release Date: Nov 6, 2026
+Price: $13.49 (-10%, was $14.99)
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/2231090
+==================================================
+
+==================================================
+Name: Sumo Dynasty
+Release Date: Nov 6, 2026
+Price: $15.99 (-20%, was $19.99)
+Genres: Simulation, Sports, Strategy
+Link: https://store.steampowered.com/app/5380380
+==================================================
+
+==================================================
+Name: Echoes of Calir
+Release Date: Nov 6, 2026
+Price: Free to Play
+Genres: Indie, Strategy, Free To Play
+Link: https://store.steampowered.com/app/5371290
+==================================================
+
+==================================================
+Name: Trap Testers
+Release Date: Nov 6, 2026
+Price: $4.95 (-38%, was $7.99)
+Genres: Action
+Link: https://store.steampowered.com/app/5131730
+==================================================
+
+==================================================
+Name: Zero To South
+Release Date: Nov 6, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: Action, Adventure, Casual, Indie, Racing, Simulation
+Link: https://store.steampowered.com/app/4229040
+==================================================
+
+==================================================
+Name: Grimoire of Blanks
+Release Date: Nov 6, 2026
+Price: $11.04 (-15%, was $12.99)
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/4945980
+==================================================
+
+==================================================
+Name: Punch The Walls
+Release Date: Nov 6, 2026
+Price: $2.39 (-20%, was $2.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5455340
+==================================================
+
+==================================================
+Name: Cobble Climber
+Release Date: Nov 6, 2026
+Price: $3.19 (-20%, was $3.99)
+Genres: Action, Simulation
+Link: https://store.steampowered.com/app/5026390
+==================================================
+
+==================================================
+Name: Saloon Simulator
+Release Date: Nov 6, 2026
+Price: $11.39 (-40%, was $18.99)
+Genres: Simulation
+Link: https://store.steampowered.com/app/1876930
+==================================================
+
+==================================================
+Name: I SUCK DICKS AND HATE AI
+Release Date: Nov 6, 2026
+Price: $2.69 (-10%, was $2.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5382240
+==================================================
+
