@@ -110844,3 +110844,246 @@ Genres: Adventure, RPG, Strategy, Free To Play
 Link: https://store.steampowered.com/app/5312540
 ==================================================
 
+
+--- Run: 2026-11-06 16:25:26 --- (30 new game(s) found)
+
+==================================================
+Name: Brain Bomb - Prologue
+Release Date: Nov 6, 2026
+Price: Free to Play
+Genres: Indie, Simulation, Free To Play
+Link: https://store.steampowered.com/app/5318970
+==================================================
+
+==================================================
+Name: Match 3 Kingdoms
+Release Date: Nov 6, 2026
+Price: $0.99
+Genres: Casual, Strategy
+Link: https://store.steampowered.com/app/5275080
+==================================================
+
+==================================================
+Name: Hextracer
+Release Date: Nov 6, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4956770
+==================================================
+
+==================================================
+Name: Toy Battles
+Release Date: Nov 6, 2026
+Price: $5.39 (-10%, was $5.99)
+Genres: Casual, Strategy
+Link: https://store.steampowered.com/app/5130900
+==================================================
+
+==================================================
+Name: Player 2 is a Femboy
+Release Date: Nov 6, 2026
+Price: $1.59 (-20%, was $1.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4943670
+==================================================
+
+==================================================
+Name: Sexpatch: Horny Capes
+Release Date: Nov 6, 2026
+Price: $10.19 (-15%, was $11.99)
+Genres: Adventure, RPG, Simulation
+Link: https://store.steampowered.com/app/4463730
+==================================================
+
+==================================================
+Name: Fleets of Valor
+Release Date: Nov 6, 2026
+Price: $15.29 (-15%, was $17.99)
+Genres: Action, Indie, Strategy
+Link: https://store.steampowered.com/app/5222940
+==================================================
+
+==================================================
+Name: Bach For More Words
+Release Date: Nov 6, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5001690
+==================================================
+
+==================================================
+Name: Anomaly Express
+Release Date: Nov 6, 2026
+Price: $4.79 (-40%, was $7.99)
+Genres: Indie
+Link: https://store.steampowered.com/app/3846920
+==================================================
+
+==================================================
+Name: Tales of the Tanuki: Way of the Draw
+Release Date: Nov 6, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/5460270
+==================================================
+
+==================================================
+Name: Tiny Knight and the Corrupted Crystal
+Release Date: Nov 6, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Action, Adventure, Casual, Indie, RPG
+Link: https://store.steampowered.com/app/5055190
+==================================================
+
+==================================================
+Name: Gun Restoration Shop Simulator
+Release Date: Nov 6, 2026
+Price: $6.39 (-20%, was $7.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4561010
+==================================================
+
+==================================================
+Name: Pool of Radiance: Ruins of Myth Drannor
+Release Date: Nov 6, 2026
+Price: $17.99 (-10%, was $19.99)
+Genres: RPG
+Link: https://store.steampowered.com/app/4834760
+==================================================
+
+==================================================
+Name: VOID ARMOR: FORM DRIVE
+Release Date: Nov 6, 2026
+Price: $4.49 (-25%, was $5.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4735200
+==================================================
+
+==================================================
+Name: Hidden Cat Islands
+Release Date: Nov 6, 2026
+Price: $3.39 (-15%, was $3.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4891560
+==================================================
+
+==================================================
+Name: PETAFAB: Bot Invasion
+Release Date: Nov 6, 2026
+Price: $9.99
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/5354780
+==================================================
+
+==================================================
+Name: PENGUINS VS SEALS
+Release Date: Nov 6, 2026
+Price: $2.69 (-10%, was $2.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/1380560
+==================================================
+
+==================================================
+Name: Serena's Alchemy Life
+Release Date: Nov 6, 2026
+Price: $3.00 (-40%, was $5.00)
+Genres: RPG
+Link: https://store.steampowered.com/app/5483470
+==================================================
+
+==================================================
+Name: Ritual : House Sitting
+Release Date: Nov 6, 2026
+Price: $3.59 (-10%, was $3.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/5041260
+==================================================
+
+==================================================
+Name: EraStorm: SandStorm
+Release Date: Nov 6, 2026
+Price: $14.99
+Genres: Action, Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4802170
+==================================================
+
+==================================================
+Name: Penguin Fury
+Release Date: Nov 6, 2026
+Price: $4.79 (-20%, was $5.99)
+Genres: Action, Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/5042320
+==================================================
+
+==================================================
+Name: Campfire Harmony
+Release Date: Nov 6, 2026
+Price: $4.79 (-20%, was $5.99)
+Genres: Casual, Simulation
+Link: https://store.steampowered.com/app/3954800
+==================================================
+
+==================================================
+Name: Rogue Braver | 勇者ローグ
+Release Date: Nov 6, 2026
+Price: $11.19 (-20%, was $13.99)
+Genres: Indie, RPG, Simulation
+Link: https://store.steampowered.com/app/3208460
+==================================================
+
+==================================================
+Name: Marble Ranch
+Release Date: Nov 6, 2026
+Price: $2.59 (-35%, was $3.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4280650
+==================================================
+
+==================================================
+Name: RailTerrain
+Release Date: Nov 6, 2026
+Price: $17.99 (-10%, was $19.99)
+Genres: Design & Illustration, Utilities
+Link: https://store.steampowered.com/app/5445990
+==================================================
+
+==================================================
+Name: Mojo Is Loved
+Release Date: Nov 6, 2026
+Price: $2.39 (-20%, was $2.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/5386200
+==================================================
+
+==================================================
+Name: Circuits: VLSI
+Release Date: Nov 6, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/5481550
+==================================================
+
+==================================================
+Name: One Line Wonder
+Release Date: Nov 6, 2026
+Price: $3.59 (-10%, was $3.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5061070
+==================================================
+
+==================================================
+Name: 20 Floors Down
+Release Date: Nov 6, 2026
+Price: $8.49 (-15%, was $9.99)
+Genres: Action, Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/4780820
+==================================================
+
+==================================================
+Name: Feedmaster
+Release Date: Nov 6, 2026
+Price: $4.79 (-20%, was $5.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4698390
+==================================================
+
