@@ -110617,3 +110617,230 @@ Genres: Adventure, Simulation
 Link: https://store.steampowered.com/app/5260030
 ==================================================
 
+
+--- Run: 2026-11-06 08:40:34 --- (28 new game(s) found)
+
+==================================================
+Name: V:ALIGN
+Release Date: Nov 6, 2026
+Price: $1.69 (-15%, was $1.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4620110
+==================================================
+
+==================================================
+Name: My Yokai Boyfriend: I LOVE RAMEN!
+Release Date: Nov 6, 2026
+Price: $7.19 (-20%, was $8.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4635180
+==================================================
+
+==================================================
+Name: 组长！怨念请查收！
+Release Date: Nov 6, 2026
+Price: $8.09 (-10%, was $8.99)
+Genres: Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/3826290
+==================================================
+
+==================================================
+Name: Noa and the Bandits' Den
+Release Date: Nov 6, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Casual, Indie, RPG
+Link: https://store.steampowered.com/app/4337040
+==================================================
+
+==================================================
+Name: AMMO DUMP
+Release Date: Nov 6, 2026
+Price: $1.99 (-20%, was $2.49)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5487150
+==================================================
+
+==================================================
+Name: Tiny Pet Salon
+Release Date: Nov 6, 2026
+Price: $3.19 (-20%, was $3.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5490060
+==================================================
+
+==================================================
+Name: NTR life Drawing? Cash for Obedience......!
+Release Date: Nov 6, 2026
+Price: $3.59 (-10%, was $3.99)
+Genres: Casual, Simulation
+Link: https://store.steampowered.com/app/5269380
+==================================================
+
+==================================================
+Name: Waifu Factory
+Release Date: Nov 5, 2026
+Price: $6.79 (-15%, was $7.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5044030
+==================================================
+
+==================================================
+Name: CLUB BOSS '94
+Release Date: Nov 5, 2026
+Price: Free to Play
+Genres: Simulation, Sports, Free To Play
+Link: https://store.steampowered.com/app/5446230
+==================================================
+
+==================================================
+Name: 47都道府県にプロ野球チームが存在する世界線で日本一の球団をめざそう！
+Release Date: Nov 5, 2026
+Price: Free to Play
+Genres: Simulation, Sports, Free To Play
+Link: https://store.steampowered.com/app/4921720
+==================================================
+
+==================================================
+Name: Three Kingdoms: March
+Release Date: Nov 5, 2026
+Price: $15.99 (-20%, was $19.99)
+Genres: Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4876620
+==================================================
+
+==================================================
+Name: Sort Them Socks
+Release Date: Nov 5, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Casual, Simulation
+Link: https://store.steampowered.com/app/5315560
+==================================================
+
+==================================================
+Name: Hide IN SPACE
+Release Date: Nov 5, 2026
+Price: Free to Play
+Genres: Action, Indie, Massively Multiplayer, Free To Play
+Link: https://store.steampowered.com/app/5433020
+==================================================
+
+==================================================
+Name: Crimson Solstice
+Release Date: Nov 5, 2026
+Price: $12.99
+Genres: Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/4611210
+==================================================
+
+==================================================
+Name: 幻兽纪元
+Release Date: Nov 5, 2026
+Price: Free to Play
+Genres: Action, Adventure, Casual, RPG, Simulation, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4766670
+==================================================
+
+==================================================
+Name: ZED ZONE
+Release Date: Nov 5, 2026
+Price: $7.19 (-40%, was $11.99)
+Genres: Action, Indie, RPG, Simulation
+Link: https://store.steampowered.com/app/1211600
+==================================================
+
+==================================================
+Name: Anime Mosaic Puzzle
+Release Date: Nov 5, 2026
+Price: $2.54 (-15%, was $2.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4904050
+==================================================
+
+==================================================
+Name: 捕快: Constable of a Ming County
+Release Date: Nov 5, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Action, Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/5345300
+==================================================
+
+==================================================
+Name: Kaiten - Sushi Deckbuilder
+Release Date: Nov 5, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/5345290
+==================================================
+
+==================================================
+Name: Gemwise
+Release Date: Nov 5, 2026
+Price: $3.59 (-10%, was $3.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5130510
+==================================================
+
+==================================================
+Name: Webbound
+Release Date: Nov 5, 2026
+Price: Free to Play
+Genres: Casual, Indie, Simulation, Free To Play
+Link: https://store.steampowered.com/app/5300980
+==================================================
+
+==================================================
+Name: Theia: Tower Of Soul
+Release Date: Nov 5, 2026
+Price: $9.99
+Genres: Casual, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/3471360
+==================================================
+
+==================================================
+Name: Low Earth Orbit Adventures
+Release Date: Nov 5, 2026
+Price: $11.99
+Genres: Simulation
+Link: https://store.steampowered.com/app/3984420
+==================================================
+
+==================================================
+Name: Last Call: Bar Simulator
+Release Date: Nov 5, 2026
+Price: $11.99
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/5374650
+==================================================
+
+==================================================
+Name: Rise of the Inferno
+Release Date: Nov 5, 2026
+Price: $4.99
+Genres: Casual, Indie, RPG
+Link: https://store.steampowered.com/app/3557130
+==================================================
+
+==================================================
+Name: Dungeon Raiders
+Release Date: Nov 5, 2026
+Price: Free to Play
+Genres: Action, Adventure, Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/5282080
+==================================================
+
+==================================================
+Name: Killer in a Corn Maze
+Release Date: Nov 5, 2026
+Price: $1.79 (-10%, was $1.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/5376580
+==================================================
+
+==================================================
+Name: WinterClan: Hex Tactics
+Release Date: Nov 5, 2026
+Price: Free to Play
+Genres: Adventure, RPG, Strategy, Free To Play
+Link: https://store.steampowered.com/app/5312540
+==================================================
+
