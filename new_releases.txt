@@ -111632,3 +111632,110 @@ Genres: Casual, Indie, Strategy
 Link: https://store.steampowered.com/app/5461940
 ==================================================
 
+
+--- Run: 2026-11-07 14:28:01 --- (13 new game(s) found)
+
+==================================================
+Name: Plastic Soldiers: Air Support
+Release Date: Nov 7, 2026
+Price: $5.00
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/5399970
+==================================================
+
+==================================================
+Name: Reverie
+Release Date: Nov 7, 2026
+Price: $9.99
+Genres: Audio Production, Utilities, Video Production
+Link: https://store.steampowered.com/app/1103140
+==================================================
+
+==================================================
+Name: Vanakatu
+Release Date: Nov 7, 2026
+Price: Free to Play
+Genres: Action, Adventure, Indie, Free To Play
+Link: https://store.steampowered.com/app/2967590
+==================================================
+
+==================================================
+Name: Arcade Lacrosse
+Release Date: Nov 7, 2026
+Price: $2.99 (-40%, was $4.99)
+Genres: Indie, Sports
+Link: https://store.steampowered.com/app/5150150
+==================================================
+
+==================================================
+Name: A Warm Story
+Release Date: Nov 7, 2026
+Price: Free to Play
+Genres: Adventure, Indie, Free To Play
+Link: https://store.steampowered.com/app/4976270
+==================================================
+
+==================================================
+Name: Rubber Messiah: 18+ Lust Bunker Simulator
+Release Date: Nov 7, 2026
+Price: $18.74 (-25%, was $24.99)
+Genres: Action, Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/5423940
+==================================================
+
+==================================================
+Name: Punch to Defend
+Release Date: Nov 7, 2026
+Price: $2.39 (-20%, was $2.99)
+Genres: Simulation, Strategy
+Link: https://store.steampowered.com/app/5250630
+==================================================
+
+==================================================
+Name: Paranormal Events
+Release Date: Nov 7, 2026
+Price: $12.99
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/2763970
+==================================================
+
+==================================================
+Name: One Night at Kevin's VR
+Release Date: Nov 7, 2026
+Price: $2.99 (-40%, was $4.99)
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/5230360
+==================================================
+
+==================================================
+Name: Legend of Cina 2
+Release Date: Nov 7, 2026
+Price: $0.59 (-40%, was $0.99)
+Genres: Casual, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/5451370
+==================================================
+
+==================================================
+Name: Just Kill
+Release Date: Nov 6, 2026
+Price: $6.29 (-10%, was $6.99)
+Genres: Action
+Link: https://store.steampowered.com/app/5184450
+==================================================
+
+==================================================
+Name: Space Builder Idle
+Release Date: Nov 6, 2026
+Price: $2.39 (-20%, was $2.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5459680
+==================================================
+
+==================================================
+Name: Box Flow
+Release Date: Nov 6, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4909100
+==================================================
+
