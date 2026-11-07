@@ -111469,3 +111469,166 @@ Genres: Indie, Simulation
 Link: https://store.steampowered.com/app/5383740
 ==================================================
 
+
+--- Run: 2026-11-07 07:54:50 --- (20 new game(s) found)
+
+==================================================
+Name: Gods of the Grid
+Release Date: Nov 6, 2026
+Price: $5.59 (-20%, was $6.99)
+Genres: Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/4911350
+==================================================
+
+==================================================
+Name: 夜航船
+Release Date: Nov 6, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: RPG, Simulation
+Link: https://store.steampowered.com/app/4795820
+==================================================
+
+==================================================
+Name: Endless Dark
+Release Date: Nov 6, 2026
+Price: $4.99
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/4381150
+==================================================
+
+==================================================
+Name: Picrand
+Release Date: Nov 6, 2026
+Price: $6.74 (-25%, was $8.99)
+Genres: Casual, Animation & Modeling, Design & Illustration, Photo Editing, Game Development
+Link: https://store.steampowered.com/app/5013580
+==================================================
+
+==================================================
+Name: GENNADIYYY
+Release Date: Nov 6, 2026
+Price: $1.19 (-40%, was $1.99)
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/5339950
+==================================================
+
+==================================================
+Name: Depth Charge
+Release Date: Nov 6, 2026
+Price: $2.99 (-40%, was $4.99)
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/4971330
+==================================================
+
+==================================================
+Name: The Ring Of Succubus Queen
+Release Date: Nov 6, 2026
+Price: $12.59 (-10%, was $13.99)
+Genres: Action, Adventure, Casual, Indie, RPG
+Link: https://store.steampowered.com/app/3725550
+==================================================
+
+==================================================
+Name: Football Manager: Auto Chess
+Release Date: Nov 6, 2026
+Price: $4.79 (-20%, was $5.99)
+Genres: Casual, Indie, RPG, Simulation, Strategy
+Link: https://store.steampowered.com/app/3873760
+==================================================
+
+==================================================
+Name: Striving for supremacy in the Three Kingdoms
+Release Date: Nov 6, 2026
+Price: $13.49 (-10%, was $14.99)
+Genres: Strategy
+Link: https://store.steampowered.com/app/3975950
+==================================================
+
+==================================================
+Name: Monster Girl Survivor!
+Release Date: Nov 6, 2026
+Price: $6.39 (-20%, was $7.99)
+Genres: RPG, Simulation
+Link: https://store.steampowered.com/app/5055990
+==================================================
+
+==================================================
+Name: Breakneck Transmission
+Release Date: Nov 6, 2026
+Price: Free to Play
+Genres: Indie, Racing, Free To Play
+Link: https://store.steampowered.com/app/5338650
+==================================================
+
+==================================================
+Name: The Perfect Part
+Release Date: Nov 6, 2026
+Price: $3.74 (-25%, was $4.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5483650
+==================================================
+
+==================================================
+Name: Ballshit2D
+Release Date: Nov 6, 2026
+Price: $1.59 (-20%, was $1.99)
+Genres: Adventure, Casual, Indie, RPG
+Link: https://store.steampowered.com/app/5208460
+==================================================
+
+==================================================
+Name: Blobby and the Milkshake
+Release Date: Nov 6, 2026
+Price: $6.99
+Genres: Action, Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/5150470
+==================================================
+
+==================================================
+Name: Blind Route
+Release Date: Nov 6, 2026
+Price: $8.99 (-25%, was $11.99)
+Genres: Action, Adventure, Indie, Massively Multiplayer, Racing, Strategy
+Link: https://store.steampowered.com/app/5047920
+==================================================
+
+==================================================
+Name: Jewelry Keeper
+Release Date: Nov 6, 2026
+Price: $5.39 (-10%, was $5.99)
+Genres: Adventure, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5217960
+==================================================
+
+==================================================
+Name: Minefield Mayhem
+Release Date: Nov 6, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Indie
+Link: https://store.steampowered.com/app/5221200
+==================================================
+
+==================================================
+Name: Retro TV Tycoon
+Release Date: Nov 6, 2026
+Price: $9.59 (-20%, was $11.99)
+Genres: Simulation
+Link: https://store.steampowered.com/app/5114030
+==================================================
+
+==================================================
+Name: No Up
+Release Date: Nov 6, 2026
+Price: $6.99
+Genres: Adventure, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4332130
+==================================================
+
+==================================================
+Name: Black King's Defense
+Release Date: Nov 6, 2026
+Price: $5.99 (-40%, was $9.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/5461940
+==================================================
+
