@@ -111902,3 +111902,54 @@ Genres: Casual, Indie, Simulation
 Link: https://store.steampowered.com/app/5272550
 ==================================================
 
+
+--- Run: 2026-11-07 23:10:04 --- (6 new game(s) found)
+
+==================================================
+Name: Dungeon Survivor
+Release Date: Nov 7, 2026
+Price: $0.59 (-40%, was $0.99)
+Genres: Action, Indie, RPG
+Link: https://store.steampowered.com/app/5444410
+==================================================
+
+==================================================
+Name: Mosaique Neko Waifus 6
+Release Date: Nov 7, 2026
+Price: $3.74 (-25%, was $4.99)
+Genres: Casual, Indie, RPG
+Link: https://store.steampowered.com/app/4873800
+==================================================
+
+==================================================
+Name: Terralysia
+Release Date: Nov 7, 2026
+Price: $5.99 (-50%, was $11.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/2540670
+==================================================
+
+==================================================
+Name: The Beckoning
+Release Date: Nov 7, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4453700
+==================================================
+
+==================================================
+Name: Flirt Simulator
+Release Date: Nov 7, 2026
+Price: $7.19 (-20%, was $8.99)
+Genres: RPG, Simulation
+Link: https://store.steampowered.com/app/4541310
+==================================================
+
+==================================================
+Name: Noir Total : Deadly Party
+Release Date: Nov 7, 2026
+Price: $10.39 (-20%, was $12.99)
+Genres: Action
+Link: https://store.steampowered.com/app/3435580
+==================================================
+
