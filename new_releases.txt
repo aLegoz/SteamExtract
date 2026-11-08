@@ -111953,3 +111953,94 @@ Genres: Action
 Link: https://store.steampowered.com/app/3435580
 ==================================================
 
+
+--- Run: 2026-11-08 02:57:41 --- (11 new game(s) found)
+
+==================================================
+Name: Wandering Bard
+Release Date: Nov 7, 2026
+Price: $5.19 (-35%, was $7.99)
+Genres: Adventure, Casual, Indie, RPG
+Link: https://store.steampowered.com/app/5076430
+==================================================
+
+==================================================
+Name: Terrum DeepDrill
+Release Date: Nov 7, 2026
+Price: $1.00 (-30%, was $1.43)
+Genres: Simulation
+Link: https://store.steampowered.com/app/5381260
+==================================================
+
+==================================================
+Name: 3 Estrellas
+Release Date: Nov 7, 2026
+Price: $8.49 (-15%, was $9.99)
+Genres: Casual, Indie, Sports
+Link: https://store.steampowered.com/app/4982580
+==================================================
+
+==================================================
+Name: VALHALLA ARCHIVE: CCG
+Release Date: Nov 7, 2026
+Price: Free to Play
+Genres: Indie, Strategy, Free To Play
+Link: https://store.steampowered.com/app/5289190
+==================================================
+
+==================================================
+Name: The Light Switch
+Release Date: Nov 7, 2026
+Price: Free to Play
+Genres: Action, Free To Play
+Link: https://store.steampowered.com/app/3681220
+==================================================
+
+==================================================
+Name: Cloverstead
+Release Date: Nov 7, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/5472000
+==================================================
+
+==================================================
+Name: Methusalah Redemption
+Release Date: Nov 7, 2026
+Price: $3.99
+Genres: Action, Adventure
+Link: https://store.steampowered.com/app/5402520
+==================================================
+
+==================================================
+Name: Słownikowa Wyspa
+Release Date: Nov 7, 2026
+Price: $5.24
+Genres: Adventure
+Link: https://store.steampowered.com/app/5405270
+==================================================
+
+==================================================
+Name: Backrooms Found Hentai
+Release Date: Nov 7, 2026
+Price: $0.69 (-30%, was $0.99)
+Genres: Action, Adventure, Casual, Indie, RPG, Simulation
+Link: https://store.steampowered.com/app/5472270
+==================================================
+
+==================================================
+Name: Little Supermarket
+Release Date: Nov 7, 2026
+Price: $4.79 (-20%, was $5.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5308680
+==================================================
+
+==================================================
+Name: Delveport
+Release Date: Nov 7, 2026
+Price: $7.19 (-10%, was $7.99)
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/4631810
+==================================================
+
