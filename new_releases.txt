@@ -112044,3 +112044,94 @@ Genres: Indie, Strategy
 Link: https://store.steampowered.com/app/4631810
 ==================================================
 
+
+--- Run: 2026-11-08 09:46:17 --- (11 new game(s) found)
+
+==================================================
+Name: ROMUL
+Release Date: Nov 7, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Action, Adventure, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4755250
+==================================================
+
+==================================================
+Name: One-Hour Hero
+Release Date: Nov 7, 2026
+Price: $0.59 (-40%, was $0.99)
+Genres: Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/3010300
+==================================================
+
+==================================================
+Name: Little Cat Goes Fishing
+Release Date: Nov 7, 2026
+Price: $4.99
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5172830
+==================================================
+
+==================================================
+Name: ToonSouls Maker
+Release Date: Nov 7, 2026
+Price: $5.39 (-10%, was $5.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/2842720
+==================================================
+
+==================================================
+Name: On Love, On Monsters
+Release Date: Nov 7, 2026
+Price: $14.99
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4189160
+==================================================
+
+==================================================
+Name: Graduate School Simulator: Countdown to Graduation
+Release Date: Nov 7, 2026
+Price: $5.59 (-20%, was $6.99)
+Genres: Casual, Indie, RPG, Simulation, Strategy
+Link: https://store.steampowered.com/app/5201710
+==================================================
+
+==================================================
+Name: Mox Nox
+Release Date: Nov 7, 2026
+Price: $4.99
+Genres: Action
+Link: https://store.steampowered.com/app/5375770
+==================================================
+
+==================================================
+Name: ONE SKILL - Drive or Fall
+Release Date: Nov 7, 2026
+Price: $2.39 (-40%, was $3.99)
+Genres: Adventure, Racing, Simulation
+Link: https://store.steampowered.com/app/4763220
+==================================================
+
+==================================================
+Name: Horochi's Challenge
+Release Date: Nov 7, 2026
+Price: Free to Play
+Genres: Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/5490870
+==================================================
+
+==================================================
+Name: Halloween 2026
+Release Date: Nov 7, 2026
+Price: $3.99
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/5335100
+==================================================
+
+==================================================
+Name: Cozy Tent
+Release Date: Nov 7, 2026
+Price: $4.99
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5371810
+==================================================
+
