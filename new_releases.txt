@@ -112135,3 +112135,94 @@ Genres: Casual, Indie
 Link: https://store.steampowered.com/app/5371810
 ==================================================
 
+
+--- Run: 2026-11-08 16:25:33 --- (11 new game(s) found)
+
+==================================================
+Name: The Rookie Prince's Defense Trials
+Release Date: Nov 8, 2026
+Price: $3.49 (-30%, was $4.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4961250
+==================================================
+
+==================================================
+Name: ONE STEP WAR
+Release Date: Nov 8, 2026
+Price: $2.00
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/5174600
+==================================================
+
+==================================================
+Name: Vossarium
+Release Date: Nov 8, 2026
+Price: $5.85 (-10%, was $6.50)
+Genres: Action, Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/4684790
+==================================================
+
+==================================================
+Name: EVO RNG
+Release Date: Nov 8, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Casual, Simulation, Strategy
+Link: https://store.steampowered.com/app/5389650
+==================================================
+
+==================================================
+Name: One More Piece
+Release Date: Nov 8, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5403380
+==================================================
+
+==================================================
+Name: ゾンビ盛り！
+Release Date: Nov 8, 2026
+Price: $2.39 (-40%, was $3.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5465870
+==================================================
+
+==================================================
+Name: Command Base Assault
+Release Date: Nov 8, 2026
+Price: Free to Play
+Genres: Action, Strategy, Free To Play
+Link: https://store.steampowered.com/app/5455560
+==================================================
+
+==================================================
+Name: TCG Card Market Simulator
+Release Date: Nov 8, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/5312920
+==================================================
+
+==================================================
+Name: El Shaddai: Zero Nine Reversi
+Release Date: Nov 8, 2026
+Price: $3.59 (-10%, was $3.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4590950
+==================================================
+
+==================================================
+Name: Bomb Disposal
+Release Date: Nov 7, 2026
+Price: $11.89 (-30%, was $16.99)
+Genres: Simulation
+Link: https://store.steampowered.com/app/5404190
+==================================================
+
+==================================================
+Name: Corposlop
+Release Date: Nov 7, 2026
+Price: $3.39 (-15%, was $3.99)
+Genres: Casual, Simulation, Strategy
+Link: https://store.steampowered.com/app/5127280
+==================================================
+
