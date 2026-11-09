@@ -112360,3 +112360,78 @@ Genres: Indie
 Link: https://store.steampowered.com/app/4993730
 ==================================================
 
+
+--- Run: 2026-11-09 07:19:45 --- (9 new game(s) found)
+
+==================================================
+Name: 喵～该工作啦！ Nya! Back to Work
+Release Date: Nov 8, 2026
+Price: Free to Play
+Genres: Casual, Indie, Simulation, Free To Play
+Link: https://store.steampowered.com/app/5342780
+==================================================
+
+==================================================
+Name: Bullet Meltdown
+Release Date: Nov 8, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: Action, Strategy
+Link: https://store.steampowered.com/app/4184810
+==================================================
+
+==================================================
+Name: Armed Prisoner III
+Release Date: Nov 8, 2026
+Price: $1.99
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5476770
+==================================================
+
+==================================================
+Name: 喵呜风云
+Release Date: Nov 8, 2026
+Price: $2.69 (-10%, was $2.99)
+Genres: Casual, Indie, RPG
+Link: https://store.steampowered.com/app/4920280
+==================================================
+
+==================================================
+Name: Rend
+Release Date: Nov 8, 2026
+Price: $6.99
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4444310
+==================================================
+
+==================================================
+Name: Crawling Desktop Pet
+Release Date: Nov 8, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4258970
+==================================================
+
+==================================================
+Name: GymPup
+Release Date: Nov 8, 2026
+Price: $5.15 (-14%, was $5.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4774370
+==================================================
+
+==================================================
+Name: Raise
+Release Date: Nov 8, 2026
+Price: $4.79 (-40%, was $7.99)
+Genres: Action
+Link: https://store.steampowered.com/app/1859550
+==================================================
+
+==================================================
+Name: Battle Runes of Metalaria
+Release Date: Nov 8, 2026
+Price: $8.09 (-10%, was $8.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/3997770
+==================================================
+
