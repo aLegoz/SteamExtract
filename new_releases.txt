@@ -112435,3 +112435,246 @@ Genres: Action, Casual, Indie
 Link: https://store.steampowered.com/app/3997770
 ==================================================
 
+
+--- Run: 2026-11-09 17:54:45 --- (30 new game(s) found)
+
+==================================================
+Name: Frankenmine
+Release Date: Nov 9, 2026
+Price: $2.69 (-10%, was $2.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4481330
+==================================================
+
+==================================================
+Name: Corgi Race Live
+Release Date: Coming soon
+Price: Free to Play
+Genres: Casual, Indie, Racing, Simulation, Sports, Free To Play
+Link: https://store.steampowered.com/app/5352470
+==================================================
+
+==================================================
+Name: Zap Blastum
+Release Date: Nov 9, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Action, Adventure, Indie, Strategy
+Link: https://store.steampowered.com/app/696850
+==================================================
+
+==================================================
+Name: Tiny Village
+Release Date: Nov 9, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4743040
+==================================================
+
+==================================================
+Name: Shin'ai Rewritten
+Release Date: Nov 9, 2026
+Price: $5.94 (-15%, was $6.99)
+Genres: Casual, RPG, Simulation
+Link: https://store.steampowered.com/app/4837000
+==================================================
+
+==================================================
+Name: ONE FENIX DOWN
+Release Date: Nov 9, 2026
+Price: $16.99 (-15%, was $19.99)
+Genres: Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/2822740
+==================================================
+
+==================================================
+Name: Alterum
+Release Date: Nov 9, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4424420
+==================================================
+
+==================================================
+Name: Meltdown
+Release Date: Nov 9, 2026
+Price: $3.39 (-15%, was $3.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/3570680
+==================================================
+
+==================================================
+Name: Beholder: The Landlord's Handbook - Digital Comic
+Release Date: Nov 9, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Indie
+Link: https://store.steampowered.com/app/5405460
+==================================================
+
+==================================================
+Name: Go Next!
+Release Date: Nov 9, 2026
+Price: $12.74 (-15%, was $14.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/5064170
+==================================================
+
+==================================================
+Name: Another Card Game
+Release Date: Nov 9, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Casual, Indie, Massively Multiplayer
+Link: https://store.steampowered.com/app/4733570
+==================================================
+
+==================================================
+Name: SUBJECT 404
+Release Date: Nov 9, 2026
+Price: $5.09 (-15%, was $5.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4281210
+==================================================
+
+==================================================
+Name: Neo Junk City
+Release Date: Nov 9, 2026
+Price: $16.99 (-15%, was $19.99)
+Genres: Action, Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/2378230
+==================================================
+
+==================================================
+Name: Tower One
+Release Date: Nov 9, 2026
+Price: $1.99
+Genres: Strategy
+Link: https://store.steampowered.com/app/3194970
+==================================================
+
+==================================================
+Name: Dice Mate: Desktop Dice Roller
+Release Date: Nov 9, 2026
+Price: Free to Play
+Genres: Free To Play, Utilities
+Link: https://store.steampowered.com/app/5130930
+==================================================
+
+==================================================
+Name: Signs of Life
+Release Date: Nov 9, 2026
+Price: $9.74 (-35%, was $14.99)
+Genres: Action, Adventure, Casual, Indie, RPG
+Link: https://store.steampowered.com/app/263200
+==================================================
+
+==================================================
+Name: The Great Sassanelli – An Interactive Novel
+Release Date: Nov 9, 2026
+Price: $8.06 (-15%, was $9.49)
+Genres: Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/2195490
+==================================================
+
+==================================================
+Name: Tidy Up Mall
+Release Date: Nov 9, 2026
+Price: $4.52 (-20%, was $5.66)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/3393120
+==================================================
+
+==================================================
+Name: Cardaire: Eternal Aces
+Release Date: Nov 9, 2026
+Price: $11.99
+Genres: RPG
+Link: https://store.steampowered.com/app/4077320
+==================================================
+
+==================================================
+Name: Sword of the Last Second
+Release Date: Nov 9, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Action
+Link: https://store.steampowered.com/app/5238670
+==================================================
+
+==================================================
+Name: The Night We Met
+Release Date: Nov 9, 2026
+Price: $9.34 (-15%, was $10.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4341650
+==================================================
+
+==================================================
+Name: MOLY
+Release Date: Nov 9, 2026
+Price: Free to Play
+Genres: Adventure, Casual, Indie, Simulation, Free To Play
+Link: https://store.steampowered.com/app/3081070
+==================================================
+
+==================================================
+Name: 怪異ジャッジ・ナイトメア
+Release Date: Nov 9, 2026
+Price: Free to Play
+Genres: Free To Play
+Link: https://store.steampowered.com/app/5427960
+==================================================
+
+==================================================
+Name: The Staring Man | 凝視男
+Release Date: Nov 9, 2026
+Price: $3.59 (-10%, was $3.99)
+Genres: Indie
+Link: https://store.steampowered.com/app/5427570
+==================================================
+
+==================================================
+Name: REC:REWIND
+Release Date: Nov 9, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/5379260
+==================================================
+
+==================================================
+Name: Tricolo
+Release Date: Nov 9, 2026
+Price: $3.19 (-20%, was $3.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4165190
+==================================================
+
+==================================================
+Name: Shortcut Manager
+Release Date: Nov 9, 2026
+Price: $3.59 (-10%, was $3.99)
+Genres: Utilities
+Link: https://store.steampowered.com/app/5374880
+==================================================
+
+==================================================
+Name: Punch Your Way Out
+Release Date: Nov 9, 2026
+Price: $4.97 (-17%, was $5.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5451070
+==================================================
+
+==================================================
+Name: Welcome to Puppy Poker
+Release Date: Nov 9, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Casual, Strategy
+Link: https://store.steampowered.com/app/5500160
+==================================================
+
+==================================================
+Name: Avalon: Legacy Edition
+Release Date: Nov 9, 2026
+Price: $5.94 (-15%, was $6.99)
+Genres: RPG
+Link: https://store.steampowered.com/app/5238290
+==================================================
+
