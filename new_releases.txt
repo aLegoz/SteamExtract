@@ -112293,3 +112293,70 @@ Genres: RPG
 Link: https://store.steampowered.com/app/5087290
 ==================================================
 
+
+--- Run: 2026-11-09 00:12:47 --- (8 new game(s) found)
+
+==================================================
+Name: Brick Buddies
+Release Date: Nov 8, 2026
+Price: $5.39 (-10%, was $5.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4901540
+==================================================
+
+==================================================
+Name: Pin-Finite
+Release Date: Nov 8, 2026
+Price: $4.54 (-35%, was $6.99)
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/4861910
+==================================================
+
+==================================================
+Name: Kebab Dynasty
+Release Date: Nov 8, 2026
+Price: $6.49 (-35%, was $9.99)
+Genres: Simulation, Strategy
+Link: https://store.steampowered.com/app/4947250
+==================================================
+
+==================================================
+Name: DOPA-MATCH3: Cosmic Journey
+Release Date: Nov 8, 2026
+Price: $2.39 (-20%, was $2.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5206500
+==================================================
+
+==================================================
+Name: Prerolled
+Release Date: Nov 8, 2026
+Price: $11.99
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4475970
+==================================================
+
+==================================================
+Name: FLUX CIRCUIT
+Release Date: Nov 8, 2026
+Price: $1.59 (-20%, was $1.99)
+Genres: Indie, Racing
+Link: https://store.steampowered.com/app/5465850
+==================================================
+
+==================================================
+Name: Claim Me After the Hurricane
+Release Date: Nov 8, 2026
+Price: $4.19 (-40%, was $6.99)
+Genres: Adventure, Simulation
+Link: https://store.steampowered.com/app/5279740
+==================================================
+
+==================================================
+Name: Arachnid
+Release Date: Nov 8, 2026
+Price: $2.79 (-20%, was $3.49)
+Genres: Indie
+Link: https://store.steampowered.com/app/4993730
+==================================================
+
