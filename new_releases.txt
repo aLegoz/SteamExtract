@@ -113156,3 +113156,230 @@ Genres: Action
 Link: https://store.steampowered.com/app/5380650
 ==================================================
 
+
+--- Run: 2026-11-10 15:53:51 --- (28 new game(s) found)
+
+==================================================
+Name: Alpha 7: The Last Hope
+Release Date: Nov 10, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Action, Indie, Strategy
+Link: https://store.steampowered.com/app/4901500
+==================================================
+
+==================================================
+Name: Ghost Receipt - A Cyberpunk Pawnshop Simulator
+Release Date: Nov 10, 2026
+Price: $9.74 (-25%, was $12.99)
+Genres: Casual, Indie, RPG, Simulation
+Link: https://store.steampowered.com/app/4328760
+==================================================
+
+==================================================
+Name: Rally Shift
+Release Date: Nov 10, 2026
+Price: $8.49 (-15%, was $9.99)
+Genres: Action, Racing, Simulation
+Link: https://store.steampowered.com/app/4270780
+==================================================
+
+==================================================
+Name: Hillthorn
+Release Date: Nov 10, 2026
+Price: $13.49 (-10%, was $14.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/3504050
+==================================================
+
+==================================================
+Name: Wilderdark
+Release Date: Nov 10, 2026
+Price: $14.39 (-20%, was $17.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/2735850
+==================================================
+
+==================================================
+Name: We Steal From Old People: The Game
+Release Date: Nov 10, 2026
+Price: $9.95 (-17%, was $11.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/5051080
+==================================================
+
+==================================================
+Name: Ash Hills: Descent
+Release Date: Nov 10, 2026
+Price: $2.54 (-15%, was $2.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/4205650
+==================================================
+
+==================================================
+Name: Quiet Lands
+Release Date: Nov 10, 2026
+Price: $6.39 (-20%, was $7.99)
+Genres: Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/5495420
+==================================================
+
+==================================================
+Name: Breeding Pit
+Release Date: Nov 10, 2026
+Price: $12.74 (-15%, was $14.99)
+Genres: RPG, Simulation
+Link: https://store.steampowered.com/app/5441770
+==================================================
+
+==================================================
+Name: The Fixer
+Release Date: Nov 10, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Indie, Simulation, Sports, Strategy
+Link: https://store.steampowered.com/app/4976760
+==================================================
+
+==================================================
+Name: Chess Twist
+Release Date: Nov 10, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: Strategy
+Link: https://store.steampowered.com/app/2775560
+==================================================
+
+==================================================
+Name: BACKBITE
+Release Date: Nov 10, 2026
+Price: $2.99 (-40%, was $4.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/5141060
+==================================================
+
+==================================================
+Name: Primalpha
+Release Date: Nov 10, 2026
+Price: $14.99
+Genres: Action, Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/3480900
+==================================================
+
+==================================================
+Name: Ashes of the Singularity II
+Release Date: Nov 10, 2026
+Price: $31.99 (-20%, was $39.99)
+Genres: Simulation, Strategy
+Link: https://store.steampowered.com/app/3499790
+==================================================
+
+==================================================
+Name: The Adventures of Tango Rio
+Release Date: Nov 10, 2026
+Price: $11.19 (-20%, was $13.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/3321550
+==================================================
+
+==================================================
+Name: Booster Pack Heroes
+Release Date: Nov 10, 2026
+Price: $6.99 (-30%, was $9.99)
+Genres: Casual, Strategy
+Link: https://store.steampowered.com/app/4618570
+==================================================
+
+==================================================
+Name: Broken Orbits
+Release Date: Nov 10, 2026
+Price: $4.99
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/5050650
+==================================================
+
+==================================================
+Name: Lestvitsa
+Release Date: Nov 10, 2026
+Price: Free to Play
+Genres: Indie, RPG, Free To Play
+Link: https://store.steampowered.com/app/5446260
+==================================================
+
+==================================================
+Name: 打工环游记
+Release Date: Nov 10, 2026
+Price: $5.99
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5479230
+==================================================
+
+==================================================
+Name: Akuro and Bahaku VS Pollution Monsters
+Release Date: Nov 10, 2026
+Price: $11.99 (-20%, was $14.99)
+Genres: Adventure, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/4933810
+==================================================
+
+==================================================
+Name: One More Adventure
+Release Date: Nov 10, 2026
+Price: $6.00 (-20%, was $7.50)
+Genres: RPG
+Link: https://store.steampowered.com/app/4546340
+==================================================
+
+==================================================
+Name: First Attain Divinity
+Release Date: Nov 10, 2026
+Price: $8.09 (-10%, was $8.99)
+Genres: Adventure, Casual, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/4361290
+==================================================
+
+==================================================
+Name: The Little Cloud
+Release Date: Nov 10, 2026
+Price: $5.99 (-25%, was $7.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/5501550
+==================================================
+
+==================================================
+Name: Extreme Forklifting 3
+Release Date: Nov 10, 2026
+Price: $7.19 (-10%, was $7.99)
+Genres: Action, Indie, Racing, Simulation
+Link: https://store.steampowered.com/app/3172570
+==================================================
+
+==================================================
+Name: Anomalous Veil
+Release Date: Nov 10, 2026
+Price: $3.19 (-20%, was $3.99)
+Genres: Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/4794110
+==================================================
+
+==================================================
+Name: Combustor
+Release Date: Nov 10, 2026
+Price: $5.09 (-15%, was $5.99)
+Genres: Simulation
+Link: https://store.steampowered.com/app/5047230
+==================================================
+
+==================================================
+Name: Crosshair Overlay
+Release Date: Nov 10, 2026
+Price: Free to Play
+Genres: Indie, Free To Play, Utilities
+Link: https://store.steampowered.com/app/3124570
+==================================================
+
+==================================================
+Name: Muscle Quest: The Swole Ones
+Release Date: Nov 10, 2026
+Price: $9.99
+Genres: Casual, Indie, RPG
+Link: https://store.steampowered.com/app/5499630
+==================================================
+
