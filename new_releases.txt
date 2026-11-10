@@ -112913,3 +112913,246 @@ Genres: Adventure, Indie, Simulation
 Link: https://store.steampowered.com/app/5033060
 ==================================================
 
+
+--- Run: 2026-11-10 07:51:52 --- (30 new game(s) found)
+
+==================================================
+Name: Upwardly
+Release Date: Nov 9, 2026
+Price: $8.99
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/5427130
+==================================================
+
+==================================================
+Name: Geo Bobs
+Release Date: Nov 9, 2026
+Price: $4.99
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5184160
+==================================================
+
+==================================================
+Name: Mool: Chroma
+Release Date: Nov 9, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/5156510
+==================================================
+
+==================================================
+Name: Kabebutt Royale
+Release Date: Nov 9, 2026
+Price: $2.69 (-10%, was $2.99)
+Genres: Indie
+Link: https://store.steampowered.com/app/4857910
+==================================================
+
+==================================================
+Name: ZOLGE STATION: HUGA Waiwai Academy
+Release Date: Nov 9, 2026
+Price: Free to Play
+Genres: Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/5466110
+==================================================
+
+==================================================
+Name: Vinculum
+Release Date: Nov 9, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Strategy
+Link: https://store.steampowered.com/app/5065500
+==================================================
+
+==================================================
+Name: Memento Dawn
+Release Date: Nov 9, 2026
+Price: $6.79 (-15%, was $7.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/2319360
+==================================================
+
+==================================================
+Name: Santa's Workshop: Tidy Up Christmas
+Release Date: Nov 9, 2026
+Price: $5.09 (-15%, was $5.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5287500
+==================================================
+
+==================================================
+Name: Wild Crazy 8s
+Release Date: Nov 9, 2026
+Price: $8.49 (-15%, was $9.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4878180
+==================================================
+
+==================================================
+Name: Vida:Unslain
+Release Date: Nov 9, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Indie, RPG
+Link: https://store.steampowered.com/app/4575700
+==================================================
+
+==================================================
+Name: 1999TOKOYO Building
+Release Date: Nov 9, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4099810
+==================================================
+
+==================================================
+Name: Hair Removal Salon Simulator
+Release Date: Nov 9, 2026
+Price: $6.29 (-10%, was $6.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4351380
+==================================================
+
+==================================================
+Name: CLETTER Homophone Word Spelling
+Release Date: Nov 9, 2026
+Price: Free to Play
+Genres: Casual, Indie, Strategy, Free To Play
+Link: https://store.steampowered.com/app/5302590
+==================================================
+
+==================================================
+Name: Mine It All!
+Release Date: Nov 9, 2026
+Price: $3.59 (-10%, was $3.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/3941350
+==================================================
+
+==================================================
+Name: Naughty Mahjong Lessons with My Android Girlfriend
+Release Date: Nov 9, 2026
+Price: $6.39 (-20%, was $7.99)
+Genres: Adventure, Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/5417320
+==================================================
+
+==================================================
+Name: Oh Puck!
+Release Date: Nov 9, 2026
+Price: $3.99
+Genres: Action, Casual, Indie, Sports
+Link: https://store.steampowered.com/app/4146710
+==================================================
+
+==================================================
+Name: Chrono-Step
+Release Date: Nov 9, 2026
+Price: $0.99
+Genres: Action
+Link: https://store.steampowered.com/app/4871840
+==================================================
+
+==================================================
+Name: Virtual Pager by K3N
+Release Date: Nov 9, 2026
+Price: $6.99
+Genres: Utilities
+Link: https://store.steampowered.com/app/4950520
+==================================================
+
+==================================================
+Name: Hotdog Killer
+Release Date: Nov 9, 2026
+Price: $0.89 (-10%, was $0.99)
+Genres: Indie
+Link: https://store.steampowered.com/app/5157060
+==================================================
+
+==================================================
+Name: busy bee
+Release Date: Nov 9, 2026
+Price: $4.79 (-20%, was $5.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5359320
+==================================================
+
+==================================================
+Name: Crate Up
+Release Date: Nov 9, 2026
+Price: $0.99
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5500480
+==================================================
+
+==================================================
+Name: Tidy Up: A Witch’s Cottage
+Release Date: Nov 9, 2026
+Price: $2.39 (-20%, was $2.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5457550
+==================================================
+
+==================================================
+Name: Epic Wings 2
+Release Date: Nov 9, 2026
+Price: Free to Play
+Genres: Adventure, RPG, Strategy
+Link: https://store.steampowered.com/app/1545060
+==================================================
+
+==================================================
+Name: Political Life
+Release Date: Nov 9, 2026
+Price: $6.29 (-30%, was $8.99)
+Genres: Simulation
+Link: https://store.steampowered.com/app/5111700
+==================================================
+
+==================================================
+Name: The Light in the Darkness: Director's Cut
+Release Date: Nov 9, 2026
+Price: Free to Play
+Genres: Adventure, Casual, Indie, RPG, Free To Play
+Link: https://store.steampowered.com/app/5312680
+==================================================
+
+==================================================
+Name: 干支になりたい猫
+Release Date: Nov 9, 2026
+Price: Free to Play
+Genres: Indie, Free To Play
+Link: https://store.steampowered.com/app/5158710
+==================================================
+
+==================================================
+Name: TORAWASE: The Girl in the Mirror
+Release Date: Nov 9, 2026
+Price: $19.99 (-20%, was $24.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/4215660
+==================================================
+
+==================================================
+Name: a strange journey into the backrooms
+Release Date: Nov 9, 2026
+Price: $2.24 (-25%, was $2.99)
+Genres: Adventure
+Link: https://store.steampowered.com/app/5204140
+==================================================
+
+==================================================
+Name: 问道九州
+Release Date: Nov 9, 2026
+Price: $15.00
+Genres: Action, Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/5378780
+==================================================
+
+==================================================
+Name: VOXFRAG
+Release Date: Nov 9, 2026
+Price: $8.99
+Genres: Action
+Link: https://store.steampowered.com/app/5380650
+==================================================
+
