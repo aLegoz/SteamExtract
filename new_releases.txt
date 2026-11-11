@@ -113594,3 +113594,110 @@ Genres: Adventure, Indie
 Link: https://store.steampowered.com/app/4727390
 ==================================================
 
+
+--- Run: 2026-11-11 01:32:25 --- (13 new game(s) found)
+
+==================================================
+Name: Dungeon Escape 3
+Release Date: Nov 10, 2026
+Price: $7.99
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/5425210
+==================================================
+
+==================================================
+Name: Synthetic Quorum
+Release Date: Nov 10, 2026
+Price: $6.79 (-15%, was $7.99)
+Genres: Action, Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/5461870
+==================================================
+
+==================================================
+Name: Clogwork
+Release Date: Nov 10, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/3404030
+==================================================
+
+==================================================
+Name: KIT Three Kingdoms: Heroes at War
+Release Date: Nov 10, 2026
+Price: $6.29 (-10%, was $6.99)
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/4960640
+==================================================
+
+==================================================
+Name: Dungeons of Chesslore
+Release Date: Nov 10, 2026
+Price: $10.19 (-15%, was $11.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/5502740
+==================================================
+
+==================================================
+Name: Pest Termina ~ Swarm Defense
+Release Date: Nov 10, 2026
+Price: $8.09 (-10%, was $8.99)
+Genres: Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4118000
+==================================================
+
+==================================================
+Name: Ferro - 3D Audio Visualizer
+Release Date: Nov 10, 2026
+Price: $8.02 (-27%, was $10.99)
+Genres: Simulation, Audio Production, Design & Illustration, Utilities, Video Production
+Link: https://store.steampowered.com/app/5373260
+==================================================
+
+==================================================
+Name: Expiration
+Release Date: Nov 10, 2026
+Price: $5.09 (-15%, was $5.99)
+Genres: Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/5142680
+==================================================
+
+==================================================
+Name: One More Plate!
+Release Date: Nov 10, 2026
+Price: $4.94 (-34%, was $7.49)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/3305190
+==================================================
+
+==================================================
+Name: Towers of Babble
+Release Date: Nov 10, 2026
+Price: $7.19 (-20%, was $8.99)
+Genres: Strategy
+Link: https://store.steampowered.com/app/4984400
+==================================================
+
+==================================================
+Name: Deblock
+Release Date: Nov 10, 2026
+Price: $5.39 (-10%, was $5.99)
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4946550
+==================================================
+
+==================================================
+Name: Gridiron Grit
+Release Date: Nov 10, 2026
+Price: $24.99
+Genres: RPG, Simulation, Sports, Strategy
+Link: https://store.steampowered.com/app/4887480
+==================================================
+
+==================================================
+Name: FailRooms
+Release Date: Nov 10, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/5217440
+==================================================
+
