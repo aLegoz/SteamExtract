@@ -114179,3 +114179,214 @@ Genres: Casual, Strategy
 Link: https://store.steampowered.com/app/3239710
 ==================================================
 
+
+--- Run: 2026-11-11 23:11:32 --- (26 new game(s) found)
+
+==================================================
+Name: Football B-side
+Release Date: Nov 11, 2026
+Price: $2.99
+Genres: Simulation, Sports
+Link: https://store.steampowered.com/app/5461500
+==================================================
+
+==================================================
+Name: Beaver Creek
+Release Date: Nov 11, 2026
+Price: $5.39 (-10%, was $5.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/3759000
+==================================================
+
+==================================================
+Name: GLYPHTRIP
+Release Date: Nov 11, 2026
+Price: $7.19 (-10%, was $7.99)
+Genres: Action
+Link: https://store.steampowered.com/app/5305400
+==================================================
+
+==================================================
+Name: Teddy Store: Tidy Up
+Release Date: Nov 11, 2026
+Price: $5.39 (-10%, was $5.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5191040
+==================================================
+
+==================================================
+Name: Match In Peace
+Release Date: Nov 11, 2026
+Price: $7.49 (-25%, was $9.99)
+Genres: Action, Casual, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/3159350
+==================================================
+
+==================================================
+Name: Monkey Overdrive
+Release Date: Nov 11, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/5304170
+==================================================
+
+==================================================
+Name: FIRE CHESS
+Release Date: Nov 11, 2026
+Price: Free to Play
+Genres: Indie, Strategy, Free To Play
+Link: https://store.steampowered.com/app/5476640
+==================================================
+
+==================================================
+Name: Forged: Reconquest
+Release Date: Nov 11, 2026
+Price: $5.94 (-15%, was $6.99)
+Genres: Action, Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/3509080
+==================================================
+
+==================================================
+Name: Watch Eye
+Release Date: Nov 11, 2026
+Price: $9.99
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4289830
+==================================================
+
+==================================================
+Name: Revenge on the 13th Floor
+Release Date: Nov 11, 2026
+Price: Free to Play
+Genres: Action, Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/5459270
+==================================================
+
+==================================================
+Name: Corridors
+Release Date: Nov 11, 2026
+Price: $6.79 (-15%, was $7.99)
+Genres: Action, Adventure
+Link: https://store.steampowered.com/app/4965130
+==================================================
+
+==================================================
+Name: Greetings, My Lord
+Release Date: Nov 11, 2026
+Price: $6.29 (-10%, was $6.99)
+Genres: Simulation, Strategy
+Link: https://store.steampowered.com/app/5010300
+==================================================
+
+==================================================
+Name: Overinflated
+Release Date: Nov 11, 2026
+Price: $5.99
+Genres: Action
+Link: https://store.steampowered.com/app/5411460
+==================================================
+
+==================================================
+Name: BATTLE BEARS GOLD
+Release Date: Nov 11, 2026
+Price: $6.99
+Genres: Action
+Link: https://store.steampowered.com/app/4408320
+==================================================
+
+==================================================
+Name: The Keyless: Forbidden Door
+Release Date: Nov 11, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/5191540
+==================================================
+
+==================================================
+Name: Bumper & Thumper
+Release Date: Nov 11, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Action, Casual, Indie, Racing
+Link: https://store.steampowered.com/app/4696920
+==================================================
+
+==================================================
+Name: Eat Everything in a Supermarket
+Release Date: Nov 11, 2026
+Price: $5.09 (-15%, was $5.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5415560
+==================================================
+
+==================================================
+Name: STARLINERS
+Release Date: Nov 11, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Strategy
+Link: https://store.steampowered.com/app/5102300
+==================================================
+
+==================================================
+Name: IRON FURY
+Release Date: Nov 11, 2026
+Price: $5.99
+Genres: Action
+Link: https://store.steampowered.com/app/5467590
+==================================================
+
+==================================================
+Name: MycoRelic
+Release Date: Nov 11, 2026
+Price: $16.99 (-15%, was $19.99)
+Genres: Action, Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/2624080
+==================================================
+
+==================================================
+Name: We Have a Sheep Problem
+Release Date: Nov 11, 2026
+Price: $3.39 (-15%, was $3.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5450030
+==================================================
+
+==================================================
+Name: Roll with Splonk
+Release Date: Nov 11, 2026
+Price: $3.24 (-35%, was $4.99)
+Genres: Casual, RPG, Simulation, Strategy
+Link: https://store.steampowered.com/app/4558350
+==================================================
+
+==================================================
+Name: A BILLION GOLD DEBT
+Release Date: Nov 11, 2026
+Price: $4.79 (-20%, was $5.99)
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/5020720
+==================================================
+
+==================================================
+Name: Revenge of the Mage
+Release Date: Nov 11, 2026
+Price: $6.99 (-30%, was $9.99)
+Genres: Action, Casual, Indie, RPG
+Link: https://store.steampowered.com/app/2287150
+==================================================
+
+==================================================
+Name: Moonberry Clock: Idle Pet
+Release Date: Nov 11, 2026
+Price: $4.44 (-11%, was $4.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4731250
+==================================================
+
+==================================================
+Name: Ore Legacy
+Release Date: Nov 11, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4719870
+==================================================
+
