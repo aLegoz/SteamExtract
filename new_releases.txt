@@ -113944,3 +113944,238 @@ Genres: Casual, Indie, Strategy
 Link: https://store.steampowered.com/app/4530340
 ==================================================
 
+
+--- Run: 2026-11-11 16:43:59 --- (29 new game(s) found)
+
+==================================================
+Name: Drift: Beyond Grip
+Release Date: Nov 11, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Casual, Indie, Racing
+Link: https://store.steampowered.com/app/5505730
+==================================================
+
+==================================================
+Name: Tiny Conquests
+Release Date: 2026
+Price: $11.99 (-40%, was $19.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4822740
+==================================================
+
+==================================================
+Name: Castlebound
+Release Date: Nov 11, 2026
+Price: $8.49 (-15%, was $9.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/3551820
+==================================================
+
+==================================================
+Name: MONOMOON
+Release Date: Nov 11, 2026
+Price: $10.79 (-10%, was $11.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/3285880
+==================================================
+
+==================================================
+Name: Potions Galore
+Release Date: Nov 11, 2026
+Price: $5.22 (-15%, was $6.15)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5079620
+==================================================
+
+==================================================
+Name: Dr Pixel
+Release Date: Nov 11, 2026
+Price: $12.99
+Genres: Utilities
+Link: https://store.steampowered.com/app/4858370
+==================================================
+
+==================================================
+Name: inFADErs
+Release Date: Nov 11, 2026
+Price: $4.99
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5498450
+==================================================
+
+==================================================
+Name: Ultimate Classic Car Racing 2
+Release Date: Nov 11, 2026
+Price: $4.79 (-20%, was $5.99)
+Genres: Casual, Indie, Racing
+Link: https://store.steampowered.com/app/4562310
+==================================================
+
+==================================================
+Name: MY CAT SCATTERED GAMES: Tidy Videogame Supermarket
+Release Date: Nov 11, 2026
+Price: $4.79 (-20%, was $5.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4949400
+==================================================
+
+==================================================
+Name: Space Numbers Go Up
+Release Date: Nov 11, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4364650
+==================================================
+
+==================================================
+Name: White Whisper
+Release Date: Nov 11, 2026
+Price: $10.79 (-10%, was $11.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/3994800
+==================================================
+
+==================================================
+Name: Game Master
+Release Date: Nov 11, 2026
+Price: Free to Play
+Genres: RPG, Free To Play, Utilities
+Link: https://store.steampowered.com/app/5437060
+==================================================
+
+==================================================
+Name: Cherry Picking Bot
+Release Date: Nov 11, 2026
+Price: $3.99
+Genres: Casual, Simulation
+Link: https://store.steampowered.com/app/4746030
+==================================================
+
+==================================================
+Name: Haste Makes Waste
+Release Date: Nov 11, 2026
+Price: $3.49 (-30%, was $4.99)
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/5469310
+==================================================
+
+==================================================
+Name: The Great 48
+Release Date: Nov 11, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Indie
+Link: https://store.steampowered.com/app/4185040
+==================================================
+
+==================================================
+Name: Idle Golf
+Release Date: Nov 11, 2026
+Price: $4.99
+Genres: Casual, Simulation, Sports, Strategy
+Link: https://store.steampowered.com/app/4641190
+==================================================
+
+==================================================
+Name: Glass Tanks
+Release Date: Nov 11, 2026
+Price: $5.59 (-20%, was $6.99)
+Genres: Action
+Link: https://store.steampowered.com/app/5165490
+==================================================
+
+==================================================
+Name: STASIS PROTOCOL
+Release Date: Nov 11, 2026
+Price: $5.99 (-40%, was $9.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/5438460
+==================================================
+
+==================================================
+Name: A Snail's Tale
+Release Date: Nov 11, 2026
+Price: $11.69 (-10%, was $12.99)
+Genres: Indie, RPG
+Link: https://store.steampowered.com/app/2944770
+==================================================
+
+==================================================
+Name: Beellionaire Incremental: Bee Simulator
+Release Date: Nov 11, 2026
+Price: $6.39 (-20%, was $7.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4970630
+==================================================
+
+==================================================
+Name: Growth: Automate & Collect
+Release Date: Nov 11, 2026
+Price: $8.49 (-15%, was $9.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/3119210
+==================================================
+
+==================================================
+Name: Prinny Party: Going Overboard!
+Release Date: Nov 11, 2026
+Price: $29.99
+Genres: Casual, RPG, Strategy
+Link: https://store.steampowered.com/app/4509300
+==================================================
+
+==================================================
+Name: Armory Keeper
+Release Date: Nov 11, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5094930
+==================================================
+
+==================================================
+Name: Dreadnut
+Release Date: Nov 11, 2026
+Price: $2.39 (-20%, was $2.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4073100
+==================================================
+
+==================================================
+Name: The Pretty Big Pile
+Release Date: Nov 11, 2026
+Price: $3.59 (-10%, was $3.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4988280
+==================================================
+
+==================================================
+Name: Shroomy Garden
+Release Date: Nov 11, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/3946460
+==================================================
+
+==================================================
+Name: Furry Witch Fox
+Release Date: Nov 11, 2026
+Price: $1.69 (-15%, was $1.99)
+Genres: Adventure, Casual, Indie, RPG
+Link: https://store.steampowered.com/app/5449940
+==================================================
+
+==================================================
+Name: Military Base Tidy Up
+Release Date: Nov 11, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/5484400
+==================================================
+
+==================================================
+Name: The Red Cathedral
+Release Date: Nov 11, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: Casual, Strategy
+Link: https://store.steampowered.com/app/3239710
+==================================================
+
