@@ -114505,3 +114505,158 @@ Genres: Casual, Indie
 Link: https://store.steampowered.com/app/4903020
 ==================================================
 
+
+--- Run: 2026-11-12 13:23:47 --- (19 new game(s) found)
+
+==================================================
+Name: Ophelia's Paradise
+Release Date: Nov 12, 2026
+Price: $5.99 (-25%, was $7.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4122390
+==================================================
+
+==================================================
+Name: Motorcycle For Sale Simulator
+Release Date: Nov 12, 2026
+Price: $7.19 (-10%, was $7.99)
+Genres: Indie, Racing, Simulation
+Link: https://store.steampowered.com/app/3721530
+==================================================
+
+==================================================
+Name: Sitter
+Release Date: Nov 12, 2026
+Price: $6.39 (-20%, was $7.99)
+Genres: Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/3751490
+==================================================
+
+==================================================
+Name: Pro Basketball Manager 2027
+Release Date: Nov 12, 2026
+Price: $31.49 (-10%, was $34.99)
+Genres: Indie, Simulation, Sports, Strategy
+Link: https://store.steampowered.com/app/4411720
+==================================================
+
+==================================================
+Name: RAYBREAKER
+Release Date: Nov 12, 2026
+Price: $15.99 (-20%, was $19.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/5452340
+==================================================
+
+==================================================
+Name: Some Type of Trip
+Release Date: Nov 12, 2026
+Price: $4.79 (-40%, was $7.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4303280
+==================================================
+
+==================================================
+Name: La Muraille 1806
+Release Date: Nov 12, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/5378030
+==================================================
+
+==================================================
+Name: Bottle Flip Inc
+Release Date: Nov 12, 2026
+Price: $4.79 (-20%, was $5.99)
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4932820
+==================================================
+
+==================================================
+Name: Purrtopia
+Release Date: Nov 12, 2026
+Price: $1.06 (-15%, was $1.25)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4948250
+==================================================
+
+==================================================
+Name: Tidyspell
+Release Date: Nov 12, 2026
+Price: $3.99
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5286160
+==================================================
+
+==================================================
+Name: Vendilooper - original
+Release Date: Nov 12, 2026
+Price: $8.99
+Genres: Casual, Simulation, Strategy
+Link: https://store.steampowered.com/app/5472850
+==================================================
+
+==================================================
+Name: Smashboom
+Release Date: Nov 12, 2026
+Price: Free to Play
+Genres: Action, Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/4859520
+==================================================
+
+==================================================
+Name: The Totemist
+Release Date: Nov 12, 2026
+Price: $10.19 (-15%, was $11.99)
+Genres: Adventure, Indie, RPG, Simulation
+Link: https://store.steampowered.com/app/4545470
+==================================================
+
+==================================================
+Name: Against the Horde
+Release Date: Nov 12, 2026
+Price: $19.99
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/4083130
+==================================================
+
+==================================================
+Name: Pixel Worker
+Release Date: Nov 12, 2026
+Price: $2.69 (-10%, was $2.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4993930
+==================================================
+
+==================================================
+Name: Hanzen: A Chinese Word Journey
+Release Date: Nov 12, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5494200
+==================================================
+
+==================================================
+Name: Cowboy!Duel!
+Release Date: Nov 12, 2026
+Price: $2.39 (-20%, was $2.99)
+Genres: Casual, Indie, RPG
+Link: https://store.steampowered.com/app/4876560
+==================================================
+
+==================================================
+Name: Speed Card Eatery
+Release Date: Nov 12, 2026
+Price: $5.39 (-10%, was $5.99)
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4793910
+==================================================
+
+==================================================
+Name: PlanetOrbit
+Release Date: Nov 12, 2026
+Price: $4.79 (-20%, was $5.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4739070
+==================================================
+
