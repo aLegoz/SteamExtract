@@ -114660,3 +114660,246 @@ Genres: Casual, Indie, Simulation
 Link: https://store.steampowered.com/app/4739070
 ==================================================
 
+
+--- Run: 2026-11-12 21:12:45 --- (30 new game(s) found)
+
+==================================================
+Name: Quod Erat Demonstrandum
+Release Date: Nov 12, 2026
+Price: $2.63 (-12%, was $2.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4518950
+==================================================
+
+==================================================
+Name: Explosiovania
+Release Date: Nov 12, 2026
+Price: $11.69 (-10%, was $12.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/3737610
+==================================================
+
+==================================================
+Name: Purrfect Beats
+Release Date: Nov 12, 2026
+Price: $4.79 (-20%, was $5.99)
+Genres: Indie
+Link: https://store.steampowered.com/app/4866510
+==================================================
+
+==================================================
+Name: Counter Targets Clicker
+Release Date: Nov 12, 2026
+Price: $4.79 (-20%, was $5.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/4640230
+==================================================
+
+==================================================
+Name: 9 Kings
+Release Date: Nov 12, 2026
+Price: $9.99 (-50%, was $19.99)
+Genres: RPG, Strategy
+Link: https://store.steampowered.com/app/2784470
+==================================================
+
+==================================================
+Name: Ancient Wars: Sparta HD
+Release Date: Nov 12, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Action, Adventure, Casual, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/2953940
+==================================================
+
+==================================================
+Name: Toybox Tactics
+Release Date: Nov 12, 2026
+Price: $5.99
+Genres: Action, Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/5056840
+==================================================
+
+==================================================
+Name: Royal Court
+Release Date: Nov 12, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/5311340
+==================================================
+
+==================================================
+Name: Dock Window
+Release Date: Nov 12, 2026
+Price: $3.99
+Genres: Utilities
+Link: https://store.steampowered.com/app/5455040
+==================================================
+
+==================================================
+Name: Mythistoria
+Release Date: Nov 12, 2026
+Price: $33.99 (-15%, was $39.99)
+Genres: Indie, Design & Illustration, Education, Utilities, Web Publishing, Game Development
+Link: https://store.steampowered.com/app/5416020
+==================================================
+
+==================================================
+Name: Doom Keeper
+Release Date: Nov 12, 2026
+Price: $3.78 (-10%, was $4.20)
+Genres: Action, Indie, RPG
+Link: https://store.steampowered.com/app/4168680
+==================================================
+
+==================================================
+Name: Tick & Tired
+Release Date: Nov 12, 2026
+Price: $3.59 (-10%, was $3.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5179950
+==================================================
+
+==================================================
+Name: GET RAMMED
+Release Date: Nov 12, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4612760
+==================================================
+
+==================================================
+Name: Broken Horror Anthology
+Release Date: Nov 12, 2026
+Price: $4.50 (-10%, was $5.00)
+Genres: Action, Indie, Simulation
+Link: https://store.steampowered.com/app/4181790
+==================================================
+
+==================================================
+Name: The Usual, Please
+Release Date: Nov 12, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/5394070
+==================================================
+
+==================================================
+Name: Patience Balls
+Release Date: Nov 12, 2026
+Price: $4.79 (-20%, was $5.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4715000
+==================================================
+
+==================================================
+Name: Cats Don't Carry Car Parts
+Release Date: Nov 12, 2026
+Price: $5.59 (-30%, was $7.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4698160
+==================================================
+
+==================================================
+Name: ColorCraft
+Release Date: Nov 12, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Design & Illustration, Utilities, Game Development
+Link: https://store.steampowered.com/app/5457920
+==================================================
+
+==================================================
+Name: Idle of the Dead
+Release Date: Nov 12, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Casual, Indie, RPG
+Link: https://store.steampowered.com/app/4927420
+==================================================
+
+==================================================
+Name: Triggerhold
+Release Date: Nov 12, 2026
+Price: $8.49 (-15%, was $9.99)
+Genres: Action, Indie, Strategy
+Link: https://store.steampowered.com/app/3912630
+==================================================
+
+==================================================
+Name: Ashigaru Tactics
+Release Date: Nov 12, 2026
+Price: $13.49 (-10%, was $14.99)
+Genres: RPG, Simulation, Strategy
+Link: https://store.steampowered.com/app/3038710
+==================================================
+
+==================================================
+Name: Whiskers of Yesterday
+Release Date: Nov 12, 2026
+Price: $4.95 (-38%, was $7.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/1077310
+==================================================
+
+==================================================
+Name: Spin Tactics
+Release Date: Nov 12, 2026
+Price: $11.99 (-20%, was $14.99)
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/3856990
+==================================================
+
+==================================================
+Name: ALL EYES ON ME
+Release Date: Nov 12, 2026
+Price: $5.94 (-15%, was $6.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/5109550
+==================================================
+
+==================================================
+Name: Wizard Jars: Tidy Up Together
+Release Date: Nov 12, 2026
+Price: $3.19 (-20%, was $3.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5239280
+==================================================
+
+==================================================
+Name: Delve Survivors
+Release Date: Nov 12, 2026
+Price: $11.04 (-15%, was $12.99)
+Genres: Adventure, Casual, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/3319680
+==================================================
+
+==================================================
+Name: Pelikeeper: A TD Adventure
+Release Date: Nov 12, 2026
+Price: $9.95 (-17%, was $11.99)
+Genres: Action, Adventure, Indie, Strategy
+Link: https://store.steampowered.com/app/3657320
+==================================================
+
+==================================================
+Name: The Coin Keeper : Tidy up !
+Release Date: Nov 12, 2026
+Price: $5.09 (-15%, was $5.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5302870
+==================================================
+
+==================================================
+Name: Scawy Game
+Release Date: Nov 12, 2026
+Price: $7.64 (-15%, was $8.99)
+Genres: Adventure, Casual, Simulation
+Link: https://store.steampowered.com/app/4992660
+==================================================
+
+==================================================
+Name: SoulForge Legends
+Release Date: Nov 12, 2026
+Price: Free to Play
+Genres: Action, Adventure, Indie, RPG, Free To Play
+Link: https://store.steampowered.com/app/4973650
+==================================================
+
