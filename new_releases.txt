@@ -114390,3 +114390,118 @@ Genres: Casual, Indie, Simulation, Strategy
 Link: https://store.steampowered.com/app/4719870
 ==================================================
 
+
+--- Run: 2026-11-12 04:37:28 --- (14 new game(s) found)
+
+==================================================
+Name: Coastal Cargo
+Release Date: Nov 11, 2026
+Price: $5.59 (-20%, was $6.99)
+Genres: Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4549920
+==================================================
+
+==================================================
+Name: 1000 Days with My Kid's Concert Band
+Release Date: Nov 11, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Simulation
+Link: https://store.steampowered.com/app/5027500
+==================================================
+
+==================================================
+Name: Everything Mart
+Release Date: Nov 11, 2026
+Price: Free to Play
+Genres: Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/4637430
+==================================================
+
+==================================================
+Name: ATELIER BLOCKS
+Release Date: Nov 11, 2026
+Price: $9.89 (-10%, was $10.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5373430
+==================================================
+
+==================================================
+Name: Love in Summer
+Release Date: Nov 11, 2026
+Price: $10.78 (-17%, was $12.99)
+Genres: Casual, Indie, RPG, Simulation
+Link: https://store.steampowered.com/app/4767430
+==================================================
+
+==================================================
+Name: Chichi's Desktop Journey
+Release Date: Nov 11, 2026
+Price: $5.39 (-10%, was $5.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4915740
+==================================================
+
+==================================================
+Name: Princessfall
+Release Date: Nov 11, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: Adventure, RPG
+Link: https://store.steampowered.com/app/3700360
+==================================================
+
+==================================================
+Name: Chaos Table
+Release Date: Nov 11, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/5294070
+==================================================
+
+==================================================
+Name: Lewd Life
+Release Date: Nov 11, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Action, Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/5404040
+==================================================
+
+==================================================
+Name: Hillbilly Yacht Club: Fishing
+Release Date: Nov 11, 2026
+Price: Free to Play
+Genres: Casual, Indie, Simulation, Free To Play
+Link: https://store.steampowered.com/app/5450430
+==================================================
+
+==================================================
+Name: Pull My Finger
+Release Date: Nov 11, 2026
+Price: $7.22 (-15%, was $8.50)
+Genres: Casual
+Link: https://store.steampowered.com/app/5192820
+==================================================
+
+==================================================
+Name: Prospect
+Release Date: Nov 11, 2026
+Price: $7.19 (-10%, was $7.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/5106240
+==================================================
+
+==================================================
+Name: Mythsfall
+Release Date: Nov 11, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Strategy
+Link: https://store.steampowered.com/app/4576270
+==================================================
+
+==================================================
+Name: The Last Spire 2
+Release Date: Nov 11, 2026
+Price: $2.99 (-25%, was $3.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4903020
+==================================================
+
