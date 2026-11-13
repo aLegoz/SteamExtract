@@ -115317,3 +115317,238 @@ Genres: Adventure, Casual, Indie, RPG, Free To Play
 Link: https://store.steampowered.com/app/5205880
 ==================================================
 
+
+--- Run: 2026-11-13 18:14:18 --- (29 new game(s) found)
+
+==================================================
+Name: The Peg Mines
+Release Date: Nov 13, 2026
+Price: $3.59 (-10%, was $3.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4913670
+==================================================
+
+==================================================
+Name: Dark Type On Tumour Humour
+Release Date: Nov 13, 2026
+Price: $9.90
+Genres: Casual
+Link: https://store.steampowered.com/app/5244990
+==================================================
+
+==================================================
+Name: Ball Pit Cleanup
+Release Date: Nov 13, 2026
+Price: $2.09 (-30%, was $2.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5273080
+==================================================
+
+==================================================
+Name: King in the Mountain
+Release Date: Nov 13, 2026
+Price: $5.94 (-15%, was $6.99)
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4767130
+==================================================
+
+==================================================
+Name: Lost Luggage
+Release Date: Nov 13, 2026
+Price: $3.19 (-20%, was $3.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5369070
+==================================================
+
+==================================================
+Name: A Bad Night
+Release Date: Nov 13, 2026
+Price: Free to Play
+Genres: Free To Play
+Link: https://store.steampowered.com/app/5434000
+==================================================
+
+==================================================
+Name: How They Built the Pyramids
+Release Date: Nov 13, 2026
+Price: $4.19 (-30%, was $5.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5458210
+==================================================
+
+==================================================
+Name: Provinces
+Release Date: Nov 13, 2026
+Price: $2.99 (-25%, was $3.99)
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/5090130
+==================================================
+
+==================================================
+Name: Windowed Realms
+Release Date: Nov 13, 2026
+Price: $6.39 (-20%, was $7.99)
+Genres: Casual, Indie, RPG, Simulation, Strategy
+Link: https://store.steampowered.com/app/4281800
+==================================================
+
+==================================================
+Name: The Trailer Incident
+Release Date: Nov 13, 2026
+Price: $1.79 (-10%, was $1.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/4117440
+==================================================
+
+==================================================
+Name: The Liminal Cleaner - The Pools
+Release Date: Nov 13, 2026
+Price: $5.39 (-10%, was $5.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4983680
+==================================================
+
+==================================================
+Name: DERELIKT
+Release Date: Nov 13, 2026
+Price: $17.99 (-10%, was $19.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/3810510
+==================================================
+
+==================================================
+Name: Celeforge
+Release Date: Nov 13, 2026
+Price: $3.19 (-20%, was $3.99)
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/4891760
+==================================================
+
+==================================================
+Name: Rhythm of the Backwaters
+Release Date: Nov 13, 2026
+Price: Free to Play
+Genres: Indie, Simulation, Free To Play
+Link: https://store.steampowered.com/app/5434650
+==================================================
+
+==================================================
+Name: Puzzle Simulator
+Release Date: Nov 13, 2026
+Price: $12.59 (-10%, was $13.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5221180
+==================================================
+
+==================================================
+Name: Setter: Volleyball Manager 27
+Release Date: Nov 13, 2026
+Price: $17.99 (-10%, was $19.99)
+Genres: Simulation, Sports, Strategy
+Link: https://store.steampowered.com/app/4908560
+==================================================
+
+==================================================
+Name: The House Always Wins
+Release Date: Nov 13, 2026
+Price: $17.99 (-10%, was $19.99)
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/4601260
+==================================================
+
+==================================================
+Name: ASSAULT SHELL 2
+Release Date: Nov 13, 2026
+Price: $11.99
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/2173850
+==================================================
+
+==================================================
+Name: Business Tycoon
+Release Date: Nov 13, 2026
+Price: $4.89 (-30%, was $6.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5256610
+==================================================
+
+==================================================
+Name: Green Again
+Release Date: Nov 13, 2026
+Price: $11.99 (-25%, was $15.99)
+Genres: Casual, Simulation, Strategy
+Link: https://store.steampowered.com/app/2718320
+==================================================
+
+==================================================
+Name: Rise Of Baihu
+Release Date: Nov 13, 2026
+Price: Free to Play
+Genres: Action, Free To Play
+Link: https://store.steampowered.com/app/4126400
+==================================================
+
+==================================================
+Name: Trakonius
+Release Date: Nov 13, 2026
+Price: $7.49 (-25%, was $9.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/2418490
+==================================================
+
+==================================================
+Name: Last Gambit
+Release Date: Nov 13, 2026
+Price: $4.99
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/4983490
+==================================================
+
+==================================================
+Name: Lifespan.exe
+Release Date: Nov 13, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/5104100
+==================================================
+
+==================================================
+Name: Brick Mayhem
+Release Date: Nov 13, 2026
+Price: $2.69 (-10%, was $2.99)
+Genres: Strategy
+Link: https://store.steampowered.com/app/4759420
+==================================================
+
+==================================================
+Name: Project: Home!
+Release Date: Nov 13, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: Adventure, Casual, Indie, RPG, Simulation
+Link: https://store.steampowered.com/app/4045760
+==================================================
+
+==================================================
+Name: 100 Kingdom Cats
+Release Date: Nov 13, 2026
+Price: $1.79 (-10%, was $1.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4118360
+==================================================
+
+==================================================
+Name: BitCraft Online
+Release Date: Nov 13, 2026
+Price: $11.99 (-25%, was $15.99)
+Genres: Indie, Massively Multiplayer, RPG
+Link: https://store.steampowered.com/app/3454650
+==================================================
+
+==================================================
+Name: Mimania
+Release Date: Nov 13, 2026
+Price: $3.19 (-20%, was $3.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/3167930
+==================================================
+
