@@ -114903,3 +114903,174 @@ Genres: Action, Adventure, Indie, RPG, Free To Play
 Link: https://store.steampowered.com/app/4973650
 ==================================================
 
+
+--- Run: 2026-11-13 02:13:33 --- (21 new game(s) found)
+
+==================================================
+Name: Satelital
+Release Date: Nov 12, 2026
+Price: $15.30 (-15%, was $18.00)
+Genres: Adventure
+Link: https://store.steampowered.com/app/3256790
+==================================================
+
+==================================================
+Name: ！？龙龙？！
+Release Date: Nov 12, 2026
+Price: Free to Play
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/5480320
+==================================================
+
+==================================================
+Name: Monster Girls of Another World: Pleasure Chronicle
+Release Date: Nov 12, 2026
+Price: $6.29 (-10%, was $6.99)
+Genres: Adventure
+Link: https://store.steampowered.com/app/5289760
+==================================================
+
+==================================================
+Name: Mask Splitters
+Release Date: Nov 12, 2026
+Price: $2.99
+Genres: Action
+Link: https://store.steampowered.com/app/5226580
+==================================================
+
+==================================================
+Name: Lorenium Orbit
+Release Date: Nov 12, 2026
+Price: Free to Play
+Genres: Action, Indie, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4437290
+==================================================
+
+==================================================
+Name: Core Awakened
+Release Date: Nov 12, 2026
+Price: $4.99
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/5402730
+==================================================
+
+==================================================
+Name: Under Tower Idle
+Release Date: Nov 12, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4694530
+==================================================
+
+==================================================
+Name: Audio Motion Lab
+Release Date: Nov 12, 2026
+Price: $14.99
+Genres: Design & Illustration, Video Production
+Link: https://store.steampowered.com/app/5503580
+==================================================
+
+==================================================
+Name: Cricket Manager
+Release Date: Nov 12, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: Indie, Simulation, Sports, Strategy
+Link: https://store.steampowered.com/app/4925810
+==================================================
+
+==================================================
+Name: DESIRO.
+Release Date: Nov 12, 2026
+Price: $0.59 (-40%, was $0.99)
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/5211040
+==================================================
+
+==================================================
+Name: From Zero: Idle Factory
+Release Date: Nov 12, 2026
+Price: $0.79 (-20%, was $0.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5053000
+==================================================
+
+==================================================
+Name: Detonator Squad
+Release Date: Nov 12, 2026
+Price: $5.99 (-40%, was $9.99)
+Genres: Action, Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/5298430
+==================================================
+
+==================================================
+Name: 牛丼店シミュレーター
+Release Date: Nov 12, 2026
+Price: $5.59 (-20%, was $6.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5462360
+==================================================
+
+==================================================
+Name: Super Slime
+Release Date: Nov 12, 2026
+Price: $19.99
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/4606680
+==================================================
+
+==================================================
+Name: The Witch
+Release Date: Nov 12, 2026
+Price: $6.79 (-15%, was $7.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/4747930
+==================================================
+
+==================================================
+Name: Master Of Kebab
+Release Date: Nov 12, 2026
+Price: $4.99
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5292020
+==================================================
+
+==================================================
+Name: Snow Worries!
+Release Date: Nov 12, 2026
+Price: $5.59 (-20%, was $6.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5419120
+==================================================
+
+==================================================
+Name: The Dust Between: Observer
+Release Date: Nov 13, 2026
+Price: $7.19 (-10%, was $7.99)
+Genres: Action, Adventure, Strategy
+Link: https://store.steampowered.com/app/4400020
+==================================================
+
+==================================================
+Name: Lola's Adventures
+Release Date: Nov 12, 2026
+Price: $5.59 (-20%, was $6.99)
+Genres: Adventure, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5321440
+==================================================
+
+==================================================
+Name: X-Dolls Squad
+Release Date: Nov 12, 2026
+Price: $11.99 (-20%, was $14.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/5356510
+==================================================
+
+==================================================
+Name: Toys, Please!
+Release Date: Nov 12, 2026
+Price: $3.59 (-10%, was $3.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5401670
+==================================================
+
