@@ -116356,3 +116356,166 @@ Genres: Indie, Simulation
 Link: https://store.steampowered.com/app/5045780
 ==================================================
 
+
+--- Run: 2026-11-14 21:45:33 --- (20 new game(s) found)
+
+==================================================
+Name: BeatSlayer
+Release Date: Nov 14, 2026
+Price: $7.99
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/5480840
+==================================================
+
+==================================================
+Name: Olympegs
+Release Date: Nov 14, 2026
+Price: $4.99
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5503180
+==================================================
+
+==================================================
+Name: The Last Levee
+Release Date: Nov 14, 2026
+Price: $2.99
+Genres: Action, Indie, Strategy
+Link: https://store.steampowered.com/app/4988400
+==================================================
+
+==================================================
+Name: Elementys
+Release Date: Nov 14, 2026
+Price: Free to Play
+Genres: Action, Adventure, Indie, Massively Multiplayer, RPG, Free To Play
+Link: https://store.steampowered.com/app/5300300
+==================================================
+
+==================================================
+Name: Art Shop: Tidy Up!
+Release Date: Nov 14, 2026
+Price: $3.60 (-10%, was $4.00)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5319020
+==================================================
+
+==================================================
+Name: Wolves In The Flock
+Release Date: Nov 14, 2026
+Price: $8.49 (-15%, was $9.99)
+Genres: Adventure, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5501760
+==================================================
+
+==================================================
+Name: Racing League Evolution
+Release Date: Nov 14, 2026
+Price: $7.99
+Genres: Racing
+Link: https://store.steampowered.com/app/3922480
+==================================================
+
+==================================================
+Name: NEH
+Release Date: Nov 14, 2026
+Price: $4.99
+Genres: Adventure, Indie, Massively Multiplayer
+Link: https://store.steampowered.com/app/3929240
+==================================================
+
+==================================================
+Name: Hill-Z
+Release Date: Nov 14, 2026
+Price: $4.99
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/3769420
+==================================================
+
+==================================================
+Name: Rico Rite
+Release Date: Nov 14, 2026
+Price: Free to Play
+Genres: Action, Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/3618810
+==================================================
+
+==================================================
+Name: Zattrick Manager
+Release Date: Nov 14, 2026
+Price: Free to Play
+Genres: Simulation, Sports, Strategy, Free To Play
+Link: https://store.steampowered.com/app/5372560
+==================================================
+
+==================================================
+Name: Puzzle Dinosaur Skeletons
+Release Date: Nov 14, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5393950
+==================================================
+
+==================================================
+Name: Cult of the Red Heifer
+Release Date: Nov 14, 2026
+Price: $9.99
+Genres: Action, Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/4874760
+==================================================
+
+==================================================
+Name: Glims
+Release Date: Nov 14, 2026
+Price: Free to Play
+Genres: Free To Play
+Link: https://store.steampowered.com/app/5183740
+==================================================
+
+==================================================
+Name: Dungebra
+Release Date: Nov 14, 2026
+Price: $3.39 (-15%, was $3.99)
+Genres: Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/4841590
+==================================================
+
+==================================================
+Name: YoYo Blade
+Release Date: Nov 14, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/5159330
+==================================================
+
+==================================================
+Name: Dice Roller Incremental
+Release Date: Nov 14, 2026
+Price: $4.99
+Genres: Casual
+Link: https://store.steampowered.com/app/3855570
+==================================================
+
+==================================================
+Name: LEGRADA
+Release Date: Nov 14, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Casual, Indie, Massively Multiplayer, Strategy
+Link: https://store.steampowered.com/app/3552240
+==================================================
+
+==================================================
+Name: Drop That Pen
+Release Date: Nov 14, 2026
+Price: $4.99
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4268090
+==================================================
+
+==================================================
+Name: Saratoma Vale
+Release Date: Nov 14, 2026
+Price: $2.06 (-10%, was $2.29)
+Genres: RPG, Simulation
+Link: https://store.steampowered.com/app/5130050
+==================================================
+
