@@ -115982,3 +115982,230 @@ Genres: Adventure, Indie, RPG, Simulation
 Link: https://store.steampowered.com/app/5164620
 ==================================================
 
+
+--- Run: 2026-11-14 11:51:02 --- (28 new game(s) found)
+
+==================================================
+Name: The Friendly Monster
+Release Date: Coming soon
+Price: Free to Play
+Genres: Adventure, Indie, Free To Play
+Link: https://store.steampowered.com/app/5421960
+==================================================
+
+==================================================
+Name: YourTenderCatgirl
+Release Date: Nov 14, 2026
+Price: $0.99
+Genres: Casual
+Link: https://store.steampowered.com/app/5247600
+==================================================
+
+==================================================
+Name: 球球幸存者 · Ball Survivor
+Release Date: Nov 14, 2026
+Price: $0.99
+Genres: Action, Casual, Indie, RPG
+Link: https://store.steampowered.com/app/5388200
+==================================================
+
+==================================================
+Name: Project BLACKNODE
+Release Date: Nov 14, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Action, Adventure
+Link: https://store.steampowered.com/app/2692520
+==================================================
+
+==================================================
+Name: Wallpaper Animator
+Release Date: Nov 14, 2026
+Price: $3.49 (-30%, was $4.99)
+Genres: Indie, Animation & Modeling, Design & Illustration, Photo Editing, Utilities
+Link: https://store.steampowered.com/app/4484970
+==================================================
+
+==================================================
+Name: HEXFORGE
+Release Date: Nov 14, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/5081980
+==================================================
+
+==================================================
+Name: The Fly's Fantastic Adventure
+Release Date: Nov 14, 2026
+Price: Free to Play
+Genres: Action, Adventure, Indie, Free To Play
+Link: https://store.steampowered.com/app/4802670
+==================================================
+
+==================================================
+Name: Warstead
+Release Date: Nov 14, 2026
+Price: $19.99
+Genres: Strategy
+Link: https://store.steampowered.com/app/5285650
+==================================================
+
+==================================================
+Name: Rosaline: The Dragon Girl
+Release Date: Nov 14, 2026
+Price: $3.49 (-30%, was $4.99)
+Genres: RPG
+Link: https://store.steampowered.com/app/5405940
+==================================================
+
+==================================================
+Name: PingPongDart
+Release Date: Nov 14, 2026
+Price: $4.99
+Genres: Casual, Simulation, Sports, Strategy
+Link: https://store.steampowered.com/app/4922860
+==================================================
+
+==================================================
+Name: Bottle King
+Release Date: Nov 14, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5510580
+==================================================
+
+==================================================
+Name: FINAL COUNT
+Release Date: Nov 14, 2026
+Price: $9.99
+Genres: Action, Indie, Strategy
+Link: https://store.steampowered.com/app/5491440
+==================================================
+
+==================================================
+Name: Alchedoom
+Release Date: Nov 14, 2026
+Price: $1.88 (-10%, was $2.09)
+Genres: Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/2408840
+==================================================
+
+==================================================
+Name: CHUM Fishing
+Release Date: Nov 13, 2026
+Price: $3.39 (-15%, was $3.99)
+Genres: Action
+Link: https://store.steampowered.com/app/5011760
+==================================================
+
+==================================================
+Name: Pot O' Gnomes
+Release Date: Nov 13, 2026
+Price: Free to Play
+Genres: Action, Casual, Indie, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4989970
+==================================================
+
+==================================================
+Name: Door Code
+Release Date: Nov 13, 2026
+Price: $2.79 (-30%, was $3.99)
+Genres: Adventure, Indie, Strategy
+Link: https://store.steampowered.com/app/4951770
+==================================================
+
+==================================================
+Name: Arcane Chess Realm
+Release Date: Nov 13, 2026
+Price: Free to Play
+Genres: Indie, Strategy, Free To Play
+Link: https://store.steampowered.com/app/5403440
+==================================================
+
+==================================================
+Name: Her Next Chapter
+Release Date: Nov 13, 2026
+Price: $1.99
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5440720
+==================================================
+
+==================================================
+Name: Livingston County
+Release Date: Nov 13, 2026
+Price: $9.99
+Genres: Action, Indie, Simulation
+Link: https://store.steampowered.com/app/5456790
+==================================================
+
+==================================================
+Name: Lastrip
+Release Date: Nov 13, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4632250
+==================================================
+
+==================================================
+Name: Conglomerate
+Release Date: Nov 13, 2026
+Price: $4.79 (-20%, was $5.99)
+Genres: Strategy
+Link: https://store.steampowered.com/app/4877650
+==================================================
+
+==================================================
+Name: Territory Idle Defense
+Release Date: Nov 13, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: Action, Adventure, Casual, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/5177230
+==================================================
+
+==================================================
+Name: Duckstep
+Release Date: Nov 13, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/5183960
+==================================================
+
+==================================================
+Name: Monster Girl Tactics: Oubliette
+Release Date: Nov 13, 2026
+Price: $15.98 (-10%, was $17.76)
+Genres: Adventure, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/4960970
+==================================================
+
+==================================================
+Name: Holtmezo
+Release Date: Nov 13, 2026
+Price: Free to Play
+Genres: Action, Casual, Indie, Strategy, Free To Play
+Link: https://store.steampowered.com/app/5435270
+==================================================
+
+==================================================
+Name: CARRRDS
+Release Date: Nov 13, 2026
+Price: $5.99 (-25%, was $7.99)
+Genres: Action, Casual, Racing, Strategy
+Link: https://store.steampowered.com/app/4675790
+==================================================
+
+==================================================
+Name: Facial Expression Variety Show
+Release Date: Nov 13, 2026
+Price: $3.19 (-10%, was $3.55)
+Genres: Casual
+Link: https://store.steampowered.com/app/5473160
+==================================================
+
+==================================================
+Name: Ravenford: The Last Raven Warden
+Release Date: Nov 13, 2026
+Price: $2.99 (-40%, was $4.99)
+Genres: Action, Indie, RPG
+Link: https://store.steampowered.com/app/5488980
+==================================================
+
