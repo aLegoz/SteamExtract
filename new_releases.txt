@@ -116209,3 +116209,150 @@ Genres: Action, Indie, RPG
 Link: https://store.steampowered.com/app/5488980
 ==================================================
 
+
+--- Run: 2026-11-14 17:24:50 --- (18 new game(s) found)
+
+==================================================
+Name: Untold Memories: Grandma's House
+Release Date: Nov 14, 2026
+Price: $3.19 (-20%, was $3.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4627220
+==================================================
+
+==================================================
+Name: Corporate Dash
+Release Date: Nov 14, 2026
+Price: $4.99
+Genres: Casual, Indie, Racing, Strategy
+Link: https://store.steampowered.com/app/5447250
+==================================================
+
+==================================================
+Name: Chisel Me This
+Release Date: Nov 14, 2026
+Price: $5.99 (-25%, was $7.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5443350
+==================================================
+
+==================================================
+Name: Minerooms
+Release Date: Nov 14, 2026
+Price: $2.69 (-10%, was $2.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4964810
+==================================================
+
+==================================================
+Name: Physical Yut
+Release Date: Nov 14, 2026
+Price: $2.39 (-40%, was $3.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/5421010
+==================================================
+
+==================================================
+Name: Tactics: Setting Sun
+Release Date: Nov 14, 2026
+Price: $19.99 (-20%, was $24.99)
+Genres: Strategy
+Link: https://store.steampowered.com/app/2392710
+==================================================
+
+==================================================
+Name: Grandparadox
+Release Date: Nov 14, 2026
+Price: Free to Play
+Genres: Casual, Indie, Strategy, Free To Play
+Link: https://store.steampowered.com/app/5393800
+==================================================
+
+==================================================
+Name: GRAND TIDDY ADVENTURES 🚨
+Release Date: Nov 14, 2026
+Price: $8.99 (-40%, was $14.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/5356830
+==================================================
+
+==================================================
+Name: Forgotten Horizons
+Release Date: Nov 14, 2026
+Price: $1.48 (-20%, was $1.86)
+Genres: Adventure
+Link: https://store.steampowered.com/app/5247920
+==================================================
+
+==================================================
+Name: Astral Phase
+Release Date: Nov 14, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/5160550
+==================================================
+
+==================================================
+Name: Overtime : Development Hell
+Release Date: Nov 14, 2026
+Price: $3.99
+Genres: Indie
+Link: https://store.steampowered.com/app/5329860
+==================================================
+
+==================================================
+Name: Fighting Front
+Release Date: Nov 14, 2026
+Price: $9.99
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/1763280
+==================================================
+
+==================================================
+Name: Squadron 404
+Release Date: Nov 14, 2026
+Price: $5.99 (-25%, was $7.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4945780
+==================================================
+
+==================================================
+Name: Morphic Wallpaper
+Release Date: Nov 14, 2026
+Price: $0.59 (-40%, was $0.99)
+Genres: Indie, Accounting, Design & Illustration, Education, Utilities
+Link: https://store.steampowered.com/app/5418940
+==================================================
+
+==================================================
+Name: The City Of Akhetaten
+Release Date: Nov 14, 2026
+Price: $1.59 (-20%, was $1.99)
+Genres: Action, Adventure, Casual, RPG
+Link: https://store.steampowered.com/app/4907900
+==================================================
+
+==================================================
+Name: No More Monsters
+Release Date: Nov 14, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/5458630
+==================================================
+
+==================================================
+Name: Glorybound
+Release Date: Nov 14, 2026
+Price: $2.69 (-10%, was $2.99)
+Genres: Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/5452550
+==================================================
+
+==================================================
+Name: Suspicious Minds: interrogation simulator
+Release Date: Nov 14, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/5045780
+==================================================
+
