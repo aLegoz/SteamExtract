@@ -115552,3 +115552,238 @@ Genres: Action, Adventure, Indie
 Link: https://store.steampowered.com/app/3167930
 ==================================================
 
+
+--- Run: 2026-11-13 23:59:45 --- (29 new game(s) found)
+
+==================================================
+Name: Gold Idle
+Release Date: Nov 13, 2026
+Price: $3.50 (-30%, was $5.00)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5465790
+==================================================
+
+==================================================
+Name: Cosmo Piercers
+Release Date: Nov 13, 2026
+Price: $5.00
+Genres: Action
+Link: https://store.steampowered.com/app/4562770
+==================================================
+
+==================================================
+Name: House of Pips: a Domino Roguelike
+Release Date: Nov 13, 2026
+Price: $12.79 (-20%, was $15.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/5296680
+==================================================
+
+==================================================
+Name: Exo7
+Release Date: Nov 13, 2026
+Price: Free to Play
+Genres: Indie, Massively Multiplayer, Simulation, Strategy, Free To Play
+Link: https://store.steampowered.com/app/5348940
+==================================================
+
+==================================================
+Name: 8 Hours Till Dawn
+Release Date: Nov 13, 2026
+Price: $7.99
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/4688730
+==================================================
+
+==================================================
+Name: MATE, This Place is a MESS!
+Release Date: Nov 13, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5365570
+==================================================
+
+==================================================
+Name: The Joust Autochess
+Release Date: Nov 13, 2026
+Price: Free to Play
+Genres: Indie, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4927770
+==================================================
+
+==================================================
+Name: Aspect Arena
+Release Date: Nov 13, 2026
+Price: $3.50 (-30%, was $5.00)
+Genres: Action, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/5189780
+==================================================
+
+==================================================
+Name: Hellmouth
+Release Date: Nov 13, 2026
+Price: $8.49 (-15%, was $9.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/5297870
+==================================================
+
+==================================================
+Name: Gun Gone Wrong
+Release Date: Nov 13, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/3502460
+==================================================
+
+==================================================
+Name: BOOM! Buster
+Release Date: Nov 13, 2026
+Price: $7.99
+Genres: Action, Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/2498890
+==================================================
+
+==================================================
+Name: Sort Them Dice
+Release Date: Nov 13, 2026
+Price: $4.31 (-20%, was $5.39)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5375890
+==================================================
+
+==================================================
+Name: Mellings
+Release Date: Nov 13, 2026
+Price: $5.59 (-30%, was $7.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/3763040
+==================================================
+
+==================================================
+Name: Talaire
+Release Date: Nov 13, 2026
+Price: Free to Play
+Genres: Casual, Indie, Racing, Strategy
+Link: https://store.steampowered.com/app/4773410
+==================================================
+
+==================================================
+Name: Pigeon Ball
+Release Date: Nov 13, 2026
+Price: $7.19 (-10%, was $7.99)
+Genres: Action, Indie, Simulation, Sports
+Link: https://store.steampowered.com/app/5132920
+==================================================
+
+==================================================
+Name: LARVIS
+Release Date: Nov 13, 2026
+Price: $6.79 (-15%, was $7.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4768630
+==================================================
+
+==================================================
+Name: Playground VR
+Release Date: Nov 13, 2026
+Price: $5.99 (-40%, was $9.99)
+Genres: Action, Adventure, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/1504100
+==================================================
+
+==================================================
+Name: Retro Music Player
+Release Date: Nov 13, 2026
+Price: $2.39 (-20%, was $2.99)
+Genres: Casual, Audio Production, Utilities
+Link: https://store.steampowered.com/app/4505200
+==================================================
+
+==================================================
+Name: One More Rule
+Release Date: Nov 13, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/5257620
+==================================================
+
+==================================================
+Name: Spinova
+Release Date: Nov 13, 2026
+Price: $3.90
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4487360
+==================================================
+
+==================================================
+Name: Deathly Delights
+Release Date: Nov 13, 2026
+Price: $5.94 (-15%, was $6.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4578320
+==================================================
+
+==================================================
+Name: Legacy Miner
+Release Date: Nov 13, 2026
+Price: $3.19 (-20%, was $3.99)
+Genres: Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/4959060
+==================================================
+
+==================================================
+Name: Dice Hoarder
+Release Date: Nov 13, 2026
+Price: $5.39 (-10%, was $5.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/3687090
+==================================================
+
+==================================================
+Name: Drive or Die
+Release Date: Nov 13, 2026
+Price: $7.99
+Genres: Action
+Link: https://store.steampowered.com/app/4930190
+==================================================
+
+==================================================
+Name: 5 Nights at Data Center
+Release Date: Nov 13, 2026
+Price: $11.04 (-15%, was $12.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/5408770
+==================================================
+
+==================================================
+Name: Public Faucet Hunt
+Release Date: Nov 13, 2026
+Price: $4.29 (-14%, was $4.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4955730
+==================================================
+
+==================================================
+Name: We March as One
+Release Date: Nov 13, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/5189160
+==================================================
+
+==================================================
+Name: Squirrel Defender VR
+Release Date: Nov 13, 2026
+Price: $4.19 (-30%, was $5.99)
+Genres: Casual, Strategy
+Link: https://store.steampowered.com/app/5441160
+==================================================
+
+==================================================
+Name: I hate progress bars
+Release Date: Nov 13, 2026
+Price: $2.54 (-15%, was $2.99)
+Genres: Casual, Simulation
+Link: https://store.steampowered.com/app/5115930
+==================================================
+
