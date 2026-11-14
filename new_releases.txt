@@ -115787,3 +115787,198 @@ Genres: Casual, Simulation
 Link: https://store.steampowered.com/app/5115930
 ==================================================
 
+
+--- Run: 2026-11-14 04:52:00 --- (24 new game(s) found)
+
+==================================================
+Name: Race on Stream!
+Release Date: Nov 13, 2026
+Price: $1.79 (-40%, was $2.99)
+Genres: Action, Casual, Indie, Racing, Simulation, Sports, Strategy
+Link: https://store.steampowered.com/app/5317080
+==================================================
+
+==================================================
+Name: Astral Hunter: Homebound
+Release Date: Nov 13, 2026
+Price: $7.19 (-20%, was $8.99)
+Genres: Action
+Link: https://store.steampowered.com/app/3540610
+==================================================
+
+==================================================
+Name: Flush Draw
+Release Date: Coming soon
+Price: $2.24 (-25%, was $2.99)
+Genres: Casual, Strategy
+Link: https://store.steampowered.com/app/5193390
+==================================================
+
+==================================================
+Name: Chronicle Hands
+Release Date: Nov 13, 2026
+Price: $6.29 (-10%, was $6.99)
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/5336540
+==================================================
+
+==================================================
+Name: World of Stick
+Release Date: Nov 13, 2026
+Price: Free to Play
+Genres: Indie, Massively Multiplayer, Strategy, Free To Play
+Link: https://store.steampowered.com/app/5487820
+==================================================
+
+==================================================
+Name: Monster Girls Dice Board
+Release Date: Nov 13, 2026
+Price: $11.69 (-10%, was $12.99)
+Genres: Indie, RPG, Simulation, Strategy
+Link: https://store.steampowered.com/app/4382510
+==================================================
+
+==================================================
+Name: DEMØNS GATE & Paintball Ops
+Release Date: Nov 13, 2026
+Price: Free to Play
+Genres: Indie, RPG, Simulation, Free To Play
+Link: https://store.steampowered.com/app/4369110
+==================================================
+
+==================================================
+Name: Endless Battle: Idle & Build
+Release Date: Nov 13, 2026
+Price: $3.19 (-20%, was $3.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/5178010
+==================================================
+
+==================================================
+Name: Stratagem of the Three Kingdoms: Card Single-Player Edition
+Release Date: Nov 13, 2026
+Price: $7.19 (-10%, was $7.99)
+Genres: Casual, RPG, Strategy
+Link: https://store.steampowered.com/app/5318250
+==================================================
+
+==================================================
+Name: Deja-Vu of the Dead
+Release Date: Nov 13, 2026
+Price: $15.99 (-20%, was $19.99)
+Genres: Action, Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/3178040
+==================================================
+
+==================================================
+Name: Doomfield:The Maze
+Release Date: Nov 13, 2026
+Price: Free to Play
+Genres: Action, Indie, Strategy, Free To Play
+Link: https://store.steampowered.com/app/5502460
+==================================================
+
+==================================================
+Name: Adventures Online
+Release Date: Nov 13, 2026
+Price: Free to Play
+Genres: Adventure, Massively Multiplayer, RPG, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4706390
+==================================================
+
+==================================================
+Name: The 12 Chambers of Darkness
+Release Date: Nov 13, 2026
+Price: $1.19 (-40%, was $1.99)
+Genres: Action, Casual
+Link: https://store.steampowered.com/app/5409100
+==================================================
+
+==================================================
+Name: Sort and Stack!
+Release Date: Nov 13, 2026
+Price: $3.74 (-25%, was $4.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5302700
+==================================================
+
+==================================================
+Name: Hunter Bro VR
+Release Date: Nov 13, 2026
+Price: $8.99 (-40%, was $14.99)
+Genres: Action, Indie, Simulation
+Link: https://store.steampowered.com/app/5466100
+==================================================
+
+==================================================
+Name: Shadow Realms RPG
+Release Date: Nov 13, 2026
+Price: Free to Play
+Genres: Casual, Massively Multiplayer, RPG, Free To Play
+Link: https://store.steampowered.com/app/5282510
+==================================================
+
+==================================================
+Name: Theriothron Spire
+Release Date: Nov 13, 2026
+Price: $5.39 (-10%, was $5.99)
+Genres: Adventure, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/3857370
+==================================================
+
+==================================================
+Name: No One to See – Pinebark Camp
+Release Date: Nov 13, 2026
+Price: $1.97 (-34%, was $2.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4175050
+==================================================
+
+==================================================
+Name: BagoLand
+Release Date: Nov 13, 2026
+Price: Free to Play
+Genres: Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/4578590
+==================================================
+
+==================================================
+Name: A.C.H.E.S.
+Release Date: Nov 13, 2026
+Price: $2.99 (-40%, was $4.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4118070
+==================================================
+
+==================================================
+Name: Tanto
+Release Date: Nov 13, 2026
+Price: $5.99
+Genres: Action, Adventure, Indie, Strategy
+Link: https://store.steampowered.com/app/5020540
+==================================================
+
+==================================================
+Name: Puzzle Seahorses
+Release Date: Nov 13, 2026
+Price: $2.99 (-40%, was $4.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5393960
+==================================================
+
+==================================================
+Name: On The Outside
+Release Date: Nov 13, 2026
+Price: $4.99
+Genres: Action, Adventure, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/1956160
+==================================================
+
+==================================================
+Name: Horror Stories: Social Problems
+Release Date: Nov 13, 2026
+Price: $6.79 (-15%, was $7.99)
+Genres: Adventure, Indie, RPG, Simulation
+Link: https://store.steampowered.com/app/5164620
+==================================================
+
