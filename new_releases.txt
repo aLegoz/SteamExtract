@@ -116586,3 +116586,190 @@ Genres: Adventure, Simulation
 Link: https://store.steampowered.com/app/5339970
 ==================================================
 
+
+--- Run: 2026-11-15 08:33:11 --- (23 new game(s) found)
+
+==================================================
+Name: Red Crucible Assault
+Release Date: Nov 18, 2025
+Price: $12.74 (-15%, was $14.99)
+Genres: Action, Early Access
+Link: https://store.steampowered.com/app/3325950
+==================================================
+
+==================================================
+Name: World Guesser
+Release Date: Nov 15, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/2402620
+==================================================
+
+==================================================
+Name: Crowns & Colossi
+Release Date: Nov 14, 2026
+Price: $5.59 (-20%, was $6.99)
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/5451060
+==================================================
+
+==================================================
+Name: How Many Tickets Does It Take To Win The Lottery?
+Release Date: Nov 14, 2026
+Price: $1.79 (-10%, was $1.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5450860
+==================================================
+
+==================================================
+Name: Breeze Of Adventure
+Release Date: Nov 14, 2026
+Price: $11.99
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/4673230
+==================================================
+
+==================================================
+Name: Black Pyramid
+Release Date: Nov 14, 2026
+Price: $7.99
+Genres: Adventure, RPG
+Link: https://store.steampowered.com/app/4938490
+==================================================
+
+==================================================
+Name: Commander's Dilemma
+Release Date: Nov 14, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: RPG, Simulation, Strategy
+Link: https://store.steampowered.com/app/5445850
+==================================================
+
+==================================================
+Name: Rubber Stamp Legend
+Release Date: Nov 14, 2026
+Price: $3.19 (-20%, was $3.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5471970
+==================================================
+
+==================================================
+Name: THE BACKLOG
+Release Date: Nov 14, 2026
+Price: $6.39 (-20%, was $7.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5354240
+==================================================
+
+==================================================
+Name: RSP Ultimate Battle
+Release Date: Nov 14, 2026
+Price: $2.99
+Genres: Strategy
+Link: https://store.steampowered.com/app/5455640
+==================================================
+
+==================================================
+Name: Hockey Coach Dynasty
+Release Date: Nov 14, 2026
+Price: $5.39 (-10%, was $5.99)
+Genres: Indie, Simulation, Sports, Strategy
+Link: https://store.steampowered.com/app/5293350
+==================================================
+
+==================================================
+Name: Tisuland
+Release Date: Nov 14, 2026
+Price: $2.39 (-20%, was $2.99)
+Genres: Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/4212960
+==================================================
+
+==================================================
+Name: I Ching: Chinese Tarot & Wisdom of Change
+Release Date: Nov 14, 2026
+Price: $3.19 (-20%, was $3.99)
+Genres: Education
+Link: https://store.steampowered.com/app/5275070
+==================================================
+
+==================================================
+Name: Tenrei
+Release Date: Nov 14, 2026
+Price: Free to Play
+Genres: Adventure, Indie, RPG, Simulation, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4366550
+==================================================
+
+==================================================
+Name: Cycle of the First Dawn
+Release Date: Nov 14, 2026
+Price: Free to Play
+Genres: Casual, Indie, RPG, Simulation, Free To Play
+Link: https://store.steampowered.com/app/5408030
+==================================================
+
+==================================================
+Name: PUSH MID
+Release Date: Nov 14, 2026
+Price: $3.59 (-10%, was $3.99)
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/5097300
+==================================================
+
+==================================================
+Name: 中国球王之路
+Release Date: Nov 14, 2026
+Price: $7.19 (-10%, was $7.99)
+Genres: Sports
+Link: https://store.steampowered.com/app/5355990
+==================================================
+
+==================================================
+Name: Subsurface
+Release Date: Nov 14, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/4538060
+==================================================
+
+==================================================
+Name: Ray Ray Zombies
+Release Date: Nov 14, 2026
+Price: $16.99 (-15%, was $19.99)
+Genres: Action
+Link: https://store.steampowered.com/app/5244680
+==================================================
+
+==================================================
+Name: 宿の掟 / Rules of the Inn
+Release Date: Nov 14, 2026
+Price: $3.59 (-10%, was $3.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/5045430
+==================================================
+
+==================================================
+Name: Lust Isles
+Release Date: Nov 14, 2026
+Price: $8.39 (-40%, was $13.99)
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/5122610
+==================================================
+
+==================================================
+Name: Gestalt Journey
+Release Date: Nov 14, 2026
+Price: $6.99
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5308360
+==================================================
+
+==================================================
+Name: Intergalactic Defenders
+Release Date: Nov 14, 2026
+Price: $3.39 (-15%, was $3.99)
+Genres: Action, Adventure, Simulation
+Link: https://store.steampowered.com/app/2677970
+==================================================
+
