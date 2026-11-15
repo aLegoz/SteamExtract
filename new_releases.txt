@@ -116773,3 +116773,126 @@ Genres: Action, Adventure, Simulation
 Link: https://store.steampowered.com/app/2677970
 ==================================================
 
+
+--- Run: 2026-11-15 15:56:49 --- (15 new game(s) found)
+
+==================================================
+Name: I AM MILK
+Release Date: Nov 15, 2026
+Price: $15.99
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4890230
+==================================================
+
+==================================================
+Name: Water Maid
+Release Date: Nov 15, 2026
+Price: $4.19 (-30%, was $5.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/3175580
+==================================================
+
+==================================================
+Name: Villa Anzuelo: The Obituarist
+Release Date: Nov 15, 2026
+Price: $9.95 (-40%, was $16.59)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/5446440
+==================================================
+
+==================================================
+Name: BEAST
+Release Date: Nov 15, 2026
+Price: Free to Play
+Genres: Simulation, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4604010
+==================================================
+
+==================================================
+Name: Tank: Kill Them
+Release Date: Nov 15, 2026
+Price: Free to Play
+Genres: Action, Adventure, Casual, Indie, RPG
+Link: https://store.steampowered.com/app/5067250
+==================================================
+
+==================================================
+Name: Little Seed
+Release Date: Nov 15, 2026
+Price: $59.99 (-40%, was $99.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5434520
+==================================================
+
+==================================================
+Name: Re:collect
+Release Date: Nov 15, 2026
+Price: $3.19 (-20%, was $3.99)
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/4783310
+==================================================
+
+==================================================
+Name: Sangoku Bump
+Release Date: Nov 15, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/5024380
+==================================================
+
+==================================================
+Name: Hume Index
+Release Date: Nov 15, 2026
+Price: $7.99
+Genres: Action, Adventure, Indie, Strategy
+Link: https://store.steampowered.com/app/2563090
+==================================================
+
+==================================================
+Name: Age of Dynasty & Dust
+Release Date: Nov 15, 2026
+Price: $8.99
+Genres: Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/5328470
+==================================================
+
+==================================================
+Name: Ballpeak
+Release Date: Nov 15, 2026
+Price: $1.97 (-34%, was $2.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5462420
+==================================================
+
+==================================================
+Name: My Sister
+Release Date: Nov 15, 2026
+Price: $1.19 (-40%, was $1.99)
+Genres: Indie, RPG
+Link: https://store.steampowered.com/app/5485210
+==================================================
+
+==================================================
+Name: Our campus life
+Release Date: Nov 15, 2026
+Price: $24.99
+Genres: Casual, Indie, RPG
+Link: https://store.steampowered.com/app/3473270
+==================================================
+
+==================================================
+Name: Code Red RTS
+Release Date: Nov 15, 2026
+Price: Free to Play
+Genres: Casual, Strategy, Free To Play
+Link: https://store.steampowered.com/app/5512840
+==================================================
+
+==================================================
+Name: Hanafuda
+Release Date: Nov 14, 2026
+Price: $8.49 (-15%, was $9.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/5052180
+==================================================
+
