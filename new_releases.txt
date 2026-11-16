@@ -117086,3 +117086,174 @@ Genres: Action, Indie, Strategy
 Link: https://store.steampowered.com/app/5402450
 ==================================================
 
+
+--- Run: 2026-11-16 07:26:14 --- (21 new game(s) found)
+
+==================================================
+Name: Trick Nor Treat
+Release Date: Nov 15, 2026
+Price: Free to Play
+Genres: Adventure, Free To Play
+Link: https://store.steampowered.com/app/5333130
+==================================================
+
+==================================================
+Name: Dicekin: Monster Tamer
+Release Date: Nov 15, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Casual, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/5500200
+==================================================
+
+==================================================
+Name: Smash Dash: Demolition Run
+Release Date: Nov 15, 2026
+Price: Free to Play
+Genres: Action, Indie, Free To Play
+Link: https://store.steampowered.com/app/4475300
+==================================================
+
+==================================================
+Name: Pro League Golf Simulator
+Release Date: Nov 15, 2026
+Price: $29.99
+Genres: Simulation, Sports, Strategy
+Link: https://store.steampowered.com/app/3995900
+==================================================
+
+==================================================
+Name: Elixir of Moonglow
+Release Date: Nov 15, 2026
+Price: $9.99
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/3920900
+==================================================
+
+==================================================
+Name: FaceTrack
+Release Date: Nov 15, 2026
+Price: $14.99 (-40%, was $24.99)
+Genres: Animation & Modeling, Utilities, Video Production, Game Development
+Link: https://store.steampowered.com/app/3231540
+==================================================
+
+==================================================
+Name: Idle King: Loot Together
+Release Date: Nov 15, 2026
+Price: $4.79 (-20%, was $5.99)
+Genres: Adventure, Casual, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/5013290
+==================================================
+
+==================================================
+Name: Can I see your...plants?
+Release Date: Nov 15, 2026
+Price: Free to Play
+Genres: Casual, Indie, Simulation, Free To Play
+Link: https://store.steampowered.com/app/5048390
+==================================================
+
+==================================================
+Name: Memory Games Apple
+Release Date: Nov 15, 2026
+Price: $2.99 (-40%, was $4.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5401480
+==================================================
+
+==================================================
+Name: Memory Games Ice cream
+Release Date: Nov 15, 2026
+Price: $2.99 (-40%, was $4.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5401460
+==================================================
+
+==================================================
+Name: Memory Games Trains
+Release Date: Nov 15, 2026
+Price: $2.99 (-40%, was $4.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5401490
+==================================================
+
+==================================================
+Name: Mourning Brew
+Release Date: Nov 15, 2026
+Price: Free to Play
+Genres: Casual, Indie, Simulation, Free To Play
+Link: https://store.steampowered.com/app/3963000
+==================================================
+
+==================================================
+Name: Berry Busy Tidy Up!
+Release Date: Nov 15, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5426350
+==================================================
+
+==================================================
+Name: Jyoka -Castle town-
+Release Date: Nov 15, 2026
+Price: $23.09 (-23%, was $29.99)
+Genres: Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/5318580
+==================================================
+
+==================================================
+Name: Wildcat
+Release Date: Nov 15, 2026
+Price: $12.74 (-15%, was $14.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4960310
+==================================================
+
+==================================================
+Name: QuipKite
+Release Date: Nov 15, 2026
+Price: Free to Play
+Genres: Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/5345880
+==================================================
+
+==================================================
+Name: Chroma Jump
+Release Date: Nov 15, 2026
+Price: $3.59 (-10%, was $3.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4669190
+==================================================
+
+==================================================
+Name: Cruisopolis: Cruise Line Tycoon
+Release Date: Nov 15, 2026
+Price: $6.99 (-30%, was $9.99)
+Genres: Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/5476120
+==================================================
+
+==================================================
+Name: Home Sweet Bunker: Bunker Tycoon
+Release Date: Nov 15, 2026
+Price: $6.99 (-30%, was $9.99)
+Genres: Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/5493880
+==================================================
+
+==================================================
+Name: Hexel
+Release Date: Nov 15, 2026
+Price: $2.69 (-10%, was $2.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5303470
+==================================================
+
+==================================================
+Name: JOINT LIABILITY
+Release Date: Nov 15, 2026
+Price: $5.99
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5038400
+==================================================
+
