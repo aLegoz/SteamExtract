@@ -117500,3 +117500,246 @@ Genres: Indie, Racing, Simulation, Sports, Strategy
 Link: https://store.steampowered.com/app/5434480
 ==================================================
 
+
+--- Run: 2026-11-17 01:13:10 --- (30 new game(s) found)
+
+==================================================
+Name: Helbreath Mystic Tavern Classic
+Release Date: Nov 16, 2026
+Price: Free to Play
+Genres: Action, Massively Multiplayer, RPG, Free To Play
+Link: https://store.steampowered.com/app/5300950
+==================================================
+
+==================================================
+Name: Uncosy
+Release Date: Nov 16, 2026
+Price: $4.99
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/5078760
+==================================================
+
+==================================================
+Name: Colorways
+Release Date: Nov 16, 2026
+Price: $6.99
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4992410
+==================================================
+
+==================================================
+Name: Booty Battler
+Release Date: Nov 16, 2026
+Price: $3.00 (-40%, was $5.00)
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/3506150
+==================================================
+
+==================================================
+Name: Memórias de Arassay
+Release Date: Nov 16, 2026
+Price: Free to Play
+Genres: Adventure, Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/5328020
+==================================================
+
+==================================================
+Name: Kern
+Release Date: Nov 16, 2026
+Price: $2.00 (-33%, was $2.99)
+Genres: Action, Casual
+Link: https://store.steampowered.com/app/4832280
+==================================================
+
+==================================================
+Name: Pegs of Hell
+Release Date: Nov 16, 2026
+Price: $5.32 (-20%, was $6.66)
+Genres: Casual, Strategy
+Link: https://store.steampowered.com/app/5073610
+==================================================
+
+==================================================
+Name: Cubetoria: Build. Think. Solve.
+Release Date: Nov 16, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5518990
+==================================================
+
+==================================================
+Name: Elfscape: Ancestors
+Release Date: Nov 16, 2026
+Price: $11.89 (-15%, was $13.99)
+Genres: Action, Adventure, RPG
+Link: https://store.steampowered.com/app/2827970
+==================================================
+
+==================================================
+Name: Temple Of The Machine God
+Release Date: Nov 16, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Indie
+Link: https://store.steampowered.com/app/4535390
+==================================================
+
+==================================================
+Name: Swirl Together
+Release Date: Nov 16, 2026
+Price: $9.99
+Genres: Simulation
+Link: https://store.steampowered.com/app/5068940
+==================================================
+
+==================================================
+Name: 771: Smile and work
+Release Date: Nov 16, 2026
+Price: $5.99
+Genres: Indie
+Link: https://store.steampowered.com/app/3916430
+==================================================
+
+==================================================
+Name: Tinsel versus the Naughty List
+Release Date: Nov 16, 2026
+Price: $9.99
+Genres: Casual
+Link: https://store.steampowered.com/app/5481780
+==================================================
+
+==================================================
+Name: Hidden Cats in Spooky Carnival
+Release Date: Nov 16, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/2780700
+==================================================
+
+==================================================
+Name: Dark Workshop Simulator
+Release Date: Nov 16, 2026
+Price: $12.74 (-15%, was $14.99)
+Genres: Simulation, Strategy
+Link: https://store.steampowered.com/app/4730290
+==================================================
+
+==================================================
+Name: Keeping Up
+Release Date: Nov 16, 2026
+Price: $8.99
+Genres: Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4816030
+==================================================
+
+==================================================
+Name: Left4Sol
+Release Date: Nov 16, 2026
+Price: Free to Play
+Genres: Action, Adventure, Indie, Free To Play
+Link: https://store.steampowered.com/app/5115660
+==================================================
+
+==================================================
+Name: Threshold Zero
+Release Date: Nov 16, 2026
+Price: Free to Play
+Genres: Action, Adventure, Casual, Indie, RPG, Free To Play
+Link: https://store.steampowered.com/app/5239180
+==================================================
+
+==================================================
+Name: Cocaine Smuggler
+Release Date: Nov 16, 2026
+Price: $8.99
+Genres: Action, Simulation
+Link: https://store.steampowered.com/app/5152150
+==================================================
+
+==================================================
+Name: RemparZ
+Release Date: Nov 16, 2026
+Price: Free to Play
+Genres: Casual, Indie, Strategy, Free To Play
+Link: https://store.steampowered.com/app/5402310
+==================================================
+
+==================================================
+Name: Lots of Axos
+Release Date: Nov 16, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4557840
+==================================================
+
+==================================================
+Name: MEAT PARADE
+Release Date: Nov 16, 2026
+Price: $6.39 (-20%, was $7.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4211640
+==================================================
+
+==================================================
+Name: Code Market
+Release Date: Nov 16, 2026
+Price: $7.19 (-20%, was $8.99)
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/5451260
+==================================================
+
+==================================================
+Name: Memory Games Geese
+Release Date: Nov 16, 2026
+Price: $2.99 (-40%, was $4.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5401510
+==================================================
+
+==================================================
+Name: Fortress Breaker
+Release Date: Nov 16, 2026
+Price: $9.74 (-25%, was $12.99)
+Genres: Action, Adventure, Indie, Strategy
+Link: https://store.steampowered.com/app/5150660
+==================================================
+
+==================================================
+Name: Visual Novel
+Release Date: Nov 16, 2026
+Price: $1.39 (-30%, was $1.99)
+Genres: Action, Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/5498410
+==================================================
+
+==================================================
+Name: Zaz Tower
+Release Date: Nov 16, 2026
+Price: $4.68 (-33%, was $6.99)
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/5408350
+==================================================
+
+==================================================
+Name: At Once, My Lord!
+Release Date: Nov 16, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5100770
+==================================================
+
+==================================================
+Name: Watch and Whisper
+Release Date: Nov 16, 2026
+Price: $5.09 (-15%, was $5.99)
+Genres: Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/4592050
+==================================================
+
+==================================================
+Name: Logosmancer
+Release Date: Nov 16, 2026
+Price: $4.99
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/5349180
+==================================================
+
