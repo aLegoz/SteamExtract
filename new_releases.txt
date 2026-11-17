@@ -117743,3 +117743,246 @@ Genres: Action, Casual, Indie
 Link: https://store.steampowered.com/app/5349180
 ==================================================
 
+
+--- Run: 2026-11-17 09:50:53 --- (30 new game(s) found)
+
+==================================================
+Name: Angel Investor Simulator™
+Release Date: Nov 17, 2026
+Price: $9.59 (-20%, was $11.99)
+Genres: Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4771830
+==================================================
+
+==================================================
+Name: Save Ruika! — Looping with a Losing Heroine
+Release Date: Nov 17, 2026
+Price: $2.69 (-10%, was $2.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/5106660
+==================================================
+
+==================================================
+Name: 101 Dogs Hidden in Kuala Lumpur
+Release Date: Nov 17, 2026
+Price: $0.59 (-40%, was $0.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5537920
+==================================================
+
+==================================================
+Name: Desktop Maid Haru
+Release Date: Nov 17, 2026
+Price: $7.50
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4577060
+==================================================
+
+==================================================
+Name: Everhex
+Release Date: Nov 17, 2026
+Price: $14.99
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/5120080
+==================================================
+
+==================================================
+Name: Sort Them Gnomes
+Release Date: Nov 17, 2026
+Price: $5.99
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5452060
+==================================================
+
+==================================================
+Name: Mad Dvizhuha: Benzovoz
+Release Date: Nov 17, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Action, Simulation
+Link: https://store.steampowered.com/app/5280100
+==================================================
+
+==================================================
+Name: Butaro's Overtime Office
+Release Date: Nov 17, 2026
+Price: $3.99
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4903470
+==================================================
+
+==================================================
+Name: Summer, Youth, and Baseball
+Release Date: Nov 17, 2026
+Price: Free to Play
+Genres: Casual, Indie, Sports, Free To Play
+Link: https://store.steampowered.com/app/5541800
+==================================================
+
+==================================================
+Name: Cube Fold
+Release Date: Nov 17, 2026
+Price: $2.99
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4748960
+==================================================
+
+==================================================
+Name: Heart Of Machine
+Release Date: Nov 16, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4710560
+==================================================
+
+==================================================
+Name: Pinata Smash: Incremental Circus
+Release Date: Nov 16, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Action, Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4918810
+==================================================
+
+==================================================
+Name: HEXWING
+Release Date: Nov 16, 2026
+Price: $4.99
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/5486840
+==================================================
+
+==================================================
+Name: 終末王座
+Release Date: Nov 16, 2026
+Price: $5.09 (-15%, was $5.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/5185680
+==================================================
+
+==================================================
+Name: DerbiManager
+Release Date: Nov 16, 2026
+Price: $8.99 (-40%, was $14.99)
+Genres: Simulation, Sports, Strategy
+Link: https://store.steampowered.com/app/5424160
+==================================================
+
+==================================================
+Name: Scripts of Power
+Release Date: Nov 16, 2026
+Price: $0.99
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/5515170
+==================================================
+
+==================================================
+Name: Kyle Coral
+Release Date: Nov 16, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/5183160
+==================================================
+
+==================================================
+Name: PROJECT: MIRROR
+Release Date: Nov 16, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Adventure, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4914420
+==================================================
+
+==================================================
+Name: ROKUMENSHU
+Release Date: Nov 16, 2026
+Price: $4.99
+Genres: Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/5459220
+==================================================
+
+==================================================
+Name: Three Kingdoms: Survivors
+Release Date: Nov 16, 2026
+Price: $2.39 (-40%, was $3.99)
+Genres: Action, Casual, Indie, RPG
+Link: https://store.steampowered.com/app/5533700
+==================================================
+
+==================================================
+Name: S.O.I.: Sphere of Influence
+Release Date: Nov 16, 2026
+Price: $6.99 (-30%, was $9.99)
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/5330280
+==================================================
+
+==================================================
+Name: No Alibi
+Release Date: Nov 16, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/3266730
+==================================================
+
+==================================================
+Name: Sudoku Defense
+Release Date: Nov 16, 2026
+Price: $9.99
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/3721150
+==================================================
+
+==================================================
+Name: Pocket TD
+Release Date: Nov 16, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: Action, Indie, Strategy
+Link: https://store.steampowered.com/app/5129310
+==================================================
+
+==================================================
+Name: Tactics Arena
+Release Date: Nov 16, 2026
+Price: Free to Play
+Genres: Indie, Strategy, Free To Play
+Link: https://store.steampowered.com/app/5255210
+==================================================
+
+==================================================
+Name: Tabletop Basketball VR
+Release Date: Nov 16, 2026
+Price: $14.99
+Genres: Indie, Simulation, Sports
+Link: https://store.steampowered.com/app/931210
+==================================================
+
+==================================================
+Name: Murder Mystery Online
+Release Date: Nov 16, 2026
+Price: Free to Play
+Genres: Adventure, Indie, Simulation, Strategy, Free To Play
+Link: https://store.steampowered.com/app/5451420
+==================================================
+
+==================================================
+Name: AMIDA Q
+Release Date: Nov 16, 2026
+Price: $2.24 (-25%, was $2.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5339560
+==================================================
+
+==================================================
+Name: Perfect Wives: Midsummer Party
+Release Date: Nov 16, 2026
+Price: $2.09 (-30%, was $2.99)
+Genres: Casual, Simulation
+Link: https://store.steampowered.com/app/5075260
+==================================================
+
+==================================================
+Name: MythTunes: OST, Lofi & BGM Player
+Release Date: Nov 16, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Casual, Utilities
+Link: https://store.steampowered.com/app/5013880
+==================================================
+
