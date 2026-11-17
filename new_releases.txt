@@ -117986,3 +117986,238 @@ Genres: Casual, Utilities
 Link: https://store.steampowered.com/app/5013880
 ==================================================
 
+
+--- Run: 2026-11-17 18:50:50 --- (29 new game(s) found)
+
+==================================================
+Name: Suspect Express
+Release Date: Nov 17, 2026
+Price: $6.99
+Genres: Action, Indie, Strategy
+Link: https://store.steampowered.com/app/5277780
+==================================================
+
+==================================================
+Name: Cable Management Simulator
+Release Date: Nov 17, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5318160
+==================================================
+
+==================================================
+Name: Packs To Riches
+Release Date: Nov 17, 2026
+Price: $4.79 (-20%, was $5.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4994180
+==================================================
+
+==================================================
+Name: Farmstead Market Simulator
+Release Date: Nov 17, 2026
+Price: $6.39 (-20%, was $7.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5001770
+==================================================
+
+==================================================
+Name: Australia Did It: End-of-the-World Railway Defense Business
+Release Date: Nov 17, 2026
+Price: $13.49 (-10%, was $14.99)
+Genres: Action, Strategy
+Link: https://store.steampowered.com/app/2396130
+==================================================
+
+==================================================
+Name: AlterMage
+Release Date: Nov 17, 2026
+Price: $10.49 (-30%, was $14.99)
+Genres: Action, Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/4085920
+==================================================
+
+==================================================
+Name: Maglev Driver
+Release Date: Nov 17, 2026
+Price: Free to Play
+Genres: Indie, Simulation, Free To Play
+Link: https://store.steampowered.com/app/5507480
+==================================================
+
+==================================================
+Name: Card Builder
+Release Date: Nov 17, 2026
+Price: $12.74 (-15%, was $14.99)
+Genres: Design & Illustration, Photo Editing, Utilities, Game Development
+Link: https://store.steampowered.com/app/5122130
+==================================================
+
+==================================================
+Name: Attkand
+Release Date: Nov 17, 2026
+Price: $6.79 (-15%, was $7.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/5146380
+==================================================
+
+==================================================
+Name: Breachwall: Network Defense
+Release Date: Nov 17, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/5517840
+==================================================
+
+==================================================
+Name: Pill & Chill
+Release Date: Nov 17, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5012130
+==================================================
+
+==================================================
+Name: Deep Space Miner
+Release Date: Nov 17, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4653390
+==================================================
+
+==================================================
+Name: Hero Of The Guitar
+Release Date: Nov 17, 2026
+Price: $0.99
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4076840
+==================================================
+
+==================================================
+Name: OKUREK
+Release Date: Nov 17, 2026
+Price: $6.79 (-15%, was $7.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4735450
+==================================================
+
+==================================================
+Name: Swarmdle
+Release Date: Nov 17, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/5033720
+==================================================
+
+==================================================
+Name: WarmSpot
+Release Date: Nov 17, 2026
+Price: $6.99
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/5192330
+==================================================
+
+==================================================
+Name: 앨로이스 택틱스(ALOES Tactics)
+Release Date: Nov 17, 2026
+Price: $2.99 (-25%, was $3.99)
+Genres: Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/5509420
+==================================================
+
+==================================================
+Name: Picky Numbers
+Release Date: Nov 17, 2026
+Price: $6.29 (-10%, was $6.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4665120
+==================================================
+
+==================================================
+Name: Block Garden
+Release Date: Nov 17, 2026
+Price: $2.54 (-15%, was $2.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/766270
+==================================================
+
+==================================================
+Name: Squomb
+Release Date: Nov 17, 2026
+Price: $4.89 (-30%, was $6.99)
+Genres: Action, Casual
+Link: https://store.steampowered.com/app/4418110
+==================================================
+
+==================================================
+Name: Traveloot
+Release Date: Nov 17, 2026
+Price: $3.39 (-15%, was $3.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4349140
+==================================================
+
+==================================================
+Name: Death & Deadlines
+Release Date: Nov 17, 2026
+Price: $3.59 (-10%, was $3.99)
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/4071910
+==================================================
+
+==================================================
+Name: Enamelist: Tidy Up the Pin Collection
+Release Date: Nov 17, 2026
+Price: $5.39 (-10%, was $5.99)
+Genres: Casual, Simulation
+Link: https://store.steampowered.com/app/5303460
+==================================================
+
+==================================================
+Name: Wreck and Repeat
+Release Date: Nov 17, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Action
+Link: https://store.steampowered.com/app/5519480
+==================================================
+
+==================================================
+Name: Bounce On 2: Drallo's Demise
+Release Date: Nov 17, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4662700
+==================================================
+
+==================================================
+Name: Curse of the Chronomancer
+Release Date: Nov 17, 2026
+Price: $7.19 (-10%, was $7.99)
+Genres: Action
+Link: https://store.steampowered.com/app/4888340
+==================================================
+
+==================================================
+Name: Imperium Sine Fine: Eternal Emperor
+Release Date: Nov 17, 2026
+Price: $13.49 (-10%, was $14.99)
+Genres: Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4826520
+==================================================
+
+==================================================
+Name: Marbles: Tidy Up
+Release Date: Nov 17, 2026
+Price: $5.39 (-10%, was $5.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5500150
+==================================================
+
+==================================================
+Name: Collabulator
+Release Date: Nov 17, 2026
+Price: $1.29
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5202050
+==================================================
+
