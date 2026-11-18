@@ -118643,3 +118643,238 @@ Genres: Casual, Massively Multiplayer, Simulation, Free To Play
 Link: https://store.steampowered.com/app/5532770
 ==================================================
 
+
+--- Run: 2026-11-18 18:30:01 --- (29 new game(s) found)
+
+==================================================
+Name: Tiny Dwellings
+Release Date: Nov 18, 2026
+Price: $7.19 (-10%, was $7.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4531250
+==================================================
+
+==================================================
+Name: Swarmbreaker
+Release Date: Nov 18, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4948940
+==================================================
+
+==================================================
+Name: Graveyard Orbit
+Release Date: Nov 18, 2026
+Price: $2.99 (-40%, was $4.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4654120
+==================================================
+
+==================================================
+Name: Grimdelve
+Release Date: Nov 18, 2026
+Price: $9.95 (-17%, was $11.99)
+Genres: Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/3616480
+==================================================
+
+==================================================
+Name: Warchaic
+Release Date: Nov 18, 2026
+Price: $7.64 (-15%, was $8.99)
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/5094400
+==================================================
+
+==================================================
+Name: Christian Mother
+Release Date: Nov 18, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4144580
+==================================================
+
+==================================================
+Name: PLEASE CONFIRM THE DECEASED
+Release Date: Nov 18, 2026
+Price: $5.39 (-10%, was $5.99)
+Genres: Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/5036870
+==================================================
+
+==================================================
+Name: Celestial Decks
+Release Date: Nov 18, 2026
+Price: Free to Play
+Genres: Strategy, Free To Play
+Link: https://store.steampowered.com/app/3810590
+==================================================
+
+==================================================
+Name: Debt Clicker
+Release Date: Nov 18, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/5474760
+==================================================
+
+==================================================
+Name: Goblington
+Release Date: Nov 18, 2026
+Price: $11.24 (-25%, was $14.99)
+Genres: Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/2772330
+==================================================
+
+==================================================
+Name: Scrapecremental
+Release Date: Nov 18, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5436650
+==================================================
+
+==================================================
+Name: Find The ZTA VI CD
+Release Date: Nov 18, 2026
+Price: $3.19 (-20%, was $3.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5518050
+==================================================
+
+==================================================
+Name: Space Golf - A golf game in space...
+Release Date: Nov 18, 2026
+Price: $2.24 (-25%, was $2.99)
+Genres: Casual, Indie, Simulation, Sports
+Link: https://store.steampowered.com/app/5511570
+==================================================
+
+==================================================
+Name: Crackheads
+Release Date: Nov 18, 2026
+Price: $3.74 (-25%, was $4.99)
+Genres: Action, Adventure, Casual, Indie, Racing, Simulation
+Link: https://store.steampowered.com/app/4450600
+==================================================
+
+==================================================
+Name: Dark Rail
+Release Date: Nov 18, 2026
+Price: $9.99 (-20%, was $12.49)
+Genres: Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4553620
+==================================================
+
+==================================================
+Name: Arctic Grave
+Release Date: Nov 18, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Adventure
+Link: https://store.steampowered.com/app/4258680
+==================================================
+
+==================================================
+Name: Greed Forest TD
+Release Date: Nov 18, 2026
+Price: $7.14 (-35%, was $10.99)
+Genres: Action, Indie, Strategy
+Link: https://store.steampowered.com/app/2960760
+==================================================
+
+==================================================
+Name: Utopium
+Release Date: Nov 18, 2026
+Price: $11.89 (-15%, was $13.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/3208040
+==================================================
+
+==================================================
+Name: KORRIDOR
+Release Date: Nov 18, 2026
+Price: $4.79 (-40%, was $7.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/3739580
+==================================================
+
+==================================================
+Name: Space Station Designer
+Release Date: Nov 18, 2026
+Price: $19.99
+Genres: Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/1447650
+==================================================
+
+==================================================
+Name: MUV-LUV GIRLS GARDEN Mellow Days
+Release Date: Nov 18, 2026
+Price: $11.69 (-10%, was $12.99)
+Genres: Adventure, Casual
+Link: https://store.steampowered.com/app/5005700
+==================================================
+
+==================================================
+Name: 幻想中_In my imagination
+Release Date: Nov 18, 2026
+Price: $4.99
+Genres: Casual
+Link: https://store.steampowered.com/app/5453230
+==================================================
+
+==================================================
+Name: Rage Box
+Release Date: Nov 18, 2026
+Price: $5.09 (-15%, was $5.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4529410
+==================================================
+
+==================================================
+Name: AI Lab Tycoon
+Release Date: Nov 18, 2026
+Price: $19.99 (-20%, was $24.99)
+Genres: Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/5015590
+==================================================
+
+==================================================
+Name: 삼국지-다시 쓰는 연의
+Release Date: Nov 18, 2026
+Price: $9.99
+Genres: Indie, RPG
+Link: https://store.steampowered.com/app/5157030
+==================================================
+
+==================================================
+Name: Save the Nuke!
+Release Date: Nov 18, 2026
+Price: $2.99
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/5491880
+==================================================
+
+==================================================
+Name: Cosmic Crumbs: Bakery Simulator - First Bite
+Release Date: Nov 18, 2026
+Price: Free to Play
+Genres: Casual, Indie, Simulation, Free To Play
+Link: https://store.steampowered.com/app/5485410
+==================================================
+
+==================================================
+Name: Bomb Them Ores
+Release Date: Nov 18, 2026
+Price: $5.94 (-15%, was $6.99)
+Genres: Action, Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/5172870
+==================================================
+
+==================================================
+Name: Mini Legends Idle
+Release Date: Nov 18, 2026
+Price: Free to Play
+Genres: Casual, Indie, RPG, Free To Play
+Link: https://store.steampowered.com/app/5449680
+==================================================
+
