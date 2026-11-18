@@ -118221,3 +118221,198 @@ Genres: Casual, Indie, Simulation
 Link: https://store.steampowered.com/app/5202050
 ==================================================
 
+
+--- Run: 2026-11-18 01:26:10 --- (24 new game(s) found)
+
+==================================================
+Name: Adverse Reaction
+Release Date: Nov 17, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/5334410
+==================================================
+
+==================================================
+Name: Hentai Academy: UNDERTOW
+Release Date: Nov 17, 2026
+Price: $6.99 (-30%, was $9.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4917760
+==================================================
+
+==================================================
+Name: Claimbreaker
+Release Date: Nov 17, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Action, Indie, Strategy
+Link: https://store.steampowered.com/app/5519840
+==================================================
+
+==================================================
+Name: Majulah: Shape Your City – Prologue
+Release Date: Nov 17, 2026
+Price: Free to Play
+Genres: Casual, Simulation, Strategy, Free To Play
+Link: https://store.steampowered.com/app/5027890
+==================================================
+
+==================================================
+Name: IFRIT
+Release Date: Nov 17, 2026
+Price: $3.19 (-20%, was $3.99)
+Genres: Adventure, RPG
+Link: https://store.steampowered.com/app/5461060
+==================================================
+
+==================================================
+Name: Hive Fall
+Release Date: Nov 17, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/4764040
+==================================================
+
+==================================================
+Name: Presentfall: Santa Defense
+Release Date: Nov 17, 2026
+Price: $1.59 (-20%, was $1.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4255520
+==================================================
+
+==================================================
+Name: Lost Freight
+Release Date: Nov 17, 2026
+Price: $7.19 (-10%, was $7.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4927790
+==================================================
+
+==================================================
+Name: The Heir: Steampunk Escape Room
+Release Date: Nov 17, 2026
+Price: $8.49 (-15%, was $9.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4959760
+==================================================
+
+==================================================
+Name: Merkalis: Conquest
+Release Date: Nov 17, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/5268040
+==================================================
+
+==================================================
+Name: Earl's Court
+Release Date: Nov 17, 2026
+Price: $8.49 (-15%, was $9.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5443320
+==================================================
+
+==================================================
+Name: Only Sheep
+Release Date: Nov 17, 2026
+Price: $4.49 (-25%, was $5.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5506410
+==================================================
+
+==================================================
+Name: Ringfall TD
+Release Date: Nov 17, 2026
+Price: Free to Play
+Genres: Casual, Indie, Strategy, Free To Play
+Link: https://store.steampowered.com/app/5516180
+==================================================
+
+==================================================
+Name: Dungeon Delvers
+Release Date: Nov 17, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/5461360
+==================================================
+
+==================================================
+Name: Crossroads: Ancient Sagas online
+Release Date: Nov 17, 2026
+Price: Free to Play
+Genres: Casual, Free To Play
+Link: https://store.steampowered.com/app/3249730
+==================================================
+
+==================================================
+Name: Hoppernaut
+Release Date: Nov 17, 2026
+Price: $7.19 (-10%, was $7.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/5328440
+==================================================
+
+==================================================
+Name: Unexpected Number Neighbour
+Release Date: Nov 17, 2026
+Price: $5.94 (-15%, was $6.99)
+Genres: Adventure, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4790930
+==================================================
+
+==================================================
+Name: Tankii
+Release Date: Nov 17, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4971410
+==================================================
+
+==================================================
+Name: Zone Idle
+Release Date: Nov 17, 2026
+Price: $5.99 (-40%, was $9.99)
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4330500
+==================================================
+
+==================================================
+Name: vlaina
+Release Date: Nov 17, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: Utilities
+Link: https://store.steampowered.com/app/5438180
+==================================================
+
+==================================================
+Name: Unhistorical Warfare
+Release Date: Nov 17, 2026
+Price: $6.39 (-20%, was $7.99)
+Genres: Casual, Simulation, Strategy
+Link: https://store.steampowered.com/app/5292120
+==================================================
+
+==================================================
+Name: Linkominoes
+Release Date: Nov 17, 2026
+Price: $7.19 (-10%, was $7.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4658530
+==================================================
+
+==================================================
+Name: Type to Survive
+Release Date: Nov 17, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/5226670
+==================================================
+
+==================================================
+Name: My Dusty Downs
+Release Date: Nov 17, 2026
+Price: $5.59 (-20%, was $6.99)
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/5541080
+==================================================
+
