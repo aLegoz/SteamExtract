@@ -118416,3 +118416,230 @@ Genres: Casual, Indie, Simulation, Strategy
 Link: https://store.steampowered.com/app/5541080
 ==================================================
 
+
+--- Run: 2026-11-18 09:22:50 --- (28 new game(s) found)
+
+==================================================
+Name: RETROPULSE Christmas
+Release Date: Nov 18, 2026
+Price: $1.79 (-40%, was $2.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5547990
+==================================================
+
+==================================================
+Name: taCam
+Release Date: Nov 18, 2026
+Price: $5.39 (-10%, was $5.99)
+Genres: Action, Indie, Simulation
+Link: https://store.steampowered.com/app/3250210
+==================================================
+
+==================================================
+Name: Carnival Catastrophe
+Release Date: Nov 17, 2026
+Price: $5.99
+Genres: Casual
+Link: https://store.steampowered.com/app/5122570
+==================================================
+
+==================================================
+Name: Cloudside Lane
+Release Date: Nov 17, 2026
+Price: $5.09 (-15%, was $5.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/3842880
+==================================================
+
+==================================================
+Name: Realm of Iron
+Release Date: Nov 17, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Massively Multiplayer, RPG
+Link: https://store.steampowered.com/app/5417020
+==================================================
+
+==================================================
+Name: Benidorm Cruiser Order
+Release Date: Nov 17, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5364130
+==================================================
+
+==================================================
+Name: Prevail
+Release Date: Nov 17, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/5071360
+==================================================
+
+==================================================
+Name: Help, My Capybaras Escaped!
+Release Date: Nov 17, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5269140
+==================================================
+
+==================================================
+Name: 世界防衛少女!!-DEFENDER MAIDEN-
+Release Date: Nov 17, 2026
+Price: $4.79 (-20%, was $5.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/5120640
+==================================================
+
+==================================================
+Name: Shades of Fear - North Loop
+Release Date: Nov 17, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4157620
+==================================================
+
+==================================================
+Name: Super Plants
+Release Date: Nov 17, 2026
+Price: Free to Play
+Genres: Strategy, Free To Play
+Link: https://store.steampowered.com/app/5194360
+==================================================
+
+==================================================
+Name: HATFINITY
+Release Date: Nov 17, 2026
+Price: Free to Play
+Genres: Action, Casual, Indie, RPG, Free To Play
+Link: https://store.steampowered.com/app/4408850
+==================================================
+
+==================================================
+Name: Echo Pandemic
+Release Date: Nov 17, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Action, Adventure, Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4750700
+==================================================
+
+==================================================
+Name: Noctilucent: Before Dawn – Collector’s Edition
+Release Date: Nov 17, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Adventure, Casual, RPG
+Link: https://store.steampowered.com/app/4575570
+==================================================
+
+==================================================
+Name: CyberMerit
+Release Date: Nov 17, 2026
+Price: $2.99
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4996120
+==================================================
+
+==================================================
+Name: Fishing Trawler
+Release Date: Nov 17, 2026
+Price: $5.99
+Genres: Action, Indie, Racing, Simulation, Sports
+Link: https://store.steampowered.com/app/5334650
+==================================================
+
+==================================================
+Name: Wizards of Elnia
+Release Date: Nov 17, 2026
+Price: Free to Play
+Genres: Action, Indie, RPG, Free To Play
+Link: https://store.steampowered.com/app/5222880
+==================================================
+
+==================================================
+Name: Wisp & Willow
+Release Date: Nov 17, 2026
+Price: $5.39 (-10%, was $5.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4451510
+==================================================
+
+==================================================
+Name: Cooking Adventure
+Release Date: Nov 17, 2026
+Price: $12.74 (-15%, was $14.99)
+Genres: Casual, Simulation, Strategy
+Link: https://store.steampowered.com/app/4729710
+==================================================
+
+==================================================
+Name: Dreamspire 2
+Release Date: Nov 17, 2026
+Price: $3.39 (-15%, was $3.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5374690
+==================================================
+
+==================================================
+Name: バロック商人 ～ バッハの残響
+Release Date: Nov 17, 2026
+Price: Free to Play
+Genres: Indie, Simulation, Free To Play
+Link: https://store.steampowered.com/app/5520310
+==================================================
+
+==================================================
+Name: REACTIONESE
+Release Date: Nov 17, 2026
+Price: $7.19 (-20%, was $8.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/5501410
+==================================================
+
+==================================================
+Name: Regradable
+Release Date: Nov 17, 2026
+Price: Free to Play
+Genres: Action, Adventure, Free To Play
+Link: https://store.steampowered.com/app/4969000
+==================================================
+
+==================================================
+Name: Elf World Adventure 14
+Release Date: Nov 17, 2026
+Price: $2.99 (-25%, was $3.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5426860
+==================================================
+
+==================================================
+Name: Elf World Adventure 13
+Release Date: Nov 17, 2026
+Price: $2.99 (-25%, was $3.99)
+Genres: Adventure, Casual, Indie, Simulation, Sports
+Link: https://store.steampowered.com/app/4787650
+==================================================
+
+==================================================
+Name: Red Eye Empire
+Release Date: Nov 17, 2026
+Price: Free to Play
+Genres: Free To Play
+Link: https://store.steampowered.com/app/5518020
+==================================================
+
+==================================================
+Name: Undertone
+Release Date: Nov 17, 2026
+Price: $2.39 (-20%, was $2.99)
+Genres: Action, Casual, RPG
+Link: https://store.steampowered.com/app/5129220
+==================================================
+
+==================================================
+Name: Pocket Pilots
+Release Date: Nov 17, 2026
+Price: Free to Play
+Genres: Casual, Massively Multiplayer, Simulation, Free To Play
+Link: https://store.steampowered.com/app/5532770
+==================================================
+
