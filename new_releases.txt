@@ -119121,3 +119121,222 @@ Genres: Action, Casual, Indie, Strategy
 Link: https://store.steampowered.com/app/5258160
 ==================================================
 
+
+--- Run: 2026-11-19 08:06:07 --- (27 new game(s) found)
+
+==================================================
+Name: ELEMENTAIL
+Release Date: Nov 18, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/3839890
+==================================================
+
+==================================================
+Name: Glusiverse
+Release Date: Nov 18, 2026
+Price: $6.79 (-15%, was $7.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/2835730
+==================================================
+
+==================================================
+Name: Miko Rhythm
+Release Date: Nov 18, 2026
+Price: $8.99 (-40%, was $14.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5450190
+==================================================
+
+==================================================
+Name: Pokart
+Release Date: Nov 18, 2026
+Price: $6.99 (-30%, was $9.99)
+Genres: Action, Adventure, Racing, Sports, Strategy
+Link: https://store.steampowered.com/app/5153550
+==================================================
+
+==================================================
+Name: Frog Collector
+Release Date: Nov 18, 2026
+Price: $5.39 (-10%, was $5.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5395920
+==================================================
+
+==================================================
+Name: Garvog: Monster Fight Combat
+Release Date: Nov 18, 2026
+Price: Free to Play
+Genres: Action, Free To Play
+Link: https://store.steampowered.com/app/5429100
+==================================================
+
+==================================================
+Name: Wink Out
+Release Date: Nov 18, 2026
+Price: $4.79 (-40%, was $7.99)
+Genres: Action, Casual, Indie, RPG
+Link: https://store.steampowered.com/app/4135380
+==================================================
+
+==================================================
+Name: CLACKPOT: Marble Bounce Roguelike
+Release Date: Nov 18, 2026
+Price: $6.39 (-20%, was $7.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/5383550
+==================================================
+
+==================================================
+Name: Power Grid Tycoon
+Release Date: Nov 18, 2026
+Price: $33.99 (-15%, was $39.99)
+Genres: Simulation
+Link: https://store.steampowered.com/app/5228130
+==================================================
+
+==================================================
+Name: ⋆｡°✩ Y2K Meter ✩°｡⋆
+Release Date: Nov 18, 2026
+Price: Free to Play
+Genres: Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/4972120
+==================================================
+
+==================================================
+Name: MoSimulator
+Release Date: Nov 18, 2026
+Price: Free to Play
+Genres: Casual, Simulation, Free To Play
+Link: https://store.steampowered.com/app/4398690
+==================================================
+
+==================================================
+Name: The Red Bells Lament
+Release Date: Nov 18, 2026
+Price: $44.99 (-10%, was $49.99)
+Genres: Adventure
+Link: https://store.steampowered.com/app/4279300
+==================================================
+
+==================================================
+Name: 十四亿分之一
+Release Date: Nov 18, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5485170
+==================================================
+
+==================================================
+Name: The Top Game
+Release Date: Nov 18, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Casual, RPG
+Link: https://store.steampowered.com/app/5450420
+==================================================
+
+==================================================
+Name: Last Ride
+Release Date: Nov 18, 2026
+Price: Free to Play
+Genres: Adventure, Indie, RPG, Strategy, Free To Play
+Link: https://store.steampowered.com/app/4620120
+==================================================
+
+==================================================
+Name: Battle For Pluestar
+Release Date: Nov 18, 2026
+Price: $4.99
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/5296870
+==================================================
+
+==================================================
+Name: MiniHero: Wonderbound
+Release Date: Nov 18, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/5302070
+==================================================
+
+==================================================
+Name: Sweeter
+Release Date: Nov 18, 2026
+Price: $0.59 (-40%, was $0.99)
+Genres: Action, Adventure
+Link: https://store.steampowered.com/app/5484040
+==================================================
+
+==================================================
+Name: Heavens Gate
+Release Date: Nov 18, 2026
+Price: $5.45
+Genres: Casual, Strategy
+Link: https://store.steampowered.com/app/4871990
+==================================================
+
+==================================================
+Name: カサネメ様
+Release Date: Nov 18, 2026
+Price: $3.59 (-10%, was $3.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/5499650
+==================================================
+
+==================================================
+Name: Burger Truck
+Release Date: Nov 18, 2026
+Price: $9.99
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5481170
+==================================================
+
+==================================================
+Name: Solis Chronicles
+Release Date: Nov 18, 2026
+Price: Free to Play
+Genres: Adventure, Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/5302340
+==================================================
+
+==================================================
+Name: Minus Zero
+Release Date: Nov 18, 2026
+Price: $13.00
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/5293240
+==================================================
+
+==================================================
+Name: Oh Shear!
+Release Date: Nov 18, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5180740
+==================================================
+
+==================================================
+Name: 幻想郷大激突 : Touhou Impact
+Release Date: Nov 18, 2026
+Price: $5.39 (-10%, was $5.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/2930250
+==================================================
+
+==================================================
+Name: Knight Fort
+Release Date: Nov 18, 2026
+Price: $5.69 (-15%, was $6.70)
+Genres: Action, Adventure, Indie, Software Training, Utilities
+Link: https://store.steampowered.com/app/4439060
+==================================================
+
+==================================================
+Name: 树人：中国班主任
+Release Date: Nov 18, 2026
+Price: $5.39 (-10%, was $5.99)
+Genres: Indie
+Link: https://store.steampowered.com/app/4539240
+==================================================
+
