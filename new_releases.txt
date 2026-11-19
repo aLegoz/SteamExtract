@@ -118878,3 +118878,246 @@ Genres: Casual, Indie, RPG, Free To Play
 Link: https://store.steampowered.com/app/5449680
 ==================================================
 
+
+--- Run: 2026-11-19 00:50:05 --- (30 new game(s) found)
+
+==================================================
+Name: Puzzlozenge
+Release Date: Nov 18, 2026
+Price: $0.99
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5462450
+==================================================
+
+==================================================
+Name: Neo Light
+Release Date: Nov 18, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/2983530
+==================================================
+
+==================================================
+Name: Don Memo
+Release Date: Nov 18, 2026
+Price: $15.99
+Genres: Adventure
+Link: https://store.steampowered.com/app/3934180
+==================================================
+
+==================================================
+Name: ZX Allstar Holdem
+Release Date: Nov 18, 2026
+Price: $6.39 (-20%, was $7.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/5477420
+==================================================
+
+==================================================
+Name: Dawn Apart
+Release Date: Nov 18, 2026
+Price: $19.99
+Genres: Simulation, Strategy
+Link: https://store.steampowered.com/app/1866300
+==================================================
+
+==================================================
+Name: Alien Skies
+Release Date: Nov 18, 2026
+Price: $3.99
+Genres: Action
+Link: https://store.steampowered.com/app/4941820
+==================================================
+
+==================================================
+Name: Untitled Shop Game
+Release Date: Nov 18, 2026
+Price: $10.49 (-30%, was $14.99)
+Genres: Simulation
+Link: https://store.steampowered.com/app/4986360
+==================================================
+
+==================================================
+Name: Dookie Clicker: The Big Pfft
+Release Date: Nov 18, 2026
+Price: $0.59 (-40%, was $0.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5362770
+==================================================
+
+==================================================
+Name: RoadKill Rally 2
+Release Date: Nov 18, 2026
+Price: $8.99
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/5132330
+==================================================
+
+==================================================
+Name: SURVIVORS SURVIVE
+Release Date: Nov 18, 2026
+Price: $3.99
+Genres: Action, Indie, RPG
+Link: https://store.steampowered.com/app/5518960
+==================================================
+
+==================================================
+Name: Ludoman
+Release Date: Nov 18, 2026
+Price: $2.99
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/5419140
+==================================================
+
+==================================================
+Name: Liminal Desktop
+Release Date: Nov 18, 2026
+Price: $2.24 (-25%, was $2.99)
+Genres: Casual, Indie, Simulation, Animation & Modeling, Design & Illustration, Utilities
+Link: https://store.steampowered.com/app/4960590
+==================================================
+
+==================================================
+Name: Space Couch Command
+Release Date: Nov 18, 2026
+Price: $16.99 (-15%, was $19.99)
+Genres: Action, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/5116650
+==================================================
+
+==================================================
+Name: Spike Force
+Release Date: Nov 18, 2026
+Price: $5.99 (-40%, was $9.99)
+Genres: Indie, RPG, Sports, Strategy
+Link: https://store.steampowered.com/app/5059840
+==================================================
+
+==================================================
+Name: Oustwit
+Release Date: Nov 18, 2026
+Price: Free to Play
+Genres: Casual, Strategy, Free To Play
+Link: https://store.steampowered.com/app/5532190
+==================================================
+
+==================================================
+Name: Supernova
+Release Date: Nov 18, 2026
+Price: Free to Play
+Genres: Action, Adventure, Indie, Free To Play
+Link: https://store.steampowered.com/app/5182760
+==================================================
+
+==================================================
+Name: Toto's Journey
+Release Date: Nov 18, 2026
+Price: $17.99 (-10%, was $19.99)
+Genres: Action, Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/3724300
+==================================================
+
+==================================================
+Name: Starhand
+Release Date: Nov 18, 2026
+Price: $12.74 (-15%, was $14.99)
+Genres: Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/5077820
+==================================================
+
+==================================================
+Name: Lia’s Rolling Club
+Release Date: Nov 18, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Casual, Simulation
+Link: https://store.steampowered.com/app/5475450
+==================================================
+
+==================================================
+Name: LevelFighters
+Release Date: Nov 18, 2026
+Price: $5.39 (-10%, was $5.99)
+Genres: Action, Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4294880
+==================================================
+
+==================================================
+Name: The Yield
+Release Date: Nov 18, 2026
+Price: $2.99
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/4601850
+==================================================
+
+==================================================
+Name: Riftwater
+Release Date: Nov 18, 2026
+Price: $6.79 (-15%, was $7.99)
+Genres: Simulation
+Link: https://store.steampowered.com/app/5328230
+==================================================
+
+==================================================
+Name: Bank Vault: Tidy Up Together
+Release Date: Nov 18, 2026
+Price: $4.49 (-25%, was $5.99)
+Genres: Casual, Indie, Massively Multiplayer, Simulation
+Link: https://store.steampowered.com/app/5490940
+==================================================
+
+==================================================
+Name: Thanksgiving: Tidy Up Together
+Release Date: Nov 18, 2026
+Price: $4.99
+Genres: Casual
+Link: https://store.steampowered.com/app/5533990
+==================================================
+
+==================================================
+Name: Classroom in Sora
+Release Date: Nov 18, 2026
+Price: Free to Play
+Genres: Adventure, RPG, Free To Play
+Link: https://store.steampowered.com/app/5016240
+==================================================
+
+==================================================
+Name: Grave Profits
+Release Date: Nov 18, 2026
+Price: $9.79 (-30%, was $13.99)
+Genres: Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/4884790
+==================================================
+
+==================================================
+Name: Choo chop
+Release Date: Nov 18, 2026
+Price: $3.59 (-40%, was $5.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5290430
+==================================================
+
+==================================================
+Name: Cloud Getaway
+Release Date: Nov 18, 2026
+Price: $5.99 (-25%, was $7.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4192780
+==================================================
+
+==================================================
+Name: GameGuide Notes
+Release Date: Nov 18, 2026
+Price: $6.29 (-10%, was $6.99)
+Genres: Casual, Indie, Photo Editing, Utilities, Video Production, Web Publishing
+Link: https://store.steampowered.com/app/5079630
+==================================================
+
+==================================================
+Name: Let Me Die
+Release Date: Nov 18, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Action, Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/5258160
+==================================================
+
