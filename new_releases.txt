@@ -119340,3 +119340,246 @@ Genres: Indie
 Link: https://store.steampowered.com/app/4539240
 ==================================================
 
+
+--- Run: 2026-11-19 17:48:14 --- (30 new game(s) found)
+
+==================================================
+Name: Volvy’s Adventure: Reslimed
+Release Date: Nov 19, 2026
+Price: $3.74 (-25%, was $4.99)
+Genres: Action, Adventure
+Link: https://store.steampowered.com/app/4523120
+==================================================
+
+==================================================
+Name: Sardoinky
+Release Date: Coming soon
+Price: $4.24 (-15%, was $4.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4778330
+==================================================
+
+==================================================
+Name: KUROSHIO: Neon Blood
+Release Date: Nov 19, 2026
+Price: $16.99 (-15%, was $19.99)
+Genres: Action, Adventure, Indie, Racing
+Link: https://store.steampowered.com/app/5453070
+==================================================
+
+==================================================
+Name: Vending Park: Sort & Stock
+Release Date: Nov 19, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Simulation
+Link: https://store.steampowered.com/app/5496150
+==================================================
+
+==================================================
+Name: STARDUSTER
+Release Date: Nov 19, 2026
+Price: $6.79 (-15%, was $7.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/2878260
+==================================================
+
+==================================================
+Name: Sweet KOL
+Release Date: Nov 19, 2026
+Price: $0.89 (-10%, was $0.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5017070
+==================================================
+
+==================================================
+Name: Lost Sock Simulator 3000
+Release Date: Nov 19, 2026
+Price: $2.54 (-15%, was $2.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4597220
+==================================================
+
+==================================================
+Name: Deck Breaker - A Roguelike Deckbuilder
+Release Date: Nov 19, 2026
+Price: $14.99
+Genres: Adventure, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/5021760
+==================================================
+
+==================================================
+Name: ShieldMan
+Release Date: Nov 19, 2026
+Price: $1.34 (-10%, was $1.49)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/5510960
+==================================================
+
+==================================================
+Name: Snotty's Sewer Reflushed
+Release Date: Nov 19, 2026
+Price: $1.69 (-15%, was $1.99)
+Genres: Indie
+Link: https://store.steampowered.com/app/4417760
+==================================================
+
+==================================================
+Name: Capybara Street Vendor
+Release Date: Nov 19, 2026
+Price: $1.79 (-10%, was $1.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5183870
+==================================================
+
+==================================================
+Name: Dash Dash Dead
+Release Date: Nov 19, 2026
+Price: $8.49 (-15%, was $9.99)
+Genres: Action, Indie, Strategy
+Link: https://store.steampowered.com/app/3379780
+==================================================
+
+==================================================
+Name: 《失调～Dissonance》
+Release Date: Nov 19, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Action, Adventure
+Link: https://store.steampowered.com/app/4996860
+==================================================
+
+==================================================
+Name: CASHGRAB
+Release Date: Nov 19, 2026
+Price: $3.59 (-10%, was $3.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/5194400
+==================================================
+
+==================================================
+Name: Drift Wreck: Online Racing
+Release Date: Nov 19, 2026
+Price: Free to Play
+Genres: Action, Indie, Racing, Free To Play
+Link: https://store.steampowered.com/app/5505310
+==================================================
+
+==================================================
+Name: Defender Bros
+Release Date: Nov 19, 2026
+Price: $11.99 (-40%, was $19.99)
+Genres: Action, Indie, Strategy
+Link: https://store.steampowered.com/app/2526880
+==================================================
+
+==================================================
+Name: CyberKitty: Neon Merge
+Release Date: Nov 19, 2026
+Price: $3.19 (-20%, was $3.99)
+Genres: Action, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5061450
+==================================================
+
+==================================================
+Name: Tavern Clicker
+Release Date: Nov 19, 2026
+Price: $3.89 (-35%, was $5.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5228540
+==================================================
+
+==================================================
+Name: Keepsake County
+Release Date: Nov 19, 2026
+Price: $19.99 (-20%, was $24.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/1162860
+==================================================
+
+==================================================
+Name: 猫猫放置
+Release Date: Nov 19, 2026
+Price: Free to Play
+Genres: Indie, Simulation, Free To Play
+Link: https://store.steampowered.com/app/5472990
+==================================================
+
+==================================================
+Name: 100 Cats Lost in Norway Find & Color
+Release Date: Nov 19, 2026
+Price: $2.99 (-25%, was $3.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/3911760
+==================================================
+
+==================================================
+Name: Sokobomb
+Release Date: Nov 19, 2026
+Price: $11.99
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4866020
+==================================================
+
+==================================================
+Name: As the Lady Chooses
+Release Date: Nov 19, 2026
+Price: $4.89 (-30%, was $6.99)
+Genres: Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/5480120
+==================================================
+
+==================================================
+Name: Evil Origin
+Release Date: Nov 19, 2026
+Price: $11.69 (-10%, was $12.99)
+Genres: Indie, RPG
+Link: https://store.steampowered.com/app/3666820
+==================================================
+
+==================================================
+Name: Iona's Island
+Release Date: Nov 19, 2026
+Price: $8.79 (-20%, was $10.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/3674070
+==================================================
+
+==================================================
+Name: Rebirth of Empire
+Release Date: Nov 19, 2026
+Price: $4.99
+Genres: Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/5472880
+==================================================
+
+==================================================
+Name: Hero's Reincarnation Journey
+Release Date: Nov 19, 2026
+Price: $4.99
+Genres: Adventure, Indie, RPG, Simulation, Strategy
+Link: https://store.steampowered.com/app/4907890
+==================================================
+
+==================================================
+Name: MONOLYTH
+Release Date: Nov 19, 2026
+Price: $1.59 (-20%, was $1.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4901680
+==================================================
+
+==================================================
+Name: Futa: beer & sex
+Release Date: Nov 19, 2026
+Price: $3.19 (-20%, was $3.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/4488240
+==================================================
+
+==================================================
+Name: Tidesong
+Release Date: Nov 19, 2026
+Price: $9.74 (-25%, was $12.99)
+Genres: Adventure, Indie, RPG, Simulation
+Link: https://store.steampowered.com/app/5521600
+==================================================
+
