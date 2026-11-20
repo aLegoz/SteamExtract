@@ -120184,3 +120184,246 @@ Genres: Casual, Indie, RPG
 Link: https://store.steampowered.com/app/3842100
 ==================================================
 
+
+--- Run: 2026-11-20 22:02:07 --- (30 new game(s) found)
+
+==================================================
+Name: Crazy Pipes 3D
+Release Date: Nov 20, 2026
+Price: $7.49 (-25%, was $9.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/2386960
+==================================================
+
+==================================================
+Name: Jewel Reels
+Release Date: Nov 20, 2026
+Price: $2.99
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/5034850
+==================================================
+
+==================================================
+Name: Dispatch Simulator
+Release Date: Nov 20, 2026
+Price: $15.99 (-20%, was $19.99)
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/5526720
+==================================================
+
+==================================================
+Name: Kintsugi Cottage
+Release Date: Nov 20, 2026
+Price: $5.39 (-10%, was $5.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5085380
+==================================================
+
+==================================================
+Name: Randal's Weekend
+Release Date: Nov 20, 2026
+Price: $4.99
+Genres: Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/5462830
+==================================================
+
+==================================================
+Name: WE'RE ALL IN!
+Release Date: Nov 20, 2026
+Price: $4.95 (-38%, was $7.99)
+Genres: Simulation, Strategy
+Link: https://store.steampowered.com/app/4183130
+==================================================
+
+==================================================
+Name: APARTMENT 001
+Release Date: Nov 20, 2026
+Price: $7.99
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4872270
+==================================================
+
+==================================================
+Name: Total Physics
+Release Date: Nov 20, 2026
+Price: $9.99
+Genres: Casual, Simulation, Strategy
+Link: https://store.steampowered.com/app/5523300
+==================================================
+
+==================================================
+Name: Crazy Chess
+Release Date: Nov 20, 2026
+Price: Free to Play
+Genres: Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/5338480
+==================================================
+
+==================================================
+Name: Moto Mouse Stunt Mania
+Release Date: Nov 20, 2026
+Price: $2.99 (-40%, was $4.99)
+Genres: Action, Adventure, Casual, Indie, Racing, Strategy
+Link: https://store.steampowered.com/app/1916210
+==================================================
+
+==================================================
+Name: Motion De Censure
+Release Date: Nov 20, 2026
+Price: $13.49 (-10%, was $14.99)
+Genres: Strategy
+Link: https://store.steampowered.com/app/4939030
+==================================================
+
+==================================================
+Name: Tidy Pills
+Release Date: Nov 20, 2026
+Price: $5.09 (-15%, was $5.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5358090
+==================================================
+
+==================================================
+Name: Pirate Waifu
+Release Date: Nov 20, 2026
+Price: $1.19 (-40%, was $1.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/4953250
+==================================================
+
+==================================================
+Name: Go-Kart Simulator
+Release Date: Nov 20, 2026
+Price: $4.99
+Genres: Action, Adventure, Casual, Indie, Simulation, Sports
+Link: https://store.steampowered.com/app/3388640
+==================================================
+
+==================================================
+Name: The Nine Oaths
+Release Date: Nov 20, 2026
+Price: $12.74 (-15%, was $14.99)
+Genres: Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/5489070
+==================================================
+
+==================================================
+Name: TURBOCARDS
+Release Date: Nov 20, 2026
+Price: $3.59 (-10%, was $3.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4924900
+==================================================
+
+==================================================
+Name: Desert Cleaner
+Release Date: Nov 20, 2026
+Price: $2.99 (-40%, was $4.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5531790
+==================================================
+
+==================================================
+Name: Digbound
+Release Date: Nov 20, 2026
+Price: $4.79 (-20%, was $5.99)
+Genres: Simulation
+Link: https://store.steampowered.com/app/5130880
+==================================================
+
+==================================================
+Name: No Visitors Allowed
+Release Date: Nov 20, 2026
+Price: $3.59 (-10%, was $3.99)
+Genres: Adventure, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4811080
+==================================================
+
+==================================================
+Name: Meowinks Tidy or Else
+Release Date: Nov 20, 2026
+Price: $5.59 (-20%, was $6.99)
+Genres: Action, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5485770
+==================================================
+
+==================================================
+Name: Afterpub
+Release Date: Nov 20, 2026
+Price: $3.74 (-25%, was $4.99)
+Genres: Action, Casual, Racing, Sports, Strategy
+Link: https://store.steampowered.com/app/5371870
+==================================================
+
+==================================================
+Name: Tidy Up: Street Market
+Release Date: Nov 20, 2026
+Price: $2.39 (-40%, was $3.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5424270
+==================================================
+
+==================================================
+Name: Medieval Adventure
+Release Date: Nov 20, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: Adventure, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/5032890
+==================================================
+
+==================================================
+Name: Perfect Pancakes
+Release Date: Nov 20, 2026
+Price: Free to Play
+Genres: Casual, Indie, Simulation, Free To Play
+Link: https://store.steampowered.com/app/5454640
+==================================================
+
+==================================================
+Name: Big Fox Family Time
+Release Date: Nov 20, 2026
+Price: $3.49 (-30%, was $4.99)
+Genres: Adventure, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5472530
+==================================================
+
+==================================================
+Name: Tidy Up the Flower Shop: Christmas
+Release Date: Nov 20, 2026
+Price: $5.39 (-10%, was $5.99)
+Genres: Casual, Simulation
+Link: https://store.steampowered.com/app/5524170
+==================================================
+
+==================================================
+Name: The Heir's Guild
+Release Date: Nov 20, 2026
+Price: $8.99
+Genres: Adventure, Casual, Indie, RPG
+Link: https://store.steampowered.com/app/4871280
+==================================================
+
+==================================================
+Name: Last Bake
+Release Date: Nov 20, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Simulation
+Link: https://store.steampowered.com/app/4909330
+==================================================
+
+==================================================
+Name: Escape The Charon
+Release Date: Nov 20, 2026
+Price: $19.99
+Genres: Adventure
+Link: https://store.steampowered.com/app/2521670
+==================================================
+
+==================================================
+Name: EtheriiA - Travelogue
+Release Date: Nov 20, 2026
+Price: $1.97 (-40%, was $3.29)
+Genres: Action, Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/2854640
+==================================================
+
