@@ -119957,3 +119957,230 @@ Genres: Indie, Simulation
 Link: https://store.steampowered.com/app/5210230
 ==================================================
 
+
+--- Run: 2026-11-20 14:30:21 --- (28 new game(s) found)
+
+==================================================
+Name: Pharaoh's Secrets
+Release Date: Nov 20, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4504940
+==================================================
+
+==================================================
+Name: Starwaste
+Release Date: Nov 20, 2026
+Price: $12.74 (-15%, was $14.99)
+Genres: Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/5398740
+==================================================
+
+==================================================
+Name: Rock Band Simulator
+Release Date: Nov 20, 2026
+Price: $11.99 (-20%, was $14.99)
+Genres: Action, Indie, Simulation
+Link: https://store.steampowered.com/app/4697880
+==================================================
+
+==================================================
+Name: Warlords IV: Heroes of Etheria
+Release Date: Nov 20, 2026
+Price: $11.99 (-20%, was $14.99)
+Genres: Strategy
+Link: https://store.steampowered.com/app/4834780
+==================================================
+
+==================================================
+Name: Soldiers at War
+Release Date: Nov 20, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Strategy
+Link: https://store.steampowered.com/app/4834810
+==================================================
+
+==================================================
+Name: Theocracy
+Release Date: Nov 20, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Strategy
+Link: https://store.steampowered.com/app/4834790
+==================================================
+
+==================================================
+Name: Silk and Sabre
+Release Date: Nov 20, 2026
+Price: $9.87 (-24%, was $12.99)
+Genres: Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/4314350
+==================================================
+
+==================================================
+Name: Trading A Giantess
+Release Date: Nov 20, 2026
+Price: $6.99 (-30%, was $9.99)
+Genres: Casual, Indie, RPG, Simulation, Strategy
+Link: https://store.steampowered.com/app/5509730
+==================================================
+
+==================================================
+Name: Undergod
+Release Date: Nov 20, 2026
+Price: $2.99
+Genres: Action, RPG
+Link: https://store.steampowered.com/app/2682600
+==================================================
+
+==================================================
+Name: Bee Shrimp Aquarium
+Release Date: Nov 20, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5472200
+==================================================
+
+==================================================
+Name: Resettle
+Release Date: Nov 20, 2026
+Price: $7.19 (-10%, was $7.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4972050
+==================================================
+
+==================================================
+Name: Interplanetary Farmer
+Release Date: Nov 20, 2026
+Price: $3.99
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5549760
+==================================================
+
+==================================================
+Name: GANA FORCE
+Release Date: Nov 20, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Action, Adventure
+Link: https://store.steampowered.com/app/4737320
+==================================================
+
+==================================================
+Name: Pathfinding
+Release Date: Nov 20, 2026
+Price: Free to Play
+Genres: Action, Casual, Free To Play
+Link: https://store.steampowered.com/app/3517360
+==================================================
+
+==================================================
+Name: Cats to Mars
+Release Date: Nov 20, 2026
+Price: $1.59 (-20%, was $1.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5014530
+==================================================
+
+==================================================
+Name: BlastBeacon
+Release Date: Nov 20, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/5450370
+==================================================
+
+==================================================
+Name: Noctis
+Release Date: Nov 20, 2026
+Price: $3.99
+Genres: Indie
+Link: https://store.steampowered.com/app/4011170
+==================================================
+
+==================================================
+Name: My Massage
+Release Date: Nov 20, 2026
+Price: $7.00
+Genres: Casual
+Link: https://store.steampowered.com/app/5351750
+==================================================
+
+==================================================
+Name: Lizard Slayer
+Release Date: Nov 20, 2026
+Price: $2.39 (-20%, was $2.99)
+Genres: Action, Adventure, Casual, Indie, RPG, Simulation
+Link: https://store.steampowered.com/app/4730100
+==================================================
+
+==================================================
+Name: Rally Panic with the BRO!
+Release Date: Nov 20, 2026
+Price: $5.39 (-10%, was $5.99)
+Genres: Action, Indie, Racing, Sports
+Link: https://store.steampowered.com/app/5111930
+==================================================
+
+==================================================
+Name: Wild Weekend
+Release Date: Nov 20, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4054720
+==================================================
+
+==================================================
+Name: GIFT from GOD
+Release Date: Nov 20, 2026
+Price: $7.65 (-10%, was $8.50)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4412980
+==================================================
+
+==================================================
+Name: NEONOVA Puzzle: Red
+Release Date: Nov 20, 2026
+Price: $1.79 (-40%, was $2.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5561850
+==================================================
+
+==================================================
+Name: MATCH'EM ALL! - Sunset Bay Bikini Adventure
+Release Date: Nov 20, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Adventure, Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/5418450
+==================================================
+
+==================================================
+Name: Wand Keeper
+Release Date: Nov 20, 2026
+Price: $5.39 (-10%, was $5.99)
+Genres: Adventure, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5249670
+==================================================
+
+==================================================
+Name: RefishingLife
+Release Date: Nov 20, 2026
+Price: $6.79 (-15%, was $7.99)
+Genres: Adventure, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4889630
+==================================================
+
+==================================================
+Name: Peaceward Chronicles
+Release Date: Nov 20, 2026
+Price: $5.59 (-30%, was $7.99)
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/5359810
+==================================================
+
+==================================================
+Name: Chigusa's Diary
+Release Date: Nov 20, 2026
+Price: $9.89 (-10%, was $10.99)
+Genres: Casual, Indie, RPG
+Link: https://store.steampowered.com/app/3842100
+==================================================
+
