@@ -120745,3 +120745,158 @@ Genres: Action, Adventure, Indie
 Link: https://store.steampowered.com/app/3681450
 ==================================================
 
+
+--- Run: 2026-11-21 18:22:23 --- (19 new game(s) found)
+
+==================================================
+Name: The Perfect Quest: The Drowned King's Hoard
+Release Date: Nov 21, 2026
+Price: $3.39 (-15%, was $3.99)
+Genres: Adventure, Casual
+Link: https://store.steampowered.com/app/5550890
+==================================================
+
+==================================================
+Name: desert island time
+Release Date: Nov 21, 2026
+Price: $4.89 (-30%, was $6.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4682120
+==================================================
+
+==================================================
+Name: Blobby Bash
+Release Date: Nov 21, 2026
+Price: $3.19 (-20%, was $3.99)
+Genres: Action, Casual
+Link: https://store.steampowered.com/app/4288310
+==================================================
+
+==================================================
+Name: Boom Rush: Desert OPS
+Release Date: Nov 21, 2026
+Price: $4.79 (-40%, was $7.99)
+Genres: Action
+Link: https://store.steampowered.com/app/4623890
+==================================================
+
+==================================================
+Name: Zombie Police: Midsummer Unhappy New Year
+Release Date: Nov 21, 2026
+Price: $9.89 (-10%, was $10.99)
+Genres: Adventure
+Link: https://store.steampowered.com/app/3649840
+==================================================
+
+==================================================
+Name: Chill Summoners
+Release Date: Nov 21, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/5359980
+==================================================
+
+==================================================
+Name: Slutopia
+Release Date: Nov 21, 2026
+Price: Free to Play
+Genres: Casual, Free To Play
+Link: https://store.steampowered.com/app/4612690
+==================================================
+
+==================================================
+Name: Lovely Cafe: Lusty Latte
+Release Date: Nov 21, 2026
+Price: Free to Play
+Genres: Casual, Simulation, Free To Play
+Link: https://store.steampowered.com/app/4968090
+==================================================
+
+==================================================
+Name: Fuck Everything 👉👌💦
+Release Date: Nov 21, 2026
+Price: $8.99 (-40%, was $14.99)
+Genres: Adventure, Casual, Simulation
+Link: https://store.steampowered.com/app/5307180
+==================================================
+
+==================================================
+Name: Occult Pawnshop Simulator
+Release Date: Nov 21, 2026
+Price: $7.00
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/5490500
+==================================================
+
+==================================================
+Name: Rule 34 Place
+Release Date: Nov 21, 2026
+Price: Free to Play
+Genres: Casual, Massively Multiplayer, Free To Play
+Link: https://store.steampowered.com/app/5251630
+==================================================
+
+==================================================
+Name: Moonberry Hollow
+Release Date: Nov 21, 2026
+Price: $4.99
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5556770
+==================================================
+
+==================================================
+Name: You're Alive, Phil
+Release Date: Nov 21, 2026
+Price: $3.99
+Genres: Casual
+Link: https://store.steampowered.com/app/4708400
+==================================================
+
+==================================================
+Name: Upking
+Release Date: Nov 21, 2026
+Price: $3.59 (-10%, was $3.99)
+Genres: Casual, Simulation, Strategy
+Link: https://store.steampowered.com/app/5467080
+==================================================
+
+==================================================
+Name: Zephyr's World
+Release Date: Nov 21, 2026
+Price: $4.99
+Genres: Casual, Simulation
+Link: https://store.steampowered.com/app/5528190
+==================================================
+
+==================================================
+Name: Unscrew Therapy
+Release Date: Nov 21, 2026
+Price: $3.99
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5445330
+==================================================
+
+==================================================
+Name: TRIROAD
+Release Date: Nov 21, 2026
+Price: $5.94 (-15%, was $6.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/5434200
+==================================================
+
+==================================================
+Name: Stickman History Battle
+Release Date: Nov 21, 2026
+Price: $4.99
+Genres: Strategy
+Link: https://store.steampowered.com/app/2834920
+==================================================
+
+==================================================
+Name: Loamlets
+Release Date: Nov 20, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/5002090
+==================================================
+
