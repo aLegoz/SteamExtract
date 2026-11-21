@@ -120550,3 +120550,198 @@ Genres: Casual, Simulation
 Link: https://store.steampowered.com/app/4956500
 ==================================================
 
+
+--- Run: 2026-11-21 11:53:01 --- (24 new game(s) found)
+
+==================================================
+Name: King's : The Eight Tribes
+Release Date: Nov 21, 2026
+Price: Free to Play
+Genres: Action, Adventure, Massively Multiplayer, RPG, Free To Play
+Link: https://store.steampowered.com/app/5256600
+==================================================
+
+==================================================
+Name: Infinite Sudoku
+Release Date: Nov 21, 2026
+Price: $4.79 (-20%, was $5.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5490920
+==================================================
+
+==================================================
+Name: Claws of Destiny: Complete Edition
+Release Date: Nov 20, 2026
+Price: $11.99
+Genres: Simulation
+Link: https://store.steampowered.com/app/5461730
+==================================================
+
+==================================================
+Name: The Red Inn
+Release Date: Nov 20, 2026
+Price: $6.99
+Genres: Adventure
+Link: https://store.steampowered.com/app/5469080
+==================================================
+
+==================================================
+Name: Everything Simulator
+Release Date: Nov 20, 2026
+Price: $4.99
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/5403060
+==================================================
+
+==================================================
+Name: Recast:DeathOps
+Release Date: Nov 20, 2026
+Price: $5.99 (-40%, was $9.99)
+Genres: Action, Adventure, Casual, Indie, RPG
+Link: https://store.steampowered.com/app/4118150
+==================================================
+
+==================================================
+Name: Party Link
+Release Date: Nov 20, 2026
+Price: Free to Play
+Genres: Massively Multiplayer, Free To Play
+Link: https://store.steampowered.com/app/5087470
+==================================================
+
+==================================================
+Name: Aftertaste
+Release Date: Nov 20, 2026
+Price: Free to Play
+Genres: Adventure, Indie, Free To Play
+Link: https://store.steampowered.com/app/4440750
+==================================================
+
+==================================================
+Name: Gripspeak
+Release Date: Nov 20, 2026
+Price: $8.49 (-15%, was $9.99)
+Genres: Utilities
+Link: https://store.steampowered.com/app/5455670
+==================================================
+
+==================================================
+Name: ‌Super Puzzle‌
+Release Date: Nov 20, 2026
+Price: $1.99
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5505740
+==================================================
+
+==================================================
+Name: Kaya Shock Golf
+Release Date: Nov 20, 2026
+Price: $2.99
+Genres: Casual, Indie, Sports
+Link: https://store.steampowered.com/app/5470240
+==================================================
+
+==================================================
+Name: The Dragon's Mint
+Release Date: Nov 20, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5535690
+==================================================
+
+==================================================
+Name: Night
+Release Date: Nov 20, 2026
+Price: $6.29 (-10%, was $6.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/5537900
+==================================================
+
+==================================================
+Name: The Legend of Celia
+Release Date: Nov 20, 2026
+Price: $14.99
+Genres: Action, Adventure, Casual, Indie, RPG, Simulation, Strategy
+Link: https://store.steampowered.com/app/2894950
+==================================================
+
+==================================================
+Name: Swoopla: Swing Racing
+Release Date: Nov 20, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Action, Casual, Indie, Racing
+Link: https://store.steampowered.com/app/5542430
+==================================================
+
+==================================================
+Name: 100个师兄爱上我
+Release Date: Nov 20, 2026
+Price: Free to Play
+Genres: Free To Play
+Link: https://store.steampowered.com/app/5032040
+==================================================
+
+==================================================
+Name: 流火 A Glimmer
+Release Date: Nov 20, 2026
+Price: $6.79 (-15%, was $7.99)
+Genres: Adventure, Casual, Indie, RPG, Simulation
+Link: https://store.steampowered.com/app/5140150
+==================================================
+
+==================================================
+Name: 伏魔天师
+Release Date: Nov 20, 2026
+Price: $6.79 (-15%, was $7.99)
+Genres: Strategy
+Link: https://store.steampowered.com/app/2114500
+==================================================
+
+==================================================
+Name: 洞府修仙录
+Release Date: Nov 20, 2026
+Price: $8.49 (-15%, was $9.99)
+Genres: Adventure, Indie, RPG, Simulation, Strategy
+Link: https://store.steampowered.com/app/5527840
+==================================================
+
+==================================================
+Name: Etranger In the City of Doom
+Release Date: Nov 20, 2026
+Price: $13.49 (-10%, was $14.99)
+Genres: Adventure, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/4762560
+==================================================
+
+==================================================
+Name: Moonkey
+Release Date: Nov 20, 2026
+Price: $1.99
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/5465130
+==================================================
+
+==================================================
+Name: Idol On Duty
+Release Date: Nov 20, 2026
+Price: Free to Play
+Genres: Action, Free To Play
+Link: https://store.steampowered.com/app/5306710
+==================================================
+
+==================================================
+Name: Let's Build a Naughty Toy Factory!
+Release Date: Nov 20, 2026
+Price: $6.68 (-20%, was $8.36)
+Genres: Simulation
+Link: https://store.steampowered.com/app/5526200
+==================================================
+
+==================================================
+Name: DUMMY HOUSE
+Release Date: Nov 20, 2026
+Price: $9.99
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/3681450
+==================================================
+
