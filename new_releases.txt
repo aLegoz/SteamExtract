@@ -120427,3 +120427,126 @@ Genres: Action, Adventure, Casual, Indie
 Link: https://store.steampowered.com/app/2854640
 ==================================================
 
+
+--- Run: 2026-11-21 03:36:35 --- (15 new game(s) found)
+
+==================================================
+Name: Haunted Movers
+Release Date: Nov 20, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Action, Adventure, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5276600
+==================================================
+
+==================================================
+Name: 1.76流派传奇
+Release Date: Nov 20, 2026
+Price: Free to Play
+Genres: Action, Casual, Massively Multiplayer, RPG, Strategy, Free To Play
+Link: https://store.steampowered.com/app/5276120
+==================================================
+
+==================================================
+Name: Click Flip
+Release Date: Nov 20, 2026
+Price: $4.25 (-15%, was $5.00)
+Genres: Casual, Simulation, Strategy
+Link: https://store.steampowered.com/app/4492400
+==================================================
+
+==================================================
+Name: Streetwalker Life!
+Release Date: Nov 20, 2026
+Price: $11.99 (-20%, was $14.99)
+Genres: RPG, Simulation
+Link: https://store.steampowered.com/app/4974650
+==================================================
+
+==================================================
+Name: Dad’s Gonna Be a Travel Influencer.
+Release Date: Nov 20, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: Adventure, Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4596440
+==================================================
+
+==================================================
+Name: Show: No Mercy
+Release Date: Nov 20, 2026
+Price: $3.99
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/5552940
+==================================================
+
+==================================================
+Name: Project Berserk
+Release Date: Nov 20, 2026
+Price: $11.69 (-10%, was $12.99)
+Genres: Action
+Link: https://store.steampowered.com/app/3155390
+==================================================
+
+==================================================
+Name: Survivor Rat vs Zombies
+Release Date: Nov 20, 2026
+Price: $8.99
+Genres: Action, Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/5401230
+==================================================
+
+==================================================
+Name: QuadMerge
+Release Date: Nov 20, 2026
+Price: Free to Play
+Genres: Casual, Free To Play
+Link: https://store.steampowered.com/app/4293670
+==================================================
+
+==================================================
+Name: Raise a Graz
+Release Date: Nov 20, 2026
+Price: $1.00
+Genres: Casual
+Link: https://store.steampowered.com/app/5377980
+==================================================
+
+==================================================
+Name: Discard
+Release Date: Nov 20, 2026
+Price: $3.59 (-10%, was $3.99)
+Genres: Adventure
+Link: https://store.steampowered.com/app/3590480
+==================================================
+
+==================================================
+Name: Prison Legacy
+Release Date: Nov 20, 2026
+Price: $14.99 (-25%, was $19.99)
+Genres: Indie, Massively Multiplayer, RPG
+Link: https://store.steampowered.com/app/4860910
+==================================================
+
+==================================================
+Name: Knights & Squires
+Release Date: Nov 20, 2026
+Price: $4.99
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/5539980
+==================================================
+
+==================================================
+Name: Streaming Tycoon
+Release Date: Nov 20, 2026
+Price: $5.99 (-40%, was $9.99)
+Genres: Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/5435010
+==================================================
+
+==================================================
+Name: Shifted Shells
+Release Date: Nov 20, 2026
+Price: $3.16 (-20%, was $3.95)
+Genres: Casual, Simulation
+Link: https://store.steampowered.com/app/4956500
+==================================================
+
