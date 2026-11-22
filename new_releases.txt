@@ -121018,3 +121018,78 @@ Genres: Casual
 Link: https://store.steampowered.com/app/5374580
 ==================================================
 
+
+--- Run: 2026-11-22 12:04:36 --- (9 new game(s) found)
+
+==================================================
+Name: It’s Table Time
+Release Date: Nov 22, 2026
+Price: $5.03 (-28%, was $6.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/5499750
+==================================================
+
+==================================================
+Name: Express Lane
+Release Date: Nov 22, 2026
+Price: $4.99
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/5081270
+==================================================
+
+==================================================
+Name: PERI.CO
+Release Date: Nov 22, 2026
+Price: $4.89 (-30%, was $6.99)
+Genres: Action, Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/5191120
+==================================================
+
+==================================================
+Name: Purplestar
+Release Date: Nov 22, 2026
+Price: $2.00
+Genres: Adventure, Casual, Indie, RPG
+Link: https://store.steampowered.com/app/5377120
+==================================================
+
+==================================================
+Name: Eko36 and the gang
+Release Date: Nov 22, 2026
+Price: $8.99 (-25%, was $11.99)
+Genres: Casual, Indie, Racing, Simulation
+Link: https://store.steampowered.com/app/5208650
+==================================================
+
+==================================================
+Name: Four Directions
+Release Date: Nov 21, 2026
+Price: $2.99
+Genres: Action, Adventure, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/3776750
+==================================================
+
+==================================================
+Name: Stormtide Skies
+Release Date: Nov 21, 2026
+Price: $9.99
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/5379430
+==================================================
+
+==================================================
+Name: mechakucha pakurion
+Release Date: Nov 21, 2026
+Price: $3.66 (-17%, was $4.42)
+Genres: Casual, Indie, RPG
+Link: https://store.steampowered.com/app/5029710
+==================================================
+
+==================================================
+Name: Neon Grid Defenders
+Release Date: Nov 21, 2026
+Price: $3.99
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/2890810
+==================================================
+
