@@ -121093,3 +121093,158 @@ Genres: Casual, Indie, Strategy
 Link: https://store.steampowered.com/app/2890810
 ==================================================
 
+
+--- Run: 2026-11-22 20:01:43 --- (19 new game(s) found)
+
+==================================================
+Name: Night Wash: GE-418-NK
+Release Date: Nov 22, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/5492690
+==================================================
+
+==================================================
+Name: Midnight Shift 2: Last Rental
+Release Date: Nov 22, 2026
+Price: $2.99
+Genres: Action, Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/5557520
+==================================================
+
+==================================================
+Name: Nano Reef
+Release Date: Nov 22, 2026
+Price: $3.39 (-15%, was $3.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4761730
+==================================================
+
+==================================================
+Name: Pixireels
+Release Date: Nov 22, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/5220580
+==================================================
+
+==================================================
+Name: Keep The Ammo Flowing
+Release Date: Nov 22, 2026
+Price: $7.49 (-25%, was $9.99)
+Genres: Strategy
+Link: https://store.steampowered.com/app/5158540
+==================================================
+
+==================================================
+Name: Bug Huntress wants to battle!
+Release Date: Nov 22, 2026
+Price: $8.99 (-40%, was $14.99)
+Genres: Action, Adventure, Casual
+Link: https://store.steampowered.com/app/4873240
+==================================================
+
+==================================================
+Name: blorbit
+Release Date: Nov 22, 2026
+Price: $9.89 (-34%, was $14.99)
+Genres: Action, Casual, Indie, Racing
+Link: https://store.steampowered.com/app/5001650
+==================================================
+
+==================================================
+Name: Auto Squad RPG
+Release Date: Nov 22, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/5179700
+==================================================
+
+==================================================
+Name: Pawn Shop Together
+Release Date: Nov 22, 2026
+Price: $3.59 (-10%, was $3.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5469940
+==================================================
+
+==================================================
+Name: Save the Sandcastle
+Release Date: Nov 22, 2026
+Price: $1.79 (-40%, was $2.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/5511850
+==================================================
+
+==================================================
+Name: A Game About Dodging Balls
+Release Date: Nov 22, 2026
+Price: $1.59 (-20%, was $1.99)
+Genres: Indie
+Link: https://store.steampowered.com/app/4298260
+==================================================
+
+==================================================
+Name: Mechanic and Healing Girl
+Release Date: Nov 22, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: RPG
+Link: https://store.steampowered.com/app/4377160
+==================================================
+
+==================================================
+Name: República do Caos
+Release Date: Nov 22, 2026
+Price: $3.19 (-20%, was $3.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/5277480
+==================================================
+
+==================================================
+Name: Black Fiend Legend - Cards
+Release Date: Nov 22, 2026
+Price: $6.99
+Genres: RPG
+Link: https://store.steampowered.com/app/5503670
+==================================================
+
+==================================================
+Name: 杀个痛快
+Release Date: Nov 22, 2026
+Price: $3.19 (-20%, was $3.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/5542420
+==================================================
+
+==================================================
+Name: WeirdBus
+Release Date: Nov 22, 2026
+Price: $0.60 (-40%, was $1.00)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/5542640
+==================================================
+
+==================================================
+Name: Home
+Release Date: Nov 22, 2026
+Price: $8.99
+Genres: Action, Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4659360
+==================================================
+
+==================================================
+Name: Harvest Story
+Release Date: Nov 21, 2026
+Price: $3.99
+Genres: Strategy
+Link: https://store.steampowered.com/app/5093110
+==================================================
+
+==================================================
+Name: TheDeskFishTank
+Release Date: Nov 21, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/3360160
+==================================================
+
