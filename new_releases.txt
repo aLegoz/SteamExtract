@@ -120959,3 +120959,62 @@ Genres: Casual, Indie, Simulation
 Link: https://store.steampowered.com/app/5474720
 ==================================================
 
+
+--- Run: 2026-11-22 03:45:31 --- (7 new game(s) found)
+
+==================================================
+Name: Lost Gateways
+Release Date: Nov 21, 2026
+Price: Free to Play
+Genres: Action, Adventure, Indie, RPG, Free To Play
+Link: https://store.steampowered.com/app/5111020
+==================================================
+
+==================================================
+Name: Slots of Chaos: Melee Arena
+Release Date: Nov 21, 2026
+Price: $5.99
+Genres: Action, Adventure
+Link: https://store.steampowered.com/app/5506620
+==================================================
+
+==================================================
+Name: Idle Minertia
+Release Date: Nov 21, 2026
+Price: Free to Play
+Genres: Indie, Free To Play
+Link: https://store.steampowered.com/app/4947000
+==================================================
+
+==================================================
+Name: Cheese Racers
+Release Date: Nov 21, 2026
+Price: $4.99
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/5386950
+==================================================
+
+==================================================
+Name: Wall Punch: Escape The Walls Simulator
+Release Date: Nov 21, 2026
+Price: $3.74 (-25%, was $4.99)
+Genres: Action, Adventure, Casual, Indie, RPG, Simulation, Strategy
+Link: https://store.steampowered.com/app/5463810
+==================================================
+
+==================================================
+Name: Motherloader
+Release Date: Nov 21, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Action, Indie, Simulation
+Link: https://store.steampowered.com/app/5534460
+==================================================
+
+==================================================
+Name: A to Zen: Cozy Anime Puzzle
+Release Date: Nov 21, 2026
+Price: $2.99 (-25%, was $3.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/5374580
+==================================================
+
