@@ -121550,3 +121550,214 @@ Genres: Indie, Simulation, Sports, Strategy
 Link: https://store.steampowered.com/app/4845700
 ==================================================
 
+
+--- Run: 2026-11-23 21:49:09 --- (26 new game(s) found)
+
+==================================================
+Name: Bomb And Conquer
+Release Date: Nov 23, 2026
+Price: Free to Play
+Genres: Action, Casual, Indie, Strategy, Free To Play
+Link: https://store.steampowered.com/app/3026390
+==================================================
+
+==================================================
+Name: Arena Mayhem
+Release Date: Nov 23, 2026
+Price: Free to Play
+Genres: Action, Free To Play
+Link: https://store.steampowered.com/app/5510730
+==================================================
+
+==================================================
+Name: DecoGear Dimensions
+Release Date: Nov 23, 2026
+Price: $10.19 (-15%, was $11.99)
+Genres: Action
+Link: https://store.steampowered.com/app/5088910
+==================================================
+
+==================================================
+Name: A Drop of Magenta
+Release Date: Nov 23, 2026
+Price: $6.99
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/5206930
+==================================================
+
+==================================================
+Name: Countryball: World 1930
+Release Date: Nov 23, 2026
+Price: Free to Play
+Genres: RPG, Strategy, Free To Play
+Link: https://store.steampowered.com/app/2928640
+==================================================
+
+==================================================
+Name: Undervein
+Release Date: Nov 23, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/5199510
+==================================================
+
+==================================================
+Name: Yeat
+Release Date: Nov 23, 2026
+Price: Free to Play
+Genres: Casual, Free To Play
+Link: https://store.steampowered.com/app/5517900
+==================================================
+
+==================================================
+Name: Alienshire
+Release Date: Nov 23, 2026
+Price: Free to Play
+Genres: Indie, Strategy, Free To Play
+Link: https://store.steampowered.com/app/5123580
+==================================================
+
+==================================================
+Name: Goldbar In A Shitstack
+Release Date: Nov 23, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5531480
+==================================================
+
+==================================================
+Name: Cornerwitch
+Release Date: Nov 23, 2026
+Price: $2.99 (-40%, was $4.99)
+Genres: Adventure, Casual, Indie, RPG, Simulation
+Link: https://store.steampowered.com/app/4443690
+==================================================
+
+==================================================
+Name: Blendead
+Release Date: Nov 23, 2026
+Price: $5.94 (-15%, was $6.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/5113690
+==================================================
+
+==================================================
+Name: Armorer: Tidy Up the Armory Before Dawn
+Release Date: Nov 23, 2026
+Price: $3.74 (-25%, was $4.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5179660
+==================================================
+
+==================================================
+Name: Isekai Parlor Simulator GOLD
+Release Date: Nov 23, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Adventure, RPG, Simulation
+Link: https://store.steampowered.com/app/4265000
+==================================================
+
+==================================================
+Name: Raiding Season
+Release Date: Nov 23, 2026
+Price: $18.39 (-20%, was $22.99)
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/5023620
+==================================================
+
+==================================================
+Name: Naked Ambition
+Release Date: Nov 23, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Simulation
+Link: https://store.steampowered.com/app/4676440
+==================================================
+
+==================================================
+Name: Pekka Kana 2
+Release Date: Nov 23, 2026
+Price: Free to Play
+Genres: Action, Free To Play
+Link: https://store.steampowered.com/app/4268170
+==================================================
+
+==================================================
+Name: Sexhelgard: Shadow of Lust
+Release Date: Nov 23, 2026
+Price: $5.09 (-15%, was $5.99)
+Genres: Indie
+Link: https://store.steampowered.com/app/5109010
+==================================================
+
+==================================================
+Name: A Thousand Cloys
+Release Date: Nov 23, 2026
+Price: $7.19 (-10%, was $7.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/3861740
+==================================================
+
+==================================================
+Name: Seeds of Chaos
+Release Date: Nov 23, 2026
+Price: $15.99 (-20%, was $19.99)
+Genres: Adventure, Casual, Indie, RPG
+Link: https://store.steampowered.com/app/1205950
+==================================================
+
+==================================================
+Name: Goblin Island
+Release Date: Nov 23, 2026
+Price: $9.99
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5026590
+==================================================
+
+==================================================
+Name: Hit The Beer
+Release Date: Nov 23, 2026
+Price: $2.99
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5173000
+==================================================
+
+==================================================
+Name: Climb, Cube, Climb!
+Release Date: Nov 23, 2026
+Price: $2.69 (-10%, was $2.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/4999870
+==================================================
+
+==================================================
+Name: StarFront: Lancers
+Release Date: Nov 23, 2026
+Price: Free to Play
+Genres: Action, Free To Play
+Link: https://store.steampowered.com/app/3757940
+==================================================
+
+==================================================
+Name: Very Very RARE
+Release Date: Nov 23, 2026
+Price: $3.39 (-15%, was $3.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4962200
+==================================================
+
+==================================================
+Name: TOO MANY CLANKERS
+Release Date: Nov 23, 2026
+Price: $5.39 (-10%, was $5.99)
+Genres: Action, Simulation, Strategy
+Link: https://store.steampowered.com/app/5127530
+==================================================
+
+==================================================
+Name: Deilist: And Nothing Remains
+Release Date: Nov 23, 2026
+Price: Free to Play
+Genres: Action, RPG, Free To Play
+Link: https://store.steampowered.com/app/4395610
+==================================================
+
