@@ -121248,3 +121248,110 @@ Genres: Casual
 Link: https://store.steampowered.com/app/3360160
 ==================================================
 
+
+--- Run: 2026-11-23 01:12:19 --- (13 new game(s) found)
+
+==================================================
+Name: プレア・チェスト
+Release Date: Nov 22, 2026
+Price: Free to Play
+Genres: Indie, RPG, Free To Play
+Link: https://store.steampowered.com/app/4920640
+==================================================
+
+==================================================
+Name: After Hue
+Release Date: Nov 22, 2026
+Price: $3.59 (-10%, was $3.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4538150
+==================================================
+
+==================================================
+Name: 2 birds 1 stone
+Release Date: Nov 22, 2026
+Price: $3.39 (-15%, was $3.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5498600
+==================================================
+
+==================================================
+Name: Ranch Attack: Farmer on the Run
+Release Date: Nov 22, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/5426410
+==================================================
+
+==================================================
+Name: Cosmos Knights - Abyss Survivors
+Release Date: Nov 22, 2026
+Price: $4.99
+Genres: Action
+Link: https://store.steampowered.com/app/5328980
+==================================================
+
+==================================================
+Name: ZULMARASH: Echoes of Zaltar
+Release Date: Nov 22, 2026
+Price: $9.74 (-25%, was $12.99)
+Genres: Action, Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/1419970
+==================================================
+
+==================================================
+Name: Darts Player Simulator
+Release Date: Nov 22, 2026
+Price: $17.99 (-10%, was $19.99)
+Genres: Simulation, Sports
+Link: https://store.steampowered.com/app/5537490
+==================================================
+
+==================================================
+Name: Titheborn
+Release Date: Nov 22, 2026
+Price: $12.74 (-15%, was $14.99)
+Genres: Adventure, RPG, Strategy
+Link: https://store.steampowered.com/app/5394410
+==================================================
+
+==================================================
+Name: Map the World
+Release Date: Nov 22, 2026
+Price: $0.99
+Genres: Casual
+Link: https://store.steampowered.com/app/5337610
+==================================================
+
+==================================================
+Name: Ravenhill: Initiation
+Release Date: Nov 22, 2026
+Price: $15.29 (-10%, was $16.99)
+Genres: Adventure
+Link: https://store.steampowered.com/app/4845070
+==================================================
+
+==================================================
+Name: Board Game Collection: Family Classics
+Release Date: Nov 22, 2026
+Price: $1.99
+Genres: Casual
+Link: https://store.steampowered.com/app/5521500
+==================================================
+
+==================================================
+Name: Cairn & Carat
+Release Date: Nov 22, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5353330
+==================================================
+
+==================================================
+Name: Hannibal
+Release Date: Nov 22, 2026
+Price: $5.99
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/4777080
+==================================================
+
