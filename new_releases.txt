@@ -121355,3 +121355,198 @@ Genres: Casual, Indie, Strategy
 Link: https://store.steampowered.com/app/4777080
 ==================================================
 
+
+--- Run: 2026-11-23 09:56:21 --- (24 new game(s) found)
+
+==================================================
+Name: SpaceSteps
+Release Date: Nov 23, 2026
+Price: $5.99
+Genres: Unknown
+Link: https://store.steampowered.com/app/4480310
+==================================================
+
+==================================================
+Name: Starmoor
+Release Date: Nov 23, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5265830
+==================================================
+
+==================================================
+Name: Truck Job
+Release Date: Nov 23, 2026
+Price: $6.99
+Genres: Casual, Indie, Racing, Simulation
+Link: https://store.steampowered.com/app/2892670
+==================================================
+
+==================================================
+Name: Party Home: Tidy Up Together
+Release Date: Nov 23, 2026
+Price: $1.19 (-40%, was $1.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5548320
+==================================================
+
+==================================================
+Name: Midnight Love Diner
+Release Date: Nov 23, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/5519610
+==================================================
+
+==================================================
+Name: Bet Your Friends
+Release Date: Nov 23, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/3275780
+==================================================
+
+==================================================
+Name: Single File
+Release Date: Nov 23, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/5561120
+==================================================
+
+==================================================
+Name: Everybody Hates You in TOKYO
+Release Date: Nov 22, 2026
+Price: $2.54 (-15%, was $2.99)
+Genres: Action
+Link: https://store.steampowered.com/app/5481910
+==================================================
+
+==================================================
+Name: Lilloville
+Release Date: Nov 22, 2026
+Price: $12.99
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5473520
+==================================================
+
+==================================================
+Name: FAT HOBO: Hobocop Saves Christmas
+Release Date: Nov 22, 2026
+Price: Free to Play
+Genres: Indie, RPG, Free To Play
+Link: https://store.steampowered.com/app/4250170
+==================================================
+
+==================================================
+Name: Dino Haven
+Release Date: Nov 22, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Casual, Simulation
+Link: https://store.steampowered.com/app/3463510
+==================================================
+
+==================================================
+Name: 尾刀Tail Blade
+Release Date: Nov 22, 2026
+Price: Free to Play
+Genres: Action, Casual, Indie, Strategy, Free To Play
+Link: https://store.steampowered.com/app/5424590
+==================================================
+
+==================================================
+Name: Pop Corner
+Release Date: Nov 22, 2026
+Price: Free to Play
+Genres: Casual, Free To Play
+Link: https://store.steampowered.com/app/4026430
+==================================================
+
+==================================================
+Name: Lot Lot Lot Lot
+Release Date: Nov 22, 2026
+Price: $8.09 (-10%, was $8.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/5308970
+==================================================
+
+==================================================
+Name: DeepBreaker
+Release Date: Nov 22, 2026
+Price: $3.49 (-30%, was $4.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/5514250
+==================================================
+
+==================================================
+Name: Deeper...
+Release Date: Nov 22, 2026
+Price: Free to Play
+Genres: Indie, Free To Play
+Link: https://store.steampowered.com/app/5390670
+==================================================
+
+==================================================
+Name: KAREI - ENDLESS DEATH MATCH
+Release Date: Nov 22, 2026
+Price: $12.74 (-15%, was $14.99)
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/4937320
+==================================================
+
+==================================================
+Name: Jumping Cow
+Release Date: Nov 22, 2026
+Price: $4.79 (-40%, was $7.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5519340
+==================================================
+
+==================================================
+Name: Femme Fury(Pure Classic Simple Action Game)
+Release Date: Nov 22, 2026
+Price: $9.89 (-10%, was $10.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/5388370
+==================================================
+
+==================================================
+Name: Cat Survivor
+Release Date: Nov 22, 2026
+Price: $4.49 (-25%, was $5.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/5014420
+==================================================
+
+==================================================
+Name: StackProsper
+Release Date: Nov 22, 2026
+Price: $9.99
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/5546670
+==================================================
+
+==================================================
+Name: Heya! Sumo Manager
+Release Date: Nov 22, 2026
+Price: $16.99 (-15%, was $19.99)
+Genres: Simulation, Sports, Strategy
+Link: https://store.steampowered.com/app/4885580
+==================================================
+
+==================================================
+Name: Ancient Moves: Hnefatafl (Viking Chess)
+Release Date: Nov 22, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/5507320
+==================================================
+
+==================================================
+Name: Football Commissioner
+Release Date: Nov 22, 2026
+Price: $8.49 (-15%, was $9.99)
+Genres: Indie, Simulation, Sports, Strategy
+Link: https://store.steampowered.com/app/4845700
+==================================================
+
