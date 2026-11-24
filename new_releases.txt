@@ -121972,3 +121972,230 @@ Genres: Adventure, Casual, Indie, Simulation
 Link: https://store.steampowered.com/app/2888810
 ==================================================
 
+
+--- Run: 2026-11-24 16:37:26 --- (28 new game(s) found)
+
+==================================================
+Name: Ghost//Root
+Release Date: Nov 24, 2026
+Price: $9.99
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/5232860
+==================================================
+
+==================================================
+Name: 8AM: The Graveyard
+Release Date: Nov 24, 2026
+Price: $3.59 (-10%, was $3.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4135110
+==================================================
+
+==================================================
+Name: Might and Magic The Card Game
+Release Date: Nov 24, 2026
+Price: Free to Play
+Genres: RPG, Strategy, Free To Play
+Link: https://store.steampowered.com/app/3918850
+==================================================
+
+==================================================
+Name: Geo-Political Simulator 2027 Edition
+Release Date: Nov 24, 2026
+Price: $59.99
+Genres: Simulation, Strategy
+Link: https://store.steampowered.com/app/5218850
+==================================================
+
+==================================================
+Name: Why Not Fly That?
+Release Date: Nov 24, 2026
+Price: $1.79 (-40%, was $2.99)
+Genres: Casual, Simulation
+Link: https://store.steampowered.com/app/5489920
+==================================================
+
+==================================================
+Name: Phantasm Cube
+Release Date: Nov 24, 2026
+Price: $6.29 (-10%, was $6.99)
+Genres: Simulation
+Link: https://store.steampowered.com/app/5046950
+==================================================
+
+==================================================
+Name: Amber Eyes
+Release Date: Nov 24, 2026
+Price: Free to Play
+Genres: Adventure, Indie, Free To Play
+Link: https://store.steampowered.com/app/5303520
+==================================================
+
+==================================================
+Name: No Blink Allowed
+Release Date: Nov 24, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/4244180
+==================================================
+
+==================================================
+Name: Rekindled: Cozy Tavern Life
+Release Date: Nov 24, 2026
+Price: $13.49 (-10%, was $14.99)
+Genres: Adventure, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4156500
+==================================================
+
+==================================================
+Name: Chinese-Style Exams
+Release Date: Nov 24, 2026
+Price: $0.79 (-20%, was $0.99)
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/5568320
+==================================================
+
+==================================================
+Name: Eras of Myths and Monsters
+Release Date: Nov 24, 2026
+Price: $9.99
+Genres: Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/5537810
+==================================================
+
+==================================================
+Name: Have You Herd?
+Release Date: Nov 24, 2026
+Price: $8.49 (-15%, was $9.99)
+Genres: Action, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/2209340
+==================================================
+
+==================================================
+Name: Jurassic Architect
+Release Date: Nov 24, 2026
+Price: $8.49 (-15%, was $9.99)
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/1737370
+==================================================
+
+==================================================
+Name: Lavender's The One Stop Potion Shop
+Release Date: Nov 24, 2026
+Price: Free to Play
+Genres: Casual, Indie, Simulation, Free To Play
+Link: https://store.steampowered.com/app/5558370
+==================================================
+
+==================================================
+Name: One more time
+Release Date: Nov 24, 2026
+Price: $4.99
+Genres: Action, Casual, Indie, Racing
+Link: https://store.steampowered.com/app/2918700
+==================================================
+
+==================================================
+Name: Tool Tidy
+Release Date: Nov 24, 2026
+Price: $5.39 (-10%, was $5.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5381360
+==================================================
+
+==================================================
+Name: Wasteland Hearts ❤️‍🔥
+Release Date: Nov 24, 2026
+Price: $4.97 (-17%, was $5.99)
+Genres: Action, Adventure, Casual, Indie, RPG, Simulation
+Link: https://store.steampowered.com/app/5210420
+==================================================
+
+==================================================
+Name: My Child New Beginnings
+Release Date: Nov 24, 2026
+Price: $17.99 (-10%, was $19.99)
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/2669450
+==================================================
+
+==================================================
+Name: Lost & Unclaimed
+Release Date: Nov 24, 2026
+Price: $2.99 (-40%, was $4.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5568000
+==================================================
+
+==================================================
+Name: HachaMeccha Reversi
+Release Date: Nov 24, 2026
+Price: $5.59 (-20%, was $6.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/5530490
+==================================================
+
+==================================================
+Name: The Temple
+Release Date: Nov 24, 2026
+Price: Free to Play
+Genres: Indie, Free To Play
+Link: https://store.steampowered.com/app/5303440
+==================================================
+
+==================================================
+Name: Señorita Chupacabra
+Release Date: Nov 24, 2026
+Price: $12.99
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/2208680
+==================================================
+
+==================================================
+Name: Heroes of the Void
+Release Date: Nov 24, 2026
+Price: Free to Play
+Genres: Adventure, Indie, Strategy, Free To Play
+Link: https://store.steampowered.com/app/5515070
+==================================================
+
+==================================================
+Name: Critter Rumble
+Release Date: Nov 24, 2026
+Price: $4.79 (-20%, was $5.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/5170520
+==================================================
+
+==================================================
+Name: Gateway to Headquarters City
+Release Date: Nov 24, 2026
+Price: Free to Play
+Genres: Adventure, Casual, Simulation, Free To Play
+Link: https://store.steampowered.com/app/4961260
+==================================================
+
+==================================================
+Name: Koyland
+Release Date: Nov 24, 2026
+Price: Free to Play
+Genres: Indie, Massively Multiplayer, Simulation, Strategy, Free To Play
+Link: https://store.steampowered.com/app/5521040
+==================================================
+
+==================================================
+Name: Hentai Clicker: Maya is streaming
+Release Date: Nov 24, 2026
+Price: $2.39 (-20%, was $2.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5469160
+==================================================
+
+==================================================
+Name: For Bumble's Sake
+Release Date: Nov 24, 2026
+Price: $9.34 (-15%, was $10.99)
+Genres: Adventure, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5433150
+==================================================
+
