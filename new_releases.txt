@@ -121761,3 +121761,214 @@ Genres: Action, RPG, Free To Play
 Link: https://store.steampowered.com/app/4395610
 ==================================================
 
+
+--- Run: 2026-11-24 05:39:53 --- (26 new game(s) found)
+
+==================================================
+Name: Late Night Duty
+Release Date: Nov 23, 2026
+Price: $5.09 (-15%, was $5.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4256130
+==================================================
+
+==================================================
+Name: AI Park
+Release Date: Nov 23, 2026
+Price: Free to Play
+Genres: Free To Play, Animation & Modeling, Design & Illustration, Video Production
+Link: https://store.steampowered.com/app/5305200
+==================================================
+
+==================================================
+Name: Dice Survivors
+Release Date: Nov 23, 2026
+Price: Free to Play
+Genres: Action, Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/5559200
+==================================================
+
+==================================================
+Name: Backgammon GO!
+Release Date: Nov 23, 2026
+Price: $1.99 (-20%, was $2.49)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/5247980
+==================================================
+
+==================================================
+Name: Xiuxian Purge
+Release Date: Nov 23, 2026
+Price: $5.39 (-10%, was $5.99)
+Genres: Action, Casual, Indie, RPG
+Link: https://store.steampowered.com/app/5543070
+==================================================
+
+==================================================
+Name: One Last Cast
+Release Date: Nov 23, 2026
+Price: $3.49 (-30%, was $4.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5508060
+==================================================
+
+==================================================
+Name: MORIBREATH
+Release Date: Nov 23, 2026
+Price: $2.99
+Genres: Adventure
+Link: https://store.steampowered.com/app/4385070
+==================================================
+
+==================================================
+Name: ASCENT: MASKLINGS
+Release Date: Nov 23, 2026
+Price: $9.99
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/5345650
+==================================================
+
+==================================================
+Name: Conspiracy at Headquarters
+Release Date: Nov 23, 2026
+Price: $26.99
+Genres: Action, Adventure, Indie, RPG, Simulation
+Link: https://store.steampowered.com/app/5453830
+==================================================
+
+==================================================
+Name: NAILONG BATTLE
+Release Date: Nov 23, 2026
+Price: Free to Play
+Genres: Casual, Indie, RPG, Simulation, Free To Play
+Link: https://store.steampowered.com/app/5533560
+==================================================
+
+==================================================
+Name: Alice Flower Room: Lo-Fi
+Release Date: Nov 23, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4346860
+==================================================
+
+==================================================
+Name: Career Manager 27
+Release Date: Nov 23, 2026
+Price: $11.99
+Genres: Casual, Indie, Simulation, Sports, Strategy
+Link: https://store.steampowered.com/app/5326680
+==================================================
+
+==================================================
+Name: HinterGald
+Release Date: Nov 23, 2026
+Price: Free to Play
+Genres: Action, Adventure, Indie, RPG, Free To Play
+Link: https://store.steampowered.com/app/3441590
+==================================================
+
+==================================================
+Name: Doorstep Days
+Release Date: Nov 23, 2026
+Price: $2.54 (-15%, was $2.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4698540
+==================================================
+
+==================================================
+Name: KARAKARA3
+Release Date: Nov 23, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/4906740
+==================================================
+
+==================================================
+Name: Terminus: Day Zero
+Release Date: Nov 23, 2026
+Price: Free to Play
+Genres: Action, Adventure, Indie, Free To Play
+Link: https://store.steampowered.com/app/4416390
+==================================================
+
+==================================================
+Name: VacBot Simulator
+Release Date: Nov 23, 2026
+Price: $9.59 (-20%, was $11.99)
+Genres: Casual, Simulation
+Link: https://store.steampowered.com/app/4297050
+==================================================
+
+==================================================
+Name: Clash of Boats
+Release Date: Nov 23, 2026
+Price: Free to Play
+Genres: Action, Indie, Racing, Free To Play
+Link: https://store.steampowered.com/app/5354090
+==================================================
+
+==================================================
+Name: Choom
+Release Date: Nov 23, 2026
+Price: $4.99
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/4391160
+==================================================
+
+==================================================
+Name: Zero Mass
+Release Date: Nov 23, 2026
+Price: Free to Play
+Genres: Action, Simulation, Free To Play
+Link: https://store.steampowered.com/app/5504190
+==================================================
+
+==================================================
+Name: Abyssal Station
+Release Date: Nov 23, 2026
+Price: $13.49 (-10%, was $14.99)
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/3010690
+==================================================
+
+==================================================
+Name: Locked in love : The Office
+Release Date: Nov 23, 2026
+Price: $17.99 (-10%, was $19.99)
+Genres: RPG, Simulation
+Link: https://store.steampowered.com/app/4507410
+==================================================
+
+==================================================
+Name: Deck'em Down
+Release Date: Nov 23, 2026
+Price: Free to Play
+Genres: Indie, Strategy, Free To Play
+Link: https://store.steampowered.com/app/5413650
+==================================================
+
+==================================================
+Name: Eletta
+Release Date: Nov 23, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: Action, Adventure
+Link: https://store.steampowered.com/app/3024120
+==================================================
+
+==================================================
+Name: 2D Tower
+Release Date: Nov 23, 2026
+Price: $9.99
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4718420
+==================================================
+
+==================================================
+Name: MEATRASH
+Release Date: Nov 23, 2026
+Price: $5.39 (-10%, was $5.99)
+Genres: Adventure, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/2888810
+==================================================
+
