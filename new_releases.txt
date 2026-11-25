@@ -122434,3 +122434,238 @@ Genres: Casual, Indie, Simulation
 Link: https://store.steampowered.com/app/5472080
 ==================================================
 
+
+--- Run: 2026-11-25 10:37:52 --- (29 new game(s) found)
+
+==================================================
+Name: JustLayIt
+Release Date: Nov 25, 2026
+Price: Free to Play
+Genres: Casual, Indie, Strategy, Free To Play
+Link: https://store.steampowered.com/app/5489480
+==================================================
+
+==================================================
+Name: Zoo Peaks : Riders
+Release Date: Nov 25, 2026
+Price: $19.99
+Genres: Casual, Indie, Racing, Sports
+Link: https://store.steampowered.com/app/1895830
+==================================================
+
+==================================================
+Name: Touhou Sukusuku Racing
+Release Date: Nov 25, 2026
+Price: $5.39 (-10%, was $5.99)
+Genres: Casual, Racing, RPG
+Link: https://store.steampowered.com/app/5572500
+==================================================
+
+==================================================
+Name: GBald
+Release Date: Nov 25, 2026
+Price: $0.59 (-40%, was $0.99)
+Genres: Action
+Link: https://store.steampowered.com/app/5531610
+==================================================
+
+==================================================
+Name: Sunstone of Time
+Release Date: Nov 25, 2026
+Price: $11.99 (-20%, was $14.99)
+Genres: Action, Adventure
+Link: https://store.steampowered.com/app/4116400
+==================================================
+
+==================================================
+Name: Eldwyn's Dungeon Academy
+Release Date: Nov 25, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/5196730
+==================================================
+
+==================================================
+Name: Mirklurk: Every Step Matters
+Release Date: Nov 25, 2026
+Price: $11.24 (-25%, was $14.99)
+Genres: RPG
+Link: https://store.steampowered.com/app/3972980
+==================================================
+
+==================================================
+Name: Forge the Fates
+Release Date: Nov 25, 2026
+Price: $9.59 (-20%, was $11.99)
+Genres: Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/3911490
+==================================================
+
+==================================================
+Name: All Peaceful at the Adventurer`s Guild Today.
+Release Date: Nov 25, 2026
+Price: $3.49 (-30%, was $4.99)
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/5029630
+==================================================
+
+==================================================
+Name: Baseballball
+Release Date: Nov 24, 2026
+Price: $6.99
+Genres: Casual, Indie, Simulation, Sports
+Link: https://store.steampowered.com/app/5428150
+==================================================
+
+==================================================
+Name: DIFFERENCE HOUSE: Find All 51
+Release Date: Nov 24, 2026
+Price: $2.99
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5410740
+==================================================
+
+==================================================
+Name: Snackrifice
+Release Date: Nov 24, 2026
+Price: $5.94 (-15%, was $6.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/4382960
+==================================================
+
+==================================================
+Name: inFlight ATC
+Release Date: Nov 24, 2026
+Price: $24.99
+Genres: Education, Utilities
+Link: https://store.steampowered.com/app/5005030
+==================================================
+
+==================================================
+Name: Mellow's Garden
+Release Date: Nov 24, 2026
+Price: $3.59 (-40%, was $5.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4654060
+==================================================
+
+==================================================
+Name: Matryoshka
+Release Date: Nov 24, 2026
+Price: $1.96 (-40%, was $3.28)
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/5058440
+==================================================
+
+==================================================
+Name: Sia Desktop Pet
+Release Date: Nov 24, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5035420
+==================================================
+
+==================================================
+Name: Dough Not Waste
+Release Date: Nov 24, 2026
+Price: $2.79 (-30%, was $3.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5211000
+==================================================
+
+==================================================
+Name: GodParty
+Release Date: Nov 24, 2026
+Price: Free to Play
+Genres: Casual, Massively Multiplayer, RPG, Strategy, Free To Play, Game Development
+Link: https://store.steampowered.com/app/4818210
+==================================================
+
+==================================================
+Name: Incremental Pachinko Heaven
+Release Date: Nov 24, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5062970
+==================================================
+
+==================================================
+Name: TohKago
+Release Date: Nov 24, 2026
+Price: $2.99
+Genres: Casual
+Link: https://store.steampowered.com/app/5094620
+==================================================
+
+==================================================
+Name: My Little Shadow
+Release Date: Nov 24, 2026
+Price: $4.19 (-40%, was $6.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5546020
+==================================================
+
+==================================================
+Name: CatchCatch
+Release Date: Nov 24, 2026
+Price: Free to Play
+Genres: Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/5268650
+==================================================
+
+==================================================
+Name: CatchCatch
+Release Date: Nov 24, 2026
+Price: Free to Play
+Genres: Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/5268650
+==================================================
+
+==================================================
+Name: HelloLove2:Binary
+Release Date: Nov 24, 2026
+Price: $14.39 (-10%, was $15.99)
+Genres: Casual, Simulation
+Link: https://store.steampowered.com/app/5031150
+==================================================
+
+==================================================
+Name: Doomsday Survivor 末日幸存者
+Release Date: Nov 24, 2026
+Price: $4.79 (-20%, was $5.99)
+Genres: Action, Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/5476460
+==================================================
+
+==================================================
+Name: Shanhai Phantasm
+Release Date: Nov 24, 2026
+Price: Free to Play
+Genres: Adventure, RPG, Free To Play
+Link: https://store.steampowered.com/app/4790710
+==================================================
+
+==================================================
+Name: Backlot: Hollywood Studio Tycoon
+Release Date: Nov 24, 2026
+Price: $14.99
+Genres: Simulation, Strategy
+Link: https://store.steampowered.com/app/5156530
+==================================================
+
+==================================================
+Name: Swift Cultivation
+Release Date: Nov 24, 2026
+Price: $3.59 (-10%, was $3.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5417940
+==================================================
+
+==================================================
+Name: SquareFrontlineTD
+Release Date: Nov 24, 2026
+Price: $3.59 (-10%, was $3.99)
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/5123100
+==================================================
+
