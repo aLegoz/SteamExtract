@@ -122199,3 +122199,238 @@ Genres: Adventure, Casual, Indie, Simulation
 Link: https://store.steampowered.com/app/5433150
 ==================================================
 
+
+--- Run: 2026-11-25 01:10:35 --- (29 new game(s) found)
+
+==================================================
+Name: 无人归家
+Release Date: Nov 24, 2026
+Price: $2.09 (-30%, was $2.99)
+Genres: Adventure, Casual, Indie, RPG
+Link: https://store.steampowered.com/app/5013700
+==================================================
+
+==================================================
+Name: ChimpType
+Release Date: Nov 24, 2026
+Price: $14.99 (-25%, was $19.99)
+Genres: Audio Production, Utilities
+Link: https://store.steampowered.com/app/4562970
+==================================================
+
+==================================================
+Name: Prophunt Slop
+Release Date: Nov 24, 2026
+Price: $3.19 (-20%, was $3.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/5495680
+==================================================
+
+==================================================
+Name: Tiny Trains
+Release Date: Nov 24, 2026
+Price: $9.99
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/5174190
+==================================================
+
+==================================================
+Name: Kaetram
+Release Date: Nov 24, 2026
+Price: Free to Play
+Genres: Indie, Massively Multiplayer
+Link: https://store.steampowered.com/app/2716120
+==================================================
+
+==================================================
+Name: Kingdom of Pieces
+Release Date: Nov 24, 2026
+Price: Free to Play
+Genres: Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/5401070
+==================================================
+
+==================================================
+Name: BitLoaf
+Release Date: Nov 24, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5436360
+==================================================
+
+==================================================
+Name: I'm Your Boss, Olivia!
+Release Date: Nov 24, 2026
+Price: $6.79 (-15%, was $7.99)
+Genres: Simulation
+Link: https://store.steampowered.com/app/5054950
+==================================================
+
+==================================================
+Name: NO SUCH MONSTERS
+Release Date: Nov 24, 2026
+Price: $6.29 (-10%, was $6.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/5454430
+==================================================
+
+==================================================
+Name: Rally Dynasty
+Release Date: Nov 24, 2026
+Price: $12.99
+Genres: Indie, Racing, Simulation, Sports, Strategy
+Link: https://store.steampowered.com/app/5252110
+==================================================
+
+==================================================
+Name: Eleven FC Manager
+Release Date: Nov 24, 2026
+Price: $9.99
+Genres: Simulation, Sports, Strategy
+Link: https://store.steampowered.com/app/5523630
+==================================================
+
+==================================================
+Name: Break the Piñatas
+Release Date: Nov 24, 2026
+Price: $2.39 (-20%, was $2.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5210430
+==================================================
+
+==================================================
+Name: Find The Needle: Haystack Hunt
+Release Date: Nov 24, 2026
+Price: $6.79 (-15%, was $7.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5534310
+==================================================
+
+==================================================
+Name: Click the Faithless
+Release Date: Nov 24, 2026
+Price: $4.99
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4949800
+==================================================
+
+==================================================
+Name: Cloudy with a Chance of Kittens
+Release Date: Nov 24, 2026
+Price: $3.97 (-15%, was $4.68)
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/3237870
+==================================================
+
+==================================================
+Name: Retail Empire
+Release Date: Nov 24, 2026
+Price: $24.99
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/5565800
+==================================================
+
+==================================================
+Name: Trash Inc.
+Release Date: Nov 24, 2026
+Price: $6.29 (-10%, was $6.99)
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/5179550
+==================================================
+
+==================================================
+Name: Sun Knight and the Evil Trial
+Release Date: Nov 24, 2026
+Price: $2.00
+Genres: Action, Adventure, Casual, Indie
+Link: https://store.steampowered.com/app/5424370
+==================================================
+
+==================================================
+Name: Carmilla : Crimson Moon
+Release Date: Nov 24, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Adventure, Casual
+Link: https://store.steampowered.com/app/4488990
+==================================================
+
+==================================================
+Name: Fish It!: Sort the Aquarium Shop
+Release Date: Nov 24, 2026
+Price: $5.09 (-15%, was $5.99)
+Genres: Simulation
+Link: https://store.steampowered.com/app/5391260
+==================================================
+
+==================================================
+Name: Light of Atlantis
+Release Date: Nov 24, 2026
+Price: $15.99 (-20%, was $19.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/2387740
+==================================================
+
+==================================================
+Name: Mayhem Duck Simulator
+Release Date: Nov 24, 2026
+Price: $1.79 (-10%, was $1.99)
+Genres: Action, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4912110
+==================================================
+
+==================================================
+Name: Day of the Smudgies
+Release Date: Nov 24, 2026
+Price: Free to Play
+Genres: Adventure, Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/5567470
+==================================================
+
+==================================================
+Name: PiPu Party
+Release Date: Nov 24, 2026
+Price: $6.79 (-15%, was $7.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4078600
+==================================================
+
+==================================================
+Name: Kabakura
+Release Date: Nov 24, 2026
+Price: $9.99
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5202110
+==================================================
+
+==================================================
+Name: Stevedore
+Release Date: Nov 24, 2026
+Price: $1.59 (-20%, was $1.99)
+Genres: Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/4737240
+==================================================
+
+==================================================
+Name: Dead Last
+Release Date: Nov 24, 2026
+Price: $4.95 (-38%, was $7.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/5323210
+==================================================
+
+==================================================
+Name: Wreck the Deck
+Release Date: Nov 24, 2026
+Price: $3.19 (-20%, was $3.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5219370
+==================================================
+
+==================================================
+Name: SHRED A BILLION
+Release Date: Nov 24, 2026
+Price: $5.59 (-20%, was $6.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5472080
+==================================================
+
