@@ -122896,3 +122896,198 @@ Genres: Indie, Strategy, Free To Play
 Link: https://store.steampowered.com/app/3572070
 ==================================================
 
+
+--- Run: 2026-11-26 03:16:09 --- (24 new game(s) found)
+
+==================================================
+Name: Metal Naval Combat: Saturation Strike
+Release Date: Nov 25, 2026
+Price: $9.99
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/5418650
+==================================================
+
+==================================================
+Name: Star Imperium
+Release Date: Nov 25, 2026
+Price: Free to Play
+Genres: Casual, Indie, Strategy, Free To Play
+Link: https://store.steampowered.com/app/5284880
+==================================================
+
+==================================================
+Name: 360 HEXA WORLD
+Release Date: Nov 25, 2026
+Price: Free to Play
+Genres: Simulation, Free To Play
+Link: https://store.steampowered.com/app/3308580
+==================================================
+
+==================================================
+Name: Idle Demon Slayer
+Release Date: Nov 25, 2026
+Price: $4.79 (-20%, was $5.99)
+Genres: Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/5497040
+==================================================
+
+==================================================
+Name: Stealing Them Softly
+Release Date: Nov 25, 2026
+Price: $15.99 (-20%, was $19.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/3830590
+==================================================
+
+==================================================
+Name: Traymon World: Taskbar Monster RPG
+Release Date: Nov 25, 2026
+Price: Free to Play
+Genres: Casual, Indie, RPG, Free To Play
+Link: https://store.steampowered.com/app/5045040
+==================================================
+
+==================================================
+Name: Clocks Sleep at Zero
+Release Date: Nov 25, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5126360
+==================================================
+
+==================================================
+Name: Extreme Paddle Board
+Release Date: Nov 25, 2026
+Price: $12.59 (-10%, was $13.99)
+Genres: Casual, Indie, Racing, Sports
+Link: https://store.steampowered.com/app/5495580
+==================================================
+
+==================================================
+Name: Cube Escape
+Release Date: Nov 25, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Adventure
+Link: https://store.steampowered.com/app/5572050
+==================================================
+
+==================================================
+Name: Secret 3-Cushion Club
+Release Date: Nov 25, 2026
+Price: $5.59 (-20%, was $6.99)
+Genres: Casual, Indie, Simulation, Sports
+Link: https://store.steampowered.com/app/5515050
+==================================================
+
+==================================================
+Name: BroCode
+Release Date: Nov 25, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4554700
+==================================================
+
+==================================================
+Name: Canvas Attack!
+Release Date: Nov 25, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/4572620
+==================================================
+
+==================================================
+Name: Investor Life
+Release Date: Nov 25, 2026
+Price: $7.19 (-40%, was $11.99)
+Genres: Simulation
+Link: https://store.steampowered.com/app/5547640
+==================================================
+
+==================================================
+Name: SOS :Should I Stay or Should I Hit
+Release Date: Nov 25, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/5136620
+==================================================
+
+==================================================
+Name: SaboTour
+Release Date: Nov 25, 2026
+Price: Free to Play
+Genres: Casual, Indie, Racing, Free To Play
+Link: https://store.steampowered.com/app/5070720
+==================================================
+
+==================================================
+Name: Witchkeeping
+Release Date: Nov 25, 2026
+Price: $9.59 (-20%, was $11.99)
+Genres: Adventure, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5169710
+==================================================
+
+==================================================
+Name: Valkyrja
+Release Date: Nov 25, 2026
+Price: $6.39 (-20%, was $7.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4959410
+==================================================
+
+==================================================
+Name: Destination & Acceleration
+Release Date: Nov 25, 2026
+Price: $1.99
+Genres: Indie
+Link: https://store.steampowered.com/app/5551040
+==================================================
+
+==================================================
+Name: Garden of the Atom
+Release Date: Nov 25, 2026
+Price: $2.99
+Genres: Action, Adventure
+Link: https://store.steampowered.com/app/4297980
+==================================================
+
+==================================================
+Name: Goblin Hoarder
+Release Date: Nov 25, 2026
+Price: $5.39 (-10%, was $5.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5378450
+==================================================
+
+==================================================
+Name: Runecast
+Release Date: Nov 25, 2026
+Price: Free to Play
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/5126340
+==================================================
+
+==================================================
+Name: Brick Builds
+Release Date: Nov 25, 2026
+Price: $4.99
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4739370
+==================================================
+
+==================================================
+Name: Chess Lords
+Release Date: Nov 25, 2026
+Price: $4.79 (-40%, was $7.99)
+Genres: Indie, Sports, Strategy
+Link: https://store.steampowered.com/app/5507950
+==================================================
+
+==================================================
+Name: BlobBobbing
+Release Date: Nov 25, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5448900
+==================================================
+
