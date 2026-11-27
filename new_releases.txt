@@ -123740,3 +123740,230 @@ Genres: Adventure, Indie
 Link: https://store.steampowered.com/app/2981290
 ==================================================
 
+
+--- Run: 2026-11-27 14:29:48 --- (28 new game(s) found)
+
+==================================================
+Name: Starship Crafter
+Release Date: Nov 27, 2026
+Price: $12.74 (-15%, was $14.99)
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/2431590
+==================================================
+
+==================================================
+Name: Taccy: TacFPS Aim Trainer
+Release Date: Nov 27, 2026
+Price: $5.99 (-25%, was $7.99)
+Genres: Action
+Link: https://store.steampowered.com/app/5494160
+==================================================
+
+==================================================
+Name: Mom! I'm gonna be a black hole when I grow up!
+Release Date: Nov 27, 2026
+Price: $4.99
+Genres: Action, Indie, Strategy
+Link: https://store.steampowered.com/app/4640130
+==================================================
+
+==================================================
+Name: Studio Sim
+Release Date: Nov 27, 2026
+Price: $15.19 (-20%, was $18.99)
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4516210
+==================================================
+
+==================================================
+Name: Taskbar Fishing & Aquarium
+Release Date: Nov 27, 2026
+Price: $4.79 (-20%, was $5.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5461990
+==================================================
+
+==================================================
+Name: 多元幸存者 Diverse survivors
+Release Date: Nov 27, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Action, Indie, RPG
+Link: https://store.steampowered.com/app/4057870
+==================================================
+
+==================================================
+Name: Sinful States of America
+Release Date: Nov 27, 2026
+Price: $8.83 (-32%, was $12.99)
+Genres: Adventure, Casual, Indie, RPG, Simulation
+Link: https://store.steampowered.com/app/5484900
+==================================================
+
+==================================================
+Name: Carry On Together
+Release Date: Nov 27, 2026
+Price: $7.19 (-10%, was $7.99)
+Genres: Action, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4776500
+==================================================
+
+==================================================
+Name: Oasis of Lilies
+Release Date: Nov 27, 2026
+Price: $7.19 (-10%, was $7.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/3889840
+==================================================
+
+==================================================
+Name: Aksun
+Release Date: Nov 27, 2026
+Price: $14.99
+Genres: Action, Indie, RPG
+Link: https://store.steampowered.com/app/3129360
+==================================================
+
+==================================================
+Name: Island Sort
+Release Date: Nov 27, 2026
+Price: $3.89 (-35%, was $5.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5329820
+==================================================
+
+==================================================
+Name: Schoolgirl vs Fishman
+Release Date: Nov 27, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Action
+Link: https://store.steampowered.com/app/4592080
+==================================================
+
+==================================================
+Name: Petit Royaume
+Release Date: Nov 27, 2026
+Price: $2.99
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/3097290
+==================================================
+
+==================================================
+Name: Unearther
+Release Date: Nov 27, 2026
+Price: $8.09 (-10%, was $8.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/2810080
+==================================================
+
+==================================================
+Name: Cointopia
+Release Date: Nov 27, 2026
+Price: $9.99
+Genres: Casual, Indie, Massively Multiplayer, Simulation, Strategy
+Link: https://store.steampowered.com/app/4898410
+==================================================
+
+==================================================
+Name: World, Breakfast Is Served !
+Release Date: Nov 27, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4992790
+==================================================
+
+==================================================
+Name: StreamOX
+Release Date: Nov 27, 2026
+Price: Free to Play
+Genres: Free To Play
+Link: https://store.steampowered.com/app/4216910
+==================================================
+
+==================================================
+Name: Visual Novel: 3:17 PM
+Release Date: Nov 27, 2026
+Price: $0.69 (-30%, was $0.99)
+Genres: Action, Adventure, Casual, Indie, RPG
+Link: https://store.steampowered.com/app/5592630
+==================================================
+
+==================================================
+Name: webFPV
+Release Date: Nov 27, 2026
+Price: $9.99
+Genres: Indie, Racing, Simulation
+Link: https://store.steampowered.com/app/4944190
+==================================================
+
+==================================================
+Name: A Secret Stay With : Veronica
+Release Date: Nov 27, 2026
+Price: $2.99
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5548000
+==================================================
+
+==================================================
+Name: Four Lights, One Thief: A Shadow Puzzle
+Release Date: Nov 27, 2026
+Price: $6.99
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5495890
+==================================================
+
+==================================================
+Name: Return to college
+Release Date: Nov 27, 2026
+Price: $4.99
+Genres: Casual, RPG, Simulation
+Link: https://store.steampowered.com/app/5507390
+==================================================
+
+==================================================
+Name: 方寸小家 RoomFolk
+Release Date: Nov 27, 2026
+Price: $5.39 (-10%, was $5.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5314450
+==================================================
+
+==================================================
+Name: GOD OF DEFIANCE
+Release Date: Nov 27, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: Adventure, RPG, Strategy
+Link: https://store.steampowered.com/app/5500260
+==================================================
+
+==================================================
+Name: Hentai Clicker: Iris is streaming
+Release Date: Nov 27, 2026
+Price: $2.39 (-20%, was $2.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5469170
+==================================================
+
+==================================================
+Name: The Endless Harvest
+Release Date: Nov 27, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Casual, Simulation, Strategy
+Link: https://store.steampowered.com/app/5052960
+==================================================
+
+==================================================
+Name: PANCHIGI: Coin Slap Showdown
+Release Date: Nov 27, 2026
+Price: $2.54 (-15%, was $2.99)
+Genres: Casual, Indie, Sports
+Link: https://store.steampowered.com/app/5014950
+==================================================
+
+==================================================
+Name: Times and Ages
+Release Date: Nov 27, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/5583780
+==================================================
+
