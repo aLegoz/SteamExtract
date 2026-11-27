@@ -123521,3 +123521,222 @@ Genres: Casual, Indie
 Link: https://store.steampowered.com/app/4118380
 ==================================================
 
+
+--- Run: 2026-11-27 04:38:42 --- (27 new game(s) found)
+
+==================================================
+Name: GhostomVillage
+Release Date: Nov 26, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/4613550
+==================================================
+
+==================================================
+Name: Mole & Ore
+Release Date: Nov 26, 2026
+Price: $5.59 (-20%, was $6.99)
+Genres: Action, Adventure, Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5044750
+==================================================
+
+==================================================
+Name: Dice Tiny Town
+Release Date: Nov 26, 2026
+Price: $6.79 (-15%, was $7.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/3555790
+==================================================
+
+==================================================
+Name: Soulkindle
+Release Date: Nov 26, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Action, Indie, RPG
+Link: https://store.steampowered.com/app/5577260
+==================================================
+
+==================================================
+Name: Pest Protocol
+Release Date: Nov 26, 2026
+Price: $2.54 (-15%, was $2.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4793980
+==================================================
+
+==================================================
+Name: Hunter Road
+Release Date: Nov 26, 2026
+Price: $6.92 (-37%, was $10.99)
+Genres: Adventure, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/4308270
+==================================================
+
+==================================================
+Name: Point Zero: Victoria
+Release Date: Nov 26, 2026
+Price: $7.19 (-20%, was $8.99)
+Genres: Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/4237900
+==================================================
+
+==================================================
+Name: Creator Tycoon
+Release Date: Nov 26, 2026
+Price: $5.94 (-15%, was $6.99)
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/5520280
+==================================================
+
+==================================================
+Name: 万剑之残破修仙界
+Release Date: Nov 26, 2026
+Price: $2.39 (-20%, was $2.99)
+Genres: Casual, Indie, RPG
+Link: https://store.steampowered.com/app/2965060
+==================================================
+
+==================================================
+Name: The Legend of Legendaria: Where Legends are Born
+Release Date: Nov 26, 2026
+Price: $3.74 (-25%, was $4.99)
+Genres: Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/5230320
+==================================================
+
+==================================================
+Name: The False Alice -Retold Tale-
+Release Date: Nov 26, 2026
+Price: $19.99 (-20%, was $24.99)
+Genres: Adventure
+Link: https://store.steampowered.com/app/4013270
+==================================================
+
+==================================================
+Name: Satu GANG!
+Release Date: Nov 26, 2026
+Price: Free to Play
+Genres: Action, Indie, Free To Play
+Link: https://store.steampowered.com/app/5579870
+==================================================
+
+==================================================
+Name: Vibe Train
+Release Date: Nov 26, 2026
+Price: $7.19 (-10%, was $7.99)
+Genres: Casual, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4729050
+==================================================
+
+==================================================
+Name: Goshiwon | 고시원
+Release Date: Nov 26, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/5406550
+==================================================
+
+==================================================
+Name: SKYGUARD: Last Light
+Release Date: Nov 26, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/5427620
+==================================================
+
+==================================================
+Name: Paper2Galgame
+Release Date: Nov 26, 2026
+Price: $5.99
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4537400
+==================================================
+
+==================================================
+Name: Monster Showdown
+Release Date: Nov 26, 2026
+Price: $6.39 (-20%, was $7.99)
+Genres: Action
+Link: https://store.steampowered.com/app/5073780
+==================================================
+
+==================================================
+Name: Bowlo
+Release Date: Nov 26, 2026
+Price: Free to Play
+Genres: Casual, Sports, Strategy, Free To Play
+Link: https://store.steampowered.com/app/5577110
+==================================================
+
+==================================================
+Name: やさ死くシて
+Release Date: Nov 26, 2026
+Price: $3.54 (-29%, was $4.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/5417420
+==================================================
+
+==================================================
+Name: Oops! All Mimics
+Release Date: Nov 26, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Action, Adventure
+Link: https://store.steampowered.com/app/5417190
+==================================================
+
+==================================================
+Name: HauntedHouseNO14
+Release Date: Nov 26, 2026
+Price: $4.79 (-20%, was $5.99)
+Genres: Indie
+Link: https://store.steampowered.com/app/5161950
+==================================================
+
+==================================================
+Name: Starship Dice
+Release Date: Nov 26, 2026
+Price: $1.79 (-10%, was $1.99)
+Genres: Strategy
+Link: https://store.steampowered.com/app/3926400
+==================================================
+
+==================================================
+Name: Fired
+Release Date: Nov 26, 2026
+Price: $6.39 (-20%, was $7.99)
+Genres: Adventure, Indie, Simulation
+Link: https://store.steampowered.com/app/5056880
+==================================================
+
+==================================================
+Name: Blank Slate
+Release Date: Nov 26, 2026
+Price: $5.94 (-15%, was $6.99)
+Genres: Action, Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4303120
+==================================================
+
+==================================================
+Name: Catnip Wars : Nine Lives Racing
+Release Date: Nov 26, 2026
+Price: $4.99
+Genres: Action, Indie, Racing
+Link: https://store.steampowered.com/app/5559930
+==================================================
+
+==================================================
+Name: Kartelith: Racing Career
+Release Date: Nov 26, 2026
+Price: $11.99
+Genres: Indie, Racing, Simulation, Sports, Strategy
+Link: https://store.steampowered.com/app/5549660
+==================================================
+
+==================================================
+Name: 1 AM MOSCOW TIME
+Release Date: Nov 26, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/2981290
+==================================================
+
