@@ -123967,3 +123967,238 @@ Genres: Indie, Strategy
 Link: https://store.steampowered.com/app/5583780
 ==================================================
 
+
+--- Run: 2026-11-27 23:03:53 --- (29 new game(s) found)
+
+==================================================
+Name: TILELIA
+Release Date: Nov 27, 2026
+Price: Free to Play
+Genres: Casual, Indie, Strategy, Free To Play
+Link: https://store.steampowered.com/app/5584920
+==================================================
+
+==================================================
+Name: Wiggle Town
+Release Date: Nov 27, 2026
+Price: $4.99
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/5430860
+==================================================
+
+==================================================
+Name: Lost Camp
+Release Date: Nov 27, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/4476390
+==================================================
+
+==================================================
+Name: Grand Vista Hotel
+Release Date: Nov 27, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: Simulation
+Link: https://store.steampowered.com/app/4836910
+==================================================
+
+==================================================
+Name: Anathema Requiem
+Release Date: Nov 27, 2026
+Price: $3.19 (-20%, was $3.99)
+Genres: Adventure, Indie
+Link: https://store.steampowered.com/app/4569790
+==================================================
+
+==================================================
+Name: Ruthenium Smash & Grab
+Release Date: Nov 27, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Action
+Link: https://store.steampowered.com/app/5474910
+==================================================
+
+==================================================
+Name: Peer Into The Void
+Release Date: Nov 27, 2026
+Price: Free to Play
+Genres: Casual, Free To Play
+Link: https://store.steampowered.com/app/5475670
+==================================================
+
+==================================================
+Name: For Our King
+Release Date: Nov 27, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Action, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/4993890
+==================================================
+
+==================================================
+Name: Drako: Blood Heist
+Release Date: Nov 27, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4104790
+==================================================
+
+==================================================
+Name: Tanks & Trebuchets
+Release Date: Nov 27, 2026
+Price: $11.99 (-20%, was $14.99)
+Genres: Action
+Link: https://store.steampowered.com/app/5535750
+==================================================
+
+==================================================
+Name: Wrapuzzle
+Release Date: Nov 27, 2026
+Price: $2.99
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5132410
+==================================================
+
+==================================================
+Name: Mind the Clown: Reborn
+Release Date: Nov 27, 2026
+Price: $4.79 (-40%, was $7.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/5165650
+==================================================
+
+==================================================
+Name: Bedtime Survivors
+Release Date: Nov 27, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/5577430
+==================================================
+
+==================================================
+Name: Sort My Pigs
+Release Date: Nov 27, 2026
+Price: $6.39 (-20%, was $7.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5151340
+==================================================
+
+==================================================
+Name: HexStermination
+Release Date: Nov 27, 2026
+Price: $5.99
+Genres: Indie, Strategy
+Link: https://store.steampowered.com/app/5552070
+==================================================
+
+==================================================
+Name: A Dream You Had Before the Dream You Had Before the Dream
+Release Date: Nov 27, 2026
+Price: $4.79 (-20%, was $5.99)
+Genres: Action, Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/3957870
+==================================================
+
+==================================================
+Name: Dusky's Nook
+Release Date: Nov 27, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/5019070
+==================================================
+
+==================================================
+Name: SUFA: Strike Fighter
+Release Date: Nov 27, 2026
+Price: $12.74 (-15%, was $14.99)
+Genres: Action, Indie, Simulation
+Link: https://store.steampowered.com/app/5537480
+==================================================
+
+==================================================
+Name: Screen Survivors
+Release Date: Nov 27, 2026
+Price: $2.79 (-30%, was $3.99)
+Genres: Casual, Simulation, Strategy
+Link: https://store.steampowered.com/app/4459990
+==================================================
+
+==================================================
+Name: I Opened an Idle Bar So I Can GOON to HOT GIRLS
+Release Date: Nov 27, 2026
+Price: $5.59 (-20%, was $6.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4366900
+==================================================
+
+==================================================
+Name: EXORCISMUS: Vade Retro Satana
+Release Date: Nov 27, 2026
+Price: $4.49 (-25%, was $5.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/4915180
+==================================================
+
+==================================================
+Name: FrameCinema
+Release Date: Nov 27, 2026
+Price: $6.99 (-30%, was $9.99)
+Genres: Utilities, Video Production
+Link: https://store.steampowered.com/app/5493950
+==================================================
+
+==================================================
+Name: Catollector
+Release Date: Nov 27, 2026
+Price: $2.27 (-35%, was $3.50)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/4469040
+==================================================
+
+==================================================
+Name: Yule Dads
+Release Date: Nov 27, 2026
+Price: $5.59 (-20%, was $6.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/5190390
+==================================================
+
+==================================================
+Name: Mapping Creator
+Release Date: Nov 27, 2026
+Price: $6.29 (-30%, was $8.99)
+Genres: Indie, Simulation, Strategy
+Link: https://store.steampowered.com/app/4997480
+==================================================
+
+==================================================
+Name: Unseen Beings
+Release Date: Nov 27, 2026
+Price: $7.19 (-10%, was $7.99)
+Genres: Action, Adventure
+Link: https://store.steampowered.com/app/3019020
+==================================================
+
+==================================================
+Name: Scentkeeper: Tidy Up the Perfume Archive!
+Release Date: Nov 27, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5304760
+==================================================
+
+==================================================
+Name: Rune Nest
+Release Date: Nov 27, 2026
+Price: Free to Play
+Genres: Adventure, Indie, RPG, Strategy, Free To Play
+Link: https://store.steampowered.com/app/5448310
+==================================================
+
+==================================================
+Name: Femboy : Rescue Mission
+Release Date: Nov 27, 2026
+Price: $8.49 (-15%, was $9.99)
+Genres: Casual
+Link: https://store.steampowered.com/app/4698680
+==================================================
+
