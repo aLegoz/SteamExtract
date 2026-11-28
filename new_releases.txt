@@ -124202,3 +124202,166 @@ Genres: Casual
 Link: https://store.steampowered.com/app/4698680
 ==================================================
 
+
+--- Run: 2026-11-28 05:14:55 --- (20 new game(s) found)
+
+==================================================
+Name: Gсhat
+Release Date: Nov 27, 2026
+Price: Free to Play
+Genres: Free To Play, Utilities
+Link: https://store.steampowered.com/app/5463910
+==================================================
+
+==================================================
+Name: Kameko: Cosplay Love Story
+Release Date: Nov 27, 2026
+Price: $17.09 (-10%, was $18.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4135050
+==================================================
+
+==================================================
+Name: DualBeats
+Release Date: Nov 27, 2026
+Price: Free to Play
+Genres: Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/5420230
+==================================================
+
+==================================================
+Name: Butterflies & Bloom
+Release Date: Nov 27, 2026
+Price: $4.99
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4773580
+==================================================
+
+==================================================
+Name: Trails of Starlight
+Release Date: Nov 27, 2026
+Price: Free to Play
+Genres: Adventure, Massively Multiplayer, RPG, Free To Play
+Link: https://store.steampowered.com/app/5093040
+==================================================
+
+==================================================
+Name: Love is Undead
+Release Date: Nov 27, 2026
+Price: $6.39 (-20%, was $7.99)
+Genres: RPG, Simulation
+Link: https://store.steampowered.com/app/4535780
+==================================================
+
+==================================================
+Name: lucky me
+Release Date: Nov 27, 2026
+Price: $10.39 (-20%, was $12.99)
+Genres: Casual, Indie, RPG
+Link: https://store.steampowered.com/app/5052710
+==================================================
+
+==================================================
+Name: Lumanto
+Release Date: Nov 27, 2026
+Price: Free to Play
+Genres: Casual, Indie, Massively Multiplayer, RPG, Free To Play
+Link: https://store.steampowered.com/app/5578650
+==================================================
+
+==================================================
+Name: Spin of the Demon Realm
+Release Date: Nov 27, 2026
+Price: $7.64 (-15%, was $8.99)
+Genres: Action, Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/5045300
+==================================================
+
+==================================================
+Name: NEKO-NIN exHeart SPIN! 2
+Release Date: Nov 27, 2026
+Price: $22.49 (-10%, was $24.99)
+Genres: Adventure, Casual
+Link: https://store.steampowered.com/app/4512860
+==================================================
+
+==================================================
+Name: 仙帝神兵
+Release Date: Nov 27, 2026
+Price: Free to Play
+Genres: Action, Adventure, Massively Multiplayer, RPG, Strategy, Free To Play
+Link: https://store.steampowered.com/app/5071200
+==================================================
+
+==================================================
+Name: Hentai Tales: Tanned Childhood Hidden Tits
+Release Date: Nov 27, 2026
+Price: $0.59 (-40%, was $0.99)
+Genres: Casual, Indie, Strategy
+Link: https://store.steampowered.com/app/5251450
+==================================================
+
+==================================================
+Name: Second Saga
+Release Date: Nov 27, 2026
+Price: $13.49 (-10%, was $14.99)
+Genres: Action, Adventure, RPG
+Link: https://store.steampowered.com/app/1972940
+==================================================
+
+==================================================
+Name: Hentai Age Onsen
+Release Date: Nov 27, 2026
+Price: $0.79 (-20%, was $0.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5477010
+==================================================
+
+==================================================
+Name: Analog Bench
+Release Date: Nov 27, 2026
+Price: $12.74 (-15%, was $14.99)
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/5562220
+==================================================
+
+==================================================
+Name: Duck Billiards
+Release Date: Nov 27, 2026
+Price: $1.79 (-40%, was $2.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/5546350
+==================================================
+
+==================================================
+Name: Destined Dungeon Quest
+Release Date: Nov 27, 2026
+Price: $8.09 (-10%, was $8.99)
+Genres: Action, Adventure, RPG, Strategy
+Link: https://store.steampowered.com/app/5044910
+==================================================
+
+==================================================
+Name: Backpack Ascendancy
+Release Date: Nov 27, 2026
+Price: $7.99
+Genres: Action, Casual, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/5380750
+==================================================
+
+==================================================
+Name: Necromancer: Revival of the Dead
+Release Date: Nov 27, 2026
+Price: $4.24 (-15%, was $4.99)
+Genres: Action, Indie, RPG
+Link: https://store.steampowered.com/app/5489800
+==================================================
+
+==================================================
+Name: How Smart Are You
+Release Date: Nov 27, 2026
+Price: $1.94 (-35%, was $2.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5434690
+==================================================
+
