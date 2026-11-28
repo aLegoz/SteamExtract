@@ -124365,3 +124365,158 @@ Genres: Casual, Indie
 Link: https://store.steampowered.com/app/5434690
 ==================================================
 
+
+--- Run: 2026-11-28 14:39:42 --- (19 new game(s) found)
+
+==================================================
+Name: Football Ambition 27
+Release Date: Nov 28, 2026
+Price: $11.24 (-25%, was $14.99)
+Genres: Indie, Simulation, Sports, Strategy
+Link: https://store.steampowered.com/app/5298300
+==================================================
+
+==================================================
+Name: Ludo Wala 3D & Action
+Release Date: Nov 28, 2026
+Price: Free to Play
+Genres: Casual, Strategy, Free To Play
+Link: https://store.steampowered.com/app/5406780
+==================================================
+
+==================================================
+Name: NanaType
+Release Date: Nov 28, 2026
+Price: $4.99
+Genres: Utilities, Video Production
+Link: https://store.steampowered.com/app/5507600
+==================================================
+
+==================================================
+Name: The Old Circle: Ecos da Masmorra
+Release Date: Nov 28, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Action, Adventure, Indie, RPG
+Link: https://store.steampowered.com/app/5596460
+==================================================
+
+==================================================
+Name: Plucked
+Release Date: Nov 28, 2026
+Price: $5.99 (-25%, was $7.99)
+Genres: Action, Indie
+Link: https://store.steampowered.com/app/4733430
+==================================================
+
+==================================================
+Name: Flying Island Miner
+Release Date: Nov 28, 2026
+Price: $4.49 (-10%, was $4.99)
+Genres: Casual, Indie
+Link: https://store.steampowered.com/app/5542300
+==================================================
+
+==================================================
+Name: Kawaii Kaiju: Beam!
+Release Date: Nov 28, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Action, Casual, Indie
+Link: https://store.steampowered.com/app/5594590
+==================================================
+
+==================================================
+Name: ScreenCam
+Release Date: Nov 28, 2026
+Price: $14.44 (-15%, was $16.99)
+Genres: Video Production
+Link: https://store.steampowered.com/app/5356280
+==================================================
+
+==================================================
+Name: Reborn Investment King
+Release Date: Nov 28, 2026
+Price: $8.09 (-10%, was $8.99)
+Genres: Indie, Simulation
+Link: https://store.steampowered.com/app/5375420
+==================================================
+
+==================================================
+Name: Dusty Relics
+Release Date: Nov 28, 2026
+Price: $7.19 (-10%, was $7.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/5428780
+==================================================
+
+==================================================
+Name: CLT Supermarket
+Release Date: Nov 28, 2026
+Price: $4.50 (-10%, was $5.00)
+Genres: Action
+Link: https://store.steampowered.com/app/5545050
+==================================================
+
+==================================================
+Name: Deep Clean
+Release Date: Nov 27, 2026
+Price: $7.19 (-10%, was $7.99)
+Genres: Action, Adventure, Indie
+Link: https://store.steampowered.com/app/5568040
+==================================================
+
+==================================================
+Name: NODEROID
+Release Date: Nov 27, 2026
+Price: $5.99
+Genres: Indie, RPG
+Link: https://store.steampowered.com/app/5032180
+==================================================
+
+==================================================
+Name: 孤狼之春
+Release Date: Nov 27, 2026
+Price: $1.79 (-40%, was $2.99)
+Genres: Indie
+Link: https://store.steampowered.com/app/4213770
+==================================================
+
+==================================================
+Name: Fished Out
+Release Date: Nov 27, 2026
+Price: $7.99 (-20%, was $9.99)
+Genres: Adventure, Casual, Indie, Sports
+Link: https://store.steampowered.com/app/5559520
+==================================================
+
+==================================================
+Name: 魔塔-织梦
+Release Date: Nov 27, 2026
+Price: $3.99 (-20%, was $4.99)
+Genres: Adventure, Indie, RPG, Strategy
+Link: https://store.steampowered.com/app/5489160
+==================================================
+
+==================================================
+Name: LEARN CHINESE WITH 1000 PRINCES
+Release Date: Nov 27, 2026
+Price: Free to Play
+Genres: Casual, Indie, Free To Play
+Link: https://store.steampowered.com/app/5344130
+==================================================
+
+==================================================
+Name: Spreadcube
+Release Date: Nov 27, 2026
+Price: $8.99 (-10%, was $9.99)
+Genres: Utilities
+Link: https://store.steampowered.com/app/5530840
+==================================================
+
+==================================================
+Name: 勇闯华强北
+Release Date: Nov 27, 2026
+Price: $3.39 (-15%, was $3.99)
+Genres: Casual, Indie, Simulation
+Link: https://store.steampowered.com/app/4199600
+==================================================
+
